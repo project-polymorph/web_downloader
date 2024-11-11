@@ -1,0 +1,1383 @@
+{
+  "query": "性别表达障碍",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-04T00:36:07.776888",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "性别表达障碍",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "性别不一致- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E6%80%A7%E5%88%A5%E4%B8%8D%E4%B8%80%E8%87%B4",
+          "snippet": "性别不一致（英语：gender incongruence）的特点是个人认同的性别与天生的性别之间存在显著且持续的不一致。其在DSM-5中对应为性别不安（英语：gender dysphoria）。",
+          "position": 1
+        },
+        {
+          "title": "性别不一致和性别焦虑症 - 默沙东诊疗手册",
+          "link": "https://www.msdmanuals.cn/home/mental-health-disorders/gender-incongruence-and-gender-dysphoria/gender-incongruence-and-gender-dysphoria",
+          "snippet": "性别不一致是指一个人的性身份与基于出生时性别所期望性身份不一致的明显而持续的经历。当性别不一致的人经历与性别不一致相关的严重心理痛苦（如抑郁或焦虑）或功能损害 ...",
+          "position": 2
+        },
+        {
+          "title": "性别认同- 《默沙东诊疗手册大众版》",
+          "link": "https://www.msdmanuals.cn/home/mental-health-disorders/gender-incongruence-and-gender-dysphoria/gender-identity",
+          "snippet": "性别多样化身份是人类性身份和表达的正常变体；它不被视为精神健康障碍。一些跨性别者在日常活动中经历严重的情绪困扰或困难，他们应该去看医疗保健专业人员，以评估 ...",
+          "position": 3
+        },
+        {
+          "title": "性别焦虑症- 诊断与治疗- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/diseases-conditions/gender-dysphoria/diagnosis-treatment/drc-20475262",
+          "snippet": "有些青少年可能会向父母或医务人员表达他们的性别焦虑感受。而其他青少年可能会出现心境障碍、焦虑或抑郁症的症状，或者出现社交问题或学业问题。 Our ...",
+          "date": "2024年5月14日",
+          "position": 4
+        },
+        {
+          "title": "世卫组织将性别认同障碍从精神疾患分类中移除 - UN News",
+          "link": "https://news.un.org/zh/story/2019/05/1035391",
+          "snippet": "世界卫生组织于5月25日通过了对《国际疾病分类》的第11次修订，将“性别认同障碍”从精神障碍的分类中移除，更名为“性别不一致”，并重新归入“性健康”一栏。",
+          "date": "2019年5月30日",
+          "position": 5
+        },
+        {
+          "title": "性别焦虑症- 症状与病因- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/diseases-conditions/gender-dysphoria/symptoms-causes/syc-20475255",
+          "snippet": "性别焦虑是指因个人的性别认同与其出生时被赋予的性别或身体性别特征不同而感到不适或困扰。 跨性别者或多元性别者可能会在人生中的某个时期出现性别焦虑 ...",
+          "date": "2024年5月14日",
+          "position": 6
+        },
+        {
+          "title": "性别不安_百度百科",
+          "link": "https://baike.baidu.com/item/%E6%80%A7%E5%88%AB%E4%B8%8D%E5%AE%89/54417305",
+          "snippet": "性别不安（gender dysphoria，GD）又被称为性别焦虑，是一种因被指派性别（及其相关性别角色或第一/二性征）与性别认同的不同引起的不适和痛苦的感受。",
+          "position": 7
+        },
+        {
+          "title": "“生而无罪，你不需要抱歉”|性别认同：“顺”或“跨”都不该被轻易定义",
+          "link": "https://xinli.swjtu.edu.cn/info/1065/5833.htm",
+          "snippet": "性别表达不符合社会预期的人，比如被视为“女性化”的男性和被视为“男性化”的女性，常常受到人身、性和心理暴力以及欺凌等。",
+          "date": "2021年10月13日",
+          "position": 8
+        },
+        {
+          "title": "性别认知障碍和跨性别如何区分?这三大区别很明显 - 智择优",
+          "link": "http://m.zhizeu.com/education/psychological/2023030314337/",
+          "snippet": "1、性别认知障碍：指的是一种心理障碍，患者无法确定自己的性别，或者自己的性别认同和性别表现与实际的生理性别不一致。 2、跨性别：指的是一种性别表达方式， ...",
+          "date": "2023年3月3日",
+          "position": 9
+        },
+        {
+          "title": "性别扭转治疗：一个跨性别女孩的残酷“成年礼” - QQ News",
+          "link": "https://news.qq.com/rain/a/20200722A057D800",
+          "snippet": "在28454份有效问卷中，超过一半的性少数受访者表示他们曾由于自己的性倾向、性别认同或性别表达而被家人不公平对待或歧视。《2017中国跨性别群体生存 ...",
+          "date": "2020年7月22日",
+          "position": 10
+        },
+        {
+          "title": "科普| 同性恋？对自己生理性别不认同？怎么才算“病”？ - 北京安定医院",
+          "link": "https://bjad.54doctor.net/Html/News/Articles/2793.html",
+          "snippet": "A 上述情况可能是孩子对自己的生理性别不认同，原称“性别认同障碍”，在精神障碍诊断与统计手册第五版（DSM-5）当中被更名为“性别烦躁”。性别 ... 崔思鹏医生表示，性格 ...",
+          "position": 11
+        },
+        {
+          "title": "“病态化——成为男女同性恋、双性恋和/或跨性别者不是疾病” 致国际 ...",
+          "link": "https://www.ohchr.org/zh/press-releases/2016/05/pathologization-being-lesbian-gay-bisexual-andor-trans-not-illness",
+          "snippet": "性别认同和表达的病态化以及具有贬斥性质的医学分类正被作为借口，使跨性别者——甚至在幼年时——就在强制或胁迫下接受绝育、荷尔蒙疗法、手术和精神病评估，并 ...",
+          "date": "2016年5月12日",
+          "position": 12
+        },
+        {
+          "title": "具有性别发展差异（DSD）的青少年和成年人中的性别认同障碍（GID）",
+          "link": "https://www.x-mol.com/paper/1326951269182644224/t",
+          "snippet": "具有性发育差异（DSD）的天生婴儿的性别分配仍然是多学科治疗小组面临的许多困难决定之一，因为其中一些儿童成年后会出现性别认同障碍（GID）。在这项系统的回顾和荟萃分析中， ...",
+          "position": 13
+        },
+        {
+          "title": "[PDF] 跨儿的性别困惑与身份认同 - ACHPPI 国际华人心理与援助专业协会",
+          "link": "https://achppi.org/wp-content/uploads/2020/07/%E8%B7%A8%E5%84%BF%E7%9A%84%E6%80%A7%E5%88%AB%E5%9B%B0%E6%83%91%E4%B8%8E%E8%BA%AB%E4%BB%BD%E8%AE%A4%E5%90%8C.pdf",
+          "snippet": "）》，将跨性别的性别认同和性别表达从精神疾病与心理障碍. 中全部删除，同时在“性健康相关状况”章节中增加了“性别不一致”. 的编码，从而让跨儿能够以此获得激素、手术等医疗 ...",
+          "position": 14
+        },
+        {
+          "title": "童年性身份障碍-学生处 - 重庆三峡职业学院",
+          "link": "http://www.cqsxedu.com/xsc/info/1015/1264.htm",
+          "snippet": "15岁以下未成年人持续对自己的性别感到痛苦，渴望成为异性或坚持自己属于异性成员的病症。属性心理障碍中性身份障碍的一种类型。通常发生于儿童早期，在 ...",
+          "date": "2012年10月22日",
+          "position": 15
+        },
+        {
+          "title": "孩子深受“性别认同障碍”困惑美华人家长难接受 - 中国新闻网",
+          "link": "https://www.chinanews.com.cn/hr/2013/09-03/5237060.shtml",
+          "snippet": "根据维基百科，性别认同障碍是指一个人在心理上无法认同与生俱来的性别，相信自己应该属于另一种性别。精神医学上认为性别认同障碍可用来解释与变性、跨性别 ...",
+          "date": "2013年9月3日",
+          "position": 16
+        },
+        {
+          "title": "性身份识别障碍_百度百科",
+          "link": "https://baike.baidu.com/item/%E6%80%A7%E8%BA%AB%E4%BB%BD%E8%AF%86%E5%88%AB%E9%9A%9C%E7%A2%8D/1898293",
+          "snippet": "性身份识别障碍特征表现为强烈而持久的异性认同，对个体的解剖（指定）性别持续不满或对个体性别角色表示厌恶。 内心性身份是个体对自己性别属性的主观感受， ...",
+          "position": 17
+        },
+        {
+          "title": "性别认同- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E6%80%A7%E5%88%A5%E8%AA%8D%E5%90%8C",
+          "snippet": "性别认同（英语：Gender identity）是一个人对自己性别的个人认知定位。 ... 性别认同可以与一个人出生时的指定性别相关，也可以与之不同。 ... 性别表现通常反映一个人的性别认同， ...",
+          "position": 18
+        },
+        {
+          "title": "跨性别者和多元性别者的斗争 - ohchr",
+          "link": "https://www.ohchr.org/zh/special-procedures/ie-sexual-orientation-and-gender-identity/struggle-trans-and-gender-diverse-persons",
+          "snippet": "... 表达）不符合某一特定时间和背景下的性别规范，包括不将自己的性别认知置于男性／女性的性别二元对立中；更具体的术语“跨性别者”是指性别认同与其出生时被指派性别不同 ...",
+          "position": 19
+        },
+        {
+          "title": "[PDF] 解答你的问题- 关于跨性别者",
+          "link": "https://www.apa.org/topics/lgbtq/chinese-simplified-transgender.pdf",
+          "snippet": "有些精神健康专业人士. 和跨性别者，对「性别认同障碍」这一诊断提. 出强烈 ... 大多数美国城市和州份的反歧视法，并不保护. 因为性别认同或性别表达而遭受歧视的跨性别.",
+          "position": 20
+        },
+        {
+          "title": "[PDF] “性别不一致”去精神病化的思考",
+          "link": "https://cnlgbtdata.com/files/uploads/2023/01/%E6%80%A7%E5%88%AB%E4%B8%8D%E4%B8%80%E8%87%B4%E5%8E%BB%E7%B2%BE%E7%A5%9E%E7%97%85%E5%8C%96%E7%9A%84%E6%80%9D%E8%80%83.pdf",
+          "snippet": "但是我们以往对性别的角色分类完全是基于生. 物学性别，在这种有限的认知下，与生物学性别不符的. 性别表达就被归类于“性别角色异化”，甚至被认为是一. 种角色适应障碍［6］。",
+          "position": 21
+        },
+        {
+          "title": "[PDF] 性别意识障碍",
+          "link": "https://admin.cmf.org.uk/pdf/cmffiles/chinese/cmf_files_25_chinese.pdf",
+          "snippet": "性别认同障碍列入世界卫生. 组织的国际疾病分类（第10. 版）中，虽然法院并没有提 ... 是，它为性的表达和生育提. 供了一个天然的避风港，也. 是抚养孩子最可靠的基础 ...",
+          "position": 22
+        },
+        {
+          "title": "[PDF] 不列颠哥伦比亚省的人权: 基于性别认同和性别表达的歧视 - Gov.bc.ca",
+          "link": "https://www2.gov.bc.ca/assets/gov/law-crime-and-justice/human-rights/human-rights-protection/chinese-simplified-gender-id.pdf",
+          "snippet": "例如，如果一个人的性别认同是男性，那么. 只有在他的行为、着装和/或行为举止中通常. 表现出男性特征时，他的性别表达才是男性。 ... TTY（听力障碍人士专线）：604 775-2021.",
+          "position": 23
+        },
+        {
+          "title": "[PDF] 中文包容性语言指南 - WIPO",
+          "link": "https://www.wipo.int/documents/d/gender/wipo-guidelines-inclusive-language.pdf-5",
+          "snippet": "实现包容性社会的众多工具之一是语言，因为与社. 会各层面发展背后的理念同样重要的是表达和传播这些理念的方式。 社会上众多不同群体的权利都体现在一系列联合国人权公约中 ...",
+          "position": 24
+        },
+        {
+          "title": "易性症对自身性别的认定与解剖生理上的性别特征呈逆反心理",
+          "link": "https://ccdas.pmphai.com/jeesitede/appcase/toPcDetail?sessionId=&knowledgeLibPrefix=case&id=12719",
+          "snippet": "性身份障碍是指长期对自己的生理性别有强烈的厌恶和排斥感，同时具有强烈的转变性别的心理要求和实际行为，其主要类型为易性症。 易性症对自身性别的认定与解剖生理上的 ...",
+          "position": 25
+        },
+        {
+          "title": "联合国艾滋病规划署对匈牙利拟议改变《登记法》、只承认“出生性别 ...",
+          "link": "https://news.un.org/zh/story/2020/05/1056912",
+          "snippet": "艾滋病规划署表示，2016年联合国大会《关于终止艾滋病的高级别政治宣言》认识到，有关性别的立法歧视会给人们的健康和福祉造成障碍，各国政府已承诺消除这些 ...",
+          "date": "2020年5月8日",
+          "position": 26
+        },
+        {
+          "title": "[PDF] 语言障碍儿童性别差异的原因及干预手段",
+          "link": "https://www.educ-res.com/index.php/er/article/view/4259/4083",
+          "snippet": "乱,表现为发音,语言理解,或语言表达. 能力发育延迟和异常,这种言语异常影. 响学习 ... 发展性阅读障碍出现的性别差异要. 少于自闭症患者,但是都一致的认为男性. 阅读 ...",
+          "position": 27
+        },
+        {
+          "title": "工作手册第4篇| 跨性别是精神疾病与心理障碍吗？",
+          "link": "https://kuaerxinli.org/%E5%B7%A5%E4%BD%9C%E6%89%8B%E5%86%8C/1717",
+          "snippet": "只有当一种心理状态造成严重的痛苦或残疾时，才算是精神障碍。 · ——美国心理学会《关于跨性别者，性别认同及性别表达》 ·……目前有清晰的证据表明性别不一致 ...",
+          "date": "2022年8月1日",
+          "position": 28
+        },
+        {
+          "title": "基于社会发展视角的情绪表达性别差异研究Gender Differences in ...",
+          "link": "https://image.hanspub.org/Html/18-1130898_19993.htm",
+          "snippet": "本文章阐述了儿童在情绪表达的性别差异的生物–心理–社会的发展模型。以发展的角度，解释了性别 ... 这些心理障碍具有更高水平的内化的负性情绪，例如悲伤、 ...",
+          "date": "2017年3月27日",
+          "position": 29
+        },
+        {
+          "title": "[PDF] 性/别手册学生版 - 中央大学",
+          "link": "https://www.chuo-u.ac.jp/uploads/2024/03/campuslife_diversity_gs_book_06.pdf?1711756800105",
+          "snippet": "* 本手册的“性/别”包含了多元、流动的性取向等性的表达方式和性别认同等的意思。 ... 此外，关于性别违和的相关问题，在中央大学的《应对具有性别违和或性别同一性. 障碍 ...",
+          "position": 30
+        },
+        {
+          "title": "非随意性情绪表达障碍的研究现状- 中华神经科杂志",
+          "link": "https://rs.yiigle.com/cmaid/61246",
+          "snippet": "非随意性情绪表达障碍（involuntary emotional expression disorder，IEED）是指无法随意控制的哭和（或）笑现象［1］。 ... 这些混乱和冲突的术语在一定程度上反映了目前对该领域的 ...",
+          "position": 31
+        },
+        {
+          "title": "性别认同障碍 - 搜狗百科",
+          "link": "https://baike.sogou.com/v9507073.htm",
+          "snippet": "正常儿童3岁左右即可识别自己的性别，随后知道性别是跨时间稳定的，喜欢与同性幼儿一起玩，自然而然地遵从着内在的性角色要求，表现出行为上的性别差异，男孩通常表达出男性 ...",
+          "position": 32
+        },
+        {
+          "title": "性同一性障碍- 抖音百科 - Baike.com",
+          "link": "https://m.baike.com/wikiid/7412011057428903343",
+          "snippet": "性同一性障碍的正确翻译为性别认同障碍(disorder of gender identity），又称性别认同或性识别障碍 ... 表示，往往也受到周围人的指责和歧视，有的是在生活中遇到障碍和困难，想 ...",
+          "position": 33
+        },
+        {
+          "title": "探究学习障碍帮助孩子“脱困” - 中国教育报",
+          "link": "http://www.jyb.cn/rmtzgjyb/202211/t20221113_2110969677.html",
+          "snippet": "书写表达障碍是指在写字、写作等书写语文能力标准化测验或功能性评估中，其表现显著低于其年龄、智力与该年级学校教育所预期的程度，并严重影响了其学业成就 ...",
+          "date": "2022年11月13日",
+          "position": 34
+        },
+        {
+          "title": "[PDF] 精神障碍诊疗规范 - 国家卫生健康委员会",
+          "link": "http://www.nhc.gov.cn/yzygj/s7653p/202012/a1c4397dbf504e1393b3d2f6c263d782/files/9944cdd142574ea59c541d552fe345a9.pdf",
+          "snippet": "以渐进性语言表达障碍为主要特征，临床表现为说. 话慢且费劲、不流畅、言语失用 ... 焦虑障碍有性别差异，女性患者是男性的2 倍。随着人口老龄. 化，老年人的焦虑 ...",
+          "position": 35
+        },
+        {
+          "title": "抑郁障碍（抑郁症）",
+          "link": "https://www.who.int/zh/news-room/fact-sheets/detail/depression",
+          "snippet": "症状和类型 · 单次发作的抑郁障碍，意指病人第一次也是唯一一次发作； · 复发性抑郁障碍，这意味着病人有至少两次抑郁发作史；以及 · 双相情感障碍，意味着抑郁 ...",
+          "date": "2023年3月31日",
+          "position": 36
+        },
+        {
+          "title": "发展性语言障碍和孤独症的区别 - DLD and Me",
+          "link": "https://dldandme.org/%E5%8F%91%E5%B1%95%E6%80%A7%E8%AF%AD%E8%A8%80%E9%9A%9C%E7%A2%8D%E5%92%8C%E5%AD%A4%E7%8B%AC%E7%97%87%E7%9A%84%E5%8C%BA%E5%88%AB/",
+          "snippet": "患有发展性语言障碍的个体与患有孤独症的个体一样，在社交方面存在困难。在发展性语言障碍中，这些困难主要涉及表达自己的思想和理解他人的话语，而在孤独症 ...",
+          "date": "2023年10月19日",
+          "position": 37
+        },
+        {
+          "title": "[PDF] 特殊教育服务的家庭指南",
+          "link": "https://www.mdek12.org/sites/default/files/mde_vol7_familyspedguide_languageandspeech_022222_updated_zho-cn_0.pdf",
+          "snippet": "言语障碍包括发音、流畅性和/或声音方面的障碍。语言障碍包括接受、传达 ... 注：在表达性语言和/或接受性语言领域，包括词法、句法、语义和/或语用，分数必须 ...",
+          "position": 38
+        },
+        {
+          "title": "探秘述情障碍：情感背后的迷雾 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_28048189",
+          "snippet": "治疗依从性差：述情障碍可能影响个体对心理治疗的依从性。由于难以识别和表达情感，个体可能难以理解治疗师的建议，从而导致治疗依从性差。 述情障碍不仅影响 ...",
+          "date": "2024年7月12日",
+          "position": 39
+        },
+        {
+          "title": "家庭养育环境对发育性语言障碍儿童语言发育和社会情绪的影响",
+          "link": "http://www.zgddek.com/CN/abstract/html/2017-5-555.htm",
+          "snippet": "发育性语言障碍(developmental language disorder, DLD)，又称特发性语言障碍，指语言的发育水平明显落后于同年龄儿童的发育水平，除语言发育障碍外，其他方面的发育正常，语言 ...",
+          "position": 40
+        },
+        {
+          "title": "[PDF] 精神障碍社区康复服务与管理规范",
+          "link": "https://scjgj.beijing.gov.cn/hdjl/myzj/bzzxdyjzj/202209/P020220927558716849513.pdf",
+          "snippet": "... 性吸引精神障碍患者积极参与； c) 保证运动时间，养成自觉运动习惯。 生活技能 ... 通过社交训练课程，训练内容包括但不限于： a) 基本技能（如倾听、表达积极的 ...",
+          "position": 41
+        },
+        {
+          "title": "[PDF] 精神障碍者民事行为能力评定指南 - 中华人民共和国司法部",
+          "link": "https://www.moj.gov.cn/pub/sfbgw/zwfw/zwfwbgxz/202101/1565870404100004992.pdf",
+          "snippet": "5.2.1 被鉴定人明确表示不同意鉴定，或不配合鉴定检查；. 5.2.2 监护人明确表示不同意鉴定，并取得委托人认可；. 5.2.3 回顾性评定中，由于资料不全或当事双方 ...",
+          "date": "2019年1月1日",
+          "position": 42
+        },
+        {
+          "title": "[PDF] 述情障碍成因的认知及社会机制 - 心理学报",
+          "link": "https://journal.psych.ac.cn/xlkxjz/CN/article/downloadArticleFile.do?attachType=PDF&id=488",
+          "snippet": "他们认为这是性别社会化作用的结. 果, 男孩出生之初比女孩有更多的情绪反应和表. 现, 但他们在2 岁左右开始更少用语言表达情绪,. 在6 岁时表现出更少的面部表情。这可能 ...",
+          "position": 43
+        },
+        {
+          "title": "人工智能与儿童语言障碍诊疗融合共进 - 中国社会科学网",
+          "link": "https://www.cssn.cn/skrmt/skrmt_skws/202209/t20220909_5492205.shtml",
+          "snippet": "在临床意义上，广义的儿童语言障碍既包括《世界卫生组织国际疾病分类第十一次修订本（ICD-11）》所定义的人工智能“发育性语言障碍”，也包括智力缺陷、听力障碍 ...",
+          "date": "2022年9月9日",
+          "position": 44
+        },
+        {
+          "title": "特定学习障碍",
+          "link": "https://rs.yiigle.com/CN2021/861346.htm",
+          "snippet": "不同语言和文化的学龄儿童中SLD患病率为5%～15%，成人估计约为4%，男女比率为2∶1～3∶1。其中最常见的是阅读障碍，约占80%。美国学龄儿童阅读障碍的患病率为2%～ ...",
+          "date": "2015年6月5日",
+          "position": 45
+        },
+        {
+          "title": "[PDF] 儿童发展障碍系列之发展性语言障碍",
+          "link": "https://www.dhcas.gov.hk/file/Short_Factsheets/Chi_Sim_PDF/DLD-SC-17mar-op.pdf",
+          "snippet": "患有发展性语言障碍的儿童比一般儿童较迟说出第一个单字。他. 们在理解问题和复杂句子上会出现困难。表达方面,他们倾向用. 短而简单的句子。到学龄阶段,他们难以复述 ...",
+          "position": 46
+        },
+        {
+          "title": "语言障碍",
+          "link": "https://www.aboutkidshealth.ca/zh-Hans/speech-problems-zh-hans",
+          "snippet": "摇头表达\"不\"; 摆手再见; 发出一些貌似词语的声音; 模仿大人的声音. 12 – 18 个 ... 听力疾病或永久性听力障碍的孩子可能需要特殊教育。存在发音障碍如口齿不清或口吃 ...",
+          "position": 47
+        },
+        {
+          "title": "[PDF] 发展性语言障碍(DLD) 是指在口语学习 - RADLD",
+          "link": "https://radld.org/wp-content/uploads/2019/04/DLD-Fact-Sheet-V2_simplified-chinese.pdf",
+          "snippet": "... 表达障碍、特殊语言. 障碍、言语及语言障碍及语言发展迟缓等等。最近英语国家的专业人士经讨论后(Bishop et al.,. 2016, 2017)，决定将这个障碍称为发展性语言障碍。 你 ...",
+          "position": 48
+        },
+        {
+          "title": "认识书写障碍 - 北京师范大学认知神经科学与学习国家重点实验室",
+          "link": "https://brain.bnu.edu.cn/shfw/kpxx/ecf4d6c7735045d899e2b5fea4f2fe03.htm",
+          "snippet": "书写障碍与阅读障碍同属学习障碍，都是脑神经发育不良导致的学习方面的障碍，但阅读障碍主要影响阅读，而书写障碍主要影响孩子的书面表达。 ... 性方面存在差异，如图3所示。",
+          "position": 49
+        },
+        {
+          "title": "我国学者在代谢功能障碍相关脂肪性肝炎治疗研究方面取得进展",
+          "link": "https://www.nsfc.gov.cn/publish/portal0/tab434/info93614.htm",
+          "snippet": "... 表达以调控其酮体代谢，抑制干扰素调节因子（interferon regulatory factor 4，IRF4）的表达及其核内转移，进而影响CD8+ T细胞的功能，从而延缓MASH疾病进程。",
+          "date": "2024年9月27日",
+          "position": 50
+        },
+        {
+          "title": "性别认同障碍：男女之间，我是第三种性别 - 壹心理",
+          "link": "https://m.xinli001.com/info/100463205",
+          "snippet": "然而，有另外一部分的人，他们的生理性别可能是男性或者女性，然而他们的大脑却一直认为他们是相反的性别，或者什么性别都不是，或者什么性别都是，这样的人群 ...",
+          "date": "2020年8月1日",
+          "position": 51
+        },
+        {
+          "title": "香港理工大学盛欐教授谈汉语发展性语言障碍",
+          "link": "https://clal.gdufs.edu.cn/info/1034/6146.htm",
+          "snippet": "她指出，发展性语言障碍的表现形式多样、发病率高，对患者的生产生活产生了不利影响。她同时强调，相较于其他神经发育障碍，发展性语言障碍受到的关注度还远远 ...",
+          "date": "2024年6月3日",
+          "position": 52
+        },
+        {
+          "title": "述情障碍研究现状综述 - 汉斯出版社",
+          "link": "https://www.hanspub.org/journal/paperinformation?paperid=40097",
+          "snippet": "... 表达性心理疗法、认知行为疗法以及行为技能训练是述情障碍的主要治疗与干预方法，本文采用文献调查法，主要回顾了述情障碍的概念、测量、成因、消极影响以及治疗与干预 ...",
+          "position": 53
+        },
+        {
+          "title": "营造无障碍宜居生活环境——《建筑与市政工程无障碍通用规范》解读",
+          "link": "https://www.gov.cn/zhengce/2022-04/07/content_5683816.htm",
+          "snippet": "如果违反强制性工程规范，将依法作出严肃处理。”王玮表示，接下来相关部门将做好无障碍设施建设各项标准的协调衔接，同时加快推进标准国际化进程，最大限度 ...",
+          "date": "2022年4月7日",
+          "position": 54
+        },
+        {
+          "title": "发现语言和阅读障碍的遗传原因 - Illumina",
+          "link": "https://www.illumina.com.cn/science/customer-stories/icommunity-customer-interviews-case-studies/grigorenko-yale-inerview-genetic-variants.html",
+          "snippet": "语言障碍包括以下方面的困难：言语或书写；理解含义、语法或句法；阅读和拼写。由于许多此类疾病具有家族聚集性，因此科学家们长期以来一直认为遗传因素在语言障碍的发生中起着 ...",
+          "position": 55
+        },
+        {
+          "title": "[PDF] 男同性恋、双性恋、变性人、间性人和酷儿(LGBTIQ+)",
+          "link": "https://emergency.unhcr.org/zh-hans/print/pdf/node/578",
+          "snippet": "概述. 1. 在许多社会中，因为其性取向、性别认同、性别表达和/或性特征（SOGIESC）不符合占主导地位的社. 会和文化性别规范，女同性恋、男同性恋、双性 ...",
+          "date": "2024年1月29日",
+          "position": 56
+        },
+        {
+          "title": "沟通干预对患有自闭症谱系障碍的儿童是否有效? - Cochrane",
+          "link": "https://www.cochrane.org/zh-hans/CD012324/BEHAV_gou-tong-gan-yu-dui-huan-you-zi-bi-zheng-pu-xi-zhang-ai-de-er-tong-shi-fou-you-xiao",
+          "snippet": "在一项以语言为基础的干预研究中，干预后的表达性语言没有显著的提高，但在研究开始时表达性语言较低的儿童比在基线时表达性语言较好的儿童进步更多。",
+          "date": "2018年11月5日",
+          "position": 57
+        },
+        {
+          "title": "什么是无障碍？ - 学习Web 开发| MDN",
+          "link": "https://developer.mozilla.org/zh-CN/docs/Learn/Accessibility/What_is_accessibility",
+          "snippet": "MathML——使用MathML 语言撰写数学表达式; MathML ... 首先，W3C 发布了一个庞大而详细的文档，其中包含了非常精确的、与技术无关的无障碍一致性标准。",
+          "date": "2024年7月26日",
+          "position": 58
+        },
+        {
+          "title": "成人间歇性暴怒障碍 - 上海和睦家医院|",
+          "link": "https://shanghai.ufh.com.cn/9995/health-information/articles/%E6%88%90%E4%BA%BA%E9%97%B4%E6%AD%87%E6%80%A7%E6%9A%B4%E6%80%92%E9%9A%9C%E7%A2%8D",
+          "snippet": "有证据表明，大脑中的5 -羟色胺能系统存在失衡，一些大脑结构(杏仁核)过度参与了情绪处理，而通常控制这些情绪冲动的大脑高级区域活动不足。据认为，攻击行为的遗传因素占50%。",
+          "position": 59
+        },
+        {
+          "title": "Gender identity and gender expression (brochure)",
+          "link": "https://www3.ohrc.on.ca/zh-hans/%E6%80%A7%E5%88%AB%E8%AE%A4%E5%AE%9A",
+          "snippet": "法案依据「性别」的相关决定，对因性别认定原因而遭遇歧视、骚扰的人士提供法律保护。这包括变性人、跨性人、间性人、易装者以及性别认定或表达与其出生性别有异或看似有 ...",
+          "position": 60
+        },
+        {
+          "title": "生活与健康】这是件难以启齿的事儿吗？关注中老年女性性功能障碍",
+          "link": "https://www.xhhos.com/news/details/4/23/70464",
+          "snippet": "女性性功能障碍(FSD)，指女性个体不能参与其所期望的性行为，且在性行为过程中不能得到或难于得到满足。分为性欲减退障碍、性唤起障碍、性高潮障碍、性交 ...",
+          "date": "2019年3月21日",
+          "position": 61
+        },
+        {
+          "title": "儿科专家王波谈儿童语言障碍-腾讯新闻 - QQ News",
+          "link": "https://news.qq.com/rain/a/20220705A03EUS00",
+          "snippet": "一、运动性失语症. 主要表现为说话费力、不流利，语量稀少、说话呈电报式，只能表达基本意思。 · 二、感觉性失语症. 表现为听不懂其他人讲话，自己有时会胡言 ...",
+          "date": "2022年7月5日",
+          "position": 62
+        },
+        {
+          "title": "男女沟通风格差异 - 搜狐",
+          "link": "https://www.sohu.com/a/211583979_99937020",
+          "snippet": "男女因使用不同的语言而老是误解对方，甚至当他们说相同的语言可能也会表达不同的意思，男女的沟通风格存在很大差异，有时甚至会导致严重的沟通困境和障碍。",
+          "date": "2017年12月19日",
+          "position": 63
+        },
+        {
+          "title": "什么是孤独症？孤独症跟自闭症有什么区别？",
+          "link": "https://m.autism.com.cn/jlsdt/234.html",
+          "snippet": "《DSM-IV-TR》将PDD分为5种：孤独性障碍、Retts综合征、童年瓦解性障碍、阿斯伯格综合征和未特定的PDD。其中，孤独性障碍与阿斯伯格综合征较为常见。孤独症 ...",
+          "date": "2020年11月17日",
+          "position": 64
+        },
+        {
+          "title": "低语言儿童自闭症障碍的沟通干预- Brignell, A - Cochrane Library",
+          "link": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012324.pub2/abstract/zh_HANS",
+          "snippet": "据估计，自闭症谱系障碍(ASD)的患病率约为1.7%。患有自闭症的人通常也有语言障碍，大约有25%到30%的自闭症儿童要么不能发展功能性语言，要么就是语言能力 ...",
+          "date": "2018年11月5日",
+          "position": 65
+        },
+        {
+          "title": "精神障碍患者的居家护理——重性精神疾病篇 - 宁国市人民政府",
+          "link": "https://www.ningguo.gov.cn/OpennessContent/show/2102007.html",
+          "snippet": "如果遇到患病家人情绪波动，哭闹、烦躁，需冷静对待，保证其自身安全的情况下允许TA宣泄情绪，待其情绪稳定后尽可能表达自己对TA的关心与爱护，可以给予拥抱等 ...",
+          "date": "2021年3月18日",
+          "position": 66
+        },
+        {
+          "title": "异味癖：一种性偏好障碍及其对个人生活的影响 - JD.com",
+          "link": "https://www.jd.com/pccontent/1004004528971810",
+          "snippet": "异味癖：一种性偏好障碍及其对个人生活的影响 ... 异味癖被认为是一种性偏好障碍，它指的是个体在性兴奋、性满足或性表达过程中，对某些特定的对象、活动或类型的人有过度的兴趣 ...",
+          "position": 67
+        },
+        {
+          "title": "性功能障碍症状_病因_治疗方法 - 丁香医生",
+          "link": "https://dxy.com/disease/29739/detail",
+          "snippet": "男性性功能障碍，具体可表现为性欲低下、勃起功能障碍、早泄、不射精、逆行射精等。女性性功能障碍，具体可表现为性欲低下、性唤起障碍、性高潮障碍、性交疼痛等，其中性欲 ...",
+          "position": 68
+        },
+        {
+          "title": "清华科技赋能，无障碍生活触手可及",
+          "link": "https://www.adi.tsinghua.edu.cn/info/sy_sylbt/21268",
+          "snippet": "通过脑机绘梦系统，患者能够通过艺术创作来表达和沟通自己的情感世界 ... 尽管科技创新在无障碍与包容性设计领域取得了显著成果，但在推广和应用 ...",
+          "date": "2024年5月17日",
+          "position": 69
+        },
+        {
+          "title": "ADHD：女孩患者为何经常被忽视？ - BBC 英伦网",
+          "link": "https://www.bbc.com/ukchina/simp/vert-fut-48964645",
+          "snippet": "注意力缺陷多动症是一种神经发育失调症，分为三种类型：注意力缺陷型、过动/冲动控制障碍型、前两者症状皆有的混合型。 ... 性别的确诊率不同可以用 ...",
+          "date": "2019年7月12日",
+          "position": 70
+        },
+        {
+          "title": "成人创伤后应激障碍的流行病学、病理生理学、临床表现、病程",
+          "link": "https://www.uptodate.com/contents/zh-Hans/posttraumatic-stress-disorder-in-adults-epidemiology-pathophysiology-clinical-features-assessment-and-diagnosis/print",
+          "snippet": "1.有关创伤事件的反复、非自愿和闯入性痛苦记忆。 注：6岁以上的儿童可能通过反复进行关于创伤事件主题或某方面内容的游戏来表达。 • ...",
+          "position": 71
+        },
+        {
+          "title": "再生障碍性贫血发病机制的研究进展- PMC",
+          "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7342439/",
+          "snippet": "CTL中TRAIL的表达与穿孔素和颗粒酶B的表达呈负相关，与SAA患者CTL凋亡也呈负相关。TRAIL途径是SAA患者异常CTL活化的原因[7]。 （2）CD4+ T细胞、Th17细胞：Th1和 ...",
+          "position": 72
+        },
+        {
+          "title": "双相情感障碍Bipolar disorder in Chinese",
+          "link": "https://www.rcpsych.ac.uk/mental-health/translations/chinese/bipolar-disorder",
+          "snippet": "快速循环性双相障碍. 患者在12个月内经历四次或更多次的障碍发作。快速循环有可能 ... 如果他们不能用语言表达痛苦，学步阶段的儿童可能会变得难以照顾或粘人。大 ...",
+          "position": 73
+        },
+        {
+          "title": "[PDF] 非语义性命名障碍",
+          "link": "https://faculty.ecnu.edu.cn/_upload/article/files/db/2b/c6497b87406cbba204e82c2be105/defd88fd-7923-4fb9-adb0-2a0c10bea267.pdf",
+          "snippet": "说话的意图和想表达的概念中间的过程则是言语组织. ，. 即把要表达的概念转换为语. 言学形式最后一个过程是发音. ，. 涉及到更为具体的语音和发音的计划 。 言语组织主要 ...",
+          "position": 74
+        },
+        {
+          "title": "学习一篇心理学科普文章：十种人格障碍｜知音心理",
+          "link": "https://qfgc.ahau.edu.cn/info/1055/4029.htm",
+          "snippet": "人格的异常妨碍了他们的情感和意志活动，破坏了其行为的目的性和统一性，给人以与众不同的特异感觉，在待人接物方面表现尤为突出。人格障碍通常开始于童年、青少年或成年早期， ...",
+          "position": 75
+        },
+        {
+          "title": "跨儿心理工作手册 - 跨性别在线·文档库",
+          "link": "https://docs.transonline.org.cn/kexl-work",
+          "snippet": "2013年发布的美国精神医学学会《精神疾病诊断与统计手册第5版（DSM-5）》中，将跨性别的认同和表达描述为“性别不安（Gender dysphoria）“、”异装障碍（Transvestic disorder）”。",
+          "position": 76
+        },
+        {
+          "title": "临床医生应如何应对会加剧卫生不平等性的语言障碍？",
+          "link": "https://journalofethics.ama-assn.org/article/linchuangyishengyingruheyingduihuijiajuweishengbupingdengxingdeyuyanzhangai/2021-02",
+          "snippet": "LEP 患者既会经历“分配不公”（即由于获得医疗服务的机会减少而导致健康结果不佳），也会经历“关系不公”（关系到身份贬值）。不会说英语的患者可能会被某些人视 ...",
+          "date": "2021年2月1日",
+          "position": 77
+        },
+        {
+          "title": "研究揭示CMPK2基因缺陷导致线粒体障碍和家族性脑钙化症",
+          "link": "https://stcsm.sh.gov.cn/xwzx/kjzl/20221130/b62ae9cea4a14ecfa2022e4eab589fef.html",
+          "snippet": "熊志奇研究组与陈万金团队构建了突变蛋白质表达质粒，发现病人的突变造成CMPK2不能定位在线粒体。研究采集新鲜外周血提取血细胞RNA进行转录组测序，并采用 ...",
+          "date": "2022年11月30日",
+          "position": 78
+        },
+        {
+          "title": "如何破除职场女性的第二层“玻璃天花板”？ | 世界经济论坛",
+          "link": "https://cn.weforum.org/agenda/2023/07/breaking-the-second-glass-ceiling-for-women/",
+          "snippet": "与此相关的是生理原因和家庭责任：全球有29%的女性将需要照顾父母或子女视为长期工作的障碍。此外，还有一些结构性的外部因素在起作用，例如，有性别区分的 ...",
+          "date": "2023年7月22日",
+          "position": 79
+        },
+        {
+          "title": "全国助残日|环境无障碍人间有大爱",
+          "link": "https://www.spp.gov.cn/spp/zdgz/202305/t20230521_614511.shtml",
+          "snippet": "”全国助残日前夕，检察官对无障碍客房改造情况进行“回头看”时表示。 （本 ... 检察机关与管线权属部门磋商，经相关技术人员实地勘察，对方表示可以拿出可行性 ...",
+          "date": "2023年5月21日",
+          "position": 80
+        },
+        {
+          "title": "无障碍功能参考| Chrome DevTools",
+          "link": "https://developer.chrome.com/docs/devtools/accessibility/reference?hl=zh-cn",
+          "snippet": "已针对屏幕阅读器正确标记网页。 网页上的文本元素具有足够的对比度。您还可以参阅提高网站的可读性。 要审核网页，请执行 ...",
+          "position": 81
+        },
+        {
+          "title": "中医药靶向线粒体质量控制防治女性生殖障碍性疾病的研究进展",
+          "link": "https://xb.njucm.edu.cn/article/doi/10.14148/j.issn.1672-0482.2023.0788",
+          "snippet": "摘要: 女性生殖障碍性疾病是以生育力障碍为特征的临床综合征, 可引起不孕、复发性流产、体外胚胎发育异常等, 严重降低患者生活质量, 给社会带来较大的经济负担。",
+          "position": 82
+        },
+        {
+          "title": "跨性别群体的伤痛需要社会合力抚平 - 时刻新闻",
+          "link": "https://moment.rednet.cn/content/2021/11/06/10370904.html",
+          "snippet": "医学界认为，胚胎期性染色体分化对脑部的发育影响和性激素分泌水平异常在一定程度上是个体产生性别认同障碍的原因之一，即先天性跨性别者。正常人不费 ...",
+          "date": "2021年11月6日",
+          "position": 83
+        },
+        {
+          "title": "男性难以表达情绪和感情，可能与“述情障碍”有关- 日记- 豆瓣",
+          "link": "https://m.douban.com/note/821633902/",
+          "snippet": "男性难以表达情绪和感情，可能与“述情障碍”有关在亲密关系中，很常见的一种情况是，双方处理、表达情感的方式差别极大--一方情感丰富，总是在表达、在分享 ...",
+          "date": "2021年12月12日",
+          "position": 84
+        },
+        {
+          "title": "认知障碍与帕金森病 - 清华大学玉泉医院",
+          "link": "http://www.yuquanhosp.com/Html/News/Articles/1100020.html",
+          "snippet": "语言表达困难：因为思维缓慢，帕金森病患者很难用语言及时准确地表达出来。这些词 ... 记忆分两种：一种是陈述性记忆（例如：回想发生的事情，发生的时间，地点，发生的事），另一种 ...",
+          "position": 85
+        },
+        {
+          "title": "儿童癔症性视力障碍的临床分析与治疗 - 眼科学报",
+          "link": "https://journal.gzzoc.com/ykxb/Stage/ArticleShow.aspx?AID=170",
+          "snippet": "癔症性眼病是大脑皮层受到刺激后导致的非器质性眼部运动或感觉障碍，是一种心因性疾病易发生于在性格内向、情感脆弱敏感的人群。儿童作为一个特殊的群体，心智发育尚不 ...",
+          "position": 86
+        },
+        {
+          "title": "为什么双相情感障碍的金标准治疗对大多数患者不起作用的新线索",
+          "link": "https://www.salk.edu/zh-CN/%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%8C%E7%9B%B8%E6%83%85%E6%84%9F%E9%9A%9C%E7%A2%8D%E7%9A%84%E9%87%91%E6%A0%87%E5%87%86%E6%B2%BB%E7%96%97%E5%AF%B9%E5%A4%A7%E5%A4%9A%E6%95%B0%E6%82%A3%E8%80%85%E4%B8%8D%E8%B5%B7%E4%BD%9C%E7%94%A8%E7%9A%84%E6%96%B0%E7%BA%BF%E7%B4%A2/",
+          "snippet": "... 表达增加，我们降低了过度兴奋。 这表明存在因果关系，这就是为什么我们认为LEF1 可能是药物治疗的可能靶标。” LEF1 还可以帮助研究人员开发反应性筛选测试。 目前 ...",
+          "position": 87
+        },
+        {
+          "title": "性别认同辅导 - Neo-Health Group",
+          "link": "https://neohealth.com.hk/zh-cn/%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7-2/%E4%B8%AA%E4%BA%BA%E5%92%8C%E7%94%9F%E6%B4%BB%E8%BE%85%E5%AF%BC/%E6%80%A7%E5%88%AB%E8%AE%A4%E5%90%8C%E8%BE%85%E5%AF%BC/",
+          "snippet": "性别认同辅导的主要目标是引导客户识别和接受真正反映内心自我的性别表达，认识到每个人对性别的理解受到各种因素的影响，例如他们的社会和文化环境以及他们居住的地理环境。",
+          "position": 88
+        },
+        {
+          "title": "视频：为有阅读障碍的用户设计幻灯片 - Microsoft Support",
+          "link": "https://support.microsoft.com/zh-cn/office/%E8%A7%86%E9%A2%91-%E4%B8%BA%E6%9C%89%E9%98%85%E8%AF%BB%E9%9A%9C%E7%A2%8D%E7%9A%84%E7%94%A8%E6%88%B7%E8%AE%BE%E8%AE%A1%E5%B9%BB%E7%81%AF%E7%89%87-a2158953-84d7-4894-8f6c-1c9968709041",
+          "snippet": "了解订阅权益、浏览培训课程、了解如何保护设备等。 Microsoft 365 订阅权益 · Microsoft 365 培训 · Microsoft 安全性 ... 按“提交”即表示你的反馈将用于改进Microsoft 产品 ...",
+          "position": 89
+        },
+        {
+          "title": "无障碍原则| Web Accessibility Initiative (WAI) | W3C",
+          "link": "https://www.w3.org/WAI/fundamentals/accessibility-principles/zh-hans",
+          "snippet": "音频内容的手语表达，包括相应的受众体验。 整理规范的文字稿应该提供场所或 ... 障碍访问性准则 · B部分. 支持无障碍内容的生成. 兼容性的案例. Lee, 有色盲的网上 ...",
+          "position": 90
+        },
+        {
+          "title": "邱伟/汤常永团队解析多发性硬化(MS)认知功能障碍的发病机制",
+          "link": "https://www.sysu.edu.cn/news/info/2331/1236211.htm",
+          "snippet": "另外，在双环己酮草酰二腙/蕾帕霉素（CPZ/Rap）诱导的脱髓鞘海马中，激活的星形胶质细胞内CHI3L1的表达逐渐上调，神经干细胞（neural stem cells ...",
+          "date": "2024年6月27日",
+          "position": 91
+        },
+        {
+          "title": "ADHD和阅读障碍：认识和接纳孩子的神经多样性",
+          "link": "https://brain.bnu.edu.cn/shfw/kpxx/fbf58a1551784b6784b4df4926c4efaa.htm",
+          "snippet": "ADHD和发展性阅读障碍，都属于“神经发育性障碍”。发育性/发展性障碍（developmental disorder）是区别于后天获得的疾病（acquired disease）来说的。发展性的障碍主要 ...",
+          "position": 92
+        },
+        {
+          "title": "[PDF] 创伤后应激障碍 - NY.gov",
+          "link": "https://omh.ny.gov/omhweb/chinese/booklets/ptsd.pdf",
+          "snippet": "女性出现PTSD的可能性比男性高。有些创伤会使人面临较高的. 风险，而基因等生物学 ... 如果对方提到死，或者表示想死，决不能视而不见。联系您朋友或亲属的治疗. 师 ...",
+          "position": 93
+        },
+        {
+          "title": "[PDF] 男子性功能障碍法医学鉴定规范 - 中华人民共和国司法部",
+          "link": "https://www.moj.gov.cn/pub/sfbgw/zwfw/zwfwbgxz/202101/P020210122423061612320.pdf",
+          "snippet": "当阴茎动脉信号与示指掌指动脉信号基本相当，表示阴茎动脉血流正. 常；当前者较后者弱时，表示阴茎动脉血管壁弹性降低或部分阻塞，见于高血压动脉粥样 ...",
+          "date": "2010年4月7日",
+          "position": 94
+        },
+        {
+          "title": "发展性语言障碍在汉语人群中的体现 - DLD and Me",
+          "link": "https://dldandme.org/what-dld-looks-like-in-mandarin-chinese/",
+          "snippet": "虽然典型发展儿童有时也会犯类似的错误，但以上错误在患有发展性语言障碍的儿童的口头语言表达中出现得更为频繁。值得一提的是，汉语特有的声调倒不是常见 ...",
+          "date": "2022年5月19日",
+          "position": 95
+        },
+        {
+          "title": "失语症和中枢性吞咽障碍的康复治疗 - 金寨县人民政府",
+          "link": "https://www.ahjinzhai.gov.cn/public/6597331/35317210.html",
+          "snippet": "病灶在词语运动中枢，词的运动印象部分或完全丧失，表现为口语表达能力明显减少，少量表达的口语亦发生扭曲。此种失语以构音表达和文字阅读训练为主，还有发音 ...",
+          "date": "2022年6月14日",
+          "position": 96
+        },
+        {
+          "title": "无障碍- 学习Web 开发| MDN",
+          "link": "https://developer.mozilla.org/zh-CN/docs/Learn/Accessibility",
+          "snippet": "如果你想成为一名Web 开发者，学习一些HTML、CSS、JavaScript 是有用的。除了机械地使用之外，重要的是学习如何负责任地使用这些技术，让所有用户能在Web ...",
+          "date": "2024年9月18日",
+          "position": 97
+        },
+        {
+          "title": "多伦多述情障碍量表（TAS-26）-MedSci.cn - 梅斯医学",
+          "link": "https://m.medsci.cn/scale/show.do?id=06414988ab",
+          "snippet": "5. 对评估结果的解释，以含计分数与常模比较，经统计分析，较常模显著为高者表示有述情障碍，得分越高表示述情障碍越严重，对各因子分亦然，男女的常模分不同，应分别对照。 6.",
+          "position": 98
+        },
+        {
+          "title": "糖尿病性勃起障碍大鼠阴茎海绵体平滑肌组织形态学及α-SMA表达量 ...",
+          "link": "http://ccj.pku.edu.cn/article/info?aid=333166142",
+          "snippet": "目的:通过大鼠实验总结糖尿病性勃起障碍阴茎海绵体平滑肌组织形态学和α-SMA表达变化.方法:将20只正常大鼠分为观察组(12只)和对照组(8只).观察组为糖尿病性勃起障碍大鼠 ...",
+          "position": 99
+        }
+      ],
+      "images": [
+        {
+          "title": "发展性语言障碍和孤独症的区别- DLD and Me",
+          "imageUrl": "https://dldandme.org/wp-content/uploads/2023/10/chart1.png",
+          "link": "https://dldandme.org/%E5%8F%91%E5%B1%95%E6%80%A7%E8%AF%AD%E8%A8%80%E9%9A%9C%E7%A2%8D%E5%92%8C%E5%AD%A4%E7%8B%AC%E7%97%87%E7%9A%84%E5%8C%BA%E5%88%AB/"
+        },
+        {
+          "title": "述情障碍- 维基百科，自由的百科全书",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Autism_Aspect_Alexithymia_1.png",
+          "link": "https://zh.wikipedia.org/zh-cn/%E8%BF%B0%E6%83%85%E9%9A%9C%E7%A4%99"
+        },
+        {
+          "title": "性心理障碍_百度百科",
+          "imageUrl": "https://bkimg.cdn.bcebos.com/smart/aa64034f78f0f736afc3741bdb02a419ebc4b745b528-bkimg-process,v_1,rw_1,rh_1,pad_1,color_ffffff?x-bce-process=image/format,f_auto",
+          "link": "https://baike.baidu.com/item/%E6%80%A7%E5%BF%83%E7%90%86%E9%9A%9C%E7%A2%8D/2827000"
+        },
+        {
+          "title": "性别认同障碍- 抖音百科",
+          "imageUrl": "https://p3-sdbk2-media.byteimg.com/tos-cn-i-xv4ileqgde/0d89276152c2448f9c3646fc17f00c35~tplv-xv4ileqgde-image.image",
+          "link": "https://m.baike.com/wikiid/992514775760724476"
+        },
+        {
+          "title": "Untitled",
+          "imageUrl": "x-raw-image:///8620b1cee29e5f53b789d5f06dbc004681bcf921d7e77973588f3edaa3c0a9b9",
+          "link": "https://www.dhcas.gov.hk/file/Short_Factsheets/Chi_Sim_PDF/DLD-SC-17mar-op.pdf"
+        },
+        {
+          "title": "生而无罪，你不需要抱歉”|性别认同：“顺”或“跨”都不该被轻易定义-心理 ...",
+          "imageUrl": "https://xinli.swjtu.edu.cn/__local/5/FD/73/3E64292B7F4BA1C3B6BCD5AC5EA_7E0535DE_C6281.png",
+          "link": "https://xinli.swjtu.edu.cn/info/1065/5833.htm"
+        },
+        {
+          "title": "性别认同障碍治疗,美国日本治疗性别认同障碍-出境医",
+          "imageUrl": "https://baike-med-1256891581.file.myqcloud.com/2021031/e2ab5640-7bc7-11eb-b8f0-471f2b93e448_1.jpg",
+          "link": "https://zhiliao.chujingyi.cn/xbrtza/"
+        },
+        {
+          "title": "性别扭转治疗：一个跨性别女孩的残酷“成年礼”",
+          "imageUrl": "http://inews.gtimg.com/newsapp_bt/0/12130375792/641",
+          "link": "https://news.qq.com/rain/a/20200722A057D800"
+        },
+        {
+          "title": "工作手册第4篇| 跨性别是精神疾病与心理障碍吗？ - 跨儿心理小组",
+          "imageUrl": "https://kuaerxinli.org/wp-content/uploads/2022/08/frc-4aedf9c7473a142dd6cce63034ab0cd5.jpeg",
+          "link": "https://kuaerxinli.org/%E5%B7%A5%E4%BD%9C%E6%89%8B%E5%86%8C/1717"
+        }
+      ],
+      "relatedSearches": [
+        {
+          "query": "gender dysphoria中文"
+        },
+        {
+          "query": "Gender dysphoria"
+        },
+        {
+          "query": "Dysphoria"
+        },
+        {
+          "query": "Gender identity disorder"
+        },
+        {
+          "query": "dsm 5中文"
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "性别表达障碍",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "获得性再生障碍贫血- 海外治疗 - GSD International",
+          "link": "https://www.gsdinternational.com/zh/conditions/huodexing-zaishengzhangaipinxue",
+          "snippet": "在定义中，术语“发育不全”实际上表示的是骨髓（负责产生红细胞、白细胞和血小板并使之释放到血液中的器官）不能充分产生血细胞。大多数患者会出现“全血细胞减少症”，即 ...",
+          "position": 1
+        },
+        {
+          "title": "中国儿童中心早期儿童发展2022年第4期汉语发展性语言障碍的现状及 ...",
+          "link": "https://www.ccc.org.cn/art/2023/1/10/art_53_45402.html",
+          "snippet": "发展性语言障碍指在语言理解和/或语言表达方面有明显障碍，有的孩子只体现在语言理解或语言表达的其中一方面，有的孩子在两方面都有体现。DLD儿童可能在句法 ...",
+          "date": "2023年1月10日",
+          "position": 2
+        },
+        {
+          "title": "美性别认同障碍者吐露困惑不知自己是男是女 - 搜狐",
+          "link": "https://www.sohu.com/a/114995266_116413",
+          "snippet": "性别认知障碍这一问题一直困扰着格蕾丝以及像她这样的群体。谈及自身性别时，他们会羞于启齿，甚至会厌恶自己的身体。他们在节目中大胆褪下衣服，渴望以 ...",
+          "date": "2016年9月24日",
+          "position": 3
+        },
+        {
+          "title": "【友谊科普】双向情感障碍患者如何应对情绪“过山车”",
+          "link": "https://wjw.beijing.gov.cn/bmfw_20143/jkzs/jksh/202403/t20240329_3605709.html",
+          "snippet": "1、双相Ⅰ型障碍：这是最为公众所知的一种亚型，诊断标准为个体达到躁狂发作的标准，一些双相Ⅰ型障碍会出现与重性抑郁一样严重的抑郁症状，而另一些人的抑郁 ...",
+          "date": "2024年3月29日",
+          "position": 4
+        },
+        {
+          "title": "脑器质性精神障碍-治疗与原因症状 - 胶质瘤",
+          "link": "https://m.incsg.com/jibing/2941.html",
+          "snippet": "脑器质性精神障碍是指由脑感染、变性、血管疾病、创伤、肿瘤等疾病引起的精神障碍，也称为脑器质性精神疾病。随着人类寿命的延长，老年人口逐渐增加，脑 ...",
+          "date": "2023年2月23日",
+          "position": 5
+        },
+        {
+          "title": "患癫痫后，TA怎么开始不像TA？浅谈癫痫性精神障碍 - 人民日报",
+          "link": "https://www.peopleapp.com/rmharticle/30044598080",
+          "snippet": "经过悉心的药物治疗和心理治疗，一月后张先生精神状态恢复了正常，意识到自己之前的想法、行为是荒谬的，并表示今后会规律服药，控制好癫痫和精神症状。 唐丽 ...",
+          "date": "2024年4月26日",
+          "position": 6
+        },
+        {
+          "title": "中国LGBT：“不可抗力”之下，性少数团体面临的困境- BBC News 中文",
+          "link": "https://www.bbc.com/zhongwen/simp/chinese-news-66040480",
+          "snippet": "世界各地都在举办“骄傲月”（Pride month）的庆祝活动之际，中国却没有任何重大的LGBT（女同性恋、男同性恋、双性恋及跨性别者）活动。 ... 我们可以大声表达，而且 ...",
+          "date": "2023年6月28日",
+          "position": 7
+        },
+        {
+          "title": "分离性焦虑障碍症状_病因_治疗方法 - 丁香医生",
+          "link": "https://m.dxy.com/disease/3810/detail",
+          "snippet": "分离性焦虑障碍，一般多见于童年早期阶段，儿童与所依恋的对象（通常是父母或其他家庭成员及照料者）分别而产生的过度焦虑，焦虑的持续时间和严重程度远远超出 ...",
+          "date": "2018年12月10日",
+          "position": 8
+        },
+        {
+          "title": "不同性别儿童青少年精神障碍与父母教养方式关系",
+          "link": "http://html.rhhz.net/ZGGGWS/html/20160331.htm",
+          "snippet": "本研究结果表明，父母负性的教养方式与各种精神障碍有关,即使是同一种精神障碍,对于不同性别的学生,父母负性的教养方式的影响也不尽相同，结果以往研究结果相同[9, 10, 11, ...",
+          "position": 9
+        },
+        {
+          "title": "[PDF] 发展性阅读障碍的脑功能成像研究",
+          "link": "https://faculty.ecnu.edu.cn/_upload/article/files/db/2b/c6497b87406cbba204e82c2be105/9dcad3b2-41c6-4c48-9885-9ee3b2b16ce7.pdf",
+          "snippet": "和意志表达的基本途径。阅读则是现代社会人类获取. 知识、传递信息的重要手段之一 ... 这种阅读障碍就是发展性阅读障碍。发展性阅. 读障碍是一种神经2认知缺陷,具有 ...",
+          "position": 10
+        },
+        {
+          "title": "OpenAI转变为盈利性公司的最大障碍：公司到底值多少？ - 华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3731997",
+          "snippet": "本月早些时候，微软与摩根士丹利合作，OpenAI则聘请了高盛，来为这次谈判提供建议。 估值多少？这一切都取决于谁在做算术. 关于OpenAI的估值问题，法律专家表示 ...",
+          "date": "6天前",
+          "position": 11
+        },
+        {
+          "title": "性心理障碍的治疗方法与重要性",
+          "link": "https://www.jd.com/pccontent/1004004506740749",
+          "snippet": "性心理障碍的治疗方法主要包括药物治疗、心理咨询和性教育。药物治疗如抗抑郁药舍曲林、氟西汀等，通过调节神经递质平衡改善情绪和行为。心理咨询则通过认知行为疗法 ...",
+          "position": 12
+        },
+        {
+          "title": "【闢謠文章】心智障礙者沒有性與親密關係表達的需求嗎？|讀專文",
+          "link": "https://health99.hpa.gov.tw/article/18151",
+          "snippet": "網路上的行為如同個人私密的小空間，阿弘以為只要不讓家長和職場上司知道自己的所傳的內容，不在公開場合做不當行為就可以避免責任，不加掩飾表達內心的情緒，不適當的表達「性 ...",
+          "position": 13
+        },
+        {
+          "title": "性别认同障碍治疗,美国日本治疗性别认同障碍 - 出境医",
+          "link": "https://zhiliao.chujingyi.cn/xbrtza/",
+          "snippet": "性身份障碍是指一个人在心理上不能认同自己的生理性别，认为自己应该是另一个性别身份，渴望转换。需要将性别认同障碍与异装癖区分开来，异装癖的人通过穿异性的衣物来 ...",
+          "position": 14
+        },
+        {
+          "title": "言语及语言发育障碍(SLD) | 原因、症状、诊断和治疗",
+          "link": "https://penguinsmart.medium.com/%E8%A8%80%E8%AF%AD%E5%8F%8A%E8%AF%AD%E8%A8%80%E5%8F%91%E8%82%B2%E9%9A%9C%E7%A2%8D-sld-%E5%8E%9F%E5%9B%A0-%E7%97%87%E7%8A%B6-%E8%AF%8A%E6%96%AD%E5%92%8C%E6%B2%BB%E7%96%97-98d7ff94ba87",
+          "snippet": "每个SLD儿童都有不同的语言功能水平，包括听力，认知水平和言语表达能力。 语言干预的目标是促进整体的语言发展，综合性地教语言技能，以加强日常交流。",
+          "date": "2021年4月5日",
+          "position": 15
+        },
+        {
+          "title": "什么是社交沟通障碍？ - 健康160",
+          "link": "https://www.91160.com/doctors/articledetail/docid-200663454/articleid-341101.html",
+          "snippet": "2013年，《精神障碍诊断与统计手册（第五版）》(DSM-5)出版后，社交沟通障碍成为官方诊断。在此之前，患有这些症状的孩子通常被诊断为广泛性发育障碍（PDD-NOS） ...",
+          "date": "2022年7月11日",
+          "position": 16
+        },
+        {
+          "title": "什麼是性別不安？ - 伴盟跨性別資訊平台",
+          "link": "https://transgender.tapcpr.org/what-is-gender-dysphoria",
+          "snippet": "兒童的性別表達與自我認知能力較為不足，導致當兒童的性別表達違反社會性別常規時，容易遭到其他成年人負向對待，進而引發挫折情緒，引發性別不安。 兒童時期的性別不安，只有 ...",
+          "position": 17
+        },
+        {
+          "title": "低语言儿童自闭症障碍的沟通干预- Brignell, A - Cochrane Library",
+          "link": "https://www.cochranelibrary.com/es/cdsr/doi/10.1002/14651858.CD012324.pub2/full/zh_HANS",
+          "snippet": "据估计，自闭症谱系障碍(ASD)的患病率约为1.7%。患有自闭症的人通常也有语言障碍，大约有25%到30%的自闭症儿童要么不能发展功能性语言，要么就是语言能力很弱。",
+          "position": 18
+        },
+        {
+          "title": "Uncategorised - 跨性別資源中心",
+          "link": "https://tgr.org.hk/index.php/zh/2-uncategorised",
+          "snippet": "在媒体中，跨儿常常被描述为“性变态、变性、人妖、不男不女、伪娘、药娘、阉人”等。在《变态心理学》教课书中，跨儿则常常与“性心理疾病、性身份障碍、易性症、性别 ...",
+          "position": 19
+        },
+        {
+          "title": "儿童特发性再生障碍性贫血的诊断与治疗",
+          "link": "http://www.zgddek.com/CN/abstract/abstract9825.shtml",
+          "snippet": "儿童特发性再生障碍性贫血的诊断与治疗. 黄绍良，黄永兰. 中山大学附属第二医院儿科，广东广州510120. Diagnosis and treatment of idiopathic aplastic in children.",
+          "position": 20
+        },
+        {
+          "title": "读书磕磕绊绊，你考虑过儿童学习障碍吗？ - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_10123075",
+          "snippet": "目前还有学者研究非语言性学习障碍（NLD）——NLD是学习障碍的一种，但不同于学业、语言和认知上的困难，它是由于右半侧脑神经-心理上的缺陷，而导致在社会、人际 ...",
+          "date": "2020年11月26日",
+          "position": 21
+        },
+        {
+          "title": "创新表达，讲好湖南文博故事",
+          "link": "https://www.hunan.gov.cn/hnszf/hnyw/sxsp/202410/t20241029_33487300.html",
+          "snippet": "无障碍浏览. Int'l Versions. 本站; 全省. 首页 省政府 政务要闻 政务公开 ... 纵览此前出圈的一些文化创新性表达，无论是《如果国宝会说话》等热播 ...",
+          "date": "6天前",
+          "position": 22
+        },
+        {
+          "title": "公益广告汇聚守护学生心理健康的社会力量 - 中华人民共和国教育部",
+          "link": "http://www.moe.gov.cn/jyb_xwfb/s5147/202410/t20241030_1159889.html",
+          "snippet": "搜索 无障碍浏览. Languages. English · Русский · 日本語 · Deutsch ... 在创意表达上，公益广告创新采取手绘“单线人”的主角呈现形式，用手绘的 ...",
+          "date": "5天前",
+          "position": 23
+        },
+        {
+          "title": "中美金融工作组举行第六次会议 - 人民银行",
+          "link": "http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/5492825/index.html",
+          "snippet": "中方并就相关问题向美方表达了关切。 会议听取了双方技术专家组关于国际收支平衡表编制、全球系统重要性银行（G-SIBs）危机沟通以及气候和保险业风险 ...",
+          "date": "3天前",
+          "position": 24
+        },
+        {
+          "title": "周景丽教授：对临床神经疾病中语言障碍的研究",
+          "link": "https://m.medsci.cn/article/show_article.do?id=2ea511450523",
+          "snippet": "布罗卡失语（Broca aphasia）也称为运动性失语、表达性失语等，是法国外科医生和神经病理学家皮埃尔•布罗卡（Pierre Broca）在1861年通过尸解首先证明。他的2例 ...",
+          "date": "2017年9月27日",
+          "position": 25
+        },
+        {
+          "title": "发展迟缓及障碍｜了解小朋友及儿童情绪与行为问题 - 協康會",
+          "link": "https://www.heephong.org/chs/tools-and-resources/reference-resources/child-development-and-training/developmental-disorders",
+          "snippet": "社交困难，难以察觉别人的存在、需要及感受；缺乏主动与别人分享或交往的动机及能力；难以与朋辈建立社交关系; 沟通困难，缺乏使用身体语言、语言理解及表达的能力、或会经常 ...",
+          "position": 26
+        },
+        {
+          "title": "身心障礙者之性別議題與需求= Gender Issues and ... - 華藝線上圖書館",
+          "link": "https://www.airitilibrary.com/Article/Detail/a0000532-N202409140008-00010",
+          "snippet": "男性身心障礙者則在心理健康和事故預防方面需求較高，社會期望和性別角色壓力使他們難以尋求心理支持。跨性別身心障礙者在性別確認治療上面臨複雜需求，且在醫療機構中經常 ...",
+          "position": 27
+        },
+        {
+          "title": "[PDF] 解答你的問題",
+          "link": "https://www.apa.org/topics/lgbtq/chinese-transgender.pdf",
+          "snippet": "什麼是跨性別？ 跨性別者是一個統稱，是指性別認同或性別. 表達與出生時的性別不符的人。性別認同是. 指一個人認同自己身為男性、女性或其他性. 別的心理意識。",
+          "position": 28
+        },
+        {
+          "title": "[PDF] 话语对社会性别的建构",
+          "link": "http://www.shehui.pku.edu.cn/upload/editor/file/20181026/20181026092300_7661.pdf",
+          "snippet": "作为一种社会行动, 语言很少能够包含女性的生. 活经验, 即没有发展出合适的语言符号来表达女性生 ... 女性为什么会为自己的陈述设置障碍, 要通过. 修饰 ...",
+          "date": "2018年10月25日",
+          "position": 29
+        },
+        {
+          "title": "[PDF] 特別的愛，給特別的你-心智障礙者性健康教育家長手冊",
+          "link": "https://health99.hpa.gov.tw/storage/pdf/materials/22174.pdf",
+          "snippet": "心智障礙者沒有性與親密關係表達的需求嗎？ 性不性由你－漫談青少年的性和性健康教育. 您是否曾經跟孩子談過與「性」相關的主題？ □很常談□很少談□不曾談過. 若您曾談 ...",
+          "position": 30
+        },
+        {
+          "title": "什么是广泛性焦虑障碍（GAD）？ - GSD - 意大利医院集团",
+          "link": "https://www.gsdinternational.com/zh/news/guangfanxing-jiaolvzhangai-gad",
+          "snippet": "“某些情况下，感到紧张以及偶尔出现焦虑是完全正常的：面对中小学或大学中的考试、工作面试、医学检查、生活中的重大变化（如结婚或孩子出生、买第一套房子） ...",
+          "date": "2023年4月28日",
+          "position": 31
+        },
+        {
+          "title": "张宝军拜会蒙古国驻华大使 - 甘肃省人民政府外事办公室",
+          "link": "http://wsb.gansu.gov.cn/wsb/c116314/202410/174013428.shtml",
+          "snippet": "10月29日，张宝军主任赴蒙古国驻华使馆拜会恩赫包勒德大使，对大使履新表示祝贺，回顾了甘肃与蒙古在高层交往、经贸合作、人文交流等领域的合作情况，并就 ...",
+          "date": "4天前",
+          "position": 32
+        },
+        {
+          "title": "深圳市工业和信息化产业发展专项资金管理办法（征求意见稿...",
+          "link": "https://gxj.sz.gov.cn/xxgk/xxgkml/qt/tzgg/content/post_11674681.html",
+          "snippet": "各有关单位、个人：. 为规范行政决策行为，保障人民群众的知情权、表达权、参与权、监督权，提高行政决策的科学性，根据《广东省重大行政决策听证 ...",
+          "date": "5天前",
+          "position": 33
+        },
+        {
+          "title": "习近平总书记重要指示为民政事业发展指明方向注入动力 - 省财政厅",
+          "link": "https://czt.hlj.gov.cn/czt/c110775/202410/c00_31780001.shtml",
+          "snippet": "大家表示，习近平总书记的重要指示彰显了鲜明的为民情怀、赤诚的为民初心，要从战略和全局高度充分认识新征程上做好民政工作的重要性和紧迫性，以百姓心为心 ...",
+          "date": "7天前",
+          "position": 34
+        },
+        {
+          "title": "奋力打开改革发展新天地- 求是网",
+          "link": "http://www.qstheory.cn/qshyjx/2024-11/02/c_1130215876.htm",
+          "snippet": "中央党校（国家行政学院）科研部副主任、教授洪向华表示，进一步全面深化改革，涵盖领域的广泛性、触及利益格局调整的深刻性、涉及矛盾和问题的尖锐性、突破 ...",
+          "date": "2天前",
+          "position": 35
+        },
+        {
+          "title": "我国首个博士专业学位研究生学位论文与申请学位实践成果质量标准 ...",
+          "link": "https://jy.tj.gov.cn/JYXW/GNJY/202410/t20241031_6767300.html",
+          "snippet": "无障碍语音播报. 0:00 / 0:00 ... 性、应用性、跨学科、创新性的探索。 基本要求适用于电子信息、机械、材料与化工、资源与环境、能源动力、土木水利 ...",
+          "date": "4天前",
+          "position": 36
+        },
+        {
+          "title": "“税路通”一周年政企交流活动在上海举办 - 辽宁省税务局",
+          "link": "https://liaoning.chinatax.gov.cn/art/2024/10/30/art_25_134996.html",
+          "snippet": "国家税务总局国际税务司司长蒙玉英在活动致辞中表示，建设“税路通”品牌是税务部门认真贯彻落实党中央、国务院决策部署，聚焦跨国企业需求，着力打造市场化、 ...",
+          "date": "5天前",
+          "position": 37
+        },
+        {
+          "title": "[PDF] 跨性别ABC",
+          "link": "https://docs.transonline.org.cn/files/Transgender_ABC.pdf",
+          "snippet": "性别表达(Gender Expression)：性别表达是指一个人选择如何通过着装、发型、个. 人风格 ... 性别焦虑（Gender Dysphoria）：在过去被称为性别认同障碍（Gender Identity.",
+          "position": 38
+        },
+        {
+          "title": "基因魔剪当“画笔” 癌症耐药性遗传图谱绘成丨总编辑圈点 - 科技日报",
+          "link": "https://www.stdaily.com/web/gdxw/2024-10/31/content_250648.html",
+          "snippet": "癌症治疗的一个主要障碍就是耐药性。当对癌症初次治疗产生耐药性后，随后 ... “新表达”让世界更好读懂中国文化 · 向“新”谋变借“智”攀高——山东部分 ...",
+          "date": "4天前",
+          "position": 39
+        },
+        {
+          "title": "江苏省人民政府要闻关注江苏“双创计划”吸引两千余名英才带项目携 ...",
+          "link": "https://www.jiangsu.gov.cn/art/2024/11/4/art_60096_11409959.html",
+          "snippet": "... 性，在市场应用上有着广泛空间，获得评审们连连追问。“'双创计划'的 ... 障碍服务认证标识. 您访问的链接即将离开“江苏省人民政府门户网站”，是否 ...",
+          "date": "1小时前",
+          "position": 40
+        },
+        {
+          "title": "Cell Metabolism丨减轻代谢功能障碍相关脂肪性肝病的关键蛋白找到 ...",
+          "link": "https://bydrug.pharmcube.com/news/detail/94022f133c6588acc4cba38a24d63ec0",
+          "snippet": "基于以上实验结果，作者先评估了β-arrestin 2在不同细胞类型中的丰度，发现Arrb2在单核细胞、库普弗细胞（KCs） 和巨噬细胞中高表达，但在人细胞类型的肝细胞中 ...",
+          "date": "6天前",
+          "position": 41
+        },
+        {
+          "title": "这种老年“痴呆”病可手术逆转！珠海就有一例",
+          "link": "https://pub-zhtb.hizh.cn/a/202411/03/AP6727458ae4b080be7be63a59.html",
+          "snippet": "刘飞表示，特发性正常压力性脑积水起病隐匿，症状缓慢进展，以步态 ... 其中，步态平衡障碍是多数特发性正常压力性脑积水患者的首发症状，主要 ...",
+          "date": "15小时前",
+          "position": 42
+        },
+        {
+          "title": "發展性語言障礙",
+          "link": "https://www.dhcas.gov.hk/tc/developmental_language_disorder.html",
+          "snippet": "發展性語言障礙對兒童有甚麽影響？ 患有發展性語言障礙的兒童在語言理解或表達方面表現較弱，因而影響他們日常與人溝通的能力和社交方面的發展。由於 ...",
+          "date": "2024年8月8日",
+          "position": 43
+        },
+        {
+          "title": "强化基层组织建设共筑残疾人幸福家园 - 呼和浩特市人民政府",
+          "link": "http://www.huhhot.gov.cn/2022_zwdt/qxqdt/202411/t20241101_1800050.html",
+          "snippet": "... 障碍连线沟通。在新城区法院和社会治理中心对“总对总”在线多元解纷机制运行情况、二玲工作室法律援助情况、无障碍办事环境建设情况等项目进行实地观摩。",
+          "date": "3天前",
+          "position": 44
+        },
+        {
+          "title": "省部级专题研讨班学员深入学习领会习近平总书记重要讲话",
+          "link": "http://www.nhsa.gov.cn/art/2024/11/3/art_14_14530.html",
+          "snippet": "研讨班学员表示，将保持道不变、志不改的强大定力，永葆敢创新、勇攻坚的锐气胆魄，推动改革不断取得新突破。 教育、科技、人才是中国式现代化的基础性、战略 ...",
+          "date": "16小时前",
+          "position": 45
+        },
+        {
+          "title": "经济日报：湖北建设多功能青年社区 - 武汉公积金",
+          "link": "https://gjj.wuhan.gov.cn/xwzt/ynxw/202410/t20241031_2477274.html",
+          "snippet": "欢迎来到武汉住房公积金管理中心网站！ 无障碍阅读. 公积金贷款 | 缴存 ... 性租赁住房需求，助力青年人安居乐业。 走进宜昌市金家台青年未来城 ...",
+          "date": "4天前",
+          "position": 46
+        },
+        {
+          "title": "东盟环境合作论坛科技交流圆桌：区域生态科技合作研讨会在柳州举办",
+          "link": "http://sthjt.gxzf.gov.cn/ttxw/t19211049.shtml",
+          "snippet": "禚壮表示，区域生态科技合作是2024中国—东盟环境合作论坛的主要议题之一。在全球性环境危机日益严峻的背景下，各国需要利用好科技资源，共同应对气候变化、 ...",
+          "date": "4天前",
+          "position": 47
+        },
+        {
+          "title": "暴力游戏哪些人气高十大必玩暴力游戏推荐 - 新浪财经",
+          "link": "https://finance.sina.com.cn/tech/roll/2024-11-03/doc-incuuyez3046078.shtml",
+          "snippet": "... 女性展开生死斗争，挑战内心对女性的恐惧。游戏中出现的症状包括过度出汗、恶心、语言表达障碍等，极具挑战性和刺激性。 《维京人：人中之狼》是一款 ...",
+          "date": "13小时前",
+          "position": 48
+        },
+        {
+          "title": "生态环境部部长黄润秋主持昆明基金理事会会议并出席《生物多样性 ...",
+          "link": "https://sthjj.wuhu.gov.cn/hbzx/hjyw/8655928.html",
+          "snippet": "黄润秋表示，昆明基金是习近平主席宣布设立，旨在支持发展中国家 ... 适老化无障碍服务. 政府网站找错标识. 政务微信; 政务微博; 生态环境投诉举报 ...",
+          "date": "2024年10月26日",
+          "position": 49
+        },
+        {
+          "title": "国际观察｜从COP16看全球生物多样性保护面临的挑战和机遇 - 新华网",
+          "link": "http://www.news.cn/world/20241103/dacc14aa2f1242bb9121efda127db664/c.html",
+          "snippet": "联合国《生物多样性公约》秘书处执行秘书肖梅克在出席COP16“中国角”开幕式时表示，中国担任COP15主席国6年间，不仅大力推动本国生物多样性保护和可持续发展， ...",
+          "date": "18小时前",
+          "position": 50
+        },
+        {
+          "title": "周末还增加排班？金山这个门诊为何火爆… - 上观新闻",
+          "link": "https://www.jfdaily.com/sgh/detail?id=1453941",
+          "snippet": "医生表示，学习困难的原因，最常见的是神经发育障碍性疾病，包括智力障碍、语言障碍、注意缺陷多动障碍、特定性学习障碍、发育协调障碍等。还有部分 ...",
+          "date": "19小时前",
+          "position": 51
+        },
+        {
+          "title": "OpenAI转变为盈利性公司的最大障碍：公司到底值多少？ - 全天候科技",
+          "link": "https://awtmt.com/articles/3731997",
+          "snippet": "关于OpenAI的估值问题，法律专家表示，这一切都取决于谁在做算术。 哥伦比亚大学商学院教授Angela Lee表示：. “问题在于，评估公司可能有6到10种不同的方法，问 ...",
+          "date": "6天前",
+          "position": 52
+        },
+        {
+          "title": "让数据“供得出、流得动、用得好” - 中共西藏自治区委员会",
+          "link": "https://wxb.xzdw.gov.cn/xxh/xxhgzdt/202411/t20241103_522650.html",
+          "snippet": "... 性障碍、机制性梗阻依然存在。 当然,要想让公共数据资源“用得好”,首先要让其能“供得出”。 国家数据局局长刘烈宏表示,国家数据局正会同有关部门,在气象 ...",
+          "date": "18小时前",
+          "position": 53
+        },
+        {
+          "title": "各地深入开展“强国复兴有我”群众性主题宣传教育活动 - 岳池县人民政府",
+          "link": "https://www.scyc.gov.cn/ycxrmzfw/zyxxzz/pc/content/content_1851792892549402624.html",
+          "snippet": "无障碍; 长者专区; 适老化; 统一用户登录; 网站支持IPv6. logo. 首页 · 县政府 ... 通过参加活动，他更感受到军人的光荣感，也感受到学生的使命感，表示一定 ...",
+          "date": "4天前",
+          "position": 54
+        },
+        {
+          "title": "溧水区人民政府溧水要闻溧水区市场监管局开展食品安全事故应急 ...",
+          "link": "http://www.njls.gov.cn/jrs/syw/202410/t20241031_4997847.html",
+          "snippet": "... 障碍阅读; 智能答问. 南京市溧水区人民政府. 首 页 · 走进溧水 · 政府信息公开 ... 演练以“花朵小学”食堂发生群体性食源性疾病事件为背景，模拟了学生在 ...",
+          "date": "4天前",
+          "position": 55
+        },
+        {
+          "title": "市委常委会召开会议学习贯彻习近平总书记重要指示精神研究部署 ...",
+          "link": "https://www.shenyang.gov.cn/zwgk/zwdt/zwyw/202411/t20241104_4754745.html",
+          "snippet": "无障碍; 政务邮箱 · 登录 · 注册 · 首页 · 党务公开 · 政务公开 ... 要践行全过程人民民主，完善人大的民主民意表达平台和载体，支持和保障代表依法履职尽责。",
+          "date": "31分钟前",
+          "position": 56
+        },
+        {
+          "title": "2023年度中国艺术发展研究报告》出版",
+          "link": "https://www.mct.gov.cn/whzx/zsdw/zgysyjy/202410/t20241031_955988.html",
+          "snippet": "同时，经典传统文化IP的现代表达与创新性发展也成为课题组关注的焦点。 ... 按回车键在新窗口打开无障碍说明页面,按Ctrl+~键打开导盲模式。 重置; 声音 ...",
+          "date": "3天前",
+          "position": 57
+        },
+        {
+          "title": "潮州在全省率先上线电子营业执照",
+          "link": "https://www.chaozhou.gov.cn/ywdt/czyw/content/post_3921198.html",
+          "snippet": "“随着这两个应用的正式上线，企业如今能够凭借一个CA证书或直接运用电子营业执照，无障碍 ... 性，为潮州市公共资源交易领域注入了全新的活力与机遇 ...",
+          "date": "23小时前",
+          "position": 58
+        },
+        {
+          "title": "速递！我国首个博士专业学位研究生学位论文与申请学位实践成果 ...",
+          "link": "http://www.moe.gov.cn/jyb_xwfb/s7600/202410/t20241030_1159900.html",
+          "snippet": "搜索 无障碍浏览 ... 学位论文应符合基本的写作规范，要求概念准确，逻辑严谨，结构合理，层次分明，表达流畅，图表规范，数据可靠，文献引用规范。",
+          "date": "5天前",
+          "position": 59
+        },
+        {
+          "title": "以法治的确定性增强民营经济发展预期 - 光明网-理论频道",
+          "link": "https://theory.gmw.cn/2024-11/02/content_37653414.htm",
+          "snippet": "实践证明，只有“大幅度减少政府对资源的直接配置”，才能打破监管的“黑匣子”，才能破解以强化监管为名设置的各种制度障碍和市场壁垒。 ... 表达体系和场景体验 ...",
+          "date": "2天前",
+          "position": 60
+        },
+        {
+          "title": "《深圳市工业和信息化产业发展专项资金管理办法（征求意见稿 ...",
+          "link": "https://gxj.sz.gov.cn/xxgk/xxgkml/zdjcgk/jcygk/content/post_11674688.html",
+          "snippet": "为规范行政决策行为，保障人民群众的知情权、表达权、参与权、监督权，提高行政决策的科学性，根据《广东省重大行政决策听证规定》《深圳市重大行政 ...",
+          "date": "5天前",
+          "position": 61
+        },
+        {
+          "title": "供需两侧发力，房地产金融政策落地见效 - 井研县人民政府",
+          "link": "http://www.jingyan.gov.cn/jyx/gwyyw/202411/315908eccafe4fd4b8af96b4aca27cf4.shtml",
+          "snippet": "... 障碍; |; 进入关怀版. 中华人民共和国国徽 井研县人民政府. 搜索 点击搜索 ... 性住房需求。 提振刚性和改善性住房需求. 最近，“双11”线上促销活动 ...",
+          "date": "2天前",
+          "position": 62
+        },
+        {
+          "title": "姜堰区十六届人大常委会召开第二十三次会议",
+          "link": "http://www.jiangyan.gov.cn/jyyw/art/2024/art_e06b987f5b5d47e990fe90ee342e50db.html",
+          "snippet": "... 性文件备案审查机制，做到“有件必备、有备必审、有错必纠”；注重凝聚审查合力，加强与省市人大和镇街人大的沟通协调，进一步畅通民意表达渠道；切实 ...",
+          "date": "4天前",
+          "position": 63
+        },
+        {
+          "title": "商业性房贷利率实行新定价机制四种方案供贷款人选择",
+          "link": "https://www.hubei.gov.cn/hbfb/rdgz/202411/t20241101_5396224.shtml",
+          "snippet": "无障碍阅读; 登录 注册 · 中国政府网 · 长者专区. 搜索. 首页 · 政务公开 · 政务服务 ... 六大国有银行表示，在整个还款周期里，房贷利率重定价周期只能调整 ...",
+          "date": "3天前",
+          "position": 64
+        },
+        {
+          "title": "匹克签约国际奥协达成“开创性”赞助协议 - 新华网",
+          "link": "http://www.xinhuanet.com/fortune/20241101/9454c96540bf45c3a4542bb975bce05c/c.html",
+          "snippet": "网站无障碍. PC版本. 首页学习进行时高层时政人事国际财经网评港澳台湾思客 ... 匹克体育副总经理吴冰蕊表示，匹克希望通过为这些“小型”的国家和 ...",
+          "date": "2天前",
+          "position": 65
+        },
+        {
+          "title": "八届市委保障性安居工程领域机动巡察澧县见面沟通会召开",
+          "link": "https://www.li-xian.gov.cn/xwzx/jrlz/content_99967",
+          "snippet": "王启武表示，此次巡察工作是贯彻落实党中央关于巡视巡察工作决策 ... 无障碍功能开关. 配色; 字体. 恢复默认配色. 黑底白字黄链接. 白底黑字蓝链接.",
+          "date": "5天前",
+          "position": 66
+        },
+        {
+          "title": "湖湾生物医药企业“出海”提速 - 无锡市人民政府",
+          "link": "https://www.wuxi.gov.cn/doc/2024/11/03/4425025.shtml",
+          "snippet": "... 表达了引进意愿。不久前，国际生命科学园企业无锡天广泰医疗科技公司自主研发的ValvuloPro® 瓣扩™一次性使用瓣膜球囊扩张导管获美国食品药品监督管理 ...",
+          "date": "1天前",
+          "position": 67
+        },
+        {
+          "title": "让数据“供得出、流得动、用得好” - 时政- 人民网",
+          "link": "http://politics.people.com.cn/n1/2024/1031/c458474-40351191.html",
+          "snippet": "... 性障碍、机制性梗阻依然存在。 当然，要想让公共数据资源“用得好”，首先要让其能“供得出”。 国家数据局局长刘烈宏表示，国家数据局正会同有关部门，在 ...",
+          "date": "4天前",
+          "position": 68
+        },
+        {
+          "title": "凝心聚力打开改革发展新天地——省部级主要领导干部学习贯彻党的 ...",
+          "link": "https://www.spp.gov.cn/tt/202411/t20241102_670839.shtml",
+          "snippet": "网站无障碍. [ 中文版] [ English ] · 内部邮箱 · 首页 · 机构设置 · 最高人民 ... 大家表示，习近平总书记的重要讲话精辟阐释进一步全面深化改革一系列 ...",
+          "date": "20小时前",
+          "position": 69
+        },
+        {
+          "title": "从“不见外”到“无障碍”，上海持续做优支付便利化",
+          "link": "https://jrj.sh.gov.cn/ZXYW178/20241030/357efbfa2ced4e45aaf25ad9d5d4430f.html",
+          "snippet": "交通银行番禺路支行周边是老年社区，网点负责人吴文涵曾针对社区老年人使用支付状况做过调查，不少老人都表达了相似的烦恼。 ... 性、适当性与安全性。",
+          "date": "5天前",
+          "position": 70
+        },
+        {
+          "title": "国家医疗保障局医保动态凝心聚力打开改革发展新天地",
+          "link": "http://www.nhsa.gov.cn/art/2024/11/3/art_14_14532.html",
+          "snippet": "... 障碍浏览|网站地图|. 分享. 首页 · 时政要闻 · 医保新闻 · 医保动态 地方医保动态 ... 大家表示，习近平总书记的重要讲话精辟阐释进一步全面深化改革一 ...",
+          "date": "14小时前",
+          "position": 71
+        },
+        {
+          "title": "王俊寿：抓好贯彻落实推动民政事业高质量发展",
+          "link": "http://www.hunan.gov.cn/hnszf/hnyw/sy/hnyw1/202411/t20241103_33491372.html",
+          "snippet": "王俊寿指出，民政工作要处理好大与小、广与精、守正与创新、顶层设计与基层实践之间的关系，切实加强普惠性、基础性、兜底性民生建设。要怀揣一颗红心、完善 ...",
+          "date": "1天前",
+          "position": 72
+        },
+        {
+          "title": "“新表达”让世界更好读懂中国文化 - 新华网",
+          "link": "http://www.news.cn/politics/20241103/29972fe75f7e4660ae06aa132f460a16/c.html",
+          "snippet": "网站无障碍. PC版本. 首页学习进行时高层时政人事国际财经网评港澳台湾思客 ... 一座青石铺地的四合院中，杨柳青木版年画代表性传承人、“玉成号 ...",
+          "date": "15小时前",
+          "position": 73
+        },
+        {
+          "title": "改善认知障碍，他们把记忆“种”进了花园里｜探趣walk·幸福养老",
+          "link": "https://www.jfdaily.com/sgh/detail?id=1453501",
+          "snippet": "长海路街道老年认知障碍友好社区建设项目负责人王滢表示。 当前，“记忆花 ... 性和“早筛、早诊、早治”的必要性，传递“长海有爱，认知无碍”的美好 ...",
+          "date": "2天前",
+          "position": 74
+        },
+        {
+          "title": "“智能传播研究的中国视野”多学科青年学者工作坊在上海成功举办",
+          "link": "https://news.shu.edu.cn/info/1012/141385.htm",
+          "snippet": "... 表达了感谢。他希望议题集中、兴趣相近、学科视角多元的小型学术会议能够 ... 按回车键在新窗口打开无障碍说明页面,按Ctrl+~键打开导盲模式。 读 ...",
+          "date": "9小时前",
+          "position": 75
+        },
+        {
+          "title": "王毅同芬兰外长瓦尔托宁举行会谈 - 广西壮族自治区外事办公室网站",
+          "link": "http://wsb.gxzf.gov.cn/xwyw_48149/wsyw_48152/t19218972.shtml",
+          "snippet": "王毅表示，中芬传统友好，建交以来始终相互理解、相互尊重，两国关系保持长期健康发展，成为中欧关系中重要的稳定性因素。2017年，两国元首共同决定将中芬关系 ...",
+          "date": "4天前",
+          "position": 76
+        },
+        {
+          "title": "暴力游戏哪个好玩好玩的暴力游戏排行榜前十 - 新浪财经",
+          "link": "https://finance.sina.com.cn/tech/roll/2024-11-03/doc-incuutxc3148816.shtml",
+          "snippet": "... 女性展开生死斗争，挑战内心对女性的恐惧。游戏中出现的症状包括过度出汗、恶心、语言表达障碍等，极具挑战性和刺激性。 乌托邦9号：爆裂假期是一款第 ...",
+          "date": "17小时前",
+          "position": 77
+        },
+        {
+          "title": "规范、惠民！南京推进生态环境损害赔偿改革 - 江苏省生态环境厅",
+          "link": "https://sthjt.jiangsu.gov.cn/art/2024/10/31/art_84025_11407928.html",
+          "snippet": "... 性标准，该《指南》结合了本地工作实际和特点， ... 障碍访问; 长者浏览模式. 机构概况 · 新闻中心 · 政府信息公开 · 生态环境质量 ...",
+          "date": "4天前",
+          "position": 78
+        },
+        {
+          "title": "性别认同障碍测试！探索发现你独特的性别认同 - Kuioo测试",
+          "link": "https://www.kuioo.cn/embrace-your-personal-journey-discover-your-unique-gender-identity/",
+          "snippet": "通过接纳和理解多样化的性别认同，我们可以构建一个更加包容的社会，让每个人都能感受到被接纳、被重视，并且自由地表达真实的自我。性别认同障碍测试将引领你踏上一段独特的 ...",
+          "position": 79
+        },
+        {
+          "title": "嗅觉减退与百余种疾病有关 - 科技日报",
+          "link": "https://www.stdaily.com/web/gdxw/2024-11/04/content_251860.html",
+          "snippet": "最新发现对于缓解病情具有重要意义，医生或许可通过治疗性嗅觉刺激减少某些疾病的发作。研究人员正在研制一种能提供嗅觉治疗的设备，有助促成一种改善健康的 ...",
+          "date": "7小时前",
+          "position": 80
+        },
+        {
+          "title": "認識失智症的8大特點 - 台灣失智症協會",
+          "link": "http://www.tada2002.org.tw/about/isntdementia",
+          "snippet": "... 障礙，例如表達困難、命名困難等漸進性退化現象。平均好發年齡五十歲以後。 (3), 路易氏體失智症(Dementia with Lewy Bodies)：. 為第二常見的退化性失智症，特性為除 ...",
+          "position": 81
+        },
+        {
+          "title": "南方财经全媒体集团",
+          "link": "https://m.sfccn.com/2024/11-3/0OMDE0NzNfMTk2NDA0OQ.html",
+          "snippet": "面对上述困难，各参建单位迎难而上，想方设法推进场馆改造，共有近3500人参与场馆改造，已取得阶段性成效。 广州市住房和城乡建设局党组书记、局长蔡胜表示，市 ...",
+          "date": "10小时前",
+          "position": 82
+        },
+        {
+          "title": "奋力打开改革发展新天地 - 人民日报",
+          "link": "http://paper.people.com.cn/rmrbhwb/html/2024-11/02/content_26088640.htm",
+          "snippet": "中央党校（国家行政学院）科研部副主任、教授洪向华表示，进一步全面深化改革，涵盖领域的广泛性、触及利益格局调整的深刻性、涉及矛盾和问题的尖锐性、突破 ...",
+          "date": "2天前",
+          "position": 83
+        },
+        {
+          "title": "3D视觉闸机、无障碍服务桩……十五运会倒计时一周年，老场馆如何 ...",
+          "link": "https://wap.stockstar.com/detail/IG2024110300001884",
+          "snippet": "十五运会和残特奥会是首次由粤港澳三地联合承办的综合性体育盛会。市执委会常务副主任、秘书长彭高峰表示，办好本届赛事对推动大湾区建设、促进广州 ...",
+          "date": "10小时前",
+          "position": 84
+        },
+        {
+          "title": "聚焦问题学生背后的教育话题 - 中国经济网",
+          "link": "http://m.ce.cn/lv/gd/202411/04/t20241104_39190629.shtml",
+          "snippet": "调查表明，学生遇到的最大困难集中在学习方面，尤其是考试和成绩，同时还面临心理和情感上的挑战，如被孤立、缺乏自信、沟通障碍等。学生认为，造成 ...",
+          "date": "2小时前",
+          "position": 85
+        },
+        {
+          "title": "复旦新研究：说梦话可能增加日后中风风险 - 论文- 科学网",
+          "link": "https://news.sciencenet.cn/htmlnews/2024/10/533025.shtm",
+          "snippet": "说梦话和可能有快速眼动睡眠行为障碍的参与者中风风险高出93%。快速眼 ... 研究人员表示，这项研究的局限性包括参与者完成了有关他们睡眠的问卷 ...",
+          "date": "4天前",
+          "position": 86
+        },
+        {
+          "title": "大学生心理健康与情感管理的重要性及其实施策略 - 续航教育",
+          "link": "https://www.forwardpathway.com/136000",
+          "snippet": "... 表达自己的情感和需求。 ... 文化多样性影响心理健康服务的提供，主要体现在少数族裔在寻求心理健康服务时面临的文化耻辱、缺乏代表性和系统性障碍。",
+          "date": "12小时前",
+          "position": 87
+        },
+        {
+          "title": "李佳欣：数字技术助力中华优秀传统文化创新性传播 - 中国社会科学网",
+          "link": "https://www.cssn.cn/skqns/skqns_qnzs/202410/t20241030_5797646.shtml",
+          "snippet": "中华优秀传统文化博大精深，其语言特点和使用习惯与其他文化存在显著差异，为求深入理解中文的语境和表达 ... 障碍。根据统计，目前全球有超过7000种 ...",
+          "date": "4天前",
+          "position": 88
+        },
+        {
+          "title": "[PDF] 性别表达和性别认同 - OSPI",
+          "link": "https://ospi.k12.wa.us/sites/default/files/2023-02/1487509_ospi-genderidentitytranslation_chinese-simplified.pdf",
+          "snippet": "民权法禁止在K–12 公立学校中基于性别表现和性别认同实施歧视和歧视性骚扰。 歧视是指由于某人或某个人群属于某个确定的群体（被称为受保护人群）而对 ...",
+          "position": 89
+        },
+        {
+          "title": "性别认同障碍 - UpPotential",
+          "link": "https://uppotential.com/sc/uppotential-island/courses/caring/%E7%97%85%E7%90%86%E7%9F%A5%E8%AF%86/%E5%85%B6%E4%BB%96%E7%96%BE%E7%97%85/%E7%B2%BE%E7%A5%9E%E7%A7%91%E7%96%BE%E7%97%85/%E6%80%A7%E5%88%AB%E8%AE%A4%E5%90%8C%E9%9A%9C%E7%A2%8Ddcb0eef1f73f808dc4fdba366878d1b2/",
+          "snippet": "当一个人在心理上无法认同自己的生理性别，以及其生理性别在社会中所扮演及引申的性别角色，并强烈地相信自己应该属于另一性别，这人便可能已经出现了性别认同障碍的症状。 2.",
+          "position": 90
+        },
+        {
+          "title": "跨性别者和性别不符合者之间的社交焦虑：确认性别的医疗干预措施 ...",
+          "link": "https://www.x-mol.com/paper/1213012986339463193/t?recommendPaper=1357020302004305920",
+          "snippet": "已完成胸部手术，子宫切除术或使用激素的跨男性患者的SA比计划的要低，而完成生殖器手术的SA的SA则比考虑的要低。在那些表示有兴趣的企业中，GAMI的利用与较少的SA相关。GAMI ...",
+          "position": 91
+        },
+        {
+          "title": "性别认同障碍in English - Cambridge Dictionary",
+          "link": "https://dictionary.cambridge.org/dictionary/chinese-simplified-english/%E6%80%A7%E5%88%AB%E8%AE%A4%E5%90%8C%E9%9A%9C%E7%A2%8D",
+          "snippet": "He told friends he had gender dysphoria and expected to become a woman in the next 12 months. 他告诉朋友们，他有性别认同障碍，并期望在未来12个月内变成一名女性。",
+          "position": 92
+        },
+        {
+          "title": "[PDF] 指南：性别包容性交流",
+          "link": "https://www.unodc.org/documents/Gender/gender_sentitive_language/Gender-sensitiveCommsGuide-Chinese-final.pdf",
+          "snippet": "➢ 目标：在传播材料的数量和质量方面，考虑到背景因素和对人的性别的不同表达，平衡和包容. 地描绘妇女和男子。 ➢ 定义：性别包容性语言和交流是将妇女和男子描绘为平等的语言 ...",
+          "position": 93
+        },
+        {
+          "title": "【名家专栏】“变性”儿童实源于心理障碍| 性别障碍| 大纪元",
+          "link": "https://www.epochtimes.com/gb/24/4/13/n14224912.htm",
+          "snippet": "这项意义重大的研究由英国儿科医生希拉里‧卡斯（Hilary Cass）博士开展，该研究证实了我们一直以来的认知：突然出现性别障碍的儿童实际上是患上了其它精神疾病 ...",
+          "date": "2024年4月14日",
+          "position": 94
+        },
+        {
+          "title": "青少年性別認同障礙之認識與處理 - 亞東醫院",
+          "link": "https://www.femh.org.tw/magazine/viewmag.aspx?ID=4692",
+          "snippet": "進入青春期後，隨著第二性徵發育與性別差異的意識浮現，雖然會出現短暫的迷惑、困擾或是企圖隱藏性徵等（例如：刻意讓發育的胸部不明顯），但多半仍可在適應期中順利度過，並完成 ...",
+          "position": 95
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

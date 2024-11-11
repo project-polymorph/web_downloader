@@ -1,0 +1,1318 @@
+{
+  "query": "孕酮",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-04T04:51:22.247749",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "孕酮",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "knowledgeGraph": {
+        "title": "黄体酮",
+        "type": "药物"
+      },
+      "organic": [
+        {
+          "title": "孕酮- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E5%AD%95%E9%85%AE",
+          "snippet": "孕酮（英语：progesterone，缩写：P4），化学命名：孕甾-4-烯-3,20-二酮，是一种内源性类固醇和孕激素（progestogen，性激素的一种），参与人类和其他物种的月经周期、妊娠和胚胎 ...",
+          "position": 1
+        },
+        {
+          "title": "准妈妈真的需要补充黄体酮吗？ - 北京市人民政府门户网站",
+          "link": "http://www.beijing.gov.cn/fuwu/bmfw/jhsyfwzdzx/2021gjjtr/jkyw/202105/t20210510_2385498.html",
+          "snippet": "“抽血查孕酮——医生告知孕酮偏低——吃药打针补黄体酮保胎”，已经成了妇产科常见的流程。然而，这样的保胎真的适合所有人吗？孕早期出血就一定是孕酮低引起的吗？",
+          "date": "2021年5月10日",
+          "position": 2
+        },
+        {
+          "title": "黄体酮_百度百科",
+          "link": "https://baike.baidu.com/item/%E9%BB%84%E4%BD%93%E9%85%AE/1181934",
+          "snippet": "黄体酮（progesterone）又称孕酮、黄体激素，是卵巢分泌的具有生物活性的主要孕激素，化学式为C21H30O2。在排卵前，每天产生的孕酮激素量为2~3mg，主要来自卵巢。",
+          "position": 3
+        },
+        {
+          "title": "孕酮测定的临床意义何在? - 海淀医院",
+          "link": "https://hdhospital.com/Html/News/Articles/103617.html",
+          "snippet": "孕酮又成为黄体酮，可缩写为P，是由卵巢黄体、肾上腺和妊娠时的胎盘产生的主要孕激素。成年未怀孕妇女的孕酮主要作用是与雌激素配合，参与维持正常月经 ...",
+          "date": "2011年11月23日",
+          "position": 4
+        },
+        {
+          "title": "孕酮测定的临床意义何在? - 北京市海淀医院",
+          "link": "https://www.hdhospital.com/Html/Mobile/Articles/103617.html",
+          "snippet": "孕酮又成为黄体酮，可缩写为P，是由卵巢黄体、肾上腺和妊娠时的胎盘产生的主要孕激素。成年未怀孕妇女的孕酮主要作用是与雌激素配合，参与维持正常月经 ...",
+          "date": "2011年11月23日",
+          "position": 5
+        },
+        {
+          "title": "【健康科普】来自准妈妈的忧虑：孕酮低了怎么办 - 烟台市政府",
+          "link": "https://www.yantai.gov.cn/art/2024/5/16/art_86842_3183768.html",
+          "snippet": "孕酮，又称黄体酮，是由卵巢黄体分泌的一种天然孕激素，在体内对雌激素激发过的子宫内膜有显著形态学影响，为维持妊娠所必需。孕酮影响着女性的经期和孕育 ...",
+          "date": "2024年5月16日",
+          "position": 6
+        },
+        {
+          "title": "孕妇孕酮低，可以补吗？ - 上海市卫生健康委员会",
+          "link": "https://wsjkw.sh.gov.cn/ycfbj/20191230/9b8d1471add84e9f9a5a53d79bd21137.html",
+          "snippet": "对于自然怀孕的孕妇来说，一般认为孕早期孕酮>20ng/ml时，胚胎的发育状况比较好，<10ng/ml时，考虑可能存在胚胎发育不良，有流产或宫外孕的风险。",
+          "position": 7
+        },
+        {
+          "title": "黄体素_百度百科",
+          "link": "https://baike.baidu.com/item/%E9%BB%84%E4%BD%93%E7%B4%A0/5412232",
+          "snippet": "黄体素（Progesterone，黄体酮）是一种类固醇，亦称为孕酮、黄体酮。黄体素是一种女性荷尔蒙，参与人类与其他动物的雌性月经周期，支援怀孕与胚胎形成。黄体素是一种助孕 ...",
+          "position": 8
+        },
+        {
+          "title": "HCG和孕酮到底怎么看？-天津市第三中心医院-政务网站发布",
+          "link": "http://www.tj3zx.cn/system/2018/12/11/012321091.shtml",
+          "snippet": "HCG有中文名，叫人绒毛膜促性腺激素，它是怀孕后生产出的一种激素，刺激黄体发育产生孕酮，孕酮可以维持怀孕早期八周内的胚胎发育，为胚胎落户营造好子宫环境， ...",
+          "date": "2018年12月11日",
+          "position": 9
+        },
+        {
+          "title": "炔诺孕酮片说明书 - 标准来源",
+          "link": "https://www.nmpa.gov.cn/wwwroot/sms0829/073.htm",
+          "snippet": "主要作用于下丘脑和垂体，使月经中期血中的促卵泡激素和促黄体生成激素水平高峰降低或消失，促使卵巢不排卵。有明显的抗雌激素活性，使宫颈粘液变稠，阻碍精子穿透，又可使子宫 ...",
+          "position": 10
+        },
+        {
+          "title": "一文读懂孕酮：从哪里来？有什么作用？哪些情况不能用？ - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_22156486",
+          "snippet": "孕酮偶尔下降一些，呈现上下波动的状态，是非常正常的现象。因为孕酮24小时内波动范围比较大，波峰（最高值）与波谷（最低值）可以相差4~8倍，并不需要因为一次的 ...",
+          "date": "2023年3月6日",
+          "position": 11
+        },
+        {
+          "title": "孕期10大谣言，你信了吗？为了宝宝健康，当妈的一定要头脑清醒！",
+          "link": "https://wjw.sz.gov.cn/gzcy/ywzs/jhsy/content/post_3194222.html",
+          "snippet": "孕酮低不一定是流产征兆，黄体酮也不是保胎的“万能药”！ 怀孕7周之前，孕酮主要来自于卵巢上的黄体；7周以后，胚胎的胎盘建立起来了，胎盘会分泌孕酮来维持妊娠 ...",
+          "date": "2019年7月23日",
+          "position": 12
+        },
+        {
+          "title": "流产是孕酮低导致的？孕酮并非根本原因 - 科学辟谣",
+          "link": "https://piyao.kepuchina.cn/h5/rumordetail?id=Emnb",
+          "snippet": "正常妊娠的准妈妈，HCG一般48小时左右翻一倍，孕酮通常在25ng/ml以上。HCG翻倍不理想或孕酮水平低于5ng/ml，提示可能存在异位妊娠或妊娠结局不良，需要在合适的时间进行超声 ...",
+          "position": 13
+        },
+        {
+          "title": "高孕酮血症发病机制进展论述",
+          "link": "http://cjrh.bjmu.edu.cn/fileup/HTML/2019-4-396.shtml",
+          "snippet": "【摘要】 高孕酮血症是育龄期女性一种常见病。目前，高孕酮血症发病机制仍未完全阐明。研究发现，高孕酮血症的发生主要与使用芳香化酶抑制剂、关键酶的缺乏，促超排卵等方面 ...",
+          "position": 14
+        },
+        {
+          "title": "除甲地孕酮外，化疗后食欲减退还能如何应对？ - 中山大学附属第三医院",
+          "link": "https://zssy.com.cn/article/21626",
+          "snippet": "王先生接受化疗后食欲不振，医生却开具“甲地孕酮片”，对此，王先生充满疑惑。” 什么是甲地孕酮？甲地孕酮是黄体酮衍生物，主要调节体内激素平衡，有孕激素和 ...",
+          "date": "2022年11月18日",
+          "position": 15
+        },
+        {
+          "title": "【省医产科说科普】早孕期需要监测孕酮水平吗…",
+          "link": "https://www.sph.com.cn/Html/News/Articles/21292.html",
+          "snippet": "早孕期需要监测孕酮水平吗? 怀孕了，需要抽血监测孕酮水平和变化趋势吗?补充外源性孕激素需要监测孕酮水平改变吗? 大可不必! 孕酮对妊娠的建立和维持至关重要的主要激素 ...",
+          "position": 16
+        },
+        {
+          "title": "妇产科普|雌激素、孕激素傻傻分不清楚？今日助你一文读懂",
+          "link": "http://wjw.beijing.gov.cn/bmfw_20143/jkzs/jksh/202103/t20210316_2308651.html",
+          "snippet": "雌激素：修复月经期后的子宫内膜并使子宫内膜腺体增生，为排卵期后孕酮使内膜向分泌期转化做好准备。 孕激素：使增生期的子宫内膜转变为分泌期，开启 ...",
+          "date": "2021年3月16日",
+          "position": 17
+        },
+        {
+          "title": "黄体酮是否确能防治自然流产？ - 中华全科医师杂志",
+          "link": "https://rs.yiigle.com/cmaid/598307",
+          "snippet": "黄体酮(简称\"孕酮\")是一种女性性激素，属于孕激素(也称\"黄体激素\")类。医学上认为，早孕期间发生自然流产的妇女，有相当一部分是由于自身黄体激素分泌不足所致。因此 ...",
+          "position": 18
+        },
+        {
+          "title": "早孕发现孕酮低，要保胎吗？ - 诸暨市",
+          "link": "https://www.zhuji.gov.cn/art/2023/2/14/art_1453348_59096823.html",
+          "snippet": "早孕发现孕酮低，要保胎吗？ · 1、已经确认为宫内妊娠，出现阴道流血、腹痛等先兆流产症状。可以根据病情以及孕酮水平，适当补充孕酮。 · 2、孕期监测孕酮水平 ...",
+          "date": "2023年2月14日",
+          "position": 19
+        },
+        {
+          "title": "醋酸甲地孕酮治疗厌食‐恶病质综合症 - Cochrane Library",
+          "link": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004310.pub3/abstract/zh_HANS",
+          "snippet": "醋酸甲地孕酮治疗厌食‐恶病质综合症. 厌食‐恶病质综合症（Anorexia‐cachexia，ACS）是一种临床常见疾病，以食欲不振、体重下降为特征。常见于患有晚期癌症、 ...",
+          "date": "2013年3月28日",
+          "position": 20
+        },
+        {
+          "title": "孕酮受体- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E5%AD%95%E9%85%AE%E5%8F%97%E4%BD%93",
+          "snippet": "孕酮受体 编辑 ... 孕酮受体（英语：progesterone receptor，缩写PR，也被称为NR3C3 ，nuclear receptor subfamily 3, group C, member 3，即核受体第三亚族C组成员3）是一种细胞内 ...",
+          "position": 21
+        },
+        {
+          "title": "什么是孕酮 - 重庆频道- 人民网",
+          "link": "http://cq.people.com.cn/n2/2022/0829/c365414-40101309.html",
+          "snippet": "怀孕是一件幸福的事，怀孕后身体的各个指标也是深受众多怀孕女性关注的，尤其是孕酮，它是维持妊娠的重要因素。那么，什么是孕酮呢？引起孕酮低的原因有 ...",
+          "date": "2022年8月29日",
+          "position": 22
+        },
+        {
+          "title": "孕酮-2,3,4- 13 C 3",
+          "link": "https://www.sigmaaldrich.com/HK/zh/product/aldrich/737143?srsltid=AfmBOoojkQ5jpEU69DXYDnNj1Dp3VkscuEpXwQOQWrl4fdNejibOcnnu",
+          "snippet": "孕酮-2,3,4-13C3 99 atom % 13C, 98% (CP); CAS Number: 327048-87-3; Synonyms: 4-孕烯-3,20-二酮-2,3,4-13C3 at Sigma-Aldrich.",
+          "currency": "US$",
+          "price": 564,
+          "position": 23
+        },
+        {
+          "title": "联合雌、孕激素、β-hCG水平对早期妊娠结局的预测及治疗指导",
+          "link": "http://cjrh.bjmu.edu.cn/fileup/HTML/2018-3-274.shtml",
+          "snippet": "孕酮水平反映了卵巢妊娠黄体和胎盘的功能，孕12 周前孕酮水平相对稳定，与孕周无相关性；雌二醇水平反映优势卵泡的质量及卵巢妊娠黄体功能，雌二醇水平快速上升，说明胎儿存活 ...",
+          "position": 24
+        },
+        {
+          "title": "孕酮低会导致流产、胎停？准妈妈要如何应对 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_26946959",
+          "snippet": "有的孕妈孕酮过低，可能是由疾病因素引起的，内分泌功能紊乱就是最常见的一种原因之一。这种情况就需要孕妈及时到正规医院进行检查，听从医生建议进行相关 ...",
+          "date": "2024年4月8日",
+          "position": 25
+        },
+        {
+          "title": "孕酮低是什么原因造成?孕酮低怎么办?|先兆流产 - CN-Healthcare",
+          "link": "https://www.cn-healthcare.com/articlewm/20211204/content-1292149.html",
+          "snippet": "在怀孕期间，如果女性孕酮降低，会对胎儿的发育有很大影响，严重情况甚至流产。孕酮低是什么原因造成?出现孕酮降低的情况应该怎么办呢?",
+          "date": "2021年12月4日",
+          "position": 26
+        },
+        {
+          "title": "血HCG和孕酮正常参考图",
+          "link": "https://www.leewomens.com.cn/share-detail/a36/",
+          "snippet": "怀孕后，女性的卵巢黄体会分泌一种叫做孕酮的激素。通常在刚怀孕后不久，孕酮水平会达到25纳克或更高，这表明胚胎的发育是正常的。如果孕酮水平低于15，可能 ...",
+          "date": "2023年8月19日",
+          "position": 27
+        },
+        {
+          "title": "女人出现这6个“迹象”，可能是缺黄体酮，可食疗+药物来补充 - 搜狐",
+          "link": "https://www.sohu.com/a/588023453_121023938",
+          "snippet": "黄体的主要功能是分泌孕酮（黄体酮）、雌激素和松弛素，其中，黄体酮也叫孕酮是一种天然孕激素，对女性的健康和孕育起到了关键作用。当黄体酮不足时，它会 ...",
+          "date": "2022年9月28日",
+          "position": 28
+        },
+        {
+          "title": "孕酮-2,3,4- 13 C 3 溶液",
+          "link": "https://www.sigmaaldrich.com/HK/zh/product/aldrich/803065?srsltid=AfmBOooQ7QKV0RYXn096dCys8B8YxKZ8EHvli6MoWubqw0K-K4psI1JA",
+          "snippet": "孕酮-2,3,4-13C3 溶液100 μg/mL in acetonitrile, 99 atom % 13C, 98% (CP) at Sigma-Aldrich.",
+          "position": 29
+        },
+        {
+          "title": "孕酮、黄体酮、孕激素都是啥？ - 约健康",
+          "link": "https://www.ehealthship.com/articleDetail.zhtml?Type=Article&id=2366",
+          "snippet": "黄体酮：天然的孕激素，不过，并不是妈妈分泌的，她是从马铃薯中提取，大土豆孕激素，由于她的结构和妈妈分泌的孕酮相类似，妈妈分泌的孕酮是来源于卵巢的黄体，于是她就起了个可以 ...",
+          "position": 30
+        },
+        {
+          "title": "怀孕后孕酮低，我需要补充黄体酮吗？ - 四川省妇幼保健院",
+          "link": "https://m.fybj.net/character_key/2024/5eVQK5dE.html",
+          "snippet": "试管婴儿周期中存在黄体功能不足，有明确的证据证明需要使用孕酮保胎；孕中期宫颈管缩短（≤25mm）的单胎或双胎妊娠，目前的证据证明经阴道补充黄体酮可降低流产 ...",
+          "date": "2024年4月12日",
+          "position": 31
+        },
+        {
+          "title": "孕酮测定试剂盒（Prog）（磁微粒化学发光免疫分析法）",
+          "link": "http://www.bnibt.com/bfsw/cpzx23/ivdjxgsj64/xxxl93/1148519/index.html",
+          "snippet": "孕酮测定试剂盒（Prog）（磁微粒化学发光免疫分析法） ... 本产品用于定量测定人血清中的孕酮（Prog）的含量。 孕酮（Progesterone，Prog）是一种含21碳的固醇类激素，为类固醇激素合成 ...",
+          "position": 32
+        },
+        {
+          "title": "其实孕酮、HCG、B超三项在早孕检查中非常普遍 - 苏州京东方医院",
+          "link": "https://www.szboehospital.com/healthy/dynamic-13fea16e2c914541bd5a29de5db0b3b5",
+          "snippet": "HCG：是人们最常使用的“妊娠试验”激素。一般大家所熟知的早孕试纸测的就是尿液中的这类激素。一般在受精后7日就可以在血清中检测到，正常妊娠时，HCG—β这个 ...",
+          "date": "2019年11月12日",
+          "position": 33
+        },
+        {
+          "title": "孕酮高怎么回事？孕妇可以自己调节吗？ - 丁香通",
+          "link": "https://www.biomart.cn/news/16/2880085.htm",
+          "snippet": "孕酮高怎么回事？孕妇可以自己调节吗？ · 1.疾病会导致孕酮高. 孕酮是由卵巢黄体分泌的性激素，孕酮能够使子宫内膜由增殖期转变为分泌期。 · 2.内分泌失调 ...",
+          "date": "2018年9月4日",
+          "position": 34
+        },
+        {
+          "title": "孕酮低会导致流产吗？ - 大连大学附属中山医院",
+          "link": "https://www.dlhospital.com/orthopedic/article_display/8367",
+          "snippet": "在我们正常人体有许多监测卫士，一旦孕酮值变低时，就会将这种信号发送给我们的下丘脑及垂体（即卫士们的长官），从而使孕酮分泌，水平波动很大，有时低至5ng/ml ...",
+          "date": "2020年11月20日",
+          "position": 35
+        },
+        {
+          "title": "妊娠期HCG和孕酮正常值图表 - 壹生",
+          "link": "https://www.cmtopdr.com/post/detail/055090f8-3ecc-470f-816d-9b77a55643d7",
+          "snippet": "hCG翻倍不好，胚胎因为缺少养分，可能会发育迟缓甚至停育；孕酮不够，胚胎就会着床不稳，造成出血甚至流产。但是hCG和孕酮数值低，并非一定会流产，只是概率会高， ...",
+          "date": "2022年11月26日",
+          "position": 36
+        },
+        {
+          "title": "孕酮（PROG）抗体_免费试用 - 南京欧凯生物",
+          "link": "https://www.okaybio.com/PROG/",
+          "snippet": "孕酮（PROG）的生物学功能. PROG具有维持妊娠，控制排卵、胚泡着床、子宫和乳腺发育，抑制雌激素对子宫上皮增殖的功能。内源性孕酮可使子宫内膜从增生期转化为分泌期，促使子宫 ...",
+          "position": 37
+        },
+        {
+          "title": "孕酮就是黄体酮吗？二者有区别吗？ - ChemicalBook",
+          "link": "https://www.chemicalbook.com/NewsInfo_60500.htm",
+          "snippet": "孕酮也可称为“黄体酮”，英文是progesterone。两者的区别一般在于使用语境和表达习惯。换句话说，孕酮一般泛指内源性的孕酮，强调的是人体自己产生的。而黄体 ...",
+          "date": "2024年2月26日",
+          "position": 38
+        },
+        {
+          "title": "孕酮值低，就得保胎吗 - 中国数字科技馆",
+          "link": "https://www.cdstm.cn/gallery/media/mkjx/jtyis/202112/t20211214_1061463.html",
+          "snippet": "如果孕酮值偏低，宝妈就可能无法淡定了，着急要补充孕酮，以期“保胎”。 “这 ...",
+          "date": "2021年12月14日",
+          "position": 39
+        },
+        {
+          "title": "孕酮正常值是多少?孕酮多少是怀孕? - CN-Healthcare",
+          "link": "https://www.cn-healthcare.com/articlewm/20211206/content-1292674.html",
+          "snippet": "孕酮作为女性一种重要激素，能够维持女性正常的月经周期，促进正常的排卵。",
+          "date": "2021年12月6日",
+          "position": 40
+        },
+        {
+          "title": "孕酮保胎，只适合一类人 - 生命时报",
+          "link": "https://www.lifetimes.cn/article/4643tTlC6EK",
+          "snippet": "常用补充孕酮的药物主要有地屈孕酮、黄体酮。黄体酮属于天然孕酮，口服后很多人会出现头晕、嗜睡等症状，因此服药后应避免自己开车出行，建议空腹服用，远离进餐时间，一日一次 ...",
+          "position": 41
+        },
+        {
+          "title": "孕初期无需纠结孕酮高低 - 新浪新闻",
+          "link": "https://news.sina.cn/2016-07-31/detail-ifxunuyk4186182.d.html",
+          "snippet": "“形象地说，就是这些女性体内分泌的黄体酮很少，难以让子宫形成一片肥沃的土壤，让受精卵着床。她们在怀孕之前往往还会有月经不调或不孕不育等问题。所以，这 ...",
+          "date": "2016年7月31日",
+          "position": 42
+        },
+        {
+          "title": "真有那么多「孕酮低」的孕妇需要补充黄体酮吗？ - 妇产",
+          "link": "http://obgyn.dxy.cn/article/111795",
+          "snippet": "在瑞士，与安慰剂组相比，黄体酮的使用增加了14 天内自然分娩和妊娠37 周前早产的风险。因此，在现有文献的基础上，黄体酮不应用来作为早产女性的安胎之法。",
+          "date": "2015年7月13日",
+          "position": 43
+        },
+        {
+          "title": "孕酮类固醇激素 - 辉瑞CentreOne",
+          "link": "https://www.pfizercentreone.com.cn/regular-progesterone",
+          "snippet": "可靠的商业供给. 由植物甾醇半合成的黄体酮商业API 每天都会通过药方安全提供给世界各地的女性。辉瑞CentreOne 的美国工厂长期合成和提供商业供给，令您放心。",
+          "position": 44
+        },
+        {
+          "title": "中华医学会科普图文怀孕早期有必要常规监测HCG和孕酮值吗？怎么 ...",
+          "link": "https://www.cma.org.cn/art/2022/12/13/art_4584_48659.html",
+          "snippet": "早孕试纸其实查的就是人绒毛膜促性腺激素，也就是HCG，它只是一个定性的检查，如果一条杠加深，一条杠加深得不明显的情况下，还是需要复查一下，去医院抽血查 ...",
+          "date": "2022年12月13日",
+          "position": 45
+        },
+        {
+          "title": "孕酮、HCG到底查几次，为何大家都不同？",
+          "link": "https://m.drcuiyutao.com/yxy-babyhealth-wap/knowlege/findbyid.htm?knId=2414",
+          "snippet": "有些准妈妈从验出怀孕到孕3月（12周）之前从未做过孕酮和血HCG检查，有些准妈妈却被医生要求反复检查多次，这些都是正常的。孕酮和HCG检查的次数并不像产检那样有固定要求，检查 ...",
+          "position": 46
+        },
+        {
+          "title": "黄体酮（孕激素），母亲的另一种重要激素 - Prime Fertility Center",
+          "link": "https://www.primefertilitycenter.com/zh/%E5%AD%95%E6%BF%80%E7%B4%A0%EF%BC%8C%E6%AF%8D%E4%BA%B2%E7%9A%84%E5%8F%A6%E4%B8%80%E7%A7%8D%E9%87%8D%E8%A6%81%E6%BF%80%E7%B4%A0/",
+          "snippet": "除了熟悉的雌激素，女性还有另一种重要的激素，那是一种叫“黄体酮” 的激素（孕激素），所有母亲都有所认识。黄体酮(孕酮) 是一种由卵巢和胎盘产生的女性激素，（在怀孕期间）由 ...",
+          "position": 47
+        },
+        {
+          "title": "停止滥用黄体酮给孕妇保胎！_评论频道 - 今日话题",
+          "link": "https://view.news.qq.com/zt2012/app_htt/",
+          "snippet": "孕激素有抑制子宫活动使胎儿安全生长等作用，为维持妊娠所必需。因此孕酮数值若偏低，则说明胎儿发育或黄体功能可能不正常。 但是怎样才能判定孕酮偏低呢？",
+          "date": "2012年5月26日",
+          "position": 48
+        },
+        {
+          "title": "【孕育指南】孕酮低需要保胎？别自己吓自己 - 健康160",
+          "link": "https://www.91160.com/doctors/articledetail/docid-200270501/articleid-216725.html",
+          "snippet": "孕酮水平的高低与是否流产的结局没有直接联系。偶尔一次测到孕酮偏低，并不是说已经流产或者肯定会流产。只要身体没有出现异常状况，如未出现腹痛和阴道流血 ...",
+          "date": "2020年8月3日",
+          "position": 49
+        },
+        {
+          "title": "早孕期孕酮水平的回顾性研究 - 中国妇产科临床杂志",
+          "link": "https://www.obgyncn.com/CN/Y2017/V18/I3/200",
+          "snippet": "【摘要】 目的 比较正常妊娠结局和胚胎停育孕妇的早孕期孕酮水平，并随访早孕期孕激素补充治疗的安全性。方法 回顾性分析了2015年1月至2月在北京协和 ...",
+          "date": "2017年5月15日",
+          "position": 50
+        },
+        {
+          "title": "食品药品监管局修订左炔诺孕酮片非处方药说明书 - 中国政府网",
+          "link": "https://www.gov.cn/gzdt/2010-12/02/content_1758455.htm",
+          "snippet": "[作用类别]本品为口服避孕药类非处方药药品。 [适应症]用于女性紧急避孕，即在无防护措施或其他避孕方法偶然失误时使用。 ... [用法用量]口服，在房事后72小时 ...",
+          "date": "2010年12月2日",
+          "position": 51
+        },
+        {
+          "title": "[PDF] 阴道孕酮素 - SA Health",
+          "link": "https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/resources/vaginal+progesterone+chinese+simplified",
+          "snippet": "一个激素补充栓剂(软胶囊)，使用方式是. 将其直接塞入阴道。并非口服药。 为什么要使用它？ 使用阴道孕酮素可降低过早出生(早产) ...",
+          "position": 52
+        },
+        {
+          "title": "细数孕酮那些事 - 梅斯医学",
+          "link": "https://m.medsci.cn/show_article.do?id=5a8643e62c0",
+          "snippet": "排卵前，体液中的孕酮水平应当低于2纳克/毫升，排卵后则应当高于5纳克/毫升。而如果怀孕，孕激素水平刚开始会停留在黄体期的水平，而当胎盘形成之后，胎盘所 ...",
+          "date": "2014年12月8日",
+          "position": 53
+        },
+        {
+          "title": "孕期适当多吃三种食物不再怕“孕酮”不足 - 津云",
+          "link": "http://www.tjyun.com/system/2022/09/19/053130831.shtml",
+          "snippet": "除此之外，芹菜在怀孕初期的时候也能够缓解妊娠反应。当然如果孕妇不太喜欢吃芹菜的话，我们可以把芹菜煲成汤又或者是做成凉拌芹菜，这样都可以使得芹菜的 ...",
+          "date": "2022年9月18日",
+          "position": 54
+        },
+        {
+          "title": "[PDF] 醋酸甲羟孕酮片说明书 - Pfizer",
+          "link": "https://labeling.pfizer.com/ShowLabeling.aspx?id=14459",
+          "snippet": "醋酸甲羟孕酮片说明书. 请仔细阅读说明书并在医师或药师指导下使用。 【药品名称】. 通用名称：醋酸甲羟孕酮片. 商品名称：法禄达®/ FARLUTAL ...",
+          "position": 55
+        },
+        {
+          "title": "黄体支持与孕激素补充共识 - 丁香园",
+          "link": "https://e.dxy.cn/wisdom/front/zhihuihao/2637",
+          "snippet": "黄体期，膜黄体细胞在LH 的作用下产生雄激素，在FSH 作用下经颗粒黄体细胞芳香化形成雌激素。雌激素并不是维持妊娠所必需的激素，但黄体雌激素分泌对维持孕酮 ...",
+          "date": "2019年1月22日",
+          "position": 56
+        },
+        {
+          "title": "孕酮低了，该用黄体酮还是地屈孕酮？ - 壹生",
+          "link": "https://cmtopdr.com/post/detail/594f33ca-8d39-47bc-91d0-e6fd07797842",
+          "snippet": "黄体酮对孕激素受体的亲和力不如地屈孕酮，地屈孕酮低剂量即可起效。同时口服给药，地屈孕酮的孕激素效能为口服黄体酮的10~20倍。",
+          "date": "2021年11月26日",
+          "position": 57
+        },
+        {
+          "title": "孕激素注射剂- MSD诊疗手册专业版",
+          "link": "https://www.msdmanuals.cn/professional/gynecology-and-obstetrics/family-planning/progestin-contraceptive-injections",
+          "snippet": "世界各地都有各种避孕黄体酮注射。 长效醋酸甲羟孕酮（DMPA）是乙酸甲羟孕酮的长效可注射结晶悬浮制剂。 使用DMPA的第一年，完美使用的妊娠率是0.2％，而一般使用（比如延迟 ...",
+          "position": 58
+        },
+        {
+          "title": "【科普】孕酮低，需要保胎吗？ - 青海省妇幼保健院",
+          "link": "https://www.qhfybjy.com/NewsView.asp?ID=2109",
+          "snippet": "如果你的孕酮数值持续低于正常值，且一次比一次降低，只能提示发生流产的风险可能会提高。但还需要结合B超是否可见胎心，HCG的数值等判断。如果见到胎心搏动，且发育正常，这 ...",
+          "position": 59
+        },
+        {
+          "title": "重点推荐：高灵敏度孕酮抗体！-北京博奥森生物技术有限公司",
+          "link": "http://bioss.com.cn/newslook_02.asp?id01=959&typetype=1",
+          "snippet": "背景资料. 孕酮（Progesterone），简称P，又称为黄体酮，是一种类固醇激素，主要由胎盘和黄体产生。人体内孕酮的浓度与黄体的生长、退化紧密相连。孕酮可调节垂体分泌的部分 ...",
+          "position": 60
+        },
+        {
+          "title": "孕妇不要轻易用黄体酮保胎 - 育儿- 新浪",
+          "link": "http://baby.sina.com.cn/health/14/3006/2014-06-30/0805273592.shtml?from=wap",
+          "snippet": "记者询问了几位专家，她们都表示，真正的黄体功能不全引起孕激素水平缺乏导致的流产所占的比例很小。 黄体酮. 须在严格指征下使用. “很多情况下，妇女一怀孕， ...",
+          "date": "2014年6月30日",
+          "position": 61
+        },
+        {
+          "title": "黄体酮栓说明书 - 标准来源",
+          "link": "https://www.nmpa.gov.cn/wwwroot/sms0829/040.htm",
+          "snippet": "在月经周期后期能使子宫内膜分泌期改变，为孕卵着床提供有利条件，在受精卵植入后，胎盘形成，可减少妊娠子宫的兴奋性，使胎儿能安全生长。在与雌激素共同作用时，可促使乳房发育 ...",
+          "position": 62
+        },
+        {
+          "title": "【科普】怀孕后“孕酮知识”知多少 - 搜狐",
+          "link": "https://www.sohu.com/a/705812873_121123747",
+          "snippet": "孕酮又称黄体酮，是由卵巢黄体和胎盘分泌的一种天然孕激素，是维持妊娠所必需的，黄体功能不足会导致正常妊娠难以维持。孕早期孕酮的分泌呈脉冲性， ...",
+          "date": "2023年7月24日",
+          "position": 63
+        },
+        {
+          "title": "己酸羟孕酮 - 药品信息--国家基本药物",
+          "link": "https://www.xqhospital.com.cn/drug/drug0202.asp?ID=166&class=%B8%BE%B2%FA%BF%C6%D3%C3%D2%A9&class1=%BC%A4%CB%D8%C0%E0%D2%A9&class2=&class3=",
+          "snippet": "药剂名称：, 己酸羟孕酮. 别名：, 长效黄体酮、己酸孕酮 Hydroxyprogesterone Caproate. 主要成分和含量：. 性状：, 为白色结晶性粉末、无臭。易溶于乙醇、丙酮、氯仿、 ...",
+          "position": 64
+        },
+        {
+          "title": "放松心态，淡定看待孕酮值_常见问题 - 育学园",
+          "link": "https://m.drcuiyutao.com/yxy-babyhealth-wap/knowlege/findbyid.htm?knId=2370",
+          "snippet": "不同医院的检测仪器不同，使用的单位也存在差异，准妈妈需留意化验单上所使用的单位。通常情况下，孕酮值大于25ng/ml被认为是安全的，但这也并非绝对标准，需要结合HCG等全面 ...",
+          "position": 65
+        },
+        {
+          "title": "[PDF] 用于辅助生殖技术中的黄体支持 - 雅培",
+          "link": "https://www.abbott.com.cn/content/dam/corp/abbott/cn-cn/2022-updata/DiQuYunTong_Pian.pdf",
+          "snippet": "【不良反应】. 临床试验中接受地屈孕酮治疗适应症但未使用雌激素的患者报告的最. 常见不良反应是阴道出血、乳房疼痛/压痛、恶心、腹痛、月经失调、. 偏头痛/头痛。 不良 ...",
+          "position": 66
+        },
+        {
+          "title": "黄体酮能否保胎？迄今大规模研究回答60年争辩 - 生物谷",
+          "link": "https://www.bioon.com/article/ab9f669441f7.html",
+          "snippet": "... 酮（也称孕酮）便是最受关注的指标之一。但孕早期是否需要补充黄体酮来“保胎”，一直备受争议。今天，《新英格兰医学杂志》最新发表了有史以来规模最大 ...",
+          "date": "2019年5月13日",
+          "position": 67
+        },
+        {
+          "title": "孕酮测试– 依纳康科技 - eNano Health",
+          "link": "https://enanohealth.com/enano_wp3/index.php/sc/products-chi2/progesterone-test-chi2/",
+          "snippet": "量度孕酮水平. 怀孕期间的健康风险可透过使用唾液测试进行监察，当中包括血糖、胰岛素、叶酸、叶酸盐、压力和孕酮。 我们的唾液测试量度血液中的孕酮水平，用家可轻松且方便 ...",
+          "currency": "$",
+          "price": 200,
+          "position": 68
+        },
+        {
+          "title": "什麼是孕酮",
+          "link": "http://cq.people.com.cn/BIG5/n2/2022/0829/c365414-40101309.html",
+          "snippet": "重慶安琪兒婦產醫院婦產醫生高雪清表示，孕酮又被稱為黃體酮，還可以稱為黃體激素、黃體甾酮、助孕激素等。孕酮屬於孕激素，可以保護子宮內膜，是維持妊娠所 ...",
+          "date": "2022年8月29日",
+          "position": 69
+        },
+        {
+          "title": "孕激素或永久重塑女性大脑 - 中国科学院",
+          "link": "https://www.cas.cn/kj/202310/t20231010_4973713.shtml",
+          "snippet": "研究人员在这些神经细胞内发现了大量与雌激素和黄体酮结合的受体分子。移除怀孕小鼠的这些细胞似乎会阻碍典型的养育行为。 在这种特定情况下，由于黄体酮 ...",
+          "date": "2023年10月10日",
+          "position": 70
+        },
+        {
+          "title": "【科普】“医生，我孕酮有点低，帮我开点黄体酮保胎嘛”",
+          "link": "https://www.jjfck.com/?m=home&c=View&a=index&aid=408",
+          "snippet": "孕酮低了会流产”很多孕妈妈都有这样的认知，当看到报告上面孕酮偏低的时候，就会赶紧让医生开黄体酮保胎。还有不少孕妈妈自行使用黄体酮来提前预防。但小锦在这里想说， ...",
+          "position": 71
+        },
+        {
+          "title": "孕酮低可能是胎停生殖专家教你如何判断 - 手机江西网",
+          "link": "https://m.jxnews.com.cn/jk/system/2020/06/03/018916077.shtml",
+          "snippet": "正常的孕酮水平是随着孕期不同而变化，不是一成不变，并且孕酮的水平在不同人群中的个体差异也不相同，差别较大。通常来说孕6~8周前孕酮水平低于31.8nmol/L时 ...",
+          "date": "2020年6月3日",
+          "position": 72
+        },
+        {
+          "title": "地屈孕酮联合黄体酮对高龄第二胎次先兆流产保胎成功率及β-HCG",
+          "link": "http://ccj.pku.edu.cn/article/info?aid=254275433",
+          "snippet": "结果试验组孕妇治疗后保胎成功率高于对照组孕妇,治疗后血清β-HCG、孕激素和雌激素水平大于对照组孕妇,差异均具有统计学意义(均P0.05)。结论地屈孕酮联合黄体酮对高龄第二胎 ...",
+          "position": 73
+        },
+        {
+          "title": "正常妊娠与自然流产患者妊娠初期血清孕酮水平变化与黄体支持疗效 ...",
+          "link": "https://rs.yiigle.com/CN114798201504/133610.htm",
+          "snippet": "妊娠组排卵后14～21 d(128.1 nmol/L)、22～27 d(129.3 nmol/L)、28 d后(121.8 nmol/L)孕酮水平稳定，且均高于同时期流产组水平(39.9、35.2、11.7 nmol/L)， ...",
+          "date": "2015年4月4日",
+          "position": 74
+        },
+        {
+          "title": "保胎之前你了解HCG和孕酮吗？ - 行业动态",
+          "link": "https://www.adicon.com.cn/news/4343.html",
+          "snippet": "医生不会只看hCG的绝对数值，而是看hCG的翻倍情况！由于每个人的体质不同，受精卵着床有早晚等原因。每个人平都是不一样的，有的准妈妈孕4周hCG只有几十，有的可能是几百。因此， ...",
+          "position": 75
+        },
+        {
+          "title": "碧云天生物技术-Progesterone ELISA Kit (孕酮ELISA试剂盒)(PP773)",
+          "link": "https://www.beyotime.com/product/PP773.htm",
+          "snippet": "碧云天的Progesterone ELISA Kit (Progesterone Enzyme-Linked ImmunoSorbent Assay Kit)，即孕酮酶联免疫吸附检测试剂盒，是一种用于特异性地高灵敏地定量检测所有哺乳 ...",
+          "currency": "¥",
+          "price": 3198,
+          "position": 76
+        },
+        {
+          "title": "HCG和孕酮只是告诉你有没有怀孕？它的用处多着呢！-MedSci.cn",
+          "link": "https://www.medsci.cn/article/show_article.do?id=e0f2163115ef",
+          "snippet": "孕酮在妊娠8～10周前由滋养细胞及黄体分泌，8～10周后主要来自胎盘。孕酮的量在整个孕期中逐渐升高，孕早期上升速度较慢，中期加快，至足月妊娠时达到高峰。",
+          "date": "2019年3月27日",
+          "position": 77
+        },
+        {
+          "title": "男性2型糖尿病患者血清孕酮与临床指标及常见中医证型的相关性- PMC",
+          "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6743947/",
+          "snippet": "分析男性2型糖尿病（T2DM）患者血清孕酮（PROG）水平与多项临床指标、常见中医证型的相关性，探讨PROG在男性T2DM患者诊疗中的意义。 ...",
+          "position": 78
+        },
+        {
+          "title": "Gordonia sp. H52 对合成孕激素左炔诺孕酮的降解特性 - 微生物学通报",
+          "link": "https://wswxtb.ijournals.cn/wswxtben/article/pdf/tb24062127",
+          "snippet": "Microbiology China, 2024, 51(6): 2127-2140. 摘要：【背景】合成孕激素左炔诺孕酮因其具有内分泌干扰效应而受到广泛关注，微生物在 ...",
+          "date": "2024年5月23日",
+          "position": 79
+        },
+        {
+          "title": "【省医产科说科普】早孕期需要监测孕酮水平吗？",
+          "link": "https://www.sph.com.cn/Html/Mobile/Articles/21292.html",
+          "snippet": "早孕期需要监测孕酮水平吗? 怀孕了，需要抽血监测孕酮水平和变化趋势吗?补充外源性孕激素需要监测孕酮水平改变吗? 大可不必! 孕酮对妊娠的建立和维持至 ...",
+          "date": "2021年3月3日",
+          "position": 80
+        },
+        {
+          "title": "醋酸甲羟孕酮（安宫黄体酮） - MtF.wiki",
+          "link": "https://mtf.wiki/zh-cn/docs/medicine/antiandrogen/medroxyprogesterone/",
+          "snippet": "醋酸甲羟孕酮（Medroxyprogesterone Acetate），是一种类固醇孕激素，具有抗促性腺激素作用，可以抑制体内雄激素水平。在无法获取到醋酸环丙孕酮（Cyproterone Acetate）时可 ...",
+          "position": 81
+        },
+        {
+          "title": "孕早期，孕酮数值偏低，可以靠食疗来提高吗？ - QQ News",
+          "link": "https://news.qq.com/rain/a/20201110A0FERI00",
+          "snippet": "如果孕妇体内孕酮水平不足，容易导致先兆流产或流产。所以，如果孕妇检查孕酮比较低，需要尽快查明原因后补充孕酮。 有些孕妇担心孕早期补充药物会对胎儿有不 ...",
+          "date": "2020年11月10日",
+          "position": 82
+        },
+        {
+          "title": "[PDF] 黄体酮注射液（Ⅱ） - 国家医疗保障局",
+          "link": "https://www.nhsa.gov.cn/attach/Ypsn2024/YPSW202400308/YPSW202400308(PPT).pdf",
+          "snippet": "结论：皮下注射水溶性黄体酮疗效优于口服地屈孕酮，且有显著性差异. 皮下注射水溶性黄体酮，与各类阴道制剂对比，妊娠结局相当1-3. 皮下注射水溶性黄体酮 ...",
+          "date": "2024年6月18日",
+          "position": 83
+        },
+        {
+          "title": "左炔诺孕酮宫内缓释系统对增生过长子宫内膜的雌孕激素受体的影响",
+          "link": "https://www.j-smu.com/CN/abstract/abstract5558.shtml",
+          "snippet": "治疗前大部分腺体上皮和间质细胞ER、PR免疫着色显示为强染。治疗后子宫内膜雌孕激素受体表达下降，腺上皮细胞和间质细胞中ER、PR阳性细胞数均明显减少。结论LNG-IUS可抑制 ...",
+          "position": 84
+        },
+        {
+          "title": "怀孕那些事儿之孕酮与人绒毛膜促性腺激素的关系 - 潞河医院",
+          "link": "https://www.luhehospital.com/Html/News/Articles/2894.html",
+          "snippet": "怀孕那些事儿之孕酮与人绒毛膜促性腺激素的关系 · 一：HCG翻倍很好孕酮下降. HCG翻倍很好，孕酮下降了，这说明胚胎是在正常发育，但是HCG促孕酮的功能不行。",
+          "date": "2017年2月23日",
+          "position": 85
+        },
+        {
+          "title": "GBW(E)100119 黄体酮纯度标准物质(孕酮) 国家标准物质资源共享平台",
+          "link": "https://www.ncrm.org.cn/Web/Ordering/MaterialDetail?autoID=5455",
+          "snippet": "GBW(E)100119 黄体酮纯度标准物质(孕酮). 100mg/瓶 干燥. ￥540.00. 状态, 在售. 物流, 普通运输. 当前批次量值, 99.2%. 有效期, 2026-06-25. 无货. 数量: - +. 您所填写的 ...",
+          "currency": "¥",
+          "price": 540,
+          "position": 86
+        },
+        {
+          "title": "醋酸甲地孕酮治疗厌食-恶病质综合症 - Cochrane",
+          "link": "https://www.cochrane.org/zh-hans/CD004310/SYMPT_cu-suan-jia-di-yun-tong-zhi-liao-yan-shi-e-bing-zhi-zong-he-zheng",
+          "snippet": "醋酸甲地孕酮（Megestrol acetate，MA）是一种口服的女性激素。目前它被用于改善食欲和增加ACS患者的体重。",
+          "position": 87
+        },
+        {
+          "title": "黄体酮| 57-83-0",
+          "link": "https://www.chemicalbook.com/ChemicalProductProperty_CN_CB4224484.htm",
+          "snippet": "孕酮（英语：progesterone，亦被称为黄体酮、孕甾酮、黄体甾酮、助孕激素、助孕素、黄体素或助孕酮，其缩写为P4，也被称为(孕甾-4-烯-3,20-二酮)，是一种内源性类固醇和孕激素 ...",
+          "position": 88
+        },
+        {
+          "title": "地屈孕酮维持早期妊娠及防治流产 - 医师报",
+          "link": "https://www.mdweekly.com.cn/m/article/detail?id=13406",
+          "snippet": "地屈孕酮维持早期妊娠及防治流产 ... 虽然孕激素预防流产已超过60年，但孕激素使用仍存在争议。近年来，随着临床研究的深入展开和Meta分析的总结，发现地屈孕酮 ...",
+          "date": "2017年11月16日",
+          "position": 89
+        },
+        {
+          "title": "避孕药常见问题：好处、风险和选择- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/healthy-lifestyle/birth-control/in-depth/birth-control-pill/art-20045136",
+          "snippet": "孕酮或黄体酮，也会增加血栓风险，但风险比雌激素低。 如果年龄超过35 岁，是否可以继续服用避孕药？ 如果您身体健康且不抽烟，可以在 ...",
+          "position": 90
+        },
+        {
+          "title": "孕酮受体(PR) | 我的病理报告.ca - My Pathology Report",
+          "link": "https://www.mypathologyreport.ca/zh-CN/pathology-dictionary/progesterone-receptor/",
+          "snippet": "孕酮受体(PR) 是一种蛋白质，可使细胞对激素孕酮的作用作出反应。",
+          "position": 91
+        },
+        {
+          "title": "法禄达（醋酸甲羟孕酮片）药品说明书 - 辉瑞医学信息网站",
+          "link": "https://www.pfizermedicalinformation.cn/products/package-insert/farlutal",
+          "snippet": "如在产品页面搜索辉瑞药品信息，请输入精准、简短的关键词，用空格隔开。 网站内容是循证的、科学平衡的和非推广性质的。内容经过严格的内部医学审查，并定期更新以反映最新 ...",
+          "position": 92
+        },
+        {
+          "title": "炔诺孕酮,Norgestrel ,CAS : [6533-00-2] - 生命科学产品与技术服务",
+          "link": "https://store.sangon.com/productDetail?productInfo.code=A423773",
+          "snippet": "Norgestrel (WY-3707) 是一种孕酮的合成类似物，是一种口服避孕药中常见的化合物，也是一种神经保护性强抗氧化剂，能够防止光诱导的感光细胞中的ROS 的生成以及细胞死亡。",
+          "position": 93
+        },
+        {
+          "title": "女性生殖健康的“晴雨表”！性激素六项不会看？超全解读",
+          "link": "https://www.hangzhou.gov.cn/art/2023/1/28/art_1228974667_59072753.html",
+          "snippet": "孕酮（P）. 基础值一般＜1ng/ml。 降低：黄体期孕酮水平低于生理值，提示黄体功能不足、排卵型子宫功能失调性出血。黄体中期P水平的测定：在监测排卵后 ...",
+          "date": "2023年1月28日",
+          "position": 94
+        },
+        {
+          "title": "孕酮试剂指导原则（征求意见稿）反馈意见汇总表",
+          "link": "http://mpa.jl.gov.cn/xxgk_84894/yjjy/yjzj/201710/t20171027_3678370.html",
+          "snippet": "关于目前通用的孕酮浓度单位及其换算问题，是否有较明确的说明或出处。征求意见稿中使用的浓度单位为“nmol/L”，而目前市面上的多家生产企业使用的单位为“ng/ ...",
+          "date": "2017年10月27日",
+          "position": 95
+        },
+        {
+          "title": "[PDF] 孕酮植入剂",
+          "link": "https://www.reproductiveaccess.org/wp-content/uploads/2014/12/factsheet_implant_zhCN.pdf",
+          "snippet": "ï 孕酮植入剂是一根火柴棍大小的细塑料管。医生将植入剂植入上臂的皮肤下。 ï 植入剂可以释放孕酮，孕酮是一种激素，与机体制造的激素相似。其作用原理是使子宫颈中.",
+          "position": 96
+        },
+        {
+          "title": "左炔诺孕酮片- 川大华西药业",
+          "link": "http://www.huaxiyaoye.com/jihuashengyu/202109/455.html",
+          "snippet": "【药品名称】通用名称：左炔诺孕酮片【成 分】本品每片含主要成份左炔诺孕酮0.75毫克。辅料为：玉米淀粉、乳糖、聚维酮K30、硬脂酸镁。 【适 应症】用于女性紧急避孕， ...",
+          "position": 97
+        },
+        {
+          "title": "甲地孕酮 - 药品信息--新药介绍",
+          "link": "https://www.xqhospital.com.cn/drug/drug0402.asp?drugname=968&class1=%C9%FA%D6%B3%B1%A3%BD%A1%D3%C3%D2%A9&class2=%B6%CC%D0%A7%B1%DC%D4%D0%D2%A9&class3=&class4=&search=No",
+          "snippet": "熔点213℃-220℃。 药理作用： 为高效孕激素，口服时孕激素作用约为黄体酮的75倍，注射时约为后者的50倍，并无雌激素和雄激素活性。具有显著排卵抑制作用，还能影响宫颈粘液稠度和 ...",
+          "position": 98
+        },
+        {
+          "title": "性激素六项，你懂了吗 - 中山大学附属第七医院",
+          "link": "https://www.sysush.com/content/560f920a-6c7f-4fb6-b523-dff814f4c337",
+          "snippet": "孕酮（P）：由卵巢的黄体分泌，少量由肾上腺产生。主要功能是促使子宫内膜从增殖期转变为分泌期。 ○ 睾酮（T）：是由卵巢及肾上腺皮质分泌的雄烯二酮转化而来。",
+          "date": "2018年6月1日",
+          "position": 99
+        }
+      ],
+      "images": [
+        {
+          "title": "孕酮- 维基百科，自由的百科全书",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Progesteron.svg",
+          "link": "https://zh.wikipedia.org/zh-cn/%E5%AD%95%E9%85%AE"
+        },
+        {
+          "title": "壹生资讯-妊娠期HCG和孕酮正常值图表",
+          "imageUrl": "https://image.medtrib.cn/image/post/picture/2763919/029ff582-03b7-41b6-ad38-293b09ab5f4a.jpg",
+          "link": "https://www.cmtopdr.com/post/detail/055090f8-3ecc-470f-816d-9b77a55643d7"
+        },
+        {
+          "title": "省医产科说科普】早孕期需要监测孕酮水平吗？ 产科-山东省立医院",
+          "imageUrl": "http://www.sph.com.cn/Sites/Uploaded/Image/2021/03/186375166017369174019184593.jpg",
+          "link": "https://www.sph.com.cn/Html/News/Articles/21292.html"
+        },
+        {
+          "title": "孕酮-D9标准液CRM 溶液100 μg/mL in acetonitrile, ampule of 1 mL ...",
+          "imageUrl": "https://www.sigmaaldrich.cn/deepweb/assets/sigmaaldrich/product/structures/328/000/a80ba670-9417-4ead-8da8-f21d3db6edc8/640/a80ba670-9417-4ead-8da8-f21d3db6edc8.png",
+          "link": "https://www.sigmaaldrich.cn/CN/zh/product/cerillian/p070"
+        },
+        {
+          "title": "碧云天生物技术-Progesterone ELISA Kit (孕酮ELISA试剂盒)(PP773)",
+          "imageUrl": "https://img.beyotime.com/cpimages/skuimages/PP773.jpg",
+          "link": "https://www.beyotime.com/product/PP773.htm"
+        },
+        {
+          "title": "孕酮低是什么，为什么会孕酮低？孕妈妈一定要了解",
+          "imageUrl": "https://imagepphcloud.thepaper.cn/pph/image/83/489/631.jpg",
+          "link": "https://m.thepaper.cn/newsDetail_forward_8754642"
+        },
+        {
+          "title": "除甲地孕酮外，化疗后食欲减退还能如何应对？ | 中山大学附属第三医院",
+          "imageUrl": "https://zssy.com.cn/sites/zssy.prod.sysucloud1.sysu.edu.cn/files/inline-images/image_205.png",
+          "link": "https://zssy.com.cn/article/21626"
+        },
+        {
+          "title": "孕酮、黄体酮、孕激素都是啥？",
+          "imageUrl": "https://www.ehealthship.com/media/Cover/2019/04/2606.jpg",
+          "link": "https://www.ehealthship.com/articleDetail.zhtml?Type=Article&id=2366"
+        },
+        {
+          "title": "孕酮】孕酮正常值_孕酮低的原因_孕酮低吃什么好_亲子百科_太平洋亲子网",
+          "imageUrl": "https://img0.pcbaby.com.cn/pcbaby/baike/yycs/1502/yuntongdi02109.jpg",
+          "link": "https://baike.pcbaby.com.cn/qzbd/1146339.html"
+        }
+      ],
+      "relatedSearches": [
+        {
+          "query": "孕酮正常值"
+        },
+        {
+          "query": "孕酮低"
+        },
+        {
+          "query": "孕酮的作用"
+        },
+        {
+          "query": "孕酮副作用"
+        },
+        {
+          "query": "孕酮低的原因"
+        },
+        {
+          "query": "孕酮药"
+        },
+        {
+          "query": "孕酮食物"
+        },
+        {
+          "query": "孕酮英文"
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "孕酮",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "醋酸甲地孕酮治疗厌食-恶病质综合症 - Cochrane",
+          "link": "https://www.cochrane.org/zh-hans/CD004310/SYMPT_cu-suan-jia-di-yun-tong-zhi-liao-yan-shi-e-bing-zhi-zong-he-zheng",
+          "snippet": "醋酸甲地孕酮（Megestrol acetate，MA）是一种口服的女性激素。目前它被用于改善食欲和增加ACS患者的体重。",
+          "position": 1
+        },
+        {
+          "title": "黄体酮| 57-83-0",
+          "link": "https://www.chemicalbook.com/ChemicalProductProperty_CN_CB4224484.htm",
+          "snippet": "孕酮（英语：progesterone，亦被称为黄体酮、孕甾酮、黄体甾酮、助孕激素、助孕素、黄体素或助孕酮，其缩写为P4，也被称为(孕甾-4-烯-3,20-二酮)，是一种内源性类固醇和孕激素 ...",
+          "position": 2
+        },
+        {
+          "title": "地屈孕酮维持早期妊娠及防治流产 - 医师报",
+          "link": "https://www.mdweekly.com.cn/m/article/detail?id=13406",
+          "snippet": "地屈孕酮维持早期妊娠及防治流产 ... 虽然孕激素预防流产已超过60年，但孕激素使用仍存在争议。近年来，随着临床研究的深入展开和Meta分析的总结，发现地屈孕酮 ...",
+          "date": "2017年11月16日",
+          "position": 3
+        },
+        {
+          "title": "避孕药常见问题：好处、风险和选择- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/healthy-lifestyle/birth-control/in-depth/birth-control-pill/art-20045136",
+          "snippet": "孕酮或黄体酮，也会增加血栓风险，但风险比雌激素低。 如果年龄超过35 岁，是否可以继续服用避孕药？ 如果您身体健康且不抽烟，可以在 ...",
+          "position": 4
+        },
+        {
+          "title": "孕酮受体(PR) | 我的病理报告.ca - My Pathology Report",
+          "link": "https://www.mypathologyreport.ca/zh-CN/pathology-dictionary/progesterone-receptor/",
+          "snippet": "孕酮受体(PR) 是一种蛋白质，可使细胞对激素孕酮的作用作出反应。",
+          "position": 5
+        },
+        {
+          "title": "炔诺孕酮,Norgestrel ,CAS : [6533-00-2] - 生命科学产品与技术服务",
+          "link": "https://store.sangon.com/productDetail?productInfo.code=A423773",
+          "snippet": "Norgestrel (WY-3707) 是一种孕酮的合成类似物，是一种口服避孕药中常见的化合物，也是一种神经保护性强抗氧化剂，能够防止光诱导的感光细胞中的ROS 的生成以及细胞死亡。",
+          "position": 6
+        },
+        {
+          "title": "法禄达（醋酸甲羟孕酮片）药品说明书 - 辉瑞医学信息网站",
+          "link": "https://www.pfizermedicalinformation.cn/products/package-insert/farlutal",
+          "snippet": "如在产品页面搜索辉瑞药品信息，请输入精准、简短的关键词，用空格隔开。 网站内容是循证的、科学平衡的和非推广性质的。内容经过严格的内部医学审查，并定期更新以反映最新 ...",
+          "position": 7
+        },
+        {
+          "title": "孕酮试剂指导原则（征求意见稿）反馈意见汇总表",
+          "link": "http://mpa.jl.gov.cn/xxgk_84894/yjjy/yjzj/201710/t20171027_3678370.html",
+          "snippet": "关于目前通用的孕酮浓度单位及其换算问题，是否有较明确的说明或出处。征求意见稿中使用的浓度单位为“nmol/L”，而目前市面上的多家生产企业使用的单位为“ng/ ...",
+          "date": "2017年10月27日",
+          "position": 8
+        },
+        {
+          "title": "女性生殖健康的“晴雨表”！性激素六项不会看？超全解读",
+          "link": "https://www.hangzhou.gov.cn/art/2023/1/28/art_1228974667_59072753.html",
+          "snippet": "孕酮（P）. 基础值一般＜1ng/ml。 降低：黄体期孕酮水平低于生理值，提示黄体功能不足、排卵型子宫功能失调性出血。黄体中期P水平的测定：在监测排卵后 ...",
+          "date": "2023年1月28日",
+          "position": 9
+        },
+        {
+          "title": "[PDF] 孕酮植入剂",
+          "link": "https://www.reproductiveaccess.org/wp-content/uploads/2014/12/factsheet_implant_zhCN.pdf",
+          "snippet": "ï 孕酮植入剂是一根火柴棍大小的细塑料管。医生将植入剂植入上臂的皮肤下。 ï 植入剂可以释放孕酮，孕酮是一种激素，与机体制造的激素相似。其作用原理是使子宫颈中.",
+          "position": 10
+        },
+        {
+          "title": "左炔诺孕酮片- 川大华西药业",
+          "link": "http://www.huaxiyaoye.com/jihuashengyu/202109/455.html",
+          "snippet": "【药品名称】通用名称：左炔诺孕酮片【成 分】本品每片含主要成份左炔诺孕酮0.75毫克。辅料为：玉米淀粉、乳糖、聚维酮K30、硬脂酸镁。 【适 应症】用于女性紧急避孕， ...",
+          "position": 11
+        },
+        {
+          "title": "甲地孕酮 - 药品信息--新药介绍",
+          "link": "https://www.xqhospital.com.cn/drug/drug0402.asp?drugname=968&class1=%C9%FA%D6%B3%B1%A3%BD%A1%D3%C3%D2%A9&class2=%B6%CC%D0%A7%B1%DC%D4%D0%D2%A9&class3=&class4=&search=No",
+          "snippet": "熔点213℃-220℃。 药理作用： 为高效孕激素，口服时孕激素作用约为黄体酮的75倍，注射时约为后者的50倍，并无雌激素和雄激素活性。具有显著排卵抑制作用，还能影响宫颈粘液稠度和 ...",
+          "position": 12
+        },
+        {
+          "title": "性激素六项，你懂了吗 - 中山大学附属第七医院",
+          "link": "https://www.sysush.com/content/560f920a-6c7f-4fb6-b523-dff814f4c337",
+          "snippet": "孕酮（P）：由卵巢的黄体分泌，少量由肾上腺产生。主要功能是促使子宫内膜从增殖期转变为分泌期。 ○ 睾酮（T）：是由卵巢及肾上腺皮质分泌的雄烯二酮转化而来。",
+          "date": "2018年6月1日",
+          "position": 13
+        },
+        {
+          "title": "守护生命的天使——孕酮 - 大学化学",
+          "link": "https://www.dxhx.pku.edu.cn/CN/abstract/abstract38608.shtml",
+          "snippet": "摘要： 孕酮，又称黄体酮，是调节月经周期、生殖和类固醇激素生物合成的重要生理激素，对解决人类生育难题至关重要。本文通过拟人化的语言生动形象地介绍了孕酮及其衍生物 ...",
+          "position": 14
+        },
+        {
+          "title": "欧盟因脑膜瘤风险限制环丙孕酮的使用_食品药品消费警示 - 马尾区",
+          "link": "https://www.mawei.gov.cn/xjwz/zwgk/zfxxgkzdgz/spypaq/spypxfjs/202005/t20200522_3284383.htm",
+          "snippet": "* 含有环丙孕酮的药物有导致脑膜瘤（非癌性脑瘤）的风险。该风险较低，在使用高剂量（每天25毫克或更多）时更易发生。",
+          "date": "2020年5月22日",
+          "position": 15
+        },
+        {
+          "title": "孕酮| 简体中文-英语翻译——剑桥词典",
+          "link": "https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93-%E8%8B%B1%E8%AF%AD/%E5%AD%95%E9%85%AE",
+          "snippet": "孕酮的翻譯中文(简体)-英語詞典 · 孕酮 · Examples in english of progesterone · 浏览. 运输量.",
+          "position": 16
+        },
+        {
+          "title": "CN104017041A - 己酸孕酮的合成方法 - Google Patents",
+          "link": "https://patents.google.com/patent/CN104017041A/zh",
+          "snippet": "己酸孕酮,又名长效黄体酮、己酸羟孕酮、羟孕酮己酸酯等。是一种重要的激素类药物，主要用于防治流产、月经不调、功能性子宫出血、子宫内膜异位症、子宫内膜癌、乳腺癌、慢性 ...",
+          "position": 17
+        },
+        {
+          "title": "[PDF] 血清中的孕酮代谢 - Agilent",
+          "link": "https://www.agilent.com/cs/library/applications/application-progesterone-met-1290-6495-lc-ms-5994-2784zh-cn-agilent.pdf",
+          "snippet": "孕酮及其代谢物对女性具有重要作用，因此常用于激素替代疗法。然而目前的研究. 表明，孕酮（合成孕酮）可在多种疾病中发挥重要作用，尤其是乳腺癌。",
+          "position": 18
+        },
+        {
+          "title": "[PDF] 左炔诺孕酮紧急避孕Levonorgestrel Emergency Contraception",
+          "link": "http://www.bccdc.ca/resource-gallery/Documents/Educational%20Materials/STI/Med%20Handouts/STI_handout_Levonorestrel_ECP_simpchin.pdf",
+          "snippet": "左炔诺孕酮（计划B® 或同等学名药）是一种仅含孕激素的紧急避孕药，用于在发生性行为. 后防止怀孕。片剂（丸剂）应尽快服用，最好在最后一次性接触后24 小时内服用。它在发.",
+          "position": 19
+        },
+        {
+          "title": "[PDF] 10mg),即每日地屈孕酮30mg,如果确认妊娠,连续服用直至孕12 ... - 雅培",
+          "link": "https://www.abbott.com.cn/content/dam/corp/abbott/cn-cn/2024-news-release/pdf/Dydrogesterone-2023H2.pdf",
+          "snippet": "【不良反应】. 临床试验中接受地屈孕酮治疗适应症但未使用雌激素的患者报告的最常见. 不良反应是阴道出血、子宫出血、乳房疼痛/敏感、恶心、呕吐、腹痛、. 偏头痛/头痛。",
+          "position": 20
+        },
+        {
+          "title": "如何看懂性激素六项检查结果？-武汉大学医院",
+          "link": "https://hospital.whu.edu.cn/info/1281/1756.htm",
+          "snippet": "常测定的性激素种类有六种，通常称为性激素六项，也叫内分泌六项，包括：促卵泡激素(FSH)、促黄体生成素(LH)、雌二醇(E2)、孕酮(P)、催乳素(PRL)、睾酮(T)，这六项检查基本满足 ...",
+          "position": 21
+        },
+        {
+          "title": "[PDF] 【项目介绍】17α-羟孕酮（17α-OHP）测定 - 北京大学人民医院",
+          "link": "https://www.pkuph.cn/Uploads/File/2019/04/29/u5cc6958fe13bf.pdf",
+          "snippet": "我们这次的主角17α-羟孕酮就主要存. 在于肾上腺皮质中，其实肾上腺的这些激素均由皮质分泌并形成一个很复. 杂的网络如下图所示（图3）。 图3：肾上腺皮质分泌 ...",
+          "date": "2019年4月29日",
+          "position": 22
+        },
+        {
+          "title": "Nomegestrol acetate (醋酸诺美孕酮) - 仅供科研| 孕酮受体激动剂 - MCE",
+          "link": "https://www.medchemexpress.cn/nomegestrol-acetate.html",
+          "snippet": "Nomegestrol acetate 是一种口服有效的高选择性孕激素，也是孕酮受体(progesterone receptor) 完全激动剂，能抑制排卵。Nomegestrol acetate 还能有效抑制人类子宫内膜 ...",
+          "position": 23
+        },
+        {
+          "title": "长效醋酸甲羟孕酮的剂型、患者选择与给药- UpToDate",
+          "link": "https://www.uptodate.com/contents/zh-Hans/depot-medroxyprogesterone-acetate-dmpa-formulations-patient-selection-and-drug-administration",
+          "snippet": "专题提纲 · 总结与推荐 · 引言 · 剂型和药理学 · 患者选择 · 禁忌使用雌激素治疗的女性 · 其他适用者 · 禁忌证 · 给药 · 筛查 · 注射技术 · 注射时机 · - ...",
+          "date": "2024年9月26日",
+          "position": 24
+        },
+        {
+          "title": "孕酮Progesterone 类固醇激素|CAS 57-83-0 - 翌圣生物",
+          "link": "https://www.yeasen.com/products/detail/3857",
+          "snippet": "孕酮为由卵巢黄体产生的类固醇激素。可诱导子宫内皮细胞的成熟和分泌活动，可抑制排卵，与乳腺癌的病因有关。 产品性质. 中文别名（Chinese Synonym）. 黄体素; 黄体酮.",
+          "position": 25
+        },
+        {
+          "title": "孕酮正常值 - 亲子百科",
+          "link": "https://baike.pcbaby.com.cn/qzbd/1146339.html",
+          "snippet": "孕酮是什么？孕酮又称为黄体酮，是一种涉及女性月经周期、妊娠有影响的类固醇。孕酮在孕期是支持胎儿早期生长发育的重要激素，因此了解孕酮正常值和孕酮的作用很重要。",
+          "position": 26
+        },
+        {
+          "title": "孕激素醋酸甲地孕酮和雌激素乙炔雌二醇复合暴露对斑马鱼的生殖毒性",
+          "link": "http://www.drugscreen.org.cn/jishuwenxian/20190226/313.html",
+          "snippet": "山东省科学院斑马鱼药物筛选平台是由山东省科学院依托山东省科学院生物研究所而建立的集科研、开发与服务于一体的技术研发服务平台。",
+          "date": "2019年2月26日",
+          "position": 27
+        },
+        {
+          "title": "在人工生殖技术（ART）的治疗周期中，孕激素可用来预防受控卵巢 ...",
+          "link": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013827.pub2/full/zh_HANS",
+          "snippet": "低质量证据表明，与GnRH拮抗剂对比，在正常受试者中使用微粉化黄体酮可能会使MII卵母细胞增加2至6个。 促性腺激素的剂量几乎没有差异。 孕激素与GnRH激动剂.",
+          "date": "2023年11月30日",
+          "position": 28
+        },
+        {
+          "title": "兽药细节 | CODEXALIMENTARIUS FAO-WHO",
+          "link": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/dbs/vetdrugs/vetdrug-detail/zh/?d_id=42",
+          "snippet": "醋酸美伦孕酮. 功能類: 生产助剂. 搜索JECFA 點擊上面的鏈接來訪問相關JECFA殘留專著。 Search WHO Click the above link to access the relevant WHO evaluation ...",
+          "position": 29
+        },
+        {
+          "title": "身體腺體系統膳食補充劑,100% 天然孕酮丸- 平衡荷爾蒙的配方",
+          "link": "https://www.amazon.com/-/zh_TW/%E6%9C%89%E6%A9%9F%E8%BE%B2%E5%A0%B4%E7%B6%AD%E4%BB%96%E5%91%BD-%E5%AD%95%E9%85%AE-5000-%E8%BA%AB%E9%AB%94%E8%85%BA%E9%AB%94%E7%B3%BB%E7%B5%B1%E8%86%B3%E9%A3%9F%E8%A3%9C%E5%85%85%E5%8A%91-%E5%B9%B3%E8%A1%A1%E8%8D%B7%E7%88%BE%E8%92%99%E7%9A%84%E9%85%8D%E6%96%B9/dp/B01MG0NRPQ",
+          "snippet": "Amazon.com: 有機農場維他命孕酮5000 - 身體腺體系統膳食補充劑,100% 天然孕酮丸- 平衡荷爾蒙的配方- 孕酮補充劑,90 片: 健康與家庭.",
+          "currency": "US$",
+          "price": 33.75,
+          "position": 30
+        },
+        {
+          "title": "地屈孕酮联合黄体酮对先兆流产保胎成功情况、激素水平变化及疗效 ...",
+          "link": "http://scmj.scyx.org.cn/ch/reader/view_abstract.aspx?file_no=1810017&flag=1",
+          "snippet": "观察组患者保胎成功率和不良反应率分别为93.02%,2.33%;对照组为76.74%,13.95%;观察组患者保胎成功率高于对照组,不良反应率低于对照组(P<0.05)。结论地屈孕酮联合黄体酮治疗 ...",
+          "position": 31
+        },
+        {
+          "title": "血清β人绒毛膜促性腺激素和孕酮检测在异位妊娠早期诊断中的应用价值",
+          "link": "https://jcmp.yzu.edu.cn/cn/article/doi/10.7619/jcmp.201501025",
+          "snippet": "结果单纯检测β-HCG对EP诊断的灵敏度、特异度、准确度优于单纯P检测,但较二者联合检测较差,差异均有统计学意义(P＜0.01);EP患者血清β-HCG、P水平均显著低于正常妊娠妇女(P＜0 ...",
+          "position": 32
+        },
+        {
+          "title": "[PDF] 血清孕酮水平检测在克隆胚胎移植受体牛的筛选及妊娠诊断中的应用",
+          "link": "https://manu60.magtech.com.cn/biotech/CN/article/downloadArticleFile.do?attachType=PDF&id=6583",
+          "snippet": "其中孕酮. （progesterone，P4）的控制是妊娠的建立和维持过程的. 监测应用较为广泛的生殖激素之一［3］。 有研究发现，母牛发情周期中雌激素会呈规律性. 的变化［4］，Abreu等［5］ ...",
+          "position": 33
+        },
+        {
+          "title": "中药汤剂辅助地屈孕酮治疗早期先兆流产的效果分析 - 中华全科医学",
+          "link": "http://zhqkyx.net/cn/article/doi/10.16766/j.cnki.issn.1674-4152.002022?viewType=HTML",
+          "snippet": "目前，临床治疗早期先兆流产首选地屈孕酮，地屈孕酮作为天然孕激素，可促进子宫内膜分泌激素，缓解阴道出血症状，维持患者妊娠。但临床实践表明，长期单纯服用地屈孕酮的治疗效果 ...",
+          "position": 34
+        },
+        {
+          "title": "CN109276550A - 一种左炔诺孕酮片及其制备方法 - Google Patents",
+          "link": "https://patents.google.com/patent/CN109276550A/zh",
+          "snippet": "提高了左炔诺孕酮的释放度和达峰时间，提高溶出速率。 CN102772376公开了一种固体分散左炔诺孕酮片的制备方法，采用熔融法制备左炔诺孕酮的固体分散体，再与适当辅料混合压片， ...",
+          "position": 35
+        },
+        {
+          "title": "孕激素和释放孕激素的宫内节育系统治疗子宫肌瘤（术前药物治疗 ...",
+          "link": "https://www.cochrane.org/zh-hans/CD008994/MENSTR_yun-ji-su-he-shi-fang-yun-ji-su-de-gong-nei-jie-yu-xi-tong-zhi-liao-zi-gong-ji-liu-zhu-qian-yao-wu",
+          "snippet": "孕激素（类似于天然激素黄体酮的药物） 可以口服或通过注射给药。长效醋酸甲羟孕酮（depot medroxyprogesterone acetate, DMPA）是一种合成孕酮激素，通过肌肉 ...",
+          "date": "2023年6月27日",
+          "position": 36
+        },
+        {
+          "title": "血清孕酮（Progesterone）|100T/50T|XY-R064-上海信裕生物技术 ...",
+          "link": "https://www.instrument.com.cn/netshow/SH103390/Q3371883.htm",
+          "snippet": "血清孕酮（Progesterone）. 报价：面议. 供货周期：, 现货. 品牌：, DRG.",
+          "position": 37
+        },
+        {
+          "title": "Depo-Provera（避孕针） - 妙佑医疗国际",
+          "link": "https://www.mayoclinic.org/zh-hans/tests-procedures/depo-provera/about/pac-20392204",
+          "snippet": "醋酸甲羟孕酮可用于预防怀孕和管理与月经周期有关的疾病。在以下情况下，医疗服务提供者可能建议注射醋酸甲羟孕酮：. 不想每天服用避孕药; 您希望或需要 ...",
+          "date": "2024年5月24日",
+          "position": 38
+        },
+        {
+          "title": "男性2型糖尿病患者血清孕酮与临床指标及常见中医证型的相关性",
+          "link": "https://www.j-smu.com/fileup/1673-4254/HTML/201905586.html",
+          "snippet": "其中孕酮正常值参考范围为0.05~0.149 ng/mL。本研究定义孕酮升高组参考范围为> 0.149 ng/mL，孕酮正常组参考范围为≤0.149 ng/mL）。采用http://www.ecdem/ox.ac.uk/网站上 ...",
+          "position": 39
+        },
+        {
+          "title": "孕酮是什么 - 亲子百科",
+          "link": "https://baike.pcbaby.com.cn/qzbd/8235.html",
+          "snippet": "孕酮是什么？孕酮又称为黄体酮，还被叫做孕甾酮、黄体甾酮、助孕激素等。孕酮是支持胎儿早期生长发育的重要激素。",
+          "position": 40
+        },
+        {
+          "title": "孕酮的作用是什么？ - 北京家恩德运医院",
+          "link": "https://jiaenhospital.com/content/23468.html",
+          "snippet": "怀孕初期，孕检都会检查孕酮值，所以很多人开始疑惑孕酮是什么意思。其实，孕酮，也就是黄体酮，是由卵巢黄体分泌的一种天然孕激素，在体内对雌激素激发过的子宫内膜有显著 ...",
+          "position": 41
+        },
+        {
+          "title": "https://zhuanlan.zhihu.com/p/92021756",
+          "link": "https://zhuanlan.zhihu.com/p/92021756",
+          "snippet": "没有此网页的信息。 · 了解原因",
+          "position": 42
+        },
+        {
+          "title": "什么是孕酮？孕酮的作用有哪些？ - 福宝试管机构",
+          "link": "https://www.hzjmkj.com/asg/936.html",
+          "snippet": "怀孕初期，孕检都会检查孕酮值，所以很多人开始疑惑孕酮是什么意思。其实，孕酮，也就是黄体酮，是由卵巢黄体分泌的一种天然孕激素，在体内对雌激素激发过的 ...",
+          "date": "2020年10月30日",
+          "position": 43
+        },
+        {
+          "title": "Hormone Replacement Therapy (HRT) for Menopause",
+          "link": "https://my.clevelandclinic.org/health/treatments/15245-hormone-therapy-for-menopause-symptoms",
+          "snippet": "Hormone replacement therapy (HRT) treats symptoms of menopause like hot flashes and vaginal dryness by replacing lost hormones.",
+          "position": 44
+        },
+        {
+          "title": "「事後丸」擬改為指示藥藥局也能買得到！掀各方激辯 - Yahoo奇摩新聞",
+          "link": "https://tw.news.yahoo.com/%E4%BA%8B%E5%BE%8C%E4%B8%B8-%E6%93%AC%E6%94%B9%E7%82%BA%E6%8C%87%E7%A4%BA%E8%97%A5-%E8%97%A5%E5%B1%80%E4%B9%9F%E8%83%BD%E8%B2%B7%E5%BE%97%E5%88%B0-%E6%8E%80%E5%90%84%E6%96%B9%E6%BF%80%E8%BE%AF-221215216.html",
+          "snippet": "[周刊王CTWANT] Levonorgestrel（左炔諾孕酮）是第一代事後避孕藥，屬於單一高劑量黃體素藥物，原理是延遲或抑制排卵，達到避孕效果。針對無事前避孕者， ...",
+          "date": "2024年10月6日",
+          "position": 45
+        },
+        {
+          "title": "在成都做二代试管婴儿移植鲜胚准备几万合适？ - 久久助孕网",
+          "link": "https://sg.9939.com/w/20380.html",
+          "snippet": "胚胎移植后地屈孕酮片漏服一次隔天能否补上？ 移植胚胎前为什么一定要抽血测孕酮和hcg的数值？ 在武汉做供卵三代试管婴儿至少要花几万元？ 做试管婴儿 ...",
+          "date": "3天前",
+          "position": 46
+        },
+        {
+          "title": "血HCG和孕酮正常值hcg正常参考范围有来医生 - YouTube",
+          "link": "https://www.youtube.com/watch?v=SKuoS6osDrE",
+          "snippet": "欢迎订阅频道：https://www.youtube.com/channel/UCkucwd-6tng9xoRcPsol6Xw/?sub_confirmation=1 单次的血HCG和孕酮值并不能完全反映胚胎状态， ...",
+          "date": "2019年10月17日",
+          "position": 47
+        },
+        {
+          "title": "什么是孕酮？ - 时尚冬",
+          "link": "https://www.shishangdong.com/zh-sg/jiankangshenghuo/jiaoyu/2128650.html",
+          "snippet": "什么是孕酮？阐明：什么是孕酮?孕酮又称为黄体酮，英文缩写为“P”，还有黄体激素、助孕激素、助孕素或助孕酮等叫法，是一种涉及女性月经周期、妊娠和对人类 ...",
+          "date": "2024年10月24日",
+          "position": 48
+        },
+        {
+          "title": "生物医药行业：2024年医保谈判收官，支持鼓励创新药发展",
+          "link": "https://bydrug.pharmcube.com/report/detail/86346624c8fc4f54b585eb126c78ad9c",
+          "snippet": "奥锐特：1）制剂板块：地屈孕酮核心大单品持续贡献增量，地屈孕酮复方制剂有望接续增长；2）原料药板块：甾体原料药稳健，口服司美格鲁肽开始放量。 绿叶制药：公司 ...",
+          "position": 49
+        },
+        {
+          "title": "杏一健康生活館",
+          "link": "https://www.medfirst.com.tw/",
+          "snippet": "杏一累積多年經驗，由護理師、藥師、營養師等專業醫護人員，為消費者選擇不同時期所需的營養、保健、護理、衛生等相關產品。提供長照顧2.0服務，杏一秉持用愛心與耐心去 ...",
+          "position": 50
+        },
+        {
+          "title": "欢迎访问《国际检验医学杂志》编辑部官网！",
+          "link": "http://www.gjjyyxzz.com/",
+          "snippet": "胺碘酮注射液联合尼可地尔对冠心病心绞痛患者临床症状及血清相关细胞因子水平的 ... 多囊卵巢综合征不孕症患者血清IGFBP-3、SFRP5水平及其与体外受精-胚胎移植 ...",
+          "position": 51
+        },
+        {
+          "title": "布地奈德概念的上市公司，名单全梳理！（2024/11/1） - 南方财富网",
+          "link": "http://www.southmoney.com/tuijian/202411/54917028.html",
+          "snippet": "葛店人福现有产品包括米非司酮系列生育调节药，黄体酮、非那雄胺、布地奈德、醋酸环丙孕酮等甾体激素类原料药及中间体，以及奥卡西平、更昔洛韦等 ...",
+          "date": "3天前",
+          "position": 52
+        },
+        {
+          "title": "网站地图- 赖特中心",
+          "link": "https://thewrightcenter.org/zh/sitemap/",
+          "snippet": "获取纳洛酮 · 新闻 · 非歧视政策 · 在新的一年里给予自己同情 · 文书办公室 · 一个男人 ... 健康MOMS（孕产妇阿片类药物医疗支持）庆祝第100 个婴儿加入该计划 · 赖特社区健康 ...",
+          "position": 53
+        },
+        {
+          "title": "CityU Search | City University of Hong Kong",
+          "link": "https://www.cityu.edu.hk/cityusearch/",
+          "snippet": "City University of Hong Kong CityU Search Query String All Departments and Offices Ability R&D Energy Research Centre Acad Regulations and Records Office",
+          "position": 54
+        },
+        {
+          "title": "站长工具网- 实用的在线工具、网址大全及软件下载站",
+          "link": "https://www.zhanid.com/",
+          "snippet": "生育津贴计算器 · 童装尺码对照表 · 工资计算器 · 病假工资计算器 · 童鞋尺码对照表 · 轮胎计算器 · 时间差计算器 · CSS在线压缩 · 日期加减计算器 · 孕酮标准对照表 ...",
+          "position": 55
+        },
+        {
+          "title": "奥锐特(605116)：盈利能力提升制剂及多肽业务推进 - 天天研报网",
+          "link": "https://www.tiantianyanbao.com/article/244276.html",
+          "snippet": "... 孕酮持续放量所致。 2024Q1-Q3，受终端制剂推广，销售费用率提升至8.21%，同比提升0.92ct，管理费用率11.09%，同比下滑2.06pct，研发费用率9.68 ...",
+          "date": "2小时前",
+          "position": 56
+        },
+        {
+          "title": "一孕傻三年?研究发现怀孕后身体会有这些变化 - 加西网",
+          "link": "https://www.westca.com/News/article/sid=1044182/%E4%B8%80%E5%AD%95%E5%82%BB%E4%B8%89%E5%B9%B4%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%E6%80%80%E5%AD%95%E5%90%8E%E8%BA%AB%E4%BD%93%E4%BC%9A%E6%9C%89%E8%BF%99%E4%BA%9B%E5%8F%98%E5%8C%96/lang=schinese.html",
+          "snippet": "这种“傻”是由于妊娠的前3个月荷尔蒙发生了变化，此时激素孕酮稳步上升，甲状腺水平也开始下降。孕晚期雌激素水平的提高也会导致怀孕女性的大脑出现短暂的 ...",
+          "date": "5天前",
+          "position": 57
+        },
+        {
+          "title": "Perimenopause: Age, Stages, Signs, Symptoms & Treatment",
+          "link": "https://my.clevelandclinic.org/health/diseases/21608-perimenopause",
+          "snippet": "Perimenopause is the transition to menopause when hormone levels decline and symptoms like hot flashes and irregular periods start. Perimenopause can last ...",
+          "position": 58
+        },
+        {
+          "title": "孕前饮食吃什么比较有营养呢 - 健康- 中华网",
+          "link": "https://health.china.com/html/baby/13003187/20241104/47509950.html",
+          "snippet": "... 孕酮分泌。受精卵着床后大约六到八天，hCG的分泌便随之启动. 人绒毛膜促性腺激素多少表示怀孕. 怀孕可以吃杨梅吗 · 怀孕期间，适量食用杨梅对母体及胎儿 ...",
+          "date": "2小时前",
+          "position": 59
+        },
+        {
+          "title": "44岁女性做试管长方案促排后能取到卵子吗？ - 久久助孕网",
+          "link": "https://sg.9939.com/w/20335.html",
+          "snippet": "移植胚胎后为什么还要坚持吃一个月孕酮片和维生素E？ 江西 普洱 东莞康华医院 天津私立试管医院. 本文相关问题. 移植囊胚第4天肚子发胀严重并伴有刺痛感 ...",
+          "date": "6天前",
+          "position": 60
+        },
+        {
+          "title": "瀨ID：adong2002 | 露天市集",
+          "link": "https://www.ruten.com.tw/store/grube4/?srsltid=AfmBOoo_Dv6F2fkhy0wb9CHTtjir0xuvSQK_JCxbmtUBhhP530u2TyMk",
+          "snippet": "... 【加瀨下標免運】金誼婷左炔諾孕酮片1片房事后72小時內緊急避孕yao口服避孕yao女用. 188 ~ 952. 【加瀨下標免運】 ...",
+          "position": 61
+        },
+        {
+          "title": "臺北市立萬芳醫院",
+          "link": "https://www.wanfang.gov.tw/",
+          "snippet": "男性荷爾蒙(睪固酮)小知識： 從30 歲開始，睾固酮開始下降15%，然後在45 歲左右，大多數男性開始注意到更年期的最初症狀。 到50 歲時，50% 的男性會出現低水平的睾固酮。",
+          "position": 62
+        },
+        {
+          "title": "Medroxyprogesterone Oral: Uses, Side Effects, Interactions, Pictures ...",
+          "link": "https://www.webmd.com/drugs/2/drug-8674/medroxyprogesterone-oral/details",
+          "snippet": "This medication is used to treat abnormal bleeding from the uterus and to restore normal menstrual periods in women who have stopped having them for several ...",
+          "position": 63
+        },
+        {
+          "title": "柏格醫生中文健康知識 - YouTube",
+          "link": "https://www.youtube.com/@drbergchinese/videos",
+          "snippet": "柏格醫生Dr Berg全球最有名的生酮飲食與斷食專家. ...more ...more youtube ... 脫髮,骨質疏鬆,不孕,膽固醇,心臟等自然療法,柏格醫生Dr Berg. 5.5K views. 5 days ...",
+          "position": 64
+        },
+        {
+          "title": "饮食干预对女性生殖健康的影响与未来研究展望 - 续航教育",
+          "link": "https://www.forwardpathway.com/135910",
+          "snippet": "具体而言，酮体可能通过改善胰岛素敏感性和降低炎症水平，进而影响与生殖健康相关的激素，如雌激素和孕激素。这一机制为那些面临月经不规律或多囊卵巢综合症（ ...",
+          "date": "1天前",
+          "position": 65
+        },
+        {
+          "title": "孕婦用品 - 嬰兒及小童",
+          "link": "https://www.carousell.com.hk/categories/babies-kids-19/maternity-care-489/?srsltid=AfmBOoopP-Uo74DBB5_tccP5jVq8KK9GyYrYtVlri9FJqcmuQdCf8gnK",
+          "snippet": "傳好孕驗孕排卵早孕檢測. HK$100. 全新. sillythinggg.1. 2 天前. 大衛(紅D)/毓婷排卵試紙26條連膠杯+曼秀雷敦驗孕棒1枝. HK$60. 全新. cycheungying. 3 小時前. 買家保障.",
+          "position": 66
+        },
+        {
+          "title": "第306章别吵了喵秋秋最新章节-免费小说 - 七猫",
+          "link": "https://www.qimao.com/shuku/1805117-17306472610306/",
+          "snippet": "医生说，怀孕五周了，肚子疼是因为先兆流产，先吃药补孕酮，过半个月去复查胎心。 在结婚纪念日这天查出怀孕，无疑是最好的礼物。 我把孕检单装在小 ...",
+          "date": "14小时前",
+          "position": 67
+        },
+        {
+          "title": "Cancer Discovery携手BioArt推出肿瘤前沿中国专刊：中国癌症科研 ...",
+          "link": "https://m.163.com/news/article/JG2EFRMS0532BT7X.html?clickfrom=subscribe",
+          "snippet": "... 孕激素，从而将一类免疫调节和代谢调节类固醇转化为一类性激素和神经类固醇【9】。在生理学上，某些细菌孕激素的丰度，如别孕烯醇酮，也被称为布瑞诺 ...",
+          "date": "1天前",
+          "position": 68
+        },
+        {
+          "title": "2024年品牌验孕棒排行榜10强 - 报告大厅",
+          "link": "https://m.chinabgao.com/top/brand/94477.html",
+          "snippet": "中国报告大厅网的最新市场调研揭示了验孕棒行业的品牌影响力。2024 ... 公司主导产品紧急避孕药“毓婷”、抗早孕药“米非司酮”上市后国内市场反响较 ...",
+          "date": "24小时前",
+          "position": 69
+        },
+        {
+          "title": "康是美官方網購eShop",
+          "link": "https://shop.cosmed.com.tw/",
+          "snippet": "康是美行動購物24hr不打烊，首下載立即獲得折價券！免費入會享積點（週二點數6倍），提供醫美、美妝保養、保健、生活用品等上千款商品，週週新品，享受藥妝購物新體驗。",
+          "position": 70
+        },
+        {
+          "title": "注射用盐酸罗沙替丁醋酸酯竞争格局升级，两家新批仿制药企入局",
+          "link": "https://www.healthoo.com/C8/202411/C8_20241101103238_607957.asp",
+          "snippet": "宠物用药等新型兽用原料药... 地诺孕素等子宫内膜异位症... 莫西沙星药物市场研究报告... 乳果糖药物 ...",
+          "date": "3天前",
+          "position": 71
+        },
+        {
+          "title": "桃源戶外實體門市據點",
+          "link": "http://www.polarstar.tw/Taoyuan/news/20240920.html",
+          "snippet": "這位兩屆名人賽冠超優質露營用品露營用品天觀察，雖曾發現圓圓出現延遲進食、糞便孕酮濃度明顯上升、子宮左側增厚等現象，不過，因大貓熊無論真懷孕或假露營用品交大 ...",
+          "position": 72
+        },
+        {
+          "title": "孕酮低真的不用管它？#懷孕#身體- YouTube",
+          "link": "https://www.youtube.com/watch?v=vlLMg9W4_Ck",
+          "snippet": "... animation community. Open App. This content isn't available. 孕酮低真的不用管它？#懷孕 #身體. 3 views · 1 day ago ...more. 段涛医生Dr. Duan. 91.",
+          "date": "8天前",
+          "position": 73
+        },
+        {
+          "title": "富氢水减轻睡眠呼吸暂停模型鼠血管损伤【加拿大硕士论文】1-孙学军 ...",
+          "link": "https://wap.sciencenet.cn/blog-41174-1457749.html?mobile=1",
+          "snippet": "对绝经后妇女给予雌激素和孕激素治疗有助于维持上呼吸道的稳定性40。然而 ... 值得注意的是，抗心律失常药物如索他洛尔和胺碘酮对胸腔内压力波动 ...",
+          "date": "3小时前",
+          "position": 74
+        },
+        {
+          "title": "「7種屁味」恐是罹病警訊！肝硬化、腎衰竭聞起來不一樣",
+          "link": "https://health.ettoday.net/news/2847289",
+          "snippet": "甜味或果香味：和高糖飲食、糖尿病酮酸中毒可能有關。甜味或果香味可能因 ... 代理孕母可拿「百萬 ...",
+          "date": "2天前",
+          "position": 75
+        },
+        {
+          "title": "我发168电玩城最新版 - PPTOK",
+          "link": "http://www.pptok.com/pkjilAm/Ww9.html",
+          "snippet": "... 孕酮炔雌醇（三相）片――一种安全可靠的现代短效口服避孕药 挤R副乳会“惹祸” 《低聚果糖》和《木糖》国家标准已发布 ABCB1基因C1236T多态性与小儿癫痫 ...",
+          "date": "22小时前",
+          "position": 76
+        },
+        {
+          "title": "桂枝茯苓汤加味治疗子宫附件囊肿 - 360Doc",
+          "link": "http://www.360doc.com/content/17/0601/18/363181_659080686.shtml",
+          "snippet": "口服羟甲孕酮，中西药? 为??．?％。? 同时服用，??天后腹胀难忍．再次求诊于笔者。刻诊：舌质? 讨论附件囊肿的患者，多有盆腔感染史．在经过一段? 偏 ...",
+          "date": "2017年6月1日",
+          "position": 77
+        },
+        {
+          "title": "天然黄体酮食物?可以让你延缓衰老?",
+          "link": "https://www.taotu.cn/pic/162005",
+          "snippet": "... 酮食物。 ?黄体酮是女性卵巢分泌出的一种雌性激素，也叫天然的孕激素，它对女性来说非常重要。 ?当体内的黄体酮出现枯竭的时候，就会加速皮肤的衰老 ...",
+          "date": "4小时前",
+          "position": 78
+        }
+      ],
+      "images": [
+        {
+          "title": "孕酮- 维基百科，自由的百科全书",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Progesteron.svg",
+          "link": "https://zh.wikipedia.org/zh-cn/%E5%AD%95%E9%85%AE"
+        },
+        {
+          "title": "壹生资讯-妊娠期HCG和孕酮正常值图表",
+          "imageUrl": "https://image.medtrib.cn/image/post/picture/2763919/029ff582-03b7-41b6-ad38-293b09ab5f4a.jpg",
+          "link": "https://www.cmtopdr.com/post/detail/055090f8-3ecc-470f-816d-9b77a55643d7"
+        },
+        {
+          "title": "省医产科说科普】早孕期需要监测孕酮水平吗？ 产科-山东省立医院",
+          "imageUrl": "http://www.sph.com.cn/Sites/Uploaded/Image/2021/03/186375166017369174019184593.jpg",
+          "link": "https://www.sph.com.cn/Html/News/Articles/21292.html"
+        },
+        {
+          "title": "碧云天生物技术-Progesterone ELISA Kit (孕酮ELISA试剂盒)(PP773)",
+          "imageUrl": "https://img.beyotime.com/cpimages/skuimages/PP773.jpg",
+          "link": "https://www.beyotime.com/product/PP773.htm"
+        },
+        {
+          "title": "醋酸美伦孕酮≥97.0% (HPLC) | Sigma-Aldrich",
+          "imageUrl": "https://www.sigmaaldrich.cn/deepweb/assets/sigmaaldrich/product/structures/111/715/3fcbd11f-3061-45b3-ba80-b2a2127b76f3/640/3fcbd11f-3061-45b3-ba80-b2a2127b76f3.png",
+          "link": "https://www.sigmaaldrich.cn/CN/zh/product/sigma/73248"
+        },
+        {
+          "title": "孕酮低是什么，为什么会孕酮低？孕妈妈一定要了解",
+          "imageUrl": "https://imagepphcloud.thepaper.cn/pph/image/83/489/631.jpg",
+          "link": "https://m.thepaper.cn/newsDetail_forward_8754642"
+        },
+        {
+          "title": "除甲地孕酮外，化疗后食欲减退还能如何应对？ | 中山大学附属第三医院",
+          "imageUrl": "https://zssy.com.cn/sites/zssy.prod.sysucloud1.sysu.edu.cn/files/inline-images/image_205.png",
+          "link": "https://zssy.com.cn/article/21626"
+        },
+        {
+          "title": "孕酮、黄体酮、孕激素都是啥？",
+          "imageUrl": "https://www.ehealthship.com/media/Cover/2019/04/2606.jpg",
+          "link": "https://www.ehealthship.com/articleDetail.zhtml?Type=Article&id=2366"
+        },
+        {
+          "title": "孕酮】孕酮正常值_孕酮低的原因_孕酮低吃什么好_亲子百科_太平洋亲子网",
+          "imageUrl": "https://img0.pcbaby.com.cn/pcbaby/baike/yycs/1502/yuntongdi02109.jpg",
+          "link": "https://baike.pcbaby.com.cn/qzbd/1146339.html"
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

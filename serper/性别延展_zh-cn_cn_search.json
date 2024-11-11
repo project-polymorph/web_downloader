@@ -1,0 +1,1753 @@
+{
+  "query": "性别延展",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-04T00:32:31.536428",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "性别延展",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "延展性- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E5%BB%B6%E5%B1%95%E6%80%A7",
+          "snippet": "延展性（英语：Ductility and Malleability），是物质的一种机械性质，表示材料在受力而产生断裂（fracture）之前，其塑性变形的能力。延展性是由延性、展性两个概念相近的机械 ...",
+          "position": 1
+        },
+        {
+          "title": "延展性_百度百科",
+          "link": "https://baike.baidu.com/item/%E5%BB%B6%E5%B1%95%E6%80%A7/3636540",
+          "snippet": "物体在外力作用下能延伸成细丝而不断裂的性质叫延性；在外力（锤击或滚轧）作用能碾成薄片而不破裂的性质叫展性。如金属的延展性良好，其中金、铂、铜、银、钨、铝都富于延展性 ...",
+          "position": 2
+        },
+        {
+          "title": "延展虛擬實境 - 性別化創新",
+          "link": "https://genderedinnovations.taiwan-gist.net/case-studies/extendedVR.html",
+          "snippet": "延展虛擬實境指的是如虛擬實境（VR）、擴增實境（AR）與混合實境（MR）等，將虛擬世界的元素融合進我們的現實世界來強化我們所見所聞與所感的科技。這些科技在推廣性別平等上或許 ...",
+          "position": 3
+        },
+        {
+          "title": "[PDF] 2022-2025 年性别平等战略",
+          "link": "https://genderequalitystrategy.undp.org/downloads/UNDP_Gender_Equality_Strategy_2022-2025_CH_V2.pdf",
+          "snippet": "在实现性别平等的进展往往停滞不前甚至出. 现逆转之际，这一雄心勃勃的新《性别平等战. 略》将指导开发署努力协助各国摆脱零碎的. 努力，转而采用组合办法，改变权力结构以.",
+          "position": 4
+        },
+        {
+          "title": "CN102994855B - 一种延展性好的金属 - Google Patents",
+          "link": "https://patents.google.com/patent/CN102994855B/zh",
+          "snippet": "本发明揭示了一种延展性好的金属，包括铁、铝、铜、锌、锆、铪、铌、钽和其他杂质等元素,各元素重量配比为铁占4%-16%，铝占1%-2%，铜占2%-4%，锌占8%-10%，锆占18%-20%， ...",
+          "position": 5
+        },
+        {
+          "title": "招聘启事丨四川大学匹兹堡学院聚焦性科研延展项目人员招聘",
+          "link": "https://scupi.scu.edu.cn/activities/%E6%8B%9B%E8%81%98%E5%90%AF%E4%BA%8B%E4%B8%A8%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%8C%B9%E5%85%B9%E5%A0%A1%E5%AD%A6%E9%99%A2%E8%81%9A%E7%84%A6%E6%80%A7%E7%A7%91%E7%A0%94%E5%BB%B6%E5%B1%95%E9%A1%B9-2",
+          "snippet": "SCUPI聚焦性科研延展项目（Focused Research Extended Experience Program，简称FREE）是一项聚焦于科研的非学位项目，该项目时长不超过两年，旨在为已经获得 ...",
+          "date": "2024年6月7日",
+          "position": 6
+        },
+        {
+          "title": "双相(DP)钢：出色的延展性和能量吸收能力 - SSAB",
+          "link": "https://www.ssab.com/zh-cn/brands-and-products/docol/automotive-steel-grades/dual-phase-steel",
+          "snippet": "具有高成形性/延展性的双相钢（DH）是借助相变诱发塑性的第三代汽车钢，具有很高的整体和局部成形性、以及良好的边缘抗裂性。DH钢具有出色的吸能特性，包括碰撞冲击后所保持的 ...",
+          "position": 7
+        },
+        {
+          "title": "[PDF] 可延展柔性无机微纳电子器件原理与研究进展 - 物理学报",
+          "link": "https://wulixb.iphy.ac.cn/pdf-content/10.7498/aps.63.014201.pdf",
+          "snippet": "与有机柔性电子学器件不同, 可延展柔. 性无机电子器件指的是建立在柔性基底上的无机电子组件. 这种具有柔性的集成电路利用力学设计提供大变. 形, 在保持无机脆性电子器件高 ...",
+          "position": 8
+        },
+        {
+          "title": "城大研究开发出强度和延展性双高的新型金属玻璃| 香港城市大学",
+          "link": "https://www.cityu.edu.hk/zh-cn/research/stories/2024/06/18/cityuhk-creates-novel-metallic-glass-dual-high-strength-and-ductility",
+          "snippet": "这种新颖的金属玻璃在拉伸过程中不仅具有较传统金属玻璃的两倍延展性，而且其强度更提高一倍。这种非凡的性能受益于金属玻璃在变形过程中的独特结构演变，它 ...",
+          "date": "2024年6月18日",
+          "position": 9
+        },
+        {
+          "title": "预计未来空调的延展性和发展潜力较大 - 新浪财经",
+          "link": "http://finance.sina.com.cn/jjxw/2024-09-26/doc-incqmuic1576378.shtml",
+          "snippet": "空调：预计未来空调的延展性和发展潜力较大.",
+          "position": 10
+        },
+        {
+          "title": "低维功能复合材料强度及延展性均匀化研究 - 中国农业大学理学院",
+          "link": "https://sci.cau.edu.cn/art/2023/10/11/art_40612_1421.html",
+          "snippet": "学术报告“力耕强农”系列之现代力学进展专题：低维功能复合材料强度及延展性均匀化研究 ; 报 告 人： 夏晓东副教授（中南大学） ; 时 间： 2023年10月13日（星期五） ...",
+          "date": "2023年10月11日",
+          "position": 11
+        },
+        {
+          "title": "上海硅酸盐所发现一种具有和金属一样延展性的半导体材料",
+          "link": "https://www.nsfc.gov.cn/csc_phone/kqkd29/jjcgkx/24534/index.html",
+          "snippet": "金属和陶瓷/半导体具有迥然不同的力学性能，如金属具有良好的延展性、塑性、易加工等特性，而陶瓷和半导体则表现为脆性、塑性差、不易加工等特性。人类的生存和发展离不 ...",
+          "position": 12
+        },
+        {
+          "title": "马贝高延展性增强砂浆1065 - Mapei",
+          "link": "https://www.mapei.com/cn/zh-cn/about-us/about-us-old/mapei-in-china/epd/planitop-hdm-maxi",
+          "snippet": "双组分高延展性凝硬反应型胶粘剂基砂浆，施用于铺涂马贝耐碱玻纤网G120或马贝耐碱玻纤网G220 前，用于石材、砖和混凝灰石基层找平，最大厚度为25mm。 马贝高延展性增强 ...",
+          "position": 13
+        },
+        {
+          "title": "从行政性、合同性双重视角审视行政合同的延展与规范 - 法信",
+          "link": "https://www.faxin.cn/lib/Flwx/FlqkContent.aspx?gid=F676866&libid=040101",
+          "snippet": "行政性 合同性 行政优益权 第三方监督评价. 英文摘要：. 英文关键词：. 从行政性、合同性双重视角审视行政合同的延展与规范[1]. 张敏. （山东政法学院法学院，山东济南 ...",
+          "position": 14
+        },
+        {
+          "title": "“春天的花开秋天的风”：社交媒体、集体悼念与延展性情感空间——以 ...",
+          "link": "http://cjjc.ruc.edu.cn/CN/Y2021/V43/I3/79",
+          "snippet": "数字与社交媒体改变死亡与悼念的形态，扩展了传统哀悼与纪念的空间。本文以李文亮医生的微博评论区为例，通过计算传播研究方法，抓取并挖掘2020-2021整一年间的134万多条 ...",
+          "position": 15
+        },
+        {
+          "title": "生态优先绿色发展延展人与自然和谐共生的成都画卷",
+          "link": "https://cddrc.chengdu.gov.cn/cdsfzggw/gycs005/2024-08/26/content_713e4099eb1f4b23bfa9c9fda9e33b9c.shtml",
+          "snippet": "8月15日是首个“全国生态日”，主题是“绿水青山就是金山银山”。这个首创性、标志性的纪念日，体现了新时代生态文明建设的重要地位，体现了全面推进美丽中国建设的坚定 ...",
+          "position": 16
+        },
+        {
+          "title": "美团王莆中：即时零售韧性增长，高确定性生活方式不断延展",
+          "link": "https://m.bjnews.com.cn/detail/1729003390168120.html",
+          "snippet": "他认为，即时零售作为一种高确定性生活方式，供给品类和场景不断持续丰富和延展。 商务部流通产业促进中心主任王斌致辞表示，近年来，即时零售行业 ...",
+          "date": "2024年10月15日",
+          "position": 17
+        },
+        {
+          "title": "记者观察：以金融适老化改造延展养老服务触角 - 中国银行保险报",
+          "link": "http://www.cbimc.cn/m/content/2024-09/03/content_528397.html",
+          "snippet": "... 性服务两方面入手提升网点的便利性，改善老年客户的服务体验。无论是为老年客户提供适老座椅，还是配备老花镜、助听器等适老便民服务设施，暖心举动 ...",
+          "date": "2024年9月3日",
+          "position": 18
+        },
+        {
+          "title": "西安交大超柔性多铁性复合薄膜研究取得重大进展",
+          "link": "http://news.xjtu.edu.cn/info/1004/130111.htm",
+          "snippet": "柔性电子以优异的超柔性和延展性，不仅应用于便携式可穿戴设备，更是在医疗设备、军事等领域有着广阔的应用前景。因此，迫切需要研究更多的柔性功能性 ...",
+          "date": "2021年3月12日",
+          "position": 19
+        },
+        {
+          "title": "延展性| 简体中文-英语翻译——剑桥词典 - Cambridge Dictionary",
+          "link": "https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93-%E8%8B%B1%E8%AF%AD/%E5%BB%B6%E5%B1%95%E6%80%A7",
+          "snippet": "延展性- 中文（简体）–英语词典翻译——剑桥词典.",
+          "position": 20
+        },
+        {
+          "title": "全国生态日标识、招贴画与视觉延展设计正式发布 - 武汉市生态环境局",
+          "link": "https://hbj.wuhan.gov.cn/hjxw/202308/t20230804_2242888.html",
+          "snippet": "全国生态日标识使用要保证规范性、合法性、严肃性，不得将标识进行拆分、歪曲、篡改等变形使用，或将标识作为其他图案的组成部分使用。对于不规范使用标识、 ...",
+          "date": "2023年8月4日",
+          "position": 21
+        },
+        {
+          "title": "延展性血液透析在血液透析患者中的有效性及安全性的Meta分析",
+          "link": "https://www.cjbp.org.cn/CN/10.3969/j.issn.1671-4091.2024.03.003",
+          "snippet": "摘要： 目的系统评价延展性血液透析(expanded hemodialysis，HDx)在血液透析(hemodialysis,HD)患者中的有效性和安全性。 方法检索从建库至2022年9 ...",
+          "position": 22
+        },
+        {
+          "title": "兼具高硬度和高延展性的类竹状结构铜硼薄膜- 课题组新闻 - X-MOL",
+          "link": "https://www.x-mol.com/groups/zhangkan/news/49600",
+          "snippet": "在微柱压缩过程中该结构能够很大程度避免由剪切引起的失效，增强了材料的延展性，进而获得更优异的综合力学性质。通过晶粒细化的铜与非晶硼框架的结合，使该 ...",
+          "date": "2023年8月13日",
+          "position": 23
+        },
+        {
+          "title": "受植物细胞壁结构启发的高延展性细菌纤维素复合水凝胶伤口敷料",
+          "link": "https://isti.dgut.edu.cn/info/1091/6181.htm",
+          "snippet": "2023年8月，东莞理工学院生命健康技术学院、东莞理工科技创新研究院食品营养健康工程与智能化加工研究中心陈思谦副教授在《Carbohydrate ...",
+          "date": "2023年9月4日",
+          "position": 24
+        },
+        {
+          "title": "中科院宁波材料所实现高机械延展性柔性有机太阳能电池—论文 - 新闻",
+          "link": "https://news.sciencenet.cn/htmlpaper/2022/4/20224208414884672097.shtm",
+          "snippet": "... 延展性活性层薄膜的制备。此外，固化的薄膜形态也提高了器件的热储存稳定性。论文通讯作者是葛子义研究员；第一作者是宋伟博士研究生。 有机太阳能 ...",
+          "date": "2022年4月20日",
+          "position": 25
+        },
+        {
+          "title": "金属材料延性对其薄膜-柔性基底结构延展性的影响 - 中国力学期刊网",
+          "link": "https://pubs.cstam.org.cn/article/id/cqm_lxjk201302014",
+          "snippet": "Effects of Metal Ductility on the Stretchability of Film-elastomeric Substrate Structures · 金属薄膜 · 内聚力模型 · 延展性 · 有限元 · 颈缩.",
+          "position": 26
+        },
+        {
+          "title": "延展性- English translation – Linguee",
+          "link": "https://www.linguee.com/chinese-english/translation/%E5%BB%B6%E5%B1%95%E6%80%A7.html",
+          "snippet": "延展性 ()— · ductability · See also: 延展—.",
+          "position": 27
+        },
+        {
+          "title": "[PDF] 意识可以延展吗？",
+          "link": "https://philarchive.org/archive/WANIEC",
+          "snippet": "进而提出，如果延展意识假说能够成立，它所依. 赖的意识理论需要满足可设想性和反身性两个条件。 关键词：延展心灵；延展意识；对等论证；生成论. 中图分类号：B80 文献标志码：A ...",
+          "position": 28
+        },
+        {
+          "title": "黏附性TA@MXene-复合有机水凝胶应用于高稳定柔性可穿戴传感器",
+          "link": "http://www.polymer.cn/sci/kjxw23049.html",
+          "snippet": "燕大焦体峰、秦志辉/UCLA贺曦敏AFM：高延展性、低滞后、黏附性TA@MXene-复合有机水凝胶应用于高稳定柔性可穿戴传感器. 2024-03-28 来源：高分子科技. 关键词：高延展性 低 ...",
+          "position": 29
+        },
+        {
+          "title": "兼顾超强韧性和延展性首款3D打印纳米结构高熵合金问世 - 科技日报",
+          "link": "https://www.stdaily.com/guoji/xinwen/202208/739024049752448695d33b54d9be4285.shtml",
+          "snippet": "... 延展性优于现有其他先进的3D打印材料，有望催生可用于航空航天、医学、能源和运输等领域的高性能部件。",
+          "date": "2022年8月5日",
+          "position": 30
+        },
+        {
+          "title": "安全接触水平卓越延展性定制不锈钢板冷轧2B BA HL 8K| Alibaba.com",
+          "link": "https://chinese.alibaba.com/product-detail/Safe-contact-level-Excellent-Ductility-custom-1601102472573.html",
+          "snippet": "安全接触水平卓越延展性定制不锈钢板冷轧2B BA HL 8K, You can get more details about 安全接触水平卓越延展性定制不锈钢板冷轧2B BA HL 8K from mobile site on ...",
+          "position": 31
+        },
+        {
+          "title": "过加载——提高可拉伸电子器件弹性延展性的新策略",
+          "link": "http://www.lnm.imech.cas.cn/kydt/202306/t20230615_744432.html",
+          "snippet": "尽管先前有很多研究集中在可拉伸结构的设计上，但目前主要只有两种策略被用于实现或提高结构的弹性延展性（如图1所示）：（1）预应变策略。波浪形条带是一种典型 ...",
+          "date": "2023年6月15日",
+          "position": 32
+        },
+        {
+          "title": "高延展性聚合物水分散体的制备和特性研究 - 中国药科大学学报",
+          "link": "https://jcpu.cpu.edu.cn/article/id/20090405",
+          "snippet": "Preparation and characterization of aqueous polymer dispersions with high flexibility for coating · 聚合物水分散体 / · 高延展性 / · 缓释包衣 / · 制备.",
+          "position": 33
+        },
+        {
+          "title": "强度、硬度、弹性、韧性、延展性有什么区别？ - 搜狐",
+          "link": "https://www.sohu.com/a/786729682_121091021",
+          "snippet": "综上，可得出刚度与强度都是在对于零件失效阶段的测量值，而刚度可以依靠应力来测量，强度可以依靠变形来测量，在应变过程中刚度在前一阶段而强度在后阶段 ...",
+          "date": "2024年6月18日",
+          "position": 34
+        },
+        {
+          "title": "视频云中基于时间约束的延展性带宽预留策略 - 吉林大学学报",
+          "link": "http://xuebao.jlu.edu.cn/gxb/CN/10.13229/j.cnki.jdxbgxb201506040",
+          "snippet": "... 延展性带宽预留策略。利用视频流服务对带宽资源需求的可伸缩性,定义了有限延展带宽预留模型。基于此模型提出基于时间约束的带宽碎片调整策略,以减少碎片率。鉴于视频流 ...",
+          "position": 35
+        },
+        {
+          "title": "钢骨截面延展性对高含钢率SRC柱静力性能的影响研究",
+          "link": "http://manu36.magtech.com.cn/Jwk_tmgcxb/CN/abstract/abstract18.shtml",
+          "snippet": "摘要 钢骨混凝土柱的受力性能受诸多因素影响,钢骨截面延展性是其中的一个重要影响参数。本文首先定义了钢骨截面延展性系数D,以及截面模量影响因子α和约束混凝土影响因子β, ...",
+          "position": 36
+        },
+        {
+          "title": "刘子桐课题组：具有良好延展性和载流子迁移率的预封端超支化聚合 ...",
+          "link": "https://sklaoc.lzu.edu.cn/col_yjcgs/202402/13F99ED4B288C24882995AD4CF09648A.htm",
+          "snippet": "近年来，可穿戴和可植入电子设备的小型化趋势得到了极大的关注，特别是适应复杂的机械变形，如拉伸、弯曲和扭曲。具有柔性和可拉伸特性的有机材料是实现 ...",
+          "date": "2024年2月22日",
+          "position": 37
+        },
+        {
+          "title": "教育性的延展：高校学生事务的多视角整合,ERICDATA高等教育知識庫",
+          "link": "http://ericdata.com/tw/detail.aspx?no=145530",
+          "snippet": "... 性缺失。从我国高校学生工作的需要出发，有必要根据高校的育人使命对学生事务的观念进行整合，并归结为教育性在高校学生事务中的延展。以教育性的延展观为指导，需要 ...",
+          "position": 38
+        },
+        {
+          "title": "具有室温延展性的新型无机半导体材料: α - SciEngine",
+          "link": "https://www.sciengine.com/doi/10.1360/N972018-00373",
+          "snippet": "在传统材料中, 金属材料和合金具有室温延展性, 金属键在外力作用下可以产生塑性形变, 其形变张力可达5%~100% . 而无机半导体材料和陶瓷绝缘材料通常都属于脆性材料, ...",
+          "position": 39
+        },
+        {
+          "title": "丁帆教授在《中国社会科学》发文探折“现代性的延展与中国文论的 ...",
+          "link": "https://www.nju.edu.cn/info/3211/100371.htm",
+          "snippet": "西方理论界率先提出了“当代性”的理论命题，但中国学界在使用这一概念时往往莫衷一是，因此梳理出一条中国“现代性”与“当代性”的历史演进图式，澄清文学艺术中 ...",
+          "date": "2020年8月26日",
+          "position": 40
+        },
+        {
+          "title": "CN1491286A - 高硬度、高延展性的铁制品 - Google Patents",
+          "link": "https://patents.google.com/patent/CN1491286A/zh",
+          "snippet": "使用性能：指抗拉强度、硬度、延展性和疲劳寿命的统称。 ... 该制品将具有Rc48至Rc63或者更高的硬度并且具有极好的疲劳寿命。 尽管步骤c应该在60秒内完成，最好在20秒内完成， ...",
+          "position": 41
+        },
+        {
+          "title": "延展性测定 - 南北潮",
+          "link": "https://m.nbchao.com/cp/D8588E22152B482E.html",
+          "snippet": "延展性测定是一种测量材料在拉伸或压缩下的延展性或变形能力的方法。它通过力学测试或拉伸试验，评估材料的弹性和塑性性能。",
+          "position": 42
+        },
+        {
+          "title": "2023Q3热门新品盘点：围绕大单品进行延展性创新成主流 - FoodTalks",
+          "link": "https://www.foodtalks.cn/news/49354",
+          "snippet": "本周我们基于马上赢「新品数据库」看板，对2023年Q3中饮料、休闲零食、方便速食、乳制品四大食品类目中的新品进行挖掘梳理、判断走向分析，以监测所得数据 ...",
+          "date": "2023年11月6日",
+          "position": 43
+        },
+        {
+          "title": "柔性基板的几何参数对柔性电子系统延展性的影响 - 工程科学学报",
+          "link": "https://cje.ustb.edu.cn/cn/article/doi/10.13374/j.issn2095-9389.2015.s1.005",
+          "snippet": "... 延展性的影响.用ABAQUS软件对附着在不同几何参数的共聚酯材料上的两种结构铜导体进行单轴拉伸模拟实验,以此来确定基板的尺寸参数对整个系统延展性的影响.通过对模拟 ...",
+          "position": 44
+        },
+        {
+          "title": "LG Display展示软性显示面板：可自12吋延展至14吋 - QQ News",
+          "link": "https://news.qq.com/rain/a/20221109A061BJ00",
+          "snippet": "除了三星日前展示各类未来显示面板设计，LG Display稍早也宣布推出能额外延展20%幅度的软性显示面板，目前可实现从原有12吋显示面积变成14吋的设计。",
+          "date": "2022年11月9日",
+          "position": 45
+        },
+        {
+          "title": "裂隙延展性统计分布离散性对岩体块体化程度REV的影响",
+          "link": "https://www.swdzgcdz.com/cn/article/doi/10.16030/j.cnki.issn.1000-3665.2019.04.15",
+          "snippet": "Influence of statistical distribution dispersion in the fracture size on blockiness REV of fractured rock masses · 表征单元体 / · 裂隙延展性 / · 离散程度 / · 块体化 ...",
+          "position": 46
+        },
+        {
+          "title": "启蒙的风险——现代性的辩证法及其延展",
+          "link": "https://xbzs.ecnu.edu.cn/CN/abstract/abstract11098.shtml",
+          "snippet": "华东师范大学(哲学社会科学版) ›› 2017, Vol. 49 ›› Issue (2): 30-34. • 启蒙与现代性(笔谈) • 上一篇 下一篇. 启蒙的风险——现代性的辩证法及其延展. 潘斌.",
+          "position": 47
+        },
+        {
+          "title": "航院张一慧课题组提出一种高集成度柔性电子器件的层叠网格封装技术",
+          "link": "https://www.tsinghua.edu.cn/info/1175/92299.htm",
+          "snippet": "为提升无机柔性电子器件的延展率，前人提出了“岛-桥”导线、蛇形导线、分型导线及三维螺旋导线等设计策略，但是这些策略在增加器件延展性的同时，是以 ...",
+          "date": "2022年3月18日",
+          "position": 48
+        },
+        {
+          "title": "婚姻家庭法的伦理性及其立法延展 - 皮书数据库",
+          "link": "https://www.pishu.com.cn/skwx_ps/initDatabaseDetail?contentId=1935680&siteId=14&contentType=literature",
+          "snippet": "婚姻家庭法的伦理性及其立法延展. 报告作者：夏吟兰; 报告字数：7237 字; 报告 ... 性及其立法延展》，下面我们欢迎夏老师！夏吟兰（主讲人）：非常感谢王老师和梁处 ...",
+          "position": 49
+        },
+        {
+          "title": "种植屋面应用优势延展性探讨 - 万方数据",
+          "link": "https://d.wanfangdata.com.cn/conference/8467886",
+          "snippet": "关键词：. 建筑工程种植屋面优化设计延展性分析 ; 母体文献：. 第四届(2014年)中国中西部地区土木建筑学术年会论文集 ; 会议时间：. 2014-09-01 ; 会议地点：. 太原 ; 主办单位：.",
+          "position": 50
+        },
+        {
+          "title": "低延展性弹力绑带在下肢静脉曲张手术中的应用",
+          "link": "https://www.qk.sjtu.edu.cn/jter/CN/abstract/abstract44045.shtml",
+          "snippet": "摘要： 目的探讨低延展性弹力绑带在静脉曲张手术患者中的作用。 方法2008 年1 月至2019 年12 月，130 例接受静脉曲张微波腔内闭合手术患者，随机分成两组：对照组（n ＝ 65） ...",
+          "position": 51
+        },
+        {
+          "title": "文学性的生活延展与文学的商化写作 - 社会科学辑刊",
+          "link": "http://www.shkxjk.com/CN/abstract/abstract3656.shtml",
+          "snippet": "摘要： 文学性的提出并引起关注, 是新世纪文学处境的一个体现, 使文学与生活的互融与互动关系在反映论之外获得了新的研究场域, 新世纪文学在被削弱或痛失一部分传统属性 ...",
+          "position": 52
+        },
+        {
+          "title": "签名延展性攻击 - 登链社区",
+          "link": "https://learnblockchain.cn/article/8281",
+          "snippet": "签名延展性攻击 ... 经过验证，第二个签名对消息也有效。 在上面的示例合约中，在一开始我们就可以看到 v, r, s 的组合，允许攻击者观察所有者的签名。并且，在 ...",
+          "date": "2024年6月2日",
+          "position": 53
+        },
+        {
+          "title": "女性社会组织的项目延展之路：上海海蕴女性创业就业指导服务中心",
+          "link": "https://xianxiao.ssap.com.cn/catalog/detail/id/6942006.html",
+          "snippet": "通过大赛平台对接公益基金会，为组织发展提供社会化资金支持，并获得体系化、综合性的成长支持。海蕴女性创业就业指导服务中心的经历告诉我们，以赛事活动为起点，推进发展期 ...",
+          "priceRange": "JP¥4",
+          "position": 54
+        },
+        {
+          "title": "延展性 - 翰林雲端學院",
+          "link": "https://www.ehanlin.com.tw/app/keyword/%E5%9C%8B%E4%B8%AD/%E7%90%86%E5%8C%96/%E5%BB%B6%E5%B1%95%E6%80%A7.html",
+          "snippet": "金屬大都具有延展性，指不易破碎，可拉成細線或打成薄片例如：銅線、銀飾...等.",
+          "position": 55
+        },
+        {
+          "title": "利用借用位错提升陶瓷延展性 - 领研网",
+          "link": "https://www.linkresearcher.com/theses/cb235df8-4900-4de8-b417-803ddfb3d9bd",
+          "snippet": "摘要：The inherent brittleness of ceramics, primarily due to restricted atomic motions from rigid ionic or covalent bonded structures, ...",
+          "date": "2024年8月4日",
+          "position": 56
+        },
+        {
+          "title": "北科大吕昭平再发Nature：高熵合金强度与延展性可兼得！ - 纳米人",
+          "link": "http://m.nanoer.net/main/view?id=6396",
+          "snippet": "吕昭平，1970年生，安徽桐城人，北京科技大学教授、博士生导师， 北京科技大学大学副校长。2017年4月，吕昭平教授团队在Nature发文，通过创新合金设计理念，利用 ...",
+          "date": "2018年11月15日",
+          "position": 57
+        },
+        {
+          "title": "[PDF] 谈广告创意的延展性 - CORE",
+          "link": "https://core.ac.uk/download/pdf/41350342.pdf",
+          "snippet": "间缺乏延展性。 当第二波. 广告运动没有取得成效之后现实的广. 告主开始另寻断欢 ... 的延展性。 目前国内的广告缺乏延展. 性,. 首先是体现在广告策略的传播主题. 无法 ...",
+          "position": 58
+        },
+        {
+          "title": "延展性更好的“超级钢”来了！《科学》发表中国团队最新研究成果",
+          "link": "https://www.mittrchina.com/news/detail/379",
+          "snippet": "近日，来自香港、台湾和北京的研究者们发现了制造强度高、延展性好的钢材的新办法。在他们发表于《科学》期刊的论文中，研究者们透露了制作新型钢材所需 ...",
+          "date": "2017年8月29日",
+          "position": 59
+        },
+        {
+          "title": "[PDF] 将承诺变为行动: - 2030年可持续发展议程中的性别平等问题",
+          "link": "https://www.unwomen.org/sites/default/files/Headquarters/Attachments/Sections/Library/Publications/2018/SDG-report-Summary-Gender-equality-in-the-2030-Agenda-for-Sustainable-Development-2018-zh.pdf",
+          "snippet": "在全球女性权益倡导者的. 不懈努力下，《2030年议程》做出了重点突出、. 全面兼顾、跨领域的性别平等承诺。以《北京宣. 言》和《行动纲要》及《消除对妇女一切形式歧. 视 ...",
+          "position": 60
+        },
+        {
+          "title": "延展性- 维基词典，自由的多语言词典",
+          "link": "https://zh.wiktionary.org/wiki/%E5%BB%B6%E5%B1%95%E6%80%A7",
+          "snippet": "發音 · 官話. (拼音)：yánzhǎnxìng: (注音)：ㄧㄢˊ ㄓㄢˇ ㄒㄧㄥˋ · 粵語 (粵拼)：jin4 zin2 sing3更多▽ ...",
+          "position": 61
+        },
+        {
+          "title": "延展性-翻译为英语-例句中文 - Reverso Context",
+          "link": "https://context.reverso.net/%E7%BF%BB%E8%AF%91/%E4%B8%AD%E6%96%87-%E8%8B%B1%E8%AF%AD/%E5%BB%B6%E5%B1%95%E6%80%A7",
+          "snippet": "在英语中翻译\"延展性\" · ductility · ductile · malleable. scalability. stretch. 显示更多",
+          "position": 62
+        },
+        {
+          "title": "当代参与文化及其底层经济逻辑的转变——评詹金斯《可延展媒介》",
+          "link": "http://cmr.zju.edu.cn/details/527.html",
+          "snippet": "可延展媒介、当代参与文化及其底层经济逻辑的转变——评詹金斯《可延展媒介》. 立即下载. 新环境下出版经济学研究的创新性突破——评《出版经济学：学理分析 ...",
+          "date": "2023年12月11日",
+          "position": 63
+        },
+        {
+          "title": "一文让你们了解金属延展性，涨点基础知识",
+          "link": "https://www.corrdata.org.cn/news/science/2020-03-18/176573.html",
+          "snippet": "物体在外力作用下能延伸成细丝而不断裂的性质叫延性；在外力（锤击或滚轧）作用能碾成薄片而不破裂的性质叫展性。如金属的延展性良好，其中金、铂、铜、银、钨 ...",
+          "date": "2020年3月18日",
+          "position": 64
+        },
+        {
+          "title": "弯道超车还是弯道翻车:延展性目标与员工不道德行为的双调节模型",
+          "link": "https://cjlc.zufe.edu.cn/EN/lexeme/showArticleByLexeme.do?articleID=2051",
+          "snippet": "Collected Essays on Finance and Economics . 2023, (3): 82 -92 . Copyright © Collected ...",
+          "position": 65
+        },
+        {
+          "title": "置换：延展性材料、流体形态以及变化性语境联展 - 展览- 雅昌艺术网",
+          "link": "https://exhibit.artron.net/exhibition-58287.html",
+          "snippet": "Burns 作品中的风格、题材和故事的强烈冲突使这些作品能够接触到周围的作品，无论这些作品是由他自己还是其他艺术家创作的。这种社交性、包容性的特点促使参观者做出类似的 ...",
+          "position": 66
+        },
+        {
+          "title": "延展性- Talking Chinese English Dictionary - Purple Culture",
+          "link": "https://www.purpleculture.net/dictionary-details/?word=%E5%BB%B6%E5%B1%95%E6%80%A7&srsltid=AfmBOoqAvlZzO0R-SjSUJratk48fOc68ryaE1T9xMcuAucjD541hJQmJ",
+          "snippet": "延展性 yán zhǎn xìng. 延展性. Dictionary; Sample Sentences; Writing. ductability. rén nǎo. 人脑. jù yǒu. 具有. jī hū. 几乎. wú xiàn. 无限.",
+          "position": 67
+        },
+        {
+          "title": "延展咨询招聘信息 - 中国科学技术大学管理学院",
+          "link": "https://business.ustc.edu.cn/2010/0614/c28481a529644/page.htm",
+          "snippet": "咨询或软件服务公司不同，延展咨询开创性的提出并实践了咨询实施一体化的服务模式。 延展咨询秉承“专业务实、创造价值”的服务理念，为中国高成长型 ...",
+          "date": "2010年6月14日",
+          "position": 68
+        },
+        {
+          "title": "时代符号VS．个人细节延展性人物的报道视角 - Semantic Scholar",
+          "link": "https://www.semanticscholar.org/paper/%E6%97%B6%E4%BB%A3%E7%AC%A6%E5%8F%B7VS%EF%BC%8E%E4%B8%AA%E4%BA%BA%E7%BB%86%E8%8A%82-%E5%BB%B6%E5%B1%95%E6%80%A7%E4%BA%BA%E7%89%A9%E7%9A%84%E6%8A%A5%E9%81%93%E8%A7%86%E8%A7%92-%E6%9B%BE%E7%B9%81%E6%97%AD-%E5%BD%AD%E6%AF%85%E6%96%87/7c8c1cd2a80b4b4c96d6b66b2a693afa736b62ca",
+          "snippet": "这些人不仅能够代表自己，也可能代表更庞大的群体、阶层、思潮乃至时代。比如作家韩寒与郭敬明就常常被当作不同类型的80后代表加以解读。这一类人，可以称为“延展性 ...",
+          "position": 69
+        },
+        {
+          "title": "现代性的延展与中国文论的“当代性”建构 - 中国社会科学网",
+          "link": "https://www.cssn.cn/wx/wx_wyx/202208/t20220802_5442746.shtml",
+          "snippet": "“当代性”在对“现代性”的延展与修正中不断完善自身，这种理论坐标把历史、当下和未来等不同时间维度嵌入文艺创作与批评，使作品内涵和审美意义具有“前瞻性”和 ...",
+          "date": "2020年8月14日",
+          "position": 70
+        },
+        {
+          "title": "具有很高边缘延展性的先进高强度钢（AHSS）- 现已成为现实 - SSAB",
+          "link": "https://www.ssab.com/zh-cn/brands-and-products/docol/automotive-steel-resources/automotive-insights/ahss-with-high-edge-ductility",
+          "snippet": "边缘延展性是开发复杂组件的汽车制造商的常见限制因素。通常，那些使用传统低合金高强钢（HSLA）的人必须应对诸如废料、拒收、技术问题和成本问题等挑战。",
+          "position": 71
+        },
+        {
+          "title": "可延展性- 标签- 一粒沙- 博客园",
+          "link": "https://www.cnblogs.com/timy/tag/%E5%8F%AF%E5%BB%B6%E5%B1%95%E6%80%A7/",
+          "snippet": "随笔- 797 文章- 2 评论- 56 阅读- 154万. 当前标签：可延展性. 目前没有内容. 昵称： 一粒沙 园龄： 17年4个月 粉丝： 203 关注： 0. +加关注. <, 2024年8月, > ...",
+          "position": 72
+        },
+        {
+          "title": "创新延展市场，产品用于航天项目 - 温岭市人民政府",
+          "link": "https://www.wl.gov.cn/art/2020/12/1/art_1544445_58944653.html",
+          "snippet": "对此，我们公司已前瞻性地在此方向展开了布局，自主开发的动力总成液冷泵产品，现在已经申请了将近20项专利，产品技术水准获得主流厂商的高度认可。不断延展 ...",
+          "date": "2020年12月1日",
+          "position": 73
+        },
+        {
+          "title": "延展与解蔽—基于时空体验的景观与建筑的内外交互 - 风景园林",
+          "link": "http://www.lalavision.com/cn/article/id/20180316",
+          "snippet": "Extension and Revealing—Study on Threshold and Interaction between Landscape and Architecture Based on Time-Space Experience · 景观与建筑 / · 阈限 / · 厚性 / · 延展 ...",
+          "position": 74
+        },
+        {
+          "title": "联合国学术影响可持续发展目标中心：目标5——性别平等",
+          "link": "https://www.un.org/zh/111567",
+          "snippet": "它的使命是成为非洲和阿拉伯世界致力于实现和平、性别平等和尊重人权的主要机构之一，并且其特殊强调妇女赋权和领导能力。 该大学设有性别、多样性、和平与权利地区研究所， ...",
+          "position": 75
+        },
+        {
+          "title": "突出课程内容延展性增强课程学习选择性 - 武汉大学",
+          "link": "http://cgrs.lib.whu.edu.cn/Qw/Paper/691923",
+          "snippet": "2017年版思想政治课程标准通过增设课程模块，增加模块内容，重设整合性模块等方式，延展了课程内容；将课程类别调整为必修课程、选择性必修课程和选修课程三大类，极大地 ...",
+          "position": 76
+        },
+        {
+          "title": "[1atm] 延展性-九分西裝褲",
+          "link": "https://www.1-atmosphere.co/products/1atm-%E5%BB%B6%E5%B1%95%E6%80%A7-%E4%B9%9D%E5%88%86%E8%A5%BF%E8%A3%9D%E8%A4%B2",
+          "snippet": "採用最滑順的YKK拉鍊○ 使用右側AI智能尺寸推薦，下單更安心。（香港、澳門、新加坡運送時間5-7日）",
+          "currency": "$",
+          "price": 1350,
+          "position": 77
+        },
+        {
+          "title": "四校合作Nature：兼具强度和延展性金属设计 - 材料牛",
+          "link": "http://www.cailiaoniu.com/236040.html",
+          "snippet": "【导读】 研究表明，具有纳米晶粒（NC）的金属具有接近2GPa的超高强度。然而，这种极端的晶界（GB）强化导致金属丧失了所有的拉伸延展性，即使在具有延展性最 ...",
+          "date": "2022年4月20日",
+          "position": 78
+        },
+        {
+          "title": "“游戏性”在儿童家具的延展性空间中的实现-【维普期刊官网】",
+          "link": "https://qikan.cqvip.com/Qikan/Article/Detail?id=41447188&from=Qikan_Article_Detail",
+          "snippet": "摘要 基于对儿童的生理、心理和行为的研究,提出\"游戏\"对儿童成长的重要性。讨论如何在以儿童家具为中心的延展性空间中实现\"游戏性\",结合实例,从功能的开发、材料的开发 ...",
+          "position": 79
+        },
+        {
+          "title": "金属材料延性对其薄膜-柔性基底结构延展性的影响 - 中国力学期刊网",
+          "link": "https://pubs.cstam.org.cn/article/doi/10.3969/j.issn.0254-0053.2013.02.014?viewType=HTML",
+          "snippet": "金属材料延性对其薄膜-柔性基底结构延展性的影响. 薛国宏 ,; 陶伟明. 浙江大学工程力学系,浙江杭州,310027. 浙江大学工程力学系,浙江杭州,310027. 基金项目:.",
+          "position": 80
+        },
+        {
+          "title": "新研究发现钻石具有“流畅”的结构延展性和电子传导性 - 科学网",
+          "link": "https://news.sciencenet.cn/htmlpaper/2019/11/201911714465214253396.shtm",
+          "snippet": "尤其是与其固有标签属性形成鲜明对比的是，钻石这自然界硬度最高的脆性材料，竟在原子尺度呈现“流畅”的结构延展性。同时，钻石的独特结构蠕变行为，伴随着其 ...",
+          "date": "2019年11月7日",
+          "position": 81
+        },
+        {
+          "title": "采购：如何运用SAP S/4HANA可延展性功能",
+          "link": "https://community.sap.com/t5/enterprise-resource-planning-blogs-by-sap/%E9%87%87%E8%B4%AD-%E5%A6%82%E4%BD%95%E8%BF%90%E7%94%A8sap-s-4hana%E5%8F%AF%E5%BB%B6%E5%B1%95%E6%80%A7%E5%8A%9F%E8%83%BD/ba-p/12863286",
+          "snippet": "原作者：Nora Gao 原文链接： https://blogs.sap.com?p=320 1 SAP S/4HANA可延展性功能可扩展性应用程序可帮助您自定义应用程序及其UI.",
+          "date": "2020年5月20日",
+          "position": 82
+        },
+        {
+          "title": "延展性试验机市场深度分析报告-细分产品销售数据及应用前景调研",
+          "link": "https://m.gelonghui.com/p/1231324",
+          "snippet": "中国市场延展性试验机领先企业为BMC Enterprise, Humboldt, ELE International, Cooper Technology, Everest Scissors, Stylco India, New Technolab ...",
+          "date": "6天前",
+          "position": 83
+        },
+        {
+          "title": "科普| 交易延展性攻击、粉尘攻击和女巫攻击\"_陀螺科技",
+          "link": "https://m.tuoluo.cn/article/detail-10092556.html",
+          "snippet": "具体指的是比特币交易A 发出之后，在还没有被确认之前，攻击者通过修改某些交易数据，使得一笔交易的唯一标识——交易哈希发生了改变，就形成了新的交易B ，假如交易B 先被记录到 ...",
+          "position": 84
+        },
+        {
+          "title": "重读《白洋淀纪事》：革命叙事的经验延展与美学弥合 - 中国作家网",
+          "link": "http://www.chinawriter.com.cn/n1/2021/0707/c419384-32150645.html",
+          "snippet": "同时，孙犁以内向型的诗性主义视阈对抗战大后方普通军民“日常生活叙事”进行倾心营构，在其精巧雅致的系列篇什当中，构建起包括革命启蒙、人道主义、民间伦理 ...",
+          "date": "2021年7月7日",
+          "position": 85
+        },
+        {
+          "title": "纳米人-分子晶体延展性",
+          "link": "http://39.107.81.124/e/tags/index.php?tagname=%E5%88%86%E5%AD%90%E6%99%B6%E4%BD%93%E5%BB%B6%E5%B1%95%E6%80%A7&tempid=13&mid=1",
+          "snippet": "Angew：有机塑料晶体中的类金属延展性：氨基硼烷中分子形状和二氢键相互作用的角色. 2020-02-23 · JACS：单晶有机材料中机械变形对熔点的影响. 2020-05-25.",
+          "position": 86
+        },
+        {
+          "title": "轻轨石排湾线可行性研究三方案延展绿色连系",
+          "link": "https://www.gov.mo/zh-hans/news/91843/",
+          "snippet": "随着石排湾公共房屋项目的落成，居民已经陆续入伙，加上离岛医疗综合体将会投入服务，可以预期市民进出住所及使用医疗综合体设施等，将会产生大量的交通需求。",
+          "date": "2014年1月11日",
+          "position": 87
+        },
+        {
+          "title": "延展性的英文翻译 - 海词",
+          "link": "https://dict.cn/%E5%BB%B6%E5%B1%95%E6%80%A7",
+          "snippet": "海词词典，最权威的学习词典，专业出版延展性的英文，延展性翻译，延展性英语怎么说等详细讲解。海词词典：学习变容易，记忆很深刻。",
+          "position": 88
+        },
+        {
+          "title": "行业延展性不足创新少硬件创业竞争激烈路难行 - 凤凰网湖北",
+          "link": "http://hb.ifeng.com/3c/detail_2014_01/15/1738390_0.shtml",
+          "snippet": "行业甚至有一句话，叫做“在华强北面前，没有技术壁垒。”虽然有些言过其实，但绝大部分的智能设备创业都不具备真正的核心技术，因此都是很容易被快速低成本复制 ...",
+          "date": "2014年1月15日",
+          "position": 89
+        },
+        {
+          "title": "夜光帷幕：一个轻便，柔软，有延展性的宜居空间 - 建筑学院",
+          "link": "http://www.archcollege.com/archcollege/2018/03/39643.html",
+          "snippet": "在夜间，点亮的装置的氛围发生改变，并营造出一个充满活力的空间。光被当作具有雕塑感的媒介来提升网格和空间的感知度。它框定了用户与装置互动的方式。该装置代表了一个由 ...",
+          "position": 90
+        },
+        {
+          "title": "性别平等工作组- 国际防盲协会",
+          "link": "https://www.iapb.org/zh/connect/work-groups/gender-equity/",
+          "snippet": "An important work group for raising awareness, sharing ideas and evidence, and bringing a change in the organisations' policies and culture around gender ...",
+          "position": 91
+        },
+        {
+          "title": "可延展性的翻译 - 西语助手",
+          "link": "https://www.esdict.cn/dicts/es/%E5%8F%AF%E5%BB%B6%E5%B1%95%E6%80%A7",
+          "snippet": "可延展性. 发音 生词本： 添加笔记：. 有奖纠错. | 划词. 西汉-汉西词典; AI解释 · 西语维基词典 · 全文检索. 西汉-汉西词典. 可延展性.",
+          "position": 92
+        },
+        {
+          "title": "上海硅酸盐所发现一种具有和金属一样延展性的半导体材料",
+          "link": "https://www.sic.cas.cn/kybm/skl/yjdt/201804/t20180418_4998673.html",
+          "snippet": "金属和陶瓷/半导体具有迥然不同的力学性能，如金属具有良好的延展性、塑性、易加工等特性，而陶瓷和半导体则表现为脆性、塑性差、不易加工等特性。",
+          "date": "2023年12月21日",
+          "position": 93
+        },
+        {
+          "title": "延展性许可费条款的反垄断法分析- 期刊论文- 法信",
+          "link": "https://www.faxin.cn/v2/qklw/content.html?gid=F401576",
+          "snippet": "期刊名称：《现代法学》; 期刊年份：2015年; 期号：3; 页码：104-114; 作者：宁立志;周围; 作者单位：武汉大学法学院/知识产权法研究所; 摘要：延展性许可费条款是存在于研究 ...",
+          "position": 94
+        },
+        {
+          "title": "可延展性与动态性有何区别？ - 东奥会计答疑",
+          "link": "https://m.dongao.com/dy/zckjs_zl_93714/19499102",
+          "snippet": "可延展性主要指公司的核心能力可以应用于多个领域或产品，并能够为公司带来新的业务机会和竞争优势。在爱博公司的案例中，其核心技术的积累与产业应用的开拓深度融合，以核心 ...",
+          "position": 95
+        },
+        {
+          "title": "高延展性聚合物水分散体的制备和特性研究 - 中国药科大学学报",
+          "link": "http://zgykdxxb.cpu.edu.cn/jcpu/article/html/20090405",
+          "snippet": "目的： 制备新型高延展性聚合物水分散体，用于延展性缓释包衣，并对其理化性质和缓释包衣性能进行研究。方法： 采用乳液聚合法，制备聚合物水分散体；研究其理化性质、成膜 ...",
+          "position": 96
+        },
+        {
+          "title": "流体形态以及变化性语境”克莱蒙特研究生大学五人艺术作品展今日开幕",
+          "link": "http://www.tjarts.edu.cn/info/1155/3230.htm",
+          "snippet": "2018年7月3日上午10:00，“置换：延展性材料、流体形态以及变化性语境”克莱蒙特研究生大学五人艺术作品展在天纬路校区美术馆二楼序厅隆重开幕。",
+          "date": "2018年7月4日",
+          "position": 97
+        },
+        {
+          "title": "延展性— 英语翻译- TechDico辞書",
+          "link": "https://zh.techdico.com/%E7%BF%BB%E8%AF%91/%E4%B8%AD%E6%96%87-%E8%8B%B1%E8%AF%AD/%E5%BB%B6%E5%B1%95%E6%80%A7.html",
+          "snippet": "包含许多翻译示例按活动分类“延展性” – 中文-英语字典和智能翻译助手。",
+          "position": 98
+        },
+        {
+          "title": "现场老化石油沥青的延展性表征 - X-MOL",
+          "link": "https://www.x-mol.com/paper/1304621427675336704/t?recommendPaper=1225078774762618880",
+          "snippet": "沥青混合料的延展性也通过间接拉伸试验表征。发现测试温度对性能测量有影响。单调测试在5°C 下测得的失效应变与振荡测试测得的DSR 函数相关性很好。较高的破坏应变和较低的 ...",
+          "position": 99
+        }
+      ],
+      "images": [
+        {
+          "title": "延展性_百度百科",
+          "imageUrl": "https://bkimg.cdn.bcebos.com/smart/6f061d950a7b0208fd6b987168d9f2d3562cc884-bkimg-process,v_1,rw_1,rh_1,pad_1,color_ffffff?x-bce-process=image/format,f_auto",
+          "link": "https://baike.baidu.com/item/%E5%BB%B6%E5%B1%95%E6%80%A7/3636540"
+        },
+        {
+          "title": "西安交大卢同庆教授课题组《Adv. Sci.》：一种基于可展开节点设计的高 ...",
+          "imageUrl": "http://www.polymer.cn/UploadFile/IndustryNewsPic/20230129135535_1422.png",
+          "link": "http://www.polymer.cn/sci/kjxw20973.html"
+        },
+        {
+          "title": "HTE高温延展性电解铜箔",
+          "imageUrl": "https://www.civen.cn/uploads/b13c842b.png",
+          "link": "https://www.civen.cn/hte-high-temperature-ductile-electrolytic-copper-foil-product/"
+        },
+        {
+          "title": "延展性_搜狗百科",
+          "imageUrl": "https://puui.qpic.cn/vpic_cover/x3533drymth/x3533drymth_hz.jpg/1280",
+          "link": "https://baike.sogou.com/v507532.htm"
+        },
+        {
+          "title": "延展性- 维基百科，自由的百科全书",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Kanazawa_Gold_Factory.jpg/200px-Kanazawa_Gold_Factory.jpg",
+          "link": "https://zh.wikipedia.org/zh-cn/%E5%BB%B6%E5%B1%95%E6%80%A7"
+        },
+        {
+          "title": "延展性- 维基百科，自由的百科全书",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Cast_iron_tensile_test.JPG/180px-Cast_iron_tensile_test.JPG",
+          "link": "https://zh.wikipedia.org/zh-cn/%E5%BB%B6%E5%B1%95%E6%80%A7"
+        },
+        {
+          "title": "延展性- 维基百科，自由的百科全书",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Al_tensile_test.jpg/640px-Al_tensile_test.jpg",
+          "link": "https://zh.wikipedia.org/zh-cn/%E5%BB%B6%E5%B1%95%E6%80%A7"
+        },
+        {
+          "title": "西安交大卢同庆教授课题组《Adv. Sci.》：一种基于可展开节点设计的高 ...",
+          "imageUrl": "http://www.polymer.cn/UploadFile/IndustryNewsPic/20230129135606_6569.png",
+          "link": "http://www.polymer.cn/sci/kjxw20973.html"
+        },
+        {
+          "title": "Nature Communications》| 兼具高硬度和高延展性的类竹状结构铜硼薄膜 ...",
+          "imageUrl": "https://www.x-mol.com/showImage/showUeImage?fileSource=upload:webue/20230814/37051691982149185.jpg",
+          "link": "https://www.x-mol.com/groups/zhangkan/news/49600"
+        }
+      ],
+      "relatedSearches": [
+        {
+          "query": "延展意思"
+        },
+        {
+          "query": "延展英文"
+        },
+        {
+          "query": "ductility意思"
+        },
+        {
+          "query": "Ductility"
+        },
+        {
+          "query": "malleability意思"
+        },
+        {
+          "query": "Ductility meaning"
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "性别延展",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "可延展性- 标签- 一粒沙- 博客园",
+          "link": "https://www.cnblogs.com/timy/tag/%E5%8F%AF%E5%BB%B6%E5%B1%95%E6%80%A7/",
+          "snippet": "随笔- 797 文章- 2 评论- 56 阅读- 154万. 当前标签：可延展性. 目前没有内容. 昵称： 一粒沙 园龄： 17年4个月 粉丝： 203 关注： 0. +加关注. <, 2024年8月, > ...",
+          "position": 1
+        },
+        {
+          "title": "延展认知：认知科学的一场革命 - 江苏社科规划网",
+          "link": "http://jspopss.jschina.com.cn/shekedongtai/201409/t20140904_1557586.shtml",
+          "snippet": "以克拉克和查尔默斯为代表的延展认知理论，把认知科学从计算-表征时代推向以涉身性和嵌入性为核心的第二代认知科学。回顾创新和创造发现的历史， ...",
+          "date": "2014年9月4日",
+          "position": 2
+        },
+        {
+          "title": "黏附性TA@MXene-复合有机水凝胶应用于高稳定柔性可穿戴传感器",
+          "link": "http://www.polymer.cn/sci/kjxw23049.html",
+          "snippet": "燕大焦体峰、秦志辉/UCLA贺曦敏AFM：高延展性、低滞后、黏附性TA@MXene-复合有机水凝胶应用于高稳定柔性可穿戴传感器. 2024-03-28 来源：高分子科技. 关键词：高延展性 ...",
+          "position": 3
+        },
+        {
+          "title": "延展与解蔽—基于时空体验的景观与建筑的内外交互 - 风景园林",
+          "link": "http://www.lalavision.com/cn/article/id/20180316",
+          "snippet": "Extension and Revealing—Study on Threshold and Interaction between Landscape and Architecture Based on Time-Space Experience · 景观与建筑 / · 阈限 / · 厚性 / · 延展 ...",
+          "position": 4
+        },
+        {
+          "title": "联合国学术影响可持续发展目标中心：目标5——性别平等",
+          "link": "https://www.un.org/zh/111567",
+          "snippet": "它的使命是成为非洲和阿拉伯世界致力于实现和平、性别平等和尊重人权的主要机构之一，并且其特殊强调妇女赋权和领导能力。 该大学设有性别、多样性、和平与权利地区研究所 ...",
+          "position": 5
+        },
+        {
+          "title": "突出课程内容延展性增强课程学习选择性 - 武汉大学",
+          "link": "http://cgrs.lib.whu.edu.cn/Qw/Paper/691923",
+          "snippet": "2017年版思想政治课程标准通过增设课程模块，增加模块内容，重设整合性模块等方式，延展了课程内容；将课程类别调整为必修课程、选择性必修课程和选修课程三大类， ...",
+          "position": 6
+        },
+        {
+          "title": "[1atm] 延展性-九分西裝褲",
+          "link": "https://www.1-atmosphere.co/products/1atm-%E5%BB%B6%E5%B1%95%E6%80%A7-%E4%B9%9D%E5%88%86%E8%A5%BF%E8%A3%9D%E8%A4%B2",
+          "snippet": "採用最滑順的YKK拉鍊○ 使用右側AI智能尺寸推薦，下單更安心。（香港、澳門、新加坡運送時間5-7日）",
+          "position": 7
+        },
+        {
+          "title": "高延展性纤维增强水泥基复合材料自愈合行为 - Ingenta Connect",
+          "link": "https://www.ingentaconnect.com/content/ccs/jccs/2011/00000039/00000004/art00024?crawler=true",
+          "snippet": "摘要：研究了在0.3%、0.5%、1.0%以及2.0%不同程度预加拉伸应变破坏下，两种不同配比、不同龄期的高延展性纤维增强水泥基复合材料M45-ECC.",
+          "date": "2011年4月4日",
+          "position": 8
+        },
+        {
+          "title": "四校合作Nature：兼具强度和延展性金属设计 - 材料牛",
+          "link": "http://www.cailiaoniu.com/236040.html",
+          "snippet": "【导读】 研究表明，具有纳米晶粒（NC）的金属具有接近2GPa的超高强度。然而，这种极端的晶界（GB）强化导致金属丧失了所有的拉伸延展性， ...",
+          "date": "2022年4月20日",
+          "position": 9
+        },
+        {
+          "title": "金属材料延性对其薄膜-柔性基底结构延展性的影响 - 中国力学期刊网",
+          "link": "https://pubs.cstam.org.cn/article/doi/10.3969/j.issn.0254-0053.2013.02.014?viewType=HTML",
+          "snippet": "金属材料延性对其薄膜-柔性基底结构延展性的影响. 薛国宏 ,; 陶伟明. 浙江大学工程力学系,浙江杭州,310027. 浙江大学工程力学系,浙江杭州,310027. 基金项目:.",
+          "position": 10
+        },
+        {
+          "title": "兼顾超强韧性和延展性首款3D打印纳米结构高熵合金问世 - 科技日报",
+          "link": "https://www.stdaily.com/guoji/xinwen/202208/739024049752448695d33b54d9be4285.shtml",
+          "snippet": "... 延展性优于现有其他先进的3D打印材料，有望催生可用于航空航天、医学、能源和运输等领域的高性能部件。",
+          "date": "2022年8月5日",
+          "position": 11
+        },
+        {
+          "title": "采购：如何运用SAP S/4HANA可延展性功能",
+          "link": "https://community.sap.com/t5/enterprise-resource-planning-blogs-by-sap/%E9%87%87%E8%B4%AD-%E5%A6%82%E4%BD%95%E8%BF%90%E7%94%A8sap-s-4hana%E5%8F%AF%E5%BB%B6%E5%B1%95%E6%80%A7%E5%8A%9F%E8%83%BD/ba-p/12863286",
+          "snippet": "原作者：Nora Gao 原文链接： https://blogs.sap.com?p=320 1 SAP S/4HANA可延展性功能可扩展性应用程序可帮助您自定义应用程序及其UI.",
+          "date": "2020年5月20日",
+          "position": 12
+        },
+        {
+          "title": "轻轨石排湾线可行性研究三方案延展绿色连系",
+          "link": "https://www.gov.mo/zh-hans/news/91843/",
+          "snippet": "随着石排湾公共房屋项目的落成，居民已经陆续入伙，加上离岛医疗综合体将会投入服务，可以预期市民进出住所及使用医疗综合体设施等，将会产生大量的交通 ...",
+          "date": "2014年1月11日",
+          "position": 13
+        },
+        {
+          "title": "延展性试验机市场深度分析报告-细分产品销售数据及应用前景调研",
+          "link": "https://m.gelonghui.com/p/1231324",
+          "snippet": "中国市场延展性试验机领先企业为BMC Enterprise, Humboldt, ELE International, Cooper Technology, Everest Scissors, Stylco India, New Technolab ...",
+          "date": "6天前",
+          "position": 14
+        },
+        {
+          "title": "科普| 交易延展性攻击、粉尘攻击和女巫攻击\"_陀螺科技",
+          "link": "https://m.tuoluo.cn/article/detail-10092556.html",
+          "snippet": "具体指的是比特币交易A 发出之后，在还没有被确认之前，攻击者通过修改某些交易数据，使得一笔交易的唯一标识——交易哈希发生了改变，就形成了新的交易B ，假如交易B 先被 ...",
+          "position": 15
+        },
+        {
+          "title": "重读《白洋淀纪事》：革命叙事的经验延展与美学弥合 - 中国作家网",
+          "link": "http://www.chinawriter.com.cn/n1/2021/0707/c419384-32150645.html",
+          "snippet": "同时，孙犁以内向型的诗性主义视阈对抗战大后方普通军民“日常生活叙事”进行倾心营构，在其精巧雅致的系列篇什当中，构建起包括革命启蒙、人道主义、民间 ...",
+          "date": "2021年7月7日",
+          "position": 16
+        },
+        {
+          "title": "竞争法视角下商标善意共存纠纷——“包容性发展”基础之上的“差异化 ...",
+          "link": "https://www.allbrightlaw.com/CN/10475/44383dabc8bea701.aspx",
+          "snippet": "最高院《意见》中的“包容性发展”的价值取向仅解决了基础商标A和B的第一步共存问题，但没有对商标共存各方后续在“中间地带”X区域的商标延展注册争议做出 ...",
+          "date": "2020年10月13日",
+          "position": 17
+        },
+        {
+          "title": "行业延展性不足创新少硬件创业竞争激烈路难行 - 凤凰网湖北",
+          "link": "http://hb.ifeng.com/3c/detail_2014_01/15/1738390_0.shtml",
+          "snippet": "行业甚至有一句话，叫做“在华强北面前，没有技术壁垒。”虽然有些言过其实，但绝大部分的智能设备创业都不具备真正的核心技术，因此都是很容易被快速低成本 ...",
+          "date": "2014年1月15日",
+          "position": 18
+        },
+        {
+          "title": "夜光帷幕：一个轻便，柔软，有延展性的宜居空间 - 建筑学院",
+          "link": "http://www.archcollege.com/archcollege/2018/03/39643.html",
+          "snippet": "在夜间，点亮的装置的氛围发生改变，并营造出一个充满活力的空间。光被当作具有雕塑感的媒介来提升网格和空间的感知度。它框定了用户与装置互动的方式。该装置代表了一个由 ...",
+          "position": 19
+        },
+        {
+          "title": "性别平等工作组- 国际防盲协会",
+          "link": "https://www.iapb.org/zh/connect/work-groups/gender-equity/",
+          "snippet": "An important work group for raising awareness, sharing ideas and evidence, and bringing a change in the organisations' policies and culture around gender ...",
+          "position": 20
+        },
+        {
+          "title": "可延展性的翻译 - 西语助手",
+          "link": "https://www.esdict.cn/dicts/es/%E5%8F%AF%E5%BB%B6%E5%B1%95%E6%80%A7",
+          "snippet": "可延展性. 发音 生词本： 添加笔记：. 有奖纠错. | 划词. 西汉-汉西词典; AI解释 · 西语维基词典 · 全文检索. 西汉-汉西词典. 可延展性.",
+          "position": 21
+        },
+        {
+          "title": "延展性的英文翻译 - 海词",
+          "link": "https://dict.cn/%E5%BB%B6%E5%B1%95%E6%80%A7",
+          "snippet": "海词词典，最权威的学习词典，专业出版延展性的英文，延展性翻译，延展性英语怎么说等详细讲解。海词词典：学习变容易，记忆很深刻。",
+          "position": 22
+        },
+        {
+          "title": "[PDF] 高延展性聚合物水分散体的制备和特性研究",
+          "link": "https://jcpu.cpu.edu.cn/cn/article/pdf/preview/20090405.pdf",
+          "snippet": "结果：自制. 聚合物水分散体（甲基丙烯酸甲酯 丙烯酸乙酯，1∶2）具有适宜的理化性质、成膜能力和延展性，无需增塑剂和加热老化便. 能形成高延展性、低黏性的衣膜。制得的 ...",
+          "position": 23
+        },
+        {
+          "title": "可延展性与动态性有何区别？ - 东奥会计答疑",
+          "link": "https://m.dongao.com/dy/zckjs_zl_93714/19499102",
+          "snippet": "可延展性主要指公司的核心能力可以应用于多个领域或产品，并能够为公司带来新的业务机会和竞争优势。在爱博公司的案例中，其核心技术的积累与产业应用的开拓深度融合，以 ...",
+          "position": 24
+        },
+        {
+          "title": "流体形态以及变化性语境”克莱蒙特研究生大学五人艺术作品展今日开幕",
+          "link": "http://www.tjarts.edu.cn/info/1155/3230.htm",
+          "snippet": "2018年7月3日上午10:00，“置换：延展性材料、流体形态以及变化性语境”克莱蒙特研究生大学五人艺术作品展在天纬路校区美术馆二楼序厅隆重开幕。",
+          "date": "2018年7月4日",
+          "position": 25
+        },
+        {
+          "title": "延展性— 英语翻译- TechDico辞書",
+          "link": "https://zh.techdico.com/%E7%BF%BB%E8%AF%91/%E4%B8%AD%E6%96%87-%E8%8B%B1%E8%AF%AD/%E5%BB%B6%E5%B1%95%E6%80%A7.html",
+          "snippet": "包含许多翻译示例按活动分类“延展性” – 中文-英语字典和智能翻译助手。",
+          "position": 26
+        },
+        {
+          "title": "柔性基板的几何参数对柔性电子系统延展性的影响 - 工程科学学报",
+          "link": "https://cje.ustb.edu.cn/cn/article/doi/10.13374/j.issn2095-9389.2015.s1.005",
+          "snippet": "... 延展性的影响.用ABAQUS软件对附着在不同几何参数的共聚酯材料上的两种结构铜导体进行单轴拉伸模拟实验,以此来确定基板的尺寸参数对整个系统延展性的影响.通过对模拟 ...",
+          "position": 27
+        },
+        {
+          "title": "通过延展性任务加强体验式学习 - 吴江人才市场",
+          "link": "http://www.wjhr.net/Information/Read.aspx?id=5031",
+          "snippet": "通过提升员工在不熟悉的环境中的舒适程度，延展性任务使每个员工在当下和未来工作中的适应能力更强，更加灵活，更能随机应变。然而，有的员工在很大程度上 ...",
+          "date": "2017年3月31日",
+          "position": 28
+        },
+        {
+          "title": "LG Display展示软性显示面板：可自12吋延展至14吋 - QQ News",
+          "link": "https://news.qq.com/rain/a/20221109A061BJ00",
+          "snippet": "除了三星日前展示各类未来显示面板设计，LG Display稍早也宣布推出能额外延展20%幅度的软性显示面板，目前可实现从原有12吋显示面积变成14吋的设计。",
+          "date": "2022年11月9日",
+          "position": 29
+        },
+        {
+          "title": "托马斯·彼尔德谈吉恩·扬布拉德的《延展电影》 – artforum.com.cn",
+          "link": "https://www.artforum.com.cn/print/202003/12649",
+          "snippet": "... 性变动必然会带来的创作与技术进步。《延展电影》是一份用前线报道的形式写就的未来预告，现在回头看来，其中的预言既显得惊人地早熟，同时也令人伤感地不在点上。",
+          "position": 30
+        },
+        {
+          "title": "延展- English translation – Linguee",
+          "link": "https://www.linguee.com/chinese-english/translation/%E5%BB%B6%E5%B1%95.html",
+          "snippet": "需得到高韧性和延展性，用低温回火， 高耐磨性用高温回火。 assab-china.com. assab-china.com. For maximum abrasive wear resistance, use high temperature tempering ...",
+          "position": 31
+        },
+        {
+          "title": "2023.09.12 小贴士｜延展性",
+          "link": "https://www.doerken.mobi/NewsDetail2.aspx?id=2670&code=010303",
+          "snippet": "延展性描述了材料在机械变形下改变形状而不损失质量的能力。 涂层的灵活性是组件或工件持久功能的关键 因为，根据应用情况，应用的漆膜在使用过程中会受到各种化学和/ ...",
+          "position": 32
+        },
+        {
+          "title": "原位激光辅助金刚石切割过程中熔融石英延展性的实验研究 - X-MOL",
+          "link": "https://www.x-mol.com/paper/1581478742289027072/t?recommendPaper=1308841930208284672",
+          "snippet": "原位激光辅助金刚石切割（LADC）是一种很有前途的加工硬脆材料的工艺。在这项研究中，进行了系统的数值分析和实验，以研究熔融石英在原位LADC 中的延展性机械加工性。通过 ...",
+          "position": 33
+        },
+        {
+          "title": "「延展性」最新找工作職缺｜2024年10月 - 104人力銀行",
+          "link": "https://www.104.com.tw/jobs/search/?keyword=%E5%BB%B6%E5%B1%95%E6%80%A7",
+          "snippet": "2024/10/18－19 個「延展性」工作機會｜Senior UX Designer【大予創意設計股份有限公司】、資深品牌視覺設計師Creative Visual Disigner【大河資本股份有限 ...",
+          "position": 34
+        },
+        {
+          "title": "在开放的延展性中建构秩序——邵昱皓的水彩画视界 - 科研之友",
+          "link": "https://www.scholarmate.com/S/ToW7q8",
+          "snippet": "延展性. 摘要. <正>物各有其性，性各有所适。材料本身是有它的本性，单独看某一种材料无法显现它的美，但将其属性关联起来或放置在新的空间中，它们的 ...",
+          "date": "2024年3月19日",
+          "position": 35
+        },
+        {
+          "title": "界面设计中的可延展性 - UI.CN",
+          "link": "https://m.ui.cn/details/568102",
+          "snippet": "在做移动端按钮的设计时，至少至少要考虑到3种状态的显示方式：默认、点击、禁用。这是最基本的3种状态，不可缺少。在做的时候就要考虑到，及给出相应样式 ...",
+          "date": "2020年11月3日",
+          "position": 36
+        },
+        {
+          "title": "种植屋面应用优势延展性探讨 - 万方数据",
+          "link": "https://d.wanfangdata.com.cn/conference/8467886",
+          "snippet": "关键词：. 建筑工程种植屋面优化设计延展性分析 ; 母体文献：. 第四届(2014年)中国中西部地区土木建筑学术年会论文集 ; 会议时间：. 2014-09-01 ; 会议地点：. 太原 ; 主办单位 ...",
+          "position": 37
+        },
+        {
+          "title": "开展体验式教学，增强思想政治理论课实效性 - 马克思主义学院",
+          "link": "https://som.sufe.edu.cn/18/f1/c8722a137457/page.htm",
+          "snippet": "延展思想政治理论课课堂，开展体验式教学，增强思想政治理论课实效性. 来源：马克思主义学院 发布时间：2017-04-26 00:00:00. 4月25日下午，思想政治理论课“马克思主义 ...",
+          "position": 38
+        },
+        {
+          "title": "[PDF] PC 132/4 - 《性别行动计划》",
+          "link": "https://openknowledge.fao.org/server/api/core/bitstreams/57c49cc4-d1f9-4b98-aa0c-9c91fd3ccf1d/content",
+          "snippet": "➢ 性别相关工作在新版《战略框架》中发挥着关键作用，它既是贯穿所有计划. 重点领域（PPAs）的一项跨领域主题，本身也是单独的一项有关性别平等和. 农村妇女赋权的计划 ...",
+          "position": 39
+        },
+        {
+          "title": "延展實境(XR)技術有助於性別平等嗎？",
+          "link": "https://taiwan-gist.nknu.edu.tw/index.php/component/sppagebuilder/?view=page&id=535",
+          "snippet": "這類技術應用的領域相當多元，例如風靡全球的「寶可夢GO」(Pokémon GO)智慧型手機遊戲，即是以擴增實境(AR)的技術打造；在醫學訓練、建設工程、教育等領域 ...",
+          "date": "2021年12月17日",
+          "position": 40
+        },
+        {
+          "title": "延展性Peb钢结构教堂建筑销售成本| Alibaba.com",
+          "link": "https://chinese.alibaba.com/product-detail/Extensibility-Peb-Steel-Structure-Church-Buildings-1601111502950.html",
+          "snippet": "延展性Peb钢结构教堂建筑销售成本, You can get more details about 延展性Peb钢结构教堂建筑销售成本from mobile site on Alibaba.com.",
+          "position": 41
+        },
+        {
+          "title": "期待更多文创IP绽放异彩 - 光明网-理论频道",
+          "link": "https://theory.gmw.cn/2024-11/03/content_37654160.htm",
+          "snippet": "注重延展性，实现文创IP与产品深度融合。文创IP承载的文化内涵与产品特点、定位融合，才能产生独特消费体验，增强产品市场竞争力。此外，还可以利用 ...",
+          "date": "23小时前",
+          "position": 42
+        },
+        {
+          "title": "人屋交互下的建筑空间游牧性研究-清华大学未来实验室",
+          "link": "https://thfl.tsinghua.edu.cn/kxyj/zxjg/rjwrhjqqyts/yjxm/zzjx/rwjhxdjzkjymxyj.htm",
+          "snippet": "如今随着信息技术的广泛植入，未来的建筑空间本身就存在于虚拟数字和物理实体之间。 建筑的游牧性指的是建筑空间的延展和运动，这种运动既可以是基于数字媒体的主观认知 ...",
+          "position": 43
+        },
+        {
+          "title": "延展性- 《中国大百科全书》第三版网络版",
+          "link": "https://www.zgbk.com/ecph/words?SiteID=1&ID=194887&SubID=91719",
+          "snippet": "延展性. /gluten extensibility/. 最后更新2022-01-20. 浏览194次. 最后更新2022-01-20 ... 包括延伸成细丝不断裂或碾成薄片不破裂的性质。 英文名称: gluten ...",
+          "position": 44
+        },
+        {
+          "title": "延展（Elongation）和蠕变（Creep）对帆船绳索的影响 - 精艇游艇网",
+          "link": "https://m.jyacht.com/use/tyfx/j0220146751.shtml",
+          "snippet": "法国Lancelin绳索的ALBATROS系列、MINOS系列、PUNCH系列，英国MARLOW绳索的D2 RACING 78、D2 Competition 78等都是延展性极低的产品。 延展（Elongation） ...",
+          "date": "2014年6月23日",
+          "position": 45
+        },
+        {
+          "title": "利用借用位错提升陶瓷延展性 - 领研网",
+          "link": "https://www.linkresearcher.com/theses/cb235df8-4900-4de8-b417-803ddfb3d9bd",
+          "snippet": "摘要：The inherent brittleness of ceramics, primarily due to restricted atomic motions from rigid ionic or covalent bonded structures, ...",
+          "date": "2024年8月4日",
+          "position": 46
+        },
+        {
+          "title": "北科大吕昭平再发Nature：高熵合金强度与延展性可兼得！ - 纳米人",
+          "link": "http://m.nanoer.net/main/view?id=6396",
+          "snippet": "吕昭平，1970年生，安徽桐城人，北京科技大学教授、博士生导师， 北京科技大学大学副校长。2017年4月，吕昭平教授团队在Nature发文，通过创新合金设计理念 ...",
+          "date": "2018年11月15日",
+          "position": 47
+        },
+        {
+          "title": "延展性好 - 微博",
+          "link": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%BB%B6%E5%B1%95%E6%80%A7%E5%A5%BD%23&luicode=10000011&lfid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Drealtimehot",
+          "snippet": "常规款T 恤，简约中的时尚密码！ 它的设计简洁明了，却蕴含着无限的搭配可能。 面料具有良好的延展性，穿着舒适不紧绷。 无论是搭配外套还是单独穿着，都能展现 ...",
+          "position": 48
+        },
+        {
+          "title": "[PDF] 经济及社会理事会 - Unicef",
+          "link": "https://www.unicef.org/executiveboard/media/7066/file/2021-31-Gender_Action_Plan_2022-2025-CH-ODS.pdf",
+          "snippet": "这些战略还必. 须延伸到正式系统，如立法和政策改革以及为性别平等提供资金。在体制上，儿基会. 将不断学习和改进，以解决其人员配置、伙伴关系和流程中的 ...",
+          "date": "2021年7月23日",
+          "position": 49
+        },
+        {
+          "title": "延展性- PMCAFF互联网产品社区",
+          "link": "https://www.pmcaff.com/tag/%E5%BB%B6%E5%B1%95%E6%80%A7",
+          "snippet": "PMCAFF产品经理社区为您提供有关延展性的文章和问题，您也可以了解有关交互设计，产品经理培训，axure，产品运营，互联网创业，产品经理招聘，产品经理论坛， ...",
+          "position": 50
+        },
+        {
+          "title": "弯道超车还是弯道翻车:延展性目标与员工不道德行为的双调节模型",
+          "link": "https://cjlc.zufe.edu.cn/EN/lexeme/showArticleByLexeme.do?articleID=2051",
+          "snippet": "Collected Essays on Finance and Economics . 2023, (3): 82 -92 . Copyright © Collected ...",
+          "position": 51
+        },
+        {
+          "title": "为什么金的延展性好？ - 金属- 小木虫- 学术科研互动社区",
+          "link": "http://muchong.com/html/201712/3216549.html",
+          "snippet": "为什么金的延展性好？看有的网页说化学惰性的金属延展性比较好。可以理解金的5d和6s轨道overlap，自由电子密度大，导电性好，但是这个和延展性有什么关系呢？谢谢~",
+          "position": 52
+        },
+        {
+          "title": "上海硅酸盐所发现具有和金属一样延展性的半导体材料 - 新浪新闻",
+          "link": "http://news.sina.com.cn/o/2018-04-11/doc-ifyteqtq7963310.shtml",
+          "snippet": "金属和陶瓷/半导体具有迥然不同的力学性能，如金属具有良好的延展性、塑性、易加工等特性，而陶瓷和半导体则表现为脆性、塑性差、不易加工等特性。",
+          "date": "2018年4月11日",
+          "position": 53
+        },
+        {
+          "title": "[NBA]沈煜：凯尔特人自身阵容具有延展性 - CCTV节目官网",
+          "link": "https://tv.cctv.com/2024/06/08/VIDEATVL8dhIqoCzEZN1EntG240608.shtml",
+          "snippet": "北京时间6月7日，NBA总决赛展开争夺，凯尔特人大胜独行侠，赢下总决赛第一场。沈煜表示凯尔特人 ...\n时长： 1:00\n发布时间： 2024年6月8日",
+          "date": "2024年6月8日",
+          "position": 54
+        },
+        {
+          "title": "< 延展性: ㄧㄢˊ ㄓㄢˇ ㄒㄧㄥˋ >辭典檢視 - 國語辭典",
+          "link": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=155292&la=0&powerMode=0",
+          "snippet": "延展性. 注音, ㄧㄢˊ ㄓㄢˇ ㄒㄧㄥˋ. 漢語拼音, yán zhǎn xìng. 釋義. 物質具延長及展開的性質，稱為「 延展性 」。為大多數金屬之特性。 ︿. 回頂端. 《重編國語辭典修訂 ...",
+          "position": 55
+        },
+        {
+          "title": "在卡巴斯基安全管理中心中配置延展性、介面和掃描設定",
+          "link": "https://support.kaspersky.com/help/KESS/3.3/zh-Hant/146640.htm",
+          "snippet": "要配置延伸性、介面和掃描設定：. 展開卡巴斯基安全管理中心管理主控台樹狀目錄中的“受管理裝置”節點。 選擇要 ...",
+          "position": 56
+        },
+        {
+          "title": "北京“双奥园区”围栏拆除推进公园与城市街区无界融合",
+          "link": "https://www.bj.chinanews.com.cn/news/2024/1030/97029.html",
+          "snippet": "同时，取消奥林匹克公园开闭园时间，取消对入园游客安检、禁止自行车入园等管理措施，大大方便市民游客前来游玩体验，对骑行爱好者而言，骑行道路延展性更 ...",
+          "date": "5天前",
+          "position": 57
+        },
+        {
+          "title": "黄金的延展性有多强？放在液压机下 - 抖音",
+          "link": "https://www.douyin.com/video/7382888147270585636",
+          "snippet": "黄金的延展性有多强？放在液压机下，有趣的现象发生了#液压机#机械#解压#测试#黄金- 奇趣 ...\n时长： 1:13\n发布时间： 2024年8月10日",
+          "date": "2024年8月10日",
+          "position": 58
+        },
+        {
+          "title": "穩定性和延展性改良Windows 8.1 TCP/IP 和 ... - Microsoft Support",
+          "link": "https://support.microsoft.com/zh-hk/topic/%E7%A9%A9%E5%AE%9A%E6%80%A7%E5%92%8C%E5%BB%B6%E5%B1%95%E6%80%A7%E6%94%B9%E8%89%AF-windows-8-1-tcp-ip-%E5%92%8C-windows-server-2012-r2-82b226f4-cadc-7676-67db-2195516b7956",
+          "snippet": "提供改善可靠性和延展性，在Windows 8.1 TCP/IP 和Windows Server 2012 R2 的更新。",
+          "position": 59
+        },
+        {
+          "title": "“游戏性”在儿童家具的延展性空间中的实现-【维普期刊官网】",
+          "link": "https://qikan.cqvip.com/Qikan/Article/Detail?id=41447188&from=Qikan_Article_Detail",
+          "snippet": "摘要 基于对儿童的生理、心理和行为的研究,提出\"游戏\"对儿童成长的重要性。讨论如何在以儿童家具为中心的延展性空间中实现\"游戏性\",结合实例,从功能的开发、材料的开发 ...",
+          "position": 60
+        },
+        {
+          "title": "延展纪- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E5%BB%B6%E5%B1%95%E7%BA%AA",
+          "snippet": "延展纪（Ectasian，符号MP2）是地质时代中的一个纪，开始于同位素年龄1400±0百万年(Ma)，结束于1200±0Ma。 延展纪期间出现有性生殖。 延展纪属于前寒武纪元古宙中元 ...",
+          "position": 61
+        },
+        {
+          "title": "延展性材料的定义、重要性和示例",
+          "link": "https://www.findtop.com/zh-CN/understand-how-ductility-applies-to-materials-in-engineering/",
+          "snippet": "延展性材料的示例. 许多金属都具有高度延展性，包括铜、银、金、铝和钢。 其他材料，例如塑料、橡胶和某些陶瓷，也可以制成具有延展性的材料。 延展性程度取决于材料的成分 ...",
+          "position": 62
+        },
+        {
+          "title": "含缺陷延展性金属拉伸行为有限元分析-高校科技",
+          "link": "https://www.edu.cn/rd/gao_xiao_cheng_guo/lun_wen_zhai_bao/201104/t20110406_597030.shtml",
+          "snippet": "然而，潜在的几何缺陷在某种程度上影响了它们的力学性能。本文基于国际上著名的描述金属材料延展性断裂失效的Gurson-Tvergaar-Needleman(简称GTN)模型， ...",
+          "date": "2011年4月6日",
+          "position": 63
+        },
+        {
+          "title": "中等间距-中等延展性裂隙网络模型参数表 - 水文地质工程地质",
+          "link": "https://swdzgcdz.com/cn/supplement/755ee621-f6fe-4b46-8cb5-092baf721962",
+          "snippet": "裂隙组号, 1, 2, 3. 半径分布形式, 正态分布, 正态分布, 正态分布. 半径均值/m, 3.25, 3.25, 3.25. 半径标准差/m, 0.5, 0.5, 0.5. 产状分布形式, Fisher分布 ...",
+          "position": 64
+        },
+        {
+          "title": "延展性许可费条款的反垄断法分析 - 武汉大学",
+          "link": "http://cgrs.lib.whu.edu.cn/Qw/Paper/589692",
+          "snippet": "延展性许可费条款是存在于研究工具专利许可协议中的一种许可费计费模式。延展性许可费条款被合理适用时能够对市场竞争产生一定的积极效应，若延展性许可费条款 ...",
+          "position": 65
+        },
+        {
+          "title": "Small Methods：制备可延展性电极 - 清新电源",
+          "link": "http://www.sztspi.com/archives/44069.html",
+          "snippet": "柔性电极是柔性电子集成器件，柔性能源，功能性电子皮肤等柔性电子器件的基本构造单元，扮演着基石的功能。同时，作为有别于传统基于硬质基底的电极， ...",
+          "date": "2017年5月11日",
+          "position": 66
+        },
+        {
+          "title": "透明度的导电聚合物- 鲍哲南Science Advances：具有高度延展性 - 搜狐",
+          "link": "https://www.sohu.com/a/129022375_472924",
+          "snippet": "鲍哲南Science Advances：具有高度延展性、透明度的导电聚合物 ... 近期在可延展电子学方面的进步淡化了人类与机器间的界限。诸如表皮电子器件、可植入 ...",
+          "date": "2017年3月16日",
+          "position": 67
+        },
+        {
+          "title": "延展性-翻译为法语-例句中文 - Reverso Context",
+          "link": "https://context.reverso.net/%E7%BF%BB%E8%AF%91/%E4%B8%AD%E6%96%87-%E6%B3%95%E8%AF%AD/%E5%BB%B6%E5%B1%95%E6%80%A7",
+          "snippet": "使用Reverso Context: 所以在长度和延展性上蛛丝纤维是各不相同的，在中文-法语情境中翻译\"延展性\"",
+          "position": 68
+        },
+        {
+          "title": "Reikogel2024美甲专用延长胶建构封层延展性强适合新手塑形不回弹",
+          "link": "https://pingjia.taobao.com/eec72ba85b01ed5b7ab7cf2dbe2ba7b4.html",
+          "snippet": "用户购买Reikogel2024美甲专用延长胶建构封层延展性强适合新手塑形不回弹后使用体验报告，包含了图片、使用视频和使用后的口碑评价，帮你更好的了解这 ...",
+          "date": "5天前",
+          "position": 69
+        },
+        {
+          "title": "延展性- yán zhǎn xìng - Chinese character definition ... - Ninchanese",
+          "link": "https://app.ninchanese.com/word/simplified/152661/%E5%BB%B6%E5%B1%95%E6%80%A7",
+          "snippet": "See the Chinese word for ductability, its pinyin yán zhǎn xìng, meaning, example sentences for 延展性, its character decomposition, idioms, stroke order and ...",
+          "position": 70
+        },
+        {
+          "title": "推进公园与城市街区无界融合北京奥林匹克中心区围栏拆除 - 北京频道",
+          "link": "http://bj.people.com.cn/n2/2024/1029/c14540-41024129.html",
+          "snippet": "同时取消奥林匹克公园开闭园时间，取消对入园游客安检、禁止自行车入园等管理措施，大大方便了市民游客前来游玩体验，对骑行爱好者而言，骑行道路延展性更 ...",
+          "date": "6天前",
+          "position": 71
+        },
+        {
+          "title": "怎么区分核心能力分析特征中“可延展性”和“动态性”. - 东奥会计答疑",
+          "link": "https://m.dongao.com/dy/zckjs_zl_93714/19894168",
+          "snippet": "尊敬的学员，您好：. “可延展性”指的是企业的核心能力能否被应用到多个产品或市场领域，从而实现范围经济。也就是说，这种能力不仅局限于企业当前的业务，还可以扩展到 ...",
+          "position": 72
+        },
+        {
+          "title": "置换：延展性材料、流体形态以及变化性语境 - 天津美术学院",
+          "link": "http://www.tjarts.edu.cn/info/1157/3219.htm",
+          "snippet": "置换：延展性材料、流体形态以及变化性语境. 2018-07-03 11:00. The five artists in this exhibition live in Los Angeles and represent the art department of ...",
+          "position": 73
+        },
+        {
+          "title": "延展性 - 宽客在线",
+          "link": "https://www.quantinfo.com/Dict/View/12206.html",
+          "snippet": "延展性物理中的延展性. 物体在外力作用下能延伸成细丝而不断裂的性质叫延性；在外力（锤击或滚轧） ...",
+          "position": 74
+        },
+        {
+          "title": "判定延展性策略(Sun Java Enterprise System 2005Q4 部署規劃指南)",
+          "link": "https://docs.oracle.com/cd/E19636-01/819-3451/aavfl/index.html",
+          "snippet": "判定延展性策略. 延展性是增加容量到您系統的能力，通常增加系統資源，但是不變更部署架構。在需求分析期間，您通常會根據業務需求和之後的使用分析來建立系統預期成長的 ...",
+          "position": 75
+        },
+        {
+          "title": "[PDF] 使性别平等成为现实: 联合国开发计划署与性别",
+          "link": "https://www.undp.org/sites/g/files/zskgke326/files/migration/cn/UNDP-CH-Gender-and-UNDP.pdf",
+          "snippet": "中国古语有云，“授之以鱼，. 饱食一日；授之以渔，受用终. 身。”也许一种更明智的做法就. 是延伸这种权利使其徽及妇女。 一位妇女曾经打趣说：“妇女撑起半边天，却叫男人赚 ...",
+          "position": 76
+        },
+        {
+          "title": "品牌VI设计当中最难实现的为何是延展性呢？",
+          "link": "http://www.answerland.net/%E5%93%81%E7%89%8Cvi%E8%AE%BE%E8%AE%A1%E5%BD%93%E4%B8%AD%E6%9C%80%E9%9A%BE%E5%AE%9E%E7%8E%B0%E7%9A%84%E4%B8%BA%E4%BD%95%E6%98%AF%E5%BB%B6%E5%B1%95%E6%80%A7%E5%91%A2%EF%BC%9F/",
+          "snippet": "众所周知，从品牌的调性以及商业角度来考虑，品牌VI设计一般要包括四大特征，首先是可识别性，其次是可延展性、统一性，最后就是设计方案的可落地、可 ...",
+          "date": "2022年5月25日",
+          "position": 77
+        },
+        {
+          "title": "金属晶体的延展性及其规律 - 化学自习室",
+          "link": "https://m.hxzxs.cn/view-13971-1.html",
+          "snippet": "1、延展性矿物在锤击或拉引下，容易形成薄片和细丝的性质称为延展性。通常温度升高，延展性增强。 延展性是金属矿物的一种特性，金属键的矿物在外力 ...",
+          "date": "2013年4月11日",
+          "position": 78
+        },
+        {
+          "title": "延展性- 西汉 - 西语助手",
+          "link": "http://www.esdict.cn/dicts/es/%E5%BB%B6%E5%B1%95%E6%80%A7",
+          "snippet": "『西语助手』为您提供延展性的用法讲解，告诉您准确全面的延展性的中文意思，延展性的读音，延展性的同义词，延展性的反义词，延展性的例句。",
+          "position": 79
+        },
+        {
+          "title": "延展性- Wiktionary, the free dictionary",
+          "link": "https://en.wiktionary.org/wiki/%E5%BB%B6%E5%B1%95%E6%80%A7",
+          "snippet": "sex; nature; suffix corresponding to ‑ness or ‑ity. trad. (延展性), 延展 · 性 · simp. #(延展性), 延展 · 性 · Wikipedia has an article on: 延展性. Pronunciation.",
+          "position": 80
+        },
+        {
+          "title": "镀层延展性的测定方法及选择",
+          "link": "https://m.nbchao.com/k/2717/",
+          "snippet": "2、测定方法的选择. （1）10μm以下的镀层，不需剥下，用弯曲试验就能得到满意的结果，尤以机械杯突试验为很好的。 （2）10μm以上的镀层，宜剥下镀层测定。",
+          "date": "2016年12月28日",
+          "position": 81
+        },
+        {
+          "title": "延展性高清图片 - 摄图网",
+          "link": "https://699pic.com/tupian/yanzhanxing.html",
+          "snippet": "摄图网提供延展性图片下载,用户可以在这个图片网站找到:延展性图片,延展性素材,延展性高清图片,延展性图片下载,延展性图片大全等,234张正版高清图片,摄图网就是您的 ...",
+          "position": 82
+        },
+        {
+          "title": "延展性 - 中国大百科全书",
+          "link": "https://www.zgbk.com/ecph/words?SiteID=1&ID=194887&Type=bkzyb",
+          "snippet": "面团拉伸或压缩应力消失后不能恢复到原来状态的特性。包括延伸成细丝不断裂或碾成薄片不破裂的性质。 英文名称: gluten extensibility.",
+          "date": "2022年1月20日",
+          "position": 83
+        },
+        {
+          "title": "延展性修身 - Arc'teryx",
+          "link": "https://www.arcteryx.com.tw/nununi/page?tags=%E5%BB%B6%E5%B1%95%E6%80%A7,%E4%BF%AE%E8%BA%AB",
+          "snippet": "各種Arc'teryx 延展性修身商品輕鬆線上選購，加拿大頂級戶外品牌Arc'teryx 致力於追求產品傑出的性能表現，執著於每一個小細節。前所未有的創意，製造最頂尖的延展性 ...",
+          "position": 84
+        },
+        {
+          "title": "记录教育每一天! www.jyb.cn 教育部直属出版机构-中国教育报刊社主办",
+          "link": "http://paper.jyb.cn/zgjyb/html/2024-10/30/content_144745_17938655.htm",
+          "snippet": "课程内容是关键，湖南工学院的产教融合课程以技术逻辑为主导，把握“产”“教”规律的相互结合，对标人才成长及技术发展需要，保持课程技术知识的延展性 ...",
+          "date": "5天前",
+          "position": 85
+        },
+        {
+          "title": "延展性",
+          "link": "https://opencourse.umooc.com.cn/common/script/preview/download_preview.jsp?fileid=3234934&resid=278762&lid=11998&preview=preview",
+          "snippet": "清华教育在线系列软件.",
+          "position": 86
+        },
+        {
+          "title": "延展性_百科 - 搜搜钢",
+          "link": "https://baike.mysteel.com/doc/view/51345.html",
+          "snippet": "延展性是指可锤炼可压延程度.易锻物质不需退火可锤炼可压延.可锻物质,则需退火进行锤炼和压延.脆性物质则在锤炼后压延程度L显得较差. 物体在外力作用下能延伸成细丝而 ...",
+          "position": 87
+        },
+        {
+          "title": "前三季度煤炭产销量持续增长兖矿能源年内多次并购延展产业链",
+          "link": "http://m.zqrb.cn/gscy/gongsi/2024-10-27/A1729916490295.html",
+          "snippet": "公司迎难而上，通过一系列针对性举措有效对冲了煤炭价格下降的不利影响。” 煤炭增量成效显现. 根据兖矿能源此前披露的经营数据，今年前三季度，公司 ...",
+          "date": "8天前",
+          "position": 88
+        },
+        {
+          "title": "11月2日周振杰：《联合国打击网络犯罪公约》刑事定罪条款的特征与 ...",
+          "link": "https://www.ecnu.edu.cn/info/1034/67839.htm",
+          "snippet": "《联合国打击网络犯罪公约》刑事定罪条款体现出了明显的预防性、灵活性、客观性、延展性与主权性特征。我国《中华人民共和国刑法》虽然涵盖了公约刑事定罪条款的大部分 ...",
+          "position": 89
+        },
+        {
+          "title": "vRealize Orchestrator 延展性上限 - VMware Docs",
+          "link": "https://docs.vmware.com/tw/vRealize-Orchestrator/8.11/com.vmware.vrealize.orchestrator-install-config.doc/GUID-3C200055-DCDE-4BD8-86F1-B67A8BB0ABBA.html",
+          "snippet": "延展性限制資料表概述了vRealize Orchestrator 8.x 部署的建議上限。",
+          "position": 90
+        },
+        {
+          "title": "什么是延展性（Malleability，可鍛性） - liuhaitao - 博客园",
+          "link": "https://www.cnblogs.com/liuhaitao/p/6531434.html",
+          "snippet": "什么是延展性（Malleability，可鍛性） ... 1. 什么是延展性（Malleability，可鍛性）：“延展性”指的是“在材质本身无损的前提下，可以通过外力改变为特定 ...",
+          "date": "2017年3月10日",
+          "position": 91
+        },
+        {
+          "title": "西乡：绿色审计厚植绿色发展沃土 - 汉中市审计局",
+          "link": "http://sjj.hanzhong.gov.cn/hzsjjwzjs/xqdt/202410/6afde80951514778985c6615dffafb07.shtml",
+          "snippet": "... 性和紧迫性，不断强化审计干部秦巴生态保护 ... 充分履行审计监督职能，积极开展领导干部自然资源资产审计，进一步拓宽自然资源资产审计的广度，延展 ...",
+          "date": "6天前",
+          "position": 92
+        },
+        {
+          "title": "《延展性台北102》介紹影片 - YouTube",
+          "link": "https://www.youtube.com/watch?v=v-t2XhjU2lU",
+          "snippet": "Share your videos with friends, family, and the world.\n时长： 2:00\n发布时间： 2023年9月21日",
+          "date": "2023年9月21日",
+          "position": 93
+        },
+        {
+          "title": "“广交会外商行”活动走进白云 - 广州市政府",
+          "link": "https://www.gz.gov.cn/xw/zwlb/gqdt/byq/content/post_9951970.html",
+          "snippet": "... 延展区。据悉，该市场拥有皮具品牌商户近700家 ... 朱女士说，她从事的是综合性贸易，皮具是他们 ... 据介绍，白云美湾广场计划分四期完成，目标是打造化妆品 ...",
+          "date": "4天前",
+          "position": 94
+        },
+        {
+          "title": "規劃System Center - Service Manager 效能和延展性| Microsoft Learn",
+          "link": "https://learn.microsoft.com/zh-tw/system-center/scsm/plan-perf-scale?view=sc-sm-2022",
+          "snippet": "本文內容. Service Manager 重設大小協助程式工具; 下一步. 本文說明System Center - Service Manager 的一般效能和延展性規劃指引。 雖然Service Manager 是以符合 ...",
+          "position": 95
+        },
+        {
+          "title": "江苏教育高校动态徐州工业职业技术学院多举措加强劳动教育",
+          "link": "https://jyt.jiangsu.gov.cn/art/2024/10/31/art_57813_11408243.html",
+          "snippet": "教育法律教育行政法规地方性教育法规 · 首页. > 新闻中心, > 教育动态 ... 延展“课堂”的范围，依托九里书院第二课堂，开展以体验、研究、责任为主的 ...",
+          "date": "4天前",
+          "position": 96
+        },
+        {
+          "title": "提升履职质效推进社会治理 - 最高人民检察院",
+          "link": "https://www.spp.gov.cn/spp/llyj/202410/t20241028_670048.shtml",
+          "snippet": "从内部看，要加强“四大检察”融合一体参与社会治理的协同性 ... 延伸，进而向行业治理、系统治理延展。二是以履 ... 性排查和风险预防，努力实现 ...",
+          "date": "6天前",
+          "position": 97
+        },
+        {
+          "title": "“统筹兼顾保护与发展” 中外专家热议如何推进文化遗产创造性转化",
+          "link": "https://sichuan.scol.com.cn/ggxw/202410/82639433.html",
+          "snippet": "与会专家学者就保护对象的意涵进行界定与延展的同时，也给出了相应的方法论。 “文化遗产是一个有形与无形兼具的实体。”意大利佩鲁贾大学副校长丹尼尔 ...",
+          "date": "4天前",
+          "position": 98
+        },
+        {
+          "title": "新型腐败的表现形式及其治理对策",
+          "link": "http://views.ce.cn/view/ent/202411/04/t20241104_39190836.shtml",
+          "snippet": "通过“时间差”延缓利益兑换时机，通过“空间差”割裂利益交往关联，使这种腐败具有明显的交易间接性和时间延展性，利益延后输送的“期权化”操作，使之更难被 ...",
+          "date": "1小时前",
+          "position": 99
+        },
+        {
+          "title": "在Web 外掛程式配置延展性、介面和掃描設定",
+          "link": "https://support.kaspersky.com/KESS/3.1/zh-Hant/192811.htm",
+          "snippet": "自動偵測延伸性設定. Kaspersky Embedded Systems Security 自動控制使用的處理程序數量。 這是預設值。 ; 手動設定工作處理程序數. Kaspersky Embedded Systems Security ...",
+          "position": 100
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "性别延展",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 3,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "机、车、仓等技术加速应用无人快递送入千家万户 - 中国政府网",
+          "link": "https://www.gov.cn/yaowen/liebiao/202410/content_6983993.htm",
+          "snippet": "... 性，短短10 ... 顺丰投用冷链无人车，提供24小时运力，实现生鲜水果的高效转运；美团将即时零售无人配送服务向社区、景区、公园、校园等多种场景延展 ...",
+          "date": "4天前",
+          "position": 1
+        },
+        {
+          "title": "市十七届人大常委会举行第二十一次会议 - 淮南市人民政府",
+          "link": "https://www.huainan.gov.cn/zwgk/jrhn/1260436123.html",
+          "snippet": "... 性法规的决定》，对市人力资源和社会保障局、市生态环境局、市商务局主要 ... 要深入推进融合发展，深度挖掘延展旅游产业链，全面提升旅游服务质量。",
+          "date": "4天前",
+          "position": 2
+        },
+        {
+          "title": "建筑空间的延展性初探-【维普期刊官网】",
+          "link": "https://qikan.cqvip.com/Qikan/Article/Detail?id=28084235",
+          "snippet": "维普中文期刊服务平台，是重庆维普资讯有限公司标准化产品之一，本平台以《中文科技期刊数据库》为数据基础，通过对国内出版发行的15000余种科技期刊、7000万篇期刊全文 ...",
+          "position": 3
+        },
+        {
+          "title": "来自纽约和上海的13位新锐艺术家齐聚外滩，开启东西方艺术文化对话",
+          "link": "https://www.shobserver.com/sgh/detail?id=1454216",
+          "snippet": "11月2日至11日，Stilllife将在洛克·外滩源的众安·美丰大楼举办其年度标志性 ... 延展、文化溯源与自我认同。 本次展览延续了5月在纽约首届StillShow的 ...",
+          "date": "48分钟前",
+          "position": 4
+        },
+        {
+          "title": "EutecTrode XN 2222 - Castolin Eutectic",
+          "link": "https://www.castolin.com/zh-CN/product/eutectrode-xn-2222",
+          "snippet": "特征及优势独特的延展性，极好的抗裂性良好的低温性能优秀的耐热性，抗氧化性和耐腐蚀性.",
+          "position": 5
+        },
+        {
+          "title": "新华社评论员：凝聚改革共识勇于担当作为 - 最高人民检察院",
+          "link": "https://www.spp.gov.cn/spp/tt/202411/t20241102_670807.shtml",
+          "snippet": "当前，世界之变、时代之变、历史之变不断向广度和深度延展，我国改革发展稳定任务之艰巨繁重前所未有。 ... 新华社评论员：新时代全面深化改革取得历史性 ...",
+          "date": "23小时前",
+          "position": 6
+        },
+        {
+          "title": "認識201、204、304、316、430不鏽鋼編號 - 佳飾美",
+          "link": "https://www.e-jasmine.com.tw/article_d.php?lang=tw&tb=2&cid=6&id=78",
+          "snippet": "延展性好，用於成型產品。也可通過機械加工使其迅速硬化。焊接性好。抗磨性和疲勞強度優於304不鏽鋼，產品如：彈簧、鋼構、車輪蓋。 型號302, 耐腐蝕性同304，由於含碳 ...",
+          "position": 7
+        },
+        {
+          "title": "延展性测试仪- SACT309 - S.A.M.A. ITALIA SRL - 用于涂层/ 数字",
+          "link": "https://www.directindustry-china.cn/prod/s-a-m-a-italia-srl/product-224326-2305277.html",
+          "snippet": "DirectIndustry（工业在线展会）为您提供延展性测试仪产品详细信息。规格型号：SACT309，公司品牌：S.A.M.A. ITALIA SRL。直接联系品牌厂商，查询价格和经销网络。",
+          "position": 8
+        },
+        {
+          "title": "机、车、仓等技术加速应用无人快递送入千家万户 - 新华网",
+          "link": "http://www.news.cn/politics/20241031/a7556dc6c8ac4108b137bac5ac3ce9c7/c.html",
+          "snippet": "... 性，短短10 ... 顺丰投用冷链无人车，提供24小时运力，实现生鲜水果的高效转运；美团将即时零售无人配送服务向社区、景区、公园、校园等多种场景延展 ...",
+          "date": "4天前",
+          "position": 9
+        },
+        {
+          "title": "期待更多文创IP绽放异彩 - 东方财富",
+          "link": "https://wap.eastmoney.com/a/202411033227187362.html",
+          "snippet": "注重延展性，实现文创IP与产品深度融合。文创IP承载的文化内涵与产品特点 ... “地域风情+文创IP”形成文化旅游新模式，满足了游客精神层面需求，促使旅游产业 ...",
+          "date": "1天前",
+          "position": 10
+        },
+        {
+          "title": "[PDF] 二、性別與性別主流化PDF - 行政院性別平等會",
+          "link": "https://gec.ey.gov.tw/File/FE246DBF808DAEF8?A=C",
+          "snippet": "在現今社會中，更重要的性別. 概念來自「社會性別」，英文上會以 gender 來表示，指的是一般人在心理. 上認同自己屬於哪一個性別，或是在社. 會文化層面中認為男性及女性該表現 ...",
+          "position": 11
+        },
+        {
+          "title": "兼顾超强韧性和延展性首款3D打印纳米结构高熵合金问世 - 科技日报",
+          "link": "https://www.stdaily.com/index/kejixinwen/202208/70621dddb7244a3994a5bd768110855f.shtml",
+          "snippet": "美国研究人员在最新一期《自然》杂志在线版发表论文称，他们采用3D打印方法，制作出一种双相纳米结构高熵合金，其强度和延展性优于现有其他先进的3D打印 ...",
+          "date": "2022年8月5日",
+          "position": 12
+        },
+        {
+          "title": "一面引领纺织行业的旗帜 - 绍兴市柯桥区人民政府",
+          "link": "http://www.kq.gov.cn/art/2024/10/31/art_1488945_59232520.html",
+          "snippet": "一位参展商兴奋地说，如今功能性纺织品不仅局限于穿着，也在往产业用领域拓展，未来还可能延展到更广的领域。借助纺博会专业采购商齐聚的有利条件 ...",
+          "date": "4天前",
+          "position": 13
+        },
+        {
+          "title": "“史前文字”——欧亚文明中的彩陶 - 光明网",
+          "link": "https://news.gmw.cn/2024-10/31/content_37647756.htm",
+          "snippet": "两河流域彩陶是在固定图案的重复中显示旋转，可谓静中显动。旋纹则是依赖弧线自身的张力，再加上它指向不同方向的延伸性来显示对称，可谓动中取静 ...",
+          "date": "4天前",
+          "position": 14
+        },
+        {
+          "title": "期待更多文创IP绽放异彩 - 中国经济网",
+          "link": "http://www.ce.cn/xwzx/gnsz/gdxw/202411/03/t20241103_39190268.shtml",
+          "snippet": "注重延展性，实现文创IP与产品深度融合。文创IP承载的文化内涵与产品特点、定位融合，才能产生独特消费体验，增强产品市场竞争力。此外，还可以利用 ...",
+          "date": "1天前",
+          "position": 15
+        },
+        {
+          "title": "灣仔合和商場11月1日試業延展部分達38萬平方呎AASTOCKS 財經新聞",
+          "link": "http://www.aastocks.com/tc/stocks/news/aafn-con/NOW.1391967/popular-news/AAFN",
+          "snippet": "com Limited並不保證他們的準確性、完整性、實時性或者正確性。 在本網站／應用程式的資料、金融市場數據、報價、圖表、統計數據、匯率、新聞、研究 ...",
+          "date": "6天前",
+          "position": 16
+        },
+        {
+          "title": "放手干事担当作为- 求是网",
+          "link": "http://www.qstheory.cn/qshyjx/2024-10/29/c_1130214252.htm",
+          "snippet": "... 延展成厚度仅零点几毫米、长度达十几米的特定形状蒙皮部件。 蒙皮是包围 ... 坚持系统观念，增强改革系统性、整体性、协同性，是新时代全面深化 ...",
+          "date": "6天前",
+          "position": 17
+        },
+        {
+          "title": "影像故事丨康养“便利店”：让老人实现社区养老 - 上观新闻",
+          "link": "https://www.jfdaily.com/sgh/detail?id=1451885",
+          "snippet": "于今年10月正式开放运营的如意里，打破空间局限，延展服务边界，扩增受益 ... 性的训练，这几天他竟然靠着自己已经可以站立了。”很多老邻居 ...",
+          "date": "4天前",
+          "position": 18
+        },
+        {
+          "title": "为乡村振兴战略书写生动注脚——贵州省六盘水市全面推进 ... - 农民日报",
+          "link": "https://www.farmer.com.cn/2024/11/01/wap_99968734.html",
+          "snippet": "新民镇依托财政衔接资金、东西部协作资金，利用高海拔生态资源优势，探索合作共赢的红米产业“联农带农”新模式，以“高原红米”品牌为突破点，延展 ... 性岗位兜底 ...",
+          "date": "3天前",
+          "position": 19
+        },
+        {
+          "title": "全解析！歌兰迪欧树脂补牙优缺点介绍：物理性能/耐久性/美学成效出色",
+          "link": "https://m.beise.com/note/75357.html",
+          "snippet": "延展性与操作性. 歌兰迪欧树脂具有较高的延展性，使得牙医在临床操作时较为省力。 这种材料易于塑形，成型后稳定，能够确保修复体的精细度和稳定性。",
+          "date": "1天前",
+          "currency": "¥",
+          "price": 300,
+          "position": 20
+        },
+        {
+          "title": "群文荟萃花开岭南——广东省第十一届群众戏剧曲艺花会圆满举办",
+          "link": "https://whly.gd.gov.cn/news_newzwhd/content/post_4517448.html",
+          "snippet": "本届花会坚持群众性与公益性，延续“花会周”的概念，决赛期间开幕式 ... 此外，花会参赛作品还在深圳市福田区开展了形式多样、内容丰富的延展活动 ...",
+          "date": "14小时前",
+          "position": 21
+        },
+        {
+          "title": "微专业在多所高校试点受欢迎培养学生“一专多能” - 中国网新闻中心",
+          "link": "http://news.china.com.cn/2024-10/29/content_117512627.shtml",
+          "snippet": "... 性相结合、深度和延展皆备的效果。” “由于学习需要占用周末休息时间，首先，学生需要真正感兴趣，有自驱力；其次，不少微专业的课程是核心前沿课程 ...",
+          "date": "6天前",
+          "position": 22
+        },
+        {
+          "title": "十大券商策略：股指震荡分化，决断在年末？还是提前布局跨年行情？",
+          "link": "https://stock.jrj.com.cn/2024/11/03215144882748.shtml",
+          "snippet": "国君策略9月24日所提“股指先拉升后震荡、结构先权重后成长”与10月20日以来“分歧减小、震荡延展 ... 性超预期，政策变化的节奏复杂性超预期等。 民生 ...",
+          "date": "11小时前",
+          "position": 23
+        },
+        {
+          "title": "#新學院#觀乎人文#包容性設計#A音延展#科技與藝術#葉忠宜#多樣性 ...",
+          "link": "https://www.facebook.com/61558800542643/videos/%E6%96%B0%E5%AD%B8%E9%99%A2-%E8%A7%80%E4%B9%8E%E4%BA%BA%E6%96%87-%E5%8C%85%E5%AE%B9%E6%80%A7%E8%A8%AD%E8%A8%88-a%E9%9F%B3%E5%BB%B6%E5%B1%95-%E7%A7%91%E6%8A%80%E8%88%87%E8%97%9D%E8%A1%93-%E8%91%89%E5%BF%A0%E5%AE%9C-%E5%A4%9A%E6%A8%A3%E6%80%A7%E6%8E%A2%E7%B4%A2-%E6%96%B0%E5%AD%B8%E9%99%A2%E5%8F%96%E6%98%93%E7%B6%93%E8%A7%80%E4%B9%8E%E4%BA%BA%E6%96%87%E4%BB%A5%E5%8C%96%E6%88%90%E5%A4%A9%E4%B8%8B%E7%82%BA%E9%8A%98%E8%A8%80%E8%AD%98%E5%88%A5%E5%AE%9A%E4%BD%8D%E7%94%B1%E6%96%87%E5%AD%B8%E8%A6%96%E8%A6%BA%E8%97%9D%E8%A1%93%E9%9F%B3%E6%A8%82%E8%88%87%E7%A7%91%E6%8A%80%E5%85%B1%E5%90%8C%E5%BB%BA%E6%A7%8B%E6%9C%9D%E5%90%91%E6%9C%89%E5%8B%95%E6%85%8B%E6%BD%9B/513446241627657/",
+          "snippet": "尺的指標採適應性設計可調動，象徵著學院多 樣性與包容；尺的邊界隨著科技文明累積可廣、可高、 可延 ...\n时长： 0:33\n发布时间： 2024年9月25日",
+          "date": "2024年9月25日",
+          "position": 24
+        },
+        {
+          "title": "龙岗今年引进13家知名文体企业 - 读特",
+          "link": "https://m.dutenews.com/n/article/8486875?from=app&client=1",
+          "snippet": "今年来，龙岗区委主要负责人先后赴北京、上海等地“点对点”招商，成功促成一批示范带动性强的项目落户龙岗。 ... 延展为“政企园会商”五方协同招商工作体系。 “政”即从政府层面， ...",
+          "position": 25
+        },
+        {
+          "title": "意外發現麵團更勁道延展性大突破的秘密「真空」！咬勁拉力Q度實測 ...",
+          "link": "https://www.youtube.com/watch?v=PYgsAgMGqzY",
+          "snippet": "記得要訂閱我喔！☆訂閱Vivian每週看新片，請記得開啟YouTube 通知！ 食譜： 真的不是 ...\n时长： 8:52\n发布时间： 2023年2月21日",
+          "date": "2023年2月21日",
+          "position": 26
+        },
+        {
+          "title": "放手干事担当作为——广大党员、干部学习贯彻党的二十届三中全会 ...",
+          "link": "https://www.gov.cn/yaowen/liebiao/202410/content_6983593.htm",
+          "snippet": "... 延展成厚度仅零点几毫米、长度达十几米的特定形状蒙皮部件。 蒙皮是包围 ... 坚持系统观念，增强改革系统性、整体性、协同性，是新时代全面深化 ...",
+          "date": "6天前",
+          "position": 27
+        },
+        {
+          "title": "11月1日股市必读：华菱钢铁（000932）披露最新机构调研信息 - 股票",
+          "link": "http://stock.stockstar.com/RB2024110400000306.shtml",
+          "snippet": "... 性开支仍将保持较高强度。 机构调研要点：汽车板 ... 汽车板领域：汽车板合资公司VM专注于高端汽车用钢市场，其专利产品具备优秀的抗腐蚀性和材料延展 ...",
+          "date": "6小时前",
+          "position": 28
+        },
+        {
+          "title": "影视文旅产业发展的新契机 - 新华日报",
+          "link": "https://www.xhby.net/content/s672435b6e4b03f2234030170.html",
+          "snippet": "由于观众热情高涨，上海站多次延展。这个项目受到大众欢迎，激活了业界对 ... 尤其是近年来在AI技术的赋能下，VR大空间以沉浸感、交互性、主动式 ...",
+          "date": "3天前",
+          "position": 29
+        },
+        {
+          "title": "以人为本，上海农商银行擦亮人民城市幸福宜居底色",
+          "link": "http://sh.news.cn/20241101/a2056cf03a204c79bac453b674e34547/c.html",
+          "snippet": "... 性都提高了。写书法、拍视频、打太极的课程 ... 通过合纵连横久久为功，大幅拓宽了金融功能的边界——其不再仅仅是银行解决客户金融需求的场所，而是延展 ...",
+          "date": "3天前",
+          "position": 30
+        },
+        {
+          "title": "亚太地区缩小知识产权性别差距的四项举措 - WIPO",
+          "link": "https://www.wipo.int/econ_stat/zh/economics/news/2023/news_0006.html",
+          "snippet": "随着世界各国越来越意识到创新方面性别和多样性差距的重要性，许多国家已经实施了缩小这些差距的政策。来自菲律宾、新加坡、中华人民共和国和印度的代表组成的小组介绍 ...",
+          "position": 31
+        },
+        {
+          "title": "人工智能如何影响“人性” - 理论- 人民网",
+          "link": "http://theory.people.com.cn/n1/2024/1030/c40531-40350051.html",
+          "snippet": "从人类与机器合作的方式看，人类的行动能力已经延展至由人类和机器构成的复杂网络之中，这就是所谓的分布式主体性概念。这些主体性概念更加细致地描绘 ...",
+          "date": "5天前",
+          "position": 32
+        },
+        {
+          "title": "《黑神话：悟空》：是游戏，也不是游戏 - 中工网",
+          "link": "https://www.workercn.cn/c/2024-11-01/8383529.shtml",
+          "snippet": "从文化创意的角度观照，关于《黑神话：悟空》的话题就有了新的延展空间。 ... 相较于传统的文艺形式，《黑神话：悟空》呈现出更强的参与感、互动性与综合性。",
+          "date": "3天前",
+          "position": 33
+        },
+        {
+          "title": "金属的延展性_百科 - 搜搜钢",
+          "link": "https://baike.mysteel.com/doc/view/33853.html",
+          "snippet": "金属的延展性百科搜搜钢.",
+          "position": 34
+        },
+        {
+          "title": "誤解並不等於溝通失敗—「OHAE: Kwang Hyun Kim」展開詮釋符號 ...",
+          "link": "https://artouch.com/art-views/art-exhibition/content-159506.html",
+          "snippet": "... 性，進而藉由「誤解」開拓出另一條的理解途徑，也在過程中重新思考權力、社會與個體之間的複雜關係，更延展對當代社會權力結構的多重面向以及變革性的反思。",
+          "date": "19小时前",
+          "position": 35
+        },
+        {
+          "title": "提前完成全年文化产业招商任务龙岗今年引进13家知名文体企业_深圳 ...",
+          "link": "https://www.sznews.com/news/content/2024-11/03/content_31313019.htm",
+          "snippet": "今年来，龙岗区委主要负责人先后赴北京、上海等地“点对点”招商，成功促成一批示范带动性强的项目落户龙岗。 ... 延展为“政企园会商”五方协同招商工作体系。 “ ...",
+          "date": "1天前",
+          "position": 36
+        },
+        {
+          "title": "IGBT 和MOSFET 驱动器-延展型SO-6 封装，实现紧凑设计",
+          "link": "https://juejin.cn/post/7432745245819535360",
+          "snippet": "最新IGBT 和MOSFET 驱动器器件峰值输出电流高达4 A 工作温度高达+125 °C，传播延迟低至200 ns Vishay 推出两款采用紧凑、高隔离延展型SO-6 封装的最新 ...",
+          "date": "18小时前",
+          "position": 37
+        },
+        {
+          "title": "县域新气象丨项目投产！内江造小管子突破技术壁垒 - 四川新闻",
+          "link": "https://sichuan.scol.com.cn/ggxw/202411/82641668.html",
+          "snippet": "谈及该产品的技术难度，吕先锋介绍，工作时，波纹管的内部是真空状态，管壁在承受气压的同时还需要进行伸缩或多方向的移动，“因此对材料本身的强度和延展性以及 ...",
+          "date": "13小时前",
+          "position": 38
+        },
+        {
+          "title": "期待更多文创IP绽放异彩_商业要闻 - 财经",
+          "link": "http://news.cnfol.com/shangyeyaowen/20241103/31001759.shtml",
+          "snippet": "注重延展性，实现文创IP与产品深度融合。文创IP承载的文化内涵与产品特点、定位融合，才能产生独特消费体验，增强产品市场竞争力。此外，还可以利用 ...",
+          "date": "23小时前",
+          "position": 39
+        },
+        {
+          "title": "假如说，，，这叫延展性训练 - Bilibili",
+          "link": "https://www.bilibili.com/video/BV1GV4y1e7gk/",
+          "snippet": "... 男女通用」5分钟高效徒手腹肌训练，无需跳跃， ... 假如说，，，这叫延展性训练. SET_MarQ_健身記. 相 ...\n时长： 1:29\n发布时间： 2023年8月18日",
+          "date": "2023年8月18日",
+          "position": 40
+        },
+        {
+          "title": "XTP平台发布测试版：让你的软件更具延展性 - Webtagr",
+          "link": "https://webtagr.com/links/12958/like",
+          "snippet": "XTP平台发布公测版，旨在让软件具备更高的延展性，允许用户根据自身需求扩展应用功能。XTP通过安全的沙盒环境运行用户代码，支持多种编程语言，并提供代码生成、测试和模拟 ...",
+          "position": 41
+        },
+        {
+          "title": "巴黎奥运会给法国带来了什么？——专访法国奥委会主席拉帕尔蒂安",
+          "link": "https://sports.xinhuanet.com/20241102/ce6946120a8b4d6bb2ba44ec5fdbfb15/c.html",
+          "snippet": "他评价巴黎奥运会“带来了全新的奥运模式”——标志性 ... 拉帕尔蒂安表示，“我们的目标不是用电竞取代传统项目，而是将奥运精神延展至新领域，并为电竞找到专属的 ...",
+          "date": "2天前",
+          "position": 42
+        },
+        {
+          "title": "看看，黄金的延展性有多强？ - YouTube",
+          "link": "https://www.youtube.com/watch?v=3afHqgW9YS0",
+          "snippet": "Share your videos with friends, family, and the world.\n时长： 1:42\n发布时间： 2023年8月18日",
+          "date": "2023年8月18日",
+          "position": 43
+        },
+        {
+          "title": "[PDF] 性別變革取徑： 性別主流化的2.0 版？ - 國立臺灣大學",
+          "link": "https://gender.psc.ntu.edu.tw/wp-content/uploads/2023/11/118_09-%E6%80%A7%E5%88%A5%E8%AE%8A%E9%9D%A9%E5%8F%96%E5%BE%91%EF%BC%9A%E6%80%A7%E5%88%A5%E4%B8%BB%E6%B5%81%E5%8C%96%E7%9A%842.0%E7%89%88%EF%BC%9F.pdf",
+          "snippet": "方案計畫開始採用不同內涵之「性別. 變革」策略或取徑。 聯合國婦女署（United Nations. Entity for Gender Equality and the. Empowerment of Women [UN Women]）. 於《 ...",
+          "position": 44
+        },
+        {
+          "title": "桃園萬聖節活動重新開展延展2天至11／5｜三立新聞台 - YouTube",
+          "link": "https://www.youtube.com/watch?v=VNsT0Yp3DlA",
+          "snippet": "... 也不需要柯了律師剖析橘子潛逃可能性謝立功直言:橘子應該回來說清楚│【焦點人物大現場 ...\n时长： 0:40\n发布时间： 13小时前",
+          "date": "13小时前",
+          "position": 45
+        },
+        {
+          "title": "音级集合理论延展性技术方法思考之相等关系集合的统一性技术方法",
+          "link": "https://www.zhangqiaokeyan.com/academic-journal-cn_song-the-yellow-river_thesis/0201262772396.html",
+          "snippet": "本文利用相等关系的集合,即基本集合自身的原型及变型的多种形态结构关系,通过“核心同构”的组织方式对呈现出多样化的音高材料予以多维度、多层面的统构,以体现作品...",
+          "position": 46
+        },
+        {
+          "title": "目标5：实现性别平等，增强所有妇女和女童的权能- 可持续发展",
+          "link": "https://www.un.org/sustainabledevelopment/zh/gender-equality/",
+          "snippet": "性别平等不仅是一项基本人权，而且是和平、繁荣和可持续世界的基石。在过去的几十年里，虽然取得了一些进展，但世界并偏离了到2030 年实现性别平等的轨道 ...",
+          "date": "2024年1月25日",
+          "position": 47
+        },
+        {
+          "title": "跨性别者和多元性别者的斗争 - ohchr",
+          "link": "https://www.ohchr.org/zh/special-procedures/ie-sexual-orientation-and-gender-identity/struggle-trans-and-gender-diverse-persons",
+          "snippet": "定义性别认同是指一个人内心深切感受到的基于个人体验的性别，可能与出生时被指派性别相同或者不同，包括对身体的个人感觉（如果能够自由选择，这可能包括使用医学、手术或 ...",
+          "position": 48
+        },
+        {
+          "title": "[PDF] 指南：性别包容性交流",
+          "link": "https://www.unodc.org/documents/Gender/gender_sentitive_language/Gender-sensitiveCommsGuide-Chinese-final.pdf",
+          "snippet": "联合国毒品和犯罪问题办公室（毒品和犯罪问题办公室）认识到语言在打破性别偏见方面的重要. 性，并提倡在所有情况下和任何时候都使用性别包容性语言和交流。",
+          "position": 49
+        },
+        {
+          "title": "联合国可持续发展集团| 跨性别女性期待着自由平等的世界",
+          "link": "https://unsdg.un.org/zh/latest/videos/kuaxingbienuxingqidaizheziyoupingdengdeshijie",
+          "snippet": "墨西哥城一个简陋街区的庇护所每次最多容纳12名跨性別女性（\"变性\"妇女）。 尽管在社会中 ...\n时长： 2:47\n发布时间： 2020年12月10日",
+          "date": "2020年12月10日",
+          "position": 50
+        },
+        {
+          "title": "性别成见 - ohchr",
+          "link": "https://www.ohchr.org/zh/women/gender-stereotyping",
+          "snippet": "性别成见是一种认为女性和男性应该拥有某些特质或特点、或应该扮演某种角色的普遍看法或先入为主的观念。性别成见可能限制女性和男性实现个人发展、追求职业生涯和/或 ...",
+          "position": 51
+        },
+        {
+          "title": "2018-2021年性别平等行动计划| 联合国儿童基金会 - Unicef",
+          "link": "https://www.unicef.org/zh/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/2018-2021%E5%B9%B4%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89%E8%A1%8C%E5%8A%A8%E8%AE%A1%E5%88%92",
+          "snippet": "促进性别平等及妇女和女童的权利对实现所有儿童的权利至关重要.",
+          "position": 52
+        },
+        {
+          "title": "性别认同- 《默沙东诊疗手册大众版》",
+          "link": "https://www.msdmanuals.cn/home/mental-health-disorders/gender-incongruence-and-gender-dysphoria/gender-identity",
+          "snippet": "性别认同 · 性别是指用来将一个人分类为男性或女性的生物学特征（如生殖器、染色体和激素）。 · 对于大多数人来说，性身份与他们的解剖学（出生）性别和性别表达是一致的（例如， ...",
+          "position": 53
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

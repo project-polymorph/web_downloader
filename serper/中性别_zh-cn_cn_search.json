@@ -1,0 +1,1639 @@
+{
+  "query": "中性别",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-04T00:32:06.719209",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "中性别",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "性别中立- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E6%80%A7%E5%88%A5%E4%B8%AD%E7%AB%8B",
+          "snippet": "性别中立（英语：Gender neutrality）运动。一般是指推行去性别化的语言、社会政策和其他社会机构（社会结构、性别角色或性别认同）应该避免根据人们的性别来区分性别角色的 ...",
+          "position": 1
+        },
+        {
+          "title": "中文性别包容性语言指南",
+          "link": "https://www.un.org/zh/gender-inclusive-language/guidelines.shtml",
+          "snippet": "3. 如不需要，不要强调被指称对象的性别. 3.1 使用性别中性代词. 避免使用区分性别的所有格（如“他的”、“她的”、“他们的”、“她们的”）。使用“其”、“此”、“该”等性别中性代词。",
+          "position": 2
+        },
+        {
+          "title": "家庭中性别角色的动态性 - 中国社会科学网",
+          "link": "https://www.cssn.cn/shx/xbyjt/202210/t20221028_5556593.shtml",
+          "snippet": "经典研究发现，男性和女性均被描述为家庭主要照料者时，都被认为是低能力高热情的，而男性和女性均被描述为工作职员时，都被认为是高能力低热情的。这样的结果 ...",
+          "date": "2022年10月28日",
+          "position": 3
+        },
+        {
+          "title": "中国女性社会地位是否低于他国？ - ChinaPower Project",
+          "link": "https://chinapower.csis.org/china-gender-inequality/?lang=zh-hans",
+          "snippet": "世界经济论坛在高等教育性别均衡的排名中，将中国列为第一。 但在中国的顶尖大学中，性别比例仍倾向于男性。2018年，北京大学的男女比例为53：47，清华大学女性占比更 ...",
+          "position": 4
+        },
+        {
+          "title": "非二元性别- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%A5",
+          "snippet": "非二元性别者可能介于传统定义上男性和女性表现之间（中性），认同在男女之外的第三性别，认同多于一个性别（双性别、三性别、泛性别），认为自己没有性别（无性别）或在两者或以上 ...",
+          "position": 5
+        },
+        {
+          "title": "儒家思想中”性别”的新解读 - 进步儒学",
+          "link": "https://jinburuxue.com/blog/2023/03/04/%E5%84%92%E5%AE%B6%E6%80%9D%E6%83%B3%E4%B8%AD%E6%80%A7%E5%88%AB%E7%9A%84%E6%96%B0%E8%A7%A3%E8%AF%BB/",
+          "snippet": "在漫长的岁月里，儒家的“性别”概念已经历了若干发展阶段。大部分关于早期儒家讨论女性的性别角色的研究的最终结论都认为：性别是互补性的，而不是从属性的。",
+          "date": "2023年3月4日",
+          "position": 6
+        },
+        {
+          "title": "护照上的性别填哪个：男？女？还是X？ - BBC News 中文",
+          "link": "https://www.bbc.com/zhongwen/simp/world-50658107",
+          "snippet": "目前已经有10个国家发放三种性别的护照：男性、女性、中性：澳大利亚、加拿大、丹麦、德国、马耳他、新西兰、巴基斯坦、印度、爱尔兰和尼泊尔。 美国有几个 ...",
+          "date": "2019年12月5日",
+          "position": 7
+        },
+        {
+          "title": "跨性别者和多元性别者的斗争 - ohchr",
+          "link": "https://www.ohchr.org/zh/special-procedures/ie-sexual-orientation-and-gender-identity/struggle-trans-and-gender-diverse-persons",
+          "snippet": "“多元性别”一词是性别认同（包括性别表达）不符合某一特定时间和背景下的性别规范，包括不将自己的性别认知置于男性／女性的性别二元对立中；更具体的术语“跨性别者”是指性别 ...",
+          "position": 8
+        },
+        {
+          "title": "麦肯锡专题报告∣新时代的半边天：中国职场性别平等现状与展望",
+          "link": "https://www.mckinsey.com.cn/%E9%BA%A6%E8%82%AF%E9%94%A1%E4%B8%93%E9%A2%98%E6%8A%A5%E5%91%8A%E2%88%A3%E6%96%B0%E6%97%B6%E4%BB%A3%E7%9A%84%E5%8D%8A%E8%BE%B9%E5%A4%A9%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%81%8C%E5%9C%BA%E6%80%A7%E5%88%AB/",
+          "snippet": "由于较高的入学率（52%）和毕业率（53%），中国女性更易进入职场并在初期阶段成为优秀的执行者，这也在一定程度上解释了为什么女性在入门级职位（女性占比51%）中较男性稍占优势（图 ...",
+          "position": 9
+        },
+        {
+          "title": "[PDF] 数字经济对我国劳动参与中性别平等的促进效应",
+          "link": "https://nsd.pku.edu.cn/docs/20231208093609976149.pdf",
+          "snippet": "摘要. 劳动参与中的性别平等对于解放妇女生产力、促进经济高质量发展具有重要作用。 本文构建了具有性别异质性的两部门一般均衡模型，分析数字基础设施 ...",
+          "date": "2023年12月8日",
+          "position": 10
+        },
+        {
+          "title": "阿尔茨海默病病理发生中的性别差异",
+          "link": "https://www.pibb.ac.cn/pibbcn/article/html/20180335",
+          "snippet": "AD是衰老相关疾病，随着年龄增加，AD发病率显著增高. 全球范围内，女性平均寿命74.2岁，男性平均寿命69.8岁，女性显著高于男性. 如上所述，65岁以上人口中，女性比例明显高于男性， ...",
+          "position": 11
+        },
+        {
+          "title": "人类性别偏见是如何支配我们大脑的- BBC 英伦网",
+          "link": "https://www.bbc.com/ukchina/simp/57440585",
+          "snippet": "有专家认为，男女之间的差异绝大部分来自成长中的社会框架，而我们为男女孩准备不同类型的玩具，也改变了他们以后的人生。",
+          "date": "2021年6月11日",
+          "position": 12
+        },
+        {
+          "title": "中性人_百度百科",
+          "link": "https://baike.baidu.com/item/%E4%B8%AD%E6%80%A7%E4%BA%BA/10076643",
+          "snippet": "中性人是性畸形的一种类型，也叫真两性体。体内具有两性性腺和外生殖器。是在胚胎发育期性别决定阶段中的差错所至。澳大利亚新南威尔士州政府为诺里·梅·韦尔比颁发新 ...",
+          "position": 13
+        },
+        {
+          "title": "经济学中的性别歧视",
+          "link": "https://www.imf.org/zh/Publications/fandd/issues/2022/12/book-review-gender-discrimination-in-economics-Ann-Mari-May",
+          "snippet": "经济学中的性别歧视 ... 性别歧视以及职业发展道路上与这些歧视有关的偏见和障碍，是职业女性不得不面对的冰冷现实。 ... 在这一点上，经济学职场也不例外。美国经济学会（AEA）在 ...",
+          "position": 14
+        },
+        {
+          "title": "职场女性需要的不仅是平等，还有公平 - 世界经济论坛",
+          "link": "https://cn.weforum.org/agenda/2023/03/equity-equality-women-workplace/",
+          "snippet": "在职场中，需要通过公平的角度来思考性别差异问题，以保护女性在职场中的福祉；为此我们需要进行系统性变革，实行基于公平的解决方案并确保发挥其社会和 ...",
+          "date": "2023年3月8日",
+          "position": 15
+        },
+        {
+          "title": "打破广告中的性别偏见，让孩子做自己",
+          "link": "https://www.unicef.cn/csr/break-the-gender-bias-in-advertisement",
+          "snippet": "Gerda Binder&Karla Corrêa：性别偏见和刻板印象是指我们看到的女孩和男孩、女人和男人的形象，强化了他（她）们“应该”具备的为人处世原则、穿着打扮或行为方式。这意味着部分 ...",
+          "position": 16
+        },
+        {
+          "title": "缔约方将在今年决定联合国气候变化进程中性别议程的未来 - UNFCCC",
+          "link": "https://unfccc.int/zh/news/diyuefangjiangzaijinnianjuedinglianheguoqihoubianhuajinchengzhongxingbieyichengdeweilai",
+          "snippet": "2024年是2014年《公约》缔约方会议（COP20）通过利马性别平等工作方案10周年。 五年后，缔约方进行了第一次审查，确认了该工作方案在联合国气候变化进程中推进性别平等和妇女赋 ...",
+          "position": 17
+        },
+        {
+          "title": "[PDF] 中国经济转型中的性别平等",
+          "link": "https://cnlgbtdata.com/files/uploads/2020/01/8da8b3114494a28be31a86a6cb1a714f.pdf",
+          "snippet": "其三，对. 家庭的影响，劳动力市场中的性别差距、对无酬照料劳动的低估，加剧了家庭中的性. 别不平等，造成女性家庭角色的回归和家庭中地位的下降，以及对男性的依赖。其四，. 对 ...",
+          "position": 18
+        },
+        {
+          "title": "女性职场现状调查：超八成女性认为就业中存性别歧视-新华网",
+          "link": "http://news.xinhuanet.com/politics/2017-03/07/c_1120579399.htm",
+          "snippet": "女性职场现状调查：超八成女性认为就业中存性别歧视---临近三八妇女节，职场女性的就业话题再度受到关注。调查也显示，拥有高中、大专、本科、硕士学历的 ...",
+          "date": "2017年3月7日",
+          "position": 19
+        },
+        {
+          "title": "女性医务人员工作环境和工作感受中性别差异现况及改善措施",
+          "link": "https://rs.yiigle.com/CN112137202241/1430864.htm",
+          "snippet": "医疗卫生行业从业人员中女性医务人员的数量达到了近3/4（72.2%） ［2］。以妇女为主的一线卫生人员在保障人民群众身体健康中发挥着重要作用。根据以往的研究， ...",
+          "date": "2022年11月8日",
+          "position": 20
+        },
+        {
+          "title": "全球视角下大学中的性别平等：回顾与评估| 联合国",
+          "link": "https://www.un.org/zh/203934",
+          "snippet": "全球视角下大学中的性别平等：回顾与评估. 过去几年乃至几十年间，性别平等工作取得了长足进展。更多女性有机会接受高等教育，担任高级领导职务，女性权利得到极大保障。不过， ...",
+          "position": 21
+        },
+        {
+          "title": "监护权争夺战中的性别偏见使妇女和儿童处于危险之中 - ohchr",
+          "link": "https://www.ohchr.org/zh/stories/2023/06/gender-bias-custody-battles-places-women-and-children-risk",
+          "snippet": "在提交给人权理事会的最新报告中，萨利姆强调，根深蒂固的性别偏见渗透到全球的家庭法院系统中，使妇女和儿童承受了巨大的痛苦和暴力。专家指出，土著妇女、 ...",
+          "date": "2023年6月30日",
+          "position": 22
+        },
+        {
+          "title": "[PDF] 采矿业中性别不平等现象严重",
+          "link": "https://www.responsibleminingfoundation.org/app/uploads/CH_Research-Insight-Gender-Inequality-June-2020.pdf",
+          "snippet": "然而，更隐蔽的无视性别差. 异的现象，即忽视或忽略基于性别差异的现实问题，则往往更难以识别和解决。例如，仅在正. 式的社区组织中进行评估咨询，如果女性在 ...",
+          "date": "2020年6月22日",
+          "position": 23
+        },
+        {
+          "title": "教育与性别平等 - UNESCO",
+          "link": "https://www.unesco.org/zh/gender-equality/education",
+          "snippet": "在所有成年文盲人口中，女性仍然占到近三分之二。 教科文组织呼吁在教育系统的各个环节关注性别平等问题，包括入学、教学内容、教学环境和教育实践、学习成果，以及 ...",
+          "position": 24
+        },
+        {
+          "title": "[PDF] 将承诺变为行动: - 2030年可持续发展议程中的性别平等问题",
+          "link": "https://www.unwomen.org/sites/default/files/Headquarters/Attachments/Sections/Library/Publications/2018/SDG-report-Summary-Gender-equality-in-the-2030-Agenda-for-Sustainable-Development-2018-zh.pdf",
+          "snippet": "性别不平等体现在可持续发展的各个维度（参. 阅第4-5页概览）。当家庭无法获得足够食物. 时，妇女往往首先挨饿。2 虽然女童在中小学甚. 至大学的表现都 ...",
+          "position": 25
+        },
+        {
+          "title": "[PDF] 体育运动中的性别平等、公平及包容性表述 - Olympics",
+          "link": "https://stillmed.olympics.com/media/Documents/Beyond-the-Games/Gender-Equality-in-Sport/IOC-Portrayal-Guidelines-Simplified-Chinese.pdf",
+          "snippet": "《展现. 方式指南》呼吁在整个国际奥委会、奥运会以及. 奥林匹克运动中执⾏“所有表达方式的性别平等. 与公平展现做法”，进而鼓励其成员国家/地区. 基于文化背景采用并调整 ...",
+          "position": 26
+        },
+        {
+          "title": "中国耽美剧中性别平等的想象：以《上瘾》为个案研究= The desire of ...",
+          "link": "https://dr.ntu.edu.sg/handle/10356/137401",
+          "snippet": "实际上，耽美文学作为中国女性有效的软性手段，企图通过女性的视角观看、描写、塑造男性，颠覆了女性仅作为被观看的对象，并化被动为主动，反转过来对男性进行观看和剖析，以宣示 ...",
+          "position": 27
+        },
+        {
+          "title": "Reckitt 利洁时如何获取其供应链中的性别数据 - Sedex",
+          "link": "https://www.sedex.com/zh/case_studies/%E5%88%A9%E6%B4%81%E6%97%B6%E5%A6%82%E4%BD%95%E5%88%86%E6%9E%90%E4%BE%9B%E5%BA%94%E9%93%BE%E4%B8%AD%E7%9A%84%E6%80%A7%E5%88%AB%E6%95%B0%E6%8D%AE/",
+          "snippet": "利洁时认为，确保供应链更加多元化和包容性不仅是正确的做法，而且还创造了一系列商业和更广泛的社会效益，包括提高创新、生产力、供应链弹性和减少社会经济不平等，从而创造更 ...",
+          "position": 28
+        },
+        {
+          "title": "在不同的赛场上：体育运动中的性别平等 - Nielsen",
+          "link": "https://www.nielsen.com/zh/insights/2021/on-different-playing-fields-the-case-for-gender-equity-in-sports/",
+          "snippet": "正如超级明星运动员、世界杯冠军梅根-拉皮诺（Megan Rapinoe）在国会作证时所说：\"一个人不能简单地超越不平等，也不能因为足够优秀而逃避任何形式的歧视。作为一个有一儿一女 ...",
+          "position": 29
+        },
+        {
+          "title": "农业粮食体系中的性别与工作 - FAO Knowledge Repository",
+          "link": "https://openknowledge.fao.org/server/api/core/bitstreams/0c4b755c-b214-4e08-9bc5-532c6064d557/content/status-women-agrifood-systems-2023/gender-work-agrifood-systems.html",
+          "snippet": "个案研究表明，在贫穷的牲畜饲养者中，女性所占比例高于男性，但很难作出准确的估计。 ... 女性在畜牧业中所占比例也因牲畜种类而有很大差异。利润高的牲畜品种（牛、骆驼和水牛） ...",
+          "position": 30
+        },
+        {
+          "title": "关于跨性别的事实- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/healthy-lifestyle/adult-health/in-depth/transgender-facts/art-20266812",
+          "snippet": "词语“跨性别者”和“多元性别者”涵盖一系列性别认同和性别表达。这些词语超出了这样一种观点，即所有人只能被归类为两种性别中的一种：女性或男性。",
+          "date": "2023年4月21日",
+          "position": 31
+        },
+        {
+          "title": "[PDF] 被忽视的女性：专为男人设计的世界中的数据偏见",
+          "link": "https://www.imf.org/external/chinese/pubs/ft/fandd/2020/12/pdf/book1.pdf",
+          "snippet": "“性别方面的数据差异不仅仅源于人们长久. 以来对女性的漠视。这些漠视和差异还产生了重. 要得后果。” 这是卡罗琳• 克里亚多• 佩雷斯（Caroline.",
+          "position": 32
+        },
+        {
+          "title": "2018-2021年性别平等行动计划| 联合国儿童基金会 - Unicef",
+          "link": "https://www.unicef.org/zh/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/2018-2021%E5%B9%B4%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89%E8%A1%8C%E5%8A%A8%E8%AE%A1%E5%88%92",
+          "snippet": "项目中的性别成果 · 消除童婚，保护女童免受限制其生活机会的多重风险。 · 提升女童的中学教育，侧重于支持女童学习科学、技术、工程和数学（STEM）技能。 · 促进性别敏感的青少年 ...",
+          "position": 33
+        },
+        {
+          "title": "中青报：游戏只属于男生？质疑性别刻板印象并非小题大做 - 人民网观点",
+          "link": "http://opinion.people.com.cn/n1/2019/0604/c1003-31118868.html",
+          "snippet": "近日，著名德国机械键盘品牌Cherry由于在抽奖活动中使用了存有性别刻板印象的宣传文案，引发了广泛争议。6月1日当天，“@CHERRY中国”发布了一条抽奖微博， ...",
+          "date": "2019年6月4日",
+          "position": 34
+        },
+        {
+          "title": "“人权观察” 发表声明谴责中国在员工招聘中性别歧视 - 美国之音",
+          "link": "https://www.voachinese.com/a/human-rights-watch-condemns-china-gender-discrimination-hiring-persists-20200430/5399061.html",
+          "snippet": "人权观察在4月29日的声明中表示，中国政府应该通过结束公务员招聘中的性别歧视来纪念2020年5月1日的国际劳动节。中国法律禁止招聘中的性别歧视， ...",
+          "date": "2020年4月30日",
+          "position": 35
+        },
+        {
+          "title": "性别_百度百科",
+          "link": "https://baike.baidu.com/item/%E6%80%A7%E5%88%AB/500566",
+          "snippet": "特征的解剖学上的身体差异，即生理性别。另一方面，性别也指基于女性气质、男性气质，或者非二元气质的性别角色划分，即社会性别。也就是说，性别 ... 全面性教育中性别相关的教学 ...",
+          "position": 36
+        },
+        {
+          "title": "[PDF] 英语语言中的性别歧视现象探究",
+          "link": "https://pdf.hanspub.org/ML20220800000_85557545.pdf",
+          "snippet": "英语语言中的性别歧视现. 象，历来引起了国内外不少研究者的关注。本文将通过英国国家语料库(BNC)，从“man”和“woman”. 的词频与性别成对词次序角度研究 ...",
+          "date": "2022年8月16日",
+          "position": 37
+        },
+        {
+          "title": "视觉系统中的性别差异",
+          "link": "https://www.pibb.ac.cn/pibbcn/article/html/20200398?st=article_issue",
+          "snippet": "，视觉信息的加工主要是由视觉系统的腹侧通路（负责识别物体的颜色、形状及面孔等）和背侧通路（主要负责处理运动和空间信息）分别完成的. 因此，视知觉的性别差异可以归纳为男性 ...",
+          "position": 38
+        },
+        {
+          "title": "从女性赋权到性别协商：《保护非物质文化遗产公约》发展史上的 ...",
+          "link": "https://www.cssn.cn/ztzl/ztzl_skwzg/ggfy/zcgy/202401/t20240117_5729255.shtml",
+          "snippet": "从2008年起，教科文组织进一步将性别平等列为全球发展战略中的两大优先事项之一，希望通过教育、文化、自然科学、社会及人文科学等方面的发展来促进性别平等 ...",
+          "date": "2024年1月17日",
+          "position": 39
+        },
+        {
+          "title": "2024年全球性别平等状况：完全弥合性别差距还需多少年？",
+          "link": "https://cn.weforum.org/agenda/2024/09/global-gender-gap-2024-what-to-know-cn/",
+          "snippet": "在过去18期报告中，政治赋权差距的改善最为显著。自2006年起，在全球性别指数持续追踪的101个国家中，这一差距缩小了8.3个百分点。 2006 ...",
+          "date": "2024年9月14日",
+          "position": 40
+        },
+        {
+          "title": "眼睛健康中的性别平等的关键事项- 国际防盲机构",
+          "link": "https://www.iapb.org/zh/learn/knowledge-hub/elevate/gender-equity/key-things-to-know/",
+          "snippet": "路障 · 视力下降的比例更高。 在每一类视力障碍和失明中，女性都比男性多。 · 丧失视力的风险更大。 女性患某些可导致视力损伤和失明的眼病的风险增加，如老年性黄斑变性、倒 ...",
+          "position": 41
+        },
+        {
+          "title": "武装冲突中的性暴力问答| 红十字国际委员会 - ICRC",
+          "link": "https://www.icrc.org/zh/document/sexual-violence-armed-conflict-questions-and-answers",
+          "snippet": "纵观历史，性暴力在武装冲突中一直很普遍，往往被视为战争不可避免的后果。性暴力作为骇人的现象持续发生，给受害者（成年和未成年男女）及其家人和整个社区带来破坏性后果。",
+          "position": 42
+        },
+        {
+          "title": "CAREC 促进性别平等奖项获奖者和区域性别专家访问中国上海考察 ...",
+          "link": "https://www.carecprogram.org/?news=carec-%E4%BF%83%E8%BF%9B%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89%E5%A5%96%E9%A1%B9%E8%8E%B7%E5%A5%96%E8%80%85%E5%92%8C%E5%8C%BA%E5%9F%9F%E6%80%A7%E5%88%AB%E4%B8%93%E5%AE%B6%E8%AE%BF%E9%97%AE%E4%B8%AD",
+          "snippet": "中亚区域经济合作（CAREC）2023年“促进性别平等奖项”获奖者以及来自中亚和西亚国家的区域性别专家于4月23日至26日 ...",
+          "position": 43
+        },
+        {
+          "title": "性别平等共创可持续未来： 为什么女性在跑赢气候变化上至关重要",
+          "link": "https://www.undp.org/zh/china/blog/xingbiepingdenggongchuangkechixuweilai-weishenmenuxingzaipaoyingqihoubianhuashangzhiguanzhongyao",
+          "snippet": "几千年来，\"自然母亲\"一直是我们星球的化身。她植根于世界各地的古老哲学中，反映了我们的地球给予和孕育生命的能力。",
+          "date": "2022年3月8日",
+          "position": 44
+        },
+        {
+          "title": "汉语中性别差异新议 - 社科网",
+          "link": "https://www.sinoss.net/c/2023-12-12/636801.shtml",
+          "snippet": "语言受性别影响的因素产生的变异被称作性别语言。传统的性别差异体现在汉语中的方方面面，而传统的社会分工也对语文教学里的性别意识产生深刻影响。",
+          "date": "2023年12月12日",
+          "position": 45
+        },
+        {
+          "title": "她们查看了37册中小学教材，发现这些性别偏见 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_18317358",
+          "snippet": "后来我偶然读到《羚羊木雕》的原文（人教版选录时有所删改），发现文章的调整之一在于人物性别，主人公“我”是女生，而好朋友的性别，人教版收录时是女生，名“万芳 ...",
+          "date": "2022年5月28日",
+          "position": 46
+        },
+        {
+          "title": "在Google Ads 广告组中创建性别定位条件- Search Ads 360帮助",
+          "link": "https://support.google.com/searchads/answer/7301110?hl=zh-Hans",
+          "snippet": "在Google Ads 广告组中包含或排除性别定位条件 · 转到相应的Google Ads 广告组页面。 · 依次点击定位条件▽ 标签和性别定位条件。 · 点击+新建性别定位条件。 · 在“新建性别 ...",
+          "position": 47
+        },
+        {
+          "title": "[PDF] 研究中的性和性别平等:SAGER指南和建议使用的理由",
+          "link": "https://ease.org.uk/wp-content/uploads/2019/10/SAGER%E6%8C%87%E5%8D%97.pdf",
+          "snippet": "摘要. 背景:在研究设计、研究实施和科学报告以及一般科学交流中,往往忽视了性和性别差异.这种忽视限制了研究结果的. 可推广性及其在临床实践中的适用性,尤其是对于女性 ...",
+          "position": 48
+        },
+        {
+          "title": "国家药监局国家中医药局关于发布《地区性民间习用药材管理办法 ...",
+          "link": "https://www.nmpa.gov.cn/xxgk/fgwj/xzhgfxwj/20240514161918125.html",
+          "snippet": "国家药监局国家中医药局关于发布《地区性民间习用药材管理办法》的公告（2024年第61号） ...",
+          "date": "2024年5月14日",
+          "position": 49
+        },
+        {
+          "title": "一图看懂！港澳永久性居民中的非中国籍人员7月10日起可申办来往 ...",
+          "link": "https://www.nia.gov.cn/n741440/n741577/c1659394/content.html",
+          "snippet": "一图看懂！港澳永久性居民中的非中国籍人员7月10日起可申办来往内地通行证件. 2024-07-01 来源：国家移民管理局网站. 【字体：大 中 小 】 打印本页. 分享到: ...",
+          "position": 50
+        },
+        {
+          "title": "创新方面的性别差距：分析联合王国的漏水管道 - WIPO",
+          "link": "https://www.wipo.int/about-ip/zh/ip_innovation_economics/gender_innovation_gap/gender-gap-challenges-uk.html",
+          "snippet": "在许多时候，这种差距在发明人层面最为显著。我们如何才能衡量“管道”的“漏水”程度？ 请看联合王国知识产权局的研究人员如何衡量专利数据中 ...",
+          "position": 51
+        },
+        {
+          "title": "性别与健康",
+          "link": "https://www.who.int/zh/news-room/fact-sheets/detail/gender",
+          "snippet": "将性别观点纳入主流还可在各级卫生人员中促进妇女赋权和平等参与。 性别对健康公平的影响. 按性别分列的数据显示，在全球范围内，男性的预期寿命较短（ ...",
+          "date": "2018年8月23日",
+          "position": 52
+        },
+        {
+          "title": "“固执一点去追求你真正喜欢的东西” - 上海科技报",
+          "link": "https://www.shkjb.com/content.html?id=235981",
+          "snippet": "... 中，性别差距仍在持续，女性在这些领域的代表性仍然不足，尤其是在相对高级的职位上。据统计，欧洲女性在STEM领域职位的占比从2000年到2022年，由30 ...",
+          "date": "8天前",
+          "position": 53
+        },
+        {
+          "title": "【贺翠香】当代西方女性主义研究中的性别身份问题",
+          "link": "http://philosophy.cass.cn/kygz/xszm/msszyzx/202311/t20231113_5696411.html",
+          "snippet": "“一个人不是生为女人，而是后来变为女人。”这是法国存在主义哲学家波伏娃在其著作《第二性》中的核心观点。在这部被誉为当代西方女性主义运动的“圣经”的 ...",
+          "date": "2023年11月13日",
+          "position": 54
+        },
+        {
+          "title": "中新（重庆）战略性互联互通示范项目_重庆市商务委员会",
+          "link": "https://sww.cq.gov.cn/zxxm/",
+          "snippet": "2015.11. 2015年11月，在习近平主席和李显龙总理的共同见证下，中新两国政府签署《关于建设中新（重庆） 战略性互联互通示范项目的框架协议》，标志着项目正式启动。 · 2016.1.",
+          "position": 55
+        },
+        {
+          "title": "[PDF] 3. 如实记述农业领域中的性别差距9",
+          "link": "https://www.fao.org/4/i2050c/i2050c03.pdf",
+          "snippet": "得以按类. 别划分女户主家庭的研究大都发现，法. 律上的女户主家庭可能更易遭受系列经. 济社会冲击之苦 (Seebens，2010 年)。 Page 3. 农业中的女性：填性别鸿沟 促农业发展25.",
+          "position": 56
+        },
+        {
+          "title": "广告中的性别歧视: 9787543233430: [英]简 - Amazon.com",
+          "link": "https://www.amazon.com/%E5%B9%BF%E5%91%8A%E4%B8%AD%E7%9A%84%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/dp/7543233436",
+          "snippet": "Amazon.com: 广告中的性别歧视: 9787543233430: [英]简·坎宁安，[英]菲莉帕·罗伯茨著; 柴卓佳译: Books.",
+          "currency": "US$",
+          "price": 30.1,
+          "position": 57
+        },
+        {
+          "title": "性别平等| 联合国儿童基金会 - Unicef",
+          "link": "https://www.unicef.org/zh/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89",
+          "snippet": "女童和男童们每天都会在课本、媒体以及照顾他们的成年人身上看到家庭和社区中存在的性别不平等现象。 父母可能会承担不公平的家务责任，照料家人和家务琐事主要由母亲 ...",
+          "position": 58
+        },
+        {
+          "title": "报告：城市中的性别包容性气候行动- Women4Climate - C40 Cities",
+          "link": "https://www.c40.org/zh-CN/women4climate/resources/women4climate-report-gender-inclusive-climate-action-in-cities/",
+          "snippet": "女性的领导力和专业知识如何塑造可持续和包容的城市. 近年来，少数杰出的女性已成为应对气候变化全球行动的主要领导者。 然而，更普遍的是，女性在高层气候谈判中的代表性严重 ...",
+          "position": 59
+        },
+        {
+          "title": "择偶偏好中的性别差异和社会阶层异质性——基于选择实验法的探索",
+          "link": "https://shxyj.ajcass.com/Magazine/show/?id=88515",
+          "snippet": "研究发现，择偶偏好呈现显著的性别差异，在六个维度中男性对配偶的长相更加看重，女性则更看重体现社会经济地位的教育和收入。阶层异质性分析发现，教育程度和城乡户口状态不同 ...",
+          "position": 60
+        },
+        {
+          "title": "蓝衣女性：海洋性别平等 - Ocean Decade",
+          "link": "https://oceandecade.org/zh/actions/women-in-blue-gender-equity-for-ocean/",
+          "snippet": "全球海洋面临的威胁与日俱增，需要采取可持续的行动。虽然妇女在社区福祉和海洋相关活动中的知识和作用是可持续发展的关键，但她们往往机会较少，工作 ...",
+          "date": "2023年2月1日",
+          "position": 61
+        },
+        {
+          "title": "网络女性自治区中的性别歧视内化——自媒体美妆视频中 ... - 国际新闻界",
+          "link": "http://cjjc.ruc.edu.cn/CN/Y2019/V41/I6/145",
+          "snippet": "本文分析了“网络女性自治区”——自媒体美妆视频中女性嫌恶话语的表现与产生原因。这种嫌恶以女性受众对女性博主的攻击谩骂与嘲讽为主要特征。",
+          "date": "2019年6月23日",
+          "position": 62
+        },
+        {
+          "title": "短视频中的社会性别宽容度研究——以男性美妆博主盛行为例",
+          "link": "https://cuctongshi.cuc.edu.cn/2021/1124/c7331a189257/page.htm",
+          "snippet": "男性美妆博主们抓住了“新舞台”的机遇，通过场景的布置和舞台的设计拓宽了自己的行为规范。男性美妆博主们在视频中惯常设置的背景是居家卧室、纯色背景图和 ...",
+          "date": "2021年11月24日",
+          "position": 63
+        },
+        {
+          "title": "孙从佼团队利用单细胞多组学分析揭示鸡性别决定的分子机制",
+          "link": "https://news.cau.edu.cn/kxyj/462b118600e3496f81d2236c9caf957b.htm",
+          "snippet": "蛋鸡生产中，全球每年约有70亿只1日龄雄性雏鸡被淘汰，造成了巨大的经济损失。研究鸡胚胎性别决定的分子机制，鉴定驱动性腺细胞命运的调控因子，通过基因编辑 ...",
+          "date": "2024年7月24日",
+          "position": 64
+        },
+        {
+          "title": "教育部办公厅关于公布2022—2025学年面向中小学生的全国性竞赛 ...",
+          "link": "http://www.moe.gov.cn/srcsite/A29/202209/t20220929_665926.html",
+          "snippet": "教育部办公厅公布《2022—2025学年面向中小学生的全国性竞赛活动名单》。",
+          "date": "2022年9月30日",
+          "position": 65
+        },
+        {
+          "title": "[PDF] 性别与法律：刑事司法中的女检察官 - 交大法学",
+          "link": "https://lawreview.sjtu.edu.cn/ch/reader/download_pdf_file.aspx?journal_id=jdfx&file_name=B3147901C258E490CCDF43F181978BC52BA66D234B82FE4A808EF233E6A2CA636BF1C90598865298527E9E40C9B363A3A801FD56A052808A&open_type=self&file_no=20210411",
+          "snippet": "三）刑事司法中女检察官的选择困境. 三、更多女性参与：刑事公诉活动的女性化. 趋势. 四、性别展演：女性与刑事司法的相互作用. 五、结语. 摘要刑事诉讼中的检察官制度 ...",
+          "position": 66
+        },
+        {
+          "title": "【研究】科学界著名奖项的评选中性别差距依然存在，但正在缩小！",
+          "link": "https://news.qq.com/rain/a/20210914A0B6PQ00",
+          "snippet": "本文为转化医学网原创，转载请注明出处作者：Liz Zee导读：一项对世界顶级科学奖项性别偏见的分析发现，尽管差距正在缩小，但享有盛誉的奖项仍然更有可能 ...",
+          "date": "2021年9月14日",
+          "position": 67
+        },
+        {
+          "title": "三中全会《决定》名词卡片天天学：惩罚性赔偿 - 新华网",
+          "link": "http://www.news.cn/politics/20240808/500464778db6458d96dea416292ac76c/c.html",
+          "snippet": "三中全会《决定》名词卡片天天学：惩罚性赔偿-新华网依据《党的二十届三中全会〈决定〉学习辅导百问》，制作三中全会《决定》系列名词卡片，和大家一起来 ...",
+          "date": "2024年8月8日",
+          "position": 68
+        },
+        {
+          "title": "出席第六届中俄能源商务论坛开幕式宣读习近平主席贺信并致辞",
+          "link": "https://www.gov.cn/yaowen/liebiao/202407/content_6964280.htm",
+          "snippet": "在主持中俄投资、能源双边机制性会议时，丁薛祥表示，今年是中俄建交75周年，这是一个重要历史节点。习近平主席和普京总统多次进行战略沟通，达成一系列重要 ...",
+          "date": "2024年7月24日",
+          "position": 69
+        },
+        {
+          "title": "中法关于就生物多样性与海洋加强合作的联合声明：昆明",
+          "link": "https://www.fmprc.gov.cn/chn/gxh/tyb//gdxw/202405/t20240507_11293819.html",
+          "snippet": "1、作为海洋国家和生物多样性大国，中法两国重申对保护海洋和沿海生态系统的特殊责任和共同雄心。 · 2、法国愿延续COP15确定的道路，将于2025年6月同 ...",
+          "date": "2024年5月7日",
+          "position": 70
+        },
+        {
+          "title": "公共政策中的社会性别- 法信- 懂法，更懂法律人",
+          "link": "https://www.faxin.cn/lib/Flwx/FlqkContent.aspx?gid=F111261&libid=040104",
+          "snippet": "我国2001年修订后的《婚姻法》仍坚持男女平等的基本原则，规定男女两性在婚姻家庭中享有平等的权利。但以社会性别平等理论来分析审视现行婚姻法，其结婚、夫妻关系、亲子关系 ...",
+          "position": 71
+        },
+        {
+          "title": "职场中的性别平等 - CGR",
+          "link": "https://www.cgr-international.com/zh-hans/%E5%85%AC%E5%8F%B8%E4%BB%8B%E7%BB%8D/%E6%9C%80%E6%96%B0%E6%96%B0%E9%97%BB/%E8%81%8C%E5%9C%BA%E4%B8%AD%E7%9A%84%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89-2021/",
+          "snippet": "性别平等直接关系到CGR的核心价值观。因此，我们对目前CGR总部获得的68/100的分数不满意，并将努力改进。",
+          "date": "2024年2月19日",
+          "position": 72
+        },
+        {
+          "title": "适用性别[gender] - Google Merchant Center帮助",
+          "link": "https://support.google.com/merchants/answer/6324479?hl=zh-Hans",
+          "snippet": "对于以下 服饰与配饰 子类别中的商品，此属性为可选属性：. 钮扣徽章 (ID 4179 ); 领带夹 (ID 180 ); 腕带 ( ...",
+          "position": 73
+        },
+        {
+          "title": "[PDF] 性/别手册学生版 - 中央大学",
+          "link": "https://www.chuo-u.ac.jp/uploads/2024/03/campuslife_diversity_gs_book_06.pdf?1711756800105",
+          "snippet": "... 性用语，因此一般推荐. 使用更加中性的表达，如ゲイ、レズビアン、同性恋者等。 ‣出柜（Coming out）. 指的是按照自己的意愿向他人表明自己的性别认同或性取向。是否要出 ...",
+          "position": 74
+        },
+        {
+          "title": "中国离婚潮的变动轨迹与性别模式——经验数据中的理论逻辑",
+          "link": "https://www.tsyzm.com/CN/Y2023/V1/I9/111",
+          "snippet": "新中国经历了三次离婚潮，离婚是多重要素综合作用的结果，其中女性主导性逐渐变强。每次离婚潮都与当时的制度环境和社会结构密切相关，宏观层面的制度和结构要素改变了旧有的 ...",
+          "position": 75
+        },
+        {
+          "title": "[PDF] 高等教育中的男性：美国正在经历一场性别危机?",
+          "link": "https://www.ce-jeme.org/cgi/viewcontent.cgi?article=1036&context=journal",
+          "snippet": "在本文中，我们回顾了各个学位级别的性别比例，分. 析了导致男性在大学阶段占比较低的各种可能的潜在. 原因，并讨论了院校用以激励男性进入大学的措施。 许多男性显然不愿意 ...",
+          "position": 76
+        },
+        {
+          "title": "中国石油大学（北京）碳中和示范性能源学院",
+          "link": "https://www.cup.edu.cn/ccne/",
+          "snippet": "【地学前缘讲堂】我国地热资源勘探开发技术与发展方问 · 【学术报告】莫斯科国立大学副教授EGOR ILLARIONOV学术报告 · 【盆地与油藏研究学术沙龙学术沙龙】深部煤层吸附与 ...",
+          "position": 77
+        },
+        {
+          "title": "正视人工智能引发的性别歧视",
+          "link": "https://aiig.tsinghua.edu.cn/info/1294/1780.htm",
+          "snippet": "... 中给女性带来显性和隐性的负面影响。 近年来，人工智能中的偏见已逐渐受到各界关注。业界已经达成共识，指出人工智能系统中存在的性别偏见是不争的 ...",
+          "date": "2022年12月28日",
+          "position": 78
+        },
+        {
+          "title": "企业汇率风险管理知识①风险中性知识普及_特色服务_深圳市分局",
+          "link": "https://www.safe.gov.cn/shenzhen/2021/0430/875.html",
+          "snippet": "风险中性是指企业把汇率波动纳入日常的财务决策，聚焦主业，尽可能降低汇率波动对主营业务以及企业财务的负面影响，包括对进出口净敞口头寸的影响，以及对资产 ...",
+          "date": "2021年4月30日",
+          "position": 79
+        },
+        {
+          "title": "《The Sims 4》中的性取向 - EA",
+          "link": "https://www.ea.com/zh-cn/news/sexual-orientation-in-the-sims-4",
+          "snippet": "此设置决定了您的模拟市民可以与谁一起嘿咻。如果您想讲述一个无性恋模拟市民的故事，你可以所有选项都不勾选。另一方面，你可以通过选择嘿咻的取向，但不勾选任何浪漫取向的 ...",
+          "position": 80
+        },
+        {
+          "title": "证监会召开学习贯彻党的二十届三中全会精神进一步全面深化资本 ...",
+          "link": "http://www.csrc.gov.cn/csrc/c100028/c7513359/content.shtml",
+          "snippet": "同时，与会代表就资本市场下一步全面深化改革提出了具体建议，包括进一步增强资本市场制度包容性、适配性和精准性，打通制度执行“最后一公里”，推动更多优质 ...",
+          "date": "2024年10月20日",
+          "position": 81
+        },
+        {
+          "title": "斜带石斑鱼基因组揭示雌雄同体鱼的性别分化和性逆转机制 - 中山大学",
+          "link": "https://www.sysu.edu.cn/news/info/2331/1059991.htm",
+          "snippet": "... 中性别存在由雌转雄的性转变现象。因此，石斑鱼是研究鱼类性别决定与性别分化机制的理想模型，但该生殖特点也给石斑...",
+          "date": "2023年2月22日",
+          "position": 82
+        },
+        {
+          "title": "巴黎奥运拳击的“假女人”指控，如何在“真问题”上模糊焦点？",
+          "link": "https://theinitium.com/zh-hans/opinion/20240808-opinion-olympic-boxing-gender-controversy",
+          "snippet": "在这场争议中，性别检测合法性及合理性被模糊，却引发大众对于跨性别及DSD运动员的负面情绪。",
+          "date": "2024年8月8日",
+          "position": 83
+        },
+        {
+          "title": "为港澳永久性居民中的非中国籍人员签发来往内地通行证政策问与答",
+          "link": "https://www.nia.gov.cn/n741440/n741577/c1659464/content.html",
+          "snippet": "答：申请通行证应当提交下列材料的原件及复印件：（一）填写完整、准确且粘贴申请人近照的《港澳居民来往内地通行证（非中国籍）申请表》；（二）有效香港、澳门 ...",
+          "date": "2024年7月1日",
+          "position": 84
+        },
+        {
+          "title": "英国最高法院：生活中性别自己定，但护照不搞中性",
+          "link": "http://m.cyol.com/gb/articles/2021-12/16/content_VMogmcv9Y.html",
+          "snippet": "艾伦凯恩认为，英国的护照表上性别选项只有“男性”或“女性”，却没有“X”（unspecified，不指明）的选项，这违反了人权法具有歧视性，而其他国家则已采用有第三性别 ...",
+          "date": "2021年12月16日",
+          "position": 85
+        },
+        {
+          "title": "什么是“性别”？",
+          "link": "https://www.sportanddev.org/zh-hans/thematic-areas/gender/%E4%BB%80%E4%B9%88%E6%98%AF%E6%80%A7%E5%88%AB%EF%BC%9F",
+          "snippet": "... 性别差异的分析往往表明妇女和女童在社会、政治、经济、法律、教育和身体问题上处于不利地位和弱势地位。这就是为什么性别 ... 什么是“性别”？ 体育在解决性别问题中的作用 ...",
+          "position": 86
+        },
+        {
+          "title": "美国各州纷纷出台新法案消除语言中的性别歧视 - 新浪新闻",
+          "link": "https://news.sina.cn/gn/2019-07-26/detail-ihytcitm4737779.d.html",
+          "snippet": "，现在通常被称为“servers”——“-ess”属于具有女性角色的词根，例如actress就是女演员的意思。基思·约翰逊认为：“争取性别平等的运动，随着时代的变化不断进步。",
+          "date": "2019年7月26日",
+          "position": 87
+        },
+        {
+          "title": "中国城市教会中性别失衡的问题",
+          "link": "https://www.churchchina.org/archives/101103.html",
+          "snippet": "解释1：“男女责任担当不同。”即原因是男人主要在社会和职场上担当养家糊口的责任，因而比女子压力更重，也更繁忙。——在韩国教会中这个因素比较明显，但在大陆 ...",
+          "date": "2010年11月11日",
+          "position": 88
+        },
+        {
+          "title": "全球外科领域中的性别平等：实现2030年目标的女权运动",
+          "link": "https://jphe.amegroups.org/article/view/6432/10874",
+          "snippet": "顺性别妇女和性少数群体是一个多样化、有技能和受过教育的群体，她们能够而且应该得到资质培训，这种培训不仅要优质，而且要尊重她们的特定背景。她们可以为SAO的工作做出宝贵 ...",
+          "position": 89
+        },
+        {
+          "title": "浅析葡萄牙语中的性别歧视现象及避免对策 - 汉斯出版社",
+          "link": "https://www.hanspub.org/journal/paperinformation?paperid=47575",
+          "snippet": "在葡萄牙，根据其《宪法》第9条h款，促进男女平等是国家的基本任务之一；2006年5月修订的《部长会议条例》中包括了非歧视性语言的使用，旨在“通过使用包容性或中立的方式来中和 ...",
+          "position": 90
+        },
+        {
+          "title": "关于第二批省中小学校示范性党组织和“双带头人”党组织书记典型拟选 ...",
+          "link": "https://jyt.zj.gov.cn/art/2024/10/31/art_1229266336_5391208.html",
+          "snippet": "根据《中共浙江省委教育工作委员会办公室关于开展第二批省中小学校示范性党组织和“双带头人”党组织书记典型选树工作的通知》，经市县教育局推荐、省级 ...",
+          "date": "4天前",
+          "position": 91
+        },
+        {
+          "title": "- YouTube",
+          "link": "https://m.youtube.com/post/UgkxKoNv4_nceGzkLORdptRLhFC2TqraxKvC",
+          "snippet": "跨性别男性（Transgender Male） 10.跨性别女性（Transgender Female） 11.性别中性（Androgynous） 12.性别非二元（Gender Non-conforming） 13.无性别感（Genderless） 14.",
+          "position": 92
+        },
+        {
+          "title": "[PDF] 性别平等的迷思：教育中的隐性不平等 - 社科网",
+          "link": "https://www.sinoss.net/uploadfile/2010/0909/20100909023755227.pdf",
+          "snippet": "·机会平等指的是男童和女童进入学校的机会相同，也就是家长、教师和整个社会在这方. 面没有性别歧视。 ·学习过程中的平等也就是男童和女童受到相同的对待和关注；在课程、 ...",
+          "position": 93
+        },
+        {
+          "title": "[PDF] 学校教育中塑造个体社会性别角色的意义与路径",
+          "link": "https://cn.usp-pl.com/index.php/xdjyysj/article/view/79909/79146",
+          "snippet": "作为儿童接受教育的主. 要场所，学校教育对性别角色的建构起着重要的影响作用。因此可以通过教育者转变自身性别观念、教材编写者优化教学内. 容、校园活动中穿插性别角色 ...",
+          "position": 94
+        },
+        {
+          "title": "机构动态| ESG中的性别议题：诺亚女性员工占比65%",
+          "link": "https://esg.noahgroup.com/article02.html",
+          "snippet": "调研显示，目前在全球金融、科技、能源等公司的高级领导层中，女性所占比例不到五分之一——显然近十年，女性在董事会、中高层以及最高管理层中的人数占增长 ...",
+          "date": "2020年3月9日",
+          "position": 95
+        },
+        {
+          "title": "从戏曲中男扮女装看中国民族性",
+          "link": "https://www.cas.cn/wh/wmtd/200611/t20061114_1724917.shtml",
+          "snippet": "在舞台上、照相馆橱窗里，人们可能看到一个风华绝代的女子，仔细分辨竟是男人所扮，这里所产生的性别认同的犹疑，以及随之而来的焦虑(她到底是什么性别)，让 ...",
+          "date": "2006年11月14日",
+          "position": 96
+        },
+        {
+          "title": "亚太地区女性参与科技创新研究报告",
+          "link": "https://www.undp.org/zh/china/publications/yataidequnuxingcanyukejichuangxinyanjiubaogao",
+          "snippet": "尽管STEM的各个学科都取得了技术进步，但在某些学科(包括数学、物理、工程和计算机科学)中，性别差距仍然存在，女性在这些学科中的代表性仍然不足。在 ...",
+          "date": "2024年4月15日",
+          "position": 97
+        },
+        {
+          "title": "Nature系列综述：癌症免疫治疗中的性别差异- 医疗健康专区 - 生物谷",
+          "link": "https://news.bioon.com/article/ea9ce2723826.html",
+          "snippet": "总的来说，女性比男性更能有效地解决感染，这与持续暴露于慢性感染相关炎症而产生的癌症风险相对应。 值得注意的是，对癌症的免疫防御能力随着年龄的增长而 ...",
+          "date": "2022年5月18日",
+          "position": 98
+        },
+        {
+          "title": "美国教育部修改单一性别定义人权专家认为将助长对妇女和女孩的 ...",
+          "link": "https://www.ungeneva.org/zh/news-media/news/2024/04/92950/meiguojiaoyubuxiugaidanyixingbiedingyi",
+          "snippet": "拜登政府在修正案第九条中对“性别”的重新定义包括防止一切形式的性别歧视，例如骚扰、性暴力、基于怀孕的歧视、对性别的陈规定型观念、性取向、性别认同和 ...",
+          "date": "2024年4月29日",
+          "position": 99
+        },
+        {
+          "title": "A9P08620 - iDPNa “相线+中性线”小型断路器, 1P+N, C曲线, 20A ...",
+          "link": "https://www.schneider-electric.cn/zh/product/A9P08620/idpna-%E7%9B%B8%E7%BA%BF+%E4%B8%AD%E6%80%A7%E7%BA%BF%E5%B0%8F%E5%9E%8B%E6%96%AD%E8%B7%AF%E5%99%A8-1p+n-c%E6%9B%B2%E7%BA%BF-20a-230v-4-5ka/",
+          "snippet": "A9P08620 - iDPNa “相线+中性线”小型断路器, 1P+N, C曲线, 20A, 230V, 4.5kA.",
+          "position": 100
+        }
+      ],
+      "peopleAlsoAsk": [
+        {
+          "question": "Gender有几种？",
+          "snippet": "其实，性别的定义有很多方式，严格一点说，一个个体起码具备六种性别模式，这六种性别模式都统一，才能确定其真正意义上的雄性或者雌性，否则就会出现性别模糊或性征模糊。 生物的六种性别模式包括染色体性别、基因性别、性腺性别、生殖器性别、心理性别和社会性别。",
+          "title": "六种性别_百度百科",
+          "link": "https://baike.baidu.com/item/%E5%85%AD%E7%A7%8D%E6%80%A7%E5%88%AB/11023723"
+        },
+        {
+          "question": "中国是男权社会吗？",
+          "snippet": "总的来说，今天的世界上还是男权中心的社会占大多数，中国当然是其中之一。 主要表现就是男人有性别特权，无论哪个阶层都是如此。",
+          "title": "访谈｜从美国妇女史到中国女权运动史，女权主义如何改变世界 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/wifiKey_detail.jsp?contid=2249818&from=wifiKey"
+        },
+        {
+          "question": "Gender Fluid是什么意思？",
+          "snippet": "「性別流動」（gender- fluid）是「跨性別」（Transgender）的一種，意指該人不認為自己有一個固定的性別，可以隨時改變，或是同時擁有不止一個性別。",
+          "title": "你知道「性別流動（gender- fluid）」是什麼嗎？ - 英文學習部落格",
+          "link": "https://blog.english4u.net/blog2.aspx?id=367"
+        },
+        {
+          "question": "Gender identity填什么？",
+          "snippet": "性别认同（英语：Gender identity）是一个人对自己性别的个人认知定位。 性别认同可以与一个人出生时的指定性别相关，也可以与之不同。 性别表现通常反映一个人的性别认同，但情况并非总是如此。 虽然一个人可能会表现出与特定性别角色相一致的行为、态度和外貌，但这种表现不一定反映出他们的性别认同。",
+          "title": "性别认同- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E6%80%A7%E5%88%A5%E8%AA%8D%E5%90%8C"
+        }
+      ],
+      "relatedSearches": [
+        {
+          "query": "Gender neutrality"
+        },
+        {
+          "query": "Gender-neutral"
+        },
+        {
+          "query": "gender填什么"
+        },
+        {
+          "query": "为什么平等很重要"
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "中性别",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "[PDF] 高校扩招中的高等教育机会获得： 城乡差异及其内部性别分化",
+          "link": "http://www.szass.com/attachment/0/68/68591/1114488.pdf",
+          "snippet": "由此可见，在高等教育规模不断扩张背景下，教. 育不平等现象更可能以细微形式存在，如体现. 在群体内部中。为此，本研究基于全国性调查. 数据（CGSS）对高校扩招 ...",
+          "date": "2023年11月6日",
+          "position": 1
+        },
+        {
+          "title": "新征程上的一份纲领性文件——党的二十届三中全会侧记 - 中国政府网",
+          "link": "https://www.gov.cn/yaowen/liebiao/202407/content_6963642.htm",
+          "snippet": "新征程上的一份纲领性文件——党的二十届三中全会侧记 · 实践续篇， · “对新时代新征程举什么旗、走什么路的再宣示” · 统揽全局， · “改革味要浓、成色要足”.",
+          "date": "2024年7月20日",
+          "position": 2
+        },
+        {
+          "title": "2024年总统大选中性别投票模式的转变| 大纪元",
+          "link": "https://www.epochtimes.com/gb/24/11/3/n14363484.htm",
+          "snippet": "那一年，男性投票给拜登和川普的人数大致相当。 一些分析人士说，这次选举中的选民性别选择差距可能会达到历史性的高度。 “在这次选举中 ...",
+          "date": "6小时前",
+          "position": 3
+        },
+        {
+          "title": "多元、平等与包容 - 雀巢中国",
+          "link": "https://www.nestle.com.cn/jobs/diversity-equity-inclusion",
+          "snippet": "文化中的价值观. 多元、平等和包容是我们的日常。无论你的种族、性别、文化、性取向或残疾状况如何，我们都 ...",
+          "position": 4
+        },
+        {
+          "title": "视觉系统中的性别差异",
+          "link": "https://www.pibb.ac.cn/pibbcn/article/html/20200398?st=article_issue",
+          "snippet": "，视觉信息的加工主要是由视觉系统的腹侧通路（负责识别物体的颜色、形状及面孔等）和背侧通路（主要负责处理运动和空间信息）分别完成的. 因此，视知觉的性别差异可以归纳为男性 ...",
+          "position": 5
+        },
+        {
+          "title": "关于Title IX的第49次：竞技体育中的性别平等的九个步骤",
+          "link": "https://legalaidatwork.org/zh/on-title-ixs-49th-nine-steps-for-gender-equity-in-athletics/",
+          "snippet": "促进女孩和妇女参与体育运动：从帮助你自己家庭中的女孩从最小的年龄开始进入游戏（例如， 给你刚学会走路的女儿或女邻居一个足球）到支持你生活中的女性参加 ...",
+          "date": "2021年6月23日",
+          "position": 6
+        },
+        {
+          "title": "中证指数官网",
+          "link": "https://www.csindex.com.cn/",
+          "snippet": "... 性优选信用债指数，该指数从交易所或银行间市场上市的债券中，选取中信银行优质 ... 目前，基于沪深300、中证500、中证800、中证1000、上证50、上证180、上证380 ...",
+          "position": 7
+        },
+        {
+          "title": "将性别问题纳入城市规划和设计的主流 - UrbanShift",
+          "link": "https://zh.shiftcities.org/post/mainstreaming-gender-urban-planning-and-design",
+          "snippet": "一个城市的设计在很大程度上决定了其内部发生的活动。因此，在城市规划中缺乏性别方面的专业知识会导致妇女、儿童和性别少数群体处于严重的不利地位。",
+          "date": "2022年8月10日",
+          "position": 8
+        },
+        {
+          "title": "当下网络环境中性别舆论相关问题研究分析",
+          "link": "https://m.eefung.com/hot-report/20191122173124",
+          "snippet": "那些在网络上振臂高呼某种性别权力的人，在现实生活中或许并没有成为性别权力的践行者。例如，有些网友在网络上呼吁女性独立的人，在现实生活中可能仍旧不想 ...",
+          "date": "2019年11月22日",
+          "position": 9
+        },
+        {
+          "title": "科学中的性别- 图书- 豆瓣",
+          "link": "https://m.douban.com/book/subject/25924810/",
+          "snippet": "科学中的性别豆瓣评分：0.0 简介：性别理论在学术领域中占有不可或缺的地位。尽管与美国等国家相比，德国国内的相关研究还有很大的提升空间，但主流的性别理论在实践中仍 ...",
+          "position": 10
+        },
+        {
+          "title": "性别中性的代词与性别平等 - EurekAlert!",
+          "link": "https://www.eurekalert.org/news-releases/594634?language=chinese",
+          "snippet": "性别中性的代词与性别平等 ... 科研人员报告说，使用性别中性的代词与平等看待非男性的程度增加有关联。在2015年，瑞典采用了一个性别中性的代词 hen 。Margit ...",
+          "date": "2019年8月5日",
+          "position": 11
+        },
+        {
+          "title": "金砖国家领导人第十六次会晤喀山宣言（全文） - 外交部",
+          "link": "https://www.mfa.gov.cn/zyxw/202410/t20241024_11515637.shtml",
+          "snippet": "... 中公平和包容的地域代表性。 7.我们重申通过推动建立更加敏捷、有效、高效、反应迅速、更具代表性、合法性、民主和负责任的国际和多边体系，致力于 ...",
+          "date": "2024年10月24日",
+          "position": 12
+        },
+        {
+          "title": "[PDF] 中国跨性别群体- 生存现状调查报告",
+          "link": "https://cnlgbtdata.com/files/uploads/2019/03/2017_%E4%B8%AD%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E7%BE%A4%E4%BD%93%E7%94%9F%E5%AD%98%E7%8E%B0%E7%8A%B6%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A-%E5%8F%AF%E8%A7%86%E5%8C%96.pdf",
+          "snippet": "跨性别男性中曾渴. 望阻止发育、掩盖或改变性征的比例高达90.6%，跨性别. 女性中有此经历的比例也高达85.7%。 样本中大多数人在18岁之前开始对性别认同产生自我觉察，. 而 ...",
+          "position": 13
+        },
+        {
+          "title": "[PDF] 被忽视的女性：专为男人设计的世界中的数据偏见",
+          "link": "https://www.imf.org/external/chinese/pubs/ft/fandd/2020/12/pdf/book1.pdf",
+          "snippet": "“性别方面的数据差异不仅仅源于人们长久. 以来对女性的漠视。这些漠视和差异还产生了重. 要得后果。” 这是卡罗琳• 克里亚多• 佩雷斯（Caroline.",
+          "position": 14
+        },
+        {
+          "title": "[PDF] 解答你的问题- 关于跨性别者",
+          "link": "https://www.apa.org/topics/lgbtq/chinese-simplified-transgender.pdf",
+          "snippet": "那些在成年后才意识到自己. 跨性别认同的人士，可能在以前一直努力适. 应自己的生理性别，却发现生活中事事不如. 意。有些跨性别者，尤其是变性者，会非常. 不满意自己的生理 ...",
+          "position": 15
+        },
+        {
+          "title": "“人权观察” 发表声明谴责中国在员工招聘中性别歧视 - 美国之音",
+          "link": "https://www.voachinese.com/a/human-rights-watch-condemns-china-gender-discrimination-hiring-persists-20200430/5399061.html",
+          "snippet": "人权观察在4月29日的声明中表示，中国政府应该通过结束公务员招聘中的性别歧视来纪念2020年5月1日的国际劳动节。中国法律禁止招聘中的性别歧视， ...",
+          "date": "2020年4月30日",
+          "position": 16
+        },
+        {
+          "title": "第三次全国时间利用调查公报（第三号） - 国家统计局",
+          "link": "https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957215.html",
+          "snippet": "[1]在实际调查中，6—15周岁居民无有酬劳动领域活动。 附表1：主要活动领域参与者每日平均时间. （按一周7天计算的每日活动）. 主要活动领域. 合计. 按性别分.",
+          "date": "4天前",
+          "position": 17
+        },
+        {
+          "title": "任克英：在可持续发展过程中性别平等需重点关注 - 搜狐",
+          "link": "https://www.sohu.com/a/530745682_828358",
+          "snippet": "2022年3月8日，由全球化智库（CCG）与联合国妇女署驻华代表处联合举办的“今日的性别平等就是明日的可持续发展——性别视角下的生物多样性与气候变化研讨会” ...",
+          "date": "2022年3月18日",
+          "position": 18
+        },
+        {
+          "title": "在不同的赛场上：体育运动中的性别平等 - Nielsen",
+          "link": "https://www.nielsen.com/zh/insights/2021/on-different-playing-fields-the-case-for-gender-equity-in-sports/",
+          "snippet": "正如超级明星运动员、世界杯冠军梅根-拉皮诺（Megan Rapinoe）在国会作证时所说：\"一个人不能简单地超越不平等，也不能因为足够优秀而逃避任何形式的歧视。作为一个有一儿一女 ...",
+          "position": 19
+        },
+        {
+          "title": "战争与性别权力：解读现代武装冲突中的性暴力（二） - ICRC",
+          "link": "https://www.icrc.org/zh/document/observation-and-opinion-sexual-violence-2",
+          "snippet": "女性——战争中的特殊受害者. 人们通常认为，战争是男人的事情。男性发动战争，作为战争的主要参加者流血牺牲。但无论是在国际性还是非国际性武装冲突中，妇女 ...",
+          "date": "2016年1月8日",
+          "position": 20
+        },
+        {
+          "title": "评《实验北京：中国当代艺术中的性别与全球化》 - 结绳志Tying Knots",
+          "link": "https://tyingknots.net/2021/04/experimental-beijing/",
+          "snippet": "对丹托和贝克尔的“艺术界”理论的吸收，使魏淑凌对当代艺术在中国的史论脉络和建制方式有着敏锐的洞察力，这多体现在她对中国前卫艺术概念及相关重要展览的 ...",
+          "date": "2021年4月23日",
+          "position": 21
+        },
+        {
+          "title": "宁冒生命危险自行手术，也不愿活在谎言中：三个中国跨性别者的故事",
+          "link": "https://zh.amnesty.org/content-type/more-resources/blog/trans-gender-feature/",
+          "snippet": "在中国，性别确认手术仅提供给被诊断患有精神障碍的人，还要求取得家属同意，哪怕你是一名成年人。因此，想要做真实的自己，许多跨性别人士宁可采取激烈且 ...",
+          "date": "2019年5月14日",
+          "position": 22
+        },
+        {
+          "title": "[PDF] 指导简报- 性别简介 - FHI 360",
+          "link": "https://niwl.fhi360.org/wp-content/uploads/2021/01/STEM2D-Tips-IntroToGender_Chinese.pdf",
+          "snippet": "性是一种社会结构，指的是基于家庭和社会中相应角色. 的两性关系。 • 它包括经济、政治和社会文化属性、制约因素以及给予. 男性或女性的机会。",
+          "position": 23
+        },
+        {
+          "title": "巴中市人力资源和社会保障局关于市本级新增公益性岗位拟聘用人员 ...",
+          "link": "https://rlzyshbzj.cnbz.gov.cn/xwdt/tzgg/23070552.html",
+          "snippet": "为加强公益性岗位聘用管理，主动接受各方面监督，根据《四川省公益性岗位开发管理办法》有关规定，现将市本级新增公益性岗位拟聘用人员名单予以公示，公示 ...",
+          "date": "5天前",
+          "position": 24
+        },
+        {
+          "title": "“女性比男性长寿”是绝对的吗？生存中的性别差异令人意外| 有益思",
+          "link": "https://www.jfdaily.com/sgh/detail?id=824911",
+          "snippet": "研究人员想要量化男性在不同时间和不同人群中比女性长寿的概率，并探讨预期寿命的变化和性别间寿命变化的影响。他们使用了一种特殊的统计方法“生存比”，来 ...",
+          "date": "2022年8月13日",
+          "position": 25
+        },
+        {
+          "title": "《坠落的审判》引发争议，电影中的性别议题为何重要 - 第一财经",
+          "link": "https://m.yicai.com/news/102052698.html",
+          "snippet": "作者：葛怡婷▫ 王一格 责编：李刚. 日前，《坠落的审判》在国内上映，法国导演茹斯汀·特里耶来华宣传，一场在北大举办的映后谈引发舆论波澜。 这场对谈中，一位男嘉宾试图将对话 ...",
+          "position": 26
+        },
+        {
+          "title": "如何选择词汇减少性别偏见—新闻 - 科学网",
+          "link": "https://news.sciencenet.cn/htmlnews/2022/6/480845.shtm",
+          "snippet": "在职场中，即使是语言选择上的细微差异，也会影响性别观念。这些选择主要分为两类：通过使用中性词汇来最小化性别作用；或通过性别标记来强调个人的性别。",
+          "date": "2022年6月15日",
+          "position": 27
+        },
+        {
+          "title": "贺翠香：当代西方女性主义研究中的性别身份问题",
+          "link": "http://marxism.cass.cn/gwmszy/202312/t20231210_5705203.shtml",
+          "snippet": "“一个人不是生为女人，而是后来变为女人。”这是法国存在主义哲学家波伏娃在其著作《第二性》中的核心观点。在这部被誉为当代西方女性主义运动的“圣经”的 ...",
+          "date": "2023年10月16日",
+          "position": 28
+        },
+        {
+          "title": "广告中的性别社会学 - TOPYS",
+          "link": "https://m.topys.cn/article/14998",
+          "snippet": "点评：潘婷的这条广告，将职场中的男性与女性放在近乎一样的情景中，男性得到的评价是正面的（比如：有说服力、专注敬业、整洁等）；而女性 获得的评价则是负面的 ...",
+          "date": "2014年8月7日",
+          "position": 29
+        },
+        {
+          "title": "中治院发布女性董事专题报告:董事会多样性与可持续发展 - 南开大学",
+          "link": "https://news.nankai.edu.cn/zhxw/system/2023/11/10/030058741.shtml",
+          "snippet": "第五，培养公司包容性文化，创造有助于女性董事发挥作用的机制和氛围。优先任用女性候选人填补临时董事会席位，优秀的女性候选人可继续任职董事；在董事选举 ...",
+          "date": "2023年11月10日",
+          "position": 30
+        },
+        {
+          "title": "教育中的包容性 - UNESCO",
+          "link": "https://www.unesco.org/zh/inclusion-education",
+          "snippet": "教育中的包容性 ... 教科文组织认为，每个学生都是平等的。然而，全世界仍有千百万人因性别、性取向、种族或社会出身、语言、宗教、国籍、经济条件或能力等原因无法接受教育。",
+          "position": 31
+        },
+        {
+          "title": "台湾版“J.K.罗琳与性别厕所战争”：在“挤压女性空间”的恐惧情绪中 - 歪脑",
+          "link": "https://www.wainao.me/wainao-reads/taiwan-transgender-bathroom-war-02132022",
+          "snippet": "2013年，美国科罗拉多州裁定一名6岁的跨性别学生在小学可以使用女性厕所。这是美国第一起跨性别厕所裁决，引起媒体大量关注，揭开了直到今日的“厕所法案”战争 ...",
+          "date": "2022年1月14日",
+          "position": 32
+        },
+        {
+          "title": "语言变化以包含性别中立术语",
+          "link": "https://etranslationservices.com/zh-CN/languages/changes-in-languages-to-include-gender-neutral-terms/",
+          "snippet": "然而，语言性别不对称在我们的社会中根深蒂固，因此，几乎不可能一夜之间让事情变得更好。 如果你环顾四周，你会发现人们通常使用男性术语来指代所有人，无论其 ...",
+          "date": "2021年8月12日",
+          "position": 33
+        },
+        {
+          "title": "[PDF] 性别表演：新潮演剧中的男扮女装",
+          "link": "http://www.semiotics.net.cn/userfiles/images/7d385c834925bc8ae7d399d872ab04ca.pdf",
+          "snippet": "内容摘要：论文从性别神话、卡米拉·帕格丽亚“性面具”和荣格的“两性同体”以及朱迪斯·巴特勒. 的性别表演理论，来研究新潮演剧中男扮女装。 具体论述了李叔同、欧阳予倩、 ...",
+          "position": 34
+        },
+        {
+          "title": "需要考虑中小学教师队伍性别比例吗？从斯巴达纯“雄性化”教育说起",
+          "link": "https://news.qq.com/rain/a/20221111A0AHKF00",
+          "snippet": "从国家层面来说，历史事实证明，斯巴达人的教育是失败的，遏制个性和情感发展的教育方式使斯巴达人变成了战斗和征服的机器，因而在哲学、艺术、文学等方面没有 ...",
+          "date": "2022年11月11日",
+          "position": 35
+        },
+        {
+          "title": "英语中“性别”应该用Sex还是Gender？ - Cutsin - 博客园",
+          "link": "https://www.cnblogs.com/Cutsin/archive/2006/07/26/460339.html",
+          "snippet": "gender和sex这两个词的区分在于：sex是按照生物特征如染色体来划分的；gender与人的生物特征有关系，但又不完全相同，它实际上是指社会性别，是人在发育成长的 ...",
+          "date": "2006年7月26日",
+          "position": 36
+        },
+        {
+          "title": "专访艾华：博物馆中的性别视角 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_18514760",
+          "snippet": "但与此同时，有些展览则表明，女性还是只有在与爱情、婚姻、浪漫、时尚和美丽等主题联系在一起时，才能成为博物馆展览的一部分。这在一定程度上，似乎仍延续了 ...",
+          "date": "2022年6月13日",
+          "position": 37
+        },
+        {
+          "title": "对电视广告中女性形象的历时性分析- 传媒观察 - 新华报业",
+          "link": "http://news.xhby.net/zt/cmgc/202012/t20201214_6912350.shtml",
+          "snippet": "虽然女性形象在电视广告中的呈现比例相较之前有所下降，但整体而言，广告中运用美女给消费者营造心理暗示和物化联想的倾向依然明显。对于男性而言，广告中的 ...",
+          "date": "2020年12月14日",
+          "position": 38
+        },
+        {
+          "title": "为何国内没有“上野千鹤子”？——基于中日性别研究的比较视野",
+          "link": "https://wenyi.gmw.cn/2023-03/28/content_36460446.htm",
+          "snippet": "上野千鹤子在《父权制与资本主义》一书中提出使用弗洛伊德理论弥补马克思主义理论在性别研究的不足，倡导结合女性主义和马克思主义思想精华的“马克思主义 ...",
+          "date": "2023年3月28日",
+          "position": 39
+        },
+        {
+          "title": "性别与健康",
+          "link": "https://www.who.int/zh/news-room/fact-sheets/detail/gender",
+          "snippet": "将性别观点纳入主流还可在各级卫生人员中促进妇女赋权和平等参与。 性别对健康公平的影响. 按性别分列的数据显示，在全球范围内，男性的预期寿命较短（ ...",
+          "date": "2018年8月23日",
+          "position": 40
+        },
+        {
+          "title": "Gender equity, or gender justice / 性别公正 - Asia Society",
+          "link": "https://asiasociety.org/zh-hans/policy-institute/navigating-belt-road-initiative-toolkit/glossary/shehuixue/gender-equity-or-gender-justice-xingbiegongzheng",
+          "snippet": "可能涉及使用特别措施来补偿历史、系统和/或文化偏见或歧视。以平等为最终目标，公正涉及公平和积极解决根植于性别规范、角色和关系中的障碍或劣势的差异化处理。",
+          "position": 41
+        },
+        {
+          "title": "[PDF] 困于二元话语的女性身体： 公共事件中性/ 别议题的再审思 - 探索与争鸣",
+          "link": "https://www.tsyzm.com/fileup/1004-2229/NEWS/20230919195423_NewsFile_20.pdf",
+          "snippet": "相关论述在撬开表象，对避而不. 见的诸多性别不平等问题提出质疑的同时，其本身又极易成为新的争论点而卷入事件之中。这些. 性/ 别事件不应流于八卦，或受制于不同向度的权力， ...",
+          "position": 42
+        },
+        {
+          "title": "论西方当代性别与跨性别理论的缘起、内涵与特性 - 浙江大学学术期刊网",
+          "link": "https://www.zjujournals.com/soc/article/2021/2021-5-110.htm",
+          "snippet": "性别与跨性别理论在西方当代批评理论中颇具代表性和影响力。该理论的缘起可追溯到20世纪20年代以来女权主义对女性受压迫根源的探寻、20世纪60—70年代 ...",
+          "date": "2021年10月28日",
+          "position": 43
+        },
+        {
+          "title": "[PDF] 外语学习中的性别差异：中国大学生英语用词研究",
+          "link": "https://e-flt.nus.edu.sg/v1n12004/xu.pdf",
+          "snippet": "研究结果表明，即使是中等程度的英语，也会明显地反映出语言使用上的性别差异。 通过对男女大学生心理和语言两方面表现出来的差异以及一致性的定量分析，言语社区的“有序异质.",
+          "position": 44
+        },
+        {
+          "title": "Apple 安全性发布- 官方Apple 支持(中国)",
+          "link": "https://support.apple.com/zh-cn/100100",
+          "snippet": "... 性问题获取协助”。 如果你认为自己在Apple 产品中发现了安全性或隐私漏洞，请了解如何提交你的研究报告。 从Apple 获取最新的软件更新. 要让你的Apple 产品保持安全性 ...",
+          "position": 45
+        },
+        {
+          "title": "社会性别敏感的政府治理和妇女政治赋权",
+          "link": "https://asiapacific.unwomen.org/en/countries/china/chinese/gender-responsive-governance-and-womens-political-empowerment-chinese",
+          "snippet": "... 性别观念如何影响国家预算、计划和项目。这一项目目的是为了配合国家目标，鼓励妇女参政，以及增强在未来决策过程中的性别意识。 Facebook Twitter Email Print Share. news ...",
+          "position": 46
+        },
+        {
+          "title": "1017条分享帖，带你发现生活中的性别语言暴力 - 中青在线",
+          "link": "http://m.cyol.com/gb/articles/2023-03/23/content_99p3zmFaGq.html",
+          "snippet": "1017条分享帖，带你发现生活中的性别语言暴力 ... 上述性别语言暴力广泛存在于日常生活中，前者诋毁女性，后者贬低男性。这类暴力形式，不一定有直接的暴力内容， ...",
+          "date": "2023年3月23日",
+          "position": 47
+        },
+        {
+          "title": "川普藉反跨性别广告攻击贺锦丽拉拢未表态选民 - RFI",
+          "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85%E6%8A%A5%E9%81%93/20241030-%E5%B7%9D%E6%99%AE%E8%97%89%E5%8F%8D%E8%B7%A8%E6%80%A7%E5%88%AB%E5%B9%BF%E5%91%8A%E6%94%BB%E5%87%BB%E8%B4%BA%E9%94%A6%E4%B8%BD-%E6%8B%89%E6%8B%A2%E6%9C%AA%E8%A1%A8%E6%80%81%E9%80%89%E6%B0%91",
+          "snippet": "川普（Donald Trump）竞选团队与共和党团体已斥资数千万美元，在关键摇摆州以及吸引大量观众的全国职业橄榄球赛中，播放这些煽动性的电视广告。",
+          "date": "5天前",
+          "position": 48
+        },
+        {
+          "title": "东南大学王金兰教授团队在单原子催化剂结构-稳定性关系研究中取得 ...",
+          "link": "https://www.ncsti.gov.cn/kjdt/kcrbx2024/202411/t20241103_184446.html?rid=722775",
+          "snippet": "单原子催化剂以其超高的原子利用率和优异的催化活性备受瞩目。但在反应条件下，单原子催化剂中的金属原子易浸出、聚集，从而显著降低催化剂的活性和选择性。",
+          "date": "3天前",
+          "position": 49
+        },
+        {
+          "title": "[PDF] 评估职场中LGBTQI+ 的包容性",
+          "link": "https://outandequal.org/wp-content/uploads/2023/07/ToolkitForChange_Global_Mandarin_R61.pdf",
+          "snippet": "有九个国家. (主要是加勒比地区）仍然有法律将同性. 性行为定为刑事犯罪。6 这些法律中的大多. 数是由英国等国家强加的殖民时代遗物。 婚姻平等.",
+          "date": "2023年7月10日",
+          "position": 50
+        },
+        {
+          "title": "数据库中性别的字段是什么 - Worktile",
+          "link": "https://worktile.com/kb/ask/2962347.html",
+          "snippet": "在数据库中，性别字段通常被定义为一个字符型列，常用的字段名有\"gender\"、\"sex\"等。它用来表示一个人的性别，通常有以下几种取值：.",
+          "date": "2024年7月17日",
+          "position": 51
+        },
+        {
+          "title": "“性别中立”的公共政策及其对性别的影响| CenterBeijing-Yale",
+          "link": "https://centerbeijing.yale.edu/zh-hans/node/657",
+          "snippet": "最近十年，性别平等的进展在全球备受关注。在中国，大多数的家庭和老龄化政策都是不以性别区分的，这常被称为性别中立。在7月13日的线上讲座中，耶鲁大学社会学助理 ...",
+          "position": 52
+        },
+        {
+          "title": "性别的伪中立性 - 实践与文本- 南京大学",
+          "link": "https://ptext.nju.edu.cn/bf/ac/c12246a245676/page.htm",
+          "snippet": "当然，既然如此，可以设想（在大多数女性主义者看来，这个设想可以渴望达到的东西）一个社会，在这个社会中，男人和女人同胎儿的关系差别不太显著，以至于在讨论 ...",
+          "date": "2012年2月21日",
+          "position": 53
+        },
+        {
+          "title": "眼睛健康中的性别平等的关键事项- 国际防盲机构",
+          "link": "https://www.iapb.org/zh/learn/knowledge-hub/elevate/gender-equity/key-things-to-know/",
+          "snippet": "路障 · 视力下降的比例更高。 在每一类视力障碍和失明中，女性都比男性多。 · 丧失视力的风险更大。 女性患某些可导致视力损伤和失明的眼病的风险增加，如老年性黄斑变性、倒 ...",
+          "position": 54
+        },
+        {
+          "title": "\"LGBTI\"中的\"I\"指“intersex”（间性者） | ShareAmerica",
+          "link": "https://archive-share.america.gov/zh-hans/lgbti%E4%B8%AD%E7%9A%84i%E6%8C%87intersex%EF%BC%88%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85%EF%BC%89/",
+          "snippet": "“LGBTI”中的”I”指“intersex”（间性者） ... 你或许经常听见人们谈到”LGBT”，这个词是Lesbian, Gay, Bisexual, Transgender（男女同性恋、双性恋和跨性别者）的 ...",
+          "date": "2016年6月13日",
+          "position": 55
+        },
+        {
+          "title": "我的性别主张从不是成长中的一个阶段 - Gucci Equilibrium",
+          "link": "https://equilibrium.gucci.com/zh-hans/my-gender-expression-isnt-a-phase/",
+          "snippet": "当时在我的日常生活中或媒体上，并没有出现任何年长的、男性化的黑人女性，这无疑加深了人们的想法，觉得女孩子穿男孩子的衣服只是成长过程中一个有点叛逆的 ...",
+          "date": "2020年7月29日",
+          "position": 56
+        },
+        {
+          "title": "【专家解读】坚持标准创新引领加快推进全国一体化算力网建设",
+          "link": "https://www.ndrc.gov.cn/wsdwhfz/202410/t20241025_1393978.html",
+          "snippet": "此外，为保障算力网中数据传输安全可控，应建立数据可信流通层面的统一标准化框架，确保数据在流通和应用过程中的安全性和可信性。 三、三管齐下，以 ...",
+          "date": "2024年10月25日",
+          "position": 57
+        },
+        {
+          "title": "Amazon.com: 劳动力市场中的性别差异(制度变迁的视角)",
+          "link": "https://www.amazon.com/%E5%8A%B3%E5%8A%A8%E5%8A%9B%E5%B8%82%E5%9C%BA%E4%B8%AD%E7%9A%84%E6%80%A7%E5%88%AB%E5%B7%AE%E5%BC%82-%E5%88%B6%E5%BA%A6%E5%8F%98%E8%BF%81%E7%9A%84%E8%A7%86%E8%A7%92-%E6%AD%A6%E4%B8%AD%E5%93%B2/dp/756207707X",
+          "snippet": "Amazon.com: 劳动力市场中的性别差异(制度变迁的视角): 9787562077077: 武中哲: Books.",
+          "currency": "US$",
+          "price": 39.99,
+          "position": 58
+        },
+        {
+          "title": "[PDF] 互联网平台劳动中的职业性别隔离研究",
+          "link": "http://cohd.cau.edu.cn/module/download/downfile.jsp?classid=0&filename=4a14f4f84b604b9f869fb2c2b0bba807.pdf",
+          "snippet": "摘要：本文聚焦于互联网平台劳动中的职业性别隔离现象，从交叉性视角出发，以外. 卖业和家政业的工作环境和劳动过程为主要比较分析线索，提出平台企业主要.",
+          "position": 59
+        },
+        {
+          "title": "A9P18616 - iDPNN “相线+中性线”小型断路器, 1P+N, C曲线, 16A ...",
+          "link": "https://www.schneider-electric.cn/zh/product/A9P18616/idpnn-%E7%9B%B8%E7%BA%BF+%E4%B8%AD%E6%80%A7%E7%BA%BF%E5%B0%8F%E5%9E%8B%E6%96%AD%E8%B7%AF%E5%99%A8-1p+n-c%E6%9B%B2%E7%BA%BF-16a-230v-6ka/",
+          "snippet": "A9P18616 - iDPNN “相线+中性线”小型断路器, 1P+N, C曲线, 16A, 230V, 6kA.",
+          "position": 60
+        },
+        {
+          "title": "社会需要啥样的性别气质 - 人民日报",
+          "link": "http://paper.people.com.cn/rmrbhwb/html/2018-08/13/content_1874218.htm",
+          "snippet": "近几年来，随着一些年轻男演员占据荧屏，一些男性在服装、发饰乃至心理上逐渐“女性化”，性别模糊趋势逐渐加剧。有人认为，社会中“阴柔之风”盛行令人担忧；有人 ...",
+          "date": "2018年8月13日",
+          "position": 61
+        },
+        {
+          "title": "在PowerShell 中改进DSC 输出的可访问性",
+          "link": "https://learn.microsoft.com/zh-cn/powershell/dsc/concepts/output-accessibility?view=dsc-3.0",
+          "snippet": "可通过两种方法改进PowerShell 中输出的可访问性：. 以支持屏幕读取技术的另一个工具查看数据的方式输出数据。 通过筛选并选择所需的数据，以更易读的 ...",
+          "date": "5天前",
+          "position": 62
+        },
+        {
+          "title": "中国高校招生存在性别歧视，女性追求职业平等遇阻碍 - 纽约时报",
+          "link": "https://cn.nytimes.com/china/20211021/china-schools-gender-bias/",
+          "snippet": "招男生不招女生、女生录取成绩远高于男生……中国高校普遍存在的双标和性别配额正在阻碍女性进步。女性在由男性主导的职业中寻求突破时仍面临巨大障碍。",
+          "date": "2021年10月21日",
+          "position": 63
+        },
+        {
+          "title": "数洞：如果世界趋向“女进步男保守”，中港台会有同样的性别差异吗？",
+          "link": "https://theinitium.com/zh-hans/article/20240201-dataphile-gender-divide-in-china-hongkong-taiwan",
+          "snippet": "《金融时报》一篇题为《新的全球性别鸿沟正在形成》的报道近日在网上广传：当中的图表显示，在全球多个国家18至29岁的年轻群体中，男女性间的政治意识 ...",
+          "date": "2024年2月1日",
+          "position": 64
+        },
+        {
+          "title": "不平等的运动场：关于高中体育中的性别不平等的深入报告",
+          "link": "https://legalaidatwork.org/zh/uneven-playing-fields/",
+          "snippet": "不平等的运动场：关于高中体育中的性别不平等的深入报告，介绍了LAAW的客户和律师。 ... 一份新的、深入的报告，题为不平等的竞技场的报告，今天发表。正如该 ...",
+          "date": "2022年4月11日",
+          "position": 65
+        },
+        {
+          "title": "2018-2021年性别平等行动计划| 联合国儿童基金会 - Unicef",
+          "link": "https://www.unicef.org/zh/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/2018-2021%E5%B9%B4%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89%E8%A1%8C%E5%8A%A8%E8%AE%A1%E5%88%92",
+          "snippet": "项目中的性别成果 · 消除童婚，保护女童免受限制其生活机会的多重风险。 · 提升女童的中学教育，侧重于支持女童学习科学、技术、工程和数学（STEM）技能。 · 促进性别敏感的青少年 ...",
+          "position": 66
+        },
+        {
+          "title": "性别中性-翻译为英语-例句中文 - Reverso Context",
+          "link": "https://context.reverso.net/%E7%BF%BB%E8%AF%91/%E4%B8%AD%E6%96%87-%E8%8B%B1%E8%AF%AD/%E6%80%A7%E5%88%AB%E4%B8%AD%E6%80%A7",
+          "snippet": "在英语中翻译\"性别中性\" · 性别中性政策的歧视性后果。 · 显然，寨卡危机不是性别中性的。 · 性别中性方式对待女性诉讼当事人和证人。 · 性别中性的，没有确认妇女的特别处境 ...",
+          "position": 67
+        },
+        {
+          "title": "美国多地出现“中性厕所” - 新华网",
+          "link": "http://www.xinhuanet.com/world/2016-03/16/c_128803360.htm",
+          "snippet": "跨性别人士自行选择厕所的做法使性侵者有机可乘，例如一名男性可以冒充女性进入女厕所或女更衣室从事性犯罪。美国有些州包括佛罗里达、得克萨斯、堪萨斯在 ...",
+          "date": "2016年3月16日",
+          "position": 68
+        },
+        {
+          "title": "Gender在這裡-性別視聽分享站導讀文章選集-看見電影中的性別",
+          "link": "https://gpi.culture.tw/books/1011300604",
+          "snippet": "Gender在這裡-性別視聽分享站導讀文章選集-看見電影中的性別-性別映像篇 · 統一編號GPN：1011300604 · 出版日期：2024/06 · 作/編/譯者：行政院性別平等處 · 語言：中文 · 頁數 ...",
+          "position": 69
+        },
+        {
+          "title": "万斯暗示，中上层阶级白人孩子可能会为了进名校而成为跨性别者",
+          "link": "https://news.ifeng.com/c/8e9HgZgc0re",
+          "snippet": "... 中暗示，白人中上层阶级的孩子为了能被精英大学录取而有动机将自己认定为跨性别者。 “想想其中的诱因，”万斯说，“如果你是一个中产阶级或中上层阶级的白人家长，并且你 ...",
+          "position": 70
+        },
+        {
+          "title": "英国最高法院：生活中性别自己定但护照不搞中性 - 新浪军事",
+          "link": "https://mil.sina.cn/dgby/2021-12-16/detail-ikyamrmy9306459.d.html",
+          "snippet": "[文/观察者网李丽]英国维权人士艾伦凯恩（Christie Elan-Cane）针对政府不允许提供性别中立护照的政策提出法律挑战，15日遭英国最高法院5名法官驳回。",
+          "date": "2021年12月16日",
+          "position": 71
+        },
+        {
+          "title": "跨性别者的爱情：我爱你，不是因为你的性别 - 歪脑",
+          "link": "https://www.wainao.me/wainao-reads/love-of-transgender-individuals-10042023",
+          "snippet": "《国际跨性别健康杂志》一份研究显示，593名美国跨性别男性中，有一半人关系得以维持，对于未能维持关系的受访者中，有54％表示分手原因与转换性别有关。",
+          "date": "2023年10月4日",
+          "position": 72
+        },
+        {
+          "title": "2024 年商学院申请在经济不确定性中增长显著 - 美通社",
+          "link": "https://www.prnasia.com/story/466699-1.shtml",
+          "snippet": "2024 年商学院申请在经济不确定性中增长显著. Graduate Management Admission Council. 2024-10-31 12:00 857. GMAC 年度调查表明，需求增长是疫情期间增长速度的五倍。",
+          "position": 73
+        },
+        {
+          "title": "网络女性自治区中的性别歧视内化——自媒体美妆视频中 ... - 国际新闻界",
+          "link": "http://cjjc.ruc.edu.cn/CN/Y2019/V41/I6/145",
+          "snippet": "本文分析了“网络女性自治区”——自媒体美妆视频中女性嫌恶话语的表现与产生原因。这种嫌恶以女性受众对女性博主的攻击谩骂与嘲讽为主要特征。",
+          "date": "2019年6月23日",
+          "position": 74
+        },
+        {
+          "title": "性别、性取向与女性研究在高等教育中的重要性与挑战",
+          "link": "https://www.forwardpathway.com/135653",
+          "snippet": "本文探讨了性别、性取向与女性研究在高等教育中的重要性及其面临的挑战。随着社会对性别平等的关注加深，宾夕法尼亚大学任命Jessa Lingel为性别研究 ...",
+          "date": "2天前",
+          "position": 75
+        },
+        {
+          "title": "云南艺术学院设计学院团队对中国第一列跨境旅游专列中老铁路“星光",
+          "link": "https://www.ynart.edu.cn/info/1040/54131.htm",
+          "snippet": "随着国家“一带一路”倡议的推广与实施，云南省各地区的发展迎来了新的机遇。中老铁路作为中老友谊标志性工程，作为连接中国与东南亚的重要通道， ...",
+          "date": "2024年10月25日",
+          "position": 76
+        },
+        {
+          "title": "[PDF] 话语竞争与性别平等理念的传播 - 北京大学社会学系",
+          "link": "http://www.shehui.pku.edu.cn/upload/editor/file/20181026/20181026093824_7629.pdf",
+          "snippet": "面对传统媒体和新型媒体的各种性别形象的出. 现，我首先想说的是，今天我们在一个充满竞争的话. 语场域中，创新话语和对文本的再解读是充满竞争. 的，其本质是知识的竞争， ...",
+          "position": 77
+        },
+        {
+          "title": "中性- 维基词典，自由的多语言词典",
+          "link": "https://zh.wiktionary.org/wiki/%E4%B8%AD%E6%80%A7",
+          "snippet": "讀音 · 官話. (拼音)：zhōngxìng: (注音)：ㄓㄨㄥㄒㄧㄥˋ · 粵語 (粵拼)：zung1 sing · 閩南語 (泉漳話，白話字)：tiong-sèng更多▽ ...",
+          "position": 78
+        },
+        {
+          "title": "\"汉语中的性别= Gender within the Chinese Language\" by Haley Abing",
+          "link": "https://digital.kenyon.edu/honorstheses/93/",
+          "snippet": "个语言对使用这个语言人的思想和世界观有很大的影响。如果一个语言区分性别，它一定也包含一种特定的性别意识。有的语言很明显地包含性别意识， ...",
+          "date": "2013年5月8日",
+          "position": 79
+        },
+        {
+          "title": "性別平等教育法 - 全國法規資料庫",
+          "link": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0080067",
+          "snippet": "學校或主管機關調查校園性別事件過程中，得視情況就相關事項、處理方式及原則予以說明，並得於事件處理完成後，經被害人、其法定代理人或實際照顧者之同意，將事件之有無、樣態 ...",
+          "position": 80
+        },
+        {
+          "title": "从脏话说起：日常语言中的性别偏见如何影响我们的生活？ - 搜狐",
+          "link": "https://www.sohu.com/a/785561678_119350",
+          "snippet": "从脏话说起：日常语言中的性别偏见如何影响我们的生活？ ... “如果你想羞辱一个女性，就骂她是妓女。如果你想羞辱一个男性，就骂他是个女人。” 在我们的日常用语 ...",
+          "date": "2024年6月13日",
+          "position": 81
+        },
+        {
+          "title": "发表英文论文时请用中性性别代词They和them：这是一种趋势 - 科学网",
+          "link": "https://wap.sciencenet.cn/blog-3316383-1395858.html?mobile=1",
+          "snippet": "发表英文论文时请用中性性别代词They和them：这是一种趋势 · 我的经历是最近提交了一篇论文，文章中提到某研究生（女性）负责了实验数据的收集和处理，结果审稿 ...",
+          "date": "2023年7月19日",
+          "position": 82
+        },
+        {
+          "title": "浅析针对中国现代男艺人性别气质的“娘炮”羞辱与“阳刚”鼓吹 - 通识教育",
+          "link": "https://cuctongshi.cuc.edu.cn/2021/1123/c7331a189215/page.htm",
+          "snippet": "通过研究，笔者认为这种大众性别焦虑主要来自对两性的性别刻板印象、对“性别越界”的焦虑、对性别角色中性化的恐惧及进而生发的对自身主体性身份迷失的焦虑 ...",
+          "date": "2021年11月23日",
+          "position": 83
+        },
+        {
+          "title": "新沃中债0-3年政策性金融债指数证券投资基金基金合同生效公告",
+          "link": "https://paper.cnstock.com/html/2024-11/02/content_1989351.htm",
+          "snippet": "新沃中债0-3年政策性金融债指数证券投资基金基金合同生效公告. 2024-11-02 | 上海证券报. 公告送出日期：2024年11月2日. 1.公告基本信息. □. 2.基金募集 ...",
+          "date": "2天前",
+          "position": 84
+        },
+        {
+          "title": "5000亿元买断式逆回购操作来了：本质上仍是资金业务定位为中短期 ...",
+          "link": "https://wap.eastmoney.com/a/202410313225186959.html",
+          "snippet": "央行周一官宣的新工具迅速落地。10月31日，央行官网新增“公开市场买断式逆回购业务公告”栏目，并发布了第一条公告。公告显示，为维护银行体系流动性合理 ...",
+          "date": "3天前",
+          "position": 85
+        },
+        {
+          "title": "2024年10月29日外交部发言人林剑主持例行记者会",
+          "link": "https://www.mfa.gov.cn/web/wjdt_674879/zcjd/202410/t20241029_11517777.shtml",
+          "snippet": "据报道，为庆祝西哈莫尼国王登基20周年，10月28日起，柬埔寨开始举行为期三天的全国性庆祝活动。 ... 中柬人文交流年”办得有声有色，给两国人民带来实实在在的 ...",
+          "date": "5天前",
+          "position": 86
+        },
+        {
+          "title": "男性还是女性？美国普林斯顿大学允许6种性别选项 - 中国新闻网",
+          "link": "https://www.chinanews.com/m/gj/2017/08-04/8295563.shtml",
+          "snippet": "中新网8月4日电据外媒报道，美国普林斯顿大学决定允许学生从6种性别选项中选择自己喜欢的性别。 当地时间2017年3月8日，澳大利亚墨尔本，街头安装女性 ...",
+          "date": "2017年8月4日",
+          "position": 87
+        },
+        {
+          "title": "正史中的《列女传》，其实不能算作女性的历史？｜中国人民大学 ...",
+          "link": "https://www.youtube.com/watch?v=7SMNiBatXX0",
+          "snippet": "722｜毛立平·性别史：正史中的《列女传》，其实不能算作女性的历史？｜中国人民大学清史研究所 ...\n时长： 24:08\n发布时间： 2023年3月30日",
+          "date": "2023年3月30日",
+          "position": 88
+        },
+        {
+          "title": "北京市经济和信息化局关于组织开展2024年生物制造标志性产品征集 ...",
+          "link": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202410/t20241031_3932219.html",
+          "snippet": "... 性、颠覆性技术攻关和标志性 ... 对于已实现规模化生产的产品，需具有较高市场占有率；对于尚处商业化早期的产品，需已完成中试验证并具有显著的产业化应用价值 ...",
+          "date": "4天前",
+          "position": 89
+        },
+        {
+          "title": "中国社会中的女人和男人 - 联合国儿童基金会驻华办事处",
+          "link": "https://www.unicef.cn/reports/women-and-men-china",
+          "snippet": "... 性别观念；十、分省数据。每部分之后附有部分统计指标解释。 本书资料来源于人口普查、1%人口抽样调查、人口统计年鉴、劳动统计年鉴、妇女儿童状况 ...",
+          "date": "2014年1月9日",
+          "position": 90
+        },
+        {
+          "title": "匹克签约国际奥协达成“开创性”赞助协议 - 中工网",
+          "link": "https://www.workercn.cn/c/2024-11-02/8383823.shtml",
+          "snippet": "... 性”的体育赞助 ... 在巴黎奥运会上运动员人数在6人或以下的奥运代表团，将在未来两个奥运周期内的所有奥运系列赛事中获得匹克免费提供的制服装备。",
+          "date": "2天前",
+          "position": 91
+        },
+        {
+          "title": "本质上仍是资金业务定位为中短期流动性投放工具 - 21财经",
+          "link": "https://www.21jingji.com/article/20241031/herald/2d95d2128b9def1ff117dd1d98217b04.html",
+          "snippet": "根据央行货币政策司司长邹澜此前介绍，人民银行买卖国债主要定位于基础货币投放和流动性管理，既可买入也可卖出，并通过与其他工具灵活搭配，提升短中长期流动 ...",
+          "date": "3天前",
+          "position": 92
+        },
+        {
+          "title": "研究人员提出“因果不可或缺状态表示”概念，可用于电子商务推荐系统",
+          "link": "https://www.mittrchina.com/news/detail/13953",
+          "snippet": "他们计划引入潜在的混淆因素，以更精确地捕捉和强化强化学习推荐系统中的因果关系，这将有助于提高模型的鲁棒性和推荐质量。 当前，推荐系统在我们日常数字生活中扮演着重要 ...",
+          "position": 93
+        },
+        {
+          "title": "每人1500元！杭州一次性扩岗补助正在申领中_ 杭州政协网",
+          "link": "https://www.hzzx.gov.cn/cshz/content/2024-11/01/content_8808044.htm",
+          "snippet": "杭州一次性扩岗补助正在申领中. 发布时间：2024-11-01 每日商报. 在城市奔波的华章中，有无限的机遇与挑战，在岁序更替的时光里，有无数梦想自由生长。在这里，就业有补助、 ...",
+          "position": 94
+        },
+        {
+          "title": "报道：欧洲央行开始讨论是否要将利率降到中性水平以下 - 华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3731243",
+          "snippet": "报道称，部分官员认为欧洲央行在放松货币政策方面已经落后，需要更大幅度的降息，以防止通胀低于目标水平2%。 欧洲央行的官员考虑将利率降到中性水平以下， ...",
+          "date": "2024年10月23日",
+          "position": 95
+        },
+        {
+          "title": "台风“潭美”残余袭海南持续性暴雨致3人死亡 - 环科",
+          "link": "https://science.caixin.com/2024-10-30/102251425.html",
+          "snippet": "受台风“潭美”残余低涡和冷空气共同影响，海南自10月26日以来遭遇持续性暴雨，期间琼中市和琼海市局地累计降雨量突破1000毫米。截至30日，本轮暴雨已造成3 ...",
+          "date": "4天前",
+          "position": 96
+        },
+        {
+          "title": "每人1500元！杭州一次性扩岗补助正在申领中",
+          "link": "https://hznews.hangzhou.com.cn/jingji/content/2024-11/01/content_8807899.htm",
+          "snippet": "在城市奔波的华章中，有无限的机遇与挑战，在岁序更替的时光里，有无数梦想自由生长。在这里，就业有补助、创业有扶持、失业有保障。为此，本报联合杭州市 ...",
+          "date": "3天前",
+          "position": 97
+        },
+        {
+          "title": "汉字里的性别暴力与文化偏见- 纽约时报中文网",
+          "link": "https://cn.nytimes.com/china/20151204/c04chinajian/",
+          "snippet": "艺术展《姦：性别暴力伤害的文化符号》原定于11月25日在北京开幕，却被取消。策展人认为应该让更多中国人认识到汉字和汉语言中的性别歧视。",
+          "date": "2015年12月4日",
+          "position": 98
+        },
+        {
+          "title": "[PDF] 性别平等的迷思：教育中的隐性不平等 - 社科网",
+          "link": "https://www.sinoss.net/uploadfile/2010/0909/20100909023755227.pdf",
+          "snippet": "·机会平等指的是男童和女童进入学校的机会相同，也就是家长、教师和整个社会在这方. 面没有性别歧视。 ·学习过程中的平等也就是男童和女童受到相同的对待和关注；在课程、 ...",
+          "position": 99
+        },
+        {
+          "title": "性存在与社会性别 - Tokyo Sexual Health",
+          "link": "http://www.tsh.ncgm.go.jp/chs/about_sexual_health/Sexuality_and_Gender.html",
+          "snippet": "在育婴手册中，除了男和女外，还有一个“不详”的选项，这个“不详”可以说是在难以通过外表判断性别时做出医学判断之前的一个选项。 （2）性别认同（GI：Gender Identity）.",
+          "position": 100
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "中性别",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 3,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "中东报复性打击循环往复不断推高冲突升级风险 - RFI",
+          "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20241026-%E4%B8%AD%E4%B8%9C%E6%8A%A5%E5%A4%8D%E6%80%A7%E6%89%93%E5%87%BB%E5%BE%AA%E7%8E%AF%E5%BE%80%E5%A4%8D%E4%B8%8D%E6%96%AD%E6%8E%A8%E9%AB%98%E5%86%B2%E7%AA%81%E5%8D%87%E7%BA%A7%E9%A3%8E%E9%99%A9",
+          "snippet": "... 担忧就这样在报复性军事行动此起彼伏中不断提升，一次次避免升级的呼吁不断被炮火声压抑。这场冲突在争夺激烈的美国大选决出胜负之前恐怕难有新的进展。",
+          "date": "2024年10月26日",
+          "position": 1
+        },
+        {
+          "title": "美国北极大使：中俄深化北极军事合作释放出“令人担忧的信号”",
+          "link": "https://www.voachinese.com/a/us-envoy-sees-some-concerning-signals-in-russia-china-military-cooperation-in-arctic-20241102/7848672.html",
+          "snippet": "... 性”，释放出“令人担忧的信号”。 “他们(中俄)在北极的合作引起了我们的注意，”上个月宣誓就职的斯弗拉加在阿拉斯加接受路透社电话采访时说道。“我们对 ...",
+          "date": "2天前",
+          "position": 2
+        },
+        {
+          "title": "新时代全民国防教育在国有企业中的重要性与实施策略 - 中国有色网",
+          "link": "https://www.cnmn.com.cn/ShowNews1.aspx?id=455018",
+          "snippet": "新时代全民国防教育在国有企业中的重要性与实施策略. 2024年10月28日11:37 191次浏览 来源： 中国有色金属报 分类： 铜镍铅锌 作者： 王永明 大字号 中字号",
+          "position": 3
+        },
+        {
+          "title": "以色列近日报复性袭击可能击中伊朗重要航天基地卫星图曝光-新闻中心",
+          "link": "http://news.cnnb.com.cn/system/2024/10/30/030625326.shtml",
+          "snippet": "最新的卫星图像显示，在以色列10月26日对伊朗发动的报复性袭击中，伊朗伊斯兰革命卫队的一个重要航天基地可能被击中。 央视新闻27日曾报道称， ...",
+          "date": "5天前",
+          "position": 4
+        },
+        {
+          "title": "人工智能在云计算中的作用：增强安全性和物联网可扩展性 - 千家网",
+          "link": "https://www.qianjia.com/html/2024-10/29_412481.html",
+          "snippet": "人工智能在云计算中的作用不容小觑，它不仅增强了云环境的安全性，还提高了物联网的可扩展性。随着技术的不断进步，我们可以预见，AI将在云计算和物联网 ...",
+          "date": "6天前",
+          "position": 5
+        },
+        {
+          "title": "2024 年商学院申请在经济不确定性中增长显著 - bernama",
+          "link": "https://www.bernama.com/man/news.php?id=2357600",
+          "snippet": "商讯. 2024 年商学院申请在经济不确定性中增长显著. 29/10/2024 04:00 PM. KEYWORDS. 推荐阅读. 稻肥采购献议弊案：2前总经理延扣3至4天助查. 6h ago ...",
+          "position": 6
+        },
+        {
+          "title": "任正非：华为还在挣扎中要向美国学习开放性包容性 - 联合早报",
+          "link": "https://www.zaobao.com.sg/realtime/china/story20241101-5282023",
+          "snippet": "任正非：华为还在挣扎中要向美国学习开放性包容性. 发布/. 发布/ 2024年11月1日11:46 AM. 字体大小: 小; 中; 大. 中国科技巨头华为创始人兼总裁任正非说，美国给全世界的 ...",
+          "position": 7
+        },
+        {
+          "title": "中通国脉通信股份有限公司关于股票交易风险的提示性公告 - 上海证券报",
+          "link": "https://paper.cnstock.com/html/2024-11/02/content_1989602.htm",
+          "snippet": "本公司董事会及全体董事保证本公告内容不存在任何虚假记载、误导性陈述或者重大遗漏，并对其内容的真实性、准确性和完整性承担法律责任。 中通国脉通信股份 ...",
+          "date": "2天前",
+          "position": 8
+        },
+        {
+          "title": ".NET 9 中没有wasi 实验性支持- 张善友- 博客园",
+          "link": "https://www.cnblogs.com/shanyou/p/18522918",
+          "snippet": "NET/C#开发者提供的工具，使得将代码编译为WebAssembly组件变得简单。这个由Bytecode Alliance发起的项目是一个NuGet包，允许从.NET应用程序创建完全AOT编译 ...",
+          "date": "23小时前",
+          "position": 9
+        },
+        {
+          "title": "泰州市中医院生物样本库数字化管理系统建设项目竞争性磋商公告",
+          "link": "http://www.tzszyy.com/index.php?r=site/detail&id=3567",
+          "snippet": "您现在的位置：首页> 信息公开> 招标公告 · 泰州市中医院生物样本库数字化管理系统建设项目竞争性磋商公告.",
+          "position": 10
+        },
+        {
+          "title": "性罪行定罪紀錄查核| 香港警務處",
+          "link": "https://www.police.gov.hk/ppp_tc/11_useful_info/scrc.html",
+          "snippet": "因應熱帶氣旋警告信號或暴雨警告信號發出時的特別安排，請按此。 最新消息. 由2024年12月中起，性罪行定罪紀錄查核機制範圍將擴大至涵蓋「準」自 ...",
+          "position": 11
+        },
+        {
+          "title": "性别中立 - Nonbinary Wiki",
+          "link": "https://nonbinary.wiki/wiki/Gender_neutral/zh-cn",
+          "snippet": "性别中立（Gender neutral），或称中立性别（neutral gender），是非二元和跨性别伞下的一个身份。性别中立的个体拥有中性的性别身份或表达, 或者认同偏好 ...",
+          "date": "2024年7月17日",
+          "position": 12
+        },
+        {
+          "title": "5000亿元买断式逆回购落地：本质上仍是资金业务定位为中短期流动 ...",
+          "link": "https://wap.stockstar.com/detail/IG2024110100008707",
+          "snippet": "公告显示，为维护银行体系流动性合理充裕，2024年10月人民银行以固定数量、利率招标、多重价位中标方式开展了5000亿元买断式逆回购操作，期限为6个月(182天) ...",
+          "date": "3天前",
+          "position": 13
+        },
+        {
+          "title": "每人1500元一次性发放！杭州这项补贴正在申领中 - 杭网议事厅",
+          "link": "https://hwyst.hangzhou.com.cn/mtld/content/2024-10/31/content_8807558.htm",
+          "snippet": "每人1500元一次性发放！杭州这项补贴正在申领中. hwyst.hangzhou.com.cn 2024年10月31日10:24:08 星期四. 今年，杭州市继续实施失业保险一次性扩岗补助政策，将一次性吸纳 ...",
+          "position": 14
+        },
+        {
+          "title": "存量房贷利率步入常态化调整阶段 - 中国证券报",
+          "link": "https://www.cs.com.cn/xwzx/hg/202411/t20241104_6451318.html",
+          "snippet": "... 性个人住房贷款利率实行新的定价机制，包括调整利率加点值 ... 此次重定价周期调整，借款人可选择3个月、6个月、12个月三种周期中的一种进行重定价。",
+          "date": "54分钟前",
+          "position": 15
+        },
+        {
+          "title": "第三次全国时间利用调查公报（第一号） - 国家统计局",
+          "link": "https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957217.html",
+          "snippet": "根据科学性、规范性、创新性原则，国家统计局充分总结前两次时间 ... 第三次全国时间利用调查的调查对象为抽中调查户和该户中6周岁及以上常住 ...",
+          "date": "4天前",
+          "position": 16
+        },
+        {
+          "title": "上海交大张洁课题组与Matteo Baggioli课题组合作在PRL发表关于 ...",
+          "link": "https://news.sjtu.edu.cn/jdzh/20241031/203448.html",
+          "snippet": "... 中取得重要进展。研究组基于活性布朗粒子体系实验证实了两年前被预测的弦 ... 该研究对理解非晶固体本征振动的奇异性这个上世纪留下的待解之谜有积极意义。",
+          "date": "4天前",
+          "position": 17
+        },
+        {
+          "title": "云存储中的日志管理与故障排查技巧有哪些？",
+          "link": "https://www.ctyun.cn/developer/article/606763024670789",
+          "snippet": "在现代分布式系统中，云存储已成为数据管理的核心组件。有效的日志管理和快速故障排查是确保云存储系统可靠性的关键。日志记录提供了深入了解系统行为 ...",
+          "date": "5天前",
+          "position": 18
+        },
+        {
+          "title": "养老学习旅游，银发经济催生新业态新需求",
+          "link": "https://www.ndrc.gov.cn/wsdwhfz/202410/t20241017_1393674.html",
+          "snippet": "此外，人才队伍性别结构和年龄结构也急需优化。”在胡宏伟看来，一方面，传统家庭分工中女性的照顾角色被延伸到家庭之外，在养老照护领域突出表现 ...",
+          "date": "2024年10月17日",
+          "position": 19
+        },
+        {
+          "title": "Cell | 葛烨晶团队揭示内源性逆转录病毒在成体干细胞中的激活影响 ...",
+          "link": "https://bydrug.pharmcube.com/news/detail/0aaef722b4d7ad1a1835cf094e9b5a97",
+          "snippet": "转座子（Transposon） 是远古入侵者在宿主基因组中整合，扩增和突变的产物，约占哺乳动物基因组的一半，被称为“基因化石”。 其中内源性逆转录病毒（endogenous retrovirus, ...",
+          "position": 20
+        },
+        {
+          "title": "基因魔剪当“画笔” 癌症耐药性遗传图谱绘成 - 国际科技创新中心",
+          "link": "https://www.ncsti.gov.cn/kjdt/kjrd/yyjk_kjrd/202410/t20241031_184125.html",
+          "snippet": "在一项大规模研究中，来自英国惠康桑格研究所、欧洲生物信息学研究所以及Open Targets平台的研究人员，以“基因魔剪”CRISPR技术为“画笔”，绘成癌症耐药性 ...",
+          "date": "4天前",
+          "position": 21
+        },
+        {
+          "title": "低压电缆在智能建筑中的重要性 - 千家网",
+          "link": "https://www.qianjia.com/html/2024-10/30_412521.html",
+          "snippet": "通过将供暖、通风、空调（HVAC）、安全和通信整合到一个集中平台，智能建筑实现了无与伦比的运营效率、舒适性和可持续性。 通过使用传感器、自动化和数据分析 ...",
+          "date": "5天前",
+          "position": 22
+        },
+        {
+          "title": "女性艺术家在当代艺术中的重要性与展览的深远影响 - 续航教育",
+          "link": "https://www.forwardpathway.com/135084",
+          "snippet": "通过Komal Shah的努力和展览的影响力，BAMPFA希望能够推动更广泛的对话，促进艺术界的性别平等，激励更多女性艺术家在创作中发声。 性别收入差距：艺术界的 ...",
+          "date": "4天前",
+          "position": 23
+        },
+        {
+          "title": "评论丨一次性地方化债，腾出更多资源保民生与促发展 - 21财经",
+          "link": "https://m.21jingji.com/article/20241030/e4b4bd064e3557d155b077de11ea891a.html",
+          "snippet": "... 中专门安排一定规模的债券用于支持化解存量政府投资项目债务以外，拟一次性增加较大规模债务限额置换地方政府存量隐性债务。财政部强调，这项即将实施 ...",
+          "date": "5天前",
+          "position": 24
+        },
+        {
+          "title": "关于嘉实中证A500交易型开放式指数证券投资基金新增流动性服务商 ...",
+          "link": "https://fund.stockstar.com/SN2024110300001515.shtml",
+          "snippet": "新增流动性服务商的公告 为促进嘉实中证 A500 交易型开放式指数证券投资基金（以下简称“A500 指数 ETF”）的市场流动性和平稳运行，根据《深圳证券交易 ...",
+          "date": "15小时前",
+          "position": 25
+        },
+        {
+          "title": "关于iPhone 的“失窃设备保护” - 官方Apple 支持(中国)",
+          "link": "https://support.apple.com/zh-cn/120340",
+          "snippet": "在iPhone 上的“面容ID 与密码”设置中，你可以打开. 始终需要采取额外的安全措施. 默认情况下，只有当你的iPhone 离开重要地点时，才需要采取“失窃 ...",
+          "position": 26
+        },
+        {
+          "title": "剑指“癌中之王”，摘取外科“皇冠明珠” - 上海科技报",
+          "link": "https://www.shkjb.com/content.html?id=236009",
+          "snippet": "为了提升胰腺癌手术的安全性、根治性和有效性，复旦大学附属肿瘤医院院长虞先濬教授带领研究团队，针对胰腺癌手术关键技术和干预策略进行了一系列创新。通过 ...",
+          "date": "5天前",
+          "position": 27
+        },
+        {
+          "title": "【GQ科普】什麼是順性別、跨性別、LGBTQ+？人的「性別認同 ...",
+          "link": "https://www.gq.com.tw/bettermen/article/%E6%80%A7%E5%88%A5%E8%AA%8D%E5%90%8C-%E6%80%A7%E5%88%A5%E5%B9%B3%E6%AC%8A-lgbtq",
+          "snippet": "談論多元性別的時候很常討論到「LGBT」，然而這個英文縮寫是由「女同性戀者Lesbian」、「男同性戀者Gay」、「雙性戀者Bisexual」與「跨性別者Transgender」 ...",
+          "date": "2024年6月24日",
+          "position": 28
+        },
+        {
+          "title": "https://zhuanlan.zhihu.com/p/594817408",
+          "link": "https://zhuanlan.zhihu.com/p/594817408",
+          "snippet": "没有此网页的信息。 · 了解原因",
+          "position": 29
+        },
+        {
+          "title": "我爱你,无关性别! 性别刻板印象这么多, 会给恋爱带来什么影响? 让 ...",
+          "link": "https://www.youtube.com/watch?v=4V5ALhxRsgw",
+          "snippet": "我爱你,无关性别! 性别刻板印象这么多, 会给恋爱带来什么影响? 让我们一起听听这对 ...\n时长： 1:00\n发布时间： 2023年2月14日",
+          "date": "2023年2月14日",
+          "position": 30
+        },
+        {
+          "title": "联合国可持续发展集团| 跨性别女性期待着自由平等的世界",
+          "link": "https://unsdg.un.org/zh/latest/videos/kuaxingbienuxingqidaizheziyoupingdengdeshijie",
+          "snippet": "此视频讲述了墨西哥城一个简陋街区的\"Casa de las Muñecas Tiresias\"庇护所中变 ...\n时长： 2:47\n发布时间： 2020年12月10日",
+          "date": "2020年12月10日",
+          "position": 31
+        },
+        {
+          "title": "流亡瑞士的中国跨性别人士：中国性少数群体生存状况堪忧 - YouTube",
+          "link": "https://www.youtube.com/watch?v=Up3raJ7ILro",
+          "snippet": "... 性少数团体相关微信公众号被强制关闭，相关团体相继因不可抗力终止运作。 现年24岁的中国大 ...\n时长： 3:11\n发布时间： 2023年7月16日",
+          "date": "2023年7月16日",
+          "position": 32
+        },
+        {
+          "title": "UNFPA 中国| 尊重、认识和参与：提高残障人士的性与生殖健康和权利",
+          "link": "https://china.unfpa.org/zh-Hans/video/2021120101",
+          "snippet": "这包括对性与生殖健康及权利的密切关注的差距，以及对基于性别的暴力的应对差距。 联合国人口 ...\n发布时间： 2021年12月1日",
+          "date": "2021年12月1日",
+          "position": 33
+        },
+        {
+          "title": "你是男是女？世界上有多少种性别？@菲上天#性别#情感#恋爱#泛爱 ...",
+          "link": "https://www.youtube.com/watch?v=y3SfCimOQHI",
+          "snippet": "你是男是女？世界上有多少种性别？@菲上天#性别#情感#恋爱#泛爱心理学.\n时长： 4:41\n发布时间： 2024年10月19日",
+          "date": "2024年10月19日",
+          "position": 34
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

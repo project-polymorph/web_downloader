@@ -1,0 +1,1266 @@
+{
+  "query": "跨性别 中国 新闻",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-02T21:35:06.455181",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "跨性别 中国 新闻",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "跨性别人群生存困境调查：多数人有遭受校园暴力经历 - 新闻频道",
+          "link": "http://news.cctv.com/2020/02/22/ARTIJ5mYNQzX05v1IZiDuRoN200222.shtml",
+          "snippet": "《2017中国跨性别群体生存现状调查报告》（以下简称《调查报告》）的调查数据显示，跨性别人群所面临的失业风险约为社会普通人群的3倍，工作环境对跨性别 ...",
+          "date": "2020年2月22日",
+          "position": 1
+        },
+        {
+          "title": "中国LGBT：“不可抗力”之下，性少数团体面临的困境- BBC News 中文",
+          "link": "https://www.bbc.com/zhongwen/simp/chinese-news-66040480",
+          "snippet": "从2021年起，中国最大的“骄傲”活动就一直处于暂停状态，显示近年LGBT群体在这个国家的活动越发困难。",
+          "date": "2023年6月28日",
+          "position": 2
+        },
+        {
+          "title": "调查报道| 中国跨性别女性的困境：买不到药的\"药娘\"",
+          "link": "https://www.rfa.org/mandarin/yataibaodao/shehui/mz-04262023144931.html",
+          "snippet": "本台根据采访的女性、新闻报道和社交媒体帖子得知，跨性别女性面临的困难导致其中一些人采取了比自制药物更极端的行动，包括自我切除睾丸。 Felicity是一 ...",
+          "date": "2023年4月26日",
+          "position": 3
+        },
+        {
+          "title": "买激素比买毒药难中国跨女掀自杀潮",
+          "link": "https://zh.wikinews.org/zh-cn/%E8%B2%B7%E6%BF%80%E7%B4%A0%E6%AF%94%E8%B2%B7%E6%AF%92%E8%97%A5%E9%9B%A3_%E4%B8%AD%E5%9C%8B%E8%B7%A8%E5%A5%B3%E6%8E%80%E8%87%AA%E6%AE%BA%E6%BD%AE",
+          "snippet": "在此一年前当局禁止电商对激素类药物的销售，导致中国跨性别圈的自杀现象不断加重。 二人自杀一个月后的12月6日，中山警方搜查并拘捕了在大湾区跨性别圈 ...",
+          "date": "2024年9月15日",
+          "position": 4
+        },
+        {
+          "title": "[PDF] 中国跨性别群体- 生存现状调查报告",
+          "link": "https://cnlgbtdata.com/files/uploads/2019/03/2017_%E4%B8%AD%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E7%BE%A4%E4%BD%93%E7%94%9F%E5%AD%98%E7%8E%B0%E7%8A%B6%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A-%E5%8F%AF%E8%A7%86%E5%8C%96.pdf",
+          "snippet": "指认同自己既不完全属于男性也不完全属于女性的人，是一. 种非二元性别身份的跨性别者。 • 跨性别女性（Transgender Woman）. 指认同自己是女性的跨性别者，又称男跨女（ ...",
+          "position": 5
+        },
+        {
+          "title": "超过一半的中国受访者表示同性恋、双性恋、跨性别者等多元群体 ...",
+          "link": "https://williamsinstitute.law.ucla.edu/press/china-press-release-chinese/",
+          "snippet": "超过一半的中国受访者表示同性恋、双性恋、跨性别者等多元群体应该被社会接纳 · 大多数受访者（70%）认识至少一位同性恋、双性恋、跨性别者等多元群体的 ...",
+          "date": "2024年7月2日",
+          "position": 6
+        },
+        {
+          "title": "中国前卫文艺空间受限：从《三体》编辑被查到金星演出被拒 - 美国之音",
+          "link": "https://www.voachinese.com/a/tabooed-science-fiction-transgenderism-and-halloween-stifle-chinese-literary-and-artistic-innovation/7843781.html",
+          "snippet": "近期，中国前卫文艺受到愈发严厉的限制。从《三体》出版人姚海军落马，到知名跨性别主持人金星的舞台剧《日出》在广州被拒演出，再到西洋万圣节被当局 ...",
+          "date": "7小时前",
+          "position": 7
+        },
+        {
+          "title": "中国一标志性同志机构“因不可抗力”关闭性少数群体倍感“唇亡齿寒”",
+          "link": "https://www.bbc.com/zhongwen/simp/chinese-news-65656315",
+          "snippet": "5月15日，在“国际不再恐同日”（全称为国际不再恐惧同性恋、跨性别与双性恋日，英文缩写IDAHOTB）的两天前，该机构宣布“因不可抗力”决定终止运营。最近几年 ...",
+          "date": "2023年5月22日",
+          "position": 8
+        },
+        {
+          "title": "“跨性别”给奥林匹克出了道难题 - 中国宁波网",
+          "link": "http://news.cnnb.com.cn/system/2024/08/03/030605586.shtml",
+          "snippet": "接着美国前总统特朗普也在自己的社交媒体上表态：“我不会支持男性参加女子体育比赛”。 阿尔及利亚拳手哈利夫. 这一切的一切似乎都指向哈利夫的“跨性别” ...",
+          "position": 9
+        },
+        {
+          "title": "【专题报道】中国“同志”等性和性别少数群体境遇有待改善 - UN News",
+          "link": "https://news.un.org/zh/story/2019/06/1036281",
+          "snippet": "在“骄傲月”期间，联合国新闻也就中国性少数群体所面临的一些挑战，采访了与开发计划署合作撰写《跨性别者性别认同的法律承认》评估报告的中华女子学院 ...",
+          "date": "2019年6月24日",
+          "position": 10
+        },
+        {
+          "title": "香港：跨性别行动者赖可不应被遣返回中国大陆 - 国际特赦组织",
+          "link": "https://zh.amnesty.org/content-type/more-resources/news/hong-kong-transgender-activist-must-not-be-deported-to-mainland-china/",
+          "snippet": "国际特赦组织记录到中国对跨性别者的系统性压迫和歧视。近年来，大规模的审查行动导致许多线上LGBTI公众号和社交媒体账户被关闭。这摧毁了线上和线下 ...",
+          "date": "2024年3月1日",
+          "position": 11
+        },
+        {
+          "title": "中国跨性别就业歧视第一案启动仲裁 - 纽约时报",
+          "link": "https://cn.nytimes.com/china/20160412/c12chinatrans/",
+          "snippet": "申请仲裁者出生性别为女性，他说，前雇主因为他穿着男性服装而将自己解雇。 中国官方媒体只透露这位28岁当事人的化名是C先生，他在接受采访时说，自从上 ...",
+          "date": "2016年4月12日",
+          "position": 12
+        },
+        {
+          "title": "关于2024年男女同性恋、双性恋、跨性别者、酷儿和间性者骄傲月的 ...",
+          "link": "https://china.usembassy-china.org.cn/zh/a-proclamation-on-lesbian-gay-bisexual-transgender-queer-and-intersex-pride-month-2024/",
+          "snippet": "美国驻华大使馆和领事馆. Language. English, 中文(中国). 目录. 美国公民通知栏 · 美国签证服务 · 护照服务 · 领事服务 · 公证事务 · 新闻及活动 · 工作 ...",
+          "date": "2024年6月5日",
+          "position": 13
+        },
+        {
+          "title": "新闻_中国人民大学人权研究中心",
+          "link": "http://humanrights.ruc.edu.cn/rqdt/xw/5326d7d5de7c4bd18cb44b9f76c35f69.htm",
+          "snippet": "... 跨性别者权利保障的立法；三、我国法院裁判的跨性别者案例；四、宪法平等下跨性别者权利保障。 首先，周老师提到2018年11月6日中国首次在联合国UPR正面回应LGBT+问题，中国 ...",
+          "position": 14
+        },
+        {
+          "title": "中国跨性别者悲歌:“家人决定我是谁” - DW",
+          "link": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85%E6%82%B2%E6%AD%8C%E5%AE%B6%E4%BA%BA%E5%86%B3%E5%AE%9A%E6%88%91%E6%98%AF%E8%B0%81/a-48800958",
+          "snippet": "台湾立法院上周五(5月17日)“国际不再恐同日”通过同性婚姻专法，让台湾成为亚洲第一个通过同性婚姻的国家，受到国际媒体的大幅度关注。然而中国的LGBTQ ...",
+          "date": "2019年5月20日",
+          "position": 15
+        },
+        {
+          "title": "中国跨性别就业平权第一案 - Radio Free Asia",
+          "link": "https://www.rfa.org/mandarin/yataibaodao/shehui/hj-12112019143336.html",
+          "snippet": "多家媒体报道，这起案件的主人公小马是一名跨性别者。她于去年完成性别重置手术后，被公司以“多次迟到”为由辞退，也没有获得相应赔偿。 中国 ...",
+          "date": "2019年12月11日",
+          "position": 16
+        },
+        {
+          "title": "国际跨性别现身日- 美国驻华大使馆和领事馆",
+          "link": "https://china.usembassy-china.org.cn/zh/transgender-day-of-visibility/",
+          "snippet": "国际跨性别现身日. 通过U.S. Mission China. 2 快速阅读. 四月2, 2024. 新闻声明. 安东尼·布林肯国务卿. 2024年3月31日. “国际跨性别现身日”（Transgender Day of ...",
+          "position": 17
+        },
+        {
+          "title": "[PDF] 跨性别者性别认同的法律承认",
+          "link": "https://www.undp.org/sites/g/files/zskgke326/files/migration/asia_pacific_rbap/81e35c0bbe5b80d746519d11bb00d20cb33c8990b529c6664137bf2127ce73cd.pdf",
+          "snippet": "在法律性别身份方面，中国跨性别者可以进行性别和 ... 在“广州美莱援助刘霆变性手术新闻发布会” ... 同语于2016 年3 月至6 月间完成的《中国大陆跨性别与间性人群体权利状况 ...",
+          "position": 18
+        },
+        {
+          "title": "中国跨性别人群：他/她们过的怎么样？ - DW",
+          "link": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E4%BA%BA%E7%BE%A4%E4%BB%96-%E5%A5%B9%E4%BB%AC%E8%BF%87%E7%9A%84%E6%80%8E%E4%B9%88%E6%A0%B7/a-18837257",
+          "snippet": "最近一档名为《金星秀》的脱口秀节目在中国颇为红火。众所周知的是，其主持人金星是一名变性者，但这一身份并未阻碍她取得成功。然而，更多的跨性别人 ...",
+          "date": "2015年11月14日",
+          "position": 19
+        },
+        {
+          "title": "年终报道：2017年中国LGBT人群现况与展望 - 美国之音",
+          "link": "https://www.voachinese.com/a/year-ender-china-lgbt-20171229/4184970.html",
+          "snippet": "跨性别权益活动人士齐霁认为，中国官方媒体CGTN制播了性少数人群专题报道是一大进步。齐霁认为，“背后一定离不开很多人的努力，包括体制内部一些默默支持 ...",
+          "date": "2017年12月30日",
+          "position": 20
+        },
+        {
+          "title": "[PDF] 公众对变性人士权利的看法: 中国 - Williams Institute",
+          "link": "https://williamsinstitute.law.ucla.edu/wp-content/uploads/Public-Opinion-Trans-China-Chinese-Jun-2021.pdf",
+          "snippet": "... 跨性别女性与一位顺式男性。 36 Liao Aiwan (2016). 中国大陆跨性别与间性人的权利状况——对媒体报道的研究(The Rights of Transgender and Intersex. People in ...",
+          "position": 21
+        },
+        {
+          "title": "中国： 跨性别者冒着生命危险自行做高风险手术 - 国际特赦组织",
+          "link": "https://zh.amnesty.org/content-type/more-resources/news/china-transgender-research-report/",
+          "snippet": "这包括通过社交媒体聊天群、网店及海外代购购买药物，而这些药物的价格通常比合法市场的高出许多。在与国际特赦组织交谈的受访者中，没有一个人在开始服用 ...",
+          "date": "2019年5月10日",
+          "position": 22
+        },
+        {
+          "title": "中华人民共和国跨性别权益- 维基百科",
+          "link": "https://zh.wikipedia.org/zh-cn/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E6%9D%83%E7%9B%8A",
+          "snippet": "跨性别是一个概括性术语，用来描述性别认同或 ... 在中国，跨性别者可在接受性别重置手术后更改法定 ... 变性人群体真实生态：唯学历证明无法修改性别 (新闻稿).",
+          "position": 23
+        },
+        {
+          "title": "中国跨性别者被解雇，法院：无歧视证据 - 纽约时报",
+          "link": "https://cn.nytimes.com/china/20170103/china-transgender-lawsuit/",
+          "snippet": "... 跨性别歧视的结果。 “我们还是会有一点遗憾，”原告代理律师黄沙说，中国的官办新闻媒体在报道中只以“C先生”称呼这位28岁的跨性别男性，在一次电话采访 ...",
+          "date": "2017年1月3日",
+          "position": 24
+        },
+        {
+          "title": "陈润森研究团队及其合作者在《柳叶刀· 公共卫生》发表跨性别群体 ...",
+          "link": "https://vsph.tsinghua.edu.cn/info/1028/1111.htm",
+          "snippet": "... 中国跨性别及性別不一致群体的心理健康状况系统性综述”（The mental health of transgender and gender non-conforming people in China: a systematic review）”。本 ...",
+          "position": 25
+        },
+        {
+          "title": "[PDF] 2021全国跨性别健康调研报告",
+          "link": "https://cnlgbtdata.com/files/uploads/2023/01/2021%E5%85%A8%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E5%81%A5%E5%BA%B7%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.pdf",
+          "snippet": "2021全国跨性别健康调研是继2017年中国跨性别群体 ... 2. 样本中包括跨性别男性、跨性别女性、性别酷 ... 开发媒体指南，引导其正确报道跨性别者；. 为未成年跨 ...",
+          "position": 26
+        },
+        {
+          "title": "跨性别者性别认同的法律承认—中国相关法律和政策评估报告",
+          "link": "https://www.undp.org/zh/china/publications/kuaxingbiezhexingbierentongdefaluchengren-zhongguoxiangguanfaluhezhengcepinggubaogao",
+          "snippet": "这份区域性报告评估了孟加拉国、中国、印度、尼泊尔、巴基斯坦、菲律宾和泰国等国关于性别法律承认的法律、法规和政策。亚太跨性别网络（APTN）在 ...",
+          "date": "2018年8月5日",
+          "position": 27
+        },
+        {
+          "title": "国际跨性别现身日",
+          "link": "https://www.state.gov/translations/chinese/transgender-day-of-visibility-2-zh/",
+          "snippet": "新闻声明. 安东尼·布林肯国务卿 2024年3月31日. “国际跨性别现身日”（Transgender Day of Visibility）是对生活在世界各国和各种文化中的跨性别者、非 ...",
+          "date": "2024年3月31日",
+          "position": 28
+        },
+        {
+          "title": "美国防部称正等待白宫关于跨性别者服兵役的正式指引-新华网",
+          "link": "http://news.xinhuanet.com/world/2017-07/28/c_129665863.htm",
+          "snippet": "美国防部称正等待白宫关于跨性别者服兵役的正式指引---在美国总统特朗普在社交媒体上 ... 2017-07-28 08:21:04 来源： 中国新闻网. 关注新华网 ... 男同性恋、双性恋、跨性别者)。",
+          "position": 29
+        },
+        {
+          "title": "跨性别者和多元性别者的斗争 - ohchr",
+          "link": "https://www.ohchr.org/zh/special-procedures/ie-sexual-orientation-and-gender-identity/struggle-trans-and-gender-diverse-persons",
+          "snippet": "解决媒体对跨性别者和非常规性别者的负面和／或刻板报道问题；; 采取措施保护跨性别和多元性别儿童免受一切形式的歧视和暴力，包括霸凌；; 审查加剧警方基于性别认同 ...",
+          "position": 30
+        },
+        {
+          "title": "拜登政府颁布新政：保护同性恋和跨性别者在医疗领域不受歧视",
+          "link": "https://news.cctv.com/2021/05/10/ARTIYZcXgcgaPaSNUPUx7PWY210510.shtml",
+          "snippet": "... 跨性别者在医疗保健领域免受性别 ... 视频小央视频小央直播直播中国熊猫频道VR/AR4K专区全景新闻 ... 跨性别者在医疗保健领域免受性别歧视。 据 ...",
+          "date": "2021年5月10日",
+          "position": 31
+        },
+        {
+          "title": "专访：日本跨性别人士的隐蔽抗争 - Human Rights Watch",
+          "link": "https://www.hrw.org/zh-hans/news/2019/03/19/328226",
+          "snippet": "例如，一位受访的跨性别女性就因为顾虑风险而没有接受手术。 ... 2019年03月19日 新闻稿. 日本：跨性别人士遭强制 ... 中国对LGBT人士的扭转治疗. Main Image ...",
+          "date": "2019年3月19日",
+          "position": 32
+        },
+        {
+          "title": "新闻多一度丨“跨性别”选手引争议，在体育竞技上男女差异有多大？",
+          "link": "https://news.sina.cn/2024-08-04/detail-inchnqma6668276.d.html",
+          "snippet": "... 跨性别”选手参与体育运动的讨论上。 那么是谁泄露了哈利夫的“跨性别”身份呢?那就是国际拳击协会(IBA)。在去年的新德里世锦赛上，哈利夫和中国台北的 ...",
+          "date": "2024年8月4日",
+          "position": 33
+        },
+        {
+          "title": "中华人民共和国LGBT权益- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BDLGBT%E6%9D%83%E7%9B%8A",
+          "snippet": "跨性别者的法律性别变更可行，但须完成全套性别肯定手术。中国社会对LGBT人士仍有一定的歧视性观念，针对LGBT人士的民间扭转依然存在 ...",
+          "position": 34
+        },
+        {
+          "title": "跨性别男性免疫反应差异需关注 - 新闻- 科学网",
+          "link": "https://news.sciencenet.cn/htmlnews/2024/9/529355.shtm",
+          "snippet": "作者：冯维维来源：中国科学报发布时间：2024/9/5 16:18:45. 选择字号：小 中 大. 跨性别男性免疫反应差异需关注. 瑞典科学家研究发现，跨性别男性（出生性别女性）在 ...",
+          "position": 35
+        },
+        {
+          "title": "[PDF] 摘要",
+          "link": "https://upr-info.org/sites/default/files/documents/2019-04/js16_upr31_chn_e_annexe1.pdf",
+          "snippet": "(2017 中国跨性别群体生存现状调查报告), http://chinadevelopmentbrief. ... cn/news/z/2014-11-26/detail-icczmvun0427077.shtml ... Gender Expression, May 16, 2016, p.22 ...",
+          "position": 36
+        },
+        {
+          "title": "跨性别_百度百科",
+          "link": "https://baike.baidu.com/item/%E8%B7%A8%E6%80%A7%E5%88%AB/6234644",
+          "snippet": "... 性教育。包括跨性别在内的性别 ... 中国第一个“跨性别门诊”. 跨性别者有多疯狂？亲自动手 ... https://www.hollywoodreporter.com/news/lana-wachowski-reveals-suicide-plan- ...",
+          "position": 37
+        },
+        {
+          "title": "【新闻】人权法诊所课系列之模拟法庭成功举办",
+          "link": "https://rqyjy.cupl.edu.cn/info/1040/4684.htm",
+          "snippet": "2023年4月11日和4月18日下午，人权法诊所课三场模拟法庭（职场性骚扰案、怀孕歧视案、跨性别就业歧视案）在中国政法大学人权研究院刘小楠教授的组织下 ...",
+          "date": "2023年4月19日",
+          "position": 38
+        },
+        {
+          "title": "刘以翎| 赌上生命的踽踽万里并非孤立无援——一名跨性别政治异见者 ...",
+          "link": "https://yibaochina.com/?p=249487",
+          "snippet": "而中共编造青少年改变性别会后悔的新闻，是其为了宣扬极端民族主义的洗脑民众的工具。 ... 2022年，有一位生理性别为男的跨性别 ... 跨性别中国公民提供了庇护 ...",
+          "date": "2023年2月14日",
+          "position": 39
+        },
+        {
+          "title": "《纽约时报》与LGBT人士吵起来了-观察者网",
+          "link": "https://www.guancha.cn/internation/2023_02_19_680535.shtml",
+          "snippet": "（观察者网讯）近日，美国自由派旗帜级媒体《纽约时报》与支持跨性别权利者闹得很不愉快。据英国《卫报》、美国《纽约每日新闻》等外媒2月18日报道， ...",
+          "date": "2023年2月19日",
+          "position": 40
+        },
+        {
+          "title": "日本法院推翻跨性别者强制绝育规定 - Human Rights Watch",
+          "link": "https://www.hrw.org/zh-hans/news/2023/10/16/japan-court-rules-against-mandatory-transgender-sterilization",
+          "snippet": "2021年，日本跨性别男性铃木元（Gen Suzuki ... 中国对LGBT人士的扭转治疗. Main Image for ... 2018年11月12日 新闻稿. 巴基斯坦：女童被剥夺 ...",
+          "date": "2023年10月16日",
+          "position": 41
+        },
+        {
+          "title": "拜登将今年复活节定为“跨性别可见日” - RFI",
+          "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20240331-%E6%8B%9C%E7%99%BB%E5%B0%86%E4%BB%8A%E5%B9%B4%E5%A4%8D%E6%B4%BB%E8%8A%82%E5%AE%9A%E4%B8%BA-%E8%B7%A8%E6%80%A7%E5%88%AB%E5%8F%AF%E8%A7%81%E6%97%A5",
+          "snippet": "... ，宣布将今年的复活节3月31日定为“跨性别可见日”， ... 电邮新闻头条新闻就在您的每日新闻信里. 订阅 ... 布林肯再次呼吁强化“中国组” 应对中国挑战.",
+          "date": "2024年3月31日",
+          "position": 42
+        },
+        {
+          "title": "美众议院通过法案禁止跨性别者参加学校女子体育比赛 - 中国新闻网",
+          "link": "https://www.chinanews.com.cn/gj/2023/04-21/9993949.shtml",
+          "snippet": "(记者沙晗汀)美国国会众议院当地时间20日表决通过一项法案，禁止跨性别者参加学校女子体育比赛。该法案规定，对于接受联邦资金支持的学校， ...",
+          "date": "2023年4月21日",
+          "position": 43
+        },
+        {
+          "title": "GS点｜平等视角：中国首家跨性别门诊——只有来诊者，没有患者",
+          "link": "https://chinadigitaltimes.net/chinese/707461.html",
+          "snippet": "中国约有400万跨性别人口，TA们是一群灵魂被困在错误身体中的人。这其中，获得父母的支持往往是最大的挑战。",
+          "date": "2024年4月30日",
+          "position": 44
+        },
+        {
+          "title": "跨性别人群生存困境调查：求职困难，多数曾遭受校园暴力 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/kuaibao_detail.jsp?contid=6073208&from=kuaibao",
+          "snippet": "... 男性，也不完全属于女性，而是一种非二元性别身份的跨性别者）。 根据联合国的相关研究表明，亚太地区有0.3%的人口是跨性别者。按比例估算，中国的跨性别者约有400万人 ...",
+          "position": 45
+        },
+        {
+          "title": "2011年国际不再恐同日：共同行动，消除歧视",
+          "link": "http://www.unaids.org.cn/page122?article_id=101",
+          "snippet": "社交媒体和新媒体亦紧密关注这些话题。“近年来，中国的同性恋人群和跨性别者在网络上表现极为活跃。”李银河教授指出，“他们通过互联网进入公众视野，发现同类、并互相支持 ...",
+          "position": 46
+        },
+        {
+          "title": "流亡瑞士的中国跨性别人士：中国性少数群体生存状况堪忧 - Swissinfo",
+          "link": "https://www.swissinfo.ch/chi/%E8%BA%AB%E4%BB%BD%E8%AE%A4%E5%90%8C/%E6%B5%81%E4%BA%A1%E7%91%9E%E5%A3%AB%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E4%BA%BA%E5%A3%AB-%E4%B8%AD%E5%9B%BD%E6%80%A7%E5%B0%91%E6%95%B0%E7%BE%A4%E4%BD%93%E7%94%9F%E5%AD%98%E7%8A%B6%E5%86%B5%E5%A0%AA%E5%BF%A7/48659024",
+          "snippet": "就在上个月世界各地区为表达对同性恋、双性恋、跨性别群体的支持和认同，纷纷举行“骄傲月”游行之际，中国却一如既往地保持着沉默。",
+          "date": "2023年7月13日",
+          "position": 47
+        },
+        {
+          "title": "在跨性别青少年门诊，目睹中国家庭的撕裂 - QQ News",
+          "link": "https://news.qq.com/rain/a/20230114A06MUS00?no-redirect=1",
+          "snippet": "在跨性别青少年门诊，目睹中国家庭的撕裂 ... 不同人对跨性别门诊的印象，大致是两个极端。有人将这里当成精神世界的避风港，残酷生活的逃难所，有人将这里 ...",
+          "date": "2023年1月14日",
+          "position": 48
+        },
+        {
+          "title": "跨性別| 關鍵字新聞| 中央社CNA",
+          "link": "https://www.cna.com.tw/tag/17699/",
+          "snippet": "關於跨性別的中央社新聞: 跨性別遊行首度移師228公園2500人上街發聲、NCAA女排跨性別風暴4大學棄賽聖荷西州大加強安全、跨性別申請男變女遭拒法院令戶政等補件再處分.",
+          "position": 49
+        },
+        {
+          "title": "支持壳牌的LGBT 人才",
+          "link": "https://www.shell.com.cn/zh_cn/careers/diversity-inclusion/lgbt-talent-at-shell.html",
+          "snippet": "头条新闻. 了解壳牌在中国的发展历程和业务范畴 我们是谁 ... 壳牌支持和帮助具有各种背景的卓越人才，并努力成为工作场所内女同性恋者、男同性恋者、双性恋者与跨性别者( ...",
+          "position": 50
+        },
+        {
+          "title": "王恒| 吾栖之肤：跨性别者的性别认同与具身实践——基于在北京市 ...",
+          "link": "http://www.shehui.pku.edu.cn/wap/second/index.aspx?nodeid=2030&page=ContentPage&contentid=10195",
+          "snippet": "研究方向：跨性别研究、酷儿理论、社会运动。本文节选自北京大学第29届挑战杯正赛特等奖获奖论文，曾在2021年中国 ...",
+          "position": 51
+        },
+        {
+          "title": "中國前衛文藝空間受限：從《三體》編輯被查到金星演出被拒",
+          "link": "https://www.voacantonese.com/a/tabooed-science-fiction-transgenderism-and-halloween-stifle-chinese-literary-and-artistic-innovation/7848908.html",
+          "snippet": "新聞自由 · 揭謊頻道 · 美國 · 中國 · 國際 · 經貿; 視頻 ... 中国前卫文艺正受到愈发严厉的限制：从 ... 同性戀或跨性別等性少數群體，過去在中國長期 ...",
+          "date": "4小时前",
+          "position": 52
+        },
+        {
+          "title": "报告：中国跨性别群体缺乏法律保护，承受过多歧视 - 政经",
+          "link": "https://china.caixin.com/2018-08-07/101312508.html",
+          "snippet": "一份评估报告显示，在中国，跨性别群体在法律、就业、医疗、公共服务、教育等方面仍面临不同程度的歧视. news 原图 由于缺乏法律保护，跨性别者在中国 ...",
+          "date": "2018年8月7日",
+          "position": 53
+        },
+        {
+          "title": "跨性别人群生存困境调查：多数人有遭受校园暴力经历 - 江西",
+          "link": "http://jx.people.com.cn/n2/2020/0222/c186330-33818908.html",
+          "snippet": "... 性别，主要包括跨性别男性、跨性别女性和性别酷儿 ... 《2017中国跨性别群体生存现状调查报告》(以下 ... 视频新闻. 人民访谈独家. 人民访谈. 独家; 航拍江西 ...",
+          "date": "2020年2月22日",
+          "position": 54
+        },
+        {
+          "title": "你需要知道的关于在押跨性别者的待遇 - The Legal Aid Society",
+          "link": "https://legalaidnyc.org/zh-CN/%E5%BE%97%E5%88%B0%E5%B8%AE%E5%8A%A9/%E4%BF%9D%E9%87%8A%E7%9B%91%E7%A6%81/%E5%85%B3%E4%BA%8E%E8%B7%A8%E6%80%A7%E5%88%AB%E5%9C%A8%E5%9B%9A%E4%BA%BA%E5%A3%AB%E7%9A%84%E5%BE%85%E9%81%87%E4%BD%A0%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%8B/",
+          "snippet": "... CN 简体中文. English · Español · Français · Kreyol ... 在监狱中，极少数跨性别女性被关押在女子监狱中。 ... 新闻与博客 · 声明 · 新闻中心 · 办公地点 · 反馈表. 联系我们.",
+          "position": 55
+        },
+        {
+          "title": "中国跨性别者非自杀倾向自残行为研究——流行率和风险因素的横断 ...",
+          "link": "https://www.hanspub.org/journal/paperinformation?paperid=48438",
+          "snippet": "... 中国跨性别人群(M = 27.2, SD = 6.57)，通过在线问卷完成调查。所有被试被要求对身体意象量表、罗森伯格自尊量表、跨性别社会歧视量表、内化恐跨 ... 新闻 · 合作 · 我们.",
+          "position": 56
+        },
+        {
+          "title": "跨性别与顺女对谈：公共卫生间的恐惧和尴尬中 - 端傳媒",
+          "link": "https://theinitium.com/zh-hans/opinion/20230331-opinion-talk-toilet-public-space-use-trans-and-ciswomen",
+          "snippet": "... ？顺性别女性和跨性别者在其中分别有怎样的经历？ ... “有时候，我会偷偷把公司茶水间放新闻的那台 ... 有的学生曾经私底下对我表达过这个意思，中国人民不 ...",
+          "date": "2023年3月31日",
+          "position": 57
+        },
+        {
+          "title": "LGBT | Recording Civic Action in China - Spotlight at Stanford",
+          "link": "https://exhibits.stanford.edu/chinese-ngos/browse/lgbt?page=2",
+          "snippet": "华人拉拉联盟成立于2008年，由来自大陆、香港、澳門、台湾、美国等地的拉拉組织及个人组成。联盟宗旨：为华人及华語地区的女同性恋、女双性恋、爱女人的跨性別、间性人等 ...",
+          "position": 58
+        },
+        {
+          "title": "美国防部长:禁令落实计划出炉前跨性别仍可从军 - 新闻- 中国网",
+          "link": "http://news.china.com.cn/world/2017-08/30/content_41501578.htm",
+          "snippet": "据外媒报道，美国总统特朗普25日签署备忘录禁止跨性别者从军之后，国防部长马蒂斯29日表示，在他向特朗普提出落实禁令的建言之前，现行跨性别者服役的 ...",
+          "date": "2017年8月30日",
+          "position": 59
+        },
+        {
+          "title": "[PDF] 全球跨性别健康与幸福指数议题",
+          "link": "https://transrespect.org/wp-content/uploads/2018/12/TvT-PS-Vol20-2018_CN.pdf",
+          "snippet": "精神科医生仍然认为我是一. 种会行走疾病...”22. 中东和北非国家的媒体通过传播虚假信息和极具破坏性的. 刻板印象，很大程度上限制了跨性别者们获得医疗保健的机会。 这使 ...",
+          "position": 60
+        },
+        {
+          "title": "为逃离德克萨斯州针对跨性别的法案美国家庭到明尼苏达州生活",
+          "link": "https://www.voachinese.com/a/7083969.html",
+          "snippet": "... 跨性别者提供医保。研究显示生活于相对包容环境的跨性别 ... 分类新闻. 经济·金融·贸易 人权·法律·宗教 科教 ... 为什么中国报复社会型暴力事件激增和蔓延？",
+          "date": "2023年5月9日",
+          "position": 61
+        },
+        {
+          "title": "你的国家对跨性别者有多大的支持度？ - 世界经济论坛",
+          "link": "https://cn.weforum.org/stories/2017/01/839596e7-4293-4d70-bd24-0bf290c9bbb3/",
+          "snippet": "根据2016年12月发布的一个投票，西班牙是对跨性别者权利最为支持的国家。这个调查由新闻网站BuzzFeed、调查公司Ipsos和加州大学洛杉矶分校法律学院 ...",
+          "date": "2017年1月9日",
+          "position": 62
+        },
+        {
+          "title": "难以跨越的“隐形门”：跨性别者职场生存记 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/kuaibao_detail.jsp?contid=5530241&from=kuaibao",
+          "snippet": "对此，在一些国家和中国港澳台地区，反就业歧视立法与判例有举证责任转移规则。刘明辉介绍，“也就是原告举出求职被拒绝、被辞退的证据后，举证责任就转移给了被告 ...",
+          "position": 63
+        },
+        {
+          "title": "联合国庆祝第20个国际不再恐惧同性恋、双性恋与跨性别日 - UN News",
+          "link": "https://news.un.org/zh/story/2024/05/1128726",
+          "snippet": "5月17日是第20个国际不再恐惧同性恋、双性恋与跨性别日。今年的主题是“不让任何一个人掉队：人人享有平等、自由和正义”。联合国秘书长古特雷斯表示， ...",
+          "date": "2024年5月16日",
+          "position": 64
+        },
+        {
+          "title": "中国女拳手不敌“性别争议”选手！网友：杨柳很棒了，打不过没什么",
+          "link": "https://cbgc.scol.com.cn/news/5283833",
+          "snippet": "... 跨性别”选手参与体育运动的讨论。 国际奥委会后 ... 中国新闻社; 前天. 大咖话川酒丨杨柳：“大国浓香 ... 德国接连发生针对中国女性的强奸案，中国驻法兰克福 ...",
+          "date": "2024年8月10日",
+          "position": 65
+        },
+        {
+          "title": "大城市对同性恋文化更加包容 - 中国日报网",
+          "link": "https://cn.chinadaily.com.cn/2016-07/01/content_25933841.htm",
+          "snippet": "6月5月，中国举行了第二届年度中国LGBT人才招聘会，主办方是非营利性商务网站同志商务（WorkForLGBT），意在支持女同、男同、双性恋以及跨性别者群体， ...",
+          "date": "2016年7月1日",
+          "position": 66
+        },
+        {
+          "title": "正视孩子的性别不安跨性别者迎向阳光 - 联合早报",
+          "link": "https://www.zaobao.com.sg/lifestyle/familynlove/story20230827-1426972",
+          "snippet": "支援跨性别青年的Transbefrienders由两名跨性别 ... 即时新闻 · 中国 8分钟前. 中共昆明市委书记：严格 ... 在中国的用户请游览zaobao.com. 提醒：新加坡 ...",
+          "date": "2023年8月27日",
+          "position": 67
+        },
+        {
+          "title": "中国的跨性别者_手机搜狐网",
+          "link": "https://www.sohu.com/a/278757709_157906",
+          "snippet": "按平均比例推算，跨性别者就有400多万。 2017年11月，首份《中国跨性别群体生存现状调查报告》显示，. 展开剩余96%.",
+          "date": "2021年12月22日",
+          "position": 68
+        },
+        {
+          "title": "科学家质疑世界田径联合会禁止跨性别女性参赛 - 论文- 科学网",
+          "link": "https://news.sciencenet.cn/htmlnews/2023/4/497940.shtm",
+          "snippet": "首页 | 新闻 | 博客 | 院士 | 人才 | 会议 | 基金·项目 | 论文 | 视频·直播 | 小柯机器人 | 医学科普. 作者：辛雨来源：中国 ... 跨性别女性以保护女性群体 ...",
+          "date": "2023年4月6日",
+          "position": 69
+        },
+        {
+          "title": "川普藉反跨性别广告攻击贺锦丽拉拢未表态选民 - RFI",
+          "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85%E6%8A%A5%E9%81%93/20241030-%E5%B7%9D%E6%99%AE%E8%97%89%E5%8F%8D%E8%B7%A8%E6%80%A7%E5%88%AB%E5%B9%BF%E5%91%8A%E6%94%BB%E5%87%BB%E8%B4%BA%E9%94%A6%E4%B8%BD-%E6%8B%89%E6%8B%A2%E6%9C%AA%E8%A1%A8%E6%80%81%E9%80%89%E6%B0%91",
+          "snippet": "中国 · 台海 · 法国 · 亚洲 · 非洲 · 美洲 · 欧洲 · 中东. 川普 ... 身为非裔跨性别女性的琼斯还说，这些 ... 电邮新闻 · 如何收听法广 · 应用. 应用. 应用.",
+          "date": "4天前",
+          "position": 70
+        },
+        {
+          "title": "万斯暗示中上层白人孩子或为进名校成为跨性别者 - 文学城",
+          "link": "https://www.wenxuecity.com/news/2024/11/01/125848539.html",
+          "snippet": "中国自媒体对美国政客的言论非常着迷，这么崇拜美国人啊。 Bhistory 发表评论于 2024-11-01 10:51:55. 我身边就有这样的，白人 ...",
+          "date": "1天前",
+          "position": 71
+        },
+        {
+          "title": "跨性别者性别认同的法律承认—中国相关法律和政策评估报告 - Issuu",
+          "link": "https://issuu.com/undp-china/docs/_____________",
+          "snippet": "中国对跨性别者性别认同的法律承认的最新规定 ... 性别人群（包括跨性别男性，跨性别女性，性别酷儿 ... 跨性别与间性人群体权利状况报告》，根据媒体报.",
+          "date": "2018年8月6日",
+          "position": 72
+        },
+        {
+          "title": "市长签行政令纽约跨性别者可自由选择男女厕所 - 中国青年网",
+          "link": "http://news.youth.cn/jsxw/201603/t20160308_7717909.htm",
+          "snippet": "市长签行政令纽约跨性别者可自由选择男女厕所. 2016-03-08 10:42 来源：中国新闻网. 中新网3月8日电据外媒报道，为了遏制对跨性别人士的歧视和骚扰，美国纽约市长白思 ...",
+          "position": 73
+        },
+        {
+          "title": "【中新网】学者：跨性别男男性行为者的HIV感染率更高、传播风险更大",
+          "link": "https://www.shsmu.edu.cn/news/info/1007/4492.htm",
+          "snippet": "跨性别人群(transgender people)通常指那些不认为自己的性别，与他们出生时基于生殖器官而被决定的性别，表现一致的人。研究人员告诉记者，中国目前尚无 ...",
+          "date": "2016年11月9日",
+          "position": 74
+        },
+        {
+          "title": "儿子变女儿：英国最年轻跨性别者年仅3岁(图) - 时政",
+          "link": "https://china.zjol.com.cn/system/2015/12/08/020944015.shtml",
+          "snippet": "... 中国新闻网. 苏格兰一名3岁男童丹尼尔原本只是不喜欢穿男孩子的衣服，想不到某日他对妈妈表示想做变性手术当女孩。 中新网12月8日电据英国媒体报道 ...",
+          "date": "2015年12月8日",
+          "position": 75
+        },
+        {
+          "title": "洛杉矶市长呛声特朗普跨性别者兵役禁令 - 人民政协网",
+          "link": "http://www.rmzxb.com.cn/c/2017-07-27/1681888.shtml",
+          "snippet": "贾塞提说，“特朗普总统关于禁止跨性别者服兵役的决定，有悖于美国自由平等的价值观。 ... 洛杉矶市长呛声特朗普跨性别者兵役禁令. 2017-07-27 ... 禁止跨性别者(TRANSGENDER)服兵役的 ...",
+          "position": 76
+        },
+        {
+          "title": "跨性別者在中國的待遇與威脅—守舊思想趕得上新時代嗎？",
+          "link": "https://insidechina.rti.org.tw/news/view/id/2165571",
+          "snippet": "中國的跨性別人士在體系下缺乏法律保護、承受社會污名和醫療障礙。圖為北京同志中心閱覽空間。（資料照片／中央社）. 跨性別人士這個議題，不論在台灣 ...",
+          "date": "2023年4月22日",
+          "position": 77
+        },
+        {
+          "title": "提倡给予的文化，创造不同的世界 - Apple (中国)",
+          "link": "https://www.apple.com.cn/newsroom/2019/01/out-of-a-culture-of-giving-a-world-of-difference/",
+          "snippet": "自Apple 志愿者计划开始实施以来，Terence MacSwiney 学校的校长Phil O'Flynn 亲眼见证了学生们的巨大转变。 在中国 ... “作为跨性别者，很多时候你都会觉得 ...",
+          "date": "2019年1月21日",
+          "position": 78
+        },
+        {
+          "title": "终迎来法律保障！澳跨性别者可更换新出生证明 - 新华网",
+          "link": "http://www.xinhuanet.com/world/2016-08/19/c_129241068.htm",
+          "snippet": "澳跨性别者可更换新出生证明---据澳洲网18日报道，根据澳大利亚维州18日出台的一项新法律，变性者、多样性别者(gender diverse)或跨性别 ... 中国新闻网. 我 ...",
+          "date": "2016年8月19日",
+          "position": 79
+        },
+        {
+          "title": "如何运用联合国机制推动同志在中国的平等权利 - Open Global Rights",
+          "link": "https://www.openglobalrights.org/using-the-un-to-advance-lgbt-rights-in-china/?lang=Chinese",
+          "snippet": "行动者也将政府在禁止酷刑委员会审议中对同志的正面表态放进了当时正在进行的一起关于同性恋“扭转治疗”诉讼的媒体报道中。2016年首例跨性别就业歧视诉讼中 ...",
+          "date": "2018年11月6日",
+          "position": 80
+        },
+        {
+          "title": "台湾首位跨性别部长唐凤：我的母题，是和每个人站在一起 - 歪脑",
+          "link": "https://www.wainao.me/wainao-reads/audrey-tang-takes-all-sides-10082020",
+          "snippet": "她是台湾第一位跨性别官员，也是国际知名的公民黑客。许多媒体称唐凤“天才IT大臣”、“最年轻的跨性别部长”，但她却认为，自己更像一座桥，跨越二元，开放各 ...",
+          "date": "2020年10月9日",
+          "position": 81
+        },
+        {
+          "title": "张田勘：跨性别正蚕食奥运会公平公正 - 联合早报",
+          "link": "https://www.kzaobao.com/mon/keji/20240814/167315.html",
+          "snippet": "... ，分出男性、女性和跨性别 ... 新闻排行榜 · 郑永年 · 于泽远 · 联合早报 · 即时新闻 ... 中国尸体盗卖案20年后规模扩大分析：暴露中国刑法不 ...",
+          "date": "2024年8月14日",
+          "position": 82
+        },
+        {
+          "title": "德国通过性别自决法 - 维基新闻:首页",
+          "link": "https://zh.wikinews.org/zh-cn/%E5%BE%B7%E5%9C%8B%E9%80%9A%E9%81%8E%E6%80%A7%E5%88%A5%E8%87%AA%E6%B1%BA%E6%B3%95",
+          "snippet": "... 性别自决法; 2024年4月13日(星期六)：​教廷宣言批变性、代孕威胁人性尊严; 2024年3月11日(星期一)：​买激素比买毒药难中国跨女掀自杀潮; 2024年1月26日 ...",
+          "date": "2024年4月15日",
+          "position": 83
+        },
+        {
+          "title": "跨性别者- 中国数字时代",
+          "link": "https://chinadigitaltimes.net/chinese/tag/%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85",
+          "snippet": "... 中国数字时代网站时，按下下面这个开关按钮，为全世界想要自由获取信息的人提供一个安全的“桥梁”。这个开源项目由蓝灯（lantern）提供，了解详情。 CDT 新闻简报. 读者 ...",
+          "position": 84
+        },
+        {
+          "title": "特朗普政府废除奥巴马留下的“跨性别厕所令” - 中国经济网",
+          "link": "http://m.ce.cn/gj/gd/201702/23/t20170223_20470889.shtml",
+          "snippet": "2017-02-23 21:43 来源：中国新闻网. 中新网2月23日电据外媒报道,美国新政府22日推翻前任总统奥巴马留下的备受争议的“跨性别厕所令”。 “跨性别厕所令”要求全美公立学校 ...",
+          "position": 85
+        },
+        {
+          "title": "跨性别女性在中国：当“妳”只被允许成为“你” | 端传媒Initium Media",
+          "link": "https://theinitium.com/zh-hans/article/20230323-mainland-mtf-all-ask-for-is-a-chance-to-live",
+          "snippet": "中央电视台等官方媒体曾多次报导过，此类机构应用的方式多是电击疗法、棍棒教育，甚至是强奸，但它依托源源不断的受众——中国父母，仍活跃在大陆，未遭取缔 ...",
+          "date": "2023年3月23日",
+          "position": 86
+        },
+        {
+          "title": "中国首例跨性别就业歧视案：女性穿男装被开除 - 新闻- 搜狐",
+          "link": "https://news.sohu.com/20160416/n444392840.shtml",
+          "snippet": "据美国《纽约时报》网站4月11日报道，在该案件中，提交仲裁申请书的C先生（化名）今年28岁，是一位原生性别为女性，自我性别认同为男性的跨性别者。他说， ...",
+          "date": "2016年4月16日",
+          "position": 87
+        },
+        {
+          "title": "2019年创造历史的5位跨性别者 - 世界经济论坛",
+          "link": "https://cn.weforum.org/agenda/2019/12/2019-nian-chuang-zao-li-shi-de-5-wei-kua-xing-bie-zhe/",
+          "snippet": "与Netflix签署协议后，Janet Mock成为首位在大型媒体公司做决策的公开跨性别女性。 Patricio Manuel是首位参加职业拳击赛的跨性别拳击手， ...",
+          "date": "2019年12月23日",
+          "position": 88
+        },
+        {
+          "title": "证券公司试点参与粤港澳大湾区“跨境理财通”业务落地 ... - 中国证监会",
+          "link": "http://www.csrc.gov.cn/csrc/c100028/c7515892/content.shtml",
+          "snippet": "新闻发布 · 政务信息 · 办事服务 · 互动交流 · 统计信息 ... 经过系统性评估和验收，14家证券公司完成了业务 ... 主办单位：中国证券监督管理委员会 版权所有 ...",
+          "date": "2天前",
+          "position": 89
+        },
+        {
+          "title": "上海率先开设跨性别多学科门诊帮助特殊未成年人",
+          "link": "https://www.sh.chinanews.com.cn/bdrd/2021-11-05/92886.shtml",
+          "snippet": "上海率先开设跨性别多学科门诊帮助特殊未成年人. 2021年11月05日10:54 来源：中国新闻网. 复旦大学附属儿科医院跨性别多学科门诊由内分泌遗传代谢科发起，由心理科等 ...",
+          "position": 90
+        },
+        {
+          "title": "钱今凡：84岁后跨性别“人生的灿烂期才刚开始” - 中国在线 - China Daily",
+          "link": "http://www.chinadaily.com.cn/dfpd/shehui/2012-06/20/content_15515350.htm",
+          "snippet": "4年前开始穿女装，2年前开始吃激素隆胸并以女性身份生活至今的钱今凡，对“伊玲”的称呼感觉更为自然。 “我不会主动找媒体，但也不会回避媒体的采访要求。",
+          "date": "2012年6月20日",
+          "position": 91
+        },
+        {
+          "title": "专家聚焦美国社会跨性别群体面临的困境及文化战争【视频】",
+          "link": "https://amtvusa.tv/2023/05/12/%E4%B8%93%E5%AE%B6%E8%81%9A%E7%84%A6%E7%BE%8E%E5%9B%BD%E7%A4%BE%E4%BC%9A%E8%B7%A8%E6%80%A7%E5%88%AB%E7%BE%A4%E4%BD%93%E9%9D%A2%E4%B8%B4%E7%9A%84%E5%9B%B0%E5%A2%83%E5%8F%8A%E6%96%87%E5%8C%96%E6%88%98/",
+          "snippet": "全美电视5月12日洛杉矶报道，少数族裔媒体服务机构今天召开网络研讨会，本次的主题聚焦跨性别群体的现状以及美国社…",
+          "date": "2023年5月12日",
+          "position": 92
+        },
+        {
+          "title": "新闻8点见丨医生潘柏林：跨性别群体处于隐秘状态大多纠结痛苦",
+          "link": "https://m.bjnews.com.cn/detail/162742763114304.html",
+          "snippet": "截至昨日21时30分，中国奥运军团已斩获9金5银7铜。在这个过程中，胜利和失败交织，喜悦与遗憾同在。我们为奥运冠军们鼓掌，更为每一位永不放弃、为梦想 ...",
+          "date": "2021年7月28日",
+          "position": 93
+        },
+        {
+          "title": "特朗普政府废除奥巴马“跨性别厕所令” - 中国网新闻中心",
+          "link": "http://news.china.com.cn/world/2017-02/23/content_40347155.htm?f=pad&a=true",
+          "snippet": "2月22日报道，特朗普政府于周三晚上撤销了奥巴马时代留下的“厕所令”，该法令要求所有公立学校允许“跨性别”学生根据“心理性别”而非“生理性别”选择 ...",
+          "date": "2017年2月23日",
+          "position": 94
+        },
+        {
+          "title": "跨性别运动员，在体育界仍然进退两难-腾讯新闻 - QQ News",
+          "link": "https://news.qq.com/rain/a/20230504A075FE00",
+          "snippet": "... 中国选手李雯雯则获得了哈巴德所报名项目（女子87公斤以上级）的金牌。哈巴德在东京奥运会的亮相，也并没有为更多跨性别女性打开参赛之门。相反，对跨 ...",
+          "date": "2023年5月4日",
+          "position": 95
+        },
+        {
+          "title": "EP-057 过去10年，中国的LGBT 群体经历了什么？（文字版）",
+          "link": "https://www.bumingbai.net/2023/07/ep-057-china-lgbt-text/",
+          "snippet": "18:52 中国从何时开始打压跨性别群体的 20:39 ... 那中国实际上是在90年开始，就是在媒体上有公开 ... 比如说在媒体上，2011年中央电视台就已经开始在讲——这个 ...",
+          "date": "2023年7月22日",
+          "position": 96
+        },
+        {
+          "title": "跨性别选手今首次亮相奥运赛场：激素变性曾是专业男运动员-新闻中心",
+          "link": "http://news.cnnb.com.cn/system/2021/08/02/030275315.shtml",
+          "snippet": "新闻. 报料热线：81850000. 您当前的位置： 中国宁波网 > 新闻中心 > 国际. 跨性别选手今首次亮相奥运赛场：激素变性曾是专业男运动员. 2021-08-02 13:33 ...",
+          "date": "2021年8月2日",
+          "position": 97
+        },
+        {
+          "title": "LGBT群体内也有歧视和无知文章来源：凤凰网-热追踪 ... - Facebook",
+          "link": "https://www.facebook.com/photo.php?fbid=822307347829059&id=103721063021028&set=a.295089380550861",
+          "snippet": "... 跨性别】中国跨性别群体调查：LGBT ... 新闻版面，一旦他们解决了性别认同问题，就会立刻 ... 男性化，充当男性角 色的一方）。如今，方羽然在 ...",
+          "position": 98
+        },
+        {
+          "title": "凶手这个身份，让美国吵成一锅粥-观察者网",
+          "link": "https://www.guancha.cn/internation/2023_03_29_686117.shtml",
+          "snippet": "综合美国广播公司（ABC）、福克斯新闻等美媒当地时间29日报道，共和党众议员玛乔丽·泰勒·格林（Marjorie Taylor Greene）等人主张是枪手的跨性别身份导致 ...",
+          "date": "2023年3月29日",
+          "position": 99
+        },
+        {
+          "title": "跨性别恐惧现象_百度百科",
+          "link": "https://baike.baidu.com/item/%E8%B7%A8%E6%80%A7%E5%88%AB%E6%81%90%E6%83%A7%E7%8E%B0%E8%B1%A1/53294774",
+          "snippet": "... 跨性别学生权益，或引发家长不满. [EB/OL] 中国新闻网.2013.8.http://www.chinanews.com/gj/2013/08-13/5155728.shtml. [69] Vietnam:Positive Step for Transgender ...",
+          "position": 100
+        }
+      ],
+      "peopleAlsoAsk": [
+        {
+          "question": "中国有多少LGBT？",
+          "snippet": "一家集中研究中国的市场调查机构Daxue Consulting估计，在2019年，中国有7500万人自认为是LGBT人口——约占总人口的5%。\n2023年6月28日",
+          "title": "中国LGBT：“不可抗力”之下，性少数团体面临的困境- BBC News 中文",
+          "link": "https://www.bbc.com/zhongwen/simp/chinese-news-66040480"
+        },
+        {
+          "question": "Cross gender是什么？",
+          "snippet": "跨性别者是一个统称，是指性别认同或性别 表达与出生时的性别不符的人。 性别认同是 指一个人认同自己身为男性、女性或其他性 别的心理意识。 性别表达是指一个人透过行 为、衣着、发型、声音或身体特征等，来 向他人传达自己所认同的性别。 跨性别者 (transgender)，有时被称为变性人(trans)。",
+          "title": "解答你的问题- 关于跨性别者",
+          "link": "https://www.apa.org/topics/lgbtq/chinese-simplified-transgender.pdf"
+        }
+      ],
+      "relatedSearches": [
+        {
+          "query": "中国lgbt现状"
+        },
+        {
+          "query": "中国lgbt活动"
+        },
+        {
+          "query": "中国lgbt组织"
+        },
+        {
+          "query": "不支持不鼓励不反对"
+        },
+        {
+          "query": "彩虹中国"
+        },
+        {
+          "query": "习近平lgbt"
+        },
+        {
+          "query": "上海lgbt"
+        },
+        {
+          "query": "药娘身体变化"
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "跨性别 中国 新闻",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "加速推进建设赋能经济发展——多地交通重大工程建设扫描 - 中国政府网",
+          "link": "https://www.gov.cn/lianbo/difang/202410/content_6984096.htm",
+          "snippet": "“张靖皋长江大桥跨主江的南航道桥，实现了中国桥梁建设从千米跨径到两千米跨径的突破，是中国桥梁首次突破两千米跨径标志性桥梁。 ... 新闻发布会上，交通运输 ...",
+          "date": "2天前",
+          "position": 1
+        },
+        {
+          "title": "洛杉矶市长呛声特朗普跨性别者兵役禁令 - 人民政协网",
+          "link": "http://www.rmzxb.com.cn/c/2017-07-27/1681888.shtml?n2m=1",
+          "snippet": "洛杉矶市长呛声特朗普跨性别者兵役禁令. 2017年07月27日 07:36 | 来源：中国新闻网. 分享到：. 资料图：美国总统特朗普。中新社记者刁海洋摄. 中新社洛杉矶7月26日电美国 ...",
+          "position": 2
+        },
+        {
+          "title": "万斯暗示，中上层阶级白人孩子可能会为了进名校而成为跨性别者",
+          "link": "https://news.ifeng.com/c/8e9HgZgc0re",
+          "snippet": "美国有线电视新闻网（CNN）报道，共和党副总统候选人万斯在周四播出的与播客主持 ... 首次发布的中国双航母高清照片中，美媒发现暗藏彩蛋. 空天力量. 女子为弟追凶 ...",
+          "position": 3
+        },
+        {
+          "title": "梦想“正常生活”成为希望和动力香港跨性别者为争取权益进行战斗",
+          "link": "https://www.voachinese.com/a/7010358.html",
+          "snippet": "分类新闻. 经济·金融·贸易 人权·法律·宗教 科教·文娱·体健 军事 ... 中国时间15:33 2024年10月24日星期四. 视频. 梦想“正常生活”成为希望和动力 ...",
+          "date": "2023年3月18日",
+          "position": 4
+        },
+        {
+          "title": "跨性别女性的美丽与哀愁 - 联合早报",
+          "link": "https://www.zaobao.com.sg/zlifestyle/powerup/story20200308-1035207",
+          "snippet": "媒体多年来都在这天讲述不同成功女性的故事。《早报周刊》今年把焦点放在 ... 在中国的用户请游览zaobao.com. 提醒：新加坡网络业者若未经许可 ...",
+          "date": "2020年3月8日",
+          "position": 5
+        },
+        {
+          "title": "【健康报】跨性别男男性行为者染艾超16%-上海交通大学医学院-新闻网",
+          "link": "https://www.shsmu.edu.cn/news/info/1007/4494.htm",
+          "snippet": "本报讯（记者胡德荣）中国跨性别男男性行为者艾滋病病毒（HIV）感染率超过16%，远高于目前中国男男性行为人群8%~9%的HIV感染率。这是上海交通大学公共卫生 ...",
+          "date": "2016年11月11日",
+          "position": 6
+        },
+        {
+          "title": "润出中国的年轻人，梦想照进现实? Young Chinese are running - 歪脑",
+          "link": "https://www.wainao.me/wainao-watches/runology-china-migrants-darien-LGBTQ",
+          "snippet": "通过“走线”冒死偷渡到美国的Azure，在达拉斯找到了按摩的工作，虽辛苦维生但也感到满足。不堪社会与家庭压力而逃到瑞士的跨性别者以翎，暂居在政府提供的庇护 ...",
+          "date": "2023年5月1日",
+          "position": 7
+        },
+        {
+          "title": "9岁跨性别儿童登上《国家地理》:4岁起称自己女孩 - 中国青年网",
+          "link": "https://edu.youth.cn/jyzx/jyxw/201612/t20161219_8963724.htm",
+          "snippet": "... ，《国家地理杂志》明年1月号将以一名跨性别 ... 中国新闻网 07-22. 1. 从孝义看山西能源变革与“双碳”实践成果. 黄河新闻网 ...",
+          "date": "2016年12月19日",
+          "position": 8
+        },
+        {
+          "title": "跨性别女篮球员控被暴力对待，对手球队称一面之词，视频被剪辑了",
+          "link": "https://m.163.com/news/article/JG02B5NE0549VVJM.html?clickfrom=subscribe",
+          "snippet": "第2战VIU再以73比58大胜，Mackenzie只打了18分钟贡献14分4篮板2盖帽。 打开网易新闻查看精彩图片. 不过Mackenzie在社媒网站上发布视频，指控CBC总教练 ...",
+          "date": "18小时前",
+          "position": 9
+        },
+        {
+          "title": "2024年全国高校学生跨文化能力大赛天津赛区竞赛在天津大学成功举办",
+          "link": "https://news.tju.edu.cn/info/1003/72913.htm",
+          "snippet": "在为期两天的比赛中，来自天津各高校的43个参赛团队、129名选手围绕多元文化生活、公共外交、商务沟通等主题，以独特的原创性跨文化交际案例为切入点，充分 ...",
+          "date": "3天前",
+          "position": 10
+        },
+        {
+          "title": "报告称中国跨性别者遭歧视多数被迫从事性工作 - 新闻- 搜狐",
+          "link": "https://news.sohu.com/20150131/n408268728.shtml",
+          "snippet": "报告称中国跨性别者遭歧视多数被迫从事性工作 ... 参考消息网1月31日报道美媒称，26岁的飘飘来自山东。她出生时本是男儿身，但觉得自己其实是女的。2008年， ...",
+          "date": "2015年1月31日",
+          "position": 11
+        },
+        {
+          "title": "对冲世界不确定性中国经济“忙起来了” - 新华日报",
+          "link": "https://www.xhby.net/content/s67259014e4b03f2234030480.html",
+          "snippet": "今年前三季度，我国市场多元化稳步推进，与全球160多个国家和地区的贸易实现增长；同时，我国跨境资金恢复净流入。国家外汇管理局10月22日介绍，外资持有境内 ...",
+          "date": "19小时前",
+          "position": 12
+        },
+        {
+          "title": "跨性别女篮球员控被暴力对待，对手球队称一面之词 - 网易",
+          "link": "https://www.163.com/dy/article/JG02B5NE0549VVJM.html",
+          "snippet": "CBC学校官方也强调，Claggett首战赛后的发言「只是维护自己球员的安全，任何好教练都会这样。」 打开网易新闻查看精彩图片. CBC表示，Mackenzie发布的比赛 ...",
+          "date": "18小时前",
+          "position": 13
+        },
+        {
+          "title": "推进主流媒体系统性变革——2024传媒年会在青岛隆重开幕 - 新华网",
+          "link": "http://www.news.cn/politics/20241101/e59078df84cf4ef0b6466ccbe9b5fe36/c.html",
+          "snippet": "开幕式上，青岛市委常委、宣传部部长刘升勤出席并致欢迎辞，第十二届全国人大常委、教科文卫委员会主任委员，原新闻出版总署署长柳斌杰，中国报业协会理事长、 ...",
+          "date": "1天前",
+          "position": 14
+        },
+        {
+          "title": "航运金融联动发展！ FT账户助推浦东航运跨境收支便利化",
+          "link": "https://jrj.sh.gov.cn/SC212/20241031/12b21e5bd4c04ac0a8e3ebe783e95482.html",
+          "snippet": "... 跨境收支和资金汇兑实施事前的真实性审核。但国际 ... 为破解难题，2020年以来，浦东新区商务委联手中国人民银行上海总部率先开展跨境收支改革试点。",
+          "date": "2天前",
+          "position": 15
+        },
+        {
+          "title": "【中国一跨性别女士不满被解雇起诉前雇主】 - YouTube",
+          "link": "https://www.youtube.com/watch?v=cKD5RxFluhc",
+          "snippet": "性少数群体（LGTB）组织称为跨性别者宣传平等就业权，完善中国法律的里程碑式的考验。 她的 ...\n时长： 1:11\n发布时间： 2019年12月11日",
+          "date": "2019年12月11日",
+          "position": 16
+        },
+        {
+          "title": "隋洪波到黑河市调研农产品加工、种子研发、秋整地 - 黑龙江省政府",
+          "link": "https://www.hlj.gov.cn/hlj/c1118366/202411/c00_31781769.shtml",
+          "snippet": "中国政府网 | 省人大 | 省政协. | 无障碍| 关怀版 | 长者版 | 繁體 ... 跨境农副产品精深加工，推动科技创新与产业创新深度融合，加大市场营销 ...",
+          "date": "16小时前",
+          "position": 17
+        },
+        {
+          "title": "跨性别者的中国历史：从战国一路到近现代 - 文学城",
+          "link": "https://www.wenxuecity.com/news/2024/04/24/125534393.html",
+          "snippet": "民国时期的新闻中也有着跨性别者的记录。 在明代李良雨和清代熊尔圣的故事中，我们最能勾勒出当时跨性别者（跨性别女性）的生活样 ...",
+          "date": "2024年4月24日",
+          "position": 18
+        },
+        {
+          "title": "今起德国人可以自由改性别那去卫生间怎么办？ - 欧洲头条",
+          "link": "https://www.xinouzhou.com/detail-1022133.html",
+          "snippet": "具体来说，大家只需在户籍登记处提交声明，即可选择自己的性别是男、是女，还是跨性别，或者干脆取消自己的性别…… ... 文成新闻网 温州东海网 中国新闻网 中国侨 ...",
+          "date": "6小时前",
+          "position": 19
+        },
+        {
+          "title": "台山市人大常委会探索实施“三四五”工作法深入践行全过程人民民主",
+          "link": "http://www.jiangmen.gov.cn/home/sqdt/tszx/content/post_3192807.html",
+          "snippet": "多年来，由于两地边界接壤的区域特殊性，跨界的交通、服务、教育、产业等一系列民生问题难以解决。 “我们镇里有一些小孩是在开平读书的，813路公交车开通前， ...",
+          "date": "16小时前",
+          "position": 20
+        },
+        {
+          "title": "佛罗里达州通过的“不要说同性恋”法案引发争议 - 美国之音",
+          "link": "https://www.voachinese.com/a/6479616.html",
+          "snippet": "中国时间1:50 2024年10月30日星期三. 视频. 佛罗里达州通过的“不要说 ... 香港终审法院裁决给予跨性别人士更改身份证权利 · 16x9 Image.",
+          "date": "2022年3月11日",
+          "position": 21
+        },
+        {
+          "title": "海西：与新疆巴州强化气象灾害跨区域联防",
+          "link": "https://www.cma.gov.cn/2011xwzx/2011xqxxw/2011xjctz/202410/t20241031_6666661.html",
+          "snippet": "中国气象局政府门户网站，为您提供最新权威气象政务信息、天气预报、气象预警、气候变化、防灾减灾、气象科普等权威官方信息.",
+          "date": "3天前",
+          "position": 22
+        },
+        {
+          "title": "中共中央关于进一步全面深化改革推进中国式现代化的决定",
+          "link": "https://www.gov.cn/zhengce/202407/content_6963770.htm",
+          "snippet": "完善支持服务业发展政策体系，优化服务业核算，推进服务业标准化建设。聚焦重点环节分领域推进生产性服务业高质量发展，发展产业互联网平台，破除跨地区经营 ...",
+          "date": "2024年7月21日",
+          "position": 23
+        },
+        {
+          "title": "厦门大学中国能源经济研究中心：破解省间壁垒的关键路径分析",
+          "link": "https://www.cpnn.com.cn/news/baogao2023/202410/t20241030_1747120.html",
+          "snippet": "促进全国统一电力市场的经济普惠公平性。首先，需建立和完善跨区域电力资源优化配置机制，鼓励电力资源丰富地区与电力短缺地区之间的交易合作，以 ...",
+          "date": "3天前",
+          "position": 24
+        },
+        {
+          "title": "第五十届东亚及太平洋地区中央银行行长会议组织支付与市场基础 ...",
+          "link": "http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/5494827/index.html",
+          "snippet": "中国人民银行作为EMEAP-WGPMI轮值主席主办会议，中国人民银行党委委员、副行长张青松出席会议并致辞。 ... 跨境支付结算体系的协调与合作，加强与其他 ...",
+          "date": "2天前",
+          "position": 25
+        },
+        {
+          "title": "跨性別| 搜尋標籤| 聯合新聞網",
+          "link": "https://udn.com/search/tagging/2/%E8%B7%A8%E6%80%A7%E5%88%A5",
+          "snippet": "搜尋｛跨性別｝共找到175篇新聞。udn.com 提供即時新聞以及豐富的政治、社會、地方、兩岸、國際、財經、數位、運動、NBA、娛樂、生活、健康、旅遊新聞，以最即時、多元的 ...",
+          "position": 26
+        },
+        {
+          "title": "前三季度我国完成跨区域人员流动量490.9亿人次 - 科技日报",
+          "link": "https://www.stdaily.com/web/gdxw/2024-10/29/content_249780.html",
+          "snippet": "看营业性货运量，前三季度，完成营业性货运量416.3亿吨，同比增长3.3%。 ... 关于中国科技网 · 联系我们 · 公示公告 · 科技日报社公开招聘公告 · 互联网新闻 ...",
+          "date": "5天前",
+          "position": 27
+        },
+        {
+          "title": "探寻信息时代网络犯罪治理的实践指引 - 最高人民检察院",
+          "link": "https://www.spp.gov.cn/spp/llyj/202410/t20241031_670521.shtml",
+          "snippet": "而且，信息网络犯罪还具有隐蔽性、跨地域等特征，也大大增加了打击难度。 ... 中国共产党新闻网 · 全国人大 · 中央政府 · 全国政协 · 最高人民法院. --相关 ...",
+          "date": "3天前",
+          "position": 28
+        },
+        {
+          "title": "侨商道| 发现“海淘”蓝海，她如何“乘风”跨境电商→ - 国务院侨务办公室",
+          "link": "https://www.gqb.gov.cn/news/2024/1029/59295.shtml",
+          "snippet": "“我们通过'前展后仓+展销会'的模式进一步拉近了客户与商家的距离，客户不必来到中国，也能亲自看到、摸到中国产品，更具说服性，更容易产生订单。” 她表示， ...",
+          "date": "5天前",
+          "position": 29
+        },
+        {
+          "title": "Apple 智能今日登陆iPhone、iPad 和Mac",
+          "link": "https://www.apple.com.cn/newsroom/2024/10/apple-intelligence-is-available-today-on-iphone-ipad-and-mac/",
+          "snippet": "Siri 还将具备屏幕感知能力，并可对各类Apple 及第三方app 进行数百种全新的app 内或跨app 操作。 ... 新闻稿. Apple 公布第四季度业绩. 2024 年10 月31 ...",
+          "date": "5天前",
+          "position": 30
+        },
+        {
+          "title": "加拿大原油出口向亚洲市场发力 - 中国石油报",
+          "link": "http://news.cnpc.com.cn/system/2024/11/01/030146387.shtml",
+          "snippet": "新闻中心 > 您当前的位置： 行业新闻 > 国外. 加拿大原油出口向亚洲市场发力. 中国石油新闻中心. 发表日期：2024-11-01 15:50. 扩建后的加拿大跨山管道今年5月正式启动 ...",
+          "position": 31
+        },
+        {
+          "title": "我校学生获得第七届“外教社杯”全国高校学生跨文化能力大赛北京市赛 ...",
+          "link": "https://news.uibe.edu.cn/info/1370/87338.htm",
+          "snippet": "校新闻网讯（英语学院供稿）2024年10月26日-27日，第七届“外教社杯 ... 决赛内容更为丰富多元，包括中国文化、世界文化及跨文化相关知识的快速 ...",
+          "date": "4天前",
+          "position": 32
+        },
+        {
+          "title": "新华网：从生物多样性保护到再造一个“绿色中国石油” 中国石油大力 ...",
+          "link": "http://www.sasac.gov.cn/n2588025/n2588139/c32006799/content.html",
+          "snippet": "首页 > 新闻发布 > 媒体观察 > 正文. 新华网：从生物多样性保护到再造 ... “中国石油CCUS全产业链发展跨上新台阶。”杜卫东说，中国石油形成“1+8 ...",
+          "date": "3天前",
+          "position": 33
+        },
+        {
+          "title": "中国证监会等六部门有关司局负责人就《外国投资者对上市公司战略 ...",
+          "link": "http://www.csrc.gov.cn/csrc/c100028/c7516182/content.shtml",
+          "snippet": "党的二十届三中全会要求“有序扩大我国商品市场、服务市场、资本市场、劳务市场等对外开放”“提高外资在华开展股权投资、风险投资便利性”。为坚决贯彻落实党 ...",
+          "date": "1天前",
+          "position": 34
+        },
+        {
+          "title": "川普反跨性別廣告拉攏未表態選民專家警告恐釀反效果| 國際 - 中央社",
+          "link": "https://www.cna.com.tw/news/aopl/202410300232.aspx",
+          "snippet": "美日大選政局動盪分析：恐給中國壯膽加強對台施壓 · 其他22則文章. 影音新聞 ... 中央社一手新聞APP Icon 中央社一手新聞APP. 下載. Focus Taiwan ...",
+          "date": "4天前",
+          "position": 35
+        },
+        {
+          "title": "专访吉利德副总裁、中国总经理金方千：拥抱进博溢出效应 - 南方财经网",
+          "link": "https://m.sfccn.com/2024/11-2/0MMDE1MjZfMTk2Mzg0MA.html",
+          "snippet": "... 媒体集团门户网站，主打财经新闻，是21世纪经济报道、TVS1、投资快报等原创新闻 ... 中国市场、推动跨界合作提供了理想的平台。 在本届进博会上，吉利德公司 ...",
+          "date": "15小时前",
+          "position": 36
+        },
+        {
+          "title": "中國前衛文藝空間受限：從《三體》編輯被查到金星演出被拒",
+          "link": "https://tw.news.yahoo.com/%E4%B8%AD%E5%9C%8B%E5%89%8D%E8%A1%9B%E6%96%87%E8%97%9D%E7%A9%BA%E9%96%93%E5%8F%97%E9%99%90-%E5%BE%9E-%E4%B8%89%E9%AB%94-%E7%B7%A8%E8%BC%AF%E8%A2%AB%E6%9F%A5%E5%88%B0%E9%87%91%E6%98%9F%E6%BC%94%E5%87%BA%E8%A2%AB%E6%8B%92-%E5%A4%9A%E5%B1%A4%E7%A6%81%E5%BF%8C%E9%81%8F%E8%A3%BD%E6%96%87%E5%8C%96%E5%89%B5%E6%96%B0-170554760.html",
+          "snippet": "近期，中國前衛文藝受到愈來嚴厲的限制。從《三體》出版人姚海軍落馬，到知名跨性別主持人金星的舞台劇《日出》在廣州被拒演出，再到西洋萬聖節被當局嚴 ...",
+          "date": "4小时前",
+          "position": 37
+        },
+        {
+          "title": "以高水平制度型开放促进服务贸易高质量发展",
+          "link": "https://theory.gmw.cn/2024-11/02/content_37653410.htm",
+          "snippet": "... 中国特色社会主义理论体系研究中心研究员），曹杰（天津财经大学经济 ... 跨境交易成本方面迈出了实质性步伐。《意见》指出，要参照世界贸易组织 ...",
+          "date": "20小时前",
+          "position": 38
+        },
+        {
+          "title": "喜报丨中国农大师生连续第六年夺得国际基因工程大赛金牌",
+          "link": "https://news.cau.edu.cn/zhxwnew/92e40b25ebee4348a494e44dbbffa892.htm",
+          "snippet": "中国农大新闻网讯近日，在巴黎举行的2024年国际基因工程大赛 ... 跨学院和学科的本科生合作，促进了学生对于交叉学科的理解，训练了学生跨学科 ...",
+          "date": "2天前",
+          "position": 39
+        },
+        {
+          "title": "中国的跨性别者_手机搜狐网",
+          "link": "https://www.sohu.com/a/734262610_121814835",
+          "snippet": "[\"{中国跨性别者的困境与希望——一个关于爱、勇气和包容的故事}. 在这个世界上，有这样一群特殊的存在，他们勇敢地面对自己的内心，追求真实的自我。",
+          "date": "2023年11月6日",
+          "position": 40
+        },
+        {
+          "title": "【文汇APP】这场论坛上，中国、新加坡两国院士为何要给AI“泼冷水”？",
+          "link": "https://news.tongji.edu.cn/info/1006/88986.htm",
+          "snippet": "郭贵生介绍，大量有关AI的项目、量子计算项目正通过跨学科互联得以推进。 ... 新闻中心主办E-mail:newscenter@tongji.edu.cn 沪ICP备10014176号沪公网 ...",
+          "date": "1天前",
+          "position": 41
+        },
+        {
+          "title": "黑芝麻智能荣膺双项金辑奖，持续为中国汽车供应链贡献力量 - 上观新闻",
+          "link": "https://www.jfdaily.com/sgh/detail?id=1453708",
+          "snippet": "近日，黑芝麻智能武当C1200家族智能汽车跨域计算芯片平台荣获金辑奖“2024中国汽车新供应链百强”车规级芯片。黑芝麻智能创始人兼CEO单记章荣获金辑 ...",
+          "date": "8小时前",
+          "position": 42
+        },
+        {
+          "title": "奋力打开改革发展新天地 - 中国共产党新闻网",
+          "link": "http://cpc.people.com.cn/n1/2024/1102/c64387-40352455.html",
+          "snippet": "习近平总书记在省部级主要领导干部学习贯彻党的二十届三中全会精神专题研讨班开班式上发表重要讲话，深刻总结新时代全面深化改革取得的历史性成就， ...",
+          "date": "21小时前",
+          "position": 43
+        },
+        {
+          "title": "汽车，要上天？ - 中国新闻周刊网",
+          "link": "http://www.inewsweek.cn/auto/2024-10-28/23480.shtml",
+          "snippet": "... 性。 飞行汽车，真的要来了吗？ 众车企布局“飞行汽车 ... 在此之前，连接上海浦东和江苏昆山的低空载客直升机航线已于8月18日开通运行，这是国内首条跨 ...",
+          "date": "6天前",
+          "position": 44
+        },
+        {
+          "title": "天津大学医学院召开学习习近平总书记给中国国际大学生创新大赛 ...",
+          "link": "https://news.tju.edu.cn/info/1017/72971.htm",
+          "snippet": "科技创新能否持续发展，关键在于三大要素：实用性、技术的先进性以及是否具备经济价值。 图片6.png. 医学院科创中心主席杨意说，作为学院科协的负责人，我们的 ...",
+          "date": "14小时前",
+          "position": 45
+        },
+        {
+          "title": "海纳百川喜迎八方来客，跨境服务共襄进博盛会",
+          "link": "https://jrj.sh.gov.cn/YX180/20241031/83fc2e7c7ce841c08ca43ed28188b9a5.html",
+          "snippet": "信息来源：上观新闻 发布时间：2024-10-31. 第七届进博会已进入最后冲刺阶段。 中国银行上海市分行迭代升级短期来华人士个人跨境金融服务方案，发挥跨境专业特色优势，在 ...",
+          "position": 46
+        },
+        {
+          "title": "郑保卫：追梦新闻六十年矢志不移终遂愿 - 广西大学",
+          "link": "https://www.gxu.edu.cn/info/1004/36867.htm",
+          "snippet": "... 中国人民大学新闻系，今年整整六十年。这期间我“三进人大”，从启梦福建、筑梦北京到圆梦人大，再到续梦广西，经历了60载难忘的追梦历程。一、 启梦福建：跨 ...",
+          "date": "1天前",
+          "position": 47
+        },
+        {
+          "title": "中国海警局北海分局昌邑工作站探索海上治理新路径纪实 - 科技日报",
+          "link": "https://www.stdaily.com/web/gdxw/2024-11/02/content_252285.html",
+          "snippet": "4月26日，昌邑工作站迎来了一个历史性时刻——“邑谈即和”，潍坊市首家、山东省最大的涉海行业纠纷人民调解委员会在工作站正式揭牌成立。该委员会融合了市 ...",
+          "date": "7小时前",
+          "position": 48
+        },
+        {
+          "title": "学者探讨“中国古典学研究进展与古籍数字化前沿技术” - 中国社会科学网",
+          "link": "https://www.cssn.cn/skgz/bwyc/202411/t20241101_5798053.shtml",
+          "snippet": "... 跨专业、跨学科、跨行业、跨地域合作，召开“中国古典学研究进展与 ... cn 互联网新闻信息服务许可证：10120220003 京ICP备11013869号 京公网安 ...",
+          "date": "2天前",
+          "position": 49
+        },
+        {
+          "title": "关于跨性别的事实- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/healthy-lifestyle/adult-health/in-depth/transgender-facts/art-20266812",
+          "snippet": "跨性别男性和跨性别女性。用于描述跨性别个体的性别认同或二元性别表达的词语。例如，“跨性别女性”一词可用 ... 新闻网络 · 价格透明 · 医疗专业人员专区.",
+          "date": "2023年4月21日",
+          "position": 50
+        },
+        {
+          "title": "中国跨性别人群医疗现况的调查及分析",
+          "link": "http://ccj.pku.edu.cn/Article/info?aid=266525351",
+          "snippet": "目的报道中国跨性别人群的跨性别医疗需求和诊治现状。方法本研究为2017年开展的全国性、横断面调查,通过招募受访者匿名填写网络问卷,收集分析跨性别者的激素治疗和性别 ...",
+          "position": 51
+        },
+        {
+          "title": "为拔尖创新人才提供成长土壤 - 清华大学",
+          "link": "https://www.tsinghua.edu.cn/info/1182/114903.htm",
+          "snippet": "来源：中国教育新闻网10-30 柴葳. 9; 分享. “拔尖创新人才的培养，应该从中小学阶段 ... 北京市海淀教育科学研究院党总支书记、院长吴颖惠认为，在拔尖创新人才培养方面，课程是 ...",
+          "position": 52
+        },
+        {
+          "title": "（第七届进博会）前瞻：扩大开放期待新举措 - 中国经济网",
+          "link": "http://www.ce.cn/xwzx/gnsz/gdxw/202411/02/t20241102_39190223.shtml",
+          "snippet": "自由贸易试验区不断升级、长三角一体化发展国家战略全面实施、出台自贸试验区跨境服务贸易负面清单……前六届进博会期间中国宣布的多项重大开放举措如今已 ...",
+          "date": "9小时前",
+          "position": 53
+        },
+        {
+          "title": "手術改善生活.然後? 德紀錄片揭跨性別困境｜方念華 - YouTube",
+          "link": "https://www.youtube.com/watch?v=dPz3p8TRMWM",
+          "snippet": "跨性別#手術#我變性故我在#TVBS新聞#TVBS直播#TVBS ... 《國有器官》紀錄 ...\n时长： 5:24\n发布时间： 2023年10月26日",
+          "date": "2023年10月26日",
+          "position": 54
+        },
+        {
+          "title": "【奋进强国路阔步新征程】国家电网：电力大动脉纵贯神州",
+          "link": "http://www.sasac.gov.cn/n2588025/n2588124/c31985662/content.html",
+          "snippet": "预计到2025年底，中国跨省跨区输电容量将达到3.6亿千瓦，电网对电力资源 ... 运行维护：国务院国资委新闻中心. 技术支持：国务院国资委信息中心.",
+          "date": "2天前",
+          "position": 55
+        },
+        {
+          "title": "我国自主研发，成功交付！ - 中国气象局",
+          "link": "https://www.cma.gov.cn/2011xwzx/2011xmtjj/202410/t20241030_6665761.html",
+          "snippet": "... 性和安全性。 截至目前，我国已形成增雨飞机机群，全国有58架飞机用于人工影响天气作业，具备反应迅速、协同高效的跨区域作业能力，成为天-空-地协同 ...",
+          "date": "4天前",
+          "position": 56
+        },
+        {
+          "title": "跨性別新聞- 中時新聞網- Chinatimes.com",
+          "link": "https://www.chinatimes.com/search/%E8%B7%A8%E6%80%A7%E5%88%A5",
+          "snippet": "... 新聞授權 · 服務條款 · 隱私權聲明 · 一起做公益 · 旺旺集團 · 旺旺中時媒體集團 · 時報資訊 · 關於我們. 請尊重智慧財產權勿任意轉載違者依法必究© 1995 - 2024 China ...",
+          "position": 57
+        },
+        {
+          "title": "香港跨男的性別正名之路：「我要堂堂正正地用男性的身份生活」",
+          "link": "https://www.youtube.com/watch?v=wxJoaaC7me8",
+          "snippet": "80後vs 00後| 兩代跨仔對談| 香港跨性別男性真人圖書館 · 免術換證？ · 【杏林在線 ...\n时长： 7:04\n发布时间： 2023年1月20日",
+          "date": "2023年1月20日",
+          "position": 58
+        },
+        {
+          "title": "流亡瑞士的中国跨性别人士：中国性少数群体生存状况堪忧 - YouTube",
+          "link": "https://www.youtube.com/watch?v=Up3raJ7ILro",
+          "snippet": "就在上个月世界各地区为表达对同性恋、双性恋、跨性别群体的支持和认同，纷纷举行“骄傲月”游 ...\n时长： 3:11\n发布时间： 2023年7月16日",
+          "date": "2023年7月16日",
+          "position": 59
+        },
+        {
+          "title": "报道LGBTQ+ 相关数据故事的重点建议| 国际记者网络",
+          "link": "https://ijnet.org/zh-hans/story/%E6%8A%A5%E9%81%93-lgbtq-%E7%9B%B8%E5%85%B3%E6%95%B0%E6%8D%AE%E6%95%85%E4%BA%8B%E7%9A%84%E9%87%8D%E7%82%B9%E5%BB%BA%E8%AE%AE",
+          "snippet": "同样，很多公共记录可能会用过时的姓名和性别标籤来列出身份信息。这令在突发新闻中识别跨性别者变得特别困难。而要回到匿名资料库的性别列去检查其性别 ...",
+          "date": "2024年6月30日",
+          "position": 60
+        },
+        {
+          "title": "【辽沈晚报】税收服务赴巴西投资主题活动成功举办 - 辽宁省税务局",
+          "link": "https://liaoning.chinatax.gov.cn/art/2024/10/28/art_2623_134864.html",
+          "snippet": "中国驻巴西大使馆经济商务处相关领导、税务机关、政府部门和企业代表采取 ... 跨境投资经营税收风险，为中巴双方企业提供多边沟通交流对话平台 ...",
+          "date": "6天前",
+          "position": 61
+        },
+        {
+          "title": "跨性別人士 - 中時新聞網",
+          "link": "https://www.chinatimes.com/Search/%E8%B7%A8%E6%80%A7%E5%88%A5%E4%BA%BA%E5%A3%AB",
+          "snippet": "... 新聞授權 · 服務條款 · 隱私權聲明 · 一起做公益 · 旺旺集團 · 旺旺中時媒體集團 · 時報資訊 · 關於我們. 請尊重智慧財產權勿任意轉載違者依法必究© 1995 - 2024 China ...",
+          "position": 62
+        },
+        {
+          "title": "【性別平權未竟之路】跨性別者的告白｜兩岸同婚行不行？ - YouTube",
+          "link": "https://www.youtube.com/watch?v=pMdt8fWOfJQ",
+          "snippet": "性別平權#性別#華視新聞雜誌#跨性別#跨性別者#男女二分#性別平等#平權#人權#權 ...\n时长： 48:18\n发布时间： 2023年12月9日",
+          "date": "2023年12月9日",
+          "position": 63
+        },
+        {
+          "title": "跨性別- 相關新聞- 自由時報電子報",
+          "link": "https://news.ltn.com.tw/topic/%E8%B7%A8%E6%80%A7%E5%88%A5",
+          "snippet": "跨性別第22屆同志遊行登場194團體響應估18萬人上街再度汙衊台灣拳后林郁婷川普︰對「變性人」奪奧運金牌很震驚巴西歌手大學演講「露小丁搖臀熱舞」 校方：將採取必要措施 ...",
+          "position": 64
+        },
+        {
+          "title": "十二个联合国机构发表了关于男女同性恋、双性恋、跨性别者 ... - ohchr",
+          "link": "https://www.ohchr.org/zh/press-releases/2015/09/twelve-un-agencies-issue-unprecedented-joint-statement-rights-lesbian-gay",
+          "snippet": "最新 媒体中心. 新闻稿 人权事务高级专员办事处. 十二个联合国机构发表了关于男女同性恋、双性恋、跨性别者和双性者权利的前所未有的联合声明. 行动呼吁/ ...",
+          "date": "2015年9月29日",
+          "position": 65
+        },
+        {
+          "title": "广州市委金融工作会议召开加快建设金融强市打造粤港澳大湾区国际 ...",
+          "link": "http://jrjgj.gz.gov.cn/gzdt/content/post_9955288.html",
+          "snippet": "市委书记郭永航讲话。市委副书记、市长孙志洋主持。广东金融监管局党委书记、局长裴光，广东证监局党委书记、局长杨宗儒，中国 ...",
+          "date": "14小时前",
+          "position": 66
+        },
+        {
+          "title": "中国为跨性别青少年开设第一家医院| NCN 新聞#shorts - YouTube",
+          "link": "https://www.youtube.com/watch?v=z64SUXAaxes",
+          "snippet": "中国为跨性别青少年开设第一家医院| NCN 新聞#shorts 中国打破了LGBTQ 权利和 ...\n时长： 0:54\n发布时间： 2021年11月14日",
+          "date": "2021年11月14日",
+          "position": 67
+        },
+        {
+          "title": "在中国街头.如果我是跨性别者.你会给我个拥抱吗？ - YouTube",
+          "link": "https://www.youtube.com/watch?v=RjcCk7m0KZM",
+          "snippet": "如果我是跨性别者.你会给我个拥抱吗？ 502 views · 3 years ago ... 新聞全球話 ...\n时长： 1:52\n发布时间： 2020年12月13日",
+          "date": "2020年12月13日",
+          "position": 68
+        },
+        {
+          "title": "抨打击跨性别者行动侵权安美嘉：政治人物怕反弹保持缄默 - YouTube",
+          "link": "https://www.youtube.com/watch?v=817y1z7smyk",
+          "snippet": "安美嘉接受《当今大马》采访时举例，霹雳宗教局在有关行动逮捕了5名跨性别女性，政治人物却保持缄默 ...\n时长： 1:44\n发布时间： 2023年12月20日",
+          "date": "2023年12月20日",
+          "position": 69
+        }
+      ],
+      "images": [
+        {
+          "title": "专访：中国跨性别就业歧视第一案的C先生- BBC News 中文",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/ws/640/amz/worldservice/live/assets/images/2016/04/12/160412145512_guizhou_mr_c_1_512x288_bbc_nocredit.jpg.webp",
+          "link": "https://www.bbc.com/zhongwen/simp/china/2016/04/160412_china_transgender_case"
+        },
+        {
+          "title": "中国一跨性别女士不满被解雇起诉前雇主】 - YouTube",
+          "imageUrl": "https://i.ytimg.com/vi/qEJMfQWMe24/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBJitDdIOhB61CJQw1QI_jwru4psQ",
+          "link": "https://www.youtube.com/watch?v=cKD5RxFluhc"
+        },
+        {
+          "title": "跨性别现身日- 美国驻华大使馆和领事馆",
+          "imageUrl": "https://common.usembassy.gov/wp-content/uploads/sites/23/2021/06/Exz6ot-WQAYurOh-1140x675-1.jpg",
+          "link": "https://china.usembassy-china.org.cn/zh/on-transgender-day-of-visibility-zh/"
+        },
+        {
+          "title": "流亡瑞士的中国跨性别人士：中国性少数群体生存状况堪忧- SWI swissinfo.ch",
+          "imageUrl": "https://il.srgssr.ch/images/?imageUrl=https://cdn.prod.swi-services.ch/video-delivery/images/6e8678a0-c038-4c44-807c-cd5df0d1e7c6/Tx2pUIusBLI6Z8fBQyq87gtlHlX2iWwT/4x5&format=jpg&width=960",
+          "link": "https://www.swissinfo.ch/chi/%E8%BA%AB%E4%BB%BD%E8%AE%A4%E5%90%8C/%E6%B5%81%E4%BA%A1%E7%91%9E%E5%A3%AB%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E4%BA%BA%E5%A3%AB-%E4%B8%AD%E5%9B%BD%E6%80%A7%E5%B0%91%E6%95%B0%E7%BE%A4%E4%BD%93%E7%94%9F%E5%AD%98%E7%8A%B6%E5%86%B5%E5%A0%AA%E5%BF%A7/48659024"
+        },
+        {
+          "title": "中国一跨性别女士不满被解雇起诉前雇主】 - YouTube",
+          "imageUrl": "https://i.ytimg.com/vi/cKD5RxFluhc/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AHmAoAC6AKKAgwIABABGGQgZChkMA8=&rs=AOn4CLBZ1H3wwR9Bw81gxyAyr6987cskCw",
+          "link": "https://www.youtube.com/watch?v=cKD5RxFluhc"
+        },
+        {
+          "title": "一名跨性别者：作为一名男性并不很糟，却不真实",
+          "imageUrl": "https://gdb.voanews.com/8c8914d8-e881-4aa6-90b0-24508f7c9197_tv_b1_w408_r1.jpg",
+          "link": "https://www.voachinese.com/a/journey-transgender-20160805/3452112.html"
+        },
+        {
+          "title": "跨性别”给奥林匹克出了道难题",
+          "imageUrl": "https://cdnjdphoto.aikan.pdnews.cn/zhbj-20240803/image/content/12e981b85ef6415b9e4d768cf20dd160.jpg",
+          "link": "https://www.peopleapp.com/column/30046113198-500005641542"
+        },
+        {
+          "title": "中国一标志性同志机构“因不可抗力”关闭性少数群体倍感“唇亡齿寒 ...",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_zhongwen/11934/production/_129788917_whatsubject.jpg",
+          "link": "https://www.bbc.com/zhongwen/simp/chinese-news-65656315"
+        },
+        {
+          "title": "反对仇视同性恋、双性恋、间性恋与变性者国际日- 美国驻华大使馆和 ...",
+          "imageUrl": "https://china.usembassy-china.org.cn/wp-content/uploads/sites/23/2024/05/5_17_24_IDAHOBIT_2.jpg",
+          "link": "https://china.usembassy-china.org.cn/zh/on-the-international-day-against-homophobia-biphobia-interphobia-and-transphobia-2/"
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

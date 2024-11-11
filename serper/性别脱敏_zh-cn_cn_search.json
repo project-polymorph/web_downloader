@@ -1,0 +1,1823 @@
+{
+  "query": "性别脱敏",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-04T00:37:11.779504",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "性别脱敏",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "如何创建数据脱敏规则 - 阿里云文档",
+          "link": "https://help.aliyun.com/zh/dataworks/user-guide/create-a-data-masking-rule",
+          "snippet": "DataWorks支持多种脱敏场景，您需根据需要选择合适场景创建相应数据脱敏规则。本文为您介绍如何创建脱敏规则，并在DataWorks中进行脱敏查询。",
+          "date": "2024年7月2日",
+          "position": 1
+        },
+        {
+          "title": "性教育脱敏之路——“成长的脚步”走到哪儿了 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_2295059",
+          "snippet": "“对青少年来说，我们教育的目的不是不让他们发生性行为，而是发生时知道如何保护自己。”郭静认为，近年来国内人工流产越发低龄化，与性教育的缺失有直接关系。",
+          "date": "2018年7月26日",
+          "position": 2
+        },
+        {
+          "title": "从社会建构的性到性别脱敏_甄宏丽博士 - 新浪网站导航",
+          "link": "https://blog.sina.com.cn/s/blog_8f69a22f0100yeq3.html",
+          "snippet": "性别脱敏就是指人们对一个人的性别的敏感程度下降，也就是说，我们认识了解一个人时，就把他（她）当成一个具体的人，不因为其社会性别而影响与其交流和交往。",
+          "date": "2011年10月17日",
+          "position": 3
+        },
+        {
+          "title": "“数据脱敏”是一个法律概念或技术概念吗？",
+          "link": "http://www.haiwen-law.com/35/88",
+          "snippet": "数据脱敏提供了这样一种可能性——通过降低数据与主体之间的关联，可以同时保留较高的隐私保护程度和较大的数据利用价值。 “数据脱敏”专题文章将梳理匿名化、 ...",
+          "date": "2021年3月22日",
+          "position": 4
+        },
+        {
+          "title": "数据脱敏技术概述 - CSDN博客",
+          "link": "https://blog.csdn.net/weixin_47302960/article/details/134417285",
+          "snippet": "文章浏览阅读1.2k次。数据脱敏(Data MasKing)，指在不降低数据安全性的前提下，对敏感数据通过脱敏规则进行数据的变形，有效地减少敏感数据在采集、 ...",
+          "date": "2023年11月15日",
+          "position": 5
+        },
+        {
+          "title": "[PDF] 信息安全技术敏感个人信息处理安全要求",
+          "link": "https://www.tc260.org.cn/file/2023-08-08/cf1db508-85e0-4ac0-abc6-ee619e004a25.pdf",
+          "snippet": "e) 对于银行卡号或其他识别标识信息等可以直接或组合后确定个人信息主体的信息应脱敏展示. 金融账户信息，确需完整展示的，应进行个人信息主体身份验证。 注 ...",
+          "date": "2023年8月8日",
+          "position": 6
+        },
+        {
+          "title": "[PDF] 公共数据脱敏技术规范",
+          "link": "https://dbba.sacinfo.org.cn/attachment/downloadStdFile?pk=87c51778e73e240c0e31a3821c0e6d24356964aa3aa00ae07e286535770ce8f0",
+          "snippet": "数据脱敏主要涉及脱敏技术、脱敏实施、脱敏场景和脱敏过程评价四个要素： a）脱敏技术：脱敏技术（见附录A）主要包括脱敏算法、脱敏规则和策略，脱敏算法有泛化 ...",
+          "date": "2024年4月20日",
+          "position": 7
+        },
+        {
+          "title": "针对阴道痉挛的干预措施 - Cochrane",
+          "link": "https://www.cochrane.org/zh-hans/CD001760/DEPRESSN_zhen-dui-yin-dao-jing-luan-de-gan-yu-cuo-shi",
+          "snippet": "阴道痉挛是指性交时女性阴道肌肉收缩。这可能会带来痛苦、情侣关系问题和不孕症。现有治疗方法包括性治疗、教育、催眠和药物治疗。",
+          "date": "2020年3月15日",
+          "position": 8
+        },
+        {
+          "title": "孩子性教育应从父母“性脱敏”开始 - 红网",
+          "link": "https://moment.rednet.cn/content/2021/04/28/9245151.html",
+          "snippet": "父母对性教育的错误观念不仅使孩子的性知识处于空白状态，还增加了孩子形成错误且模糊的性知识的风险。有学者对187名大学生进行调查后发现，男女学生获取性 ...",
+          "date": "2021年4月28日",
+          "position": 9
+        },
+        {
+          "title": "数据脱敏的处理方法及查询 - 北京科技大学信息办",
+          "link": "https://info.ustb.edu.cn/wlaq/aqpx/b02af5a4ad984768a9839e2adf4a1876.htm",
+          "snippet": "根据百度词条的解释，数据脱敏是“指对某些敏感信息通过脱敏规则进行数据的变形，实现敏感隐私数据的可靠保护。在涉及客户安全数据或者一些商业性敏感数据的 ...",
+          "date": "2021年6月18日",
+          "position": 10
+        },
+        {
+          "title": "[PDF] 政务数据第2 部分：脱敏技术规范",
+          "link": "https://amr.ah.gov.cn/group6/M00/06/D2/wKg8BmOHBdaAdRtvABIfWWhiO6U912.pdf",
+          "snippet": "静态数据脱敏按照脱敏策略一次性完成大批量数据的变形转换处理，宜用在非生产环境，具体应用. 场景包括但不限于开发环境、培训环境、测试环境、共享环境、分析环境。 动态 ...",
+          "position": 11
+        },
+        {
+          "title": "[PDF] 广播电视和网络视听收视综合评价数据脱敏规则",
+          "link": "https://www.nrta.gov.cn/module/download/downfile.jsp?classid=0&showname=%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%92%8C%E7%BD%91%E7%BB%9C%E8%A7%86%E5%90%AC%E6%94%B6%E8%A7%86%E7%BB%BC%E5%90%88%E8%AF%84%E4%BB%B7%E6%95%B0%E6%8D%AE%E8%84%B1%E6%95%8F%E8%A7%84%E5%88%99%EF%BC%88%E6%8A%A5%E6%89%B9%E7%A8%BF%EF%BC%89.pdf&filename=b4d03056828045e69e3000dbbe44a71e.pdf",
+          "snippet": "3.1. 个人敏感信息personal sensitive information. 一旦泄露、非法提供或滥用可能危害人身和财产安全，极易导致个人名誉、身心健康受到损害或歧. 视性待遇等的个人信息。",
+          "position": 12
+        },
+        {
+          "title": "数据脱敏：利用API7 企业版确保数据安全性与合规性 - 支流科技",
+          "link": "https://www.apiseven.com/blog/api7-enterprise-and-data-masking",
+          "snippet": "请求处理 · 敏感信息脱敏：API7 企业版可以识别并掩盖请求中的敏感信息，如信用卡号和安全码，避免这些信息被记录到日志中或以明文的形式进行存储。 · 多种 ...",
+          "date": "2024年3月21日",
+          "position": 13
+        },
+        {
+          "title": "什么是数据脱敏 - 亚马逊云科技",
+          "link": "https://www.amazonaws.cn/knowledge/data-masking/",
+          "snippet": "数据分区：将敏感数据分成多个区域，在不同的区域应用不同的脱敏技术，保护数据的隐私和机密性；; 虚拟化：在测试和开发环境中使用虚拟数据代替真实数据，虚拟数据可以是随机生成 ...",
+          "position": 14
+        },
+        {
+          "title": "法律可以量化评价数据脱敏的效果吗？ - 海问律师事务所",
+          "link": "http://www.haiwen-law.com/35/104",
+          "snippet": "从若干年前科技公司野蛮生长，到近年来数据立法接踵而至，信息社会正在两极之间寻求平衡。数据脱敏提供了这样一种可能性——通过降低数据与主体之间的关联， ...",
+          "date": "2021年7月8日",
+          "position": 15
+        },
+        {
+          "title": "i2Masking（数据脱敏） - 英方软件",
+          "link": "https://www.info2soft.com/products/i2masking",
+          "snippet": "i2Masking 是英方自主研发的一款作用于各类关系型数据库的数据脱敏软件，按照相应特定脱敏算法对敏感数据进行变形转换，以降低数据的敏感程度，提高数据安全性，防止私密 ...",
+          "position": 16
+        },
+        {
+          "title": "[DOC] 《公共数据脱敏指南》（征求意见稿）.doc",
+          "link": "http://minyi.zjzwfw.gov.cn/dczjnewls//upload/attachment/ab487452878d4afb94f062b8a9e3108a.doc",
+          "snippet": "敏感数据是指能具备一定的隐私性，一旦泄露会对人、单位、企业、甚至国家产生各种威胁的数据。常见政务数据类型。 动态脱敏. 针对敏感数据进行数据抽取、数据漂白和动态掩码 ...",
+          "position": 17
+        },
+        {
+          "title": "[PDF] 利用Exadata 进行数据脱敏— 最小化风险 - Oracle",
+          "link": "https://www.oracle.com/cn/a/ocom/docs/exadata-for-data-masking-zhs.pdf",
+          "snippet": "条件脱敏. 根据条件以不同方式脱敏多行数据. 示例： 根据国家/地区脱敏国家标识符. 确定性脱敏. 跨多个数据库将数据脱敏为相同的一致值. 示例： 跨架构和数据库一致地脱敏 ...",
+          "position": 18
+        },
+        {
+          "title": "董学耕：数据产品开发与数据脱敏-- 最新动态",
+          "link": "https://dsj.hainan.gov.cn/sjzy/sjcpcs/zxdt/202404/t20240417_3647779.html",
+          "snippet": "尽管如此，开发过程还需要进一步的隐私保护，以防范非技术手段（例如人为记忆、拍照等）接触隐私数据的可能性，进一步织密安全可信网闸。特别是针对非监控环境 ...",
+          "date": "2024年2月19日",
+          "position": 19
+        },
+        {
+          "title": "广州日报】治过敏西医：脱敏治疗 - 广东省人民医院",
+          "link": "http://www.gdghospital.org.cn/healthlecturet/info_itemid_19897_subjectid_45.html",
+          "snippet": "专家指出，过敏性疾病除了要及时治疗外，更要注重生活管理，避开过敏原，减少发病机会。 医学指导/广东省人民医院耳鼻喉科韩虹副主任医师. 西医脱敏疗法对螨虫过敏有效. 螨虫是 ...",
+          "position": 20
+        },
+        {
+          "title": "脱敏_百度百科",
+          "link": "https://baike.baidu.com/item/%E8%84%B1%E6%95%8F/2636152",
+          "snippet": "脱敏，医学名词，是用于治疗特定过敏原所致I型超敏反应的方法，即通过注射少量变应原，诱使致敏 ... 特异性脱敏治疗是当前对哮喘等过敏性疾病采用的治疗方法之一，它是在确定了使 ...",
+          "position": 21
+        },
+        {
+          "title": "浅谈数据脱敏 - Everitt's blog",
+          "link": "https://everitt257.github.io/work/2017/12/25/data-desensitization.html",
+          "snippet": "敏感性列（Sensitive attribute）: 例如收入，患者疾病，交易数额如上缴电费的信息等。 身份泄漏（Identity disclosure）: 当攻击者通过某些属性确认到这些属性 ...",
+          "date": "2017年12月25日",
+          "position": 22
+        },
+        {
+          "title": "工业数据脱敏技术研究 - 国家保密局",
+          "link": "http://www.gjbmj.gov.cn/n1/2022/0321/c411145-32380157.html",
+          "snippet": "在数据脱敏实践方面，目前国内重点行业企业已意识到工业数据安全的重要性，但在数据采集、传输、存储、处理、交换共享等环节，存在未进行有效的数据脱敏、 ...",
+          "date": "2022年3月21日",
+          "position": 23
+        },
+        {
+          "title": "数据脱敏是什么意思？有什么好处？ - 行云管家-产品社区",
+          "link": "https://www.cloudbility.com/club/12860.html",
+          "snippet": "数据脱敏是指对某些敏感信息通过脱敏规则进行数据的变形，实现敏感隐私数据的可靠保护。在涉及客户安全数据或者一些商业性敏感数据的情况下，在不违反系统 ...",
+          "date": "2021年9月10日",
+          "position": 24
+        },
+        {
+          "title": "数据脱敏 - 阿里云文档",
+          "link": "https://help.aliyun.com/document_detail/2527044.html",
+          "snippet": "脱敏算法：用于对敏感数据进行脱敏处理的算法。脱敏算法能够有效地保护敏感数据的安全性，避免信息泄露，同时保留数据的格式和结构，以便于查询和使用 ...",
+          "date": "2024年4月26日",
+          "position": 25
+        },
+        {
+          "title": "美团数据仓库-数据脱敏 - 美团技术团队",
+          "link": "https://tech.meituan.com/2014/04/08/data-desensitization.html",
+          "snippet": "从用户终端维度进行梳理：能够可能标识终端的唯一性字段，如设备id。 从公司角度进行梳理：交易金额、代金卷密码、充值码等. 确定脱敏处理方法. 梳理出了敏感 ...",
+          "date": "2014年4月8日",
+          "position": 26
+        },
+        {
+          "title": "数据脱敏有效性验证方法、装置、计算机设备及存储介质",
+          "link": "https://patents.google.com/patent/CN113988226B/zh",
+          "snippet": "识别模型通过ResNet深度学习算法，将身份证号码的字符长度、字符类型、固定格式等特征提取出来，然后进行个人隐私类数据的具体类型进行相似判别，得出与身份证、手机号码、 ...",
+          "position": 27
+        },
+        {
+          "title": "[PDF] 政务数据数据脱敏规范",
+          "link": "https://qxb-img-osscache.qixin.com/standards/fd0c0b9d50a258d3e8b61c36dda7777f.pdf",
+          "snippet": "此外，在. 处理敏感信息时，应注意根据原始数据的特点和应用场景，选择合适的脱敏方法。 真实性. 4.2. Page 5. DB51/T 3058—2023.",
+          "date": "2023年6月1日",
+          "position": 28
+        },
+        {
+          "title": "广州市国内率先完成全市地下管线信息脱敏处理及在线共享",
+          "link": "http://ghzyj.gz.gov.cn/xwzx/gzdt/content/post_9084482.html",
+          "snippet": "中国自然资源报评价该项工作“标志着久攻不下的地下管线信息脱敏问题有了突破性进展”。 地下管线脱敏数据共享. 一、率先制定地下管线脱敏与共享利用机制。",
+          "date": "2023年6月30日",
+          "position": 29
+        },
+        {
+          "title": "基于生成对抗网络的文本序列数据集脱敏 - 安全内参",
+          "link": "https://www.secrss.com/articles/25490",
+          "snippet": "实验表明，数据集经DP-SeqGAN脱敏后其隐私性和可用性明显提升，成员推断攻击成功率明显降低。",
+          "date": "2020年9月11日",
+          "position": 30
+        },
+        {
+          "title": "任子行数据静态脱敏系统",
+          "link": "http://www.surfilter.com/index/page/index.html?cate=146",
+          "snippet": "系统通过抑制、随机、置空、仿真和加密五大类脱敏技术、十种具体算法和策略为用户提供“保真性”、“关联性”、“可逆性”、“可重复性”、“时效性”、“安全性”等六个不同维度的敏脱 ...",
+          "position": 31
+        },
+        {
+          "title": "数据脱敏系统- 安全产品 - 奇安信",
+          "link": "https://www.qianxin.com/product/detail/pid/422",
+          "snippet": "满足合规性要求. 满足等保、分保、行业相关数据安全规定需求，防止敏感隐私数据在外 ...",
+          "position": 32
+        },
+        {
+          "title": "AiMask数据脱敏系统_数据库脱敏_数据安全产品 - 安恒信息",
+          "link": "https://www.dbappsecurity.com.cn/product/cloud2803.html",
+          "snippet": "安恒AiMask数据脱敏系统是一款卓越的数据脱敏与数据水印产品，具有广泛的数据库支持、出色的性能和良好的可扩展性。它采用独特的脱敏与水印溯源算法，能够高效地处理敏感数据 ...",
+          "position": 33
+        },
+        {
+          "title": "亿赛通静态数据脱敏系统",
+          "link": "https://www.esafenet.com/ystjtsjtmxt",
+          "snippet": "实现自动化发现源数据中的敏感数据，并对敏感数据按需进行脱敏规则变形，避免敏感数据泄露，脱敏后的数据保持了数据的一致性和业务的关联性，应用于开发测试环境、数据交换、 ...",
+          "position": 34
+        },
+        {
+          "title": "GaussDB(DWS)数据脱敏 - 华为云",
+          "link": "https://support.huaweicloud.com/devg-dws/dws_04_0062.html",
+          "snippet": "如果语句有如下特征，则可能存在故意套取敏感数据的可能性，造成语句执行报错。 GROUP BY子句引用与目标列一样含有脱敏列的Target Entry作为分组。 DISTINCT ...",
+          "date": "2024年10月10日",
+          "position": 35
+        },
+        {
+          "title": "AnyBackup 副本数据脱敏生态方案-爱数官网",
+          "link": "https://www.aishu.cn/cn/ab-solution",
+          "snippet": "你的企业是否也面临同样的数据利用困扰？ · 数据利用的合规问题 · 数据脱敏综合成本高昂 · 脱敏后数据存在一致性问题.",
+          "position": 36
+        },
+        {
+          "title": "全国司法行政戒毒系统优势教育戒治项目“系统脱敏戒毒技术”专项培训 ...",
+          "link": "https://sft.hubei.gov.cn/sfxz/bmfb/jdj/202410/t20241028_5389052.shtml",
+          "snippet": "... 性脱敏训练，帮助戒毒人员缓解和消除紧张、焦虑、恐惧等负性情绪，逐渐减少对毒品的心理依赖，最终实现“脱敏”的戒毒技术。该项目被司法部戒毒局评定为 ...",
+          "date": "7天前",
+          "position": 37
+        },
+        {
+          "title": "大数据脱敏-大数据安全-闪捷信息科技有限公司",
+          "link": "https://www.secsmart.com/m/products/shop_1183.html",
+          "snippet": "... 脱敏后保持数据自然语义不变，保护敏感数据的同时，兼顾业务可用性和数据安全性。 0811_大数据动态脱敏逻辑图.png. 0811_大数据静态脱敏逻辑图.png. 产品价值. 满足安全合 ...",
+          "position": 38
+        },
+        {
+          "title": "脱敏治疗，跟过敏性疾病说“再见” - 北京世纪坛医院",
+          "link": "https://www.bjsjth.cn/Html/News/Articles/18408.html",
+          "snippet": "事实上，脱敏治疗现在被称为过敏原特异性免疫治疗，是目前过敏性疾病唯一的对因治疗，其它治疗包括抗组胺药、激素、单抗药物等均为对症治疗。脱敏治疗的原理是让患者由低剂量 ...",
+          "position": 39
+        },
+        {
+          "title": "数据脱敏_脱敏数据还原 - CSDN博客",
+          "link": "https://blog.csdn.net/makenothing/article/details/99448753",
+          "snippet": "指对某些敏感信息通过脱敏规则进行数据的变形，实现敏感隐私数据的可靠保护。在涉及客户安全数据或者一些商业性敏感数据的情况下，在不违反系统规则条件下， ...",
+          "date": "2019年8月19日",
+          "position": 40
+        },
+        {
+          "title": "姚镜课题组在TRPV1通道的“记忆性”脱敏研究中取得新进展",
+          "link": "https://bio.whu.edu.cn/info/1465/8936.htm",
+          "snippet": "TRPV1通道是一种对Ca2+有高通透性的非选择性阳离子通道，而当Ca2+经由激活后的TRPV1通道内流进入细胞后，会诱发TRPV1通道的脱敏反应。进入脱敏状态后的神经 ...",
+          "date": "2019年2月28日",
+          "position": 41
+        },
+        {
+          "title": "CN107798253B - 数据脱敏方法及装置 - Google Patents",
+          "link": "https://patents.google.com/patent/CN107798253B/zh",
+          "snippet": "通过使用不可逆算法提高了数据的安全性，通过记录脱敏数据与待脱敏数据的对应关系，保留了数据的关联性，根据本公开实施例的数据脱敏方法及装置能够在保留数据关联性的情况下， ...",
+          "position": 42
+        },
+        {
+          "title": "动态数据脱敏机制 - GaussDB 文档中心",
+          "link": "https://doc.hcs.huawei.com/db/zh-cn/gaussdb/24.1.30/fd/gaussdb-17-0091.html",
+          "snippet": "可获得性. 本特性自V500R001C00版本开始引入。 特性简介. 数据脱敏是行之有效的数据库隐私保护方案之 ...",
+          "position": 43
+        },
+        {
+          "title": "数据脱敏 - MBA智库百科",
+          "link": "https://wiki.mbalib.com/wiki/%E6%95%B0%E6%8D%AE%E8%84%B1%E6%95%8F",
+          "snippet": "数据脱敏在不降低安全性的前提下，使原有数据的使用范围和共享对象得以拓展，因而是大数据环境下最有效的敏感数据保护方法。 任何涉及敏感信息的行业都对数据脱敏有着天然的 ...",
+          "position": 44
+        },
+        {
+          "title": "儿童过敏性疾病多发儿科专家研讨“脱敏”之道 - 新华网",
+          "link": "http://www.news.cn/health/20230403/3491b0d28196405ea303a6487e58732a/c.html",
+          "snippet": "特异性免疫治疗除了能够修饰（阻断）疾病过程，预防多种过敏，还可以预防过敏性鼻炎进展到哮喘。”长期从事儿童过敏性疾病诊治的海南省人民医院陈实教授表示， ...",
+          "date": "2023年4月3日",
+          "position": 45
+        },
+        {
+          "title": "尘螨过敏，如何选择脱敏疗法？_健康江西 - 青云谱区人民政府",
+          "link": "https://qyp.nc.gov.cn/qypqrmzf/jkjx/202107/1d56403e62614ef797d36694a4444b35.shtml",
+          "snippet": "在哮喘、过敏性鼻炎患儿中，屋尘螨皮试阳性率高达70%。患儿可出现瘙痒性皮疹、喘息、气促、呼吸困难、鼻痒、流涕、喷嚏、眼痒、眼结膜红肿 ...",
+          "date": "2021年7月5日",
+          "position": 46
+        },
+        {
+          "title": "卡介菌多糖核酸联合特异性脱敏治疗湿疹患者的效果观察及护理",
+          "link": "https://rs.yiigle.com/cmaid/528895",
+          "snippet": "试读结束，您可以通过登录机构账户或个人账户后获取全文阅读权限。 已是订阅账户? 登录 ...",
+          "position": 47
+        },
+        {
+          "title": "隐私计算技术在数据脱敏中的应用与思考 - 安全内参",
+          "link": "https://www.secrss.com/articles/43058",
+          "snippet": "这个特质也与数据脱敏的目的高度一致，即在保护敏感数据安全的前提下，实现数据价值合法合规的流通。因此，基于当前数据脱敏技术存在的局限性，本文提出了应用 ...",
+          "date": "2022年6月1日",
+          "position": 48
+        },
+        {
+          "title": "亿赛通动态数据脱敏系统（DMS-D）",
+          "link": "https://www.esafenet.com/ystdtsjtmxt",
+          "snippet": "亿赛通动态数据脱敏系统（DMS-D）是一款高性能、高扩展性自动化识别与数据匿名化产品，实现多数据类型的敏感数据掩码与溯源能力，可根据用户的角色、身份和其他IT信息定义 ...",
+          "position": 49
+        },
+        {
+          "title": "数据静态脱敏系统 - 信安世纪",
+          "link": "https://www.infosec.com.cn/default/index/product_detial/99",
+          "snippet": "支持异构脱敏机制，如将数据从Oracle数据库脱敏到MySQL数据库。 业务关联性. 通过关联算法，使得测试数据抽取和数据脱敏保持 ...",
+          "position": 50
+        },
+        {
+          "title": "[PDF] 公共数据开放第2 部分：数据脱敏指南",
+          "link": "https://dbba.sacinfo.org.cn/attachment/downloadStdFile?pk=503e9335cc3fdaa3d75c28881829ba3139d494759f4fc026325e140c49cce665",
+          "snippet": "4.2 真实. Page 5. DB37/T 3523.2—2019. 2. 数据脱敏宜确保脱敏工作的真实性，脱敏后的数据应尽可能真实地体现原始数据的特征，且应尽可. 能多保留原始数据 ...",
+          "date": "2019年4月21日",
+          "position": 51
+        },
+        {
+          "title": "建立涉健康医疗数据安全管理制度加强“脱敏”信息和隐私保护的双重研究",
+          "link": "https://www.gov.cn/xinwen/2016-06/17/content_5083473.htm",
+          "snippet": "请问在促进健康医疗大数据应用发展过程当中如何保护个人隐私和维护信息安全呢？谢谢。 金小桃：这个问题提得非常有针对性。对于健康医疗大数据所涉及到的 ...",
+          "date": "2016年6月17日",
+          "position": 52
+        },
+        {
+          "title": "受体脱敏_百度百科",
+          "link": "https://baike.baidu.com/item/%E5%8F%97%E4%BD%93%E8%84%B1%E6%95%8F/10479796",
+          "snippet": "受体脱敏，又称受体向下调节，指长时期使用一种激动药后，组织或细胞对激动药的敏感性和反应性下降的现象。",
+          "position": 53
+        },
+        {
+          "title": "儿内科（解放东） - 海口市妇幼保健院",
+          "link": "http://www.hospite.com/module/2/907579146043920384?officeId=907894634661810176",
+          "snippet": "脱敏治疗可从而根本性治疗过敏性疾病，舌下含服突出优点是使用方便，病人可以在 ... 矮小症：身高低于同种族、同年龄、同性别正常健康儿童身高第3个百分位或低于 ...",
+          "position": 54
+        },
+        {
+          "title": "安心！DeepFlow 内置SQL/Redis 协议数据脱敏能力- 云原生",
+          "link": "https://www.deepflow.io/blog/zh/052-build-in-sql-and-redis-data-obfuscation/index.html",
+          "snippet": "SQL、Redis 协议数据中可能存在密码、手机号、身份证号等敏感信息，有合规要求的企业通常不允许在采集或分析可观测性数据时暴露此类敏感数据。",
+          "date": "2024年2月6日",
+          "position": 55
+        },
+        {
+          "title": "[PDF] 制造业数据资产脱敏和交换管理规范 - 辽宁省市场监督管理局",
+          "link": "https://scjg.ln.gov.cn/scjdglj/hd/zjdc/2023092019472796968/2023092019465587795.pdf",
+          "snippet": "... 性是制造业数据资产脱敏和交换管理成功. 的关键要素。数据创建者和提供者需要以高度负责的态度对检查数据的正确性，数据审核环节也应该尽. 责。 6.3.4.2 数据实时性. 确保 ...",
+          "position": 56
+        },
+        {
+          "title": "系统脱敏法- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E7%B3%BB%E7%BB%9F%E8%84%B1%E6%95%8F%E6%B3%95",
+          "snippet": "系统脱敏法（英语：systematic desensitization），又称为系统减敏法、系统减敏感法或渐进式暴露疗法（graduated exposure therapy），是一种认知行为疗法，由南非心理医生 ...",
+          "position": 57
+        },
+        {
+          "title": "儿童是脱敏治疗最佳时期，专家：尘螨过敏应尽早开展对因治疗",
+          "link": "https://www.stdaily.com/index/kejixinwen/202304/65b0ede4c9c3477484f4677240164b2c.shtml",
+          "snippet": "近年来，儿童过敏性疾病发病率呈现不断增长趋势，严重影响患儿生活质量、身心健康乃至威胁生命。",
+          "date": "2023年4月3日",
+          "position": 58
+        },
+        {
+          "title": "药物速发型超敏反应的快速脱敏- UpToDate",
+          "link": "https://www.uptodate.com/contents/zh-Hans/rapid-drug-desensitization-for-immediate-hypersensitivity-reactions",
+          "snippet": "脱敏的可能机制 · 患者选择 · 适应证 · 禁忌证 · 转诊 · 安全性 · 风险分层 · 脱敏治疗的环境与医护人员 · 并发症 · - 突破性症状的发生率 · - 罕见的免疫 ...",
+          "date": "2023年6月26日",
+          "position": 59
+        },
+        {
+          "title": "[DOC] 标准名称 - 资阳市市场监督管理局",
+          "link": "https://scjgj.ziyang.gov.cn/data/upload/ueditor/20231017/652e5093ae6e5.docx",
+          "snippet": "... 脱敏工作执行的规范性和有效性。 在制定数据脱敏规范时，应关注以下事项：. （一 ... （三）替换：按照特定规则对原始数据进行替换，如统一将女性性别替换为F；.",
+          "position": 60
+        },
+        {
+          "title": "快速脱敏治疗变应性哮喘近期疗效观察",
+          "link": "http://www.zgddek.com/CN/abstract/abstract11880.shtml",
+          "snippet": "快速脱敏治疗变应性哮喘近期疗效观察. 洪彦科，肖慧芳，任瑞良，贺佩祥，张国元. 湖南省益阳市中心医院呼吸内科413000. Short-term effect of fast desensitization ...",
+          "position": 61
+        },
+        {
+          "title": "通过API接口对数据进行脱敏 - H3C",
+          "link": "https://www.h3c.com/cn/pub/Document_Center/2023/08/WebHelp_H3C_LZPT_YHZN/html/topic_m220121x0_3225.htm",
+          "snippet": "... 脱敏任务，如临时的一次性脱敏处理、零散数据地脱敏处理等。 对于较小规模数据（小于10000字符，含配置和格式字符）的处理，可以直接通过动态脱敏页面完成，操作步骤如下：.",
+          "position": 62
+        },
+        {
+          "title": "医学微视|儿童过敏性鼻炎脱敏治疗有哪些方法？有年龄限制吗？",
+          "link": "https://xinwen.bjd.com.cn/channels/5b165687a010550e5ddc0e6a/contentShare/5e719732e4b05e1038541c55/AP649a3f52e4b042ca9e8e5059.html",
+          "snippet": "This is a modal window. 视频因格式不支持或者服务器或网络的问题无法加载。 Captions Settings Dialog.",
+          "date": "2023年6月27日",
+          "position": 63
+        },
+        {
+          "title": "导航护理模式在过敏性哮喘患儿脱敏治疗中的应用 - 昆明医科大学学报",
+          "link": "https://kyxuebao.kmmu.edu.cn/article/doi/10.12259/j.issn.2095-610X.S20230914",
+          "snippet": "留言板 · 导航护理模式在过敏性哮喘患儿脱敏治疗中的应用 · Clinical Applications of Navigation Nursing Model in the Desensitization Treatment of Children with ...",
+          "position": 64
+        },
+        {
+          "title": "数据静态脱敏系统 - 海泰方圆",
+          "link": "https://www.haitaichina.com/sjjttmxtsjjttmjtxin/index.htm",
+          "snippet": "1、基于智能引擎和 AI 算法，实现敏感数据的自动发现。 · 2、满足合规性，保护数据隐私，防止数据泄露。 · 3、支持多种格式脱敏，其中保留格式加密能够保留原有数据的格式特性， ...",
+          "position": 65
+        },
+        {
+          "title": "配置数据脱敏- 大数据开发治理平台DataWorks - 阿里云 - Alibaba Cloud",
+          "link": "https://www.alibabacloud.com/help/zh/dataworks/user-guide/configure-data-de-identification",
+          "snippet": "... 性别、国籍。 脱敏规则名称. 该文本框会自动代入用户填写的敏感数据类型（输入字符限制1~30字，包括：中文、英文、数字），您也可以修改名称，当与该 ...",
+          "date": "2024年4月17日",
+          "position": 66
+        },
+        {
+          "title": "眼动脱敏再加工与自我状态疗法在创伤障碍性疾病治疗中的整合",
+          "link": "https://www.cjrtponline.com/CN/Y2011/V17/I3/250",
+          "snippet": "摘要/Abstract. 摘要： 创伤后应激障碍（PTSD）一直以来临床上采用三阶段疗法诊治创伤、分离性及其他障碍性疾病。三阶段疗法整合了眼动脱敏与再加工(EMDR)诊疗标准以及其他 ...",
+          "position": 67
+        },
+        {
+          "title": "活性维生素D3与特异性脱敏疗法治疗小鼠过敏性鼻炎的实验性研究",
+          "link": "https://www.chinagp.net/CN/10.3969/j.issn.1007-9572.2015.33.014",
+          "snippet": "摘要： 目的研究活性维生素D3与特异性脱敏疗法治疗小鼠过敏性鼻炎疗效的差异性。方法2014年7-11月，选取SPF级雌性BALB/c小鼠32只为研究对象。制备葎草花粉粗提液，克隆 ...",
+          "position": 68
+        },
+        {
+          "title": "暴力电子游戏的脱敏效应 - 汉斯出版社",
+          "link": "https://www.hanspub.org/journal/paperinformation?paperid=28887",
+          "snippet": "... 脱敏是正常的保护性过程，是适应性的反应。因此，脱敏常作为临床心理学的一种治疗方法，以减少或消除面对某个刺激产生的焦虑、恐惧等负面情绪反应。 脱敏也可能是适应 ...",
+          "position": 69
+        },
+        {
+          "title": "数据脱敏方案总结 - JavaGuide",
+          "link": "https://javaguide.cn/system-design/security/data-desensitization.html",
+          "snippet": "这样就可以在开发、测试和其它非生产环境以及外包环境中安全地使用脱敏后的真实数据集。在涉及客户安全数据或者一些商业性敏感数据的情况下，在不违反系统 ...",
+          "date": "2024年8月10日",
+          "position": 70
+        },
+        {
+          "title": "360 数据静态脱敏系统",
+          "link": "https://360.net/product-center/360-data-safe/data-static-desensitize",
+          "snippet": "静态脱敏系统可实现自动化发现源数据中的敏感数据，并对敏感数据按需进行漂白、变形、遮盖等处理，避免敏感信息泄露的同时保证脱敏后输出的数据能够保持数据的一致性和业务的 ...",
+          "position": 71
+        },
+        {
+          "title": "防治过敏性鼻炎的三点提醒 - 福建省卫生健康委员会",
+          "link": "https://wjw.fujian.gov.cn/ztzl/jkjy/jksh/202207/t20220711_5951133.htm",
+          "snippet": "过敏原免疫治疗俗称“脱敏疗法”，是过敏性鼻炎和过敏性哮喘等Ⅰ型超敏反应性疾病目前唯一的对因治疗方法。 脱敏疗法使用的是特制的过敏原疫苗，通过皮下注射或 ...",
+          "date": "2022年7月11日",
+          "position": 72
+        },
+        {
+          "title": "脱敏治疗花粉症——让您自由拥抱大自然 - 呼和浩特市第一医院",
+          "link": "https://www.hsdyyy.org.cn/info/1009/2133.htm",
+          "snippet": "一、什么是花粉症花粉症是指具有特应性遗传素质的个体吸入致敏花粉后，引发的以变应性结膜炎、鼻炎、哮喘为主的一系列临床症状。全球患病率为10-40%， ...",
+          "date": "2021年11月11日",
+          "position": 73
+        },
+        {
+          "title": "宁夏住房资金管理中心在全区公积金行业实现首家公积金数据全脱敏",
+          "link": "https://gjj.jiaxing.gov.cn/art/2021/3/3/art_1630205_58897586.html",
+          "snippet": "在公积金数据脱敏过程，中心始终秉承三个一致、一个不可逆的原则，即：去隐私化与保持真实性相一致性；脱敏前后业务处理流程保持一致；数据脱敏后结果一致性； ...",
+          "date": "2021年3月3日",
+          "position": 74
+        },
+        {
+          "title": "邢台银行数据脱敏系统招标公告",
+          "link": "https://www.xtbank.com/xtbank/xwzx91/sub288671/320645/index.html",
+          "snippet": "为满足银监会要求及邢台银行测试数据管理需求，决定引进数据脱敏系统，以实现对测试环境中的生产数据敏感信息进行脱敏变形，提高数据使用的安全性，提升邢台 ...",
+          "date": "2017年2月7日",
+          "position": 75
+        },
+        {
+          "title": "常年性变应性鼻炎的特异性脱敏治疗 - Institutional Repository of ...",
+          "link": "https://ir.pku.edu.cn/handle/20.500.11897/56736",
+          "snippet": "常年性变应性鼻炎的特异性脱敏治疗 [0]. Other Titles, Specific Immunotherapy of Perenial Allergic Rhinitis. Authors, 郭敛容",
+          "position": 76
+        },
+        {
+          "title": "过敏，我们能摆脱吗_同济科普",
+          "link": "https://www.tjh.com.cn/contents/124/8984.html",
+          "snippet": "因为这些脱敏剂是要注入人体的，化学制剂是不能注射入人体的。尽量避开你的过敏原就是最好的治疗方法。 6、过敏性疾病能自愈吗？ 答：有 ...",
+          "position": 77
+        },
+        {
+          "title": "[PDF] 激发子诱导拟南芥悬浮细胞的脱敏性反应`",
+          "link": "https://www.nsfc.gov.cn/csc/20345/22468/pdf/2002/%E6%BF%80%E5%8F%91%E5%AD%90%E8%AF%B1%E5%AF%BC%E6%8B%9F%E5%8D%97%E8%8A%A5%E6%82%AC%E6%B5%AE%E7%BB%86%E8%83%9E%E7%9A%84%E8%84%B1%E6%95%8F%E6%80%A7%E5%8F%8D%E5%BA%94.pdf",
+          "snippet": "脱敏性现象,. 即生物体受到一种刺激并作出反. 应以后,. 在一定时间内对于后续的相同刺激或不同. 刺激作出反应的能力下降,. 包括反应强度的降低与.",
+          "position": 78
+        },
+        {
+          "title": "变应性鼻炎脱敏治疗前后鼻阻力变化",
+          "link": "http://www.j-fzyx.com/article/doi/10.3969/j.issn.1674-4500.2014.03.04",
+          "snippet": "Research of nasal resistance changes of allergic rhinitis before and after desensitization treatment · 变应性鼻炎 / · 鼻阻力 / · 脱敏治疗.",
+          "position": 79
+        },
+        {
+          "title": "关于脱敏凝胶等产品分类界定的通知 - 国家药品监督管理局",
+          "link": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/fgwj/gzwj/gzwjylqx/20031207010101210.html",
+          "snippet": "八、一次性使用冷冻管、培养皿、试管、培养板：供医院化验室使用。不作为医疗器械管理。 九、术前肢体消毒抬升小车：作为I类医疗器械管理。 十、临床检验用 ...",
+          "date": "2003年12月7日",
+          "position": 80
+        },
+        {
+          "title": "InfoSteganos 数据脱敏软件| 广州鼎甲计算机科技有限公司",
+          "link": "https://www.scutech.com/?cat=104",
+          "snippet": "结合访问控制、性能监控等手段对用户数据进行筛选，并依据用户定义的脱敏规则对隐私数据进行替换，规避敏感数据泄漏风险，确保测试数据的业务完整性和有效性。 核心 ...",
+          "position": 81
+        },
+        {
+          "title": "一种配置化的数据脱敏与反脱敏框架实现 - 博客园",
+          "link": "https://www.cnblogs.com/Jcloud/p/17582666.html",
+          "snippet": "1.tony框架背景 · 敏感数据与PC、APP客户端使用明文数据交互，数据安全无法保证。 · 敏感数据浏览缺乏监控，无法针对性的做数据治理。 · 微服务架构系统应用多 ...",
+          "date": "2023年7月26日",
+          "position": 82
+        },
+        {
+          "title": "[PDF] 降低鸡蛋致敏性的加工方法研究进展",
+          "link": "https://www.cabidigitallibrary.org/doi/pdf/10.5555/20173204062",
+          "snippet": "酶解可. 以很大程度上水解蛋白从而降低蛋白质在胃肠道消化的致. 敏性, 被认为是一种理想的脱敏方法, 但酶解会很大程度. 破坏蛋白结构, 影响食物结构和口感, 酶解处理卵白 ...",
+          "position": 83
+        },
+        {
+          "title": "数据脱敏",
+          "link": "https://shardingsphere.apache.org/document/current/cn/features/mask/",
+          "snippet": "随着《网络安全法》的颁布施行，对个人隐私数据的保护已经上升到法律层面。传统的应用系统普遍缺少对个人隐私数据的保护措施。数据脱敏，可实现在不需要对生产数据库中的数据 ...",
+          "position": 84
+        },
+        {
+          "title": "变应性鼻炎患者脱敏治疗前后IFN-γ和IgE及IL-4水平变化的研究",
+          "link": "https://lceh.whuhzzs.com/article/id/335efbda-18f0-429d-b7cd-4f94a43bddc3",
+          "snippet": "结果: 脱敏治疗2年症状改善有效率为85%。治疗后血清IFN-γ水平明显增高,IL-4、总IgE水平明显降低,治疗前后差异有统计学意义(P<0.01),而特异性IgE治疗前后无显著差异(P>0.05) ...",
+          "position": 85
+        },
+        {
+          "title": "数据脱敏系统-北京国泰网信科技有限公司_密码机_工控安全",
+          "link": "https://www.go-tech.com.cn/product_details/1011939536773701632.html",
+          "snippet": "系统采用专用的脱敏处理算法对敏感数据进行变形、屏蔽、替换、加密（格式保留加密和高强度加密）处理，屏蔽了原有数据的敏感性，实现了数据的隐私性保护。脱敏后的数据与原有 ...",
+          "position": 86
+        },
+        {
+          "title": "CMDE关于牙科脱敏剂脱敏效果的评价方法 - 【苏大检测】",
+          "link": "https://www.sudatest.com/news/detail?id=2040",
+          "snippet": "对于物理堵塞类牙科脱敏剂产品的脱敏效果可使用牙本质小管封堵效果研究进行评价，目前主要有两种体外测试方法评价其封堵效果。一是牙本质通透性测试法，通过测量牙本质片经 ...",
+          "position": 87
+        },
+        {
+          "title": "脱敏治疗组 - 武汉大学中南医院",
+          "link": "https://www.znhospital.com/gmfyk/specialty_group/detail/12696.html",
+          "snippet": "（组员：张书辰、董翔） 特异性免疫治疗也称脱敏治疗，在临床应用已100余年，它是将过敏原制成疫苗，浓度从低到高，剂量由小到大，给患者反复皮下注射，使其对过敏原的耐受能力 ...",
+          "position": 88
+        },
+        {
+          "title": "脱敏治疗可以根治过敏性鼻炎吗？ - 清远市妇幼保健院",
+          "link": "http://www.qyfy.com.cn/note/note5/2020-04-14/2671.html",
+          "snippet": "这种治疗利用引起患者过敏的物质提炼出来的制剂，通过注射或者其他给药方式与患者进行由少量逐渐加大计量进行反复接触，提高患者对此类过敏性物质的耐受性， ...",
+          "date": "2020年3月14日",
+          "position": 89
+        },
+        {
+          "title": "基于语义的医疗文本脱敏研究",
+          "link": "https://d.wanfangdata.com.cn/thesis/D02291412",
+          "snippet": "... 脱敏框架。其中，如何准确识别不具备规律性结构的医疗敏感术语；并在此基础上，如何识别与其具有强语义相关性的敏感相关术语，用以防止潜在的攻击者通过敏感相关术语 ...",
+          "position": 90
+        },
+        {
+          "title": "天融信数据脱敏系统",
+          "link": "https://www.topsec.com.cn/products/Data-desensitization",
+          "snippet": "脱敏任务以项目引导操作简单，脱敏结果支持抽样检查。脱敏系统基于自研安全操作系统设计研发，适配度高，安全性强。 应用场景. 数据脱敏. 通过将业务数据库数据导出文件 ...",
+          "position": 91
+        },
+        {
+          "title": "“专注脱敏·以新拓界”活动在广州举行 - 新华网",
+          "link": "http://www.news.cn/health/20240914/85628a8bfe3241769727f1b08c49fd4e/c.html",
+          "snippet": "当下的季节，不少过敏性鼻炎和哮喘患者的病情频繁发作。专家们认为，面对日趋严重的过敏性疾病负担，脱敏治疗作为可能改变过敏性疾病自然进程的治疗方法，不仅 ...",
+          "date": "2024年9月14日",
+          "position": 92
+        },
+        {
+          "title": "数据库动态脱敏系统-为数字中国建设贡献技术力量 - 中孚信息",
+          "link": "https://www.zhongfu.net/products/info/130.html",
+          "snippet": "数据动态脱敏系统基于SQL拦截技术、结果集回写技术、数据去标识技术，对访问数据库中的敏感数据实时去标识化处理，保护数据的隐私性和安全性。默认支持置空、遮蔽脱敏 ...",
+          "position": 93
+        },
+        {
+          "title": "嘉兴银行数据脱敏系统项目竞争性磋商采购公告",
+          "link": "https://www.gslb.bojx.com/bojx/khfw/zbgg/2021041212543463627/index.html",
+          "snippet": "嘉兴银行数据脱敏系统项目竞争性磋商采购公告. 发布时间：2020-08-07 12:54. 根据《国有金融企业集中采购管理暂行规定》，就以下项目进行竞争性磋商，特邀请国内合格的 ...",
+          "position": 94
+        },
+        {
+          "title": "数据脱敏产品 - 公安部第三研究所认证中心",
+          "link": "http://www.trimps.net.cn/html/pro/networksecurity/datamask/index.html",
+          "snippet": "不可否认性鉴别类产品 · 路由器产品 · 完整性鉴别类产品 · 网关产品 · 视频安全接入网关 · 视频安全管理平台 · 云计算安全综合防御 · 视频数据安全交换 · 物联网接入控制 ...",
+          "position": 95
+        },
+        {
+          "title": "一个PDF文件，如何脱敏、擦除掉敏感内容呢？谢谢。",
+          "link": "https://answers.microsoft.com/zh-hans/msoffice/forum/all/%E4%B8%80%E4%B8%AApdf%E6%96%87%E4%BB%B6%E5%A6%82/b763994e-8728-40db-930b-80e5be6f0a54",
+          "snippet": "一个PDF文件，如何脱敏、擦除掉敏感内容呢？谢谢。 在Windows中，用Edge浏览器打开一个PDF文件后，Edge的功能区有一个橡皮檫图标，功能 ...",
+          "date": "2024年6月21日",
+          "position": 96
+        },
+        {
+          "title": "蒿属花粉过敏性疾病脱敏药物的开发 - 浙江省科技厅 - 浙江省人民政府",
+          "link": "https://kjt.zj.gov.cn/art/2016/1/28/art_1228992679_31085.html",
+          "snippet": "2016年1月14日，浙江省科学技术厅在杭州组织召开了由浙江我武生物科技股份有限公司承担的浙江省重大科技专项重点社会发展项目“蒿属花粉过敏性疾病脱敏药物的 ...",
+          "position": 97
+        },
+        {
+          "title": "开空调也能导致过敏？没关系！脱敏治疗了解一下",
+          "link": "https://hz3861.gd.cn/wap/?news/4407",
+          "snippet": "广东最近的天气越来越热，有网友表示“热鼠辣！”大家纷纷打开了尘封已久的空调可是您知道吗？过敏性疾病！？过敏性疾病是一种受遗传倾向及环境因素共同影响的免疫性疾病， ...",
+          "position": 98
+        },
+        {
+          "title": "数据静态脱敏系统-中国—东盟信息港股份有限公司官网",
+          "link": "http://www.caih.com/subpage_543.html",
+          "snippet": "随着数字经济蓬勃发展，数据不仅成为了国家基础性战略资源，也成为推动经济社会创新发展的关键生产要素。国家和各行业相继出台数据安全法律法规和相关政策，数据价值 ...",
+          "position": 99
+        }
+      ],
+      "images": [
+        {
+          "title": "360 数据静态脱敏系统- 360数字安全",
+          "imageUrl": "https://360.net/assets/img/360-data-safe/static_gnjc.png",
+          "link": "https://360.net/product-center/360-data-safe/data-static-desensitize"
+        },
+        {
+          "title": "亿赛通-亿赛通静态数据脱敏系统",
+          "imageUrl": "https://nwzimg.wezhan.cn/contents/sitefiles2058/10290389/images/44141127.jpg",
+          "link": "https://www.esafenet.com/ystjtsjtmxt"
+        },
+        {
+          "title": "大数据脱敏-大数据安全-闪捷信息科技有限公司",
+          "imageUrl": "https://www.secsmart.com/upfiles/2021/1628839698806250.png",
+          "link": "https://www.secsmart.com/m/products/shop_1183.html"
+        },
+        {
+          "title": "AiMask数据脱敏系统_数据库脱敏_数据安全产品_安恒信息",
+          "imageUrl": "https://www.dbappsecurity.com.cn/Upload/image/20231212/20231212175400_8229.jpg",
+          "link": "https://www.dbappsecurity.com.cn/product/cloud2803.html"
+        },
+        {
+          "title": "工业数据脱敏技术研究--国家保密局互联网门户网站",
+          "imageUrl": "http://www.gjbmj.gov.cn/NMediaFile/2022/0321/MAIN202203211627000460747321693.png",
+          "link": "http://www.gjbmj.gov.cn/n1/2022/0321/c411145-32380157.html"
+        },
+        {
+          "title": "i2Masking（数据脱敏） | 英方软件",
+          "imageUrl": "https://www.info2soft.com/wp-content/themes/zCloud/img/products2021/Masking/description.svg",
+          "link": "https://www.info2soft.com/products/i2masking"
+        },
+        {
+          "title": "亿赛通-亿赛通静态数据脱敏系统",
+          "imageUrl": "https://nwzimg.wezhan.cn/contents/sitefiles2058/10290389/images/44150270.jpg",
+          "link": "https://www.esafenet.com/ystjtsjtmxt"
+        },
+        {
+          "title": "如何使用静态脱敏和动态脱敏_数据安全中心(DSC)-阿里云帮助中心",
+          "imageUrl": "https://help-static-aliyun-doc.aliyuncs.com/assets/img/zh-CN/7303558271/CAEQTxiBgIDcjOHrjRkiIGZjNmYyYmIyMTkyNjRiYTliMjVlMmVlYTk1Yjg4OGU24656202_20240902110218.460.svg",
+          "link": "https://help.aliyun.com/zh/dsc/data-security-center/user-guide/data-de-identification"
+        },
+        {
+          "title": "隐私计算技术在数据脱敏中的应用与思考- 安全内参| 决策者的网络安全知识库",
+          "imageUrl": "https://s.secrss.com/anquanneican/87deda27ccb7deb3ff80b54d2b1e3d06.png",
+          "link": "https://www.secrss.com/articles/43058"
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "性别脱敏",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "[PDF] 交通运输数据脱敏指南 - ITS114",
+          "link": "http://www.its114.com/uploadfile/20220719/1658223526572494.pdf",
+          "snippet": "本文件适用于交通运输数据脱敏工作，为数据脱敏工作的规划、实施和管理提供指导。 2 规范性引用文件. 下列文件中的内容通过文中的规范性引用而构成本文件必不可少的条款。",
+          "position": 1
+        },
+        {
+          "title": "《个人信息安全规范》在OTA企业中的实践",
+          "link": "https://www.tc260.org.cn/front/postDetail.html?id=20200805095410",
+          "snippet": "一般永久性脱敏显示，在用户端查看身份证，手机号等敏感信息时，可以隐去中间几位，避免由于账号丢失造成的泄露。 数据遮罩也是一种展示限制措施，主要用于系统 ...",
+          "date": "2020年8月5日",
+          "position": 2
+        },
+        {
+          "title": "女性性交恐惧家庭系统脱敏治疗流程及注意事项 - 好大夫在线",
+          "link": "https://www.haodf.com/neirong/wenzhang/4557516921.html",
+          "snippet": "治疗介绍，病因，治疗方法，中国性学会性医学专业委员会副主任委员北京大学医学部北京回龙观医院主任医师邸晓兰因女性害怕男性阴茎插入阴道会疼痛， ...",
+          "date": "2016年7月2日",
+          "position": 3
+        },
+        {
+          "title": "中药喷剂联合脱敏疗法治疗原发性早泄的临床研究 - 北京大学期刊网",
+          "link": "http://ccj.pku.edu.cn/Article/info?aid=312756054",
+          "snippet": "方法:将105例(年龄19 ～40岁,平均31.1岁)原发性早泄患者分为三组,每组35例.A组患者单用自制中药喷剂,1次/d;B组单用伟力男科工作站“早泄脱敏训练疗法”,每周治疗3次;C组自制 ...",
+          "position": 4
+        },
+        {
+          "title": "脱敏治疗人人适用？ - 无锡日报",
+          "link": "https://www.wxrb.com/doc/2023/05/05/273315.shtml",
+          "snippet": "每到花粉季，不少人就会出现眼痒、鼻塞等症状，十分难熬。一些患者找到医生，想求助于脱敏治疗，让自己摆脱痛苦。 脱敏治疗是过敏原特异性免疫治疗的简称， ...",
+          "date": "2023年5月5日",
+          "position": 5
+        },
+        {
+          "title": "螨脱敏——过敏性疾病儿童的选择 - 杭州市第一人民医院",
+          "link": "https://www.hz-hospital.com/content/details/id/206018?cid=70",
+          "snippet": "影响哮喘根治的因素，一是遗传因素，二是环境因素。脱敏治疗可以帮助患者建立完善的免疫系统，经过脱敏治疗，鼻炎、哮喘即使发作了，症状也会很轻，甚至不发作。",
+          "date": "2020年6月16日",
+          "position": 6
+        },
+        {
+          "title": "企业出海数据合规：何为数据脱敏 - 用九智汇",
+          "link": "https://www.yong9ai.com/article/detail/f1db91ff99a0512bb6970b9cae084d03",
+          "snippet": "法律规定了对敏感数据的保护要求，而数据脱敏技术则是实现这些要求的具体手段之一。 （2）数据脱敏的本质. 可识别性是个人信息的本质特征，不可识别性是数据脱敏的 ...",
+          "position": 7
+        },
+        {
+          "title": "[PDF] 大连银行利用Informatica 数据脱敏方案保护敏感信息",
+          "link": "https://www.informatica.com/content/dam/informatica-com/zh/collateral/customer-success-story/bank-of-dalian_customer-story.pdf",
+          "snippet": "大连银行从创建伊始，就非常注重数. 据的安全性，他们分阶段利用不同的. 技术手段，梳理了客户现有系统的数. 据中敏感信息及表间及系统间的逻辑.",
+          "position": 8
+        },
+        {
+          "title": "企业落实个保法“去标识化”要求Q&A - 北源律师事务所",
+          "link": "https://www.beiyuanlawyer.com/beiyuanlvsuo/appoint/08902b20-c74a-4773-a0ab-753f7f300d2d.html",
+          "snippet": "从定义及处理效果而言，“脱敏”和“去标识化”都是降低数据敏感性但不改变数据原来的属性的安全技术措施。 （2）与GDPR及CCPA的假名化相似. 我国《个保法》语境下的“去标识化” ...",
+          "position": 9
+        },
+        {
+          "title": "数据脱敏系统 - 观安信息",
+          "link": "https://www.idss-cn.com/plus/list70d9.html",
+          "snippet": "脱敏数据保持原有数据特征、关联性、一致性、可逆性，可实现对静态数据库、文件的脱敏，支持基于用户角色、访问物理身份、访问页面和敏感数据类型，提供敏感数据实时 ...",
+          "position": 10
+        },
+        {
+          "title": "[PDF] 皮下注射脱敏治疗儿童变应性鼻炎的安全性及依从性观察",
+          "link": "http://zgebyheldwkzz.ijournals.cn/zgebyheldwkzz/article/pdf/1007-1520201503021?file_name=93B673825CB84645AFA992DD124E2D27AA1A8368EA64A468A19E893909FE66E6AA908A248E40C9E11D37000AE94FDAEFDD5705954646C861543CB85628F45F67&open_type=self",
+          "snippet": "但脱敏治疗存在一定的风险，特别是儿童患者。现. 就我科用阿罗格脱敏液皮下脱敏治疗儿童变应性鼻. 炎的安全性、依从性及护理对策报道如下。 1 资料与方法. 1.1 一般资料.",
+          "position": 11
+        },
+        {
+          "title": "指尖医生| 过敏性鼻炎到底要不要做脱敏治疗？ - 上观新闻",
+          "link": "https://www.jfdaily.com/sgh/detail?id=1058936",
+          "snippet": "对因治疗也就是脱敏治疗，包括皮下注射和舌下含服。可以有效提高触发过敏的阈值，减少减轻甚至杜绝过敏症状的发生，并且可以降低哮喘发病的概率。优点是大 ...",
+          "date": "2023年6月24日",
+          "position": 12
+        },
+        {
+          "title": "数据脱敏平台_江苏保旺达软件技术有限公司",
+          "link": "https://www.bwda.net/datasecurity/16.html",
+          "snippet": "静态脱敏、动态脱敏集于一身的综合性脱敏系统，内置多种脱敏、转换规则，高效识别敏感数据风险，可实现脱敏任务进行日志审计和备份恢复管理。",
+          "position": 13
+        },
+        {
+          "title": "数据库静态脱敏- 产品与服务 - 数安易（北京）科技有限公司",
+          "link": "http://shuanyi.net/index.php?catid=6",
+          "snippet": "该系统在满足多场景的前提下，同时保证了数据在使用过程中的安全性。系统内置多种专有数据脱敏规则，包括:数据遮蔽、数据仿真、关键部分替换、数据随机替换等，以达到 ...",
+          "position": 14
+        },
+        {
+          "title": "全球最大的脱敏治疗公司：ALK，开启脱敏治疗新时代 - 药融云",
+          "link": "https://www.pharnexcloud.com/zixun/sx_7161",
+          "snippet": "对症治疗通常用以缓解过敏性鼻炎的症状，但只在服药后有效。免疫治疗直击过敏根源和过敏性哮喘，通过对免疫系统进行重新编程，使之更好地应对与特定过敏原的接触 ...",
+          "position": 15
+        },
+        {
+          "title": "舌下脱敏治疗粉尘螨性变应性鼻炎60例效果观察",
+          "link": "https://www.sinomed.ac.cn/article.do?ui=2009489454",
+          "snippet": "作者： 岳承; 舒畅. 作者地址：. 来源出版物：江苏大学学报·医学版卷：19期：5. 关键词： 粉尘螨 变应性鼻炎 舌下含服脱敏. 摘要：. 变应原特异性免疫治疗(SIT)是目前已知的 ...",
+          "position": 16
+        },
+        {
+          "title": "快速脱敏方案在抗结核药物导致的速发型超敏反应中的疗效与安全性 ...",
+          "link": "http://www.cata1933.cn/showNewsDetail.asp?catansId=7006",
+          "snippet": "快速脱敏方案在抗结核药物导致的速发型超敏反应中的疗效与安全性研究-吴于青-江西省胸科医院. 2024/7/23 10:26:05 新闻来源：江西省胸科医院. 题目：快速脱敏方案在抗 ...",
+          "position": 17
+        },
+        {
+          "title": "数据脱敏管理(SDM)- - 上讯信息",
+          "link": "https://www.suninfo.com/sdm.html",
+          "snippet": "数据备份价值优势. 周期增量备份与全量快照合成，保证全量数据的时效性快速恢复验证备份数据的可恢复性、有效性业务应急接管，实现容灾恢复最佳的RTO与RPO · 备份数据自动化 ...",
+          "position": 18
+        },
+        {
+          "title": "数据治理之数据脱敏技术研究 - 普元",
+          "link": "https://www.primeton.com/read.php?id=3005",
+          "snippet": "百度百科对数据脱敏的定义为：指对某些敏感信息通过脱敏规则进行数据的变形，实现敏感隐私数据的可靠保护。在涉及客户安全数据或者一些商业性敏感数据的情况下，在不违反系统 ...",
+          "position": 19
+        },
+        {
+          "title": "美创科技数据脱敏系统 - 云巴巴",
+          "link": "https://www.yun88.com/product/1111.html",
+          "snippet": "可实现自动化发现源数据中的敏感数据，并对敏感数据按需进行漂白、变形、遮盖等处理，避免敏感信息泄露，同时又能保证脱敏后的输出数据能够保持数据的一致性和业务的关联性。",
+          "position": 20
+        },
+        {
+          "title": "数据静态脱敏系统 - 美创科技",
+          "link": "http://mchz.com.cn/date-security/DM",
+          "snippet": "数据静态脱敏系统是一款面向敏感数据进行自动发现，并对敏感数据按需进行脱敏处理，避免敏感信息泄露。同时又能保证脱敏后的输出数据能够保持数据的一致性和业务的关联性 ...",
+          "position": 21
+        },
+        {
+          "title": "【学术】国医大师王琦医案故事：脱敏汤治人工荨麻疹",
+          "link": "https://zyj.beijing.gov.cn/sy/xsyd/hdtz/201912/t20191219_1307637.html",
+          "snippet": "作者：韩珺雯北京中医药大学. 王琦教授的经验方脱敏汤只有四味药，乌梅、蝉衣、赤芝、防风，益气祛风脱敏，可作为一切过敏性疾病的基础方。在此方基础上随症加减，标本共治， ...",
+          "position": 22
+        },
+        {
+          "title": "季节过敏性鼻炎系列（三）：“脱敏”治疗- 中国军网",
+          "link": "http://www.81.cn/zghjy/2017-08/01/content_7698236.htm",
+          "snippet": "脱敏治疗也叫过敏原特异性免疫治疗，简单来说，就是少量多次给患者注射过敏原使之产生耐受。",
+          "date": "2017年8月1日",
+          "position": 23
+        },
+        {
+          "title": "路畅科技图像脱敏技术守护汽车数据安全-产品动态-新闻中心",
+          "link": "http://www.roadrover.cn/index.php?c=content&a=show&id=930",
+          "snippet": "车载智能传感设备采集的图像、音视频、道路、环境、车辆数据等信息不断增加。数据在生产和生活中扮演了重要角色，也逐渐成为重要的资产。海量数据的安全性问题，也引发了各方 ...",
+          "position": 24
+        },
+        {
+          "title": "刘亦菲原谅渣男，是为了告诉你：啥叫脱敏性复合？-腾讯新闻",
+          "link": "https://news.qq.com/rain/a/20240614A0742S00",
+          "snippet": "在与庄国栋的恋爱关系中，用整颗炽热的心去爱的黄亦玫，耗尽了爱意，磨平了自尊，浑身带伤后认清庄国栋人品，果断分手，把感情开始与结束的主动权，握在自己手里 ...",
+          "date": "2024年6月14日",
+          "position": 25
+        },
+        {
+          "title": "数据脱敏 - 在线资料平台",
+          "link": "https://doc.hcs.huawei.com/zh-cn/devg/dws/dws_04_0062.html",
+          "snippet": "子查询的目标列不是基表的脱敏列，而是基表脱敏列的表达式或者函数调用。 支持脱敏数据的COPY TO或者GDS导出功能。由于脱敏数据的不可逆性，针对脱敏数据的二次运算 ...",
+          "position": 26
+        },
+        {
+          "title": "数据脱敏平台UXDM_优炫软件-让中国人用上自己的数据库",
+          "link": "https://www.uxsino.com/index/152",
+          "snippet": "本产品生产数据进行落地，确保了生产数据脱敏过程中的安全性。 优炫数据脱敏平台遵循Java EE技术规范，采用组件化、动态化的软件技术，利用可共享的数据模型， ...",
+          "position": 27
+        },
+        {
+          "title": "长效变应原制剂脱敏治疗变应性鼻炎的疗效 - 中华医学期刊网",
+          "link": "https://rs.yiigle.com/CN431274201406/279998.htm",
+          "snippet": "目的探讨采用长效变应原制剂对由粉尘螨和屋尘螨所引起的变应性鼻炎进行脱敏治疗的效果。方法采用螨变应原注射液对129例尘螨致变应性鼻炎患者进行特异 ...",
+          "date": "2014年6月20日",
+          "position": 28
+        },
+        {
+          "title": "水浴脱敏仪器男性性功能康复治疗仪 - Taobao",
+          "link": "https://mobile-phone.taobao.com/chanpin/77d11a3670bbe6c7bf6275fe837dfe99a054a04168f9fa920572badc0c4b835da46e77832483fb95a32bb0a9406c1b5b9b3cf13c71f303216a59c32fd38abb19.html",
+          "snippet": "淘宝为你找到水浴脱敏仪器男性性功能康复治疗仪相关商品让你挑选，并提供了最新的折扣价格、详尽的产品规格参数、多样化的尺寸选项以及各相关品牌信息，助您以更优惠的 ...",
+          "position": 29
+        },
+        {
+          "title": "案例丨某银行数据库脱敏项目 - 安全牛",
+          "link": "https://www.aqniu.com/learn/19367.html",
+          "snippet": "为了满足政策合规性，也为了解决生产环境中敏感数据应用于非生产环境带来的数据脱敏需求，该行采用安华金和的DBMasker数据库脱敏系统，解决敏感信息泄露 ...",
+          "date": "2016年8月14日",
+          "position": 30
+        },
+        {
+          "title": "产品中心- DDM（帕拉迪动态数据脱敏系统）",
+          "link": "https://www.pldsec.com/product.aspx?id=27B89D5EE6D0AE35",
+          "snippet": "1.数据安全防护：有效保护敏感数据的安全，通过对数据进行脱敏，有效降低数据泄露的风险，提高数据的保密性和隐私性； · 2.合规性遵从：很多行业和地区都有相应的数据保护法规和合 ...",
+          "position": 31
+        },
+        {
+          "title": "强化语义一致性的差分隐私文本脱敏方法 - 信息安全研究",
+          "link": "http://www.sicris.cn/CN/Y2024/V10/I8/706",
+          "snippet": "摘要/Abstract. 摘要： 文本脱敏是一种极为重要的隐私保护方法，其隐私保护效果和与原文本语义一致性的平衡是一个难题.现有差分隐私脱敏方法对敏感词脱敏时，采用相似性计算 ...",
+          "position": 32
+        },
+        {
+          "title": "产品手册-数据库静态脱敏系统SDM-深信服技术支持",
+          "link": "https://support.sangfor.com.cn/productDocument/read?product_id=196&version_id=1033",
+          "snippet": "保护敏感数据，安全开展业务 · 满足合规性要求 · 培训赋能 · 数据库静态脱敏系统SDM 文档 产品手册. 产品手册. 阅读权限：游客. 下载pdf. 下载. 分享本内容.",
+          "date": "2024年6月4日",
+          "position": 33
+        },
+        {
+          "title": "孩子过敏性鼻炎老不好？ 舌下脱敏了解一下...... - 宁德市医院",
+          "link": "https://www.ndsyy.com/info/1167/2328.htm",
+          "snippet": "药瓶倾斜，将液滴滴于舌下（舌根处），含1-3分钟后吞咽，每日1次，固定时间用药。若一次用药滴数过多可分多次服用。",
+          "date": "2020年1月9日",
+          "position": 34
+        },
+        {
+          "title": "基于糖基化修饰降低虾原肌球蛋白致敏性及过敏脱敏 - X-MOL",
+          "link": "https://www.x-mol.com/paper/1430283001422135296/t?recommendPaper=1328817430056837120",
+          "snippet": "此外，低过敏性GTM + Al(OH) 3作为候选免疫疗法是有效的；这项工作旨在提供临床前数据以促进GTM + Al(OH) 3作为一种候选的过敏原特异性免疫疗法，用于使对虾类食物过敏的患者 ...",
+          "position": 35
+        },
+        {
+          "title": "数据脱敏-观远数据BI平台",
+          "link": "https://www.guandata.com/gy/post/1051.html",
+          "snippet": "1. 产品概述数据脱敏，是指观远数据能够对某些敏感信息通过脱敏规则进行数据的变形，从而实现对敏感隐私数据的保护。例如在涉及客户安全数据或者一些商业性敏感数据的 ...",
+          "position": 36
+        },
+        {
+          "title": "缩宫素受体脱敏的预防和处理研究进展 - 复旦学报(医学版)",
+          "link": "https://jms.fudan.edu.cn/CN/10.3969/j.issn.1672-8467.2020.06.022",
+          "snippet": "... 脱敏感，导致子宫对缩宫素的反应性下降。目前临床缺乏公认的OTR脱敏的预防和处理指南，结合现有的证据，本文就缩宫素的作用机制、OTR的脱敏和复敏、识别OTR脱敏的高危 ...",
+          "position": 37
+        },
+        {
+          "title": "中国新颁布信息敏感政策：数据脱敏的重要性与影响分析 - SNP",
+          "link": "https://www.snpgroup.cn/newsblog/7285.html",
+          "snippet": "中国新颁布信息敏感政策与数据脱敏的重要性 · 1. 保护国家利益：数据脱敏有助于保护国家敏感信息，防止数据泄露对国家安全造成威胁。 · 2. 商业竞争优势： ...",
+          "date": "2024年1月22日",
+          "position": 38
+        },
+        {
+          "title": "合规治理| 数据脱敏技术应用与展望 - 专题频道- 光明网",
+          "link": "https://topics.gmw.cn/2022-07/13/content_35881052.htm",
+          "snippet": "包括前期的保密性审计，如原始字段、开展业务所需字段的敏感内容审计，中期的可用性审计，如脱敏字段与业务需求匹配度，以及后期的准确性审计。 2.技术与策略 ...",
+          "date": "2022年7月13日",
+          "position": 39
+        },
+        {
+          "title": "聊聊脱敏治疗那些事儿变态反应科 - 北京世纪坛医院",
+          "link": "https://bjsjth.cn/Html/News/Articles/26889.html",
+          "snippet": "脱敏治疗，即过敏原特异性免疫治疗，是世界卫生组织针对过敏性疾病“四位一体”治疗体系中唯一能改变疾病进程的对因治疗方法。其原理是经过检测获得患者过敏原类型后， ...",
+          "position": 40
+        },
+        {
+          "title": "配置脱敏规则_数据安全中心DSC - 华为云",
+          "link": "https://support.huaweicloud.com/usermanual-dsc/dsc_01_0022.html",
+          "snippet": "如果您需要删除已配置的加密脱敏规则，可在目标规则所在列的“操作”列，单击“删除”。 说明：. 单击 打开轮换策略，轮换周期到期后会更新当前加密配置提升安全性 ...",
+          "position": 41
+        },
+        {
+          "title": "「国家层面」数据脱敏标准全收录：掌握关键指南，值得一读！ - 监控通",
+          "link": "https://www.jktong.com/f/page/art_20231226_199864.shtml",
+          "snippet": "由于访问业务系统时效性要求较高，推荐采用动态脱敏方式。 本场景中，应采用不可逆脱敏算法对数据进行脱敏展示，防止运维人员接触敏感信息。",
+          "date": "2023年12月26日",
+          "position": 42
+        },
+        {
+          "title": "数据脱敏和数据加密有什么不同？ - 星环科技",
+          "link": "https://www.transwarp.cn/bd/1165",
+          "snippet": "它提供了三个要素:机密性、完整性和可用性安全。如果加密数据丢失、被盗或未经授权访问，将毫无意义。数据，或者明文，使用加密算法和加密密钥，一旦加密，加密 ...",
+          "date": "2023年10月30日",
+          "position": 43
+        },
+        {
+          "title": "数据脱敏和数据加密，它们有什么不同？ - PrimiHub - 博客园",
+          "link": "https://www.cnblogs.com/primihub/p/17910583.html",
+          "snippet": "数据脱敏是一项具有挑战性的工作。脱敏后的数据集必须保持与原始未脱敏数据集的复杂性和独特特征相同，以便查询和分析仍然能够产生 ...",
+          "date": "2023年12月18日",
+          "position": 44
+        },
+        {
+          "title": "[PDF] 数据脱敏产品简介",
+          "link": "https://main.qcloudimg.com/raw/document/product/pdf/882_19392_cn.pdf",
+          "snippet": "支持K 匿名等高级脱敏算法，能够对敏感数据集进行泛化处理，确保脱敏后数据不被社工或者撞库等攻击行为破解. 还原。 支持周期性任务，能够在两个数据库之间周期性的自动同步 ...",
+          "position": 45
+        },
+        {
+          "title": "针对阴道痉挛的干预措施- Melnik, T - 2012 | Cochrane Library",
+          "link": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001760.pub2/full/zh_HANS",
+          "snippet": "阴道痉挛是指阴道肌肉的无意识收缩，这会使性交变得困难或不可能。这是一种比较常见的女性性心理问题。现在有许多针对阴道痉挛的治疗策略，比如性治疗和脱敏 ...",
+          "date": "2012年12月12日",
+          "position": 46
+        },
+        {
+          "title": "数据库静态脱敏|天玥网络安全审计系统V6.0 - 启明星辰",
+          "link": "https://www.venustech.com.cn/new_type/sjkjttm/",
+          "snippet": "... 脱敏产品，是针对用户数据进行流程化管理，对敏感数据进行脱敏的管控平台。集数据抽取、敏感信息自动发现、脱敏 ... 性。特别适用于企业日常数据提取和分析使用，多个用户多种 ...",
+          "position": 47
+        },
+        {
+          "title": "数据脱敏脱密平台 - 深圳太极数智技术有限公司",
+          "link": "https://www.tyky.com.cn/solution/show-29.html",
+          "snippet": "采用元数据相关技术，实现对政府及机构各部门业务数据的清洗与整理，并通过整合加工，将不同来源、不同类型的海量数据形成具有完备性、一致性和权威性的数据资源，同时 ...",
+          "position": 48
+        },
+        {
+          "title": "动态数据脱敏系统_【安华金和】",
+          "link": "https://www.dbsec.cn/pro/dms-d.html",
+          "snippet": "动态数据脱敏通过SQL代理技术，在数据库通讯协议层面实现了完全透明的、实时的敏感数据掩码能力，是一款具有高性能和高扩展性的动态数据屏蔽和脱敏产品。",
+          "position": 49
+        },
+        {
+          "title": "管理脱敏算法 - 什么是NineData",
+          "link": "https://docs.ninedata.cloud/configuration/sensitive_data/data_masking_algorithm/",
+          "snippet": "加盐：可以在原始数据中添加额外的盐值，可以是任意的随机数据，以增强哈希的唯一性和安全性。 脱敏前： 12345; 脱敏后： e2f5e4f6f0... AES, 对称加密算法， ...",
+          "date": "2024年8月30日",
+          "position": 50
+        },
+        {
+          "title": "担心脱敏后被还原？白皮书：隐私计算降低开放数据的安全风险",
+          "link": "https://m.mp.oeeee.com/a/BAAFRD000020220725706396.html",
+          "snippet": "《白皮书》认为，当下的数字化发展需要整合和利用各种来源的数据，而政府部门作为一个国家最重要的数据保有者，在履职过程中生成、获取和保存了大量基础性、 ...",
+          "date": "2022年7月25日",
+          "position": 51
+        },
+        {
+          "title": "脱敏算法",
+          "link": "https://shardingsphere.apache.org/document/current/cn/user-manual/common-config/builtin-algorithm/mask/",
+          "snippet": "可观察性 · 核心概念 · 3.11. 联邦查询 · 使用限制 · 4. 用户手册 · 4.1. ShardingSphere ... 为脱敏算法指定脱敏算法类型。 配置示例. rules: - !MASK tables: t_user ...",
+          "position": 52
+        },
+        {
+          "title": "《数据脱敏应用指南报告》发布，标准研制与产业应用同步推进",
+          "link": "https://tech.chinadaily.com.cn/a/201911/14/WS5dccfb3ba31099ab995ebef9.html",
+          "snippet": "全国信息安全标准化技术委员会WG5组长李京春先生为发布会致辞，并对大数据时代敏感信息保护与数据脱敏的重要性和必要性给予了强调与肯定。他在发言中将数据 ...",
+          "date": "2019年11月14日",
+          "position": 53
+        },
+        {
+          "title": "地方标准 - 全国标准信息公共服务平台- 国家市场监督管理总局",
+          "link": "https://std.samr.gov.cn/db/search/stdDBDetailed?id=FBEE66CCA449523CE05397BE0A0A239E",
+          "snippet": "政务数据数据脱敏规范. 地方标准-四川 推荐性 现行. 地方标准《政务数据数据脱敏规范》由四川省大数据中心归口上报，主管部门为四川省市场监督管理局。 主要起草单位 ...",
+          "position": 54
+        },
+        {
+          "title": "数据脱敏方式介绍 - H3C",
+          "link": "https://www.h3c.com/cn/pub/Document_Center/2022/01/H3C_LZPT_WebHelp/html/topic_m210813x0_1453.htm",
+          "snippet": "... 性. 适用的敏感数据类型：密钥类数据. 常用使用场景：适用于数据存储或数据查询场景中，对密码等密钥类数据进行脱敏处理. 掩盖. 根据配置的掩盖方法将原始 ...",
+          "date": "2021年10月13日",
+          "position": 55
+        },
+        {
+          "title": "大数据平台数据脱敏方案 - 袋鼠云",
+          "link": "https://www.dtstack.com/bbs/article/5124",
+          "snippet": "数据脱敏是指将真实数据经过处理后，得到的一种替代数据，其目的是保护数据的机密性和完整性。数据脱敏可以有效地避免数据泄露和数据安全问题，同时也可以 ...",
+          "date": "2023年6月13日",
+          "position": 56
+        },
+        {
+          "title": "【洞察】数据隐私保护服务—— 数据脱敏 - 搜狐",
+          "link": "https://www.sohu.com/a/135310191_170401",
+          "snippet": "... 脱敏的措施扮演了重要的角色。数据脱敏的良好实施，需要完成识别敏感数据识、识别数据环境、识别数据的功能性和非功能性要求、维护脱敏数据等工作。",
+          "date": "2017年4月20日",
+          "position": 57
+        },
+        {
+          "title": "过敏性鼻炎，脱敏治疗是智商税还是真香？ - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_20778065",
+          "snippet": "脱敏治疗又称过敏原特异性免疫治疗，是世界卫生组织（WHO）推荐且公认的唯一可能通过免疫调节机制来改变过敏性鼻炎自然进程的有效对因治疗方法，其远期疗效较 ...",
+          "date": "2022年11月17日",
+          "position": 58
+        },
+        {
+          "title": "数据脱敏怎么做",
+          "link": "https://sphere-ex.cn/news/111",
+          "snippet": "4、哈希：对数据进行哈希运算，将其转化为不可逆的散列值。例如，将密码进行哈希加密，可以保护密码的安全性，同时防止密码被破解或泄露。哈希算法可以将任意 ...",
+          "date": "2024年2月20日",
+          "position": 59
+        },
+        {
+          "title": "[PPT] 信息过滤与脱敏",
+          "link": "http://www.nlpir.org/wordpress/wp-content/uploads/2019/11/%E4%BF%A1%E6%81%AF%E8%BF%87%E6%BB%A4%E4%B8%8E%E8%84%B1%E6%95%8F-.pptx",
+          "snippet": "... 性脱敏和不可恢复性脱敏。可恢复性脱敏就是数据经过脱敏规则的转化后，还再次可以经过某些处理还原出原来的数据，相反，数据经过不可恢复性脱敏之后 ...",
+          "date": "2019年11月14日",
+          "position": 60
+        },
+        {
+          "title": "脱敏治疗跟过敏性疾病说“再见” - 北京日报",
+          "link": "https://xinwen.bjd.com.cn/channels/5b165687a010550e5ddc0e6a/contentShare/5de8be9be4b0fe93cc167bbc/AP61f0bc86e4b01351c5e221c4.html",
+          "snippet": "脱敏治疗的原理是让患者由低剂量开始接触特异性变应原制剂，耐受后逐渐增加剂量，达到有效维持量后再治疗足疗程，以刺激机体免疫系统产生对某特定变应原的耐 ...",
+          "date": "2022年1月26日",
+          "position": 61
+        },
+        {
+          "title": "脱敏治疗的最佳启动时期已到，快行动起来！ - 呼和浩特市第一医院",
+          "link": "https://www.hsdyyy.org.cn/info/1009/3197.htm",
+          "snippet": "近年来，过敏性疾病患者患病率逐年升高，过敏性疾病已经成为全球第六大慢性病之一，严重影响到人们的生活质量。目前过敏性鼻炎的主要防治方法包括：避免 ...",
+          "date": "2023年10月23日",
+          "position": 62
+        },
+        {
+          "title": "尘螨过敏，瘙痒难忍，怎么办！？——脱敏治疗大揭秘",
+          "link": "http://www.gdskin.com/ShowNews.aspx?id=5191",
+          "snippet": "患者：医生，我对尘螨过敏，经常皮肤瘙痒起红斑、风团，还有过敏性鼻炎怎么办？ 医生：可以吃药控制瘙痒，减轻症状，但是关键是需要避免再次接触过敏原。",
+          "date": "2019年6月17日",
+          "position": 63
+        },
+        {
+          "title": "隐私数据脱敏--客户数据平台（私有化） - 火山引擎",
+          "link": "https://www.volcengine.com/docs/7139/196535",
+          "snippet": "目前仅支持字符遮盖方法，点击配置具体遮盖规则：从指定的位置开始、结束，或遮盖前n项、后n项，允许对特殊字符（如小数点）选择不脱敏，以保留数据的完整性和 ...",
+          "date": "2023年3月17日",
+          "position": 64
+        },
+        {
+          "title": "“女权脱口秀”，是为女性表达权“脱敏” - 新京报",
+          "link": "https://m.bjnews.com.cn/detail/160059435715615.html",
+          "snippet": "好新闻无止境. 立即打开. “女权脱口秀”，是为女性表达权“脱敏”. 新京报编辑孟然. 2020-09-20 17:45 ... 一些人把她视为“脱口秀女王”，另一些人则认为她的段子充满了性别 ...",
+          "position": 65
+        },
+        {
+          "title": "数据脱敏技术知多少？ - 中国保密协会",
+          "link": "https://zgbmxh.cn/html/24465.html",
+          "snippet": "仿真算法能够保证脱敏后数据的业务属性和关联关系，从而具备较好的可用性。 ◎数据替换：用某种规律字符对敏感内容进行替换，从而破坏数据的可读性，并不保留原 ...",
+          "date": "2021年6月15日",
+          "position": 66
+        },
+        {
+          "title": "基于IBM Optim的证券公司数据脱敏平台的设计与实现",
+          "link": "https://d.wanfangdata.com.cn/thesis/Y2951614",
+          "snippet": "... 脱敏还会涉及到许多编码、中文字符如何处理等问题。 本文从证券公司的数据脱敏的业务和用户需求出发，深入分析证券公司的数据脱敏 ... 性及效率的功能点;由于Optim的特性，脱敏 ...",
+          "position": 67
+        },
+        {
+          "title": "怀孕期间可以进行脱敏治疗吗？ - 健康160",
+          "link": "https://www.91160.com/doctors/articledetail/docid-14701/articleid-206401.html",
+          "snippet": "脱敏治疗，也称特异性免疫治疗，是目前唯一针对过敏性疾病的病因、可能改变过敏自然进程的治疗方法，目前广泛应用于过敏性鼻炎、支气管哮喘、蜂毒过敏等 ...",
+          "date": "2020年5月28日",
+          "position": 68
+        },
+        {
+          "title": "科普|数据脱敏怎么选 - 3W",
+          "link": "https://m.3wcoffee.com/qfnews/detail?id=3475",
+          "snippet": "... 脱敏算法以及按自定义函数定义脱敏算法。 三、好的数据脱敏还应该具备什么功能. 1、一款好的静态脱敏产品应具备以下功能：. 确保数据脱敏有效性：保证脱敏 ...",
+          "date": "2020年3月23日",
+          "position": 69
+        },
+        {
+          "title": "特异性脱敏治疗法介绍 - 分析测试百科网",
+          "link": "https://m.antpedia.com/news/2847469.html",
+          "snippet": "特异性脱敏治疗是当前对哮喘等过敏性疾病采用的治疗方法之一，它是在确定了使病人发生过敏反应的过敏原之后，将过敏原制成各种不同浓度的提取液， ...",
+          "date": "2022年10月25日",
+          "position": 70
+        },
+        {
+          "title": "舌下含服脱敏治疗变应性鼻炎疗效观察",
+          "link": "http://ebhyxbwk.njournal.sdu.edu.cn/CN/Y2009/V23/I4/49",
+          "snippet": "目的通过本实验观察舌下含服脱敏治疗变应性鼻炎的疗效。方法选择粉尘螨阳性的变应性鼻炎患者70例，随机分为两组，实验组35人，给予舌下含服脱敏治疗 ...",
+          "date": "2009年8月16日",
+          "position": 71
+        },
+        {
+          "title": "数据脱敏是什么？",
+          "link": "http://www.uml.org.cn/bigdata/202206061.asp",
+          "snippet": "GaussDB (DWS)的数据脱敏功能，摒弃业务应用层脱敏依赖性高、代价大等痛点，将数据脱敏内化为数据库产品自身的安全能力，提供了一套完整、安全、灵活、透明、 ...",
+          "date": "2022年6月6日",
+          "position": 72
+        },
+        {
+          "title": "四重保障！中孚数据库脱敏系统为敏感数据穿上防护衣",
+          "link": "https://www.zhongfu.net/news/techinfo/1199.html",
+          "snippet": "数据脱敏的最终目标是为了数据的隐私保护和安全共享，因此在隐藏敏感信息的同时也要保持原有的数据特征，业务规则和数据关联性。 针对敏感数据在开发测试、数据分析、数据 ...",
+          "position": 73
+        },
+        {
+          "title": "数据脱敏技术研究及展望 - 360Doc",
+          "link": "http://www.360doc.com/content/23/0703/15/12776403_1087177063.shtml",
+          "snippet": "数据脱敏在保证敏感数据安全性的同时保证了数据的有效性和可用性，既避免了敏感数据被泄露的风险，也较好地解决了敏感数据在非安全、非可信环境中的使用问题 ...",
+          "date": "2023年7月3日",
+          "position": 74
+        },
+        {
+          "title": "新一代数据动态脱敏，为敏感数据建立保护盾 - 安全牛",
+          "link": "https://www.aqniu.com/vendor/91573.html",
+          "snippet": "此种技术性能较高，但由于SQL语句的可编写性和功能性有限制继而无法满足更多的脱敏算法定制，导致面对复杂的SQL时效果会受限。结果集脱敏为对所查询的结果集 ...",
+          "date": "2022年11月29日",
+          "position": 75
+        },
+        {
+          "title": "天融信数据脱敏系统 - 云巴巴",
+          "link": "https://www.yun88.com/product/214.html",
+          "snippet": "天融信数据脱敏系统综合了多项数据脱密技术和算法，在保证随机性的同时还能保留数据的原始特性以及参照完整性，从而大大降低在进行系统开发、系统测试、产品培训和大数据应用 ...",
+          "position": 76
+        },
+        {
+          "title": "数据脱敏- 观远BI",
+          "link": "https://docs.guandata.com/?m=Article&a=index&id=1&aid=423401200696688640",
+          "snippet": "数据脱敏，是指观远数据能够对某些敏感信息通过脱敏规则进行数据的变形，从而实现对敏感隐私数据的保护。例如在涉及客户安全数据或者一些商业性敏感数据的情况下，如身份证号 ...",
+          "position": 77
+        },
+        {
+          "title": "一文读懂数据脱敏技术在智能汽车中的应用 - QQ News",
+          "link": "https://news.qq.com/rain/a/20221027A0101V00",
+          "snippet": "另一方面，为了满足特定场景的需求，更多地是需要有针对性且多样化的脱敏算法和脱敏策略。 在不同的场景下，车辆的感知系统所获取到的敏感信息是不同的，比如 ...",
+          "date": "2022年10月27日",
+          "position": 78
+        },
+        {
+          "title": "技术分享-动态脱敏 - 用九智汇",
+          "link": "https://www.yong9ai.com/article/detail/7a34efb456c15bd98d3a468de95051e2",
+          "snippet": "1、无业务侵入性，代理数据库后只需更改请求数据库IP地址即可实现脱敏要求。 2、可以根据数据库账号信息进行单独鉴权配置和脱敏策略配置，降低数据泄漏的风险. 3 ...",
+          "position": 79
+        },
+        {
+          "title": "海内外市场短期对经济数据脱敏，发生了什么？ - 泡财经",
+          "link": "https://www.popcj.com/depth/2125032411297161",
+          "snippet": "【核心观点】国内方面，本周公布的10月PMI反季节性回升，超出市场预期，逻辑上对债市有一定压力，但本周利率债小幅上涨，股市出现调整，当前市场的“反身性 ...",
+          "date": "18小时前",
+          "position": 80
+        },
+        {
+          "title": "姚镜团队取得记忆性脱敏研究进展 - 武汉大学研究生院",
+          "link": "https://gs.whu.edu.cn/info/1061/4612.htm",
+          "snippet": "TRPV1通道是一种对Ca2+有高通透性的非选择性阳离子通道，而当Ca2+经由激活后的TRPV1通道内流进入细胞后，会诱发TRPV1通道的脱敏反应。进入脱敏状态后的神经 ...",
+          "date": "2019年3月1日",
+          "position": 81
+        },
+        {
+          "title": "数据脱敏--智能数据洞察 - 火山引擎",
+          "link": "https://www.volcengine.com/docs/4726/107753",
+          "snippet": "脱敏生效范围自由可控：用户可根据业务具体需要，针对性设置数据脱敏的生效范围，对于敏感用户范围进行配置，更有业务适配性。 3. 快速入门. 3.1 功能概览 ...",
+          "date": "2022年4月8日",
+          "position": 82
+        },
+        {
+          "title": "敏感数据脱敏-数据库静态脱敏系统SDM-深信服技术支持",
+          "link": "https://support.sangfor.com.cn/productDocument/read?product_id=196&version_id=1033&category_id=279443",
+          "snippet": "... ，安全开展业务 · 满足合规性要求 · 培训赋能 · 数据库静态脱敏系统SDM 文档 产品手册 系统管理员操作指南 敏感数据脱敏. 敏感数据脱敏. 阅读权限：游客.",
+          "date": "2024年3月22日",
+          "position": 83
+        },
+        {
+          "title": "Top 1000件脱敏神器- 2024年10月更新- Taobao",
+          "link": "https://www.taobao.com/list/product/%E8%84%B1%E6%95%8F%E7%A5%9E%E5%99%A8.htm",
+          "snippet": "去哪儿购买脱敏神器？当然来淘宝海外，淘宝当前有2240件脱敏神器相关的商品在售。",
+          "position": 84
+        },
+        {
+          "title": "什么是数据脱敏，如何与去匿名化相区别？ - MBA智库问答",
+          "link": "https://www.mbalib.com/ask/question-806307e1a38727a2ec928481e24f5588.html",
+          "snippet": "... 脱敏数据以获取个人隐私信息的行为。 因此，在数据处理过程中，管理者需要重视数据脱敏工作，采取合适的脱敏方法，确保数据安全和合规性。同时，也需要加强对数据去 ...",
+          "position": 85
+        },
+        {
+          "title": "原来这叫脱敏性复合复合是一个很好的方式 - 抖音",
+          "link": "https://www.douyin.com/video/7379834782840016168",
+          "snippet": "原来这叫脱敏性复合复合是一个很好的方式，复合是祛魅的良方#情感#爱情- 资深观众刘根红于 ...\n时长： 0:37\n发布时间： 2024年6月17日",
+          "date": "2024年6月17日",
+          "position": 86
+        },
+        {
+          "title": "小学性教育课本引争议，儿童性教育如何“脱敏”? - 搜狐",
+          "link": "https://www.sohu.com/a/130331808_105067",
+          "snippet": "话题始于杭州一位小学生家长在微博上的吐槽，称学校发放的《小学生性健康教育读本》尺度太大，并晒出含有“男女生殖器官相关介绍”。此后，在一片争议声中，涉事 ...",
+          "date": "2017年3月26日",
+          "position": 87
+        },
+        {
+          "title": "《观仔聊安全》之数据脱敏",
+          "link": "https://www.idss-cn.com/plus/viewd259.html",
+          "snippet": "脱敏数据仍然便于使用，但加密数据不是。 加密的主要优点在于它的可逆性，但是解密密钥存储位置、如何存储以及确定谁具有访问权限等工作 ...",
+          "date": "2019年12月18日",
+          "position": 88
+        },
+        {
+          "title": "让幼儿“性教育”脱敏--中国期刊网",
+          "link": "http://www.chinaqking.com/yc/2021/2834425.html",
+          "snippet": "“脱敏”是一个循序渐进的过程，针对学龄前期幼儿的特点，成人应利用游戏等教育手段，将“性教育”常态化，创设出一个良好的、轻松的学习环境，使幼儿了解自身的 ...",
+          "date": "2021年3月30日",
+          "position": 89
+        },
+        {
+          "title": "儿童过敏性鼻炎多发如何“脱敏”是关键",
+          "link": "http://app.sanyarb.com.cn/dsy_share/views/video/detail_000.html?contentType=9&contentId=109626&cId=0",
+          "snippet": "儿童过敏性鼻炎多发如何“脱敏”是关键. 2024-08-15 22:35. 来源：三亚广播电视台 编 ...\n发布时间： 2024年8月15日",
+          "date": "2024年8月15日",
+          "position": 90
+        },
+        {
+          "title": "男友太快，如何拯救？|治疗|脱敏疗法|药膏 - 网易",
+          "link": "https://www.163.com/dy/article/HFVHNO3G0552XRF9.html",
+          "snippet": "要问情侣运动时，男女生遇到最大的困扰是什么，女生大概率是难以到达畅爽巅峰，而男生则可能是——太快缴械！如果女友灵魂发问「你磨蹭几下后，怎么一点动静 ...",
+          "date": "2022年8月29日",
+          "position": 91
+        },
+        {
+          "title": "深度对话专家，共话破解儿童过敏难题 - 无锡日报",
+          "link": "https://www.wxrb.com/doc/2024/11/01/372849.shtml",
+          "snippet": "杨挺表示，一旦患者被诊断为特应性皮炎，要进行综合治疗，包括局部外用药物治疗、系统治疗和环境控制等。 中西医结合“扶正”脱敏更有力. “中医认为，过敏性疾病 ...",
+          "date": "3天前",
+          "position": 92
+        },
+        {
+          "title": "国家统计局社科文司负责人就第三次全国时间利用调查主要数据情况 ...",
+          "link": "https://www.stats.gov.cn/sj/sjjd/202410/t20241031_1957218.html",
+          "snippet": "为获取不同地区居民的时间利用信息，提高调查样本的代表性，第三次全国 ... 脱敏处理后形成的第三次全国时间利用调查微观数据集向专家学者开放 ...",
+          "date": "4天前",
+          "position": 93
+        },
+        {
+          "title": "戀愛腦的分分合合其實並不是笨！他們可能正在經歷「脫敏性過程 ...",
+          "link": "https://hk.news.yahoo.com/%E6%88%80%E6%84%9B%E8%85%A6%E7%9A%84%E5%88%86%E5%88%86%E5%90%88%E5%90%88%E5%85%B6%E5%AF%A6%E4%B8%A6%E4%B8%8D%E6%98%AF%E7%AC%A8-%E4%BB%96%E5%80%91%E5%8F%AF%E8%83%BD%E6%AD%A3%E5%9C%A8%E7%B6%93%E6%AD%B7-%E8%84%AB%E6%95%8F%E6%80%A7%E9%81%8E%E7%A8%8B-%E7%9B%B4%E5%88%B0%E6%92%9E%E7%A0%B4%E5%8D%97%E7%89%86%E5%B0%B1%E6%9C%83%E5%BF%83%E6%AD%BB-055737228.html",
+          "snippet": "用「脫敏性過程」來解釋人在感情裡的行為. SIS是否過，看著自己的朋友一直在一段錯誤的感情中惡性循環的經驗呢？明明對方是個渣男，但朋友就是不見棺材不掉淚 ...",
+          "date": "2024年6月25日",
+          "position": 94
+        },
+        {
+          "title": "数字技术应用不断深入安全产业将加快发展 - 中国证券报",
+          "link": "https://www.cs.com.cn/ssgs/gsxw/202411/t20241104_6451317.html",
+          "snippet": "11月1日，在2024 TechWorld智慧安全大会上，绿盟科技发布了三款产品：帮助解决API安全问题的APISEC，带有数据分级分类、数据脱敏 ... 性。人工智能还可 ...",
+          "date": "59分钟前",
+          "position": 95
+        },
+        {
+          "title": "工信部、财政部、国家数据局联合部署建设新材料大数据中心",
+          "link": "https://gxt.nx.gov.cn/zwgk/fdzdgknr/zcfg/gwywj/202410/t20241030_4713451.html",
+          "snippet": "建设材料数据采集、加工、存储、融通和应用等全链条技术标准体系；完善数据密级、数据脱敏、数据分类分级保护、重要数据识别、数据安全风险评估、数据 ...",
+          "date": "5天前",
+          "position": 96
+        },
+        {
+          "title": "吉大一院疼痛科采用星状神经节阻滞术治疗百例过敏性鼻炎患者",
+          "link": "https://bydrug.pharmcube.com/news/detail/e268adb95bbcec54cbbbb1e904404ee9",
+          "snippet": "... 性鼻炎患者的生活质量：一项真实世界前瞻性队列研究. 我武生物之脱敏资讯 2024-10-11 08:00. 正大天晴IL-4Rα单抗再获批临床，拟治疗过敏性鼻炎. 医药观澜 2024-09-27 11 ...",
+          "position": 97
+        },
+        {
+          "title": "《金融数据安全治理实施指南》发布360借条升级奇富借条全面落实新 ...",
+          "link": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Ftech%2Froll%2F2024-10-28%2Fdoc-incuakcf9810372.shtml",
+          "snippet": "... 脱敏处理、隐私计算等先进手段，确保了数据处理的安全性和隐私性。早在《金融数据安全治理实施指南》发布之前，奇富科技已经前瞻性地将旗下产品360 ...",
+          "date": "7天前",
+          "position": 98
+        },
+        {
+          "title": "公安部：机动车行驶证电子化11月4日起分三批推广应用 - 科技日报",
+          "link": "https://www.stdaily.com/web/gdxw/2024-11/03/content_252395.html",
+          "snippet": "... 脱敏、数据加密、实人认证等技术保护个人信息安全。需要说明的是，按照 ... 性、舒适性和安全性。各地通过“交管12123”APP提供精准导办服务5000多 ...",
+          "date": "19小时前",
+          "position": 99
+        },
+        {
+          "title": "“双11”第16年宁波企业跳脱低价拼“质价比” - 宁波市商务局",
+          "link": "http://swj.ningbo.gov.cn/art/2024/10/30/art_1229031551_58934066.html",
+          "snippet": "一方面，消费者对“低价”逐渐脱敏；另一方面，精打细算的消费者更注重自身 ... 同时，通过供应链优化，提高对市场需求的反应速度，保证产品品质的稳定性 ...",
+          "date": "5天前",
+          "position": 100
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "性别脱敏",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 3,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "数字技术应用不断深入安全产业将加快发展 - 中国证券报",
+          "link": "https://www.cs.com.cn/ssgs/gsxw/202411/t20241104_6451317.html",
+          "snippet": "11月1日，在2024 TechWorld智慧安全大会上，绿盟科技发布了三款产品：帮助解决API安全问题的APISEC，带有数据分级分类、数据脱敏 ... 性。人工智能还可 ...",
+          "date": "59分钟前",
+          "position": 1
+        },
+        {
+          "title": "工信部、财政部、国家数据局联合部署建设新材料大数据中心",
+          "link": "https://gxt.nx.gov.cn/zwgk/fdzdgknr/zcfg/gwywj/202410/t20241030_4713451.html",
+          "snippet": "建设材料数据采集、加工、存储、融通和应用等全链条技术标准体系；完善数据密级、数据脱敏、数据分类分级保护、重要数据识别、数据安全风险评估、数据 ...",
+          "date": "5天前",
+          "position": 2
+        },
+        {
+          "title": "吉大一院疼痛科采用星状神经节阻滞术治疗百例过敏性鼻炎患者",
+          "link": "https://bydrug.pharmcube.com/news/detail/e268adb95bbcec54cbbbb1e904404ee9",
+          "snippet": "... 性鼻炎患者的生活质量：一项真实世界前瞻性队列研究. 我武生物之脱敏资讯 2024-10-11 08:00. 正大天晴IL-4Rα单抗再获批临床，拟治疗过敏性鼻炎. 医药观澜 2024-09-27 11 ...",
+          "position": 3
+        },
+        {
+          "title": "常年性变应性鼻炎的特异性脱敏治疗 - Institutional Repository of ...",
+          "link": "https://ir.pku.edu.cn/handle/20.500.11897/56736",
+          "snippet": "常年性变应性鼻炎的特异性脱敏治疗 [0]. Other Titles, Specific Immunotherapy of Perenial Allergic Rhinitis. Authors, 郭敛容",
+          "position": 4
+        },
+        {
+          "title": "公安部：机动车行驶证电子化11月4日起分三批推广应用 - 科技日报",
+          "link": "https://www.stdaily.com/web/gdxw/2024-11/03/content_252395.html",
+          "snippet": "... 脱敏、数据加密、实人认证等技术保护个人信息安全。需要说明的是，按照 ... 性、舒适性和安全性。各地通过“交管12123”APP提供精准导办服务5000多 ...",
+          "date": "19小时前",
+          "position": 5
+        },
+        {
+          "title": "“双11”第16年宁波企业跳脱低价拼“质价比” - 宁波市商务局",
+          "link": "http://swj.ningbo.gov.cn/art/2024/10/30/art_1229031551_58934066.html",
+          "snippet": "一方面，消费者对“低价”逐渐脱敏；另一方面，精打细算的消费者更注重自身 ... 同时，通过供应链优化，提高对市场需求的反应速度，保证产品品质的稳定性 ...",
+          "date": "5天前",
+          "position": 6
+        },
+        {
+          "title": "住房城乡建设部关于印发《城市数字公共基础设施标准体系》的通知",
+          "link": "https://www.gov.cn/zhengce/zhengceku/202411/content_6984542.htm",
+          "snippet": "... 性、集约性的数字公共基础设施 ... 规范城市数字公共基础设施涉及的数据采集传输、清洗治理、分类分级、共享开放、备份恢复、隐私保护以及脱敏处理等方面的安全要求。",
+          "position": 7
+        },
+        {
+          "title": "11月4日起，电子行驶证在唐山启用！",
+          "link": "https://tangshan.huanbohainews.com.cn/2024-11/03/content_50380582.html",
+          "snippet": "... 脱敏、数据加密、实人认证等技术保护个人信息安全。需要说明的是，按照 ... 性、舒适性和安全性。各地通过“交管12123”APP提供精准导办服务5000多 ...",
+          "date": "18小时前",
+          "position": 8
+        },
+        {
+          "title": "江苏省人民政府政府办公室(厅)文件省政府办公厅关于印发江苏省公共 ...",
+          "link": "http://www.jiangsu.gov.cn/art/2024/10/30/art_46144_11406884.html",
+          "snippet": "行业主管部门负责向数据主管部门供给本行业数据，督促本行业公共管理和服务机构落实数据提供、质量管理等工作，确保数据的真实性 ... 脱敏、数据溯源、数据 ...",
+          "date": "5天前",
+          "position": 9
+        },
+        {
+          "title": "深化人工智能安全监管研究（学术圆桌） - 人民网观点",
+          "link": "http://opinion.people.com.cn/n1/2024/1104/c1003-40353048.html",
+          "snippet": "... 脱敏个人信息被重新识别，因保护措施不当导致数据泄露，非法买卖个人信息 ... 性、侵入性和隐蔽性的风险。比如，解读用户的肢体语言并感知更加 ...",
+          "date": "2小时前",
+          "position": 10
+        },
+        {
+          "title": "省政府办公厅关于印发江苏省公共数据授权运营管理暂行办法的通知",
+          "link": "https://www.js.gov.cn/art/2024/10/30/art_84418_11406885.html",
+          "snippet": "行业主管部门负责向数据主管部门供给本行业数据，督促本行业公共管理和服务机构落实数据提供、质量管理等工作，确保数据的真实性 ... 脱敏、数据溯源、数据 ...",
+          "date": "5天前",
+          "position": 11
+        },
+        {
+          "title": "公安部：机动车行驶证电子化明起分三批全国推广应用 - 读特",
+          "link": "https://m.dutenews.com/p/8487112.html",
+          "snippet": "... 脱敏、数据加密、实人认证等技术保护个人信息安全。需要说明的是，按照《道路交通安全法》规定，纸质行驶证应当随车携带；电子行驶证主要应用于相关窗口业务办理。 为 ...",
+          "position": 12
+        },
+        {
+          "title": "让幼儿“性教育”脱敏--中国期刊网",
+          "link": "http://www.chinaqking.com/yc/2021/2834425.html",
+          "snippet": "“脱敏”是一个循序渐进的过程，针对学龄前期幼儿的特点，成人应利用游戏等教育手段，将“性教育”常态化，创设出一个良好的、轻松的学习环境，使幼儿了解自身的 ...",
+          "date": "2021年3月30日",
+          "position": 13
+        },
+        {
+          "title": "公安部：机动车行驶证电子化11月4日起分三批推广应用",
+          "link": "https://m.yicai.com/news/102340135.html",
+          "snippet": "... 脱敏、数据加密、实人认证等技术保护个人信息安全。需要说明的是，按照 ... 性、舒适性和安全性。各地通过“交管12123”APP提供精准导办服务5000多 ...",
+          "date": "21小时前",
+          "position": 14
+        },
+        {
+          "title": "公安部：机动车行驶证电子化11月4日起分三批推广应用",
+          "link": "http://www.ce.cn/xwzx/gnsz/gdxw/202411/03/t20241103_39190493.shtml",
+          "snippet": "... 脱敏、数据加密、实人认证等技术保护个人信息安全。需要说明的是，按照 ... 性、舒适性和安全性。各地通过“交管12123”APP提供精准导办服务5000多 ...",
+          "date": "20小时前",
+          "position": 15
+        },
+        {
+          "title": "系统脱敏训练消除女性性恐惧 - 心理咨询",
+          "link": "http://www.hzldxl.com/show_content.aspx?fn=655.html",
+          "snippet": "冲洗抚摸外阴已不再紧张，试着用1个手指头伸入阴道，阴道干涩者可涂上润滑剂。紧张感完全消失后，逐渐由丈夫为她冲洗外阴，并依次进行抚摸。如不再紧张，试用1 ...",
+          "date": "2022年12月26日",
+          "position": 16
+        },
+        {
+          "title": "公安部：机动车行驶证电子化明起分三批全国推广应用 - 21财经",
+          "link": "https://www.21jingji.com/article/20241103/herald/28e04edc0cc0bf24e522779239b904dc.html",
+          "snippet": "... 脱敏、数据加密、实人认证等技术保护个人信息安全。需要说明的是，按照 ... 性、舒适性和安全性。各地通过“交管12123”APP提供精准导办服务5000多 ...",
+          "date": "20小时前",
+          "position": 17
+        },
+        {
+          "title": "公安部：机动车行驶证电子化明起分三批全国推广应用",
+          "link": "http://m.cyol.com/gb/articles/2024-11/03/content_mOZabpiVL5.html",
+          "snippet": "... 脱敏、数据加密、实人认证等技术保护个人信息安全。需要说明的是，按照 ... 性、舒适性和安全性。各地通过“交管12123”APP提供精准导办服务5000多 ...",
+          "date": "19小时前",
+          "position": 18
+        },
+        {
+          "title": "公安部：机动车行驶证电子化明起分三批全国推广应用",
+          "link": "https://news.youth.cn/gn/202411/t20241103_15623039.htm",
+          "snippet": "... 脱敏、数据加密、实人认证等技术保护个人信息安全。需要说明的是，按照 ... 性、舒适性和安全性。各地通过“交管12123”APP提供精准导办服务5000多 ...",
+          "date": "19小时前",
+          "position": 19
+        },
+        {
+          "title": "公安部：机动车行驶证电子化11月4日起分三批推广应用 - 新华网客户端",
+          "link": "https://app.xinhuanet.com/news/article.html?articleId=4dd5f40dcc1fdf5559e5818104a9be87",
+          "snippet": "... 脱敏、数据加密、实人认证等技术保护个人信息安全。需要说明的是，按照 ... 性、舒适性和安全性。各地通过“交管12123”APP提供精准导办服务5000多 ...",
+          "date": "20小时前",
+          "position": 20
+        },
+        {
+          "title": "公安部：机动车行驶证电子化明起分三批全国推广应用 - 东方财富",
+          "link": "https://wap.eastmoney.com/a/202411033227223780.html",
+          "snippet": "... 脱敏、数据加密、实人认证等技术保护个人信息安全。需要说明的是，按照 ... 性、舒适性和安全性。各地通过“交管12123”APP提供精准导办服务5000多 ...",
+          "date": "2天前",
+          "position": 21
+        },
+        {
+          "title": "公安部：机动车行驶证电子化明起分三批全国推广应用 - 厦门广电网",
+          "link": "https://www.xmtv.cn/xmtv/2024-11-03/07872451c3a48684.html",
+          "snippet": "... 脱敏、数据加密、实人认证等技术保护个人信息安全。需要说明的是，按照 ... 性、舒适性和安全性。各地通过“交管12123”APP提供精准导办服务5000多 ...",
+          "date": "20小时前",
+          "position": 22
+        },
+        {
+          "title": "AI面试来了！求职者如何应对？ - 数字中国建设峰会",
+          "link": "https://www.szzg.gov.cn/2024/xwzx/szkx/202410/t20241031_4918057.htm",
+          "snippet": "... 脱敏化、去标识化等保密措施。 求职者如何更好准备AI面试？王金桥建议，可提前练习测试；在全面了解企业和岗位的同时，重视回答的逻辑性，着重展示 ...",
+          "date": "4天前",
+          "position": 23
+        },
+        {
+          "title": "公安部：机动车行驶证电子化明起分三批全国推广应用 - 青岛日报",
+          "link": "https://www.dailyqd.com/guanhai/349932_1.html",
+          "snippet": "... 脱敏、数据加密、实人认证等技术保护个人信息安全。需要说明的是，按照 ... 性、舒适性和安全性。各地通过“交管12123”APP提供精准导办服务5000多 ...",
+          "date": "21小时前",
+          "position": 24
+        },
+        {
+          "title": "第三次全国时间利用调查公报发布（大数据观察）",
+          "link": "http://cpc.people.com.cn/n1/2024/1101/c64387-40351801.html",
+          "snippet": "为获取不同地区居民的时间利用信息，提高调查样本的代表性，第三次 ... 下一步将组织开展课题研究工作，推动时间利用调查微观数据开发应用，经过脱敏 ...",
+          "date": "3天前",
+          "position": 25
+        },
+        {
+          "title": "人工智能时代的隐形战：商业秘密的保护 - Lexology",
+          "link": "https://www.lexology.com/library/detail.aspx?g=bce1fe41-efcf-4f89-9cac-5a0fc603150f",
+          "snippet": "... 脱敏措施、输出内容的存储要求等内容进行细化。 3)保密条款的更新. 企业在技术采购合同中通常会涉及保密条款。考虑人工智能技术的特殊性，企业在采购 ...",
+          "date": "5天前",
+          "position": 26
+        },
+        {
+          "title": "公安部：机动车行驶证电子化明起分三批全国推广应用 - 东南网",
+          "link": "http://news.fjsen.com/2024-11/03/content_31769889.htm",
+          "snippet": "... 脱敏、数据加密、实人认证等技术保护个人信息安全。需要说明的是，按照 ... 性、舒适性和安全性。各地通过“交管12123”APP提供精准导办服务5000多 ...",
+          "date": "21小时前",
+          "position": 27
+        },
+        {
+          "title": "我国拟2035年全面建成新材料大数据中心体系 - 科学网",
+          "link": "https://news.sciencenet.cn/htmlnews/2024/10/532960.shtm",
+          "snippet": "新材料是战略性、基础性产业，也是高技术竞争的关键领域。 ... 建设材料数据采集、加工、存储、融通和应用等全链条技术标准体系；完善数据密级、数据脱敏 ...",
+          "date": "5天前",
+          "position": 28
+        },
+        {
+          "title": "全国车主福利！即日起可通过“交管12123”APP申领电子行驶证-智能汽车",
+          "link": "http://m.itbear.com.cn/html/2024-11/575200.html",
+          "snippet": "在安全性方面，电子行驶证采用了先进的数字签名防伪技术，确保证件信息的真实性和有效性。同时，通过动态二维码、数据脱敏、加密以及实人认证等多重 ...",
+          "date": "2小时前",
+          "position": 29
+        },
+        {
+          "title": "公安部：机动车行驶证电子化明起分三批全国推广应用 - 扬子晚报",
+          "link": "https://www.yangtse.com/content/1939621.html",
+          "snippet": "... 脱敏、数据加密、实人认证等技术保护个人信息安全。需要说明的是，按照 ... 性、舒适性和安全性。各地通过“交管12123”APP提供精准导办服务5000多 ...",
+          "date": "20小时前",
+          "position": 30
+        },
+        {
+          "title": "公安部：机动车行驶证电子化明起分三批全国推广应用 - 中工网",
+          "link": "https://www.workercn.cn/c/2024-11-03/8384342.shtml",
+          "snippet": "... 脱敏、数据加密、实人认证等技术保护个人信息安全。需要说明的是，按照 ... 性、舒适性和安全性。各地通过“交管12123”APP提供精准导办服务5000多 ...",
+          "date": "19小时前",
+          "position": 31
+        },
+        {
+          "title": "公安部：机动车行驶证电子化11月4日起分三批推广应用 - 泉州网",
+          "link": "https://www.qzwb.com/gb/content/2024-11/03/content_9081005.htm",
+          "snippet": "... 脱敏、数据加密、实人认证等技术保护个人信息安全。需要说明的是，按照 ... 性、舒适性和安全性。各地通过“交管12123”APP提供精准导办服务5000多 ...",
+          "date": "20小时前",
+          "position": 32
+        },
+        {
+          "title": "公安部：机动车行驶证电子化明起分三批全国推广应用 - 新华日报",
+          "link": "https://www.xhby.net/content/s6726f215e4b0458dc38cf946.html",
+          "snippet": "... 脱敏、数据加密、实人认证等技术保护个人信息安全。需要说明的是，按照 ... 性、舒适性和安全性。各地通过“交管12123”APP提供精准导办服务5000多 ...",
+          "date": "21小时前",
+          "position": 33
+        },
+        {
+          "title": "【新闻随笔】按下推进教育领域人工智能应用“加速键” - 光明网",
+          "link": "https://news.gmw.cn/2024-11/01/content_37650411.htm",
+          "snippet": "完善隐私保护机制，强化对敏感数据的匿名化或脱敏处理，通过使用先进的安全技术来确保数据在收集、存储、传输、使用与销毁等全生命周期内都得到科学保护和 ...",
+          "date": "3天前",
+          "position": 34
+        },
+        {
+          "title": "公安部：机动车行驶证电子化明起分三批全国推广应用 - 时政",
+          "link": "https://china.zjol.com.cn/sz/202411/t20241103_30620759.shtml",
+          "snippet": "... 脱敏、数据加密、实人认证等技术保护个人信息安全。需要说明的是，按照 ... 性、舒适性和安全性。各地通过“交管12123”APP提供精准导办服务5000多 ...",
+          "date": "20小时前",
+          "position": 35
+        },
+        {
+          "title": "公安部：机动车行驶证电子化明起分三批全国推广应用 - 大河网",
+          "link": "https://news.dahe.cn/2024/11-03/1841343.html",
+          "snippet": "... 脱敏、数据加密、实人认证等技术保护个人信息安全。需要说明的是，按照 ... 性、舒适性和安全性。各地通过“交管12123”APP提供精准导办服务5000多 ...",
+          "date": "21小时前",
+          "position": 36
+        },
+        {
+          "title": "公安部：机动车行驶证电子化明起分三批全国推广应用 - 新湖南",
+          "link": "https://m.voc.com.cn/xhn/news/202411/21236857.html",
+          "snippet": "... 脱敏、数据加密、实人认证等技术保护个人信息安全。需要说明的是，按照 ... 性、舒适性和安全性。各地通过“交管12123”APP提供精准导办服务5000多 ...",
+          "date": "21小时前",
+          "position": 37
+        },
+        {
+          "title": "史上首例H收A，“泰国首富”再获一家上市公司！ - AASTOCKS.com",
+          "link": "http://www.aastocks.com/sc/mobile/news.aspx?newsid=GLH4882227N&newssource=GLH",
+          "snippet": "... 性疾病和自身免疫性疾病 ... 在发出一系列股权变更公告的同时，浩欧博与中国生物制药、海瑞祥天及JOHNLI也签署了《战略合作协议》，称各方将共同在脱敏 ...",
+          "date": "3天前",
+          "position": 38
+        },
+        {
+          "title": "公安部：机动车行驶证电子化11月4日起分三批全国推广应用 - 新蓝网",
+          "link": "https://www.cztv.com/newsDetail/706378",
+          "snippet": "... 脱敏、数据加密、实人认证等技术保护个人信息安全。需要说明的是，按照 ... 性、舒适性和安全性。各地通过“交管12123”APP提供精准导办服务5000多 ...",
+          "date": "2小时前",
+          "position": 39
+        },
+        {
+          "title": "对接供需打破壁垒激活数据要素潜在价值 - 上海证券报",
+          "link": "https://paper.cnstock.com/html/2024-10/30/content_1986308.htm",
+          "snippet": "上海证券报：数据流通如何确保安全性和隐私性？ 韦志林：保障数据 ... 方毅：关于公共数据开发利用中的安全合规问题，除了使用脱敏、匿名化处理 ...",
+          "date": "5天前",
+          "position": 40
+        },
+        {
+          "title": "弘晖HLC⋅Family | 「中国生物制药」宣布收购「浩欧博」",
+          "link": "https://bydrug.pharmcube.com/news/detail/a9b75305080d8b3863bba967a0f7d72b",
+          "snippet": "中国生物制药管理层表示，收购完成后也将有助于浩欧博过敏诊断、自身免疫诊断业务的稳步发展，增强其对脱敏 ... 读者应自行判断和鉴别转载文章的真实性、合法性和有效性。",
+          "position": 41
+        },
+        {
+          "title": "重磅收购！中国生物制药H+A",
+          "link": "http://www.phirda.com/artilce_36898.html?module=trackingCodeGenerator",
+          "snippet": "... 性偏弱，近几年市场对生物医药领域的关注度也不高 ... 据悉，2023年9月浩欧博曾宣布将引入Inmunotek旗下Oraltek（欧脱克）系列脱敏药品到中国市场。",
+          "date": "3天前",
+          "position": 42
+        },
+        {
+          "title": "公安部：机动车行驶证电子化明起分三批全国推广应用 - 杭州网",
+          "link": "https://news.hangzhou.com.cn/gnxw/content/2024-11/03/content_8808668.htm",
+          "snippet": "... 脱敏、数据加密、实人认证等技术保护个人信息安全。需要说明的是，按照 ... 性、舒适性和安全性。各地通过“交管12123”APP提供精准导办服务5000多 ...",
+          "date": "17小时前",
+          "position": 43
+        },
+        {
+          "title": "公安部：机动车行驶证电子化11月4日起分三批推广应用 - 极目新闻",
+          "link": "https://www.ctdsb.net/c1716_202411/2295707.html",
+          "snippet": "... 脱敏、数据加密、实人认证等技术保护个人信息安全。需要说明的是，按照 ... 性、舒适性和安全性。各地通过“交管12123”APP提供精准导办服务5000多 ...",
+          "date": "13小时前",
+          "position": 44
+        },
+        {
+          "title": "工信部、财政部、国家数据局联合部署新材料大数据中心",
+          "link": "https://home.wuhan.gov.cn/zcfg/202411/t20241101_2479202.shtml",
+          "snippet": "新材料是战略性、基础性产业，也是高技术竞争的关键领域。 ... 建设材料数据采集、加工、存储、融通和应用等全链条技术标准体系；完善数据密级、数据脱敏 ...",
+          "date": "2天前",
+          "position": 45
+        },
+        {
+          "title": "特朗普交易如何影响人民币汇率？ - 华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3732066",
+          "snippet": "考虑到国内政策的重要观测时点与美国大选结果出炉时点可能重合，通过内生动力对冲外部波动的可能性 ... 权益市场对外资仍未脱敏，但从北证指数的强势，科创板和 ...",
+          "date": "6天前",
+          "position": 46
+        },
+        {
+          "title": "外资公募披露最新持仓看好中国资产修复空间 - 财经网",
+          "link": "http://finance.caijing.com.cn/20241030/5047318.shtml",
+          "snippet": "... 脱敏方向、国企红利释放等。 安昀表示，8月下旬以来，市场看到了一些积极信号，家电和汽车的销量都有所复苏。他认为，这两个方向是结构性机会之一 ...",
+          "date": "5天前",
+          "position": 47
+        },
+        {
+          "title": "公安部：机动车行驶证电子化11月4日起分三批推广应用 - 正义网",
+          "link": "https://news.jcrb.com/jsxw/2024/202411/t20241103_6709494.html",
+          "snippet": "... 脱敏、数据加密、实人认证等技术保护个人信息安全。需要说明的是,按照 ... 性、舒适性和安全性。各地通过“交管12123”APP提供精准导办服务5000多 ...",
+          "date": "16小时前",
+          "position": 48
+        },
+        {
+          "title": "全国网络普法行安徽站丨网络普法进企业进学校助力法治宣传精准见效",
+          "link": "http://news.china.com.cn/txt/2024-11/01/content_117520705.shtml",
+          "snippet": "... 性国家科学中心核心区、国家自主创新示范区、安徽 ... 企迈科技公共事务总监刘畅说:“我们始终将隐私保护与数据安全视为生命线,采用国际领先的脱敏 ...",
+          "date": "3天前",
+          "position": 49
+        },
+        {
+          "title": "公安部：机动车行驶证电子化明起分三批全国推广应用 - 天山网",
+          "link": "https://www.ts.cn/xwzx/gnxw/202411/t20241103_24748414.shtml",
+          "snippet": "... 脱敏、数据加密、实人认证等技术保护个人信息安全。需要说明的是，按照 ... 性、舒适性和安全性。各地通过“交管12123”APP提供精准导办服务5000多 ...",
+          "date": "21小时前",
+          "position": 50
+        },
+        {
+          "title": "明起！全国推广应用 - 新闻- 羊城晚报",
+          "link": "https://news.ycwb.com/2024-11/03/content_53031350.htm",
+          "snippet": "... 脱敏、数据加密、实人认证等技术保护个人信息安全。需要说明的是，按照 ... 性、舒适性和安全性。各地通过“交管12123”APP提供精准导办服务5000多 ...",
+          "date": "9小时前",
+          "position": 51
+        },
+        {
+          "title": "公安部：机动车行驶证电子化明起分三批全国推广应用 - 广西新闻网",
+          "link": "http://www.gxnews.com.cn/staticpages/20241103/newgx67275410-21665206.shtml",
+          "snippet": "... 脱敏、数据加密、实人认证等技术保护个人信息安全。需要说明的是，按照 ... 性、舒适性和安全性。各地通过“交管12123”APP提供精准导办服务5000多 ...",
+          "date": "14小时前",
+          "position": 52
+        },
+        {
+          "title": "公安部：机动车行驶证电子化明起分三批全国推广应用 - 四川在线",
+          "link": "https://focus.scol.com.cn/zgsz/202411/82641541.html",
+          "snippet": "... 脱敏、数据加密、实人认证等技术保护个人信息安全。需要说明的是，按照 ... 性、舒适性和安全性。各地通过“交管12123”APP提供精准导办服务5000多 ...",
+          "date": "21小时前",
+          "position": 53
+        },
+        {
+          "title": "公安部：机动车行驶证电子化11月4日起分三批推广应用 - 福建电视台",
+          "link": "https://www.fjtv.net/folder331/2024-11-03/6244381.html",
+          "snippet": "... 脱敏、数据加密、实人认证等技术保护个人信息安全。需要说明的是，按照 ... 性、舒适性和安全性。各地通过“交管12123”APP提供精准导办服务5000多 ...",
+          "date": "20小时前",
+          "position": 54
+        },
+        {
+          "title": "江苏浩欧博生物医药股份有限公司股票交易异常波动公告 - 上海证券报",
+          "link": "https://paper.cnstock.com/html/2024-11/02/content_1989540.htm",
+          "snippet": "... 脱敏药及体外诊断产品的研发、生产、销售等方面，开展积极的探索和合作。 前述事项的相关审批程序能否通过及通过时间尚存在一定不确定性，公司将持续 ...",
+          "date": "2天前",
+          "position": 55
+        },
+        {
+          "title": "系带脱敏法六大步骤 - 抖音",
+          "link": "https://www.douyin.com/shipin/7314724938538027071",
+          "snippet": "想要提升水龙头的耐受性，可以从这两方面着手，一方面学会控制刺激强弱，另一方面提升大脑对刺激的耐受性。 通常情况下，可以将水龙头的敏感分为心理敏感和 ...",
+          "date": "2023年12月21日",
+          "position": 56
+        },
+        {
+          "title": "按下推进教育领域人工智能应用“加速键” - 评论 - 中工网",
+          "link": "https://www.workercn.cn/c/2024-11-01/8383144.shtml",
+          "snippet": "完善隐私保护机制，强化对敏感数据的匿名化或脱敏处理，通过使用先进的安全技术来确保数据在收集、存储、传输、使用与销毁等全生命周期内都得到科学保护和 ...",
+          "date": "3天前",
+          "position": 57
+        },
+        {
+          "title": "大咖齐聚，为儿童过敏“支招” - 网易",
+          "link": "https://www.163.com/dy/article/JFUDIPU105128U4M.html",
+          "snippet": "目前，过敏诊疗中心设置了过敏呼吸、过敏性鼻病、特应性皮炎、消化过敏、眼科过敏、中医过敏、过敏心理门诊、脱敏门诊及过敏护理门诊，开展体内体外过敏原 ...",
+          "date": "3天前",
+          "position": 58
+        },
+        {
+          "title": "两个月提升30分钟的丁丁脱敏训练，男生请认真看仔细听 - YouTube",
+          "link": "https://www.youtube.com/watch?v=mUCkoe1GwYM",
+          "snippet": "公众号：【大林先生】领取《丁丁徒手保养操》 任何问题都可联系大林微信 : VPS600 #男性脱敏训练方法 ...",
+          "date": "2024年1月30日",
+          "attributes": {},
+          "position": 59
+        },
+        {
+          "title": "龟头脱敏是怎么回事 - 有来医生",
+          "link": "https://m.youlai.cn/video/article/B256DCPglf.html",
+          "snippet": "男性出现龟头过敏症状时需进行脱敏治疗，脱敏治疗可以增加男性性生活时间，改善早泄症 ...\n时长： 1:47\n发布时间： 2023年4月27日",
+          "date": "2023年4月27日",
+          "position": 60
+        },
+        {
+          "title": "脱敏手法 - - YouTube",
+          "link": "https://www.youtube.com/hashtag/%E8%84%B1%E6%95%8F%E6%89%8B%E6%B3%95",
+          "snippet": "#脱敏手法 · 做爱第一次快，第二次很久，这种情况算不算早泄？ · 女生需要多长时间，才可以达到高潮？ · 如何通过脱敏锻炼来延长性爱时间？ · 男生学会持久力训练，成为无情打桩机！",
+          "position": 61
+        },
+        {
+          "title": "性别敏感型社会保护",
+          "link": "https://www.fao.org/gender/learning-center/thematic-areas/gender-sensitive-social-protection/zh",
+          "snippet": "社会保护是减少贫困、加强粮食安全和促进农村发展的有效手段。它包括社会援助、社会保险和劳动力市场干预。对社会保护的投资可以支持农村人口获得医疗保健和教育，确保 ...",
+          "position": 62
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

@@ -1,0 +1,1888 @@
+{
+  "query": "自我性别矫正",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-04T00:37:24.367324",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "自我性别矫正",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "LGBT回转治疗- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/LGBT%E8%BF%B4%E8%BD%89%E6%B2%BB%E7%99%82",
+          "snippet": "... 性倾向回转治疗、拗直治疗）是指试图透过心理或灵性介入来使人的性取向从双性恋或同性恋转化至异性恋，或者将其性别认同由跨性别转化为顺性别的尝试，属于伪科学的一种。",
+          "position": 1
+        },
+        {
+          "title": "联合国专家称，“矫正治疗”可构成酷刑，应予禁止 - ohchr",
+          "link": "https://www.ohchr.org/zh/stories/2020/07/conversion-therapy-can-amount-torture-and-should-be-banned-says-un-expert",
+          "snippet": "“矫正治疗”是一种干预治疗，宣称能够改变人的性取向或性别认同，因而声称其目的是将人从男、女同性恋或双性恋转变为异性恋，从跨性别或多元性别转变为顺性别— ...",
+          "date": "2020年7月13日",
+          "position": 2
+        },
+        {
+          "title": "【专题报道】“治疗”还是“酷刑”？联合国人权专家剖析针对性少数群体 ...",
+          "link": "https://news.un.org/zh/story/2020/07/1062101",
+          "snippet": "“矫正治疗”泛指各种基于一种信念的干预，这种信念认为一个人的性取向和性别认同，包括性别表达，只要不属于特定环境和时间中其他人心目中的理想规范范畴，都 ...",
+          "date": "2020年7月14日",
+          "position": 3
+        },
+        {
+          "title": "性别不一致和性别焦虑症 - 默沙东诊疗手册",
+          "link": "https://www.msdmanuals.cn/home/mental-health-disorders/gender-incongruence-and-gender-dysphoria/gender-incongruence-and-gender-dysphoria",
+          "snippet": "缓解痛苦的治疗选择包括社会性别转换（以指定性别生活，即使没有医疗或手术治疗）、治疗抑郁或焦虑的心理治疗、性别认定激素治疗和/或性别确认手术。 有些人一直认为自己生活 ...",
+          "position": 4
+        },
+        {
+          "title": "跨性别者和多元性别者的斗争 - ohchr",
+          "link": "https://www.ohchr.org/zh/special-procedures/ie-sexual-orientation-and-gender-identity/struggle-trans-and-gender-diverse-persons",
+          "snippet": "定义性别认同是指一个人内心深切感受到的基于个人体验的性别，可能与出生时被指派性别相同或者不同，包括对身体的个人感觉（如果能够自由选择，这可能包括使用医学、手术或 ...",
+          "position": 5
+        },
+        {
+          "title": "性別重置手術及性別矯正手術 - 臺北榮民總醫院",
+          "link": "https://wd.vghtpe.gov.tw/ps/Fpage.action?muid=15126&fid=13850",
+          "snippet": "這項「行政命令」揭示了兩項性別變更要件：一是精神科專科醫師診斷書，二是須完成變性手術中的「摘除原有性器官」階段。 更多訊息：跨性別男性、跨性別女性 ...",
+          "date": "2023年7月7日",
+          "position": 6
+        },
+        {
+          "title": "王恒| 吾栖之肤：跨性别者的性别认同与具身实践——基于在北京市 ...",
+          "link": "http://www.shehui.pku.edu.cn/wap/second/index.aspx?nodeid=2030&page=ContentPage&contentid=10195",
+          "snippet": "“跨性别”被用来形容性别认同与出生时被指派性别不符的人，而未必需要跨性（transsexual），后者特指通过激素替代治疗、性别重置手术等手段使身体符合自己的性别认同的人。除了 ...",
+          "position": 7
+        },
+        {
+          "title": "跨性别女性在中国：当“妳”只被允许成为“你” | 端传媒Initium Media",
+          "link": "https://theinitium.com/zh-hans/article/20230323-mainland-mtf-all-ask-for-is-a-chance-to-live",
+          "snippet": "MTF是male to female（注：也称男跨女或跨性别女性，指出生时指定性别为男性、自我认同为女性）的首字母缩写，中国大陆的跨性别女性在网路平台上倾向以此自称。",
+          "date": "2023年3月23日",
+          "position": 8
+        },
+        {
+          "title": "性别顺应：生理性别和社会性别的匹配研究及启示 - 中国社会科学网",
+          "link": "https://www.cssn.cn/shx/xbyjt/202210/t20221024_5551975.shtml",
+          "snippet": "有数项研究显示，染色体为XY但男性生殖器发育不完善的个体被作为女孩子抚养长大之后，大约有三分之二的人在进入青春期之后会将性别更改为男性，但有三分之一 ...",
+          "date": "2020年10月29日",
+          "position": 9
+        },
+        {
+          "title": "[PDF] UNDP-CH-PEG-Being-LGBT-in-China_CH.pdf",
+          "link": "https://www.undp.org/sites/g/files/zskgke326/files/migration/cn/UNDP-CH-PEG-Being-LGBT-in-China_CH.pdf",
+          "snippet": "而在心理健康领域，有的咨询师或医生将性少数人群. 的性倾向、性别认同及性别表达问题化，试图劝说对方改变甚或提供所谓“矫正治疗”的情况也时有发生。 2.2.4 制度环境. 目前， ...",
+          "position": 10
+        },
+        {
+          "title": "Vol.66：为了“矫正”我的性别，爸妈把我送去了一个“集中营” - 别任性",
+          "link": "https://shows.acast.com/bierenxing/episodes/066",
+          "snippet": "性自由是一个女性作为主体独立性的核心之一，性愉悦是女性获得自主性和力量感的一个关键路径，而且也是自我效能的一个反映指标。女性能够抛却羞耻感，懂得 ...",
+          "date": "2020年8月21日",
+          "position": 11
+        },
+        {
+          "title": "寻找可橙：矫正治疗风波背后，跨性别女孩的自救行动-全现在官方网站",
+          "link": "https://html.bad.news/html/c3541b633450cae5230ba200fdc1c7d8.html",
+          "snippet": "这些跨性别者，通常被家长以诱骗或强制手段，送往缺乏资质的教育与医疗机构，强制进行“性别矫正”教育，甚至被电击、强制用药、监禁和体罚。2020年7月，联合国性 ...",
+          "date": "2020年12月14日",
+          "position": 12
+        },
+        {
+          "title": "女性社区矫正对象 - 检索结果-【维普期刊官网】- 中文期刊服务平台",
+          "link": "https://qikan.cqvip.com/Qikan/Search/Index?key=K%3D%E5%A5%B3%E6%80%A7%E7%A4%BE%E5%8C%BA%E7%9F%AB%E6%AD%A3%E5%AF%B9%E8%B1%A1&from=Qikan_Search_JournalSearch",
+          "snippet": "近年来,女性犯罪成为世界性议题,中国女性社区矫正对象数量亦呈增长态势。在社会性别视角下,该群体真实需求的满足、自我平等发展意识的觉醒以及社区矫正的效果存在 ...",
+          "position": 13
+        },
+        {
+          "title": "正畸，年轻人“自我养育”的又一种方式？ - 新华网",
+          "link": "http://www.news.cn/politics/20241104/d7fa801fb7c0459e9fa703b9adcf77ba/c.html",
+          "snippet": "一方面，从口腔问题的一种治疗方式，到满足少数人改善性需求 ... 目前市场上的矫正器主要分为传统固定矫正器、无托槽隐形矫正器和舌侧隐形矫正器等。",
+          "date": "60分钟前",
+          "position": 14
+        },
+        {
+          "title": "性别互动论：基于“做性别”视角的探讨 - 社会学视野网",
+          "link": "http://sociologyol.ruc.edu.cn/shxyj/fzshx/xbshx/2b947c6fbb674a1fb88f707426ea64c7.htm",
+          "snippet": "而他/她们周遭的人们则会通过抵制、忽略不相符的性别线索重新阐释他/她们的自我呈现，用规范性的性别行为进行管制。 ... 纠正，以确证和支持规范性的性别意识 ...",
+          "date": "2020年5月8日",
+          "position": 15
+        },
+        {
+          "title": "同性恋矫正治疗的危害 - 医学论坛网",
+          "link": "https://m.cmt.com.cn/detail/797507.html",
+          "snippet": "同性恋矫正疗法的支持者称该疗法可以改变同性恋和跨性别者的性取向，但美国心理学协会(American Psychological Association，APA)发表的一篇科学文献 ...",
+          "date": "2015年4月23日",
+          "position": 16
+        },
+        {
+          "title": "叙事治疗提升女性矫正对象自我效能感的应用研究 - 万方数据",
+          "link": "https://d.wanfangdata.com.cn/thesis/D02660787",
+          "snippet": "在对叙事治疗提升女性矫正对象自我效能感的适切性分析后，发现叙事治疗模式能够适用于女性矫正对象中，提升女性矫正对象自我效能感；能有利于完整识别女性矫正对象的自我效能 ...",
+          "position": 17
+        },
+        {
+          "title": "跨性别女性的评估和管理- UpToDate",
+          "link": "https://www.uptodate.com/contents/zh-Hans/transgender-women-evaluation-and-management/print",
+          "snippet": "然而，寻求治疗的人数仍远低于根据匿名自我调查预期的人数。 ... 声音–雌激素和抗雄激素治疗不能改变声音特征，因此跨性别女性可选择咨询专业的语音矫正中心， ...",
+          "date": "2023年10月12日",
+          "position": 18
+        },
+        {
+          "title": "秋滨司法所“三全”措施推进社区矫正心理矫治落地见效",
+          "link": "http://sfj.jinhua.gov.cn/art/2023/10/12/art_1229168052_58892988.html",
+          "snippet": "... 性别、犯罪类型、犯罪特点、家庭背景等内容进行分类归集，制定法律知识 ... 自我。今年以来，累计帮助解决心理问题8个，帮助1名社矫对象修复家庭 ...",
+          "date": "2023年10月12日",
+          "position": 19
+        },
+        {
+          "title": "[PDF] 现代女性整容技术的价值异化及矫正路径",
+          "link": "https://cslgxbsk.csust.edu.cn/cslgdxxbsk/article/pdf/20220310",
+          "snippet": "这种看似是通过身体资本. 进行自我赋权的抗争行为，实则是偏激的非理. 性选择。 二是性别角色的敌对。激进女性主义的部. 分实践者力求挣脱一切“父权－资本”对身体 ...",
+          "position": 20
+        },
+        {
+          "title": "专家：半数接受心理矫正男性有女性化倾向 - 央视新闻",
+          "link": "http://m.news.cntv.cn/2013/12/22/ARTI1387673458617611.shtml",
+          "snippet": "青春期，当孩子的第二性征开始出现，他们不仅要接受自己身体变化带来的一系列问题，也开始从心理上学习男人应该怎么样，比如抗挫折能力，责任感，有担当，有魄力 ...",
+          "date": "2013年12月22日",
+          "position": 21
+        },
+        {
+          "title": "鄞州区司法局“三心三聚焦”提升女性矫正质效",
+          "link": "http://sfj.ningbo.gov.cn/art/2021/9/23/art_1229058221_58999701.html",
+          "snippet": "一是关心对话，聚焦个性彰显管控温度。女性矫正对象既有所有矫正对象共有的普遍性问题,又有不同于男性矫正对象的特殊性。鄞州司法局积极关注女性社区矫正 ...",
+          "date": "2021年9月23日",
+          "position": 22
+        },
+        {
+          "title": "矫正自我 重塑心灵 - 昆明市司法局",
+          "link": "https://sfj.km.gov.cn/c/2023-08-16/4765972.shtml",
+          "snippet": "通过开展此次活动使社区矫正对象认识到心理健康的重要性，了解并掌握了保持心理健康的技巧，提高其应对挫折的能力和社会适应力，从而更好地帮助社区矫正对象 ...",
+          "date": "2023年8月16日",
+          "position": 23
+        },
+        {
+          "title": "持续推进心理矫正“四化”建设，推动社区矫正由“管”向“治” - 龙岗政府在线",
+          "link": "https://www.lg.gov.cn/lgsfj/gkmlpt/content/11/11230/post_11230736.html",
+          "snippet": "为引导社区矫正对象以积极健康的心态重塑自我，龙岗区司法局坚持及时开展 ... 矫正工作的针对性、实效性、稳定性。 丰富心理教育，提升矫治成效.",
+          "date": "2024年4月7日",
+          "position": 24
+        },
+        {
+          "title": "先行先试——打造龙岗心理矫正品牌，推进社区矫正示范点建设",
+          "link": "https://sf.sz.gov.cn/jwjdygk/lgq/yqgl/content/post_9968847.html",
+          "snippet": "区司法局以评估结果为依据，对在册社矫对象进行分级管理和个性化干预，将心理问题分为一般性心理问题、严重性心理问题、神经症类心理问题、人格及精神病性 ...",
+          "date": "2022年8月24日",
+          "position": 25
+        },
+        {
+          "title": "[PDF] LIST OF TERMS – SEXUAL ORIENTATION, GENDER IDENTITY ...",
+          "link": "https://irb.gc.ca/en/interpreters/Documents/SOGIESC_Glossaries/SOGIESC_List_of_Terms_Mandarin.pdf",
+          "snippet": "性矫正手术. Page 2. 2. Cross-dresser. Travesti(e). 穿着异性服装者. Cross-sex ... 法语的这些词做自我识别的情况。决. 定者应该询问该术语是否是由申请人. 或上诉人 ...",
+          "position": 26
+        },
+        {
+          "title": "社会性别- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E7%A4%BE%E6%9C%83%E6%80%A7%E5%88%A5",
+          "snippet": "该些行为包括性别规范性游戏、性别的自我认同、从事侵略性行为的取向。大 ... 该些女性的外表跟其他女性差不多（但她们一般需要进行生殖器矫正手术）。不过 ...",
+          "position": 27
+        },
+        {
+          "title": "【区司法局】严把社区矫正入矫关，全力打造入矫“3＋1”模式",
+          "link": "http://www.conghua.gov.cn/gzchsf/gkmlpt/content/8/8333/post_8333982.html",
+          "snippet": "二是分类管理教育，提高初始教育的针对性、及时性。根据新入矫社区矫正对象的性别 ... 自我，为顺利度过矫正期打下坚实基础。 发布. 主办：广州市从化 ...",
+          "date": "2022年6月13日",
+          "position": 28
+        },
+        {
+          "title": "区司法局：镜湖区举办女性社区矫正帮扶项目结项仪式",
+          "link": "https://www.whjhq.gov.cn/xwdt/bmdt/18448957.html",
+          "snippet": "“镜享新生·魅力绽放”社区矫正项目自启动以来，见证了所有参与项目的女性矫正对象的成长和变化，通过开展各式各样的教育帮扶活动帮助女性矫正对象悦纳自我，找 ...",
+          "date": "2024年9月30日",
+          "position": 29
+        },
+        {
+          "title": "衢州市“五个注重”加强未成年人社区矫正工作",
+          "link": "https://sft.zj.gov.cn/art/2013/10/18/art_1659555_35621017.html",
+          "snippet": "针对未成年人心理特点，采用观看普法宣传片、以案说法书籍、漫画说法等形式，增加宣传教育的实例性和情理性，提高未成年社区矫正人员自我矫正的自觉性和主动 ...",
+          "date": "2013年10月18日",
+          "position": 30
+        },
+        {
+          "title": "打造“三个场景” 开展“四式教育”——扶风县持续优化智慧矫正中心建设",
+          "link": "http://sfj.baoji.gov.cn/art/2024/8/14/art_3367_1771081.html",
+          "snippet": "为了发挥5G技术优势和VR沉浸式、交互性特点，打造“虚拟+现实”矫正 ... 自我约束，更加珍惜矫正机会。 警示教育现实场景提“质”. 为进一步提升社区 ...",
+          "date": "2024年8月14日",
+          "position": 31
+        },
+        {
+          "title": "探索心灵密码助力社区矫正对象重返社会",
+          "link": "http://xxgk.zezhou.gov.cn/xzfgzbm/sfj/fdzdgknr/zzsfjggflfw/sfjfzxcjy/202401/t20240129_1926574.shtml",
+          "snippet": "... 矫正对象放松情绪、敞开心扉、畅所欲言，指导他们认识自我，完整地接纳自己。随后，结合身边的真实事例，从自我成长、工作职业、婚姻家庭等方面展开，有针对性 ...",
+          "date": "2024年1月29日",
+          "position": 32
+        },
+        {
+          "title": "社会性别视角下女性社区矫正对象研究-【维普期刊官网】",
+          "link": "https://qikan.cqvip.com/Qikan/Article/Detail?id=00002FCH55387JP0MLDO6JP1MLR&from=Qikan_Article_Detail",
+          "snippet": "摘要 近年来,女性犯罪成为世界性议题,中国女性社区矫正对象数量亦呈增长态势。在社会性别视角下,该群体真实需求的满足、自我平等发展意识的觉醒以及社区矫正的效果存在 ...",
+          "position": 33
+        },
+        {
+          "title": "用力、用情，社区矫正促新生——邹城市司法局社区矫正工作纪实",
+          "link": "http://jnsfxzw.jining.gov.cn/art/2023/10/10/art_61260_2706077.html",
+          "snippet": "逐个分析每名未成年矫正对象的犯罪情形、个人心理特点、家庭情况等，制定个性化矫正方案，有针对性的开展精准矫正，引导他们加强法律知识的学习，增强守法意识 ...",
+          "date": "2023年10月10日",
+          "position": 34
+        },
+        {
+          "title": "未管所首期社会心理适应性矫正项目结业 - 北京市监狱管理局",
+          "link": "https://jyj.beijing.gov.cn/gzdt1/gzdt/201912/t20191211_1072809.html",
+          "snippet": "据悉，每次授课除了心理常识讲座，还有游戏互动和团体活动，并留有课后作业，以进一步固化社会心理适应性矫正项目的效果。服刑人员贾某说：“参加社会心理适应性 ...",
+          "date": "2018年6月15日",
+          "position": 35
+        },
+        {
+          "title": "北辰区司法局大胆创新不断探索积极开创社区矫正心理矫治新模式",
+          "link": "https://www.tjbc.gov.cn/zwgk/zfxxgk/xxgk_wbj/zjyq_xxgk_sfj/xxgk_fdzdgk_sfj/xxgk_qtfdgkxx_sfj/202012/t20201230_5260327.html",
+          "snippet": "北辰区司法局自2012年接收社区服刑人员以来，通过建立心理咨询室、开展心理量表测评、音乐放松治疗等形式，探索性地开展心理矫治工作，取得了一定的成效。",
+          "date": "2018年11月8日",
+          "position": 36
+        },
+        {
+          "title": "葵涌司法所组织社区矫正对象开展“拥抱情绪，悦纳自己”心理教育活动",
+          "link": "https://sf.sz.gov.cn/jwjdygk/dpxq/xxgk/content/mpost_11176839.html",
+          "snippet": "此次心理教育活动邀请到国家二级心理咨询师李晓燕老师从认识情绪、情绪与认知和行为的关系以及如何自我调整情绪等几个方面，有针对性地讲解人的认知和信念 ...",
+          "date": "2024年3月6日",
+          "position": 37
+        },
+        {
+          "title": "杨思权调研岳阳楼区未成年人社区矫正工作情况小结 - 岳阳市司法局",
+          "link": "https://sfj.yueyang.gov.cn/30787/67702/content_2102078.html",
+          "snippet": "（一）矫正方案针对性不强。矫正机构工作人员缺乏分类矫正意识，在实际工作中往往将成年矫正对象的格式化矫正方案略经调整后直接适用于未成年人的矫正方案上， ...",
+          "date": "2023年7月4日",
+          "position": 38
+        },
+        {
+          "title": "江门人性化管理举措助社区矫正对象脱胎换骨",
+          "link": "https://www.jiangmen.gov.cn/jmsfj/gkmlpt/content/2/2847/post_2847250.html",
+          "snippet": "社工经常有意识地在年轻人喜欢的开放性场合与陈某约谈。经过多次疏导，陈某逐渐敞开心扉，愿意说出内心困惑。随后社工有针对性地运用情绪疗法引导陈某纠正 ...",
+          "date": "2023年4月26日",
+          "position": 39
+        },
+        {
+          "title": "“矫正自我劳动塑新”同心县司法局组织社区矫正对象走进下马关敬老院 ...",
+          "link": "https://www.tongxin.gov.cn/xwzx/bmdt/202410/t20241016_4697040.html",
+          "snippet": "... 性和积极性，表现出了良好的改造态度。 教育矫正与公益活动相结合，不仅让社区矫正对象们找到了自我价值，同时，也弘扬了中华民族尊老爱幼的传统美德 ...",
+          "date": "2024年10月16日",
+          "position": 40
+        },
+        {
+          "title": "黔东南州司法局“七个抓实”做优社区矫正工作",
+          "link": "http://sfj.qdn.gov.cn/sfgz/sqjz/202409/t20240902_85529008.html",
+          "snippet": "宣告仪式庄严肃穆，彰显了社区矫正作为刑事执行活动的严肃性和权威性。 ... 矫正对象的自我改造和自我提升，帮助他们顺利融入社会。今年上半年，黔 ...",
+          "date": "2024年9月2日",
+          "position": 41
+        },
+        {
+          "title": "黄岩区司法局突出“VR+”推进社区矫正教育帮扶工作质效",
+          "link": "https://www.zjhy.gov.cn/art/2021/7/18/art_1229551121_59029820.html",
+          "snippet": "... 矫正对象加强自我学习、自我教育、自我矫正。同时以引导社区矫正对象发散性学习为目标，组织开展互动座谈、写观后感等，进一步将教育矫正深化、内化。",
+          "date": "2021年7月18日",
+          "position": 42
+        },
+        {
+          "title": "枣阳市司法局：“三个坚持”助力社区矫正对象重塑自我",
+          "link": "http://sft.hubei.gov.cn/fbjd/sjhc/202310/t20231023_4909173.shtml",
+          "snippet": "在社区矫正对象的日常监管中，坚持抓好法律法规“规定动作”，执行各项监管措施不打折扣，从调查评估到解除矫正，社区矫正的全过程突出严肃性和规范性。特别重视 ...",
+          "date": "2023年10月23日",
+          "position": 43
+        },
+        {
+          "title": "社区矫正对象自我污名与人身危险性的关系研究- 期刊论文- 法信",
+          "link": "https://www.faxin.cn/v2/qklw/content.html?gid=F798135",
+          "snippet": "社区矫正对象再犯罪的原因十分复杂,其中与他们的自我认知有着直接的关联.因此,本研究在以往研究的基础上,采用心理污名量表和犯罪者人身危险性问卷对河北省500名社区 ...",
+          "position": 44
+        },
+        {
+          "title": "盐城市司法局基层动态响水：社区矫正局积极探索社区矫正工作优化",
+          "link": "https://sfj.yancheng.gov.cn/art/2024/1/8/art_1301_4132490.html",
+          "snippet": "五是关注矫正对象的心理矫治：县矫正局重视对矫正对象的心理矫治工作，通过开展心理辅导、心理疏导等活动，帮助矫正对象树立正确的价值观、人生观，增强自我 ...",
+          "date": "2024年1月8日",
+          "position": 45
+        },
+        {
+          "title": "社会组织参与社区矫正服务规范",
+          "link": "http://sfj.huzhou.gov.cn/hzgov/front/s47/zcfg/zcfg/20200309/i2645239.html",
+          "snippet": "... 性和被动性。最终达到社区矫正对象自己帮助自己，实现自我成长和人格完善。 5.7 保密. 社会组织和社区矫正社会工作者应尊重社区矫正对象的隐私，在不 ...",
+          "date": "2020年3月9日",
+          "position": 46
+        },
+        {
+          "title": "苏仙区司法局：除隐患、保安全深入开展社区矫正隐患排查整治活动",
+          "link": "https://sfj.czs.gov.cn/sqjz/content_3481504.html",
+          "snippet": "... 自我调节的能力，树立了社区矫正对象自强、自立、自尊的健康人格 ... 为强化排查整治效果，按照社区矫正对象性别、心理特点及犯罪原因、犯罪 ...",
+          "date": "2022年8月9日",
+          "position": 47
+        },
+        {
+          "title": "玉环市司法局解锁信用矫正“积分激励”机制",
+          "link": "http://sfj.zjtz.gov.cn/art/2024/10/24/art_1229569460_58830128.html",
+          "snippet": "三是多场景应用，增强信用提分积极性。充分发挥信用积分“指挥棒”功能，在日常外出审批、经常性跨区县经营、工作介绍培训等对矫正对象自我管理能力要求较高的 ...",
+          "date": "2024年10月24日",
+          "position": 48
+        },
+        {
+          "title": "兰州新区民政司法和社会保障局举办社区矫正对象心理健康教育",
+          "link": "http://sft.gansu.gov.cn/sft/c113162/202410/174013595.shtml",
+          "snippet": "讲座邀请了国家二级心理咨询师从认识情绪，情绪具有传染属性、搬开负性情绪的四大“绊脚石”、掌握“情绪ABC”疗法，积极转化情绪三个方面入手，结合实际，对社区 ...",
+          "date": "2024年10月21日",
+          "position": 49
+        },
+        {
+          "title": "矫正策略模型显著提高罪犯矫正效果 - 中华人民共和国司法部",
+          "link": "https://www.moj.gov.cn/pub/sfbgw/fzgz/fzgzxszx/fzgzjygl/202407/t20240717_502947.html",
+          "snippet": "湖南省长沙监狱创新性地构建科学的矫正策略模型，该模型基于罪犯 ... 罪犯从被动转为主动参与矫正，自我认知和改造动力显著增强。 附件：. 责任 ...",
+          "date": "2024年7月17日",
+          "position": 50
+        },
+        {
+          "title": "联合国人权专家呼吁禁止对性少数群体实施所谓的“矫正治疗” - UN News",
+          "link": "https://news.un.org/zh/story/2020/07/1061591",
+          "snippet": "联合国人权专家今天表示，所谓的“矫正治疗”给性少数群体带来严重痛苦，常常导致长期的社会心理和身体损伤，应在全球范围内彻底禁止此类做法。",
+          "date": "2020年7月8日",
+          "position": 51
+        },
+        {
+          "title": "鄂城区司法局汀祖司法所开展10月社区矫正对象集中学习教育活动",
+          "link": "https://sfj.ezhou.gov.cn/sy_920/tt_921/202410/t20241024_658376.html",
+          "snippet": "... 自我约束能力，确保社区矫正工作的顺利进行。 首先，会议带领社区矫正 ... 通过详细解读法律条文和实际案例分析，让社区矫正对象深刻认识到家庭教育的重要性 ...",
+          "date": "2024年10月24日",
+          "position": 52
+        },
+        {
+          "title": "泰安市司法局法律法规社区矫正法规制度（二）－－主要理念",
+          "link": "https://sfj.taian.gov.cn/art/2019/1/28/art_47281_4783471.html",
+          "snippet": "... 自我发展的需求。 在社区矫正蕴涵的惩罚性和恢复性二元功能中，如果选择不当，就可能导致刑罚和社区矫正的失衡，进而损害社会利益和个人利益。因而，在构建和谐社会的 ...",
+          "position": 53
+        },
+        {
+          "title": "马来西亚：国家支持歧视，伤害LGBT人士 - Human Rights Watch",
+          "link": "https://www.hrw.org/zh-hans/news/2022/08/10/malaysia-state-backed-discrimination-harms-lgbt-people",
+          "snippet": "... 、男同性恋、双性恋和跨性别（LGBT）人士造成威胁。马来西亚政府应将同性性行为及多元性别除罪化，并应停止各种旨在“矫正”或“治疗”LGBT人士的课程与论述。",
+          "date": "2022年8月10日",
+          "position": 54
+        },
+        {
+          "title": "孙渡街道开展社区矫正人员日常行为规范学习教育活动",
+          "link": "https://www.jxfc.gov.cn/fcsrmzf/gzdt84/201609/afab23b8ed17479ebf998c30f89002cc.shtml",
+          "snippet": "... 矫正的自觉性、主动性、提高矫正质量。正确认识在社会上的位置，正视刑罚的惩罚性 ... 自我反省，自觉接受教育改造；服从监督管理和教育。 通过这次集中教育学习 ...",
+          "position": 55
+        },
+        {
+          "title": "厅领导解读丨《社区矫正法》颁布施行的重大意义及我省贯彻实施 ...",
+          "link": "https://www.hongshan.gov.cn/zfbm/qsfj/zcfg/zcjd/202012/t20201207_1531490.shtml",
+          "snippet": "《社区矫正法》充分体现了保障人权、宽严相济、科学矫正、社会参与、修复融入的现代刑罚执行精神，其颁布实施，填补了我国社区矫正工作缺乏统领性 ... 自我教育、自我管理、 ...",
+          "position": 56
+        },
+        {
+          "title": "“一对一”个别教育，助力社区矫正对象新生 - 源城区",
+          "link": "http://www.gdyc.gov.cn/hyycsfj/gkmlpt/content/0/609/post_609706.html",
+          "snippet": "... 性地进行法律法规学习、训诫约谈和警示教育，强调社区矫正的各项规定和要求，告诫他们切勿触碰法律红线，切勿以身试法，要加强自我改造，增强遵纪守法意识。",
+          "date": "2024年6月14日",
+          "position": 57
+        },
+        {
+          "title": "2024年“从'心'回归”女性社区矫正对象成长小组结组活动",
+          "link": "http://www.zetdz.gov.cn/zfxxgk/zjjjjskfqqzjdbsc/content/post_1973934.html",
+          "snippet": "小组活动由专业社工老师彭宇菲主持开展，运用社会支持网络理论、优势视角理论和增能理论引领矫正对象挖掘自身优势、认同自我 ... 性开展广大妇女姐妹 ...",
+          "date": "3天前",
+          "position": 58
+        },
+        {
+          "title": "南部县司法局“三新”教育提升社区矫正质效",
+          "link": "https://scnanbu.gov.cn/xwdt/ztzl/fzzf/gzdt/202204/t20220429_1198139.html",
+          "snippet": "... ，南部县人民政府办公室承办的综合性 ... 矫正对象养成自我约束、自我净化的良好行为规范。 二是法治教育立新行 ...",
+          "date": "2022年4月29日",
+          "position": 59
+        },
+        {
+          "title": "赏一扇花开护心灵绽放——恩平市司法局开展女性社区矫正对象主题 ...",
+          "link": "http://www.enping.gov.cn/zxdt/bmdt/content/post_2817311.html",
+          "snippet": "现场向社区矫正对象提供永生花团扇制作材料包，耐心指导她们进行手工制作。通过“园艺心理”辅助治疗，引导社区矫正对象清晰认知自我，从手工制作中了解 ...",
+          "date": "2023年3月15日",
+          "position": 60
+        },
+        {
+          "title": "[PDF] 社会组织参与社区矫正的有效性评估 - 湘潭大学",
+          "link": "https://fxxb.xtu.edu.cn/__local/B/FD/CA/6739A2EEA336D559798BF6F4BEE_4AB6D990_1B2DE6.pdf",
+          "snippet": "矫正有效性评估指标的科学性和可操作性，应坚持以下原则：一是系统性，无论 ... 自我形象的组成部分，是衡量社会组织能否帮助社区矫正. 对象卸下心理负担、勇敢面 ...",
+          "position": 61
+        },
+        {
+          "title": "江海区检察院组织女性社区矫正对象开展系列教育帮扶活动- 工作动态",
+          "link": "http://www.jianghaiqu.net/jhqjcy_99/gzdt_146983/202403/t957943.html",
+          "snippet": "女性社区矫正对象普遍学历不高、法律意识不强，自我意识不成熟，在被判刑 ... 性、倾向性问题，有针对性采取预防措施。 活动最后，检察官为全体 ...",
+          "date": "2024年3月12日",
+          "position": 62
+        },
+        {
+          "title": "海珠区司法局推进“精准社矫”建设助力社区矫正对象重塑新生",
+          "link": "https://sfj.gz.gov.cn/xxgk/xxgkml/gzdt/jcdt/content/post_9905997.html",
+          "snippet": "针对部分女性社区矫正对象因矫正身份而产生的自我认同危机，海珠区司法局 ... 性，为矫正对象更好地融入社会奠定坚实基础。 （海珠区司法局 ...",
+          "date": "2024年10月11日",
+          "position": 63
+        },
+        {
+          "title": "乐清市司法局“三严三抓”把好社区矫正“入矫关” - 温州市司法局",
+          "link": "https://sifa.wenzhou.gov.cn/art/2019/12/20/art_1336454_41153449.html",
+          "snippet": "... 矫正的严肃性，彰显社区矫正的威严，使社区矫正对象的自我认知和定位更加准确。每月召开一次新增学习教育会，学习社区矫正相关规定。今年，在该学习会上增设训诫环节 ...",
+          "position": 64
+        },
+        {
+          "title": "社区矫正点亮新生之路司法温情铺就幸福归途 - 广州市海珠区人民政府",
+          "link": "https://www.haizhu.gov.cn/gzhzsf/gkmlpt/content/9/9800/post_9800290.html",
+          "snippet": "... 性和规范性，同时，通过提供必要的指导、心理疏导以及适时的生活辅助，让吴某感受到关怀与温暖。 在社区矫正期间，吴某不仅完成了自我改造，更在 ...",
+          "date": "2024年8月7日",
+          "position": 65
+        },
+        {
+          "title": "明溪县“三个一”推进社区矫正心理矫治落地见效 - 三明市司法局",
+          "link": "http://smsfj.sm.gov.cn/sfyw/sqjz/202404/t20240426_2020691.htm",
+          "snippet": "在矫中期，开展第二次心理测评，结合测评结果和在矫表现，及时调整矫治方案。解矫末期，开展社区矫正对象社会适应性评估，做好回归社会前的心理健康指导。今年 ...",
+          "date": "2024年4月26日",
+          "position": 66
+        },
+        {
+          "title": "【一所一品】东桥司法所：探索创建社区矫正“1234”心理矫治新模式",
+          "link": "http://sfj.quanzhou.gov.cn/xxgk/jcdt/202211/t20221121_2802912.htm",
+          "snippet": "创新建立心理矫治三色管理，并贯穿于社区矫正教育改造的始终，提高心理矫治工作覆盖面、针对性、实效性。 ... 自我了解、改变错误认知、矫正不良习惯的心理 ...",
+          "date": "2022年11月17日",
+          "position": 67
+        },
+        {
+          "title": "狮岭镇组织社区矫正对象开展禁毒反诈教育 - 广州市花都区人民政府",
+          "link": "https://www.huadu.gov.cn/gzhdslz/gkmlpt/content/9/9821/post_9821512.html",
+          "snippet": "... 矫正对象带来了一场深刻而生动的授课，以通过专业人士的讲解，增加他们的法治观念和自我保护能力。 讲座上，警官首先对毒品的认知进行了详细阐述，让社区矫正 ...",
+          "date": "2024年8月20日",
+          "position": 68
+        },
+        {
+          "title": "东湖高新：科技赋能服务社区矫正对象心理矫治 - 武汉市司法局",
+          "link": "https://sfj.wuhan.gov.cn/zwdt/qjdt/202304/t20230403_2180128.shtml",
+          "snippet": "... 矫正心理矫治工作的科学性、预见性和精准性。 ... 在街道、司法所成立社区矫正对象心理团体辅导小组，借助成员之间的互动，提高社区矫正对象的自我认知与解决 ...",
+          "date": "2023年3月29日",
+          "position": 69
+        },
+        {
+          "title": "派驻民警开展“接受现实，展望未来”心理健康讲座助力社区矫正工作",
+          "link": "https://sfj.zunyi.gov.cn/fzjs/202405/t20240528_84696864.html",
+          "snippet": "随后，他传授了一系列实用的解决心理问题的小诀窍，帮助矫正对象学会自我调节，提升心理韧性。 在讲座中，咨询师强调了接受现实的重要性，鼓励社区矫正 ...",
+          "date": "2024年5月28日",
+          "position": 70
+        },
+        {
+          "title": "济宁市司法局“社区矫正法”专栏嘉祥县司法局召开“为平安社会注入'她",
+          "link": "http://jnsfxzw.jining.gov.cn/art/2022/6/6/art_61260_2704868.html",
+          "snippet": "... 矫正的主观能动性， ... 自我形象、培养自尊自信为抓手，通过故事渗透的形式让在场的女性知道并了解有一个积极乐观心态的重要性 ...",
+          "date": "2022年6月6日",
+          "position": 71
+        },
+        {
+          "title": "靖安县司法局召开社区矫正心理咨询师志愿者座谈会",
+          "link": "http://www.jxjaxzf.gov.cn/jaxrmzf/gzdt/202309/b52e02411519469a9c050389b6ad5d94.shtml",
+          "snippet": "... 性。心理咨询师志愿者畅所欲言，建言献策，他们表示：推动心理健康 ... 矫正对象遵纪守法的帮教者和自我革新的引路人。 座谈会后，邀请心理咨询 ...",
+          "date": "2023年9月1日",
+          "position": 72
+        },
+        {
+          "title": "福州市司法局关于社区矫正工作的民意征集",
+          "link": "https://sfj.fuzhou.gov.cn/hdpt/myzj/detail.htm?id=17017",
+          "snippet": "*验证码：. 本期征集已结束. 姓名, 标题, 内容. 陈**, 社区矫正工作的社会化与专业性 ... 自我学习式的社区矫正一体化平台。 陈**, 给社区矫正工作者配制服, 社区矫正队伍 ...",
+          "position": 73
+        },
+        {
+          "title": "帮教矫治助新生--连州司法所组织开展未成年社区矫正对象帮扶教育活动",
+          "link": "http://www.lianzhou.gov.cn/qylzsfj/gkmlpt/content/1/1880/post_1880439.html",
+          "snippet": "为进一步加强对未成年社区矫正对象教育矫治的针对性、精准性、有效性 ... 此次教育活动，进一步提升了未成年社区矫正对象的法律意识、安全意识和自我 ...",
+          "date": "2024年6月14日",
+          "position": 74
+        },
+        {
+          "title": "浦东新区举行“和•心•悦”心理矫正项目启动暨“矫正人员之家”揭牌仪式",
+          "link": "https://sfj.sh.gov.cn/ywzx_jyjdjz/20240925/08a046fff7af4a19a84e49285c646f6b.html",
+          "snippet": "... 自我认知与自我管理能力，增强社会责任感和法治观念。 “矫正人员之家”是 ... 性训练。不仅促进特殊对象顺利回归社会，为社会输送合格公民，更为 ...",
+          "date": "2024年9月25日",
+          "position": 75
+        },
+        {
+          "title": "ROSA机器人骨性标记点矫正注册法在脑深部电刺激术中的应用",
+          "link": "https://rs.yiigle.com/cmaid/1112233",
+          "snippet": "结论ROSA机器人辅助DBS手术在设计骨性标记点注册计划时，将虚拟探针圆圈沿标记点长轴向标记点尖端方向移动0.50 mm的矫正注册法的误差更小，手术精度更高。",
+          "position": 76
+        },
+        {
+          "title": "行为矫正与管理Behavior Modification and Management－课程介绍",
+          "link": "https://psych.bnu.edu.cn/rcpy/bkspy/kcjsa/f071b80d949546cc982c82b08672b434.htm",
+          "snippet": "... 性条件作用理论；认知行为学习理论；班都拉的社会学习理论. 教学要求：课前 ... 自我矫正方案. （十三）第十三章认知-行为治疗2+1学时（课堂讲授2学时，课程实践1 ...",
+          "position": 77
+        },
+        {
+          "title": "国际性教育技术指导纲要 - UNESCO Digital Library",
+          "link": "https://unesdoc.unesco.org/ark:/48223/pf0000260770_chi",
+          "snippet": "... 矫正机制。另外，关于LGBTI 群体的性与生殖生活和需求的研究较少。全面性教育 ... 性别平等态度、自信心或自我认同。除了系统性的回顾得出的结果外，2016 年回顾 ...",
+          "position": 78
+        },
+        {
+          "title": "海曙区司法局“三心”助力社区矫正“修心教育”精准化",
+          "link": "http://sfj.ningbo.gov.cn/art/2021/1/11/art_1229058221_58998521.html",
+          "snippet": "针对不少新入矫人员存在的抵触心理，由专业心理咨询师进行点对点心理疏导，降低潜在风险，营造良好氛围。解矫阶段，除法律类巩固性教育外，进一步强化社会适应 ...",
+          "date": "2021年1月11日",
+          "position": 79
+        },
+        {
+          "title": "渭滨区召开社区对象矫正警示教育大会 - 宝鸡市司法局",
+          "link": "http://sfj.baoji.gov.cn/art/2024/4/2/art_3367_1733681.html",
+          "snippet": "为进一步加强对社区矫正对象的监督管理，强化社区矫正对象接受矫正的自觉性 ... 自我调节，助其顺利完成社区矫正期。 此次警示教育活动起到了良好的警示 ...",
+          "date": "2024年4月2日",
+          "position": 80
+        },
+        {
+          "title": "派驻延伸管教警察陈启新：把“派”的权威与“驻”的优势切实转化为社区 ...",
+          "link": "https://www.heshan.gov.cn/jmhssfj/gkmlpt/content/3/3013/post_3013335.html",
+          "snippet": "... 矫正刑罚执行的严肃性、规范性和权威性。经过前期资料收集和分析研判，陈警官以“社区矫正第一课——依法矫正重塑自我 ... 性、客观性和规范性。针对某些 ...",
+          "date": "2024年1月10日",
+          "position": 81
+        },
+        {
+          "title": "新区司法局对社区矫正人员实行分类管理",
+          "link": "http://www.qhd.gov.cn:81/info/content.jsp?code=54604",
+          "snippet": "为切实增强社区矫正工作的针对性、实效性，提高社区矫正人员教育改造质量 ... 自我控制力和现实表现良好的矫正人员，实行宽松管理；B类为“普管类 ...",
+          "date": "2013年8月6日",
+          "position": 82
+        },
+        {
+          "title": "梅州市司法局组织社区矫正对象开展“震撼教育”活动",
+          "link": "https://www.meizhou.gov.cn/zwgk/zfjg/ssfj/zfxxgkml/gzdt/content/post_2524409.html",
+          "snippet": "... 性和震慑力。 ... 市司法局工作人员作警示教育训话，要求社区矫正对象一要知己，增强身份意识，深刻剖析自己的犯罪原因，真诚认罪悔罪，加强自我控制、自我 ...",
+          "date": "2023年8月3日",
+          "position": 83
+        },
+        {
+          "title": "翠峰街道开展5月社区矫正对象集中学习暨心理健康讲座",
+          "link": "https://qeda.qj.gov.cn/html/2023/jkqdt_0607/12892.html",
+          "snippet": "... 矫正对象正确认识自我、认识不完美的我，讲座既有专业知识、又有现场互动，对常见的情绪问题以及如何增强心理灵活性、情绪灵活性以及释放焦虑的小技巧，帮助社区矫正 ...",
+          "position": 84
+        },
+        {
+          "title": "法治八陡：矫正教育再学习，重塑人生早回归 - 博山区人民政府",
+          "link": "http://www.boshan.gov.cn/art/2022/7/12/art_15064_2333878.html",
+          "snippet": "... 矫正刑罚执行的严肃性，促使社区矫正对象继续转变思想，正视自己的身份，增强自我约束的自觉性。 二、写学习笔记，深化教育效果. 同时，为巩固法律法规 ...",
+          "date": "2022年7月12日",
+          "position": 85
+        },
+        {
+          "title": "北京市西城区人民政府",
+          "link": "https://www.bjxch.gov.cn/xxgk/xxxq/pnidpv841492.html",
+          "snippet": "二、什么是提高教育矫正质量的基础性问题. 2004年4 ... 矫正工作质量最关键的基础性问题是什么？”做了探索 ... 自我完善，凸显社会化、专业化教育矫正的效果。将 ...",
+          "position": 86
+        },
+        {
+          "title": "2023年弋江区司法局社区矫正新闻发布会",
+          "link": "https://www.yjq.gov.cn/openness/public/6603431/38696271.html",
+          "snippet": "同时围绕未成年矫正对象的年龄、心理特点、发育需要、成长经历、犯罪原因、家庭监护、教育条件等情况，制定有针对性的矫正方案，并开展亲子帮扶活动和一对一 ...",
+          "date": "2023年6月26日",
+          "position": 87
+        },
+        {
+          "title": "平湖市司法局“三心”强化社区矫正心理矫治工作",
+          "link": "http://www.pinghu.gov.cn/art/2024/8/7/art_1229395937_59854569.html",
+          "snippet": "... 性“育心”。结合日常集中教育活动，定期开展心理健康教育讲座，通过图文、绘画等，帮助社区矫正对象培养正确的心理认知。教会社区矫正对象掌握正确的自我 ...",
+          "date": "2024年8月7日",
+          "position": 88
+        },
+        {
+          "title": "[PDF] 社区矫正教育矫正规范 - 12348四川法网",
+          "link": "https://sc.12348.gov.cn/file/ngxdown.shtml?filename=2023_10_25_16_7_53_780_1_d.pdf",
+          "snippet": "罪等解矫教育，引导社区矫正对象完成个人总结、自我鉴定和接受安置帮教。 ... 7.2 分类教育应按照社区矫正对象的性别、年龄、犯罪类型、性格特点、管理 ...",
+          "date": "2022年9月1日",
+          "position": 89
+        },
+        {
+          "title": "苏尼特右旗司法局开展女性社区矫正对象专题心理疏导活动",
+          "link": "http://www.sntyq.gov.cn/sntyq/zwdt/qndt/2024051511304049773/index.html",
+          "snippet": "女性社区矫正对象是一个特殊群体，其心理承受力和情绪的稳定性影响到家庭的和谐。开展此次心理健康疏导活动，既体现了对社区矫正对象身心健康的关心关爱，又 ...",
+          "date": "2024年5月14日",
+          "position": 90
+        },
+        {
+          "title": "矫正科开展“发掘自我依恋类型”社区矫正教育学习讲座 - 福田政府在线",
+          "link": "https://www.szft.gov.cn/bmxx/qsfj/tzgg/content/post_4420808.html",
+          "snippet": "矫正科开展“发掘自我依恋类型”社区矫正教育学习讲座 ... 通过本次讲座，社区矫正人员意识到心理健康的重要性，有助于社区矫正人员顺利度过社区矫正期。",
+          "date": "2017年2月22日",
+          "position": 91
+        },
+        {
+          "title": "关于全区社区矫正工作开展情况的审议意见",
+          "link": "http://rd.cqtn.gov.cn/jdgz/news/2023-9/1094_104427.shtml",
+          "snippet": "... 自我认知不清、基础保障不强、监管机制不全、管教措施不力等问题和 ... 强化社区矫正对象身份意识，维护社区矫正的法律性、严肃性、权威性。二是 ...",
+          "date": "2023年9月7日",
+          "position": 92
+        },
+        {
+          "title": "[DOC] 《志愿服务信息元数据》国家标准（送审稿）编制说明",
+          "link": "https://www.mca.gov.cn/images3/www2017/file/202203/04/20220304173927212.docx",
+          "snippet": "... 性行为等方面的信息，有针对性的开展认知行为矫正，使社区服刑人员学会行为控制与自我管理，实现社区矫正的直接目的。二是在服务流程上体现了服务流程的严谨性，将社区 ...",
+          "position": 93
+        },
+        {
+          "title": "[PDF] 社区矫正社会工作服务规范 - 地方标准",
+          "link": "https://dbba.sacinfo.org.cn/attachment/downloadStdFile?pk=3e8334c15c9b5e9754808ba3f06d93fbeeea9435e49a69559245b6760fd1a8cc",
+          "snippet": "不因社区矫正对象的罪行、性别、年龄、民族、精神或身体残障等差别对待，应保持无歧视、平等. 的态度，不因个人因素影响专业判断及社区矫正对象的合法权益。",
+          "date": "2024年2月1日",
+          "position": 94
+        },
+        {
+          "title": "泾县：多举措提升社区矫正质效 - 宣城市人民政府",
+          "link": "https://www.xuancheng.gov.cn/News/show/1587674.html",
+          "snippet": "... 性。 同时，该所将排查和化解矫正对象的矛盾 ... 通过公益活动环节，引导社区矫正对象投身社区服务活动，在实践中不断提升自我改造、自我提升的能力。",
+          "date": "2024年10月12日",
+          "position": 95
+        },
+        {
+          "title": "郴州市北湖区司法局“四确保”开展社区矫正对象监管教育效果好",
+          "link": "https://sft.hunan.gov.cn/sft/xxgk_71079/gzdt/jcdt/202211/t20221121_29132367.html",
+          "snippet": "今年来,郴州市北湖区司法局以探索社区矫正教育新模式和新方法为抓手,努力破解教育内容与方法单一的瓶颈,不断增强监管教育工作的严肃性、针对性和统一 ...",
+          "date": "2022年11月17日",
+          "position": 96
+        },
+        {
+          "title": "社区矫正人员风险评估虚拟仿真实验",
+          "link": "https://www.ilab-x.com/details/page?id=11056&isView=true",
+          "snippet": "在系统提示的攻击性问卷、家庭教养方式、领悟社会支持、自我控制 ... 通过前述各风险因子的风险点评估找出与风险点对应的干预靶目标，并制定出有针对性的干预矫正建议.",
+          "position": 97
+        },
+        {
+          "title": "性别重置手术/ SRS - Kamol Cosmetic Hospital",
+          "link": "https://www.kamolhospital.com/zh/service/3/gender-reassignment-surgery-srs",
+          "snippet": "咖蒙整形医院提供多种男性向女性性转换手术技术。我们专门根据跨性别女性的生物结构来创造和设计新阴道。每位患者都是独特的，需要不同的方法来达到 ...",
+          "position": 98
+        },
+        {
+          "title": "鄂城区司法局组织社区矫正对象开展庆中秋活动",
+          "link": "https://sfj.ezhou.gov.cn/xwzx_922/gzdt_923/202409/t20240919_651402.html",
+          "snippet": "这一举措不仅有效提升了公益活动参与率与实效性，更为社区矫正对象更好的融入社会、实现自我价值提供了便捷的通道。下一步，鄂城区司法局将积极根据社区矫正 ...",
+          "date": "2024年9月19日",
+          "position": 99
+        }
+      ],
+      "images": [
+        {
+          "title": "跨性别可以通过自我调节来缓解吗？ - YouTube",
+          "imageUrl": "https://i.ytimg.com/vi/luYhd0NKEFs/maxresdefault.jpg",
+          "link": "https://www.youtube.com/watch?v=luYhd0NKEFs"
+        },
+        {
+          "title": "一对一”个别教育，助力社区矫正对象新生",
+          "imageUrl": "http://www.gdyc.gov.cn/hyycsfj/img/0/225/225540/609706.png",
+          "link": "http://www.gdyc.gov.cn/hyycsfj/gkmlpt/content/0/609/post_609706.html"
+        },
+        {
+          "title": "寻找可橙：矫正治疗风波背后，跨性别女孩的自救行动-全现在官方网站",
+          "imageUrl": "https://img.allhistory.com/now/2020-12-14/5fd6e10dd7f8a70001a07330+L.png",
+          "link": "https://html.bad.news/html/c3541b633450cae5230ba200fdc1c7d8.html"
+        },
+        {
+          "title": "赏一扇花开护心灵绽放——恩平市司法局开展女性社区矫正对象主题教育活动 ...",
+          "imageUrl": "http://www.enping.gov.cn/img/0/998/998713/2817311.png",
+          "link": "http://www.enping.gov.cn/zxdt/bmdt/content/post_2817311.html"
+        },
+        {
+          "title": "济宁市司法局“社区矫正法”专栏用心、用力、用情，社区矫正促新生——邹 ...",
+          "imageUrl": "http://jnsfxzw.jining.gov.cn/picture/-1/453b783c5cdc4acbbffd91e98901c438.png",
+          "link": "http://jnsfxzw.jining.gov.cn/art/2023/10/10/art_61260_2706077.html"
+        },
+        {
+          "title": "跨性别女性在中国：当“妳”只被允许成为“你” | 端传媒Initium Media",
+          "imageUrl": "https://theinitium.com/wp-content/uploads/2023/03/e5732bf107c3495eaa894aa2ef5f8e0e.jpg?w=1080",
+          "link": "https://theinitium.com/zh-hans/article/20230323-mainland-mtf-all-ask-for-is-a-chance-to-live"
+        },
+        {
+          "title": "Autogynephilia 自我女性恋：跨性别的幽灵- Prologue",
+          "imageUrl": "https://prologue.dev/og?title=Autogynephilia%20%E8%87%AA%E6%88%91%E5%A5%B3%E6%80%A7%E6%81%8B%EF%BC%9A%E8%B7%A8%E6%80%A7%E5%88%AB%E7%9A%84%E5%B9%BD%E7%81%B5",
+          "link": "https://prologue.dev/blog/autogynephilia-the-ghost-of-transgender"
+        },
+        {
+          "title": "跨儿心理工作手册| 跨性别在线·文档库",
+          "imageUrl": "https://docs.transonline.org.cn/assets/img/07-SOC.4a864d63.jpeg",
+          "link": "https://docs.transonline.org.cn/kexl-work"
+        },
+        {
+          "title": "兰州新区民政司法和社会保障局举办社区矫正对象心理健康教育- 社区矫正 ...",
+          "imageUrl": "http://sft.gansu.gov.cn/sft/c113162/202410/174013595/images/141d3ae9b8474540b6736a19ed6a9170.jpg",
+          "link": "http://sft.gansu.gov.cn/sft/c113162/202410/174013595.shtml"
+        }
+      ],
+      "peopleAlsoAsk": [
+        {
+          "question": "Conversion therapy是什么意思？",
+          "snippet": "回转治疗（英语：conversion therapy，或称扭转疗法、转化疗法、性倾向治疗、性倾向矫正疗法、性倾向回转治疗、拗直治疗）是指试图透过心理或灵性介入来使人的性取向从双性恋或同性恋转化至异性恋，或者将其性别认同由跨性别转化为顺性别的尝试，属于伪科学的一种。",
+          "title": "LGBT回转治疗- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/LGBT%E8%BF%B4%E8%BD%89%E6%B2%BB%E7%99%82"
+        },
+        {
+          "question": "中国有多少LGBT？",
+          "snippet": "一家集中研究中国的市场调查机构Daxue Consulting估计，在2019年，中国有7500万人自认为是LGBT人口——约占总人口的5%。",
+          "title": "中国LGBT：“不可抗力”之下，性少数团体面临的困境- BBC News 中文",
+          "link": "https://www.bbc.com/zhongwen/simp/chinese-news-66040480"
+        },
+        {
+          "question": "LGBT指的是什么？",
+          "snippet": "LGBT是一个英文首字母缩写词，是用来指称女同性恋者（Lesbians）、男同性恋者（Gays）、双性恋者（Bisexuals）与跨性别者（Transgender）的一个集合用语。 它被认为比“酷儿”或“lesbigay”拥有更少的争议。",
+          "title": "主题:LGBT - 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/Portal:LGBT"
+        }
+      ],
+      "relatedSearches": [
+        {
+          "query": "gender dysphoria中文"
+        },
+        {
+          "query": "为什么平等很重要"
+        },
+        {
+          "query": "Conversion therapy"
+        },
+        {
+          "query": "lgbt有多少种"
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "自我性别矫正",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "龙岗区司法局开展2024年度社区矫正对象入矫教育和震撼教育- 社矫之声",
+          "link": "https://www.lg.gov.cn/bmzz/sfj/xxgk/qt/sjzs/content/post_11510916.html",
+          "snippet": "... 矫正的自觉性和积极性。近日，龙岗区司法局针对近期新入矫的130名 ... 矫正对象要珍惜矫正机会、端正矫正态度、增强自我约束。 图片5.png. 社区 ...",
+          "date": "2024年8月21日",
+          "position": 1
+        },
+        {
+          "title": "榕基软件以信息化助力河南省社区矫正管理局共抗疫情",
+          "link": "https://scjgj.fujian.gov.cn/zt/fjscjgyqbb/zlqyxd/202002/t20200217_5296944.htm",
+          "snippet": "河南社区矫正综合管理指挥平台，是河南省“智慧矫正”建设阶段性成果，融合 ... 矫正管理局做好疫情期间社区矫正工作提供信息技术服务。 一是通过 ...",
+          "date": "2020年2月17日",
+          "position": 2
+        },
+        {
+          "title": "“矫正”市场乱象守护“眼睛”健康—乌审旗开展儿童青少年防控近视专项 ...",
+          "link": "http://www.ordos.gov.cn/gk_128120/wsjkly/zccs_2/202406/t20240606_3608820.html",
+          "snippet": "... 性表述对儿童青少年近视防控产品进行营销宣传的行为，宣传诊疗效果 ... 自我防范意识，自觉抵制虚假违法的近视矫正广告，提高儿童青少年近视防控 ...",
+          "date": "2024年6月5日",
+          "position": 3
+        },
+        {
+          "title": "平塘县司法局贯彻学习社区矫正工作人员“六不准”",
+          "link": "https://www.gzpt.gov.cn/xwdt_500411/bmdt/201611/t20161123_10788813.html",
+          "snippet": "11月21日上午，平塘县司法局召开司法行政工作会，贯彻学习社区矫正 ... 性帮扶措施；不准徇私枉法办理调查评估案件；不准收受社区服刑人员及其 ...",
+          "date": "2016年11月23日",
+          "position": 4
+        },
+        {
+          "title": "韶山司法所组织社区矫正对象开展集中劳动教育活动",
+          "link": "https://www.shaoshan.gov.cn/11678/11616/content_1339023.html",
+          "snippet": "活动中，韶山司法所工作人员结合《社区矫正实施办法》有关内容，强调了集中劳动教育活动的重要性，要求社区矫正人员必须服从管理，转变思想观念，端正服刑态度， ...",
+          "date": "6天前",
+          "position": 5
+        },
+        {
+          "title": "社区矫正人员之家：传递“家”的温暖，铸就心灵归途",
+          "link": "https://www.songjiang.gov.cn/shsj_guangfulin/xwzx/002001/20240805/0cedd037-f362-4594-9c5e-8d5cdc0d3d23.html",
+          "snippet": "亲手泡茶的过程，不仅是对传统文化的传承，更是一次心灵的自我对话。他们 ... 性与人文关怀也得到了参与者的广泛认可，为矫正对象顺利回归社会 ...",
+          "date": "2024年8月5日",
+          "position": 6
+        },
+        {
+          "title": "探索心灵密码助力社区矫正对象重返社会",
+          "link": "http://xxgk.zezhou.gov.cn/xzfgzbm/sfj/fdzdgknr/zzsfjggflfw/sfjfzxcjy/202401/t20240129_1926574.shtml",
+          "snippet": "... 矫正对象放松情绪、敞开心扉、畅所欲言，指导他们认识自我，完整地接纳自己。随后，结合身边的真实事例，从自我成长、工作职业、婚姻家庭等方面展开，有针对性 ...",
+          "date": "2024年1月29日",
+          "position": 7
+        },
+        {
+          "title": "省司法厅举办全省社区矫正强化刑事执行能力培训班",
+          "link": "https://sifaju.xuchang.gov.cn/ywdh/003010/20230428/fa78261c-1775-4f04-a422-2e2b45b9a4b0.html",
+          "snippet": "会议强调，全体参训学员要提高政治站位，深刻认识这次培训的重要性和紧迫性，自我学习、自我提升，推动全省社区矫正“厉行法治、护航平安”活动进一步走深走实。",
+          "date": "2023年4月28日",
+          "position": 8
+        },
+        {
+          "title": "十年磨砺，太仓社区矫正助力“归途者”成为“领路人” - 资阳市司法局",
+          "link": "http://ssfj.ziyang.gov.cn/details.aspx?id=5161",
+          "snippet": "... 性志愿服务推动社区矫正对象自我价值重塑。聚焦春节、国庆等重要节点，联合社会组织定期开展家庭运动会、端午包粽子等集体活动，有效提升矫正质效。",
+          "date": "2024年8月7日",
+          "position": 9
+        },
+        {
+          "title": "枣庄高新区政法委组织开展社区矫正对象集中警示教育会议",
+          "link": "http://www.zzctp.gov.cn/ztzl/fzjs/202402/t20240206_1839872.html",
+          "snippet": "区政法委工作人员为社区矫正对象重点讲解了社区矫正基本知识与警示案例等，强调社区矫正工作的严肃性 ... 自我防范意识和自我保护意识。 会后，组织全体社区 ...",
+          "date": "2024年2月6日",
+          "position": 10
+        },
+        {
+          "title": "厅领导解读丨《社区矫正法》颁布施行的重大意义及我省贯彻实施 ...",
+          "link": "https://www.hbqj.gov.cn/ssfj/zfxxgk/zc/zcjzcjd_1/202011/t20201116_3032439.html",
+          "snippet": "... 性主干法律依据的空白，标志着社区矫正工作迈出了 ... （三）以丰富矫正方式为途径，确保教育矫正质量不断提升。 ... 自我教育、自我管理、自我约束的同时，积极开展集中 ...",
+          "position": 11
+        },
+        {
+          "title": "司法部发布社区矫正工作指导案例 - 吴川市人民政府",
+          "link": "https://www.gdwc.gov.cn/zfxxgk/zjswcssfj/content/post_1617065.html",
+          "snippet": "... 性和实效性，最终帮助吕某某顺利解矫。 点击查看详情. 案例编号 ... 自我和不断完善自我、如何提高处理家庭问题的能力、如何加强自我心理调节 ...",
+          "date": "2022年5月31日",
+          "position": 12
+        },
+        {
+          "title": "城关镇司法所开展社区矫正对象节前警示教育集中学习活动",
+          "link": "http://www.helin.gov.cn/ywdt/bmxzdt/202401/t20240130_1654274.html",
+          "snippet": "... 自我约束、服从管理遵纪守法，要对法律保持敬畏。尤其是节假日期间，更要远离黄赌毒，杜绝酒后驾车、不得参与非法组织、邪教、打架斗殴、赌博、群体性 ...",
+          "date": "2024年1月30日",
+          "position": 13
+        },
+        {
+          "title": "兰州市司法局三抓三促【三抓三促】兰州市司法局举办全市社区矫正 ...",
+          "link": "https://sfj.lanzhou.gov.cn/art/2023/3/29/art_23781_1215664.html",
+          "snippet": "各县区社区矫正中心工作人员也纷纷表示，经常性开展社区矫正心理 ... 矫正对象的自我调节和控制能力。 心理矫治是一项带有帮扶性质的工作，为 ...",
+          "date": "2023年3月29日",
+          "position": 14
+        },
+        {
+          "title": "五申司法所开展社区矫正对象个别教育谈话与家访活动 - 托克托县",
+          "link": "http://www.tuoxian.gov.cn/zwdt/xzdt/202403/t20240305_1667902.html",
+          "snippet": "... 自我约束能力，近日 ... 根据每个社区矫正对象的具体情况，司法所工作人员给予了针对性的教育和指导，并强调了遵守法律法规、积极配合矫正的重要性。",
+          "date": "2024年3月5日",
+          "position": 15
+        },
+        {
+          "title": "[PDF] LIST OF TERMS – SEXUAL ORIENTATION, GENDER IDENTITY ...",
+          "link": "https://irb.gc.ca/en/interpreters/Documents/SOGIESC_Glossaries/SOGIESC_List_of_Terms_Mandarin.pdf",
+          "snippet": "性矫正手术. Page 2. 2. Cross-dresser. Travesti(e). 穿着异性服装者. Cross-sex ... 法语的这些词做自我识别的情况。决. 定者应该询问该术语是否是由申请人. 或上诉人 ...",
+          "position": 16
+        },
+        {
+          "title": "[PDF] 社会组织参与社区矫正的有效性评估 - 湘潭大学",
+          "link": "https://fxxb.xtu.edu.cn/__local/6/8F/2D/4DDA402DF5758B9A7F50EF4150D_3F7336F4_3C3321.pdf",
+          "snippet": "为给社区矫正对象带来的罪恶感、内疚感的重要形. 式，是影响社区矫正对象矫正效果的内在因素。社. 区矫正人员心理需求包括接纳现实、维护自我形象、. 恢复与重建三大范畴 ...",
+          "position": 17
+        },
+        {
+          "title": "江门人性化管理举措助社区矫正对象脱胎换骨",
+          "link": "https://www.jiangmen.gov.cn/jmsfj/gkmlpt/content/2/2847/post_2847250.html",
+          "snippet": "社工经常有意识地在年轻人喜欢的开放性场合与陈某约谈。经过多次疏导，陈某逐渐敞开心扉，愿意说出内心困惑。随后社工有针对性地运用情绪疗法引导陈某纠正 ...",
+          "date": "2023年4月26日",
+          "position": 18
+        },
+        {
+          "title": "阿拉善左旗巴彦浩特司法所多措并举扎实开展社区矫正宣告工作",
+          "link": "http://www.als.gov.cn/art/2023/6/14/art_6_502592.html",
+          "snippet": "... 性和震慑性，积极接受教育矫正。 突出个别教育，增强自觉意识。对矫正 ... 自我管理意识，积极接受改造，早日回归社会。 多方参与宣告，增强归属 ...",
+          "date": "2023年6月14日",
+          "position": 19
+        },
+        {
+          "title": "港南区司法局江南司法所开展打击治理电信网络诈骗专项矫正教育活动",
+          "link": "http://www.gxgg.gov.cn/xwdt/bmdt2/t18748142.shtml",
+          "snippet": "此次活动提高了本辖区内社区矫正对象对电信网络诈骗的防范意识和自我保护能力。参加活动的社区矫正对象纷纷表示：将从自我做起，时刻保持警惕性，牢记 ...",
+          "date": "2024年6月20日",
+          "position": 20
+        },
+        {
+          "title": "大兴区司法局组织社区矫正对象开展心理健康教育培训",
+          "link": "https://www.bjdx.gov.cn/bjsdxqrmzf/zhyw/bmdt66/2090115/index.html",
+          "snippet": "为提升社区矫正对象心理健康教育的针对性和有效性，充分发挥心理矫治在教育帮扶中的作用，帮助社区矫正对象消除影响矫正的负面心理因素，预防因个人极端 ...",
+          "date": "2023年9月8日",
+          "position": 21
+        },
+        {
+          "title": "“普法强基”——哨冲镇组织开展社区矫正对象集中教育学习大会",
+          "link": "https://www.hhsp.gov.cn/info/1051/248681.htm",
+          "snippet": "最后，全体矫正对象纷纷表示，一定会认清自己的身份，严格遵守社区矫正的各项规章制度，服从教育管理，摆正位置、自我管制。充分认识社区矫正的严肃性 ...",
+          "date": "2023年5月9日",
+          "position": 22
+        },
+        {
+          "title": "泾源司法上好矫正“第一课” - 宁夏长安网",
+          "link": "http://www.nxzfw.gov.cn/dfdt/gy/202408/t20240809_907780.html",
+          "snippet": "为进一步提升社区矫正刑罚执行的严肃性、规范性 ... 同时，结合具体案例，对新入矫对象进行警示教育，引导他们珍惜矫正机会，要加强自我约束和管理，严格遵守法律 ...",
+          "date": "2024年8月9日",
+          "position": 23
+        },
+        {
+          "title": "多措并举抓落实社区矫正重实效",
+          "link": "https://www.xigu.gov.cn/art/2019/12/5/art_1592_832976.html",
+          "snippet": "通过认真审核社区服刑人员的思想汇报，及时从中发现苗头和问题，及时采取有针对性的措施，让社区矫正对象筑牢“零越界”的思想防线。 三是“公益服务+刚性劳动”， ...",
+          "date": "2019年12月5日",
+          "position": 24
+        },
+        {
+          "title": "黄岩区司法局突出“VR+”推进社区矫正教育帮扶工作质效",
+          "link": "https://www.zjhy.gov.cn/art/2021/7/18/art_1229551121_59029820.html",
+          "snippet": "... 矫正对象加强自我学习、自我教育、自我矫正。同时以引导社区矫正对象发散性学习为目标，组织开展互动座谈、写观后感等，进一步将教育矫正深化、内化。",
+          "date": "2021年7月18日",
+          "position": 25
+        },
+        {
+          "title": "济宁市司法局信息公开汶上县社区矫正“五大矫正”工程实施方案",
+          "link": "http://jnsfxzw.jining.gov.cn/art/2021/4/7/art_73103_2704378.html",
+          "snippet": "... 矫正“五大矫正”工程， ... 性、协同性明显增强，社区矫正质量不断提高。 三 ... 自我救赎，树立正确的价值观，切实增强美德观念和 ...",
+          "position": 26
+        },
+        {
+          "title": "对社区矫正对象杨某依法实施教育矫正 - 兴国县人民政府",
+          "link": "http://www.xingguo.gov.cn/xgxxxgk/xg10926/202111/4cb79d9cae714d2aa40e25a2458d27ed.shtml",
+          "snippet": "司法所根据杨某情况进行综合评估分析，并制定有针对性的矫正方案，确定矫正工作重点：加强法律知识教育，增强法制观念；强化监督管理，防止再次伤人事件；加强心理疏导，帮助其恢复 ...",
+          "position": 27
+        },
+        {
+          "title": "开平市司法局组织社区矫正对象开展“我为家乡添光彩”主题教育活动",
+          "link": "http://www.kaiping.gov.cn/jmkpssfj/gkmlpt/content/2/2805/post_2805903.html",
+          "snippet": "为进一步提升教育矫治的精准性、实效性，增强社区矫正对象的爱国主义情怀 ... 自我，回报社会。 政务微信截图_16770537724788.png. 直观视频学习 ...",
+          "date": "2023年2月24日",
+          "position": 28
+        },
+        {
+          "title": "土主司法所组织开展社区矫正对象集中学习会_重庆市沙坪坝区人民政府",
+          "link": "https://www.cqspb.gov.cn/bm/qsfj/sy_63252/bmdt_63254/202402/t20240201_12888707.html",
+          "snippet": "... 矫正对象的法律意识和自我约束能力，近日， ... 此次学习，不仅强化了矫正对象的法律意识，也提高了他们的守法自觉性。",
+          "date": "2024年1月31日",
+          "position": 29
+        },
+        {
+          "title": "监狱警察参与社区矫正推进刑罚执行一体化 - 白银区",
+          "link": "https://www.baiyinqu.gov.cn/xwzx/xzjd/GNLJD/art/2023/art_d3c0d7e688f843b88603cf60f2910845.html",
+          "snippet": "为进一步提升刑罚执行严肃性、权威性，增强社区矫正对象的在矫意识。2021年 ... 司法所杨所长强调：社区矫正对象要时常自我检视，自我约束，常存对法律的敬畏之心 ...",
+          "position": 30
+        },
+        {
+          "title": "宝龙街道司法所开展社区矫正对象线上防疫法律知识讲座 - 深圳市司法局",
+          "link": "http://sf.sz.gov.cn/xxgk/xxgkml/gzdt/content/mpost_7571611.html",
+          "snippet": "从而有效增强了社区矫正对象遵纪守法的自觉性，提高了自我改造的意识，能有效避免再犯罪行为的发生，为打赢防疫攻坚战和恢复辖区内的生产建设，营造了良好的法治氛围。",
+          "position": 31
+        },
+        {
+          "title": "龙楼镇司法所社区矫正人员集中教育学习_工作动态",
+          "link": "https://wenchang.hainan.gov.cn/wcsllz/gzdt/201509/84cb24e1144d496e889225ea57af87f5.shtml?ddtab=true",
+          "snippet": "... 矫正的自觉性、主动性、提高矫正质量。正确认识在社会上的位置，正视刑罚 ... 自我反省，自觉接受教育改造；服从监督管理和教育。 通过这次集中 ...",
+          "date": "2015年9月8日",
+          "position": 32
+        },
+        {
+          "title": "9 社区矫正教育帮扶案例——上海市崇明区对非法捕捞水产品罪社区矫...",
+          "link": "https://ymt.sfj.suqian.gov.cn/Detail?dbID=82&dbName=SJJXBF&sysID=6400",
+          "snippet": "针对何某的特殊情况，司法所社区矫正小组商讨拟定了一套以家庭修复、自我接纳为主线的心理矫正方案，通过平等、自然的沟通交流，帮助其改善家庭沟通模式，引导其主动关心家人， ...",
+          "position": 33
+        },
+        {
+          "title": "社会组织参与社区矫正服务规范 - 湖州市司法局（行政复议局）",
+          "link": "https://sfj.huzhou.gov.cn/art/2020/3/9/art_1229209427_54624192.html",
+          "snippet": "... 性和被动性。最终达到社区矫正对象自己帮助自己，实现自我成长和人格完善。 5.7 保密. 社会组织和社区矫正社会工作者应尊重社区矫正对象的隐私，在不 ...",
+          "date": "2020年3月9日",
+          "position": 34
+        },
+        {
+          "title": "致全市社区矫正对象的一封信",
+          "link": "http://www.jieyang.gov.cn/jysf/sqjz/content/post_833266.html",
+          "snippet": "四、强化自我约束，不做对社会对家庭对自己不利的事情。作为一名社区矫正对象，必须严格遵守法律法规，不参与非法组织和群体性事件。春节期间，人员 ...",
+          "date": "2024年2月8日",
+          "position": 35
+        },
+        {
+          "title": "盐城多措并举深入推进“智慧矫正”体系建设",
+          "link": "https://www.moj.gov.cn/pub/sfbgw/fzgz/fzgzxszx/fzgzsqjz/202307/t20230728_483608.html",
+          "snippet": "... 矫正、自我修复，实现精准矫治。 该局坚持“一事一方案，一人一专班 ... 该局根据社区矫正对象性别、年龄、心理特点、健康状况、犯罪原因、犯罪 ...",
+          "date": "2023年7月28日",
+          "position": 36
+        },
+        {
+          "title": "海珠区司法局开展女性社区矫正对象主题教育活动",
+          "link": "http://www.haizhu.gov.cn/gzhzsf/gkmlpt/content/9/9552/post_9552802.html?jump=true",
+          "snippet": "规范性文件. 政策文件. 财政预决算. 政策解读. 行政执法. 办事指南. 工作 ... 自我优势等方面切入，鼓励女性社矫对象自尊自爱，将压力转化为动力，以 ...",
+          "date": "2024年3月21日",
+          "position": 37
+        },
+        {
+          "title": "[PDF] 口吃的自我矫正第五版作者： 马尔科姆",
+          "link": "https://ahn.mnsu.edu/globalassets/college-of-allied-health-and-nursing/speech-hearing-and-rehabilitation-services/stuttering/serious-information/stuttering-in-other-cou.-/wang.pdf",
+          "snippet": "比一般性的放松更为有实用的是特定肌肉的放松。如果你能确定你的紧张感处于. 身体的哪个部位，那么可能你应该学会在说话时放松这些肌肉。你可以 ...",
+          "position": 38
+        },
+        {
+          "title": "杨圩镇：社区矫正对象在“高安市润心苑”开展公益活动",
+          "link": "http://www.gaoan.gov.cn/gasrmzf/jcbslskn/202104/39e62c8f1d6e443b90f01a0911ca655a.shtml",
+          "snippet": "通过此次集体性公益活动，既增强了社区矫正对象的纪律性，也端正了他们的人生态度 ... 自我，树立改过自新的信心和决心。 附件：. 关联稿件：. 扫一扫在手机打开 ...",
+          "position": 39
+        },
+        {
+          "title": "金华市司法局积极推进市域社区矫正对象心理矫正模式 - 浙江省司法厅",
+          "link": "http://sft.zj.gov.cn/art/2020/12/1/art_1659556_58929977.html",
+          "snippet": "根据评估结果落实分类分级管理制度，有针对性开展心理讲座、心理团辅等普适性干预工作，对心理状态异常的重点社区矫正对象及时进行心理干预。推进“一人一册” ...",
+          "date": "2020年12月1日",
+          "position": 40
+        },
+        {
+          "title": "枣阳市司法局：“三个坚持”助力社区矫正对象重塑自我",
+          "link": "http://sft.hubei.gov.cn/fbjd/sjhc/202310/t20231023_4909173.shtml",
+          "snippet": "在社区矫正对象的日常监管中，坚持抓好法律法规“规定动作”，执行各项监管措施不打折扣，从调查评估到解除矫正，社区矫正的全过程突出严肃性和规范性。特别重视 ...",
+          "date": "2023年10月23日",
+          "position": 41
+        },
+        {
+          "title": "[DOC] 标准名称 - 中国社会工作联合会",
+          "link": "http://upload.swchina.org/2022/0307/1646624270264.doc",
+          "snippet": "不因社区矫正对象的罪行、性别、年龄、民族、精神或身体残障等差别对待 ... 建立自我评估机制，定期进行自我评估与改进；. 建立专业服务评估机制 ...",
+          "date": "2022年3月7日",
+          "position": 42
+        },
+        {
+          "title": "[PDF] 实现性别平等和增强农村妇女和女童权能方面的挑战和机会",
+          "link": "https://www.unwomen.org/sites/default/files/Headquarters/Attachments/Sections/CSW/62/CSW-Conclusions-62-CH.PDF",
+          "snippet": "都能免于暴力，例如性暴力和性别暴力、家庭暴力、. 以性别为由杀人 ... 对媒体工作者进行培训，发展和强化自我监管机. 制，以促进以平衡且非陈 ...",
+          "date": "2018年3月23日",
+          "position": 43
+        },
+        {
+          "title": "县司法局组织社区矫正对象赴沁水监狱进行刑罚体验",
+          "link": "https://www.qinshui.gov.cn/phone/xwdt_361/bmdt_366/202405/t20240527_1987959.shtml",
+          "snippet": "... 自我剖析、消化对立情绪，自觉接受监管，珍惜自由生活。 本次刑罚体验活动的开展，促使社区矫正对象切身感受到刑罚执行的严肃性，也让他们清醒的认识 ...",
+          "date": "2024年5月27日",
+          "position": 44
+        },
+        {
+          "title": "阻塞性睡眠呼吸暂停- 诊断与治疗 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/diseases-conditions/obstructive-sleep-apnea/diagnosis-treatment/drc-20352095",
+          "snippet": "在牙齿上方放置一个口腔矫正器，通过移动舌头和向前降低下颚来保持 ... 在许多情况下，自我保健可能是治疗阻塞性睡眠呼吸暂停最合适的方法。尝试 ...",
+          "date": "2023年11月14日",
+          "position": 45
+        },
+        {
+          "title": "赫山区司法局开展女性社区矫正对象心理健康讲座 - 益阳市",
+          "link": "http://www.yiyang.gov.cn/yysfj/2262/2264/content_1734903.html",
+          "snippet": "... 自我诊断的相关常识，倡导妇女积极关注自心理身健康，树立健康心理意识 ... 推动心理矫治“三预”工作法，心理健康教育等周期性的心理预防、心理 ...",
+          "date": "2023年3月8日",
+          "position": 46
+        },
+        {
+          "title": "黔东南州司法局“七个抓实”做优社区矫正工作",
+          "link": "http://sfj.qdn.gov.cn/sfgz/sqjz/202409/t20240902_85529008.html",
+          "snippet": "宣告仪式庄严肃穆，彰显了社区矫正作为刑事执行活动的严肃性和权威性。 ... 矫正对象的自我改造和自我提升，帮助他们顺利融入社会。今年上半年，黔 ...",
+          "date": "2024年9月2日",
+          "position": 47
+        },
+        {
+          "title": "特色课堂助矫正，就业帮扶促回归_ 社区矫正 - 三明市司法局",
+          "link": "http://smsfj.sm.gov.cn/sfyw/sqjz/202402/t20240221_2002451.htm",
+          "snippet": "... 性的课程，例如《养鸡常见病防治》《种养殖技术》等，鼓励社区矫正对象在创业就业中实现自我价值。自就业讲师团成立以来，共计开课16场次、受教对象 ...",
+          "date": "2024年2月21日",
+          "position": 48
+        },
+        {
+          "title": "[PDF] 自下而上”地改变社交焦虑个体的解释偏向？",
+          "link": "https://journal.psych.ac.cn/xlkxjz/EN/article/downloadArticleFile.do?attachType=PDF&id=4286",
+          "snippet": "体研究异质性高、矫正训练机制不明确等争议。首先, 本文总结了该领域的常用 ... (2007)研究了解释偏向矫正训练与自我意象之间. 的关系, 发现与接受积极训练的被试 ...",
+          "position": 49
+        },
+        {
+          "title": "当了十几年男生，却被医生告知可以选择做女生 - QQ News",
+          "link": "https://news.qq.com/rain/a/20220216A0480000",
+          "snippet": "医生与患者和家长充分沟通，如果继续选择保留男性性别，不做手术治疗，未来将无法正常结婚；如果做变性手术，不但手术风险较大，经济负担重，而且没有生育功能。",
+          "date": "2022年2月16日",
+          "position": 50
+        },
+        {
+          "title": "【坊前镇】司法所组织社区矫正对象开展节前警示教育活动",
+          "link": "http://www.junan.gov.cn/info/3104/207671.htm",
+          "snippet": "为做好节假日期间社区矫正安全稳定工作，杜绝脱管、漏管和重新犯罪等风险隐患，进一步增强社区矫正对象的法治观念和自我约束能力。 ... 性和危害性 ...",
+          "date": "2024年9月30日",
+          "position": 51
+        },
+        {
+          "title": "隐性高低肩的自我判断与矫正方法-京东健康 - JD.com",
+          "link": "https://www.jd.com/pccontent/229107",
+          "snippet": "自我矫正小方法 · 右手环过头顶上方，将手掌附在左耳侧，缓缓的将头部向右侧倾倒，拉伸至极限后保持15秒，重复3次为一组。 · 可采用耸肩的方式，但只练习右侧，当耸肩到极限时 ...",
+          "position": 52
+        },
+        {
+          "title": "李岚林：“柔性”矫正：未成年人社区矫正的理论溯源与实践路径",
+          "link": "https://liangxing.swupl.edu.cn/xfsy/cgtj/2021-11-23/311589.htm",
+          "snippet": "对未成年社区矫正对象的矫正干预更应如此，在开展未成年人社区矫正工作时必须区别于成年矫正对象，采取针对性的矫正措施，遵循多元化矫正理念的“柔性”矫正 ...",
+          "date": "2021年11月23日",
+          "position": 53
+        },
+        {
+          "title": "認識跨性別– 跨性別Transgender",
+          "link": "https://transgender.taipei/%E8%AA%8D%E8%AD%98%E8%B7%A8%E6%80%A7%E5%88%A5/",
+          "snippet": "有些跨性別者會使用賀爾蒙或進行變性手術等方式來改變生理構造，有些會在裝扮上做改變。舉例來說，具有陰莖、睪丸等性徵，並喜歡穿女裝、以女性身份生活，但沒有要變性手術的人 ...",
+          "position": 54
+        },
+        {
+          "title": "对社区服刑人员刘某某依法实施社区矫正案例 - 广州市司法局",
+          "link": "http://sfj.gz.gov.cn/gzssfj/flfw/sj/jzal/content/post_6505402.html",
+          "snippet": "... 自我认识的提高，矫正末期是巩固教育成果阶段，为此，司法所让刘某某 ... （四）通过实施监督管理、教育矫正和社会适应性帮扶措施取得的矫正效果 ...",
+          "date": "2020年3月25日",
+          "position": 55
+        },
+        {
+          "title": "勐混社区矫正中队开展“社区矫正强化性集中教育”活动 - 勐海县人民政府",
+          "link": "https://www.ynmh.gov.cn/mhz/64587.news.detail.dhtml?news_id=292093",
+          "snippet": "州司法局矫正科科长孟宪志也对社区服刑人员提出了三点要求：一是提高认识，加强纪律性，服从司法所管理；二是严格遵守监督管理规定，加强自我改造和约束；三是服刑期间禁止 ...",
+          "position": 56
+        },
+        {
+          "title": "绷紧法律之弦矫正重塑自我_工作动态 - 青云谱区人民政府",
+          "link": "http://qyp.nc.gov.cn/qypqrmzf/bmxzgzdt15/201812/74b12d4af4944f5a8a404c9cff03d57e.shtml",
+          "snippet": "有效性：. 公开范围：, 公开方式：. 绷紧法律之弦矫正重塑自我. 浏览量：; 【字体： 大 中 小】. 为加强社区服刑人员的教育监管，预防脱管、漏管和重新违法犯罪发生，12月18 ...",
+          "position": 57
+        },
+        {
+          "title": "性別平等教育法 - 全國法規資料庫",
+          "link": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0080067",
+          "snippet": "本法所定事項，於軍事學校、預備學校、警察各級學校及少年矯正學校辦理時 ... 四、性別認同：指個人對自我歸屬性別之認知及接受。 第4 條. 中央主管機關應設性別 ...",
+          "position": 58
+        },
+        {
+          "title": "PLUC 扭转疗法或性倾向矫正疗法",
+          "link": "https://pluc.org.my/%E6%89%AD%E8%BD%AC%E7%96%97%E6%B3%95%E6%88%96%E6%80%A7%E5%80%BE%E5%90%91%E7%9F%AB%E6%AD%A3%E7%96%97%E6%B3%95%E7%AB%8B%E5%9C%BA%E5%A3%B0%E6%98%8E/",
+          "snippet": "立场声明 · 改变同性吸引不是我们的目标。 · 我们不采用先验的假设，即视不同的性取向和性别身份本身（例如同性恋、双性恋和跨性别身份）为患有精神疾病的表征 ...",
+          "date": "2020年8月17日",
+          "position": 59
+        },
+        {
+          "title": "花东司法所开展“社区矫正开放日”活动",
+          "link": "https://www.huadu.gov.cn/gzhdsf/gkmlpt/content/9/9775/post_9775068.html",
+          "snippet": "... 矫正法》。通过与居民的面对面交流、宣传，社矫对象不仅增强了自我认同感，还让社区居民更好地了解社区矫正工作的意义和成果，增强了公众对社区矫正 ...",
+          "date": "2024年7月24日",
+          "position": 60
+        },
+        {
+          "title": "海曙区司法局“三心”助力社区矫正“修心教育”精准化",
+          "link": "http://sfj.ningbo.gov.cn/art/2021/1/11/art_1229058221_58998521.html",
+          "snippet": "针对不少新入矫人员存在的抵触心理，由专业心理咨询师进行点对点心理疏导，降低潜在风险，营造良好氛围。解矫阶段，除法律类巩固性教育外，进一步强化社会适应 ...",
+          "date": "2021年1月11日",
+          "position": 61
+        },
+        {
+          "title": "社区矫正教育帮扶案例 - 司法行政（法律服务）案例库",
+          "link": "https://alk.12348.gov.cn/Detail?dbID=82&dbName=SJJXBF&sysID=1061",
+          "snippet": "（三）对其进行针对性个别谈话教育、制定个案矫正情况. 通过走访刘某的家庭 ... 自我管理能力的重要性。同时刘某积极主动参与社会公益活动，每月1-2次帮助贫困 ...",
+          "position": 62
+        },
+        {
+          "title": "矫正教育中运用色彩心理学的可行性探析 - 法信",
+          "link": "https://www.faxin.cn/lib/flwx/FlqkContent.aspx?gid=F155383",
+          "snippet": "古代医学家以此为依据，针对不同的症状，进行食疗，辅助身体器官进行自我修复，达到恢复身体健康的功效。“五色入五脏”是中医在食疗上运用色彩治疗疾病的理论基础 ...",
+          "position": 63
+        },
+        {
+          "title": "2021年弋江区司法局社区矫正工作总结",
+          "link": "https://www.yjq.gov.cn/openness/public/6605881/33816571.html",
+          "snippet": "通过开展心理辅导授课、心理测试、个案咨询等心理矫治方式，制定有针对性的矫正方案，帮助有心理障碍的矫正对象走出心理误区、重塑自我。今年以来，矫正中心 ...",
+          "date": "2022年2月1日",
+          "position": 64
+        },
+        {
+          "title": "行为矫正结合健康信念模式教育对老年性皮肤瘙痒症患者的影响",
+          "link": "https://www.sinomed.ac.cn/article.do?ui=2023276590",
+          "snippet": "目的:探讨行为矫正结合健康信念模式教育对老年性皮肤瘙痒症(SP)患者搔抓行为、自我效能及睡眠质量的影响。方法:选取2021年1月1日－2022年6月30日收治的92例SP患者作为 ...",
+          "position": 65
+        },
+        {
+          "title": "【假】加州通过禁止通知家长的跨性别法案 - 辟谣吧",
+          "link": "https://www.piyaoba.org/transgender-school-notification/",
+          "snippet": "华人社区，尤其是一些以吸引眼球为目的自媒体，更进一步添油加醋，不负责任地指责这个法案是允许学生校内不通知家长就可以做性别矫正手术。但是这个法案根本 ...",
+          "date": "2024年7月28日",
+          "position": 66
+        },
+        {
+          "title": "泰安市司法局法律法规社区矫正法规制度（二）－－主要理念",
+          "link": "https://sfj.taian.gov.cn/art/2019/1/28/art_47281_4783471.html",
+          "snippet": "... 自我发展的需求。 在社区矫正蕴涵的惩罚性和恢复性二元功能中，如果选择不当，就可能导致刑罚和社区矫正的失衡，进而损害社会利益和个人利益。因而，在构建和谐社会的 ...",
+          "position": 67
+        },
+        {
+          "title": "矫正性情绪体验 - 中国大百科全书",
+          "link": "https://www.zgbk.com/ecph/words?SiteID=1&ID=57560&Type=bkzyb",
+          "snippet": "美国心理学家L.G.卡斯顿圭和C.E.希尔于2012年组织各心理咨询流派的心理学家和咨询师编著了一部关于矫正性情绪体验的专著——《心理治疗中的转变：跨越认知 ...",
+          "date": "2022年1月20日",
+          "position": 68
+        },
+        {
+          "title": "亲子育儿|儿童牙齿矫正，不是越早越好 - 新华网教育",
+          "link": "http://education.news.cn/20240825/59cfd4095b3b4da49237f0dc26ff901b/c.html",
+          "snippet": "同时，谢贤聚提醒，骨性颌面畸形的矫正是一个较为长期的过程，“并不是 ... 这些都需要家长和孩子主动配合、自我约束。 即便在完成牙齿矫正的短期 ...",
+          "date": "2024年8月25日",
+          "position": 69
+        },
+        {
+          "title": "关注两节两会，确保安全稳定 ——社区矫正对象集中教育活动纪实",
+          "link": "https://sfj.km.gov.cn/c/2023-12-27/4815361.shtml",
+          "snippet": "开班动员会上，司法局副局长王子军进行了热情洋溢的讲话，他强调了培训的重要性 ... 6:20 清晨的微光洒在社区矫正基地，社区矫正对象纷纷起床，进行洗漱和整理 ...",
+          "date": "2023年12月27日",
+          "position": 70
+        },
+        {
+          "title": "激发全市社区矫正对象自主学习动力我市圆满完成“十问十答”活动",
+          "link": "http://www.qhd.gov.cn:81/info/content.jsp?code=113360",
+          "snippet": "... 性，坚决杜绝此类事件的发生。在以后的日子里，更加严格要求自己，在司法所干部的帮助和教育下，努力学习法律法规知识，加强自我改造，争取早日回归 ...",
+          "date": "2020年3月2日",
+          "position": 71
+        },
+        {
+          "title": "“矫正自我劳动塑新”同心县司法局组织社区矫正对象走进下马关敬老院 ...",
+          "link": "https://www.tongxin.gov.cn/xwzx/bmdt/202410/t20241016_4697040.html",
+          "snippet": "... 性和积极性，表现出了良好的改造态度。 教育矫正与公益活动相结合，不仅让社区矫正对象们找到了自我价值，同时，也弘扬了中华民族尊老爱幼的传统美德 ...",
+          "date": "2024年10月16日",
+          "position": 72
+        },
+        {
+          "title": "市司法局关于印发《2013年上海市社区矫正工作要点》的通知",
+          "link": "https://sfj.sh.gov.cn/2020xxgkml_zdgkml/20201102/cb86bd59562c463b9f17555f0645063f.html",
+          "snippet": "... 矫正的针对性和实效性。 （九）统一社区矫正人员心理测评工具，规范心理矫正测评 ... 自我管理、规范运作的能力。 （十九）加强对社会组织的业务指导，提高社会 ...",
+          "position": 73
+        },
+        {
+          "title": "厅领导解读丨《社区矫正法》颁布施行的重大意义及我省贯彻实施 ...",
+          "link": "https://www.hongshan.gov.cn/zfbm/qsfj/zcfg/zcjd/202012/t20201207_1531490.shtml",
+          "snippet": "《社区矫正法》充分体现了保障人权、宽严相济、科学矫正、社会参与、修复融入的现代刑罚执行精神，其颁布实施，填补了我国社区矫正工作缺乏统领性 ... 自我教育、自我管理、 ...",
+          "position": 74
+        },
+        {
+          "title": "继发性创伤、自我效能感与矫正护士的关系- X-MOL",
+          "link": "https://www.x-mol.com/paper/1287829996781092864/t",
+          "snippet": "网络不给力，点击屏幕重试. QQ; QQ空间; 新浪微博; 微信; 朋友圈; 取消分享. 取消 确定. 选择浏览器打开. 手机自带. APP内置.",
+          "position": 75
+        },
+        {
+          "title": "北湖区司法局人民路司法所落实“春风化雨工程”强化社区矫正对象禁毒 ...",
+          "link": "https://sfj.czs.gov.cn/sqjz/content_3307235.html",
+          "snippet": "... 矫正对象更能直观了解到吸食毒品的危害性，使教育矫治效果内化于心、外化于行，时刻警醒他们加强自我防范，抵制各种不良诱惑，筑牢禁毒思想防线，确保 ...",
+          "date": "2021年7月5日",
+          "position": 76
+        },
+        {
+          "title": "关于未成年人犯罪的分析及矫正建议- 博爱县法院网",
+          "link": "https://baxfy.hncourt.gov.cn/public/detail.php?id=6",
+          "snippet": "3、由于未成年人心智还尚未成熟，自我辨别是非的能力 ... 在对未成年犯罪对象开展矫正工作时，应全面调查矫正 ... 通过心理测评，增强对未成年矫正的针对性，预防和减少服刑 ...",
+          "position": 77
+        },
+        {
+          "title": "常州武进：“柔性”帮扶杜绝矫正对象发生“躺平”现象 - 江苏长安网",
+          "link": "http://www.jszf.org/zyyg/jscawq_320/changzhou/202106/t20210611_62719.html",
+          "snippet": "... 矫正等措施，“柔性”帮扶社区矫正对象形成自我矫正、自觉回归的主动性。 通过大爱品牌和亲职教育等活动. “柔风甘雨”般修复社区矫正对象家庭关系和社会关系.",
+          "date": "2021年6月11日",
+          "position": 78
+        },
+        {
+          "title": "盐城市司法局基层动态响水：社区矫正局积极探索社区矫正工作优化",
+          "link": "https://sfj.yancheng.gov.cn/art/2024/1/8/art_1301_4132490.html",
+          "snippet": "五是关注矫正对象的心理矫治：县矫正局重视对矫正对象的心理矫治工作，通过开展心理辅导、心理疏导等活动，帮助矫正对象树立正确的价值观、人生观，增强自我 ...",
+          "date": "2024年1月8日",
+          "position": 79
+        },
+        {
+          "title": "梅肯鲍姆的认知行为矫正技术",
+          "link": "http://www.cbtchina.com.cn/contents/19/523.html",
+          "snippet": "这种自我监控贯穿了各个阶段的始终。求助者通常要记一种开放性的日记。在日记中，求助者系统记录自己的具体想法、情感和行为。在 ...",
+          "position": 80
+        },
+        {
+          "title": "武昌区司法局举办2019年社区矫正视频集中教育启动仪式",
+          "link": "https://sfj.wuhan.gov.cn/zwdt/qjdt/202001/t20200113_791299.shtml",
+          "snippet": "武昌区针对集中教育具有系统性、专业性和针对性的特点，引进 ... 希望大家牢记自己的身份、认真落实各项要求、切实遵守社区矫正的各项规定，完成自我 ...",
+          "date": "2019年1月17日",
+          "position": 81
+        },
+        {
+          "title": "开平市司法局打造“技能夜校” 提高社区矫正和安置帮教工作帮扶实效",
+          "link": "http://www.kaiping.gov.cn/jmkpssfj/gkmlpt/content/3/3100/post_3100541.html",
+          "snippet": "为进一步激发社区矫正对象和安置帮教对象的改造自觉性和积极性，开平市 ... 自我价值和未来努力方向，同时推动社区矫正工作者在家属当中倾听和 ...",
+          "date": "2024年5月28日",
+          "position": 82
+        },
+        {
+          "title": "嘉兴市强制隔离戒毒所开展“迎亚运、强业务、提能力”社区矫正工作者 ...",
+          "link": "https://sfj.jiaxing.gov.cn/art/2023/8/14/art_1678185_58928866.html",
+          "snippet": "... 性。随后针对社区矫正工作中常见心理问题开展心理讲座 ... 通过此次活动，切实提升了社区矫正工作者对工作标准定位和自我约束力，提升了实践综合能力。",
+          "date": "2023年8月14日",
+          "position": 83
+        },
+        {
+          "title": "调研成果｜ 指导性案例的隐性适用及其矫正——从指导案例1号的适用 ...",
+          "link": "http://bzzy.sdcourt.gov.cn/bzzy/374527/dycg21/5765094/index.html",
+          "snippet": "... 自我保护心态下的求稳心理。指导性案例的隐性适用规避了指导性案例与待决案件之间如何进行的识别、比对、相似性判断、参照等活动。无法充分彰显案例指导制度的应然价值 ...",
+          "position": 84
+        },
+        {
+          "title": "金华市司法局直属分局以“四堂课”开启教育矫正新模式",
+          "link": "http://sfj.jinhua.gov.cn/art/2023/11/7/art_1229168052_58893068.html",
+          "snippet": "... 自我。 四是上好解矫教育“毕业课”。组织即将期满的社区矫正对象开展回归社会适应性教育，提高社会适应能力和就业创业能力，并做好就业指导和推介服务 ...",
+          "date": "2023年11月7日",
+          "position": 85
+        },
+        {
+          "title": "联合国人权专家呼吁禁止对性少数群体实施所谓的“矫正治疗” - UN News",
+          "link": "https://news.un.org/zh/story/2020/07/1061591",
+          "snippet": "联合国人权专家今天表示，所谓的“矫正治疗”给性少数群体带来严重痛苦，常常导致长期的社会心理和身体损伤，应在全球范围内彻底禁止此类做法。",
+          "date": "2020年7月8日",
+          "position": 86
+        },
+        {
+          "title": "跨儿心理工作手册 - 跨性别在线·文档库",
+          "link": "https://docs.transonline.org.cn/kexl-work",
+          "snippet": "由于跨性别是一种自我认同，识别一个人是不是跨儿，目前应以其主观叙述为准。在没有主观叙述的情况下，目前还没有客观指标能够判定一个人是不是跨儿。心理工作者应当了解及 ...",
+          "position": 87
+        },
+        {
+          "title": "向家人出櫃後，卻被迫接受「矯正」……在性別認同中遍體鱗傷的 ...",
+          "link": "https://opinion.cw.com.tw/blog/profile/390/article/14268",
+          "snippet": "性傾向迴轉治療又稱「矯正治療」，甚至「同性戀治療」，指的是改變、抑或是扭轉性傾向的療法，意在降低同性吸引。至今仍有人相信這項理論，尤其是具有宗教信仰 ...",
+          "date": "2023年11月21日",
+          "position": 88
+        },
+        {
+          "title": "惩罚性与恢复性并重的社区矫正制度重塑 - 中国法学网",
+          "link": "http://iolaw.cssn.cn/fxyjdt/201802/t20180209_4656738.shtml",
+          "snippet": "“如果我们将法律系统视为一个自我指涉性的系统，能够自我创生、自我发展、自我修正、自我满足，法社会学就是用科学的方法去研究法律系统内部结构与内部知识以外的一切 ...",
+          "position": 89
+        },
+        {
+          "title": "[DOC] https://sft.jiangsu.gov.cn/module/download/downfil...",
+          "link": "https://sft.jiangsu.gov.cn/module/download/downfile.jsp?classid=0&filename=8eb194cca2424fd3bbe156ec9d6e6f29.docx",
+          "snippet": "课题的必要性：社区矫正对象能否顺利融入社会,实现再 ... 性的对策建议。 6.行政复议效能机制研究（编号 ... 行政复议作为行政机关实现内部监督和自我解决行政 ...",
+          "position": 90
+        },
+        {
+          "title": "性别焦虑症- 诊断与治疗- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/diseases-conditions/gender-dysphoria/diagnosis-treatment/drc-20475262",
+          "snippet": "该治疗旨在改善您的心理健康、生活质量以及提高自我实现感。行为疗法并非旨在改变您的性别认同。相反，该治疗可以帮助您了解性别问题，并找到减轻性别焦虑的 ...",
+          "date": "2024年5月14日",
+          "position": 91
+        },
+        {
+          "title": "青春期的孩子怎样矫正性取向 - 百度一下",
+          "link": "https://m.baidu.com/bh/m/detail/ar_7687045572693736159",
+          "snippet": "青春期性取向不是疾病，不需要治疗：1. 同性恋不是疾病：国际疾病诊断标准已将同性恋剔除疾病目录，不需要进行治疗，应理性接纳。2. 可进行心理咨询：若因此感到 ...",
+          "date": "2024年7月20日",
+          "position": 92
+        },
+        {
+          "title": "渭滨区召开社区对象矫正警示教育大会 - 宝鸡市司法局",
+          "link": "http://sfj.baoji.gov.cn/art/2024/4/2/art_3367_1733681.html",
+          "snippet": "为进一步加强对社区矫正对象的监督管理，强化社区矫正对象接受矫正的自觉性 ... 自我调节，助其顺利完成社区矫正期。 此次警示教育活动起到了良好的警示 ...",
+          "date": "2024年4月2日",
+          "position": 93
+        },
+        {
+          "title": "解释偏向矫正：“自下而上”地改变社交焦虑个体的解释偏向？",
+          "link": "https://journal.psych.ac.cn/xlkxjz/CN/10.3724/SP.J.1042.2018.00859",
+          "snippet": "近年来, 越来越多的研究者开始关注解释偏向矫正训练, 因其能够通过简单的重复性实验“自下而上”地改变焦虑个体的这种解释偏向。与此同时, 部分研究人员还发现经过这种“自下 ...",
+          "position": 94
+        },
+        {
+          "title": "同性恋矫正机构创始人出柜，他终于接受自我“放弃治疗” - 网易",
+          "link": "https://www.163.com/dy/article/EOQNUJ020528AUDH.html",
+          "snippet": "最近，他出柜了。在一次采访中，他表示性倾向转变疗法不仅是一个谎言，更是一种伤害，他愿意用余生去为自己的 ...",
+          "date": "2019年9月11日",
+          "position": 95
+        },
+        {
+          "title": "Vol.66：为了“矫正”我的性别，爸妈把我送去了一个“集中营”",
+          "link": "https://podcasts.apple.com/gb/podcast/vol-66-%E4%B8%BA%E4%BA%86-%E7%9F%AB%E6%AD%A3-%E6%88%91%E7%9A%84%E6%80%A7%E5%88%AB-%E7%88%B8%E5%A6%88%E6%8A%8A%E6%88%91%E9%80%81%E5%8E%BB%E4%BA%86%E4%B8%80%E4%B8%AA-%E9%9B%86%E4%B8%AD%E8%90%A5/id1504822434?i=1000488786898",
+          "snippet": "欢迎来到第66期《 别任性》，这期的嘉宾叫小丽，一位跨性别女性。几年前因为跨性别身份，她被父母骗进了一家行为矫正的“教育机构” —— 湖南英高特励志教育 ...",
+          "date": "2020年8月21日",
+          "position": 96
+        },
+        {
+          "title": "性别认同障碍怎么矫正好_婚恋情感 - 心理派",
+          "link": "https://www.xinlipai.com/mobile/article/love/9092.html",
+          "snippet": "然而，对于一些希望改变自己性别认同的人来说，他们可能会选择进行性别重置手术。这种手术被认为是一种有效的治疗方式，可以帮助他们达到与自我认同一致的 ...",
+          "date": "2024年5月23日",
+          "position": 97
+        },
+        {
+          "title": "乐清市司法局“三严三抓”把好社区矫正“入矫关” - 温州市司法局",
+          "link": "https://sifa.wenzhou.gov.cn/art/2019/12/20/art_1336454_41153449.html",
+          "snippet": "... 矫正的严肃性，彰显社区矫正的威严，使社区矫正对象的自我认知和定位更加准确。每月召开一次新增学习教育会，学习社区矫正相关规定。今年，在该学习会上增设训诫环节 ...",
+          "position": 98
+        },
+        {
+          "title": "是时候对CPI进行修复性矫正了_手机新浪网 - 新浪财经",
+          "link": "https://finance.sina.cn/sa/2013-08-09/detail-ikkntiam7697086.d.html?from=wap",
+          "snippet": "是时候对CPI进行修复性矫正了 ... 物价到处“鼓包”，靠一头猪、一只鸡来管控物价，几成笑谈，探讨对CPI进行“修复性矫正”和系统性改革，是时候了。 ... 自我复制的观点大相径庭。",
+          "position": 99
+        },
+        {
+          "title": "社会工作介入女性社区矫正教育的研究--以漳州市x区司法局为例",
+          "link": "https://d.wanfangdata.com.cn/thesis/D03105613",
+          "snippet": "研究发现，女性社区矫正对象的犯罪路径及其面临的矫正教育困境与其自身性别呈强相关，其在社区矫正期间存在渴望得到家庭关怀、心理压力难以排解、自我认同感 ...",
+          "date": "2023年9月12日",
+          "position": 100
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "自我性别矫正",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 3,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "海曙区司法局“三心”助力社区矫正“修心教育”精准化",
+          "link": "http://sfj.ningbo.gov.cn/art/2021/1/11/art_1229058221_58998521.html",
+          "snippet": "针对不少新入矫人员存在的抵触心理，由专业心理咨询师进行点对点心理疏导，降低潜在风险，营造良好氛围。解矫阶段，除法律类巩固性教育外，进一步强化社会适应 ...",
+          "date": "2021年1月11日",
+          "position": 1
+        },
+        {
+          "title": "渭滨区召开社区对象矫正警示教育大会 - 宝鸡市司法局",
+          "link": "http://sfj.baoji.gov.cn/art/2024/4/2/art_3367_1733681.html",
+          "snippet": "为进一步加强对社区矫正对象的监督管理，强化社区矫正对象接受矫正的自觉性 ... 自我调节，助其顺利完成社区矫正期。 此次警示教育活动起到了良好的警示 ...",
+          "date": "2024年4月2日",
+          "position": 2
+        },
+        {
+          "title": "乐清市司法局“三严三抓”把好社区矫正“入矫关” - 温州市司法局",
+          "link": "https://sifa.wenzhou.gov.cn/art/2019/12/20/art_1336454_41153449.html",
+          "snippet": "... 矫正的严肃性，彰显社区矫正的威严，使社区矫正对象的自我认知和定位更加准确。每月召开一次新增学习教育会，学习社区矫正相关规定。今年，在该学习会上增设训诫环节 ...",
+          "position": 3
+        },
+        {
+          "title": "盐城市司法局基层动态响水：社区矫正局积极探索社区矫正工作优化",
+          "link": "https://sfj.yancheng.gov.cn/art/2024/1/8/art_1301_4132490.html",
+          "snippet": "五是关注矫正对象的心理矫治：县矫正局重视对矫正对象的心理矫治工作，通过开展心理辅导、心理疏导等活动，帮助矫正对象树立正确的价值观、人生观，增强自我 ...",
+          "date": "2024年1月8日",
+          "position": 4
+        },
+        {
+          "title": "按关键词检索 - 国际眼科杂志社（IJO Press）",
+          "link": "http://gjyk.ijournals.cn/gjykcn/article/search?jid=gjykcn&field=key_word&key=%20%E4%BD%8E%E8%A7%86%E5%8A%9B",
+          "snippet": "... 矫正或矫正≤1行者25例(29%)。联合远用助视器后视力 ... 性别、家族遗传史与患者盲和低视力无显著相关性 ... 盲和低视力患者生存质量与自我效能感和健康状况的 ...",
+          "position": 5
+        },
+        {
+          "title": "为怀揣科技梦想的女生点燃心中的希望之灯",
+          "link": "https://www.shkjb.com/content.html?id=235979",
+          "snippet": "倡议提出，在科学启蒙期，呼吁家长们培养孩子对科学的兴趣和自信心，无论性别，鼓励孩子追求科学梦想，为其创造一个鼓励科学探索的家庭氛围；教师们 ...",
+          "date": "2024年10月26日",
+          "position": 6
+        },
+        {
+          "title": "身體歪歪？如何自我矯正脊椎？認識脊椎側彎及改善 - YouTube",
+          "link": "https://www.youtube.com/watch?v=Kg7l1v9h4ys",
+          "snippet": "... 性」，大多來自你的姿勢不良、肌肉不平衡、骨盆歪斜等後天因素的影響。 換句話說，透過正確的矯正訓練 ...\n时长： 10:08\n发布时间： 2023年4月26日",
+          "date": "2023年4月26日",
+          "position": 7
+        },
+        {
+          "title": "家庭教育实用技巧系列课程 - 学习强国",
+          "link": "https://article.xuexi.cn/articles/video/index.html?art_id=10381468128901390527&&",
+          "snippet": "2.6 孩子心理脆弱，如何帮他培养抗挫能力？ 2.7. 2.7 纠正孩子盲目的攀比心理 · 3.1. 3.1 孩 ...\n发布时间： 2021年11月9日",
+          "date": "2021年11月9日",
+          "position": 8
+        },
+        {
+          "title": "我希望自己的title 是「跨性别友善医生」 - 网易",
+          "link": "https://www.163.com/dy/article/H7IRIT160534TH87.html",
+          "snippet": "对于跨性别者而言，大多数人都是在青春期就出现了性别不认同，到18 岁时，通常他们的性别焦虑已经有五六年了。多等待两年所带来的煎熬和风险，要比18 岁时自我 ...",
+          "date": "2022年5月17日",
+          "position": 9
+        },
+        {
+          "title": "我想矫正性取向～有什么好办法 - 百度知道",
+          "link": "https://zhidao.baidu.com/question/241720600100297164.html",
+          "snippet": "其实现在医学上已经不去过分的探讨纠正性取向的方法，如男生喜欢男生或女生喜欢女生，往往是指同性恋。在医学上已经把同性恋从诊断谱系去除掉很多年了，同性恋本身并不是一种 ...",
+          "position": 10
+        },
+        {
+          "title": "检护民生| 打好法治“预防针”，检察官普法进街镇",
+          "link": "https://www.jfdaily.com/sgh/detail?id=1451969",
+          "snippet": "... 矫正等医疗美容服务，频频造成医美事故。 为严厉打击非法行医类犯罪 ... 检察干警呼吁广大群众，增强自我保护意识，选择正规的医疗机构就诊 ...",
+          "date": "4天前",
+          "position": 11
+        },
+        {
+          "title": "家庭教育实用技巧系列课程 - 学习强国",
+          "link": "https://article.xuexi.cn/articles/video/index.html?art_id=16180297522525746232&&",
+          "snippet": "了解一下自我意识敏感期. 1.4. 1.4 孩子内向=没出息？别再让偏见伤害孩子. 1.5. 1.5 给 ...\n发布时间： 2021年11月9日",
+          "date": "2021年11月9日",
+          "position": 12
+        },
+        {
+          "title": "財政部關務署",
+          "link": "https://web.customs.gov.tw/",
+          "snippet": "教育部全民資訊素養自我評量活動網站連結 · 法務部廉政署 · 機關檔案目錄查詢網 · 衛生福利部食品藥物管理署 · 文化資料開放服務網 · 法務部-人權大步走 · 行政院性別平等 ...",
+          "position": 13
+        },
+        {
+          "title": "如何根本性矫正骨盆前倾、假胯宽、膝超伸、xo型腿/体态不对",
+          "link": "https://www.youtube.com/watch?v=qUeWWyojiQo",
+          "snippet": "运动矫正导师揭秘：如何根本性矫正骨盆前倾、假胯宽、膝超伸 ... 5:18 · Go to channel ...\n时长： 16:54\n发布时间： 2020年5月28日",
+          "date": "2020年5月28日",
+          "position": 14
+        },
+        {
+          "title": "带着数字化「摘录者」重返纸质阅读 - 少数派",
+          "link": "https://sspai.com/post/93418",
+          "snippet": "代码中，我在去扭曲校正环节，已经将指尖坐标点也做了映射，并在提取文本行时将下划线提取出来了，因此在该环节，我们只需根据该标记选择性地进行文本ocr或图片 ...",
+          "date": "4天前",
+          "position": 15
+        },
+        {
+          "title": "援藏眼科专家张升庆：让百岁老人重见光明点亮西藏边民“睛”彩生活",
+          "link": "https://www.chinanews.com.cn/sh/2024/11-03/10312901.shtml",
+          "snippet": "“开展白内障筛查和手术的同时，还完成一例睑内翻矫正手术、一例鼻腔泪囊 ... 正畸，年轻人“自我养育”的又一种方式？ 2024年11月04日07:23:06. 花 ...",
+          "date": "13小时前",
+          "position": 16
+        },
+        {
+          "title": "[PDF] “我需要家长同意才能做自己”",
+          "link": "https://www.amnesty.org/en/wp-content/uploads/2021/05/ASA1702692019CHINESE.pdf",
+          "snippet": "部分跨性别者认为自己是多于一个性别、非二元或非性别常规的人。 性别不一致是指跨性别者的身体和自我意识之间的不一致，由此而可能导致极度不适。15 根据一 ...",
+          "position": 17
+        },
+        {
+          "title": "阴茎下弯自我矫正训练有用吗 - 有来医生",
+          "link": "https://m.youlai.cn/video/article/BB69FBBhfm.html",
+          "snippet": "阴茎延长、阴茎加粗、玻尿酸增粗、ADM-H颗粒增粗、阴茎私密整形、隐匿性阴茎、小阴茎畸形或阴茎发 ...\n时长： 1:58",
+          "position": 18
+        },
+        {
+          "title": "机械工程控制基础 - 学习强国",
+          "link": "https://article.xuexi.cn/articles/video/index.html?art_id=3666079893077772216&&",
+          "snippet": "5.6 根据奈奎斯特图判断系统稳定性 · 5.7. 5.7 根据伯德图判断系统稳定性 ... 8.11 ...\n发布时间： 2021年4月14日",
+          "date": "2021年4月14日",
+          "position": 19
+        },
+        {
+          "title": "國立臺灣大學醫學院附設醫院- 醫事人員介紹",
+          "link": "https://www.ntuh.gov.tw/ntuh/FindDr.action",
+          "snippet": "... 自我探索​. 牙科部. 全口咬合重建、顎顏面缺損、人工植牙補綴、固定及活動假牙：牙 ... 性疾病（多發性硬化症）. 兒童醫院. 心臟血管（心臟雜音、心臟疾病、心律不整 ...",
+          "position": 20
+        },
+        {
+          "title": "國立清華大學",
+          "link": "https://www.nthu.edu.tw/",
+          "snippet": "國立清華大學-1909年以美國退還庚子賠款，成立游美學務處選派學生留美。1911年設校稱清華學堂。幾經戰亂，1955年復校於新竹。清華大學復校初期重點為原子科學， ...",
+          "position": 21
+        },
+        {
+          "title": "午夜降臨前抵達匈牙利，想起在時代鷹架上攀爬的中國「倒爺」 - 報導者",
+          "link": "https://www.twreporter.org/a/bookreview-a-central-european-odyssey",
+          "snippet": "... 性。至今，這塊歐洲腹地依然有「強烈的撕扯和游移感」，吸引他一再造訪，尋找更完整的自我 ... 矯正鏡片，幫我們看清地球上模糊的現實. 2023/6/14 · 巴爾幹 ...",
+          "date": "2天前",
+          "position": 22
+        },
+        {
+          "title": "心理健康教育如何改变矫正对象的未来？ - 搜狐",
+          "link": "https://www.sohu.com/a/821660540_121956423",
+          "snippet": "例如，在具体的心理辅导中，结合个体的实际情况进行针对性的心理疏导和辅导，减少心理负担，提升自我认知。同时，结合就业技能的培训，帮助矫正对象在就业市场中 ...",
+          "date": "6天前",
+          "position": 23
+        },
+        {
+          "title": "性別| 搜尋標籤| 聯合新聞網",
+          "link": "https://udn.com/search/tagging/2/%E6%80%A7%E5%88%A5",
+          "snippet": "「偏見眼鏡行」11日開幕測度數矯正性別歧視. 明天是台灣女孩日，性別平權已 ... 性別束縛，自由、勇敢追求自我的台灣社會。民... 文教 2024-10-09 16:51. 變更性別 ...",
+          "position": 24
+        },
+        {
+          "title": "大學眼科老花近視雷射",
+          "link": "https://www.eyedoctor.com.tw/Lasik/PresbyLasik",
+          "snippet": "自我檢測. 手機的字幕或按鍵，需拿遠一點才看得清楚。 以前可以戴眼鏡近距離 ... 矯正一個月後每半年例行性回診檢查保養。 術後日常生活上的照顧須知. • 矯正後一個 ...",
+          "position": 25
+        },
+        {
+          "title": "板機指多久會好？了解板機指原因、舒緩復健方式及自我治療方法",
+          "link": "https://www.weili-clinic.com/knowledge/category-41/post-62",
+          "snippet": "醫學名稱為「手指屈指肌腱狹窄性腱鞘炎」，大拇指、中指、無名指的發生率最高。 ... 穿戴夾板、矯正器-可以再睡覺時穿戴固定手指關節的夾板或矯正器 ...",
+          "date": "2022年6月1日",
+          "position": 26
+        },
+        {
+          "title": "同志矯正治療】  性傾向矯正過程讓人罹患憂鬱症甚至想自我毀滅",
+          "link": "https://www.youtube.com/watch?v=UmEt6xpcd7U",
+          "snippet": "為你好#不是病#福音Homotherapy / Bernard Nicolas / 94'10\" / 2019 ...\n时长： 1:57\n发布时间： 2021年2月4日",
+          "date": "2021年2月4日",
+          "position": 27
+        },
+        {
+          "title": "能量决定命运，保护好你的能力场。#能量#女性智慧#自我提升#蓝蒂 ...",
+          "link": "https://www.instagram.com/gina_landycoo/reel/DB3lsfWS7JN/",
+          "snippet": "... Danny_Chen 柏翰I 男士剪燙I 光線漂染| 輕奢霧眉l 韓式翹睫l 縮毛矯正I 頭皮舒壓保 ...\n时长： 1:05\n发布时间： 2天前",
+          "date": "2天前",
+          "position": 28
+        },
+        {
+          "title": "GINA | 马斯克这段话真的太有力量了，彻底激励了我，从现在开始",
+          "link": "https://www.instagram.com/gina_landycoo/p/DB5hZ22SptR/",
+          "snippet": "... 矯正I 頭皮舒壓保養 . Follow. kangyongcai. * 蔡康永. Follow ... #能量#女性智慧#自我提升 #蓝蒂蔻 明年引力商战课程报名联系WhatsApp + ...",
+          "date": "18小时前",
+          "position": 29
+        },
+        {
+          "title": "花蓮縣立平和國中- 藥物防治-「喪屍煙油遠離身(依托咪酯)」防範宣導",
+          "link": "https://www.phjh.hlc.edu.tw/",
+          "snippet": "轉財團法人台灣省中小學校教職員福利文教基金會辦理112年度寒假教職員工各項專業知能及自我 ... 性別平等專區／CEDAW教材」1案，請參考運用。 (李淑貞 / 23 / 人事).",
+          "position": 30
+        },
+        {
+          "title": "首頁 - J.P. Morgan Asset Management",
+          "link": "https://am.jpmorgan.com/tw/zh/asset-management/per/",
+          "snippet": "四、您的自我保護措施. 摩根會不時向您發出客戶識別密碼（下稱「客戶密碼 ... 持續性Cookies：有別於臨時性Cookies，持續性Cookies於各瀏覽器環節之間被儲存於您的 ...",
+          "position": 31
+        },
+        {
+          "title": "台灣每10人中就有1人罹糖尿病！ 醫破解「疾病＆治療常見迷思」",
+          "link": "https://www.healthnews.com.tw/article/63301",
+          "snippet": "代謝症候群還會增加癌症、非酒精性脂肪肝、高尿酸、多囊性卵巢症候群以及阻塞型睡眠呼吸中止症的風險。 ... 5大指標自我檢視有無代謝症候群！ 血壓、血糖、 ...",
+          "date": "6天前",
+          "position": 32
+        },
+        {
+          "title": "水電、消防等技工、半技工、學徒｜弈峯工程有限公司 - 1111人力銀行",
+          "link": "https://www.1111.com.tw/job/130227613/",
+          "snippet": "檢核消防工程圖面，保證圖面的精確性和完整性。 追蹤設計案件的執行進度 ... 提升自我專業能力. 進修課程. 2024-10-22~2024-11-30. 【最高補助80%】設計人才就業 ...",
+          "position": 33
+        },
+        {
+          "title": "离谱！裁员裁出新高度了。。 - 电子工程专辑",
+          "link": "https://www.eet-china.com/mp/a358934.html",
+          "snippet": "02及时矫正行动罗盘 人这一生是马拉松，职业生涯中的每一个机会、每 ... 在P9的位置上呆了两年之后，因为对自我有前置的职业规划，我选择离开 ...",
+          "date": "57分钟前",
+          "position": 34
+        },
+        {
+          "title": "2.3 怎样处理我的“坏脾气”？ - 学习强国",
+          "link": "https://article.xuexi.cn/articles/video/index.html?art_id=11176224110332289936&&",
+          "snippet": "2.6 孩子心理脆弱，如何帮他培养抗挫能力？ 2.7. 2.7 纠正孩子盲目的攀比心理 · 3.1. 3.1 孩 ...\n发布时间： 2021年11月9日",
+          "date": "2021年11月9日",
+          "position": 35
+        },
+        {
+          "title": "在中国，“矫正”同性恋成了一门生意",
+          "link": "https://theinitium.com/zh-hans/article/20151117-mainland-homosexual",
+          "snippet": "与其他宣称可以治疗同性恋的机构类似，心语中心主要采取催眠和电击两种治疗方式，姜向记者解释，催眠主要是在无意识下引导与异性的性行为，姜描绘得颇为生动，“ ...",
+          "date": "2015年11月16日",
+          "position": 36
+        },
+        {
+          "title": "大专女生有多随便，怎么办？",
+          "link": "http://warsw.imaponline.com.cn/news/364d50199134.html",
+          "snippet": "高校应加强对大专女生的教育与管理，采取更加开放和包容的性教育和心理健康教育，增强大专女生的自我约束能力，让她们意识到性行为对自己的影响，不得以过分开放、不检点的方式 ...",
+          "position": 37
+        },
+        {
+          "title": "淄博可恩口腔医院齐盛分院副院长牟兰荣获Ormco“VIP医生奖”",
+          "link": "https://sd.china.com/jkzx/20000955/20241031/25933854.html",
+          "snippet": "奥美科（Ormco）作为正畸行业的领军者，以专业、创新、优质和可靠性而闻名全球，旗下拥有固定矫正 ... 自我，精进专业技术，成就更多的病例数量，特为 ...",
+          "date": "4天前",
+          "position": 38
+        },
+        {
+          "title": "臺南市永康區大灣國民小學- ～人文科技．健康活力．永續創新～",
+          "link": "https://www.dwps.tn.edu.tw/",
+          "snippet": "... 自我倡議活動」. 2024-08-21 公告 「單側損學生學習輔具」諮詢窗口表. 2024-08-21 ... 矯正器如何選擇？專業醫師編撰手冊供下載 · [01/01] 女生的補氣豐胸聖品 ...",
+          "position": 39
+        },
+        {
+          "title": "高風險早期HER2乳癌如何治？ 這些治療策略有望達成治癒！",
+          "link": "https://www.healthnews.com.tw/article/63153",
+          "snippet": "此類型乳癌因HER2蛋白過度表現，導致腫瘤快速生長，具高度侵略性，若不及時治療，復發和轉移風險極高。 ... 5大指標自我檢視有無代謝症候群！ 血壓、血糖、血脂都 ...",
+          "date": "5天前",
+          "position": 40
+        },
+        {
+          "title": "Salient - Paper Reading",
+          "link": "http://paperreading.club/category?cate=Salient",
+          "snippet": "... 矫正模型注意力。CRAYON增强了经典和现代模型解释技术的能力，以识别并引导模型 ... 首先，在自我监督的方式下训练一个多级边缘特征提取器以捕捉每个个体的判别 ...",
+          "position": 41
+        },
+        {
+          "title": "还用手机看电子书 - 起点中文",
+          "link": "https://www.qidian.com/ask/tqbzfnjqbycmi",
+          "snippet": "手机的优势在于普遍性、便携性、信息分享便捷、图片编辑方便以及成本较低。智能手机非常普及，人们总是随身携带，适合... 1个回答2024年10月20日22 ...",
+          "position": 42
+        },
+        {
+          "title": "有尊严地老去/罗宗明医生 - 南洋商报",
+          "link": "https://www.enanyang.my/%E4%BF%9D%E5%81%A5/%E6%9C%89%E5%B0%8A%E4%B8%A5%E5%9C%B0%E8%80%81%E5%8E%BB%E7%BD%97%E5%AE%97%E6%98%8E%E5%8C%BB%E7%94%9F",
+          "snippet": "鼓励老年人继续参与社区事务、家庭活动，甚至在退休后仍然贡献智慧与经验，不仅有助于提升他们的自我价值感，也可以丰富社会的多样性。 老年人自主权.",
+          "date": "24小时前",
+          "position": 43
+        },
+        {
+          "title": "厦门男女干部的“出轨门”，荒唐又残忍",
+          "link": "https://news.creaders.net/society/2024/10/28/2790046.html",
+          "snippet": "性冷淡的吃瓜群众，只能靠看网上五花八门的婚外情， ... 心怀执念的女子，若无法在修行中矫正自我，必然在自伤中流浪放逐。 钟 ...",
+          "date": "6天前",
+          "position": 44
+        },
+        {
+          "title": "身體歪斜是「疼痛」和「萬病」的根源！ (電子書) - 博客來",
+          "link": "https://www.books.com.tw/products/E050238975?srsltid=AfmBOorra0fHflGZZ4B9-TPJpnaSl1xS7mUU-pzMjoePh4EAbWCzFtBa",
+          "snippet": "改善上半身與下半身的平衡！ •自我鍛鍊旋轉短肌•提高脊椎柔軟性的體操➤特別對談 ... 骨骼視覺矯正、旋轉短肌矯正創始人一般社團法人國際特許醫學協會代表理事 ...",
+          "position": 45
+        },
+        {
+          "title": "高级RAG 技术：提升生成式AI 系统输出质量与性能鲁棒性",
+          "link": "https://aijishu.com/a/1060000000488790",
+          "snippet": "3.3 Corrective Rag（RAG 矫正）（☆）. Corrective RAG[4] 是一种由Yan 等人首次 ... 4.2 通过Self-RAG 使系统具备自我反思能力（☆）. Self-RAG 是另一种基于微调 ...",
+          "position": 46
+        },
+        {
+          "title": "「遠距醫療」的搜尋結果 - 工商時報",
+          "link": "https://www.ctee.com.tw/search/%E9%81%A0%E8%B7%9D%E9%86%AB%E7%99%82",
+          "snippet": "為提升民眾醫療平權性、守護民眾健康，在爭取中央健康保險署同意，提供矯正 ... 自我健康管理的查詢。感謝童綜合醫院跟越南台商總會共同支持，率先試辦這次國際遠 ...",
+          "position": 47
+        },
+        {
+          "title": "專論》桑德爾教授對基因工程的看法與對「自由」的新看法",
+          "link": "https://today.line.me/tw/v2/article/mWklQgZ",
+          "snippet": "因為父母都想為孩子做最好的事。 在這個地方，以公平性為基礎的反對意見則是認為，富裕的父母可以改善他們的孩子，但低收入的父母 ...",
+          "date": "15小时前",
+          "position": 48
+        },
+        {
+          "title": "阴茎下弯自我矫正训练有用吗 - 有来医生",
+          "link": "https://youlai.cn/video/article/BB69FBBhfm.html",
+          "snippet": "所谓的自我矫正，实际上就是在对一部分的特发性脊柱侧弯，采用支具矫形进行保守治疗。在支具 ...\n时长： 1:58\n发布时间： 2021年8月11日",
+          "date": "2021年8月11日",
+          "position": 49
+        },
+        {
+          "title": "广州花都牙科哪个医院好一点？采访市民推荐花都区口碑不错的牙科 ...",
+          "link": "https://m.beise.com/note/75360.html",
+          "snippet": "... 自我保健意识。 广州博雅口腔门诊部. 地址：花都区凤凰北路. 市民采访：“博雅口腔的环境非常的好，医生们也很出色。我在这里做过牙齿矫正，成效非常满意。",
+          "date": "1天前",
+          "position": 50
+        },
+        {
+          "title": "看牙：讓自己成為物的開口| 前圖紙的沙龍",
+          "link": "https://vocus.cc/article/6720f881fd89780001dd6a63",
+          "snippet": "某種意義上來說，那個史前人類的想像也不算錯。醫療與處罰有著某種抽象的相關性。就像做為其交點的「矯正」，它們都是讓人類從偏離常軌 ...",
+          "date": "5天前",
+          "position": 51
+        },
+        {
+          "title": "可能的好处与风险相关文章搜索查询",
+          "link": "https://www.wuyoulaike.cn/search/%E5%8F%AF%E8%83%BD%E7%9A%84%E5%A5%BD%E5%A4%84%E4%B8%8E%E9%A3%8E%E9%99%A9_wz.html",
+          "snippet": "随机文章 · 过敏性鼻炎药物指南：如何选择最合适的疗法(过敏性鼻炎 · 鼻窦炎与过敏：区分症状与识别治疗方法长标题指南(鼻窦 · 露牙龈笑容不再有：专业矫正技巧 ...",
+          "date": "2天前",
+          "position": 52
+        },
+        {
+          "title": "腳底痛都是足底筋膜炎嗎？圖解腳底板痛的可能病症 - 板橋骨科診所",
+          "link": "https://www.weili-clinic.com/knowledge/category-42/post-180",
+          "snippet": "其他腳底痛：痛風、蜂窩性組織炎、下肢動脈栓塞. 醫師提醒！腳底板痛圖表，可有效幫助你初步判斷，自我檢查，找到對的科別，但實際確切的診斷還是要交 ...",
+          "date": "2023年4月19日",
+          "position": 53
+        },
+        {
+          "title": "廈門男女幹部的「出軌門」，荒唐又殘忍- 禁聞網",
+          "link": "https://www.bannedbook.org/bnews/zh-tw/topimagenews/20241029/2108072.html",
+          "snippet": "心懷執念的女子，若無法在修行中矯正自我，必然在自傷中流浪放逐。 鍾先生記了大過，葉女士也淪為笑柄。 執念帶來的因果如此赫然，依然有缺愛且不自愛 ...",
+          "date": "6天前",
+          "position": 54
+        },
+        {
+          "title": "“生而无罪，你不需要抱歉”|性别认同：“顺”或“跨”都不该被轻易定义",
+          "link": "https://xinli.swjtu.edu.cn/info/1065/5833.htm",
+          "snippet": "性别表达不符合社会预期的人，比如被视为“女性化”的男性和被视为“男性化”的女性，常常受到人身、性和心理暴力以及欺凌等。 人们应该不囿于狭窄的性别期待， ...",
+          "date": "2021年10月13日",
+          "position": 55
+        },
+        {
+          "title": "近视怎么造成的？预防近视的最好方法是什么？ - 新闻- 搜狐",
+          "link": "https://news.sohu.com/a/822921379_121124540",
+          "snippet": "... 厚度增加，从而导致视物模糊，假性近视通过正确的方式缓解调整是可以恢复正常的；如果是真性近视，是无法通过自我调节恢复的，最常见的解决方…",
+          "date": "2天前",
+          "position": 56
+        },
+        {
+          "title": "探索最有效康复路径(科学治疗鼻窦炎的方法)",
+          "link": "https://www.wuyoulaike.cn/zuixinwz/4f7f5a1d0b842b172aa2.html",
+          "snippet": "常见的手术方法有：1. **功能性内窥镜鼻窦手术**：通过内窥镜清除阻塞的鼻窦并修复结构性问题。2. **矫正鼻中隔偏 ...",
+          "date": "2天前",
+          "position": 57
+        },
+        {
+          "title": "膝蓋退化性關節炎? 教你5個運動改善疼痛! #shorts - YouTube",
+          "link": "https://www.youtube.com/watch?v=UQGC6s6wH2E",
+          "snippet": "膝蓋痛的真正原因? 膝蓋痛反而應該優先處理...| 最完整的膝蓋評估放鬆與矯正| 阿舟物理治療師 ...\n时长： 0:59\n发布时间： 4天前",
+          "date": "4天前",
+          "position": 58
+        },
+        {
+          "title": "如何让您的高明性息受众切实受益？",
+          "link": "http://www.i-scm.cn/html/222d42899349.html",
+          "snippet": "但是，在这个行为面前，很多男生会迷失自我。怎样做到既能炫富，又不失 ... 500元口一次：一种新型牙齿矫正方式 · 400元3小时上门服务电话，品质 ...",
+          "date": "2天前",
+          "position": 59
+        },
+        {
+          "title": "临夏三道桥一级黄色约炮：涉及多名当地男女的性丑闻",
+          "link": "http://ekmnc.npx.ac.cn/news/1569f4399800.html",
+          "snippet": "随即，临夏有关部门介入调查，涉及到的人员也开始展开自我辩解和申辩。 ... 不少人呼吁有关部门加强社会教育和矫正，从根本上减少类似事件的发生。",
+          "date": "1天前",
+          "position": 60
+        },
+        {
+          "title": "两性畸形难了她21年矫正手术圆了女儿梦 - 新浪新闻",
+          "link": "https://news.sina.cn/sa/2006-10-12/detail-ikkntiam7885527.d.html",
+          "snippet": "家中的户口本上也标注的是女性。西京医院整形外科主任郭树忠告诉记者，南南具有男女双重性特征，但是不具有子宫和卵巢，基因显示也是男性，但是 ...",
+          "date": "2006年10月12日",
+          "position": 61
+        },
+        {
+          "title": "性别不一致与性别焦虑- MSD诊疗手册专业版",
+          "link": "https://www.msdmanuals.cn/professional/psychiatric-disorders/gender-incongruence-and-gender-dysphoria/gender-incongruence-and-gender-dysphoria",
+          "snippet": "对于大多数患有性别不安的人来说，寻求医疗帮助的主要目的不是获得心理健康治疗，而是获得激素治疗和/或性别确认手术（以前称为性别重置或生殖器手术）形式的性别确认治疗手术， ...",
+          "position": 62
+        },
+        {
+          "title": "27岁跨性别者被送矫治机构：晋升为老师，举报男女生独处 - 搜狐",
+          "link": "https://www.sohu.com/a/413463999_120146415",
+          "snippet": "这是一家官网简介写着“针对青少年叛逆任性、厌学逃学、沉迷早恋、沾染烟酒、夜不归宿等成长问题进行心理辅导、思想教育、行为矫正、素质培养和文化补习”的 ...",
+          "date": "2020年8月17日",
+          "position": 63
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

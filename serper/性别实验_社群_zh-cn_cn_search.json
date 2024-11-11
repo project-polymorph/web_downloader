@@ -1,0 +1,1833 @@
+{
+  "query": "性别实验 社群",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-04T00:45:12.231516",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "性别实验 社群",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "新闻实验室会员通讯（番外）中国性别平等领域扫描：行动路径与社 ...",
+          "link": "https://newsletter.newslab.info/gender-equality-in-china/",
+          "snippet": "「翻山」由一群来自不同界别的酷儿姐妹联合出品。以内容为桥梁，架设性别平等在中国大陆的参与渠道。作为非营利项目，「翻山」的主要收入将被投资至中国大陆 ...",
+          "date": "2024年4月16日",
+          "position": 1
+        },
+        {
+          "title": "短视频时代的基层女性：被启蒙还是被遮蔽？ - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_22699397",
+          "snippet": "现实生活中，她们面临着相似的原生家庭、个人成长、恋爱生育的困境；而在网络空间中，王慧玲的微博就可以看作一个共享信息的粉丝部落，成员们以相似的身份遭遇 ...",
+          "date": "2023年8月10日",
+          "position": 2
+        },
+        {
+          "title": "[PDF] 中国跨性别群体- 生存现状调查报告",
+          "link": "https://cnlgbtdata.com/files/uploads/2019/03/2017_%E4%B8%AD%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E7%BE%A4%E4%BD%93%E7%94%9F%E5%AD%98%E7%8E%B0%E7%8A%B6%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A-%E5%8F%AF%E8%A7%86%E5%8C%96.pdf",
+          "snippet": "本次调查旨在通过为政府部门、国际机构、营利和非营利组织. 提供中国大陆地区跨性别群体生存现状的基础性数据，来提高. 中国跨性别群体社会议题的能见度，推动中国跨性别 ...",
+          "position": 3
+        },
+        {
+          "title": "130+志愿者共建的这个女性科技社群火了？解锁她力量",
+          "link": "https://news.qq.com/rain/a/20240330A03ZWJ00",
+          "snippet": "她们说，韧性和直觉，是女性创业者在面对复杂环境、面对困难时能'乘风破浪'的利器。她们用行动解锁“她力量”，缩短性别差距，书写“科技没有性别”。 解锁“她力量 ...",
+          "date": "2024年3月30日",
+          "position": 4
+        },
+        {
+          "title": "社群指南: 性少数性工作者经历的恐同与恐跨性别",
+          "link": "https://www.nswp.org/zh-hans/resource/she-qun-zhi-nan-xing-shao-shu-xing-gong-zuo-zhe-jing-li-de-kong-tong-yu-kong-kua-xing-bie",
+          "snippet": "本文件是《简报: 性少数性工作者经历的恐同与恐跨性别​》的配套社群指南。指南概述了简报全文，并为政策制定者和医疗服务机构提供了重要建议。 你可以下载这份5页的PDF ...",
+          "position": 5
+        },
+        {
+          "title": "评《实验北京：中国当代艺术中的性别与全球化》 - 结绳志Tying Knots",
+          "link": "https://tyingknots.net/2021/04/experimental-beijing/",
+          "snippet": "本篇为美国华盛顿大学性别、女性与性学研究副教授魏淑凌（Sasha Shu-Ling Welland）《实验北京：中国当代艺术中的性别与全球化》一书的书评，书评作者伦敦大学 ...",
+          "date": "2021年4月23日",
+          "position": 6
+        },
+        {
+          "title": "北雁书Bᴇɪʏᴀɴ Shu on X: \"我对跨性别学术小组的几点个人意见 ...",
+          "link": "https://twitter.com/sauricat/status/1837556883873583446",
+          "snippet": "我对跨性别学术小组的几点个人意见，会希望小组和社群能够共同讨论： 1. 摆正自己在社群之间的站位，做到「扎根社群，有学有术，回馈社群」，以进步的姿态 ...",
+          "date": "2024年9月21日",
+          "position": 7
+        },
+        {
+          "title": "时差播客：酷儿、跨性别与情感理论 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/kuaibao_detail.jsp?contid=10329870&from=kuaibao",
+          "snippet": "那段时间我也在考虑，不仅是亚裔，更多是东亚的酷儿社群、东亚的同志社群和酷儿理论之间的关系。因为我自己感触颇深的是，酷儿理论常常被当成是一种比较先进、比较时髦或者是 ...",
+          "position": 8
+        },
+        {
+          "title": "CAREC 促进性别平等奖项获奖者和区域性别专家访问中国上海考察 ...",
+          "link": "https://www.carecprogram.org/?news=carec-%E4%BF%83%E8%BF%9B%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89%E5%A5%96%E9%A1%B9%E8%8E%B7%E5%A5%96%E8%80%85%E5%92%8C%E5%8C%BA%E5%9F%9F%E6%80%A7%E5%88%AB%E4%B8%93%E5%AE%B6%E8%AE%BF%E9%97%AE%E4%B8%AD",
+          "snippet": "11名被誉为CAREC“性别卫士”的获奖者和9名CAREC区域性别专家组（RGEG）成员参加了此次考察访问。 RGEG 是CAREC 计划性别主题顾问和咨询小组，为制定区域女性赋能项目提供战略 ...",
+          "position": 9
+        },
+        {
+          "title": "性别身份对调实验 - Ragic",
+          "link": "https://www.ragic.com/intl/zh-CN/blog/137/%E6%80%A7%E5%88%AB%E8%BA%AB%E4%BB%BD%E5%AF%B9%E8%B0%83%E5%AE%9E%E9%AA%8C",
+          "snippet": "前阵子Twitter上有分享自己针对女性在工作上因性别歧视而影响效率的实验及感想，作者其实是一位男生，他与其他男同事时常抱怨某位女同事的工作效率。",
+          "date": "2017年5月23日",
+          "position": 10
+        },
+        {
+          "title": "[PDF] 想象的政治： “耽美”迷群体的文本书写与性别实践 - 江苏省社科联",
+          "link": "https://www.js-skl.org.cn/uploads/Files/2016-05/20/1-1463726737-115.pdf",
+          "snippet": "露西弗俱乐部的会员自主地在社群内发起了对H的讨论。 [1]刘芊玥：《作为实验性文化文本的耽美小说及其女性阅读空间》，〔上海〕复旦大学 ...",
+          "position": 11
+        },
+        {
+          "title": "關於我們/跨性別About us/Trans",
+          "link": "https://genderempowerment.org/index.php/0-0/",
+          "snippet": "我們亦提供支援予跨性別者的家人。 Gender Empowerment is a charitable organization (NGO) supporting the transgender community. “Integrate into society, building ...",
+          "position": 12
+        },
+        {
+          "title": "中国性少数群体生存状况- 基于性倾向，性别认同和性别表达的社会 ...",
+          "link": "https://www.undp.org/zh/china/publications/zhongguoxingshaoshuquntishengcunzhuangkuang-jiyuxingqingxiangxingbierentonghexingbiebiaodadeshehuitaidudiaochabaogao",
+          "snippet": "在全国多家社群组织、企业和媒体合作机构的大力支持下，本次调查共收到有效问卷近三万份，来自中国所有的省份。",
+          "date": "2016年5月16日",
+          "position": 13
+        },
+        {
+          "title": "[PDF] 2021全国跨性别健康调研报告",
+          "link": "https://cnlgbtdata.com/files/uploads/2023/01/2021%E5%85%A8%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E5%81%A5%E5%BA%B7%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.pdf",
+          "snippet": "招募信息通过社群小组、网络社交平台（例如：微信、QQ群）、社群成员相互推广等形式发布。 Q1: 您出生时被登记的性别是？ a.男性b.女性c.其TA. Q2: 如果 ...",
+          "position": 14
+        },
+        {
+          "title": "王恒| 吾栖之肤：跨性别者的性别认同与具身实践——基于在北京市 ...",
+          "link": "http://www.shehui.pku.edu.cn/wap/second/index.aspx?nodeid=2030&page=ContentPage&contentid=10195",
+          "snippet": "拼贴画作品《晓迪快跑》。图片来源：作者供图。 黄晓迪的故事在中国大陆跨性别社群内几乎无人不知，这个 ...",
+          "position": 15
+        },
+        {
+          "title": "如何让男生参与性别议题讨论？在龙胜中学（分校）的一场“另类”女性 ...",
+          "link": "http://peerchina.org/19378/",
+          "snippet": "潘潘后来成为了性别议题友毅思小组的发起人，灵感来源于我们人仰马翻的第一次社团共学。 当时我给同学们布置了社区探索的任务，观察和可持续发展相关的现象 ...",
+          "date": "2023年12月21日",
+          "position": 16
+        },
+        {
+          "title": "性別平等觀測站- 社群媒體平臺是現今年輕人社交娛樂管道 - Facebook",
+          "link": "https://www.facebook.com/story.php/?story_fbid=807933591367167&id=100064516010031",
+          "snippet": "讓 我們一起關心網路性別暴力的問題~~ 延伸閱讀： 「新興時代下的數位性暴力」- Gender在這裡 性別視聽分享站 https://reurl.cc/YVAdzl #數位性別暴力 #社群媒體.",
+          "position": 17
+        },
+        {
+          "title": "在字节，A/B 实验是这么做的！ - 字节跳动数据平台- 博客园",
+          "link": "https://www.cnblogs.com/bytedata/p/15813329.html",
+          "snippet": "最后西瓜视频和奇妙视频的点击率位列前二，但差距不显著，结合用户调性等 ... 【推荐】博客园社区专享云产品让利特惠，阿里云新客6.5折上折",
+          "date": "2022年1月17日",
+          "position": 18
+        },
+        {
+          "title": "[PDF] 美国心理学会性少数人群心理实践指南",
+          "link": "https://www.apa.org/pi/lgbt/resources/practice-sexual-minority-chinese.pdf",
+          "snippet": "对性少数倾向、性少数者个. 人或性少数社群开展研究的心. 理学从业者应认识到，自己可能. 因参与此类工作而面临歧视；同. 时，由于一些研究的具体内容，. 研究者也可能经历替代 ...",
+          "position": 19
+        },
+        {
+          "title": "巴西“计算机女孩”：大学生变导师推进性别平等 - the United Nations",
+          "link": "https://www.un.org/zh/205359",
+          "snippet": "实验室提供了一个绝佳的交流空间，鼓励女学生加入社群，获得归属。 例如，有女学生会提出，她们最大的障碍是在大量男同学面前容易害羞，继而不敢向教授提问。核心行动 ...",
+          "position": 20
+        },
+        {
+          "title": "[PDF] 亚太跨性别健康蓝图",
+          "link": "https://www.undp.org/sites/g/files/zskgke326/files/migration/asia_pacific_rbap/06134fe5d74f2f84023c5de3ee99656ba412f33aa87d6a66c24e6a3da2f6de19.pdf",
+          "snippet": "学术研究者与跨性别社群合作、政府机构. 对法官、律师、警察、监狱员工、收容所 ... 在一些小规模的实验研究中，黄体激素被发现与循环趋化因子辅助受体 ...",
+          "position": 21
+        },
+        {
+          "title": "实验检验东方田鼠学习能力的性别差异 - 生态学报",
+          "link": "https://www.ecologica.cn/stxb/article/abstract/stxb202212133586?st=search",
+          "snippet": "东方田鼠社群气味对家族群成员个体觅食行为的影响. 生态学报, 2020, 40(5): 1750-1758. [26] Zorenko T A, Rutovskava M V. Social behavior of the reed vole ...",
+          "position": 22
+        },
+        {
+          "title": "【研究】社会规范策略对居民垃圾分类行为的干预效果分析",
+          "link": "http://www.ggzc.zju.edu.cn/2024/0308/c54184a2887065/page.htm",
+          "snippet": "（1）前测问卷于2021年4月发放，旨在测量干预实验开始前，居民的人口属性（性别、年龄、社区居住时间、家庭人口数量、受教育程度、职业等）及垃圾分类参与情况等 ...",
+          "date": "2024年3月8日",
+          "position": 23
+        },
+        {
+          "title": "LGBT | Recording Civic Action in China - Spotlight at Stanford",
+          "link": "https://exhibits.stanford.edu/chinese-ngos/browse/lgbt?page=2",
+          "snippet": "通过主办各种文化体育活动，搭设本地拉拉之间、本地与各地拉拉社团之间的交流平台，促进自我认同和公众认识，倡导社会的平等多元，减少基于性和性倾向的歧视和偏见，丰富社群 ...",
+          "position": 24
+        },
+        {
+          "title": "跨性别- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E8%B7%A8%E6%80%A7%E5%88%A5",
+          "snippet": "跨性别社群及组织. 编辑. 主页面：分类:跨性别组织. 香港. 跨性别同盟 （页面存档备份 ... 香港中文大学亚太研究所性别研究中心. 2014-06-29 [2016-03-24]. （原始 ...",
+          "position": 25
+        },
+        {
+          "title": "乐学西浦—学生学习社群",
+          "link": "https://www.xjtlu.edu.cn/zh/study/departments/academy-of-future-education/learning-institute-for-future-excellence/ilearn-student-learning-community",
+          "snippet": "研究中心、实验室、研究院及学院. 学院. 学院 · 学院与教学中心 · 影视与创意科技学院 ... 未来学习中心是跨学科的综合性学习平台，旨在从学科思维、行业认知、专业素养 ...",
+          "position": 26
+        },
+        {
+          "title": "“生而无罪，你不需要抱歉”|性别认同：“顺”或“跨”都不该被轻易定义",
+          "link": "https://xinli.swjtu.edu.cn/info/1065/5833.htm",
+          "snippet": "一些研究也发现，双性化的儿童比在性别 ... 上海：复旦大学，2010. 【3】世界卫生组织等. 亚太跨性别健康蓝图：为亚洲及太平洋地区跨性别者及其社群提供完善照护 ...",
+          "date": "2021年10月13日",
+          "position": 27
+        },
+        {
+          "title": "斜带石斑鱼基因组揭示雌雄同体鱼的性别分化和性逆转机制 - 中山大学",
+          "link": "https://www.sysu.edu.cn/news/info/2331/1059991.htm",
+          "snippet": "... 性别行为的转变，进而启动性腺的性别转变。 图3. 社群因素诱导斜带石斑鱼性别转变分析。（a）社群因素诱导斜带石斑鱼性别转变实验设计图；（b）雄鱼移 ...",
+          "date": "2023年2月22日",
+          "position": 28
+        },
+        {
+          "title": "[PDF] 酷儿理论视角下档案与性别身份认同的冲突与和解",
+          "link": "https://journal12.magtechjournal.com/Jwk_dax/CN/article/downloadArticleFile.do?attachType=PDF&id=4314",
+          "snippet": "人无法以纯粹、抽象的自我进行意义建构，人. 的所有活动都以特定身份进行，如社群身份、职业身. 份、性别身份、性倾向身份等。[11]在进行意义建构时，. 个体或群体对主体和 ...",
+          "position": 29
+        },
+        {
+          "title": "上海交通大学安泰经济与管理学院行业社群班专题",
+          "link": "https://www.acem.sjtu.edu.cn/hysq/",
+          "snippet": "在全球商业变革的浪潮下，传统商业竞争正在发生质变，也推动者商学院教育的不断革新。交大安泰经管学院院长陈方若认为，商学院的“本”是科研和人才培养，“根”来自于实践， ...",
+          "position": 30
+        },
+        {
+          "title": "[PDF] 第8 章田野实验",
+          "link": "https://iacmr.org/wp-content/uploads/sites/26/2024/05/%E7%AC%AC8%E7%AB%A0.pdf",
+          "snippet": "例如，实验室实验可能捕捉不到目标社区的一些居民会错过广告、不专心看广告或在. 生活的其他干扰中忘记信息的可能性。只有田野实验才能帮助研究者衡量在现实情况下一项.",
+          "position": 31
+        },
+        {
+          "title": "红帽- 多元、平等与包容 - Red Hat",
+          "link": "https://www.redhat.com/zh/about/our-culture/diversity-equity-inclusion",
+          "snippet": "Pride 是一个由志同道合的个体组成的全球性社区，旨在释放LGBTQ+ 红帽人的潜能，并与盟友携手培育包容性文化。 退伍军人. 退伍军人社区为退伍军人及其盟友发声，利用 ...",
+          "position": 32
+        },
+        {
+          "title": "人因工程实验室 - 清华大学工业工程系",
+          "link": "https://www.ie.tsinghua.edu.cn/kxyj/sys/rygcsys.htm",
+          "snippet": "对于老年人来说，生理和（或）心理的衰退、居住条件、交通设施的匮乏、社区信息和沟通服务的短缺以及低收入水平是影响他们独立性的主要因素。研究室与欧盟第七框架OASIS项目 ...",
+          "position": 33
+        },
+        {
+          "title": "暂停实验室微信社群规则",
+          "link": "https://ebp.gesedna.com/pa-wechatgroup-rules/",
+          "snippet": "在社群里，你会遇到暂停实验室的研究员们，. 参与行动营期间，你会获得由研发 ... 不在群里发起与自行组织的群有关的讨论，保证行动营群讨论范围的有效性；; 如果与 ...",
+          "position": 34
+        },
+        {
+          "title": "Search Console 中的建议功能（实验性功能）",
+          "link": "https://support.google.com/webmasters/answer/15107108?hl=zh-Hans",
+          "snippet": "社群. Search Console 中的建议功能（实验性功能）. 获取有助于提升网站在Google 搜索中的表现的数据分析和建议. 建议功能是Search Console 中的一项实验性功能，并非所有 ...",
+          "position": 35
+        },
+        {
+          "title": "建设中国国际关系实验室的意义与任务 - 中国社会科学杂志社",
+          "link": "http://sscp.cssn.cn/xkpd/gjyk/202401/t20240104_5724494.html",
+          "snippet": "研究者们开始尝试数据密集型研究和大规模的实验研究 ... “数据革命”和“信度革命”两大变革都凸显了实证研究的重要性、创新性和挑战性。 ... 社群，避免成为简单追求“绩效”的研究 ...",
+          "position": 36
+        },
+        {
+          "title": "脸书、领英、推特的A/B测试为什么难做？ - MarTechApe",
+          "link": "https://martechcareer.com/advice/2020/09/15-abt",
+          "snippet": "像Facebook，Google和LinkedIn这样的公司都因广泛使用A/B测试而知名。但是，鉴于其产品的高度互连性，这几家公司都面临着上述问题，这可能会给实验结果造成 ...",
+          "date": "2020年9月16日",
+          "position": 37
+        },
+        {
+          "title": "如何通过A/B test迭代社群运营玩法模型？ | 人人都是产品经理",
+          "link": "https://www.woshipm.com/operate/2065716.html",
+          "snippet": "... 性，比如我们的目标用户都是以大学生人群为主。 测试环境能够代表全局特性，比如：都是沿用之前的用户领课路径，只保留唯一一个变量，其他环境都一样。 制定社群运营AB测试 ...",
+          "position": 38
+        },
+        {
+          "title": "这档社会实验类韩综，凭何拿下豆瓣9.6分？ - QQ News",
+          "link": "https://news.qq.com/rain/a/20241101A08GBW00",
+          "snippet": "韩国综艺《思想验证区域：The Community》（后简称《思想验证区域》）是一档极具思想启发性的社会实验类节目，于今年年初在韩国最大的流媒体平台Wavve播出 ...",
+          "date": "3天前",
+          "position": 39
+        },
+        {
+          "title": "性别焦虑症- 诊断与治疗- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/diseases-conditions/gender-dysphoria/diagnosis-treatment/drc-20475262",
+          "snippet": "您可能会在精神或信仰社群中找到安慰和支持。 积极参与。通过志愿服务 ... 实验室 · 国际患者专区 · 约诊 · 财务服务 · 国际服务地点& 办事处 ...",
+          "date": "2024年5月14日",
+          "position": 40
+        },
+        {
+          "title": "江苏省高校哲学社会科学实验室建设启动会在宁举行",
+          "link": "https://jyt.jiangsu.gov.cn/art/2024/8/12/art_58271_11322235.html",
+          "snippet": "... 研究的科学性和准确性。要增强目标责任意识，建立科学的目标责任制，定期 ... 40余所高校的校领导、实验室和社科管理部门负责人约90余人参加会议。",
+          "date": "2024年8月12日",
+          "position": 41
+        },
+        {
+          "title": "宋国杰 - 北京大学智能学院",
+          "link": "https://www.cis.pku.edu.cn/info/1022/2212.htm",
+          "snippet": "代表性成果包括：1）揭示了社群中信息传播影响力的局部性规律，提出了基于社群分 ... 担任“北大-阿里妈妈人工智能创新联合实验室”联合实验室主任。 获省部级和一 ...",
+          "position": 42
+        },
+        {
+          "title": "从应用看火山引擎AB 测试(DataTester) 的最佳实践 - 博客园",
+          "link": "https://www.cnblogs.com/bytedata/p/17346129.html",
+          "snippet": "... 群本文将从外部用户的角度介绍A/B 测试平台的最佳实践。分享 ... 以上介绍的都是常规功能性的实验，除此以外，还有反转实验。还可以做一些 ...",
+          "date": "2023年4月23日",
+          "position": 43
+        },
+        {
+          "title": "成年公鼠每笼几只合适？-实验动物中心",
+          "link": "http://www.nxmu.edu.cn/sydwzx/info/1015/1224.htm",
+          "snippet": "减少与成年公鼠攻击有关的伤害最常用的方法是采用单独饲养的方式（每笼一只），但给社群性的动物独居方式本身又是另外一个实验动物福利问题。 宁夏银川市兴庆区胜利街1160号| ...",
+          "position": 44
+        },
+        {
+          "title": "未来教师核心素养培育虚拟仿真实验",
+          "link": "https://www.ilab-x.com/details/page?id=12559",
+          "snippet": "学生通过人机交互的操作，理解如何践行良好的师德师风，如何开展反思性教学，如何开展高效的班级管理等。通过“身临其境”地感受多样化、复杂性、双边化小学日常教育教学样态， ...",
+          "position": 45
+        },
+        {
+          "title": "跨性别_百度百科",
+          "link": "https://baike.baidu.com/item/%E8%B7%A8%E6%80%A7%E5%88%AB/6234644",
+          "snippet": "... 性别认同等同于其被指派性别，同样是十分落后且具有歧视性的用语 。“跨性别”是根据英文单词“transgender”直译的词汇，表现出了包容和尊重，是目前社群内部和学术研究 ...",
+          "position": 46
+        },
+        {
+          "title": "黑猩猩越来越笨六大技能在失传 - BBC",
+          "link": "https://www.bbc.com/ukchina/simp/48187675",
+          "snippet": "研究人员称之为“十分重要的适应性行为”，能够帮助黑猩猩在艰难的 ... 科学家们说，在两个月的实验中，两种\"社群文化\"逐渐成型。 这项研究证实 ...",
+          "date": "2019年5月7日",
+          "position": 47
+        },
+        {
+          "title": "[PDF] 未来实验室 - Arup",
+          "link": "https://www.arup.com/globalassets/downloads/insights/f/arup-future-of-labs-2024-cn.pdf",
+          "snippet": "许多DIY实验室和“创客. 空间”一样，秉承以社区为中心的宗旨，. 围绕一系列主题，举办实操性强且具创. 新性的科学工作坊研讨会。 通过建设促进社交互动的公共区域，并打造可支持 ...",
+          "position": 48
+        },
+        {
+          "title": "内蒙古自治区乳品生物技术与工程重点实验室",
+          "link": "https://kyc.imau.edu.cn/info/1251/4533.htm",
+          "snippet": "... 性及稳定性；结合现代医学、组学、分子生物学、生物信息学理论和技术手段，解读乳酸菌、肠道菌群与健康的相关性，以肠道菌群为靶点治疗疾病。...",
+          "date": "2023年8月15日",
+          "position": 49
+        },
+        {
+          "title": "中国科学院植物研究所植被与环境变化国家重点实验室",
+          "link": "http://lvec.ibcas.ac.cn/",
+          "snippet": "· 揭示植物物种和功能群多样性与组成共同调控. 森林生产力 · · 揭示温带森林冠层结构 ... 生态系统适应性研究组 · 草地养分利用与调控研究组 · 草地恢复与管理研究组 ...",
+          "position": 50
+        },
+        {
+          "title": "OpenHarmony",
+          "link": "http://www.openharmony.cn/",
+          "snippet": "兼容性实验室. 组建制度. 合作中心. 资讯. 博客. 报告. 最新活动. 16. 2024-10. 焦点直击 ... 项目群管理制度. 开放原子开源基金会版权所有| 京ICP备2020036654号-3 | 京公 ...",
+          "position": 51
+        },
+        {
+          "title": "SiBORG 实验室使用OpenUSD 和NVIDIA Omniverse 改进可达性设计",
+          "link": "https://blogs.nvidia.cn/blog/mathew-schwartz-openusd-omniverse/",
+          "snippet": "... 社群. NVIDIA 博客 · GEFORCE 论坛 · 虚拟GPU 论坛 · GPU 风险投资 · 初创加速计划 ... Omniverse 先锋面对面：SiBORG 实验室使用OpenUSD 和NVIDIA Omniverse ...",
+          "date": "2023年12月7日",
+          "position": 52
+        },
+        {
+          "title": "[PDF] 实验之维：生态艺术的本体性建构",
+          "link": "https://www.scfai.edu.cn/__local/8/25/6B/8C1DBE913FD13016DD178921E8D_76D10DDC_1D7A4D.pdf",
+          "snippet": "主题展取名“再生”，总. 策展人王林特别强调作品以废旧物为材料进. 行创作，重新焕发日常事物包括废弃物的天. 性与活力。而社区生态艺术项目则介入社区、. 社 ...",
+          "date": "2023年5月11日",
+          "position": 53
+        },
+        {
+          "title": "为民会客厅—可靠性茶话会杭州站在北航杭州国际校园圆满举办",
+          "link": "https://zfai.buaa.edu.cn/info/1189/2989.htm",
+          "snippet": "各行各业工程师及专家学者在实践中积累的好资料、好经验、好做法将上传到软件平台，并提供可靠性活动资讯、培训课程、专家观点、互动答疑、社群讨论等一站式服务，助力大家 ...",
+          "position": 54
+        },
+        {
+          "title": "[PDF] 遗传资源与进化国家重点实验室",
+          "link": "http://www.kiz.cas.cn/gre/gre7/gre71/202104/P020210426624926837338.pdf",
+          "snippet": "态观测，探讨其社群形成机制及其对环境适应性；开展亚洲象生态学研究，为人象冲突防控与亚洲象保护提供. 科学对策。 研究方向：. 1. 哺乳动物进化与生物地理；. 2. 西南 ...",
+          "position": 55
+        },
+        {
+          "title": "环境学院张少君课题组合作在城市空气污染的环境公平性研究方面 ...",
+          "link": "https://www.tsinghua.edu.cn/info/1175/109795.htm",
+          "snippet": "研究首次将动态交通数据引入基于机器学习的空气质量模拟方法中，并揭示了其在优化城市空气质量时空分布特征方面的重要作用，进而能够更准确评估社区层面人口 ...",
+          "date": "2024年2月28日",
+          "position": 56
+        },
+        {
+          "title": "实验动物使用许可（延续） - 湖北政务服务网",
+          "link": "http://zwfw.hubei.gov.cn/webview/bszn/bsznpage.html?transactCode=114200000110431455200010600100008",
+          "snippet": "从事实验动物保种、繁育、生产、供应、运输、商业性经营以及实验动物相关产品生产、供应的单位和个人。 办理流程. 查看流程图. 1受理. 办理人陈军云时限1工作日. 审查标准 ...",
+          "position": 57
+        },
+        {
+          "title": "统信UOS生态社区- 打造操作系统创新生态",
+          "link": "https://www.chinauos.com/",
+          "snippet": "测评规范实验室 · 统信标准验证集 · 一站式应用迁移平台 · WEB插件快速迁移平台 · 资源 ... 该工具集能够验证统信UOS操作系统与硬件整机计算产品的兼容性、可靠性、稳定性等 ...",
+          "position": 58
+        },
+        {
+          "title": "儿童与性别认同：支持您的孩子- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/healthy-lifestyle/childrens-health/in-depth/children-and-gender-identity/art-20266811",
+          "snippet": "您还需要考虑在学校或社区过渡会不会危害您的孩子。寻求社会机构或倡导团体的建议，以帮助确定过渡的 ... 实验室 · 国际患者专区 · 约诊 · 财务服务 · 国际服务地点& 办事处 ...",
+          "position": 59
+        },
+        {
+          "title": "变革性分子前沿科学中心",
+          "link": "https://fsctm.sjtu.edu.cn/",
+          "snippet": "前沿社群 · 社会公益. 服务指南. ×. 规章制度 · 生活指南 · 工作指南 · 会议室预定. 招生招聘 ... 变革性分子前沿科学中心2024年秋季学期实验室安全专题会议 · 为深入贯彻 ...",
+          "position": 60
+        },
+        {
+          "title": "策略实验室 - 阿里云文档",
+          "link": "https://help.aliyun.com/zh/fraud-detection/user-guide/policy-lab",
+          "snippet": "... 实验室的使用场景：策略实验室提供策略仿真，变量推荐， ... 3）风险打标针对于存在聚集性、规模性的风险场景，使用图计算技术、算法绘制社群 ...",
+          "date": "2023年9月28日",
+          "position": 61
+        },
+        {
+          "title": "现代化实验室方法如何优化流片后验证 - National Instruments",
+          "link": "https://www.ni.com/zh-cn/solutions/semiconductor/validation-lab-innovations/how-modern-lab-approaches-optimize-post-silicon-validation.html?srsltid=AfmBOoq0I4R7jLmV6GOFeOvNNd_2tG4FtAuw91I0wURidTgXpiBrCS_s",
+          "snippet": "此外，也可以向这些标准化工作中添加诸如自动数据表生成等功能。 返回顶部. 增强验证社区力量. 分享最佳实践，更快提供支持",
+          "date": "2024年3月12日",
+          "position": 62
+        },
+        {
+          "title": "数字媒体技术（交互媒体艺术） | 上海纽约大学 - NYU Shanghai",
+          "link": "https://shanghai.nyu.edu/cn/academics/majors/interactive-media-arts",
+          "snippet": "该专业的课程设置、社群氛围和学习环境，有助于学生深入理解概念，掌握实用技能 ... 主修和辅修数字媒体技术（交互媒体艺术）专业的学生，均要学习两门基础课程——交互实验室以及 ...",
+          "position": 63
+        },
+        {
+          "title": "对科学研究中实验可重复性的反思-马克思主义学院 - 长沙理工大学",
+          "link": "https://www.csust.edu.cn/mksxy/info/1077/5061.htm",
+          "snippet": "党群工作 · 人才培养 · 下载专区. 当前位置学院首页 >> 正文. 对科学研究中 ... 上海：上海科技教育出版社， 2007. [2][德]赖欣巴哈.科学哲学的兴起[M] ...",
+          "date": "2018年11月29日",
+          "position": 64
+        },
+        {
+          "title": "国际性教育技术指导纲要 - UNESCO Digital Library",
+          "link": "https://unesdoc.unesco.org/ark:/48223/pf0000260770_chi",
+          "snippet": "Licence type · 1. 关系2. 价值观、权利、文化与性3. 理解社会性别4. 暴力与安全保障5. 健康与福祉技能6. 人体与发育7. · 2. 有年轻人、父母/ 家庭成员和其他社区利益相关方 ...",
+          "position": 65
+        },
+        {
+          "title": "策略实验室- 风险识别- 阿里云 - Alibaba Cloud",
+          "link": "https://www.alibabacloud.com/help/zh/fraud-detection/user-guide/policy-lab",
+          "snippet": "3）风险打标针对于存在聚集性、规模性的风险场景，使用图计算技术、算法绘制社群关系，风险打标功能可以使用客户反馈的风险标签对于社群进行风险染色，获取社 ...",
+          "date": "2023年9月28日",
+          "position": 66
+        },
+        {
+          "title": "理大索引| 香港理工大学 - PolyU",
+          "link": "https://www.polyu.edu.hk/sc/atoz",
+          "snippet": "国际化社群 · 环球视野课程 · 国际伙伴和合作 · 放眼中国 · 校园生活. Campus Life_main ... 中国科学院数学与系统科学研究院-香港理工大学应用数学联合实验室 · 中国语文 ...",
+          "position": 67
+        },
+        {
+          "title": "如何选择合适的实验动物开展自己的研究 - 丁香通",
+          "link": "https://m.biomart.cn/news/16/3216307_0.htm",
+          "snippet": "不同年龄和体重的动物可能在生理功能上存在差异，而性别也可能影响实验结果。 ... 扫码关注「实验菌」，入科研社群，领学习资源. 更有优质直播、研选好物 ...",
+          "date": "2024年5月10日",
+          "position": 68
+        },
+        {
+          "title": "国务学院成功举办“AI与数据赋能的公共治理转型”国际研讨会",
+          "link": "https://sirpa.fudan.edu.cn/6f/f3/c35035a684019/page.htm",
+          "snippet": "... ，复旦大学国务学院数字与移动治理实验室成功举办了“AI ... 开放数据中国（社群）执行主任高丰博士以重构公共数据供给为题，反思当前 ...",
+          "date": "2024年6月21日",
+          "position": 69
+        },
+        {
+          "title": "Node.js添加實驗性TypeScript支援，版本穩定性疑慮引發社群激烈討論",
+          "link": "https://www.ithome.com.tw/news/164174",
+          "snippet": "之所以Node.js會添加TypeScript實驗性支援，是基於回應社群的需求，這對於推動Node.js生態系發展，以及未來提供原生支援TypeScript是重要的一步，以更直接的 ...",
+          "date": "2024年7月29日",
+          "position": 70
+        },
+        {
+          "title": "特殊情景复杂建模虚拟仿真实验教学项目",
+          "link": "https://www.ilab-x.com/details/page?id=12533",
+          "snippet": "特殊情景建模技术能够制作仿真物体的特性及其精确性、真实性和无限的可操作性，被广泛应用于医学、教育、军事、娱乐等诸多领域的模型制作和虚拟演示动画制作。",
+          "position": 71
+        },
+        {
+          "title": "时代艺术中心（柏林）【简称TACB】是由广东时代美术馆支持",
+          "link": "https://www.timesartcenter.org/zh-hans/times-art-center-berlin/",
+          "snippet": "以柏林为学术研究和实验 ... TACB与国际当代艺术机构及本地文化生产者合作联动，筹划展览及各项学术活动，主动参与柏林当地艺术生态的构建，进而推进在欧洲的国际性艺术社群间的 ...",
+          "position": 72
+        },
+        {
+          "title": "我们的治疗领域| Gilead - 吉利德",
+          "link": "https://www.gileadchina.cn/science-and-medicine/our-therapeutic-areas",
+          "snippet": "通过与HIV社群密切合作，我们开创性的发明——从首个治疗HIV感染的复方单片制剂，到 ... COVID-19疫情伊始，我们快速响应并推进了对当时的一款在研抗病毒药物的研究，该药物在实验 ...",
+          "position": 73
+        },
+        {
+          "title": "什么是临床实验？ – 区域癌症护理协会",
+          "link": "https://www.regionalcancercare.org/zh-CN/news/what-is-a-clinical-trial-and-is-it-safe/",
+          "snippet": "Regional Cancer Care Associates 是美国最大的肿瘤专家网络之一，为患者提供参与新泽西州、康涅狄格州、马里兰州和华盛顿特区社区护理中心约300 项临床 ...",
+          "date": "2024年2月28日",
+          "position": 74
+        },
+        {
+          "title": "实验性治疗档案- 硬化性苔藓支持网络",
+          "link": "https://lssupportnetwork.org/zh-CN/%E8%A1%8C%E6%9D%8E%E7%89%8C/%E5%AE%9E%E9%AA%8C%E6%80%A7%E6%B2%BB%E7%96%97-a/",
+          "snippet": "实验性治疗在控制病情方面显示出希望，但尚未彻底评估其功效、安全性和可接受性。我们知道我们的社区对激光疗法有很多疑问。如果我只看一种激光，那对社区来说就太不公平了 ...",
+          "position": 75
+        },
+        {
+          "title": "分销涨价到停售？王六六裂变实验室2.0玩法大拆解| 人人都是产品经理",
+          "link": "https://www.woshipm.com/operate/1686605.html",
+          "snippet": "罗列在社群中能得到的种种好处：技巧、资源、规则、变现赚钱、大佬内邀。 “限时免费”等用紧迫性刺激用户的词语。 2）设计个人号引导用户分享的话术和用户转发到 ...",
+          "position": 76
+        },
+        {
+          "title": "农业农村部动物源细菌耐药性监测重点实验室2024年度开放课题申请 ...",
+          "link": "http://www.ivdc.org.cn/xxgk/ggtz/tz/202403/t20240321_56054.htm",
+          "snippet": "为落实《农业农村部办公厅关于加强农业农村部学科群重点实验室建设的通知》（农办科〔2022〕1号）和《中国兽医药品监察所学科群重点实验室管理办法（ ...",
+          "date": "2024年3月21日",
+          "position": 77
+        },
+        {
+          "title": "从Elastic 社区寻求帮助",
+          "link": "https://www.elastic.co/cn/community",
+          "snippet": "安全实验室. 帮助. 无论是什么主题，都能找到所需的支持。 联系我们 · 支持中心. 了解 ... 表彰具有公益性、创新性和变革性的项目及项目参与人员。 arrow-white. 文档.",
+          "position": 78
+        },
+        {
+          "title": "中国科学院上海有机化学研究所",
+          "link": "https://www.sioc.ac.cn/",
+          "snippet": "中国科学院上海有机化学研究所是集基础研究、应用研究和高技术创新研究为一体的综合性化学研究机构，从开展抗生素和高分子化学的研究起步，经过70多年几代人艰苦创业、 ...",
+          "position": 79
+        },
+        {
+          "title": "Listings for 贵阳试管婴儿性别【微信搜索10951068】贵阳试管婴儿性别",
+          "link": "https://steamcommunity.com/market/listings/730/%E8%B4%B5%E9%98%B3%E8%AF%95%E7%AE%A1%E5%A9%B4%E5%84%BF%E6%80%A7%E5%88%AB%E3%80%90%E5%BE%AE%E4%BF%A1%E6%90%9C%E7%B4%A210951068%E3%80%91%E8%B4%B5%E9%98%B3%E8%AF%95%E7%AE%A1%E5%A9%B4%E5%84%BF%E6%80%A7%E5%88%AB",
+          "snippet": "Buy and sell Counter-Strike 2 items on the Steam Community Market for Steam Wallet funds.",
+          "position": 80
+        },
+        {
+          "title": "香港金融管理局- 第四次「反洗钱合规科技实验室」（AMLab 4）",
+          "link": "https://www.hkma.gov.hk/gb_chi/news-and-media/press-releases/2023/06/20230607-5/",
+          "snippet": "数码港为香港数码科技旗舰及创业培育基地，汇聚超过1,900间社群企业，包括超过800间驻园区及接近1,100间非驻园区的初创企业和科技公司，由香港特别 ...",
+          "date": "2023年6月7日",
+          "position": 81
+        },
+        {
+          "title": "尝试使用AdSense 实验室",
+          "link": "https://support.google.com/adsense/answer/6386328?hl=zh-Hans",
+          "snippet": "AdSense 实验室提供多种实验性功能， ... 社群 · 通告. 优化建议和实验. 尝试使用AdSense 实验室. AdSense 实验室提供多种实验性 ...",
+          "position": 82
+        },
+        {
+          "title": "关于多国猴痘疫情的《国际卫生条例(2005)》突发事件委员会",
+          "link": "https://www.who.int/zh/news/item/23-07-2022-second-meeting-of-the-international-health-regulations-(2005)-(ihr)-emergency-committee-regarding-the-multi-country-outbreak-of-monkeypox",
+          "snippet": "第二组：最近在人口中，包括在面临高暴露风险的重点人群和社群中，出现输入性猴痘病例和/或正发生猴痘病毒人际传播的缔约国. 2.a. 开展协调的应对行动. 2.",
+          "date": "2022年7月23日",
+          "position": 83
+        },
+        {
+          "title": "郑楚然首谈“女权组织跨国卖淫”诽谤案：一场注定败诉的官司 - 歪脑",
+          "link": "https://www.wainao.me/wainao-reads/fea-Mar-05-feminist-datu-case-03292021",
+          "snippet": "2021年的女权主义者和2018相比，又是新一轮风景，每年我们都惊叹“女权社群前所未有地壮大”，针对性别不公的愤怒力量也刺眼得让人闭眼都无法躲避。 女权不死， ...",
+          "date": "2021年3月29日",
+          "position": 84
+        },
+        {
+          "title": "“固执一点去追求你真正喜欢的东西” - 上海科技报",
+          "link": "https://www.shkjb.com/content.html?id=235981",
+          "snippet": "... 性别差距仍在持续，女性在这些领域的代表性仍然不足，尤其是在相对高级的 ... 当时她就想做研究，敲了很多实验室的门，都被拒绝了。很多人对她说 ...",
+          "date": "8天前",
+          "position": 85
+        },
+        {
+          "title": "从国家税务总局《研发费用加计扣除项目鉴定案例》再议研发活动的 ...",
+          "link": "https://www.kwm.com/cn/zh/insights/latest-thinking/confirmation-of-research-and-development-activities-based-on-chinese-state-taxation-administration-typical-cases.html",
+          "snippet": "... 实验记录，无法证明研发结果不确定性”。 “微信社群粉丝经营平台项目”：如前所述，由于本项目主要依托现有的信息技术（如其项目所指的ACS节点数量 ...",
+          "date": "2023年8月7日",
+          "position": 86
+        },
+        {
+          "title": "路国权-山东大学考古实验教学中心",
+          "link": "https://www.history.sdu.edu.cn/lab/info/1011/2380.htm",
+          "snippet": "11、《历史与评述：文献史学关于春秋史的分期和断代研究》，《西部考古》（13），科学出版社，2017年。 12、《跋峄城徐楼2009M1、M2铜器群的年代和意义》，《青铜器与山东古国学术 ...",
+          "position": 87
+        },
+        {
+          "title": "高等教育出版社有限公司",
+          "link": "https://www.hep.com.cn/",
+          "snippet": "高等教育出版社是中国教育出版传媒集团有限公司的成员单位，是以出版高等教育、职业教育、成人及社会教育等教育类、专业类、科技类出版物为主的综合性大型出版社， ...",
+          "position": 88
+        },
+        {
+          "title": "系统稳定性保障体系评估（STAR-A）第二批报名正式开始 - 搜狐",
+          "link": "https://www.sohu.com/a/551444946_411876",
+          "snippet": "... 性实验室. 关于我们. dbaplus社群是围绕Database、BigData、AIOps的企业级专业社群。资深大咖、技术干货，每天精品原创文章推送，每周线上技术分享，每 ...",
+          "date": "2022年5月27日",
+          "position": 89
+        },
+        {
+          "title": "智源社区_没有围墙的人工智能实验室",
+          "link": "https://hub.baai.ac.cn/",
+          "snippet": "当复杂科学遇见地球系统：气候网络、复杂性与人工智能. 地球气候系统是受自然过程（包括大气环流、洋流、地质演变和生物地球 ...",
+          "position": 90
+        },
+        {
+          "title": "dbaplus社群：围绕Data、Blockchain、AiOps的企业级专业社群 ...",
+          "link": "https://dbaplus.cn/",
+          "snippet": "dbaplus社群：围绕Data、Blockchain、AiOps的企业级专业社群。技术大咖、原创干货，每天精品原创文章推送，每周线上技术分享，每月线下技术沙龙。",
+          "position": 91
+        },
+        {
+          "title": "精彩“云”课｜田野考察：口述史/ 何贝莉王沂·实验艺术学院",
+          "link": "https://www.cafa.edu.cn/st/2020/90120355.htm",
+          "snippet": "关于文件的具体格式和命名要求届时请参见课程教学群中发布的《2020口述史访谈技术清单》。 ... 《东哈莱姆区记忆：社区口述历史与多元性》 《记录口述历史》",
+          "date": "2020年3月4日",
+          "position": 92
+        },
+        {
+          "title": "工业设计- Xi'an Jiaotong-Liverpool University - 西交利物浦大学",
+          "link": "https://www.xjtlu.edu.cn/zh/study/industrial-design",
+          "snippet": "该实验室也是江苏省手工艺社群的集合，这里的材料种类十分繁多，包括竹、铜、土 ... 作为多学科的研究设计团队，我们旨在培养具有批判性和创新性思维的人才，不断开拓工业设计的 ...",
+          "position": 93
+        },
+        {
+          "title": "跨性别与顺女对谈：公共卫生间的恐惧和尴尬中 - 端傳媒",
+          "link": "https://theinitium.com/zh-hans/opinion/20230331-opinion-talk-toilet-public-space-use-trans-and-ciswomen",
+          "snippet": "“疫情爆发以来，我所在的社群好几次组织给低收入的人群包括流浪汉捐助口罩和食物。我们召集了许多第二代、第三代的亚裔移民，他们被认为是'模范少数族 ...",
+          "date": "2023年3月31日",
+          "position": 94
+        },
+        {
+          "title": "[DOC] 人类基因组编辑研究伦理指引 - 中华人民共和国科学技术部",
+          "link": "https://www.most.gov.cn/kjbgz/202407/W020240708406275511747.docx",
+          "snippet": "... 社群或国家；. （4）对某些群体的永久性基因“增强”，可能会有损人的尊严，加剧社会的不平等；. （5）生殖系基因组编辑的临床研究，应特别考虑个体和未来世代存在携带变异基因的可能 ...",
+          "position": 95
+        },
+        {
+          "title": "实验性设置- MC百科搜索- MC百科|最大的Minecraft中文MOD百科",
+          "link": "https://www.mcmod.cn/s?key=%E5%AE%9E%E9%AA%8C%E6%80%A7%E8%AE%BE%E7%BD%AE&mold=1",
+          "snippet": "社群(36) · 服务器(896). 1; 2 · 3 · 后页 · 尾页. 找到约75 条结果，共约3 页。 [耗时 ... 不过由于是实验性更新，稳定性未知，出现漏洞可以反馈。关于时装工坊模组：内测版 ...",
+          "position": 96
+        },
+        {
+          "title": "微笑实验室|密歇根大学弗林特分校",
+          "link": "https://www.umflint.edu/zh-CN/cit/research/smiles/",
+          "snippet": "社群意识 · 加入我们 · 校友 · 缩略语 · K-12 · 自学资料库 · 举报性行为不端、歧视和骚扰. 创新科技学院. 工程系统实验室的安全建模和智能学习. 创新科技学院 · 本科课程 ...",
+          "position": 97
+        },
+        {
+          "title": "[PDF] 跨儿的性别困惑与身份认同 - ACHPPI 国际华人心理与援助专业协会",
+          "link": "https://achppi.org/wp-content/uploads/2020/07/%E8%B7%A8%E5%84%BF%E7%9A%84%E6%80%A7%E5%88%AB%E5%9B%B0%E6%83%91%E4%B8%8E%E8%BA%AB%E4%BB%BD%E8%AE%A4%E5%90%8C.pdf",
+          "snippet": "• 缺乏与多元性别社群及同伴的接触 ... 现有志愿者30多人，包括性与性别少数人士、. 心理工作者、学生、友善人士等。 • 致力于通过社群服务、社群培力、调查研究、.",
+          "position": 98
+        },
+        {
+          "title": "[PDF] “同一个健康” 联合行动计划",
+          "link": "https://www.woah.org/app/uploads/2024/02/one-health-joint-plan-in-chinese.pdf",
+          "snippet": "会、弱势群体和土著社群）赋能学习、创新和适应通过合作和跨部门. 工作得到了加强 ... • 联合国生物多样性实验室. • 非洲化学品健全管理环境观察站（ChemoObs ...",
+          "position": 99
+        }
+      ],
+      "images": [
+        {
+          "title": "如何让男生参与性别议题讨论？在龙胜中学（分校）的一场“另类”女性主义 ...",
+          "imageUrl": "http://peerchina.org/wp-content/uploads/2023/12/frc-99c62ed52944d758fe5342b1f3af7a8e.jpeg",
+          "link": "http://peerchina.org/19378/"
+        },
+        {
+          "title": "分销涨价到停售？王六六裂变实验室2.0玩法大拆解| 人人都是产品经理",
+          "imageUrl": "https://image.woshipm.com/wp-files/2018/12/4CsEPvgf2GFXUKv7JO3a.jpeg",
+          "link": "https://www.woshipm.com/operate/1686605.html"
+        },
+        {
+          "title": "栢林基金｜我们的跨性别社群正在经历的至暗时刻_项目动态_正荣公益基金会",
+          "imageUrl": "http://www.zhenrogy.org/upload/2020/1609159008_6911436.jpg",
+          "link": "http://www.zhenrogy.org/project_view.asp?aid=3381"
+        },
+        {
+          "title": "暂停实验室",
+          "imageUrl": "https://static.gesedna.com/wp_uploads/2024/01/%E6%9A%82%E5%81%9C%E5%AE%9E%E9%AA%8C%E5%AE%A4-%E7%89%88%E5%A4%B4%E8%93%9D%E5%BA%95.jpg",
+          "link": "https://ebp.gesedna.com/pa-wechatgroup-rules/"
+        },
+        {
+          "title": "跨儿心理工作手册| 跨性别在线·文档库",
+          "imageUrl": "https://docs.transonline.org.cn/assets/img/07-SOC.4a864d63.jpeg",
+          "link": "https://docs.transonline.org.cn/kexl-work"
+        },
+        {
+          "title": "分销涨价到停售？王六六裂变实验室2.0玩法大拆解| 人人都是产品经理",
+          "imageUrl": "https://image.woshipm.com/wp-files/2018/12/JHYC5HycZfcfcEXXYV96.jpeg",
+          "link": "https://www.woshipm.com/operate/1686605.html"
+        },
+        {
+          "title": "巴西“计算机女孩”：大学生变导师推进性别平等| 联合国",
+          "imageUrl": "https://www.un.org/sites/un2.un.org/files/field/image/2023/03/microsoftteams-image_2.png",
+          "link": "https://www.un.org/zh/205359"
+        },
+        {
+          "title": "短视频时代的基层女性：被启蒙还是被遮蔽？",
+          "imageUrl": "https://imagecloud.thepaper.cn/thepaper/image/247/362/32.png",
+          "link": "https://m.thepaper.cn/newsDetail_forward_22699397"
+        },
+        {
+          "title": "跨儿心理工作手册| 跨性别在线·文档库",
+          "imageUrl": "https://docs.transonline.org.cn/assets/img/09-report.d0df6e40.jpeg",
+          "link": "https://docs.transonline.org.cn/kexl-work"
+        }
+      ],
+      "relatedSearches": [
+        {
+          "query": "中国lgbt现状"
+        },
+        {
+          "query": "友跨顺男什么意思"
+        },
+        {
+          "query": "习近平 LGBT"
+        },
+        {
+          "query": "友跨什么意思"
+        },
+        {
+          "query": "上海 LGBT"
+        },
+        {
+          "query": "lgbt群体"
+        },
+        {
+          "query": "lgbt有多少种"
+        },
+        {
+          "query": "LGBT 活动"
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "性别实验 社群",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "國立和美實驗學校- 無障礙友善校園",
+          "link": "https://www.nhes.edu.tw/",
+          "snippet": "... 性平教育議題融入特殊需求領域社會技巧」二門課程手冊 · 【轉知】國教階段特殊 ... 2024-11-01 轉知「113學年度精進高級中等學校課程與教學-自主學習社群系列工作坊」.",
+          "position": 1
+        },
+        {
+          "title": "“固执一点去追求你真正喜欢的东西” - 上海科技报",
+          "link": "https://www.shkjb.com/content.html?id=235981",
+          "snippet": "... 性别差距仍在持续，女性在这些领域的代表性仍然不足，尤其是在相对高级的 ... 当时她就想做研究，敲了很多实验室的门，都被拒绝了。很多人对她说 ...",
+          "date": "8天前",
+          "position": 2
+        },
+        {
+          "title": "搜索 - 国家地球系统科学数据中心",
+          "link": "https://www.geodata.cn/data/",
+          "snippet": "... 性积雪 山地冰川 南安第斯山 高亚洲 航道设计 接地线 气象因素 营养素 数据来源 剖面类型 剖面位置 栖息密度 季风实验 头足类 其他类 灾害地质 海洋工程地质 资料 钻井 ...",
+          "position": 3
+        },
+        {
+          "title": "Z世代二次元消费三重逻辑：角色消费、社群经济与同人创作 - 川观新闻",
+          "link": "https://cbgc.scol.com.cn/news/5584456",
+          "snippet": "澎湃研究所研究员7月-9月在百联ZX创趣场、静安大悦城、百米香榭等 ... “二次元”社群有非常多的仪式性活动，例如为虚拟偶像办线上生日会，线下的 ...",
+          "date": "4天前",
+          "position": 4
+        },
+        {
+          "title": "中外合作办学可持续性发展研修项目 - 西交利物浦大学",
+          "link": "https://www.xjtlu.edu.cn/zh/study/departments/academy-of-future-education/institute-of-leadership-and-education-advanced-development/training-consultation/sustainable-development-for-sino-foreign-cooperation-in-running-schools-course",
+          "snippet": "研究中心、实验室、研究院及学院. 学院. 学院 · 学院与教学中心 · 影视与创意科技 ... 打造教育创新的全球化社群 · 高等教育创新年会 · 西浦全国大学教学创新大赛 · 西浦教育 ...",
+          "position": 5
+        },
+        {
+          "title": "工业和信息化部电子第五研究所加入中汽学会团体会员",
+          "link": "https://www.sae-china.org/news/members/202105/4398.html",
+          "snippet": "资质与授权. 国际电工委员会IECQ中国国家监督机构（NSI）. 国家汽车电子产品质量监督检验中心. 电子元器件可靠性物理及其应用技术国家重点实验室 ... 技术社群.",
+          "date": "2021年5月17日",
+          "position": 6
+        },
+        {
+          "title": "[PDF] 社會交換視角下的信任—性別與異質性的社會資本",
+          "link": "https://www.ea.sinica.edu.tw/UploadFile_SYS/QHisSea/50-2-8.pdf",
+          "snippet": "社. 會學家、政治學家、經濟學家，甚至神經科學家都有涉入信任的. 研究，然而鮮少有跨領域之間的合作。本研究結合實驗經濟學的. 實驗法，從社會交換的過程來探討信任行為的 ...",
+          "position": 7
+        },
+        {
+          "title": "内蒙古自治区马属动物科学研究与技术创新重点实验室",
+          "link": "https://kyc.imau.edu.cn/info/1251/4532.htm",
+          "snippet": "对马属动物肠道菌群组成及多样性进行研究，确定不同品种、不同年龄、不同 ... 科技成果：4304788 / 人文社科：4304589.",
+          "date": "2023年8月15日",
+          "position": 8
+        },
+        {
+          "title": "Listings for 重庆试管婴儿男女(10951068微信 ... - Steam Community",
+          "link": "https://steamcommunity.com/market/listings/730/%E9%87%8D%E5%BA%86%E8%AF%95%E7%AE%A1%E5%A9%B4%E5%84%BF%E7%94%B7%E5%A5%B3(10951068%E5%BE%AE%E4%BF%A1)%E9%87%8D%E5%BA%86%E8%AF%95%E7%AE%A1%E5%A9%B4%E5%84%BF%E7%94%B7%E5%A5%B3",
+          "snippet": "Buy and sell Counter-Strike 2 items on the Steam Community Market for Steam Wallet funds.",
+          "position": 9
+        },
+        {
+          "title": "中国海洋大学",
+          "link": "https://www.ouc.edu.cn/",
+          "snippet": "【新闻联播】习近平给中国海洋大学全体师生回信强调加强原创性引领性海洋科技攻关努力培养更多胸怀蓝色梦想堪当时代重任的优秀海洋人才. 【新华社】习近平给中国海洋大学 ...",
+          "position": 10
+        },
+        {
+          "title": "道德的功利性与返本归真 - 中小学网络党校",
+          "link": "http://www.zxxdx.com.cn/sztsg/mblm/2017-03-30/10731.html?bclassid=2032&domain=library.ttcdw.com&id=118405",
+          "snippet": "无论是形而上学的思辨还是心理学的实验，都向世界揭示了人性深处 ... 性社群、记忆性社群和心理性社群。那么，这些社群都被历史的现代化进程所 ...",
+          "date": "2016年4月8日",
+          "position": 11
+        },
+        {
+          "title": "产品可靠性暨系统安全研发中心 - InnoHK",
+          "link": "https://www.innohk.gov.hk/zh-cn/r-d-centres/air-innohk/centre-for-advances-in-reliability-and-safety/",
+          "snippet": "中心采用全新的方式开展研究计划，结合可靠性模型，利用人、机、物、法等概念 ... 更重要的是，这里拥有卓越的基建和优秀的创科社群，有助我们吸引从事人工智能及 ...",
+          "position": 12
+        },
+        {
+          "title": "如何提高分析结果的准确性 - LinkFlow",
+          "link": "https://linkflowtech.com/news/1797",
+          "snippet": "在科学研究和技术开发中，任何错误的结论都可能会导致不良后果，因此提高分析结果的准确性是保证实验和研究的可靠性的关键。 ... 加入社群. 多乐运动商城.",
+          "date": "2023年3月20日",
+          "position": 13
+        },
+        {
+          "title": "《实验动物术语》等8项实验动物国家标准发布",
+          "link": "https://www.cnilas.org/Detail/708_5916",
+          "snippet": "尤其是同种品系个体之间也存在遗传漂变的可能性，不同实验室培育的同种品系也应加以区别。 ... 群（远交群）和杂交群的命名。本标准适用于实验动物小 ...",
+          "date": "2021年3月31日",
+          "position": 14
+        },
+        {
+          "title": "甘肃省分析测试中心赴北京参加重大科研基础设施和大型科研仪器 ...",
+          "link": "http://kjt.gansu.gov.cn/kjt/c111533/202410/174011291.shtml",
+          "snippet": "培训班邀请专家围绕科研设施与仪器的开放共享政策制度、评价考核的核心要点、国家网络管理平台的构建与发展、科研仪器的购置合理性论证、实验技术人才的 ...",
+          "date": "7天前",
+          "position": 15
+        },
+        {
+          "title": "按关键词检索 - 中国水产科学",
+          "link": "https://www.fishscichina.com/zgsckx/article/search?jid=zgsckx&field=en_key_word&key=%20male%20size",
+          "snippet": "金乌贼雄性规格和社群数量对求偶与交配行为的影响柏青青, 张东雪, 王林龙, 王展, 李文涛, 张秀梅,2020, 27(2):147-157.DOI: 10.12264/6180摘要(342) HTML (459) PDF ...",
+          "position": 16
+        },
+        {
+          "title": "对话成都8大社区主理人，分享理想社区的商业模样 - 赢商网",
+          "link": "http://news.winshang.com/html/071/4335.html",
+          "snippet": "近年来，成都的主理人经济发展如火如荼——有关数据显示成都的主理人数量已经超过3000+，5月中旬全国首个主理人共享平台——CSC主理人共享实验 ... 社区门店的显性 ...",
+          "date": "2023年6月30日",
+          "position": 17
+        },
+        {
+          "title": "友情链接 - MtF.wiki",
+          "link": "https://mtf.wiki/zh-cn/docs/friendship/",
+          "snippet": "PLCT实验室为女性及少数群体预留50% 名额。 ＊ PLCT 实验室实习生火热招新 ... 本bot 是社群伙伴自发建立的民间公益平台。目前由单人运营，以非营利、扎根跨性别 ...",
+          "position": 18
+        },
+        {
+          "title": "实验流行病学_百度百科",
+          "link": "https://baike.baidu.com/item/%E5%AE%9E%E9%AA%8C%E6%B5%81%E8%A1%8C%E7%97%85%E5%AD%A6/6540669",
+          "snippet": "实验流行病学亦称干预研究，是指以人群为研究对象，以医院、社区、工厂、学校等现场为“实验室”的实验性研究。实验流行病学研究是流行病学研究的主要方法之一。",
+          "position": 19
+        },
+        {
+          "title": "了解畫布應用程式中的新功能、預覽功能、實驗功能和停用功能",
+          "link": "https://learn.microsoft.com/zh-tw/power-apps/maker/canvas-apps/working-with-experimental-preview",
+          "snippet": "將您的意見反應張貼於Power Apps 社群論壇。 功能推出階段. 簡而言之，這些階段是：. 新增： 這些功能是新的且已經正式發佈(GA)、完全受支援且有文件 ...",
+          "date": "2024年7月22日",
+          "position": 20
+        },
+        {
+          "title": "慢性阻塞性肺病动物模型 - scireq",
+          "link": "https://www.scireq.com/zh-CN/resources/copd%E5%8A%A8%E7%89%A9%E6%A8%A1%E5%9E%8B/",
+          "snippet": "社群意识 · 会见专家 · 资源 · 呼吸研究基金会 · 主持会议 · 上传.TSF文件 · 公司介绍 · 联系 ... 几个实验因素会影响实验的标准化和可重复性：. 暴露时间： 应报告暴露协议的 ...",
+          "position": 21
+        },
+        {
+          "title": "跨儿心理工作手册 - 跨性别在线·文档库",
+          "link": "https://docs.transonline.org.cn/kexl-work",
+          "snippet": "本手册中的这一分类方法，参考了美国心理学会的相关分类及中国大陆跨儿社群中的实际状况。一位跨儿可能会认同自己属于其中的一个或几个群体，也可以不会认同自己属于跨儿或 ...",
+          "position": 22
+        },
+        {
+          "title": "網路時代下的新形態暴力：談數位性別暴力防制",
+          "link": "https://www.goh.org.tw/perspectives/online-and-technology-facilitated-gender-based-violence/",
+          "snippet": "社群媒體平台和科技公司提供其服務和產品予民眾使用，也須肩負起企業責任，當數位性別暴力事件發生時，能及時協助撤下遭流傳的私密檔案、協助被害者蒐集證據 ...",
+          "date": "2023年9月22日",
+          "position": 23
+        },
+        {
+          "title": "Arup Das 博士实验室 - UNM健康科学",
+          "link": "https://zh-cn.hsc.unm.edu/medicine/departments/ophthalmology/research/das-lab.html",
+          "snippet": "社群意识. 校友 · 给予 · 多元化，公平与包容 · 病人护理 · 学院目录 · 关于医学院. 部门. 部门 ... 一项评估Faricimab (RO6867461) 在糖尿病黄斑水肿患者中的疗效和安全性的 ...",
+          "position": 24
+        },
+        {
+          "title": "技术与性别平等：让妇女和女童成为创新的中心 - the United Nations",
+          "link": "https://www.un.org/zh/203999",
+          "snippet": "老桥是一个以农业为主的土著社区，依靠独木舟运输产品、获取服务。联合国妇女署/Ryan Brown. 妇女地位委员会第六十七届会议— 2023年3月6-17日. 技术与性别平等：让妇女和 ...",
+          "position": 25
+        },
+        {
+          "title": "梦想时间| UCCA尤伦斯当代艺术中心",
+          "link": "https://ucca.org.cn/exhibition/dream-time/",
+          "snippet": "在本次群展中，15位（组）艺术家将通过绘画、雕塑、摄影、影像、装置和表演等多元媒介的作品，探究梦同时作为梦境与预想的丰富涵义，共同参与对主体性和赋权的探索。作为极为 ...",
+          "position": 26
+        },
+        {
+          "title": "思想验证区域：The Community - 电视剧- 豆瓣",
+          "link": "https://m.douban.com/movie/subject/36722428/",
+          "snippet": "具有不同理念的12人在9天的集体住宿期间形成一个社群的社会实验， ... 性别的社会话题了.",
+          "position": 27
+        },
+        {
+          "title": "成人__性別天生：一個性別實驗犧牲者的真實遭遇",
+          "link": "https://www.gender.edu.tw/web/index.php/m5/m5_02_01_01?sid=247",
+          "snippet": "作者對曼尼成為世界性學研究的大師的過程有十分批判性的評論。作者指出曼尼的推論錯誤：他原本研究的是 ... 社群分享. Facebook · Twitter · line分享. 圖示-Logo.",
+          "position": 28
+        },
+        {
+          "title": "研究實驗室 - 資訊工程系",
+          "link": "https://www.csie.ntust.edu.tw/p/412-1038-3010.php?Lang=zh-tw",
+          "snippet": "研究實驗室. 實驗室名稱 ... 連結性實驗室, RB507-1, 鄭欣明, 02-27333141轉7677. 雲端計算暨網路實驗室, RB307-1, 沈上翔, 02-27333141轉7323. 資料探勘與社群網路分析實驗 ...",
+          "position": 29
+        },
+        {
+          "title": "Milli-Q®实验室纯水解决方案 - Sigma-Aldrich",
+          "link": "https://www.sigmaaldrich.com/TW/zh/campaigns/milli-q-water-purification-solutions?srsltid=AfmBOoqz36FDx2pY_945e9EzuOzZTxYLCMSQNt9dWXPAvrhZRbqfQyPX",
+          "snippet": "针对纯水系统全面合规性和实验室认证的校准、校验和适用性测试. MyMilli-Q ... 社群媒體. LinkedIn icon · Twitter icon · Facebook Icon · Instagram Icon · YouTube ...",
+          "position": 30
+        },
+        {
+          "title": "龙芯实验室",
+          "link": "https://www.loongson.cn/application/list?id=38",
+          "snippet": "现代高性能处理器设计日益复杂，如何在提高性能的同时保障安全性是一个很值得研究的课题。 ... 2023年5月龙芯实验室主任张福新参加中科院计算所刊群联合CCF举办的ICT-Journals ...",
+          "position": 31
+        },
+        {
+          "title": "年齡與性別如何干擾社群商務意圖的影響因素",
+          "link": "https://www.airitilibrary.com/Article/Detail/U0004-G0109363092",
+          "snippet": "年齡與性別如何干擾社群商務意圖的影響因素– 以新冠肺炎之下的Instagram 為例. Moderating Effects of Age and Gender on the Factors Influencing Social Commence ...",
+          "position": 32
+        },
+        {
+          "title": "[PDF] 遍及全球的十大生物多样性司法案例 - ClientEarth",
+          "link": "https://www.clientearth.org/media/aohe40ut/%E5%85%A8%E7%90%83%E5%8D%81%E5%A4%A7%E7%94%9F%E7%89%A9%E5%A4%9A%E6%A0%B7%E6%80%A7%E6%A1%88%E4%BE%8B%E9%9B%86-%E7%BB%88%E7%A8%BF.pdf",
+          "snippet": "面临威胁，从而“对生态完整性造成. 损害”。 此外，最高法院特别重视公众的积. 极参与，包括后代、受影响的社群、. 科学机构或环境研究组织，以及利益. 相关的一般公众。从 ...",
+          "position": 33
+        },
+        {
+          "title": "網路聲量拆解術：社群大數據分析的八大指標- OpView",
+          "link": "https://www.opview.com.tw/%E8%A3%9C%E7%B5%A6%E7%AB%99/20211110/23201",
+          "snippet": "... ，其重要性對於產業品牌、政府官員、研究 ... Social Lab社群實驗室： https://www.social-lab ...",
+          "position": 34
+        },
+        {
+          "title": "实验室危险物质列表- 維基學院，自由的研習社群",
+          "link": "https://zh.wikiversity.org/wiki/%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%8D%B1%E9%99%A9%E7%89%A9%E8%B4%A8%E5%88%97%E8%A1%A8",
+          "snippet": "... 性的单独列出。 物质, 化学式, 危险性. 强酸 盐酸、甲基磺酸等, 腐蚀性. 硫酸, H2SO4, 腐蚀性，脱水性，引起严重烧伤. 高氯酸, HClO4, 腐蚀性，和有机物 ...",
+          "date": "2020年2月27日",
+          "position": 35
+        },
+        {
+          "title": "基因编辑出错可能改变人类物种- BBC 英伦网",
+          "link": "https://www.bbc.com/ukchina/simp/vert-fut-57009821",
+          "snippet": "这个领域在过去的研究实验中充满了错误和意外。 最近，伦敦 ... 图像加注文字, 始创者效应会扭曲小社群的人口基因率，据信这就是导致马拉 ...",
+          "date": "2021年5月6日",
+          "position": 36
+        },
+        {
+          "title": "牧原实验室生物基材料研究中心杨健项目组【生物材料方向】助理 ...",
+          "link": "https://www.gaoxiaojob.com/announcement/detail/264444.html",
+          "snippet": "5、负责实验室安全及其他临时性工作。 应聘条件：. 1、具有高分子 ... 精选社群. 每天1000+人才加入查看更多>>. 硕士求职事业编制群. 微信扫码进群.",
+          "date": "3天前",
+          "position": 37
+        },
+        {
+          "title": "【轉知】「社群網路中的性別歧視與性別暴力探討」座談會",
+          "link": "https://gender-equality.cmu.edu.tw/zh-hant/node/187",
+          "snippet": "協助弱勢團結、集起捍衛自己的助力？整個台灣網路社群，以及涉及的不同的利害關係人或團體，又如何彼此教育、合作，應對包括未經同意散布私密性影像、言語暴力 ...",
+          "date": "2021年5月10日",
+          "position": 38
+        },
+        {
+          "title": "培养更多生命科学拔尖人才 - 光明网-理论频道",
+          "link": "https://theory.gmw.cn/2024-11/03/content_37654119.htm",
+          "snippet": "... 实验背景知识、实验技能、实验分析能力参差不齐的情况，建立必修实验课免修体系，因材施教；开设暑期前沿实验模块课，让本科生有机会尽早进行开放性科研探索……",
+          "date": "23小时前",
+          "position": 39
+        },
+        {
+          "title": "人民网评：净化同城版块共筑清朗网络空间",
+          "link": "http://opinion.people.com.cn/n1/2024/1101/c223228-40352219.html",
+          "snippet": "此次专项行动打击更精准、治理更聚焦，可谓正逢其时、意义重大。 互联网一方面具有全球性，万物互联、无远弗届；另一方面具有社群性，易因地域、爱好等 ...",
+          "date": "3天前",
+          "position": 40
+        },
+        {
+          "title": "河南省推动“人工智能+”行动计划 - 全国投资项目在线审批监管平台",
+          "link": "https://new.tzxm.gov.cn/zckd/fzgh/202410/t20241031_1394152.shtml",
+          "snippet": "... 实验数据，开展全基因组选择育种、新材料分析、蛋白质序列和创新药物化学 ... 聚焦“7+28+N”产业链群，支持链主企业联合人工智能企业构建工业大 ...",
+          "date": "4天前",
+          "position": 41
+        },
+        {
+          "title": "設備/線上教育訓練課程/預約申請> 國研大樓共同實驗室",
+          "link": "https://www.kmuh.org.tw/web/kmuhdept/6800/%E5%84%80%E5%99%A8%E8%A8%AD%E5%82%99%E7%B7%9A%E4%B8%8A%E6%95%99%E8%82%B2%E8%A8%93%E7%B7%B4%E8%AA%B2%E7%A8%8B%E9%A0%90%E7%B4%84%E7%94%B3%E8%AB%8B/%E5%9C%8B%E7%A0%94%E5%A4%A7%E6%A8%93%E5%85%B1%E5%90%8C%E5%AF%A6%E9%A9%97%E5%AE%A4.aspx",
+          "snippet": "學術研究社群專區 · 台灣精準醫療計畫專區 · 共同實驗室申請 · 服務項目 · 共同討論室借用 ... 提供研究空間及共用性高之基礎儀器、設備，支援本院推動醫學相關研究，並 ...",
+          "position": 42
+        },
+        {
+          "title": "[PDF] 巨量資料中的小世界–– 漫談社群網路 - 台大電機系",
+          "link": "https://ee.ntu.edu.tw/upload/hischool/doc/2014.05.pdf",
+          "snippet": "因此，可以想見這種人. 工方式所蒐集建構出來的社群網路不僅資料量少，所描述的社交結構也僅限於區域性的，難以蒐集到. 完整的朋友資訊，加上紙筆所能描繪的網路大小有所限制， ...",
+          "position": 43
+        },
+        {
+          "title": "欢迎访问软件学报网站！",
+          "link": "https://www.jos.org.cn/",
+          "snippet": "由于多视图数据特征复杂, 多视图离群检测已经成为离群点检测中一个极具挑战性的研究课题. ... 因此我们研究:公司参与会对开源社区带来怎样的影响?面向三个技术同构的 ...",
+          "position": 44
+        },
+        {
+          "title": "腾讯云开发者社区",
+          "link": "https://cloud.tencent.com/developer",
+          "snippet": "然而，多级缓存架构也带来了一致性问题，即不同层次的缓存之间数据不一致的情况。 ... 资源. 技术周刊 · 社区标签 · 开发者手册 · 开发者实验室. 关于. 社区规范 · 免责声明 ...",
+          "position": 45
+        },
+        {
+          "title": "交織性研究方法 - 性別化創新",
+          "link": "http://genderedinnovations.taiwan-gist.net/methods/factors.html",
+          "snippet": "這類的因子可能得以揭示出僅使用生理性別作為變因時，未能看清之性別差異子群（請見案例研究：基因營養學）。 ... 量化研究（例如問卷調查、社群媒體資料、購物與註冊資料）則讓 ...",
+          "position": 46
+        },
+        {
+          "title": "浙江省科学技术厅关于组织申报2025年度省软科学研究计划项目的通知",
+          "link": "https://kjt.zj.gov.cn/art/2024/10/31/art_1229225203_5391543.html",
+          "snippet": "研究内容：完善新型实验室和技术创新中心体系、高水平新型研发机构、重大科技基础设施群 ... 研究内容存在较高相似性的，不予推荐。 三、申报程序. （一）网上 ...",
+          "date": "4天前",
+          "position": 47
+        },
+        {
+          "title": "流脑 - 中国疾控中心免疫规划中心--病种详情",
+          "link": "https://www.chinacdc.cn/nip/kpyd/xjxcrb/ln/",
+          "snippet": "此外，还应对密切接触者采取预防性服药措施，选择敏感抗生素进行预防性服药。 3. 应急接种：根据流脑病例实验室诊断、人群免疫监测和菌群监测等结果，选择疫苗的种类并尽快组织 ...",
+          "position": 48
+        },
+        {
+          "title": "以实干担当推动改革行稳致远——习近平总书记在省部级主要领导 ...",
+          "link": "http://www.qstheory.cn/qshyjx/2024-11/03/c_1130215938.htm",
+          "snippet": "认真学习习近平总书记的重要讲话，站前社区党委书记李小丽有了更深的认识。“总书记说了，我们的改革是有方向、有原则的。”她表示，坚持以人民为中心就是必须 ...",
+          "date": "22小时前",
+          "position": 49
+        },
+        {
+          "title": "AB实验系列一：基础概念 - 传播蛙",
+          "link": "https://www.wlcbw.com/78827.html",
+          "snippet": "实验中的不同组应该是同质的，这意味着它们都相同或极其相似以确保结果可比性，这通常通过平台工具随机分流来实现。实验也应该是公正的，核心指标只受实验 ...",
+          "date": "2022年9月5日",
+          "position": 50
+        },
+        {
+          "title": "[PDF] 淺談青少年與社群媒體上的從眾現象 - 臺灣教育評論學會",
+          "link": "http://www.ater.org.tw/journal/article/8-7/free/15.pdf",
+          "snippet": "性，而易於產生較多的負面從眾行為。 Page 3. 臺灣教育評論月刊，2019，8（7 ... “隨大流”現象中的從眾行為－從從眾. 實驗研究中認識從眾行為。人才資源開發，6，26 ...",
+          "position": 51
+        },
+        {
+          "title": "代谢性酸中毒 - NYSORA",
+          "link": "https://www.nysora.com/zh-CN/%E9%BA%BB%E9%86%89/%E4%BB%A3%E8%B0%A2%E6%80%A7%E9%85%B8%E4%B8%AD%E6%AF%92/",
+          "snippet": "诊断 · 病史：确定潜在原因（呕吐、腹泻、药物、可能的药物过量、慢性疾病，例如糖尿病) · 体格检查：糖尿病酮症酸中毒粘膜干燥，代偿性过度通气 · 实验室测试；. 血液pH <7.35 ...",
+          "position": 52
+        },
+        {
+          "title": "做跨性手術前還要先演戲？ 讓跨性別者陷入難關的精神鑑定",
+          "link": "https://newslab.nccu.edu.tw/PageDoc/Detail?fid=10782&id=23245",
+          "snippet": "過了十年，仍是只聞樓梯響。吳伊婷表示，政府公告發布後，跨性別社群有許多反彈聲浪，內部並沒有取得共識。有一派堅信，取得精神診斷 ...",
+          "date": "2023年6月23日",
+          "position": 53
+        },
+        {
+          "title": "與研究相關之倫理定義 - 臺灣學術倫理教育資源中心",
+          "link": "https://ethics.moe.edu.tw/files/demo/demo_u01/p02.html",
+          "snippet": "... 研究社群對我國的研究成果產生較高的質疑。因此，基於研究工作之特殊性與重要性，以及違反倫理會產生的影響，研究倫理規範的建立實有其迫切性與必要性。 從字面上來看 ...",
+          "position": 54
+        },
+        {
+          "title": "A/B Test 基礎概念篇| 了解A/B Testing 對於優化行銷轉換率的重要性！",
+          "link": "https://ryzo.io/ab-test-tutorial/",
+          "snippet": "如上述提到的，A/B 測試就是將要測試的項目分別做成A版及B版（甚至 ... 社群、銷售」 · 媒體和活動 · 2023 台灣Martech 地圖｜WEBA 入列「體驗、社群 ...",
+          "date": "2020年12月24日",
+          "position": 55
+        },
+        {
+          "title": "十项主要任务！北京市教育领域人工智能应用工作方案发布",
+          "link": "https://www.edu.cn/xxh/focus/zc/202410/t20241029_2639150.shtml",
+          "snippet": "... 社协同育人、教育治理模式创新5类典型 ... 探索AI情景式教学，营造身临其境的学习体验，创设模拟仿真实验空间和实践环境，有效支撑教师实验实践教学。",
+          "date": "6天前",
+          "position": 56
+        },
+        {
+          "title": "以实干担当推动改革行稳致远——习近平总书记在省 ... - 最高人民检察院",
+          "link": "https://www.spp.gov.cn/spp/tt/202411/t20241102_670811.shtml",
+          "snippet": "社区与千家万户紧密相连，基层干部要多跑、多问、多听、多想，当好群众的“服务员”。 习近平总书记强调“突出经济体制改革这个重点，全面协调推进各方面改革”， ...",
+          "date": "24小时前",
+          "position": 57
+        },
+        {
+          "title": "返乡“新农人” 逐梦田野间 - 福建省人民政府",
+          "link": "https://www.fujian.gov.cn/zwgk/ztzl/sxzygwzxsgzx/flsxkmh/202411/t20241103_6557243.htm",
+          "snippet": "一年来，他们以直播带货和社群宣推等方式，宣传推广诏安八仙茶、青梅制品 ... 陈春光说，目前他的果桑种植面积已达100多亩，其中反季实验果园扩 ...",
+          "date": "1天前",
+          "position": 58
+        },
+        {
+          "title": "持续为国“加油”——65岁大庆油田上扬成长的“第二曲线” - 新华网",
+          "link": "http://www.news.cn/politics/20241103/c649e3f5bf3a4d2e860a0f6a989fb686/c.html",
+          "snippet": "... 性风景。 这是大庆油田2号丛式井组群（2021年1月7日摄）。新华社记者王松摄. “保持稳产是采油队的根本。”在大庆油田第一采油厂第三作业区中四采油队 ...",
+          "date": "10小时前",
+          "position": 59
+        },
+        {
+          "title": "優先管理與管制性化學品 - 國立陽明交通大學環境保護暨安全衛生中心",
+          "link": "https://cesh.nycu.edu.tw/cesh/ch/app/artwebsite/view?module=artwebsite&id=1590&serno=0659c066-54aa-4dd8-81b3-8f4aff376f22",
+          "snippet": "社群分享. facebook; Line; Twitter; LinkedIn. 搜尋. 展開選單. ::: 網站導覽 回首頁 EN ... 基因重組暨感染性生物材料實驗申請 · 相關資訊 · 相關資源 · 生物材料申請 ...",
+          "position": 60
+        },
+        {
+          "title": "读懂《实验动物许可证管理办法（试行）》，动物实验不“踩雷”",
+          "link": "https://www.cloud-clone.cn/topic/202009241500053542.html",
+          "snippet": "实验动物作为科研重要的一环，如何正确安全地使用实验动物值得重视，它与科研结果的准确性、是否能发表等密切相关，关键记住以下几点。",
+          "date": "2020年9月24日",
+          "position": 61
+        },
+        {
+          "title": "学校召开2024年高等教育质量监测数据填报工作协调会 - 沈阳师范大学",
+          "link": "https://www.synu.edu.cn/2024/1030/c6484a96319/pagem.htm",
+          "snippet": "... 群机构. 党政办公室; 党委组织部（党校） · 党委宣传部; 党委统战部; 工会; 团委 ... 实验教学中心 · 图书馆（档案馆） · 后勤集团; 学报编辑部; 网络信息中心.",
+          "date": "5天前",
+          "position": 62
+        },
+        {
+          "title": "科技创业能力，南京全国第三_中共江苏省委新闻网",
+          "link": "https://www.zgjssw.gov.cn/shixianchuanzhen/nanjing/202411/t20241103_8420515.shtml",
+          "snippet": "位于江宁区的紫金山实验室，成立6年已先后发布重大原始创新成果近30项，并建立了业界首个6G实验 ... 社科规划网 | 江苏省人民政府台湾事务办公室. 设为 ...",
+          "date": "1天前",
+          "position": 63
+        },
+        {
+          "title": "直擊大選假訊息：中國假訊息行動開始質疑美國大選的公正性",
+          "link": "https://www.voacantonese.com/a/spamouflage-election-fraud-20241101/7849396.html",
+          "snippet": "這些指控並非原創，類似的指控先前就已經在美國的社群媒體上廣泛傳播。 美國之音與民主實驗室的這一最新發現符合我們對「垃圾偽裝」帳號過去幾個月裡發布的 ...",
+          "date": "12小时前",
+          "position": 64
+        },
+        {
+          "title": "我校师生在第七届“外教社杯”全国高校学生跨文化能力大赛天津赛区 ...",
+          "link": "https://www.tjufe.edu.cn/info/1110/22981.htm",
+          "snippet": "... 实验班2301）徐璐璐、曲美茹三等奖刘楚（广播电视学2201）任龙晋（ ... 群团组织 · 研究机构. 人才培养. 本科生教育 · 研究生教育 · MBA教育 · 留学生 ...",
+          "date": "5天前",
+          "position": 65
+        },
+        {
+          "title": "新时代中国调研行之看区域·西部篇｜大国工程看西部：探苍穹 - 新华社",
+          "link": "https://h.xinhuaxmt.com/vh512/share/12262417?d=134dacf&channel=weixin&time=1730622513590",
+          "snippet": "... 实验飞船神舟一号在酒泉卫星发射中心发射升空。新华社发. “应该说自从进入 ... 贵州平塘，连绵群山似凝固的波涛。“海浪”中央，“中国天眼”遥望宇宙 ...",
+          "date": "17小时前",
+          "position": 66
+        },
+        {
+          "title": "直击大选假信息：中国虚假信息行动开始质疑美国大选的公正性",
+          "link": "https://www.voachinese.com/a/spamouflage-election-fraud-20241101/7848137.html",
+          "snippet": "声明表示，这群人是前来申请邮寄投票的。投票站的工作人员和这群选民 ... 民主实验室在分析了这些贴文的内容后总结道，瓦解民众对美国的信任是 ...",
+          "date": "13小时前",
+          "position": 67
+        },
+        {
+          "title": "斯坦坎普实验室| 病理科| UNM 医学院",
+          "link": "https://zh-cn.hsc.unm.edu/medicine/departments/pathology/research/labs/steinkamp.html",
+          "snippet": "社群意识. 校友 · 给予 · 多元化，公平与包容 · 病人护理 · 学院目录 · 关于医学院. 部门. 部门 ... Mara P. Steinkamp 的研究重点是使用源自患者的播散性卵巢癌模型进行卵巢 ...",
+          "position": 68
+        },
+        {
+          "title": "解读2024年前三季度海洋经济运行情况 - 中国政府网",
+          "link": "https://www.gov.cn/lianbo/bumen/202411/content_6984233.htm",
+          "snippet": "海洋油气增储上产持续推进，前三季度，我国在南海探获全球首个超深水超浅层大型气田“陵水36-1”，北部湾乌石17-2油田群和23-5油田群、海南“深海一号”二 ...",
+          "date": "3天前",
+          "position": 69
+        },
+        {
+          "title": "理大科學家利用量子微型處理器晶片實現革命性分子譜模擬計算 - PolyU",
+          "link": "https://www.polyu.edu.hk/sc/media/media-releases/2024/0814_polyu-scientists-harness-quantum-microprocessor-chips",
+          "snippet": "国家重点实验室及国家工程技术研究中心香港分中心. 国家钢结构工程技术 ... 国际化社群 · 环球视野课程 · 国际伙伴和合作 · 放眼中国 · 校园生活. Campus ...",
+          "date": "2024年8月19日",
+          "position": 70
+        },
+        {
+          "title": "卢凯 - 华南理工大学",
+          "link": "https://www2.scut.edu.cn/jtxy/2018/0321/c1891a258583/page.htm",
+          "snippet": "[2] 2013年11月，交通信号协调控制理论模型与方法（专著），人民交通出版社，独著。 [3] 2014年8月，交通工程实验指导书（交通版高等学校交通工程专业 ...",
+          "date": "2018年3月21日",
+          "position": 71
+        },
+        {
+          "title": "“起跑”即加速，奋进产业创新之路 - 无锡市人民政府",
+          "link": "https://www.wuxi.gov.cn/doc/2024/11/03/4425029.shtml",
+          "snippet": "“与江南大学共建实验室，机械专业的学生与企业互动频繁。”企业相关负责人说，企业在发展过程中，越来越清晰地发现自身研发能力提高的重要性，在不断 ...",
+          "date": "1天前",
+          "position": 72
+        },
+        {
+          "title": "病毒性心肌炎动物模型【动物实验代做】_企业动态 - 丁香通",
+          "link": "https://m.biomart.cn/news/16/3069489_0.htm",
+          "snippet": "【模型特点】实验性病毒性心肌炎感染模型复制比较困难，国外通常选用 ... 扫码关注「实验菌」，入科研社群，领学习资源. 更有优质直播、研选好物 ...",
+          "date": "2022年10月11日",
+          "position": 73
+        },
+        {
+          "title": "【真相與勇氣的追擊之路】虛假資訊在社群平台上帶風向成民主社會 ...",
+          "link": "https://tfc-taiwan.org.tw/articles/7951",
+          "snippet": "在個人政治立場極化、缺乏媒體素養技能與政治類事實查核的環境下，皆有利假新聞傳播。 吳銘軒則呼籲「推薦演算法改變」與「形成社會規範」的重要性。他認為 ...",
+          "date": "2022年7月29日",
+          "position": 74
+        },
+        {
+          "title": "馨合有限公司｜徵才中 - 104人力銀行",
+          "link": "https://www.104.com.tw/company/1a2x6bjt9i",
+          "snippet": "反思共學的方式讓每個孩子在同伴的支持下，勇敢表達自己的想法，形成一個積極互動的學習社群。 「波莫納實驗教育」的目標是建立一個跨學科的終身學習體系，從學齡前到 ...",
+          "rating": 5,
+          "ratingCount": 2,
+          "position": 75
+        },
+        {
+          "title": "性取向不是后天形成的10个原因 - 搜狐",
+          "link": "https://www.sohu.com/a/8480982_128338",
+          "snippet": "近年来，关于人类性取向成因的的话题不仅在LGBT社群（女同性恋者（Lesbians）、男同性恋者（Gays）、双性恋者（Bisexuals）与跨性别者（Transgender）构成的 ...",
+          "date": "2015年3月29日",
+          "position": 76
+        },
+        {
+          "title": "实验:金镜反应- 维基学院，自由的研习社群",
+          "link": "https://zh.wikiversity.org/zh-cn/Experiment:%E9%87%91%E9%95%9C%E5%8F%8D%E5%BA%94",
+          "snippet": "金镜反应，即+3价的金化合物被还原为金单质，并在容器内壁镀上一层黄金的反应，虽然常见的的+3价金化合物氧化性要远强于一般的+2价铜化合物和+1价银 ...",
+          "date": "2022年2月13日",
+          "position": 77
+        },
+        {
+          "title": "习近平总书记在省部级主要领导干部学习贯彻党的二十届三 ... - 中国军网",
+          "link": "http://www.81.cn/yw_208727/16349074.html",
+          "snippet": "社区与千家万户紧密相连，基层干部要多跑、多问、多听、多想，当好群众的“服务员”。 习近平总书记强调“突出经济体制改革这个重点，全面协调推进各方面改革”， ...",
+          "date": "2天前",
+          "position": 78
+        },
+        {
+          "title": "天津大学医学院召开学习习近平总书记给中国国际大学生创新大赛 ...",
+          "link": "https://news.tju.edu.cn/info/1017/72971.htm",
+          "snippet": "科技创新能否持续发展，关键在于三大要素：实用性、技术的先进性以及是否具备经济价值。 图片6.png. 医学院科创中心主席杨意说，作为学院科协的负责人，我们的 ...",
+          "date": "2天前",
+          "position": 79
+        },
+        {
+          "title": "科学能解释自由意志吗？ - 集智斑图",
+          "link": "https://pattern.swarma.org/mobile/article/256",
+          "snippet": "因此，所有这些实验已经受到心智-大脑二元性的偏见影响，在心智-大脑二元论 ... 社群和个体。 Top-down causation by information control: from a philosophical ...",
+          "position": 80
+        },
+        {
+          "title": "爆火骑行服，治愈不了中产的身材焦虑-虎嗅网",
+          "link": "https://m.huxiu.com/article/3644114.html",
+          "snippet": "在兼顾骑行服专业性的同时，如何将产品与日常生活无缝衔接，才是品牌在骑行细分领域向下挖掘出更多可能性的关键。此外，社群维护、设计理念与品牌故事也是 ...",
+          "date": "1天前",
+          "position": 81
+        },
+        {
+          "title": "禁用实验性设置警告(Shutup Experimental Settings!) - MC百科",
+          "link": "https://www.mcmod.cn/class/3448.html",
+          "snippet": "社群 · 找服玩 · 实用工具 · 特性 · 词典 · 登录; QQ登录. > 辅助Mod; >; 禁用实验性设置警告 ... rdvdev2原作者. 显示更多成员; 有115 个已收录的整合包使用了禁用实验性 ...",
+          "position": 82
+        },
+        {
+          "title": "Gender Empowerment 性別空間– Transgender Eye for the Gender ...",
+          "link": "https://genderempowerment.org/",
+          "snippet": "社群支援. Community Support. 輔導服務. Counselling · 熱線. Hotline · 職涯工作坊. Career Workshop. 健康/醫療相關. Health/Medicare related. 言語治療. Speech ...",
+          "position": 83
+        },
+        {
+          "title": "網路小編都是「年輕女孩」？網路社群與性別的相互形塑 - 鳴人堂",
+          "link": "https://opinion.udn.com/opinion/story/9332/5343450",
+          "snippet": "日前，某出版社總編在網路上發文表示：「臉書行銷職業，確實女性居多；其中，年輕女孩子又更多；整體上女性的歷史感是不如男性的。」示意圖。 圖／路透社.",
+          "date": "2021年3月25日",
+          "position": 84
+        },
+        {
+          "title": "国产仿制药“不靠谱”?背后的偏差在哪 - 上观新闻",
+          "link": "https://www.jfdaily.com/news/detail?id=809095",
+          "snippet": "国家药品审评中心原资深主审、高级审评员张星一指出，国家实施“仿制药一致性评价”政策后，仿制药必须通过体内外实验证明与原研药“高度一致”，才能进入市场 ...",
+          "date": "6天前",
+          "position": 85
+        },
+        {
+          "title": "培育和发展新质生产力推动国资央企高质量发展 - 党建- 人民网",
+          "link": "http://dangjian.people.com.cn/n1/2024/1101/c117092-40352027.html",
+          "snippet": "... 社科工作办 | 中国人事考试网 · 学习贯彻习近平新时代中国特色社会 ... 高标准建设国家级创新平台，与国家实验室深化长期稳定合作，积极推动全国 ...",
+          "date": "3天前",
+          "position": 86
+        },
+        {
+          "title": "Milli-Q® 纯水系统服务与技术支持",
+          "link": "https://www.sigmaaldrich.com/TW/zh/services/product-services/milli-q-services-and-support?srsltid=AfmBOoqdFySLs0Z-AiEHYuXrQ35T4g_nSAWqPPmMzgGbC38O8JH7CzPH",
+          "snippet": "针对纯水系统全面合规性和实验室认证的校准、校验和适用性测试. Milli-Q ... 社群媒體. LinkedIn icon · Twitter icon · Facebook Icon · Instagram Icon.",
+          "date": "2021年2月24日",
+          "position": 87
+        },
+        {
+          "title": "栢林基金｜我们的跨性别社群正在经历的至暗时刻",
+          "link": "http://www.zhenrogy.org/project_view.asp?aid=3381",
+          "snippet": "强制扭转治疗是一种假借医学和道德的旗号，违背个体意愿的、采取极端措施和非人道手段强制改变一个人的性倾向或性别认同的行为。常见的方式有：厌恶疗法、 ...",
+          "date": "2020年12月28日",
+          "position": 88
+        },
+        {
+          "title": "北京大学现代农业研究院/潍坊现代农业山东省实验室邓 ... - 高校人才网",
+          "link": "https://www.gaoxiaojob.com/announcement/detail/263212.html",
+          "snippet": "... 实验室邓兴旺实验室2024年招聘1名科研助理公告,北京大学现代农业研究院是由北京大学与山东省人民政府共同建设的研究性 ... 精选社群. 每天1000+人才加入查看 ...",
+          "date": "7天前",
+          "position": 89
+        },
+        {
+          "title": "新华社2024-11-02 云师大每年90%的师范生毕业后投身云南基础教育",
+          "link": "https://www.ynnu.edu.cn/info/1102/31501.htm",
+          "snippet": "据了解，在服务云南基础教育高质量发展的过程中，云师大创新性提出服务云南基础教育发展的“151战略行动计划”，即“1个战略”引领、“5大工程”支撑和精心打造“1个 ...",
+          "date": "21小时前",
+          "position": 90
+        },
+        {
+          "title": "111-1性別意識培力活動-不合群的身體，塞不下標準的人",
+          "link": "https://gender-equality.cmu.edu.tw/zh-hant/node/290",
+          "snippet": "本次講座與台中市女兒館合作辦理，邀請 臺灣同志諮詢熱線社群發展部Amy Lin 林昱君主任 擔任講師。現今社會對於多元性別者已較過往友善，然仍會面臨 ...",
+          "date": "2023年2月3日",
+          "position": 91
+        },
+        {
+          "title": "[PDF] 110-111 學年度研究生總測驗模擬試題（一） 詳解",
+          "link": "https://ethics.moe.edu.tw/files/resource/exampaper/110111post1_DET.pdf",
+          "snippet": "拒絕接受學術社群對於研究過程的監督與研究成果的檢驗. D.擔任政府或各式機構的科學科技諮詢角色. E.對大眾說明研究的價值與重要性. (1) ABC. (2) ACD. (3) BCE. (4) ADE.",
+          "position": 92
+        },
+        {
+          "title": "记海南大学热带益生菌产业技术体系首席科学家张家超 - 经济日报",
+          "link": "https://proapi.jingjiribao.cn/readnews.html?id=308575",
+          "snippet": "“因地理位置优势，海南的热带益生菌资源在全国是独一无二的。”张家超说，他正是看准了这一独特性，选择来海南做研究。 “待在实验室里搞不出成果。",
+          "date": "2024年6月30日",
+          "position": 93
+        },
+        {
+          "title": "持续为国“加油”——65岁大庆油田上扬成长的“第二曲线” - 科技日报",
+          "link": "https://www.stdaily.com/web/gdxw/2024-11/04/content_252499.html",
+          "snippet": "... 性风景。 这是大庆油田2号丛式井组群（2021年1月7日摄）。新华社记者王松摄. “保持稳产是采油队的根本。”在大庆油田第一采油厂第三作业区中四采油队 ...",
+          "date": "1小时前",
+          "position": 94
+        },
+        {
+          "title": "四川省核工业辐射测试防护院",
+          "link": "http://www.chfc.com.cn/",
+          "snippet": "... 实验测试研究中心（自然资源综合性实验测试研究和核事故应急技术支持单位）成立于2005年12月， ... 党群工作, 更多 ...",
+          "position": 95
+        },
+        {
+          "title": "臺北市立內湖高級中學: 首頁",
+          "link": "https://www.nhsh.tp.edu.tw/",
+          "snippet": "... 社群線上系列研習」, 研習資訊、教務處, 實驗研究組. 2024-11-01, 轉知 「2025 年第六屆台灣經濟學奧林匹亞競賽」, 競賽資訊、教務處, 實驗研究組 ... 校園性別事件通報專區 ...",
+          "position": 96
+        },
+        {
+          "title": "学习型家委会助力“教联体”建设 - 中国教育报",
+          "link": "http://www.jyb.cn/rmtzgjyb/202411/t20241103_2111264827.html",
+          "snippet": "在2023年全国性的“家委会主任工作与发展研究联盟”成立之后，通过发挥微信群等新媒体的作用，全国各地的家委会成员及相关教师相互启发、相互学习，并 ...",
+          "date": "24小时前",
+          "position": 97
+        },
+        {
+          "title": "专家成长计划服务内容说明 - 阿里云文档",
+          "link": "https://help.aliyun.com/document_detail/216805.html",
+          "snippet": "注：对于不在专家服务范围内的第三方软件问题，客户可登录阿里云社区获取免费咨询，或联系云市场商家寻求帮助。 3.前提条件. 甲方需至少提前十五个工作日向 ...",
+          "date": "2023年11月6日",
+          "position": 98
+        },
+        {
+          "title": "多重歧視性別暴力防治 - 勵馨基金會",
+          "link": "https://www.goh.org.tw/services/multiple-discrimination-and-gender-violence-prevention-center/",
+          "snippet": "向光性展覽——多歧中心的加入向光性展覽是臺北市芳和實驗中（芳和實中 ... 多重歧視性別暴力防治中心服務過去大眾對勵馨的印象，主要是服務性別暴力的團體，但主要的社群 ...",
+          "position": 99
+        },
+        {
+          "title": "【投書】一個英國少女之死：社群媒體演算法的推薦圈套 - 獨立評論",
+          "link": "https://opinion.cw.com.tw/blog/profile/52/article/13027",
+          "snippet": "Molly Russell的死，是受到憂鬱症以及網路推播的負面內容所導致的自傷行為。在Molly Russell事件曝光以前，人們或多或少都知道社群媒體演算法有時會推播 ...",
+          "date": "2022年12月1日",
+          "position": 100
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "性别实验 社群",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 3,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "【真相與勇氣的追擊之路】虛假資訊在社群平台上帶風向成民主社會 ...",
+          "link": "https://tfc-taiwan.org.tw/articles/7951",
+          "snippet": "在個人政治立場極化、缺乏媒體素養技能與政治類事實查核的環境下，皆有利假新聞傳播。 吳銘軒則呼籲「推薦演算法改變」與「形成社會規範」的重要性。他認為 ...",
+          "date": "2022年7月29日",
+          "position": 1
+        },
+        {
+          "title": "实验:金镜反应- 维基学院，自由的研习社群",
+          "link": "https://zh.wikiversity.org/zh-cn/Experiment:%E9%87%91%E9%95%9C%E5%8F%8D%E5%BA%94",
+          "snippet": "金镜反应，即+3价的金化合物被还原为金单质，并在容器内壁镀上一层黄金的反应，虽然常见的的+3价金化合物氧化性要远强于一般的+2价铜化合物和+1价银 ...",
+          "date": "2022年2月13日",
+          "position": 2
+        },
+        {
+          "title": "习近平总书记在省部级主要领导干部学习贯彻党的二十届三 ... - 中国军网",
+          "link": "http://www.81.cn/yw_208727/16349074.html",
+          "snippet": "社区与千家万户紧密相连，基层干部要多跑、多问、多听、多想，当好群众的“服务员”。 习近平总书记强调“突出经济体制改革这个重点，全面协调推进各方面改革”， ...",
+          "date": "2天前",
+          "position": 3
+        },
+        {
+          "title": "天津大学医学院召开学习习近平总书记给中国国际大学生创新大赛 ...",
+          "link": "https://news.tju.edu.cn/info/1017/72971.htm",
+          "snippet": "科技创新能否持续发展，关键在于三大要素：实用性、技术的先进性以及是否具备经济价值。 图片6.png. 医学院科创中心主席杨意说，作为学院科协的负责人，我们的 ...",
+          "date": "2天前",
+          "position": 4
+        },
+        {
+          "title": "科学能解释自由意志吗？ | 集智斑图",
+          "link": "https://pattern.swarma.org/mobile/article/256",
+          "snippet": "鸟群、蜜蜂群或蚂蚁群是自组织复杂系统的典型例子 ... 因此，所有这些实验已经受到心智-大脑二元性的偏见 ... 社群和个体。 Top-down causation by information ...",
+          "position": 5
+        },
+        {
+          "title": "爆火骑行服，治愈不了中产的身材焦虑-虎嗅网",
+          "link": "https://m.huxiu.com/article/3644114.html",
+          "snippet": "在兼顾骑行服专业性的同时，如何将产品与日常生活无缝衔接，才是品牌在骑行细分领域向下挖掘出更多可能性的关键。此外，社群维护、设计理念与品牌故事也是 ...",
+          "date": "1天前",
+          "position": 6
+        },
+        {
+          "title": "禁用实验性设置警告(Shutup Experimental Settings!) - MC百科",
+          "link": "https://www.mcmod.cn/class/3448.html",
+          "snippet": "社群 · 找服玩 · 实用工具 · 特性 · 词典 · 登录; QQ登录. > 辅助Mod; >; 禁用实验性设置警告 ... rdvdev2原作者. 显示更多成员; 有115 个已收录的整合包使用了禁用实验性 ...",
+          "position": 7
+        },
+        {
+          "title": "Gender Empowerment 性別空間– Transgender Eye for the Gender ...",
+          "link": "https://genderempowerment.org/",
+          "snippet": "社群支援. Community Support. 輔導服務. Counselling · 熱線. Hotline · 職涯工作坊. Career Workshop. 健康/醫療相關. Health/Medicare related. 言語治療. Speech ...",
+          "position": 8
+        },
+        {
+          "title": "做跨性手術前還要先演戲？ 讓跨性別者陷入難關的精神鑑定",
+          "link": "https://newslab.nccu.edu.tw/PageDoc/Detail?fid=10782&id=23245",
+          "snippet": "過了十年，仍是只聞樓梯響。吳伊婷表示，政府公告發布後，跨性別社群有許多反彈聲浪，內部並沒有取得共識。有一派堅信，取得精神診斷 ...",
+          "date": "2023年6月23日",
+          "position": 9
+        },
+        {
+          "title": "国产仿制药“不靠谱”?背后的偏差在哪 - 上观新闻",
+          "link": "https://www.jfdaily.com/news/detail?id=809095",
+          "snippet": "国家药品审评中心原资深主审、高级审评员张星一指出，国家实施“仿制药一致性评价”政策后，仿制药必须通过体内外实验证明与原研药“高度一致”，才能进入市场 ...",
+          "date": "6天前",
+          "position": 10
+        },
+        {
+          "title": "培育和发展新质生产力推动国资央企高质量发展 - 党建- 人民网",
+          "link": "http://dangjian.people.com.cn/n1/2024/1101/c117092-40352027.html",
+          "snippet": "... 社科工作办 | 中国人事考试网 · 学习贯彻习近平新时代中国特色社会 ... 高标准建设国家级创新平台，与国家实验室深化长期稳定合作，积极推动全国 ...",
+          "date": "3天前",
+          "position": 11
+        },
+        {
+          "title": "Milli-Q® 纯水系统服务与技术支持 - Sigma-Aldrich",
+          "link": "https://www.sigmaaldrich.com/TW/zh/services/product-services/milli-q-services-and-support?srsltid=AfmBOoqjsoYnIVn5VLGFqhXZY7DvCQJku5wA5Ww1IfUVAykos6x5WTvd",
+          "snippet": "正确选择纯水产品可解放工作台空间、保证水质并提高实验室安全性和生产力。 ... 针对纯水系统全面合规性和实验室认证的校准、校验和适用性测试 ... 社群媒體. LinkedIn icon.",
+          "position": 12
+        },
+        {
+          "title": "[PDF] 英國、德國如何因應社群媒體對青少年之影響？ - 國家教育研究院電子報",
+          "link": "https://epaper.naer.edu.tw/upfiles/edm_222_3835_pdf_0.pdf",
+          "snippet": "近來COVID-19 疫情影響，導致民眾對社群媒體的依賴更為增加，. 同時虛假錯誤訊息激增，有心人士利用不確定性煽動恐懼，造成混亂。濫用社群媒體. 影響青少年心理健康，以及其內容 ...",
+          "position": 13
+        },
+        {
+          "title": "北京大学现代农业研究院/潍坊现代农业山东省实验室邓 ... - 高校人才网",
+          "link": "https://www.gaoxiaojob.com/announcement/detail/263212.html",
+          "snippet": "... 实验室邓兴旺实验室2024年招聘1名科研助理公告,北京大学现代农业研究院是由北京大学与山东省人民政府共同建设的研究性 ... 精选社群. 每天1000+人才加入查看 ...",
+          "date": "7天前",
+          "position": 14
+        },
+        {
+          "title": "新华社2024-11-02 云师大每年90%的师范生毕业后投身云南基础教育",
+          "link": "https://www.ynnu.edu.cn/info/1102/31501.htm",
+          "snippet": "据了解，在服务云南基础教育高质量发展的过程中，云师大创新性提出服务云南基础教育发展的“151战略行动计划”，即“1个战略”引领、“5大工程”支撑和精心打造“1个 ...",
+          "date": "21小时前",
+          "position": 15
+        },
+        {
+          "title": "[PDF] 110-111 學年度研究生總測驗模擬試題（一） 詳解",
+          "link": "https://ethics.moe.edu.tw/files/resource/exampaper/110111post1_DET.pdf",
+          "snippet": "拒絕接受學術社群對於研究過程的監督與研究成果的檢驗. D.擔任政府或各式機構的科學科技諮詢角色. E.對大眾說明研究的價值與重要性. (1) ABC. (2) ACD. (3) BCE. (4) ADE.",
+          "position": 16
+        },
+        {
+          "title": "設備/線上教育訓練課程/預約申請> 國研大樓貴儀中心",
+          "link": "https://www.kmuh.org.tw/web/kmuhdept/6800/%E5%84%80%E5%99%A8%E8%A8%AD%E5%82%99%E7%B7%9A%E4%B8%8A%E6%95%99%E8%82%B2%E8%A8%93%E7%B7%B4%E8%AA%B2%E7%A8%8B%E9%A0%90%E7%B4%84%E7%94%B3%E8%AB%8B/%E5%9C%8B%E7%A0%94%E5%A4%A7%E6%A8%93%E8%B2%B4%E5%84%80%E4%B8%AD%E5%BF%83.aspx",
+          "snippet": "學術研究社群專區 · 台灣精準醫療計畫專區 · 共同實驗室申請 · 服務項目 · 共同討論室借用 ... 1.感染性固體廢棄物：請包裝妥當，高壓滅菌或5-10%漂白水滅菌。 2.非感染性 ...",
+          "position": 17
+        },
+        {
+          "title": "111-1性別意識培力活動-不合群的身體，塞不下標準的人",
+          "link": "https://gender-equality.cmu.edu.tw/zh-hant/node/290",
+          "snippet": "本次講座與台中市女兒館合作辦理，邀請 臺灣同志諮詢熱線社群發展部Amy Lin 林昱君主任 擔任講師。現今社會對於多元性別者已較過往友善，然仍會面臨 ...",
+          "date": "2023年2月3日",
+          "position": 18
+        },
+        {
+          "title": "持续为国“加油”——65岁大庆油田上扬成长的“第二曲线” - 科技日报",
+          "link": "https://www.stdaily.com/web/gdxw/2024-11/04/content_252499.html",
+          "snippet": "... 性风景。 这是大庆油田2号丛式井组群（2021年1月7日摄）。新华社记者王松摄. “保持稳产是采油队的根本。”在大庆油田第一采油厂第三作业区中四采油队 ...",
+          "date": "1小时前",
+          "position": 19
+        },
+        {
+          "title": "臺北市立內湖高級中學: 首頁",
+          "link": "https://www.nhsh.tp.edu.tw/",
+          "snippet": "... 社群線上系列研習」, 研習資訊、教務處, 實驗研究組. 2024-11-01, 轉知 「2025 年第六屆台灣經濟學奧林匹亞競賽」, 競賽資訊、教務處, 實驗研究組 ... 校園性別事件通報專區 ...",
+          "position": 20
+        },
+        {
+          "title": "学习型家委会助力“教联体”建设 - 中国教育报",
+          "link": "http://www.jyb.cn/rmtzgjyb/202411/t20241103_2111264827.html",
+          "snippet": "在2023年全国性的“家委会主任工作与发展研究联盟”成立之后，通过发挥微信群等新媒体的作用，全国各地的家委会成员及相关教师相互启发、相互学习，并 ...",
+          "date": "24小时前",
+          "position": 21
+        },
+        {
+          "title": "跨儿心理咨询手册 - 跨性别在线·文档库",
+          "link": "https://docs.transonline.org.cn/kexl-counseling/",
+          "snippet": "在遭遇难以应付或对自己情绪和心理状态影响巨大的歧视事件时，应主动寻找帮助，向朋友、社群内的伙伴倾诉，或寻求专业的心理援助（如在“跨儿心理”预约心理咨询）。当歧视事件 ...",
+          "position": 22
+        },
+        {
+          "title": "专家成长计划服务内容说明 - 阿里云文档",
+          "link": "https://help.aliyun.com/document_detail/216805.html",
+          "snippet": "注：对于不在专家服务范围内的第三方软件问题，客户可登录阿里云社区获取免费咨询，或联系云市场商家寻求帮助。 3.前提条件. 甲方需至少提前十五个工作日向 ...",
+          "date": "2023年11月6日",
+          "position": 23
+        },
+        {
+          "title": "持续为国“加油”——65岁大庆油田上扬成长的“第二曲线” - 新华网",
+          "link": "http://www.news.cn/politics/20241103/c649e3f5bf3a4d2e860a0f6a989fb686/c.html",
+          "snippet": "... 性风景。 这是大庆油田2号丛式井组群（2021年1月7日摄）。新华社记者王松摄. “保持稳产是采油队的根本。”在大庆油田第一采油厂第三作业区中四采油队 ...",
+          "date": "10小时前",
+          "position": 24
+        },
+        {
+          "title": "優先管理與管制性化學品 - 國立陽明交通大學環境保護暨安全衛生中心",
+          "link": "https://cesh.nycu.edu.tw/cesh/ch/app/artwebsite/view?module=artwebsite&id=1590&serno=0659c066-54aa-4dd8-81b3-8f4aff376f22",
+          "snippet": "社群分享. facebook; Line; Twitter; LinkedIn. 搜尋. 展開選單. ::: 網站導覽 回首頁 EN ... 基因重組暨感染性生物材料實驗申請 · 相關資訊 · 相關資源 · 生物材料申請 ...",
+          "position": 25
+        },
+        {
+          "title": "多重歧視性別暴力防治 - 勵馨基金會",
+          "link": "https://www.goh.org.tw/services/multiple-discrimination-and-gender-violence-prevention-center/",
+          "snippet": "向光性展覽——多歧中心的加入向光性展覽是臺北市芳和實驗中（芳和實中 ... 多重歧視性別暴力防治中心服務過去大眾對勵馨的印象，主要是服務性別暴力的團體，但主要的社群 ...",
+          "position": 26
+        },
+        {
+          "title": "網路小編都是「年輕女孩」？網路社群與性別的相互形塑 - 鳴人堂",
+          "link": "https://opinion.udn.com/opinion/story/9332/5343450",
+          "snippet": "日前，某出版社總編在網路上發文表示：「臉書行銷職業，確實女性居多；其中，年輕女孩子又更多；整體上女性的歷史感是不如男性的。」示意圖。 圖／路透社.",
+          "date": "2021年3月25日",
+          "position": 27
+        },
+        {
+          "title": "【投書】一個英國少女之死：社群媒體演算法的推薦圈套 - 獨立評論",
+          "link": "https://opinion.cw.com.tw/blog/profile/52/article/13027",
+          "snippet": "Molly Russell的死，是受到憂鬱症以及網路推播的負面內容所導致的自傷行為。在Molly Russell事件曝光以前，人們或多或少都知道社群媒體演算法有時會推播 ...",
+          "date": "2022年12月1日",
+          "position": 28
+        },
+        {
+          "title": "使用PDF 功能(實驗性) - Power Apps - Microsoft Learn",
+          "link": "https://learn.microsoft.com/zh-tw/power-apps/maker/canvas-apps/how-to/pdf-function",
+          "snippet": "在 Power Apps 實驗性功能社群論壇中發送您的意見反饋。 開啟PDF 函數. 由於PDF 函數是實驗性功能，預設會關閉此功能。 若要在應用程式 ...",
+          "date": "2023年4月18日",
+          "position": 29
+        },
+        {
+          "title": "破解性别歧视，助力职业发展 - 腾讯云",
+          "link": "https://cloud.tencent.com/developer/article/1166737",
+          "snippet": "本文是作者在2018年7月3日众智汇社群分享的记录。由@泓逸记录整理。 本文 ... 实验征开始时集了500个志愿者，这些参加实验的人都是事先声称绝对不会有性别 ...",
+          "date": "2018年7月26日",
+          "position": 30
+        },
+        {
+          "title": "「华丽智库」运动户外双月TOP6，哪些品牌入选？（2024年9月",
+          "link": "https://luxe.co/post/375144",
+          "snippet": "如果说“跑步”是On昂跑的品牌文化源头，那么社群就是On昂跑塑造品牌跑步文化的关键和核心。 ... 除此以外，上海新天地旗舰店中还将提供户外风尚系列、实验 ...",
+          "date": "12小时前",
+          "position": 31
+        },
+        {
+          "title": "发展绿色消费大有可为 - 光明网-理论频道",
+          "link": "https://theory.gmw.cn/2024-11/02/content_37653430.htm",
+          "snippet": "发现并解决从“走出实验室”到“走向大市场”的关键问题，加大对企业在技术 ... 新型城镇化学科群发展助力中国式现代化稳步前行. 新型城镇化进程的 ...",
+          "date": "2天前",
+          "position": 32
+        },
+        {
+          "title": "苏州工业园区生物医药综合竞争力稳居全国第二 - 中共江苏省委",
+          "link": "https://www.zgjssw.gov.cn/shixianchuanzhen/suzhou/202411/t20241104_8420601.shtml",
+          "snippet": "徐州贾汪超九成村集体经营性收入突破五十万元 ... 宿城推动智能制造集聚化链群化. 推荐新闻. 教育部等17部门联合印发《家校社协同育人“教联体”工作方案》 ...",
+          "date": "50分钟前",
+          "position": 33
+        },
+        {
+          "title": "直击大选假信息：中国虚假信息行动开始质疑美国大选的公正性",
+          "link": "https://www.voachinese.com/a/spamouflage-election-fraud-20241101/7848137.html",
+          "snippet": "声明表示，这群人是前来申请邮寄投票的。投票站的工作人员和这群选民 ... 民主实验室在分析了这些贴文的内容后总结道，瓦解民众对美国的信任是 ...",
+          "date": "13小时前",
+          "position": 34
+        },
+        {
+          "title": "校園性侵害性騷擾或性霸凌事件通報及調查處理程序參考流程圖",
+          "link": "https://www.gender.edu.tw/web/index.php/m7/m7_02_01_01?sid=74",
+          "snippet": "性別議題相關研究. 性平教育人才庫; 校園性別事件防治與處理. 通報 · 類別及區分表 · 相關法令說明 · 通報相關函 ... 社群分享. Facebook · Twitter · line分享. 圖示-Logo.",
+          "position": 35
+        },
+        {
+          "title": "粒子运输与富集技术全国重点实验室学术年会在天津召开 - 中国新闻网",
+          "link": "http://www.chinanews.com/sh/2024/11-03/10312683.shtml",
+          "snippet": "六十年来，以王承书院士为代表的几代核理化院科技工作者，勇担使命，艰苦创业，开拓创新，取得了历史性重大成就，为国家安全和经济建设作出了突出贡献。希望核 ...",
+          "date": "21小时前",
+          "position": 36
+        },
+        {
+          "title": "先生？小姐？跨性別者怎麼稱呼- 事出有影 - 新聞實驗室",
+          "link": "https://newslab.pts.org.tw/video/229",
+          "snippet": "... 男性荷爾蒙的身體轉變，以及暢聊各式出櫃難題、邀請其他跨男現身說法，Deven的社群帳號頁面，宛如一本跨性別者的使用指南。 Deven自青春期開始，對自己的性別 ...",
+          "date": "2023年3月29日",
+          "position": 37
+        },
+        {
+          "title": "首届食品胶体科学研讨会：把握大发展时机，共谋学科新未来",
+          "link": "http://www.ce.cn/cysc/sp/bwzg/202411/01/t20241101_39189250.shtml",
+          "snippet": "中国经济网北京11月1日讯（记者 李冬阳） 记者从中国农业大学新闻网获悉，10月26日, 由北京市植物蛋白与谷物加工重点实验 ... 群互作、细胞功能和营养 ...",
+          "date": "3天前",
+          "position": 38
+        },
+        {
+          "title": "海滨街道幸福社区：“15分钟幸福生活圈” 让幸福生活“可圈可点” - 津滨网",
+          "link": "http://www.tjbh.com/c/2024-11-03/1377810.shtml",
+          "snippet": "推出现场检测水质实验、与共建单位共同种植海棠树等。除了利用好“15 ... 幸福社区坚持需求导向，加强普惠性、基础性、兜底性民生建设，通过党建 ...",
+          "date": "15小时前",
+          "position": 39
+        },
+        {
+          "title": "区块链支付为何卷土重来 - Web3Caff",
+          "link": "https://web3caff.com/zh/archives/109747",
+          "snippet": "同样在10 月3 日，SWIFT 宣布将于2025 年开启数字货币和数字资产交易实验。 ... 欢迎加入Web3Caff 官方社群：X(Twitter)账号丨微信读者群丨微信公众号丨 ...",
+          "date": "3天前",
+          "position": 40
+        },
+        {
+          "title": "性别角色实验-学前教育国家级实验教学示范中心 - 山东英才学院",
+          "link": "http://www.sdycu.edu.cn/xqsyzx/info/1090/1581.htm",
+          "snippet": "性别角色实验一、实验项目简介性别角色是指一个特定社会中被认为恰当的男性和女性的行为模式，它的形成和发展是儿童社会化过程的重要部分，其中性别概念的获得是性别角色 ...",
+          "position": 41
+        },
+        {
+          "title": "新华社2024-11-02 云南师范大学举办服务云南基础教育高质量发展论坛",
+          "link": "https://www.ynnu.edu.cn/info/1102/31503.htm",
+          "snippet": "论坛当日，云南师范大学附中、附小、实验中学、附属世纪金源学校、云南 ... 党群部门 · 附属机构 · 教育教学 · 师资队伍 · 本科生教育 · 研究生教育 · 继续 ...",
+          "date": "21小时前",
+          "position": 42
+        },
+        {
+          "title": "探路者前三季度持续增长，筑牢双主业战略，落实“质量回报双提升”",
+          "link": "https://www.xhby.net/content/s67246c43e4b019ce565a3ce4.html",
+          "snippet": "... 研究实验室”，研发、创新和共享资源，加速技术转化和应用。通过 ... 线上渠道，探路者在维持天猫、京东等电商主渠道运营质量的同时，布局抖音、社群 ...",
+          "date": "3天前",
+          "position": 43
+        },
+        {
+          "title": "按关键词检索 - 软件学报",
+          "link": "https://www.jos.org.cn/jos/article/search?jid=jos&field=key_word&key=%E5%85%B4%E8%B6%A3",
+          "snippet": "实验验证所提方法的有效性, 通过与8个经典模型在 ... 微博用户兴趣挖掘是个性化推荐、社群划分的基础工作. ... 性的问题需要研究:拓扑的自动生成和查询算法.其中 ...",
+          "position": 44
+        },
+        {
+          "title": "基于量子粒子群算法（QPSO）优化LSTM的风电 - CSDN博客",
+          "link": "https://blog.csdn.net/weixin_46039719/article/details/143463297",
+          "snippet": "荔枝科研社. 码龄5年. 关注. 欢迎 ... 它包括了经过粒子群算法优化后的LSTM（PSOLSTM）和经过量子粒子群算法优化后的LSTM（QPSOLSTM）的对比实验。",
+          "date": "21小时前",
+          "position": 45
+        },
+        {
+          "title": "直擊大選假訊息：中國假訊息行動開始質疑美國大選的公正性",
+          "link": "https://tw.news.yahoo.com/%E7%9B%B4%E6%93%8A%E5%A4%A7%E9%81%B8%E5%81%87%E8%A8%8A%E6%81%AF-%E4%B8%AD%E5%9C%8B%E5%81%87%E8%A8%8A%E6%81%AF%E8%A1%8C%E5%8B%95%E9%96%8B%E5%A7%8B%E8%B3%AA%E7%96%91%E7%BE%8E%E5%9C%8B%E5%A4%A7%E9%81%B8%E7%9A%84%E5%85%AC%E6%AD%A3%E6%80%A7-122444416.html",
+          "snippet": "這些指控並非原創，類似的指控先前就已經在美國的社群媒體上廣泛傳播。 廣告. 廣告. 美國之音與民主實驗室的這一最新發現符合我們對 ...",
+          "date": "12小时前",
+          "position": 46
+        },
+        {
+          "title": "从天目里启航，在2024杭州当代艺术周“荡一圈” - 新浪财经",
+          "link": "https://finance.sina.com.cn/jjxw/2024-11-04/doc-incuvzsh0181464.shtml",
+          "snippet": "在此后近三周的时间中覆盖杭州6大行政区、汇聚32家艺术空间与文化社群的一系列活动将陆续开启， ... 实验场域Transtage转场；以非营利形式为创作者们 ...",
+          "date": "44分钟前",
+          "position": 47
+        },
+        {
+          "title": "从GOAT 的爆火看Llama Land：如何借力AI Agent 崛起？",
+          "link": "https://foresightnews.pro/article/detail/70798",
+          "snippet": "... 性的社交营销策略，迅速吸引了市场目光。而AO 生态中的Llama Land 则以链上虚拟世界为实验场，通过同样依赖AI 模型的创新互动打造共识社区。本文将 ...",
+          "date": "2天前",
+          "position": 48
+        },
+        {
+          "title": "女性主义营销大输大赢之间，性别更平等一点了吗？ - 虎嗅",
+          "link": "https://m.huxiu.com/article/884419.html?type=text",
+          "snippet": "2016年，《奇葩说》选手范湉湉提出“用女生节取代妇女节”，引发“女生节”与“妇女节”之战，批评观点认为这种改名忽略了妇女作为权利社群的属性。妇女节名 ...",
+          "date": "2023年3月22日",
+          "position": 49
+        },
+        {
+          "title": "一文带你探索多元时间序列预测的研究进展！",
+          "link": "https://hub.baai.ac.cn/view/40749",
+          "snippet": "... TKDE上的研究《探索多元时间序列预测的进展：全面基准测试与异质性 ... 读书会已完结，现在报名可加入社群并解锁回放视频权限。 详情请见： 时序 ...",
+          "date": "14小时前",
+          "position": 50
+        },
+        {
+          "title": "退伍军人教育的重要性与俄亥俄州立大学的支持项目",
+          "link": "https://www.forwardpathway.com/136094",
+          "snippet": "高等教育机构应当与政府、企业和社区合作，开发针对退伍军人的职业发展项目，帮助他们在就业市场中找到合适的定位。此外，建立退伍军人社群，促进他们之间的 ...",
+          "date": "4小时前",
+          "position": 51
+        },
+        {
+          "title": "与他人发生不正当性关系等，毛奇被“双开”！",
+          "link": "https://cbgc.scol.com.cn/news/5595747",
+          "snippet": "据江西省纪委监委11月3日消息，上饶市万年县委原书记毛奇严重违纪违法被开除党籍、开除公职。",
+          "date": "20小时前",
+          "position": 52
+        },
+        {
+          "title": "中国科学院第七届科学节展现科学趣味性 - 中国新闻网",
+          "link": "http://www.chinanews.com/sh/2024/11-02/10312504.shtml",
+          "snippet": "其中，“嗨剧场”以科学文艺展演为主，主要有才艺节目表演、科学实验、非遗 ... 本网站所刊载信息，不代表中新社和中新网观点。 刊用本网站稿件 ...",
+          "date": "2天前",
+          "position": 53
+        },
+        {
+          "title": "专访｜赴日谈：海普洛斯——医疗企业出海日本，合作中共赢 - 36氪",
+          "link": "https://m.36kr.com/p/3014655245919748",
+          "snippet": "我们也会加强与日本医疗机构和科研院所的合作，包括共建联合实验室 ... 在出海社群里，我们为成员挑选整理每日全球跨境资讯，帮助出海人把握最新 ...",
+          "date": "4天前",
+          "position": 54
+        },
+        {
+          "title": "澳門多元性別社群協進會 - 印務局",
+          "link": "https://www.io.gov.mo/cn/entities/priv/rec/11649",
+          "snippet": "澳門多元性別社群協進會. 澳門多元性別社群協進會. MACAU ASSOCIATION FOR GENDER--DIVERSE COMMUNITY. 刊登於公報. 摘要, 《公報》編號: 日期. 章程 ...",
+          "date": "2023年9月13日",
+          "position": 55
+        },
+        {
+          "title": "性别研究：掌握理解性别动态技能的综合指南 - RoleCatcher",
+          "link": "https://rolecatcher.com/zh-hans/skills/knowledge/social-sciences-journalism-and-information/social-and-behavioural-sciences/gender-studies/",
+          "snippet": "在教育领域，将性别研究纳入课程设计可以为学生营造一个更加包容和公平的学习环境。 在社会工作中，性别研究知识有助于为受性别暴力、歧视或不平等影响的个人和社区提供适当 ...",
+          "position": 56
+        },
+        {
+          "title": "社群 - 中文性教育资源网",
+          "link": "https://res.knowsex.org/community/",
+          "snippet": "所有社群 · 關注婦女性暴力協會 · Project Trans · 跨儿说TransTalks · 性本善心理工作室 · 中国人民大学性社会学研究所.",
+          "position": 57
+        },
+        {
+          "title": "PIXY LIAO - 实验性关系",
+          "link": "https://www.threeshadows.cn/cn/jimei-arles/exhibitions/2018/pixy-liao/",
+          "snippet": "廖逸君. 《实验性关系》. 策展人：容思玉. 廖逸君的长期项目《实验性关系》仍在进行中，最初启动于2007年。在这个作品里，她呈现出她和日本男友Moro的照片，用以探索民族 ...",
+          "position": 58
+        },
+        {
+          "title": "跨性别分享社小组 - 豆瓣",
+          "link": "https://m.douban.com/group/642538/",
+          "snippet": "豆瓣小组：跨性别分享社，最新帖子：不知道我是ftm还是双，有人转租/合租/招厅长吗，这个月的恋爱绮谭线下联动，有人一起嘛.",
+          "position": 59
+        },
+        {
+          "title": "性别融合是否会改变性别态度？——将女性随机分配到传统男性团队 ...",
+          "link": "http://cec.blog.caixin.com/archives/265637?originReferrer=caixinsearch_wap",
+          "snippet": "... ——将女性随机分配到传统男性团队的实验证据. 2023年03月13日22:48 | 阅读：101. 香樟经济学术圈. 由中国社科院 ... 值得注意的是，男性对混合性别生产力、性别角色和 ...",
+          "position": 60
+        },
+        {
+          "title": "跨性别女性嗓音问卷简体中文版信度和效度评价 - 中华医学期刊网",
+          "link": "https://rs.yiigle.com/CN115330202211/1433573.htm",
+          "snippet": "问卷包括受试者一般情况、简体中文版TWVQ-SC、嗓音障碍指数量表（Voice Handicap Index-10，VHI-10）简体中文版。有效问卷含实验组279例跨性别女性：年龄21（20 ...",
+          "date": "2022年11月7日",
+          "position": 61
+        },
+        {
+          "title": "性别顺应：生理性别和社会性别的匹配研究及启示 - 中国社会科学网",
+          "link": "https://www.cssn.cn/shx/xbyjt/202210/t20221024_5551975.shtml",
+          "snippet": "但是，随着女性主义在19世纪的兴起，性别气质的社会建构论逐渐形成并获得了越来越多的认同，其中最有影响的论断当属法国女性主义学者波伏娃在《第二性》中 ...",
+          "date": "2020年10月29日",
+          "position": 62
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

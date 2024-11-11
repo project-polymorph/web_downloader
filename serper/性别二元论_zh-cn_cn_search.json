@@ -1,0 +1,759 @@
+{
+  "query": "性别二元论",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-04T00:32:54.073011",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "性别二元论",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "answerBox": {
+        "snippet": "性别二元主义、性别二元论（英语：gender binary）仅将生理性别（sex）和社会性别（gender）划分为男女两种，漠视男女之外其他性别表现或性别认同为异常或不自然，作社会体制分类方式，性别和性取向被默认假设与出生时赋予的性别相一致，包括对个人的服装、行为、性取向、名字或代词的特定期望、使用哪个洗手间等特征，亦 ...",
+        "snippetHighlighted": [
+          "仅将生理性别（sex）和社会性别（gender）划分为男女两种，漠视男女之外其他性别表现或性别认同为异常或不自然"
+        ],
+        "title": "性别二元论- 维基百科，自由的百科全书",
+        "link": "https://zh.wikipedia.org/zh-cn/%E6%80%A7%E5%88%A5%E4%BA%8C%E5%85%83%E8%AB%96"
+      },
+      "knowledgeGraph": {
+        "title": "性别二元论",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuTqF1KlOEIAo0-KTU0SgCxFuZx4zk-sZeaqFVz8FtydCO0yL5o7XTvw&s=0",
+        "description": "性别二元主义、性别二元论仅将生理性别和社会性别划分为男女两种，漠视男女之外其他性别表现或性别认同为异常或不自然，作社会体制分类方式，性别和性取向被默认假设与出生时赋予的性别相一致，包括对个人的服装、行为、性取向、名字或代词的特定期望、使用哪...",
+        "descriptionSource": "维基百科",
+        "descriptionLink": "https://zh.wikipedia.org/zh-cn/%E6%80%A7%E5%88%A5%E4%BA%8C%E5%85%83%E8%AB%96"
+      },
+      "organic": [
+        {
+          "title": "非二元性别：打破传统二元论，建造多元的性别色谱体系 - 歪脑",
+          "link": "https://www.wainao.me/wainao-watches/explainer-gender-nonbinary-12282021",
+          "snippet": "Nonbinary——非二元性别，是一种性别认同，用于统称不将自己限制在传统男女性别二元论框架的人们。Ta们认为传统理念中的男性或女性，都不能准确代表对自己的 ...",
+          "date": "2021年12月28日",
+          "position": 1
+        },
+        {
+          "title": "视野| 性别二元论（gender binary），到底在论什么？ - 豆瓣",
+          "link": "https://site.douban.com/283412/widget/notes/192710953/note/609059498/",
+          "snippet": "当“社会性别”被二元化，会发生什么事情？性别二元，并非单纯的两性对立，更深层面其实是“阳刚气质”与“阴柔气质”的二元对比。生理男性被父权社会规范应该拥有“ ...",
+          "date": "2017年3月2日",
+          "position": 2
+        },
+        {
+          "title": "放弃性别二元论：为基于性别的暴力绘制人道干预新途径",
+          "link": "http://international-review.icrc.org/zh-hans/articles/letting-go-gender-binary-charting-new-pathways-humanitarian-interventions-gender-based",
+          "snippet": "一些人日益认识到妇女和女童并非性暴力的唯一受害者，性暴力也并非基于性别的暴力的唯一形式。但这一认识尚未在人道界的政策和实践中得到充分反映。",
+          "date": "2015年9月9日",
+          "position": 3
+        },
+        {
+          "title": "女权主义| 什么是性别二元论？ - 日新说",
+          "link": "http://m.copernicium.tw/sys-nd/1073.html",
+          "snippet": "性别二元结构的每一方都带有自己的刻板印象观念和期望，其成员被鼓励遵守这些观念。它规定了可接受的个性、兴趣、外表、生活抱负、我们爱谁、我们穿什么， ...",
+          "date": "2023年4月22日",
+          "position": 4
+        },
+        {
+          "title": "性别的概念- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/img-20348203",
+          "snippet": "“变性人”一词涵盖了一系列性别认同和表达方式，可能超出了所有人都只能分为两种性别——男性或女性（性别二元论）——的概念。 Share · Tweet; WeChat. WeChat. Close.",
+          "position": 5
+        },
+        {
+          "title": "关于跨性别的事实- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/healthy-lifestyle/adult-health/in-depth/transgender-facts/art-20266812",
+          "snippet": "这些词语超出了这样一种观点，即所有人只能被归类为两种性别中的一种：女性或男性。这种观点被称为性别二元论。 性别认同是一种认为自己是男性、女性、二者 ...",
+          "date": "2023年4月21日",
+          "position": 6
+        },
+        {
+          "title": "[PDF] 为基于性别的暴力绘制人道干预新途径",
+          "link": "https://international-review.icrc.org/sites/default/files/cn_irrc-894-dolan_final.pdf",
+          "snippet": "而忽略了——例如——性别不合常规的男性，并使其自身局限于在(异性恋. 的) 男性—女性二元论中明显可见的、被系统性复制的性别不平等。 它还忽略了标准男性在暴力面前的脆弱 ...",
+          "position": 7
+        },
+        {
+          "title": "赛博女性主义对性别二元论的突破及其价值体现 - 维普期刊",
+          "link": "https://qikan.cqvip.com/Qikan/Article/Detail?id=00002FKG45387JP0MNDO7JP1M7R&from=Qikan_Article_Detail",
+          "snippet": "传统女性主义包括技术女性主义在内都属于性别二元论的分析模式,而赛博女性主义突破了性别二元论的分析模式,认为男性和女性不是对立的双方,而是可以相互融合...展开更多 ...",
+          "position": 8
+        },
+        {
+          "title": "被读者评价“难读也要硬着头皮读下去”的书，我们为什么要读《性别 ...",
+          "link": "https://news.qq.com/rain/a/20240325A08VHV00",
+          "snippet": "巴特勒在本书中表达了对“性别二元论框架”的质疑，试图对抗把性别限定于一般所接受的男性与女性概念的观点。规范性的、伦理上合理化的二元性别理论仅仅用“男 ...",
+          "date": "2024年3月25日",
+          "position": 9
+        },
+        {
+          "title": "赛博女性主义对性别二元论的突破及其价值体现 - 马克思主义学院",
+          "link": "https://marx.hnist.cn/info/1010/1702.htm",
+          "snippet": "赛博女性主义对性别二元论的突破及其价值体现. 发布日期：2021-04-09 作者： 金春枝 浏览次数： 416. 第1 页. 第2 页. 第3 页. 第4 页. 第5 页. 第6 页.",
+          "position": 10
+        },
+        {
+          "title": "社会性别- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E7%A4%BE%E6%9C%83%E6%80%A7%E5%88%A5",
+          "snippet": "大多文化采取性别二元论的观点，把人分作两种社会性别（男孩/男性和女孩/女性）。处于这分类以外的性别认同有时以非二元性别统称。部分社会接纳男女以外的社会性别，比如在南亚 ...",
+          "position": 11
+        },
+        {
+          "title": "【贺翠香】当代西方女性主义研究中的性别身份问题",
+          "link": "http://philosophy.cass.cn/kygz/xszm/msszyzx/202311/t20231113_5696411.html",
+          "snippet": "在生物学意义上的性与社会文化意义的性别的相互关系上，至少存在三种理论派别：生物本质主义、二元论和激进的社会建构主义。生物本质主义认为，身体的生物学 ...",
+          "date": "2023年11月13日",
+          "position": 12
+        },
+        {
+          "title": "GENDER BINARY中文(简体)翻译：剑桥词典",
+          "link": "https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/gender-binary",
+          "snippet": "GENDER BINARY翻译：性别二元论（认为只有男性和女性两种性别的观点）。了解更多。",
+          "position": 13
+        },
+        {
+          "title": "二元蓝调：用理论驱动的方法探索超越二分性别比较 - X-MOL",
+          "link": "https://www.x-mol.com/paper/1446906091607486464/t",
+          "snippet": "超越性别二元概念化的呼吁并不新鲜，然而，这种性别分析的分类和对比方法仍然很普遍，尤其是在健康科学领域。有人认为，性别二元论的问题部分在于理论和 ...",
+          "date": "2021年10月9日",
+          "position": 14
+        },
+        {
+          "title": "著名生态女性主义学者艾瑞尔˙萨勒在马克思主义学院作学术讲座",
+          "link": "https://marxism.pku.edu.cn/xyxw/1319366.htm",
+          "snippet": "在第二部分，萨勒从阶级斗争理论出发论述了“元工业工人”作为一个新型社会阶级的合法性和必要性。她认为在崇尚二元论的资本主义文化氛围下，立足于人类中心主义立场的、试图 ...",
+          "position": 15
+        },
+        {
+          "title": "性/性别系谱学批判:朱迪斯·巴特勒对性/性别二元论的驳斥 - 万方数据",
+          "link": "https://d.wanfangdata.com.cn/periodical/zhnzxysdfyxb202405010",
+          "snippet": "... 性同性别一样是一种社会建构.为此,巴特勒运用福柯的系谱学方法对性、性别等基本范畴进行解构,消解了性/性别二元论的稳定性,为后现代女性主义开辟了道路.",
+          "date": "2024年10月8日",
+          "position": 16
+        },
+        {
+          "title": "性别二元论 - 抖音百科",
+          "link": "https://m.baike.com/wikiid/4186184534980483505",
+          "snippet": "性别二元一词描述著一个把社会成员分成两种性别角色、性别身分和生殖器与性倾向相同的社会性别。对于身体器官不健全（双性人，阴阳人）的情况下，根据性别二元，通常会强制进行 ...",
+          "position": 17
+        },
+        {
+          "title": "心灵哲学：物理主义和二元论之争中的可设想性论证 - 先晓书院",
+          "link": "https://xianxiao.ssap.com.cn/catalog/6256271.html",
+          "snippet": "实体物理主义认为万物都由物理实体构成。特别地，他们认为：我们的心灵，即使得我们能够感知、憧憬、怀疑、推理等的那个东西，也是物理实体。与这种观点截然相反的是实体二元论 ...",
+          "currency": "¥",
+          "price": 26,
+          "position": 18
+        },
+        {
+          "title": "二元论| 简体中文-英语翻译——剑桥词典 - Cambridge Dictionary",
+          "link": "https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93-%E8%8B%B1%E8%AF%AD/%E4%BA%8C%E5%85%83%E8%AE%BA",
+          "snippet": "At that time the gender binary was pervasive and unquestioned. 在当时，性别二元论无处不在，也无人质疑。 (二元论在Cambridge Chinese ...",
+          "date": "5天前",
+          "position": 19
+        },
+        {
+          "title": "大卫·查尔莫斯的自然主义二元论思想研究 - 中国社会科学出版社",
+          "link": "http://www.csspw.com.cn/booksdetail_15923_2073536_0.jhtml",
+          "snippet": "第二节意识与认知的关系：结构一致性原则. 一意识与认知的差异性与一致性. 二意识与觉知的结构同形性：结构一致性原则. 三案例分析：色觉. 四结构一致性原则的解释作用及其 ...",
+          "currency": "¥",
+          "price": 31,
+          "position": 20
+        },
+        {
+          "title": "Publications - Xi'an Jiaotong-Liverpool University",
+          "link": "https://www.xjtlu.edu.cn/en/study/departments/school-of-humanities-and-social-sciences/china-studies/research/publications",
+          "snippet": "Liu, Xi (2020) '问题化“新女性”：“五四”女性文学中性别二元论和本质论的反抗性话语(In Chinese: Problematizing “New Women”: Counter Discourses to Sex Binarism and ...",
+          "position": 21
+        },
+        {
+          "title": "性别二元论设计元素下载-PNG素材网",
+          "link": "https://www.pngsucai.com/free-png/487371.html",
+          "snippet": "PNG素材网为您提供实用的性别二元论PNG图片，性别二元论PNG素材，您可以在PNG素材网下载关于性别二元论PNG图片和性别二元论PNG免抠素材模板。",
+          "position": 22
+        },
+        {
+          "title": "From access to empowerment: UNESCO strategy for gender ...",
+          "link": "https://unesdoc.unesco.org/ark:/48223/pf0000371437",
+          "snippet": "... 二元论的人面临着巨大的社会压力，要求他们遵守现有的性别规范。17 在这个时期 ... 37 附有预算的性别回应性教育部门计划为推进性别平等和必要的资源分配系统变革 ...",
+          "position": 23
+        },
+        {
+          "title": "上皮性卵巢癌起源二元论及分子生物学基础 - 中国肿瘤临床",
+          "link": "http://www.cjco.cn/article/doi/10.3969/j.issn.1000-8179.20130790?viewType=HTML",
+          "snippet": "上皮性卵巢癌起源二元论及分子生物学基础. 曹文枫 , ,; 刘明 ,; 孙保存. 天津医科大学肿瘤医院病理科，国家肿瘤临床医学研究中心，天津市肿瘤防治重点实验室（天津 ...",
+          "position": 24
+        },
+        {
+          "title": "地理学的时代特征、二元论与可持续发展",
+          "link": "https://www.rddl.com.cn/CN/10.13284/j.cnki.rddl.003804",
+          "snippet": "地理学作为一门学科总体上与科学体系的发展亦步亦趋。20世纪自然地理学与人文地理学的分裂曾严重消解了地理学的整体性和统一性，同时专业分化与研究主题的纵深发展造成 ...",
+          "position": 25
+        },
+        {
+          "title": "行为无价值与结果无价值的关系_中华人民共和国最高人民检察院",
+          "link": "https://www.spp.gov.cn/llyj/201503/t20150302_91928.shtml",
+          "snippet": "内容提要: 按照行为无价值二元论的立场，违法性的本质是违反行为规范；同时，侵害法益性也是违法性判断的根据之一。在造成法益侵害或危险，但没有行为的规范 ...",
+          "date": "2015年3月2日",
+          "position": 26
+        },
+        {
+          "title": "金春枝主讲赛博风讲堂第21期：“赛博女性主义：突破性别二元论”",
+          "link": "https://aiethics.hunnu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1176&wbnewsid=2033",
+          "snippet": "传统女性主义包括技术女性主义在内都属于性别二元论的分析模式，将女性放在男性的对立面，对男性思维方式和父权制进行批判，以此实现女性解放和性别平等。赛 ...",
+          "date": "2018年4月20日",
+          "position": 27
+        },
+        {
+          "title": "女性主义不等于“女性的”主义_江苏社科规划网",
+          "link": "http://jspopss.jschina.com.cn/shekedongtai/201507/t20150702_2249330.shtml",
+          "snippet": "其中，既有对以往知识生产体系中性别盲视和性别歧视的批判，也有对传统 ... 二元论、性别身份、性别气质、经验、立场、身体、公私内外等核心概念 ...",
+          "date": "2015年7月2日",
+          "position": 28
+        },
+        {
+          "title": "二元论的命运与确实性的理想 - 探索与争鸣",
+          "link": "https://www.tsyzm.com/CN/Y1991/V1/I6/21",
+          "snippet": "引用本文. 汪堂家. 二元论的命运与确实性的理想[J]. 探索与争鸣, 1991(6): 21-.",
+          "date": "1991年6月1日",
+          "position": 29
+        },
+        {
+          "title": "[GI]社會調查必須超越性別二元論、雌鳥也會唱歌",
+          "link": "http://genderedinnovations.taiwan-gist.net/Community/283.html",
+          "snippet": "根據Saperstein的研究顯示，當全國調查的受訪者被問及有關女性氣質和男性氣質的問題時，有7%受訪者認為自己介於兩者之間，另外則有4%受訪者在後續問題的回答中，並沒有「符合」 ...",
+          "position": 30
+        },
+        {
+          "title": "性别自决权的法律属性与实现路径研究",
+          "link": "https://www.faxin.cn/lib/flwx/FlqkContent.aspx?gid=F812247",
+          "snippet": "性别自决权\"的出现冲击了建立在男女性别二元论基础上的传统法律关系和权利义务结构,使人们产生了性别自决权利是伪命题还是真权利的疑问.性别自决权利作为涵盖性别选择 ...",
+          "position": 31
+        },
+        {
+          "title": "肿瘤起源二元论与生命密码- 中华病理学杂志",
+          "link": "https://rs.yiigle.com/cmaid/1301242",
+          "snippet": "除非特别声明，本刊刊出的所有文章不代表中华医学会和本刊编委会的观点。 肿瘤一直被认为是基于遗传的增生性疾病 ...",
+          "date": "2020年12月8日",
+          "position": 32
+        },
+        {
+          "title": "【书评】《谁在害怕性别？》当性别成为制造恐慌的鬼魂，巴特勒 ...",
+          "link": "https://theinitium.com/zh-hans/opinion/20240501-opinion-who-is-afraid-of-gender",
+          "snippet": "在《非暴力的力量》一书中，巴特勒就明显有了更多交叉性和后殖民的思考。本书的第九章“种族和殖民带来的性别二元论遗产”，继续发展了这种思考，用各地的例子 ...",
+          "date": "2024年5月1日",
+          "position": 33
+        },
+        {
+          "title": "[PDF] 超越二元论立场的功能主义法律解释论之证立 - 法商研究",
+          "link": "https://fsyj.zuel.edu.cn/_upload/article/files/d6/8d/f875ffb04ea2ac45acecbbdef75f/e564223f-7995-4078-9fa0-4ee225a7558b.pdf",
+          "snippet": "无论是社科法学还是法教义学视角的功能主义法律解. 释都陷入客观性依赖,与传统法律解释论的问题无异。以超越主客观二元论为基础的功能主义. 法律解释论需要彻底清除二元论 ...",
+          "position": 34
+        },
+        {
+          "title": "性别_百度百科",
+          "link": "https://baike.baidu.com/item/%E6%80%A7%E5%88%AB/500566",
+          "snippet": "性别身份; 跨性别; 性倾向; 关于性别的学术探讨; “性别二元论”的难题; 从性倾向重新思考性别; 重新思考生理性别和社会性别的关系; 性别不平等现象; 体现在身体健康方面的 ...",
+          "position": 35
+        },
+        {
+          "title": "Translation of 性别二元论 to English with audio for ... - Trainchinese",
+          "link": "https://www.trainchinese.com/v2/wordDetails.php?rAp=0&wordId=136411&tcLanguage=en",
+          "snippet": "English definition and translation from Chinese of: 性别二元论 with examples on how to use, sound, pronunciation, stroke order animations for each character ...",
+          "position": 36
+        },
+        {
+          "title": "理解性别和代词的指南 - Impact Hub",
+          "link": "https://impacthub.net/zh-CN/gender-pronoun-guide/",
+          "snippet": "——Alok Vaid-Menon，《超越性别二元论》。 顺式、反式和非二元.",
+          "position": 37
+        },
+        {
+          "title": "属性二元论与诗的意象 - 上海交通大学期刊中心",
+          "link": "http://www.qk.sjtu.edu.cn/cfls/CN/10.3969/j.issn.1674-8921.a0431",
+          "snippet": "属性二元论的物理属性和心理属性与诗歌意象的构成要素有密切的联系,意象图式理论可以有效地解释诗歌意象的生成机制,意义是意向性的一种形式,因而意向性理论给诗歌意象的 ...",
+          "position": 38
+        },
+        {
+          "title": "政体新论：破解民主-非民主二元政体观的迷思",
+          "link": "http://nads.ruc.edu.cn/tsqk1/zkcs/e8e56d75516b44d6a27a27fda5c9fe7a.htm",
+          "snippet": "与古城邦和中世纪政治甚至近代国家相比，现代国家结构具有无比的复杂性。 ... 我们又能从前沿的新制度主义范式中借鉴什么资源，破解“二元论”、建构符合实践的“多元论”政体观？",
+          "position": 39
+        },
+        {
+          "title": "分配行政与民事权益——关于公法私法二元论之射程的一个序论性考察",
+          "link": "https://fzzfyjy.cupl.edu.cn/info/1035/12605.htm",
+          "snippet": "王天华：分配行政与民事权益——关于公法私法二元论之射程的一个序论性考察 ... 【摘要】在我国现行法下，存在着大量的行政法创设民事权益的现象。这一现象可以 ...",
+          "date": "2020年12月29日",
+          "position": 40
+        },
+        {
+          "title": "从“三元论”到“二元论”——工程本体论新探 - 中国力学期刊网",
+          "link": "https://pubs.cstam.org.cn/article/doi/10.3724/j.issn.1674-4969.22081701",
+          "snippet": "From Trialism to Dualism: Ontology of Engineering Philosophy · 5. 结语 · 4. 工程本体论及方法论表述 · 3. 技术的非“元”性及作为“变易”的重要性 · 2. 科学与工程二元论 · 1.",
+          "position": 41
+        },
+        {
+          "title": "乔治·艾略特《丹尼尔·德隆达》双性同体女性主义倾向",
+          "link": "https://www.semanticscholar.org/paper/%E4%B9%94%E6%B2%BB%C2%B7%E8%89%BE%E7%95%A5%E7%89%B9%E3%80%8A%E4%B8%B9%E5%B0%BC%E5%B0%94%C2%B7%E5%BE%B7%E9%9A%86%E8%BE%BE%E3%80%8B%E5%8F%8C%E6%80%A7%E5%90%8C%E4%BD%93%E5%A5%B3%E6%80%A7%E4%B8%BB%E4%B9%89%E5%80%BE%E5%90%91-%E9%BB%84%E5%A6%82%E6%95%8F/a07c5b504b6e1ce02a18c5a537ff1fed158d88d2",
+          "snippet": "荣格原型理论与弗吉尼亚·伍尔夫的双性同体文学观为解读小说人物形象提供了新的视角。小说主人公丹尼尔和他母亲利奥诺拉身上带有超越形而上学性别二元论的第三性特征,是在 ...",
+          "position": 42
+        },
+        {
+          "title": "[PDF] 法律人思维的二元论 - 复旦大学法学院",
+          "link": "https://law.fudan.edu.cn/_upload/article/files/7d/c4/9d9f408d4a8b9f36c7405817b4f1/2d2d921f-35db-4e24-9e06-2781236d9b0b.pdf",
+          "snippet": "“法律人的思维”提出的. 必然性和必要性都与中国司法需要改革并走向职业化这个背景息息相关。因此，它和法律的. 形式化、法律职业、程序主义、司法职业化等理论和观念也密切 ...",
+          "position": 43
+        },
+        {
+          "title": "心灵哲学视域下的心身问题研究 - 人民论坛网",
+          "link": "http://www.rmlt.com.cn/2017/0410/468659.shtml",
+          "snippet": "对于这种说法，按照维特根斯坦的观点，在字面上就包含自相矛盾，因为“离开”这个词所表示的恰恰是一种空间性和物体性的关系。在维特根斯坦看来，二元论的错误 ...",
+          "date": "2017年4月10日",
+          "position": 44
+        },
+        {
+          "title": "正当防卫的原理及其运用——对二元论的批判性考察",
+          "link": "https://la.swupl.edu.cn/articles/article_detail.aspx?id=7000487888",
+          "snippet": "法律大数据研究服务中心.",
+          "position": 45
+        },
+        {
+          "title": "[GI]性別二元論的挑戰；維基百科的結構性偏見；性別與空間表現",
+          "link": "https://taiwan-gist.nknu.edu.tw/index.php/component/sppagebuilder/?view=page&id=151",
+          "snippet": "[GI]性別二元論的挑戰；維基百科的結構性偏見；性別與空間表現 ... 性別二元論意指將人類分為女性和男性兩種區別，這在心理科學的歷史發展上扮演重要角色，但近年來不論是在學術 ...",
+          "position": 46
+        },
+        {
+          "title": "【答疑】激进女性主义与性别二元论问题_哔哩哔哩 - Bilibili",
+          "link": "https://www.bilibili.com/video/BV1DGeEejEZK/",
+          "snippet": "【答疑】激进女性主义与性别二元论问题, 视频播放量1761、弹幕量5、点赞数62、投硬币枚数27、收藏人数56、转发人数6, 视频作者随性不渝, 作者简介不是 ...",
+          "date": "2024年8月14日",
+          "position": 47
+        },
+        {
+          "title": "[PDF] 女性主义地理学观及其思想史意义",
+          "link": "https://www.progressingeography.com/CN/article/downloadArticleFile.do?attachType=PDF&id=42571",
+          "snippet": "法论层面上的等级性二元论性别关系批评，女性主. 义地理学最终建构了非性别化的地理学本体论、认. 识论和方法论框架，并成为当代地理学的主流思潮. 之一 ...",
+          "date": "2019年3月3日",
+          "position": 48
+        },
+        {
+          "title": "档案的心物二元论-上海档案信息网",
+          "link": "https://www.archives.sh.cn/news/gnzl/202209/t20220922_63353.html",
+          "snippet": "展览由法国外交部主办，主旨是从法国的立场出发讨论和平的理念，并展现这一理念如何随着时间推移促进、改变和调整。此次展览的新闻稿称其为“一场雄心勃勃的开创性展览”，更 ...",
+          "position": 49
+        },
+        {
+          "title": "二元论的命运与确实性的理想 - 探索与争鸣",
+          "link": "https://www.tsyzm.com/CN/lexeme/showArticleByLexeme.do?articleID=5881",
+          "snippet": "二元论的命运与确实性的理想. 汪堂家. 探索与争鸣 . 1991, (6): 21 . 上海市社会科学界联合会主管主办. 地址：上海市淮海中路622弄7号社联大楼401室邮编：200020. 电话 ...",
+          "position": 50
+        },
+        {
+          "title": "二元论到二重性：布迪厄社会观理论研究",
+          "link": "https://www.society.shu.edu.cn/CN/Y2009/V29/I3/101",
+          "snippet": "布迪厄反对将社会看作实体性的物质结构，以为这一结构能够被感知和触摸；也反对将社会看作是种种表象和意志，呈现于主体性的感悟中。进而言之，他反对在社会与个人、物质与精神 ...",
+          "position": 51
+        },
+        {
+          "title": "性别（囊括了生物、社会、心理等学科的综合概念） - 百度百科",
+          "link": "https://baike.baidu.com/item/%E6%80%A7%E5%88%A5/500566?noadapt=1",
+          "snippet": "波伏娃认为，男女之间的不平等从根本上来讲是因为只有男性才被定义为“正常人”，是“人类”的原型。 从性倾向重新思考性别. 为了跳出“性别二元论”的困境，法国女性主义者莫 ...",
+          "position": 52
+        },
+        {
+          "title": "性別二元與多元的對話：讓每個人安然成為自己 - 女人迷",
+          "link": "https://womany.net/read/article/10201",
+          "snippet": "性別二元之所以會被解構，是有賴於女性主義強調性別二元是社會規範所建構的產物，生理性別因為社會二元性別的宰制而被套牢。就多數人的理解，生理性別二元論 ...",
+          "date": "2016年3月28日",
+          "position": 53
+        },
+        {
+          "title": "跨性别运动员参加奥运：“成为自己”有什么错？ - 新浪新闻",
+          "link": "https://news.sina.cn/2021-08-04/detail-ikqciyzk9568173.d.html",
+          "snippet": "扮演一个“正常人”，是很多跨性别者长期经受的日常。“不是男人，就是女人”，传统的二元论性别分类方法也是一种人为的创造，多数人，特别是顺性别群体或许 ...",
+          "date": "2021年8月4日",
+          "position": 54
+        },
+        {
+          "title": "区域地理与系统地理二元论的演变及其透析",
+          "link": "https://www.dlyj.ac.cn/CN/10.11821/yj2012050001",
+          "snippet": "地理学是一门追求普适性的学科,还是强调其独特性,这个\"普适\"与\"例外\"的问题曾引起地理学史上最大的方法论争论。它反映出系统地理学与区域地理学的二元论。",
+          "position": 55
+        },
+        {
+          "title": "法国犯罪二元论体系的结构性分析- 法信- 懂法，更懂法律人",
+          "link": "https://www.faxin.cn/lib/Flwx/FlqkContent.aspx?gid=F270779&libid=040106",
+          "snippet": "... 二元论体系的基础上,把各个犯罪二元论体系作为一个整体,进行全面的、综合的研究,分析其内部的结构和要素,对其变化及发展历史过程进行全面的考察,以把握它们的复杂性 ...",
+          "position": 56
+        },
+        {
+          "title": "跨性别争议究竟在争什么？性别二元论vs性别多元论 - YouTube",
+          "link": "https://www.youtube.com/watch?v=jnzF9Vl9esQ",
+          "snippet": "从理论、观察到实践讨论，全方位解析跨性别的社会争议！\n时长： 12:46\n发布时间： 2022年9月9日",
+          "date": "2022年9月9日",
+          "position": 57
+        },
+        {
+          "title": "张秀琴孔晓辉：论马克思辩证法的“内在关系”规定性",
+          "link": "http://marxism.cass.cn/mksjbyl/202402/t20240207_5732870.shtml",
+          "snippet": "... 性与价值的劳动规定性）从各种形式的机械二元论模式（在英语世界，这主要指的是从斯威齐以来直至科亨、埃尔斯特、罗默和布伦纳等分析马克思主义，以及 ...",
+          "date": "2024年2月7日",
+          "position": 58
+        },
+        {
+          "title": "王淼洋《中西科学思想的相应性初探》 - 上海社会科学院",
+          "link": "https://www.sass.org.cn/1992/0201/c1282a36290/page.htm",
+          "snippet": "从总体特征上来说，中西科学思想的最大差异就是一元论与二元论的区别。中国的特点是一元论。中国的科学思想主要地表现为一种统一整体的宇宙观。在这种 ...",
+          "date": "1992年2月1日",
+          "position": 59
+        },
+        {
+          "title": "性别不是连续谱 - 神经现实",
+          "link": "https://neu-reality.com/2016/07/gender-is-not-a-spectrum/",
+          "snippet": "... 二元论的群体，却没有人真正理解你的性别身份是如此的复杂、闪耀、多元而独特——只有这时候，问题才会浮现。你自称非二元性别或者流动性人，然后要求 ...",
+          "date": "2016年7月22日",
+          "position": 60
+        },
+        {
+          "title": "宋代性二元论研究 - 中国社会科学文库",
+          "link": "https://www.sklib.cn/booklib/bookPreview?SiteID=122&ID=6132479&QrcodeCode=5F5D345E36384D00312245AFBFE6D9316B978A773DCA1276B5320E4E3E372685&fromSubID=256",
+          "snippet": "《宋代性二元论研究》是2006年中国社会科学出版社出版的图书，作者李晓春。本书是一部关于宋代性二元论的理论研究专著，其主旨是论证宋代天命之性与气质之性的性二元论由 ...",
+          "currency": "¥",
+          "price": 13,
+          "position": 61
+        },
+        {
+          "title": "性别是一种表演？读一读酷酷的朱迪斯·巴特勒 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_11341827",
+          "snippet": "她认为，“性”是一种客观实在，而“性别”则是社会文化诠释下的产物。在一代又一代人之间，关于性别的“脚本”（script）被更新、修订以及强化，男女性群体的二元论也 ...",
+          "date": "2021年2月18日",
+          "position": 62
+        },
+        {
+          "title": "五四女性文學中性別二元論和本質論的反抗性話語",
+          "link": "https://scholar.xjtlu.edu.cn/en/publications/%E5%95%8F%E9%A1%8C%E5%8C%96%E6%96%B0%E5%A5%B3%E6%80%A7%E4%BA%94%E5%9B%9B%E5%A5%B3%E6%80%A7%E6%96%87%E5%AD%B8%E4%B8%AD%E6%80%A7%E5%88%A5%E4%BA%8C%E5%85%83%E8%AB%96%E5%92%8C%E6%9C%AC%E8%B3%AA%E8%AB%96%E7%9A%84%E5%8F%8D%E6%8A%97%E6%80%A7%E8%A9%B1%E8%AA%9E",
+          "snippet": "問題化新女性：五四女性文學中性別二元論和本質論的反抗性話語. Translated title of the contribution: Problematizing “New Women”: Counter Discourses to Sex ...",
+          "position": 63
+        },
+        {
+          "title": "【翻译】罗宾·登布罗夫《超越二元论：性别酷儿（genderqueer ...",
+          "link": "https://m.douban.com/note/783873084/",
+          "snippet": "【翻译】罗宾·登布罗夫《超越二元论：性别酷儿（genderqueer）作为批判性性别种类》 Dembroff, R. (2019). “Beyond Binary: Genderqueer as Critical ...",
+          "date": "2020年11月13日",
+          "position": 64
+        },
+        {
+          "title": "非男即女？：生物学家有话说",
+          "link": "https://tyingknots.net/2020/09/intersex-biological-sex/",
+          "snippet": "... 性。 从二元论到性别光谱的转变. 长期以来，对性别二元论的错误认知产生了很多间接的负面影响。对性别的错误认知混淆了考古记录，更给全球被严格审查的 ...",
+          "date": "2020年9月2日",
+          "position": 65
+        },
+        {
+          "title": "[PDF] 二元论的衰微与身体美学的兴起 - 文艺理论研究",
+          "link": "https://tsla.ecnu.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1022",
+          "snippet": "电子邮箱: I:2J87:/G9:$,%*'-./0本文系国家社会科学基金项目#主体. 论美学视野中的西方身体艺术研究$[项目编号: %+Y_M#*+]的阶段性成果。 !\"#$%: BG4H4.;724/FH9:;760:2@ ...",
+          "position": 66
+        },
+        {
+          "title": "来自2018年的卦辞｜向在荣：跨二元论，阴阳小史- Heichi magazine",
+          "link": "http://www.heichimagazine.org/zh/",
+          "snippet": "我似乎认为，种族主义等种种结构性的偏见应终有一个到期年限。我原以为，当中国如今已不再扮演欧洲殖民主义受害者，而跻身全球列强之列，有这么多对此强权 ...",
+          "date": "2021年12月23日",
+          "position": 67
+        },
+        {
+          "title": "赵汀阳：二元性和二元论",
+          "link": "https://legal-theory.org/?mod=info&act=view&id=24022",
+          "snippet": "除了理性的理解，我们还有感性的理会。毫无疑问，感性的理会是细腻复杂的，感性能够理会细节、不可分析的过程和整体，但是，感性只能理会个别特殊事情的整体 ...",
+          "date": "2018年4月25日",
+          "position": 68
+        },
+        {
+          "title": "基于STS视角的技术领域的性别平等问题研究 - 万方数据",
+          "link": "https://d.wanfangdata.com.cn/thesis/D668026",
+          "snippet": "只有打破传统性别二元论，营造先进的性别文化，并且通过制度创新和女性自我认知的转变才有可能改变技术领域的性别不平等现状。 论文首先对技术领域的性别研究现状进行了考察， ...",
+          "position": 69
+        },
+        {
+          "title": "[PDF] “去标签化”与“性别工具箱”： 女性卡车司机的微观劳动实践 - 社会学评论",
+          "link": "http://src.ruc.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=293",
+          "snippet": "女性卡车司机的经验表明，冲破职业性别隔离是一个紧密依循微观劳动实践的动态过. 程，她们在微观劳动实践中展示出的个体能动性突破了僵化的“性别二元论”的对立，为职业性别 ...",
+          "position": 70
+        },
+        {
+          "title": "Traducción de 性别二元论 al español con audio para ... - Trainchinese",
+          "link": "https://www.trainchinese.com/v2/wordDetails.php?rAp=0&wordId=136411&tcLanguage=es",
+          "snippet": "Definición y traducción al español del chino de: 性别二元论 con ejemplos de cómo usar, audio, pronunciación, animaciones de orden de trazo para escribir y ...",
+          "position": 71
+        },
+        {
+          "title": "PNAS: 一个无性别社会的创想 - 领研网",
+          "link": "https://www.linkresearcher.com/theses/bcc741ef-7490-4a79-a548-5d291049cee0",
+          "snippet": "... 性别的非二元论。毕竟，世界上确实存在有人不认可自己的生理性别，而也有人的性别感知会不断发生变化，遗憾的是，目前仅靠生活经验很难让人们认可性别非二元论 ...",
+          "date": "2019年1月5日",
+          "position": 72
+        },
+        {
+          "title": "宋明理学从二元论到一元论的转变 - 武汉大学",
+          "link": "http://cgrs.lib.whu.edu.cn/Qw/Paper/597617",
+          "snippet": "... 二元论到明代理学的理气一元论的转变；二是人性论方面，由程朱的天命之性(义理之性)、气质之性的二元论到明代理学性气合一的一元人性论的转变。这些转变显示出 ...",
+          "position": 73
+        },
+        {
+          "title": "性别二元制- 搜狗科学百科",
+          "link": "https://wuli.wiki/assets/sogou/524%E6%80%A7%E5%88%AB%E4%BA%8C%E5%85%83%E5%88%B6%20-%20%E6%90%9C%E7%8B%97%E7%A7%91%E5%AD%A6%E7%99%BE%E7%A7%91.html",
+          "snippet": "女权主义哲学家玛丽亚·卢戈内斯认为，西方殖民者把他们的性别二元论强加给土著人民，取代了先前存在的土著概念。 在当代西方，非二元制或性别同性恋者通过拒绝“男性”和“女性” ...",
+          "position": 74
+        },
+        {
+          "title": "法国二元论司法的正当性分析——法国最高法院审议模式的考察与启示",
+          "link": "http://la.swupl.edu.cn/articles/article_detail.aspx?id=49012136",
+          "snippet": "法国二元论司法的正当性分析——法国最高法院审议模式的考察与启示 ... 中文关键词：司法审议模式;正当性;二元论;法国;. 摘要：以最高法院为代表，法国司法模式的显著特征是三段论 ...",
+          "position": 75
+        },
+        {
+          "title": "【吴胜锋】量子力学与当代心灵哲学中的二元论",
+          "link": "http://philosophychina.cssn.cn/xxly/xxly_20385/201909/t20190910_4970230.shtml",
+          "snippet": "... 性条件，二元论竟然能够与物理学的基础理论相互支撑。 一哥本哈根学派的量子意识理论. 在量子力学的创立和阐释中，以丹麦物理学家波尔(NielsHenrikDavidBohr)为代表的 ...",
+          "position": 76
+        },
+        {
+          "title": "打破男性气质二元论 - ELLEMEN睿士",
+          "link": "https://www.ellemen.com/person/a35094789/breaking-conventional-masculinity/",
+          "snippet": "就时代背景下的性别来说，男女从传统观念上便是性别的二元，两者只能占其一，再者，每个性别也有对应的“性别角色”。但也有由于这样的刻板印象，使得 ...",
+          "date": "2020年12月30日",
+          "position": 77
+        },
+        {
+          "title": "从二元论到二重性：布迪厄社会观理论研究",
+          "link": "http://html.rhhz.net/society/html/2009-03-05.htm",
+          "snippet": "对这一根本性问题的回答，必须回到场域与习性所构成的二重性上去。由此，本文的旨趣可见一斑。 之所以如此，缘由在于，在我们看来，布迪厄实践理论的分析以及 ...",
+          "position": 78
+        },
+        {
+          "title": "冯玉军：把握世界脉动，要走出“阴谋论”“二元论”思维误区",
+          "link": "https://brgg.fudan.edu.cn/articleinfo_4481.html",
+          "snippet": "乱云飞渡之际，如何正确地把握世界发展趋势、全方位了解竞争与合作的对象并为正确决策提供有力的智力支撑，是中国国际问题研究界的历史性重任。",
+          "date": "2022年1月8日",
+          "position": 79
+        },
+        {
+          "title": "每年的7 月14 日是国际非二元性别日。 它最初创立于2012 年，旨在 ...",
+          "link": "https://www.reddit.com/r/weibo_read/comments/1e5mxmx/%E6%AF%8F%E5%B9%B4%E7%9A%84_7_%E6%9C%88_14_%E6%97%A5%E6%98%AF%E5%9B%BD%E9%99%85%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%AB%E6%97%A5_%E5%AE%83%E6%9C%80%E5%88%9D%E5%88%9B%E7%AB%8B%E4%BA%8E_2012/",
+          "snippet": "每年的7 月14 日是国际非二元性别日。 它最初创立于2012 年，旨在庆祝和唤起人们对那些不符合传统性别二元论的人的关注。之所以选择这一天，是因为它 ...",
+          "date": "2024年7月17日",
+          "position": 80
+        },
+        {
+          "title": "Nature：科学研究应当考虑“性别”与“性别认知”因素 - 生物谷",
+          "link": "https://www.bioon.com/article/47f46e673575.html",
+          "snippet": "... 性别以及性别认知因素。 作者认为，在研究中将性别（Sex， 女性 ... 性别二元论'这一主张。例如，小丑鱼成熟时均为雄性，之后某些个体会转变 ...",
+          "date": "2019年11月9日",
+          "position": 81
+        },
+        {
+          "title": "5种方法，帮助孩子打破性别偏见",
+          "link": "https://cn.weforum.org/stories/2021/03/5-zhong-fang-fa-bang-zhu-hai-zi-da-po-xing-bie-pian-jian/",
+          "snippet": "家长和监护人是孩子在认识不同性别时首先学习的对象。因此，家中的成年人可以有意地展示出一些语言和行为来挑战性别二元论，并打破一些带有性别歧视的观念。",
+          "date": "2021年3月16日",
+          "position": 82
+        },
+        {
+          "title": "语言·主体·性别――初探巴特勒的知识迷宫 - 实践与文本- 南京大学",
+          "link": "https://ptext.nju.edu.cn/be/64/c12246a245348/page.htm",
+          "snippet": "于是，生理性别和社会性别的区分并无意义，而我们的身体也绝非只有物质性的存在－－这里，巴特勒挑战着笛卡儿（des Cartes）的身心（mind-body）二元论 ...",
+          "date": "2007年7月7日",
+          "position": 83
+        },
+        {
+          "title": "Transgender Labor Force Status in the United States 2014–17",
+          "link": "https://www.ivysci.com/articles/4618916__Beyond_the_Gender_Binary_Transgender_Labor_Force_Status_in_the_United_States_201417/",
+          "snippet": "Beyond the Gender Binary: Transgender Labor Force Status in the United States 2014–17. 超越性别二元论：2014-17年美国跨性别劳动力状况. Travis Campbell, Lee ...",
+          "position": 84
+        },
+        {
+          "title": "性别二元论靠谱吗？_哔哩哔哩 - Bilibili",
+          "link": "https://www.bilibili.com/video/BV1Zo4y1j7qj/",
+          "snippet": "性别二元论靠谱吗？, 视频播放量1556、弹幕量2、点赞数42、投硬币枚数11、收藏人数35、转发人数6, 视频作者随性不渝, 作者简介不是从零开始女性主义， ...",
+          "date": "2023年4月23日",
+          "position": 85
+        },
+        {
+          "title": "Stadtein on X: \"我觉得我作为一个在相对性别二元论的环境下成长的顺 ...",
+          "link": "https://twitter.com/Proletariety/status/1668760566238969856",
+          "snippet": "我觉得我作为一个在相对性别二元论的环境下成长的顺性别异性恋男性在come up with咒骂另女性的脏话或者vulgarized词句方面的本领这辈子都追不上反 ...",
+          "date": "2023年6月13日",
+          "position": 86
+        },
+        {
+          "title": "二元论的衰微与身体美学的兴起——以西方美学为例 - 中国作家网",
+          "link": "https://www.chinawriter.com.cn/n1/2020/0811/c419351-31818056.html",
+          "snippet": "在破解这个悖论的过程中，身体的意义获得了吊诡性的揭示。尤其是到了近代以后，自然科学持续揭示了精神活动对身体的归属关系，提供了解构二元论的证据。随着 ...",
+          "date": "2020年8月11日",
+          "position": 87
+        },
+        {
+          "title": "Does Judith Butler subvert gender binarism? Let's talk about sex(ual ...",
+          "link": "https://www.x-mol.com/paper/1360034041131470848",
+          "snippet": "在同性恋中以及通过同性恋的例子来颠覆性别二元论是有问题的，因为同性恋坚持身体二元论，因此也像异性恋一样坚持其“原始”有性：在异性恋和同性恋中，身体的性别仍然决定着人的 ...",
+          "position": 88
+        },
+        {
+          "title": "宋代性二元论研究: 兼论理一分殊的体用论是中国哲学的核心思维方式",
+          "link": "https://books.google.com/books/about/%E5%AE%8B%E4%BB%A3%E6%80%A7%E4%BA%8C%E5%85%83%E8%AE%BA%E7%A0%94%E7%A9%B6.html?id=xT4yAQAAIAAJ",
+          "snippet": "本书的主旨是论证宋代天命之性与气质之性的性二元论由萌芽、提出、发展到成熟的过程,作者通过揭示哲学发展过程的问题,认为宋代性二元论是把人性论逐渐建立在本体论与 ...",
+          "position": 89
+        },
+        {
+          "title": "[PDF] A Study of the Genealogy of Posthuman Feminism",
+          "link": "https://tsla.researchcommons.org/cgi/viewcontent.cgi?article=2568&context=journal",
+          "snippet": "后现代主义认识论的基础———社. 会建构主义的二元论开始被后人类女性主义一个. “自然文化连续体”的概念所取代。哈拉维在. 《赛博格宣言》和《马克思主义词典的性别》中都.",
+          "position": 90
+        },
+        {
+          "title": "1.4 对二元论、一元论的理论梳理以及超越的可能 - 小宇宙",
+          "link": "https://www.xiaoyuzhoufm.com/episode/6304a9ec3f74e21c5affb72e",
+          "snippet": "听《性别麻烦》上小宇宙。 朱迪斯·巴特勒【美】 1990年面世的《性别麻烦》是女性主义理论和性别研究的重要著作，一经出版即引来赞誉和争议无数， ...",
+          "date": "2022年8月23日",
+          "position": 91
+        },
+        {
+          "title": "性别战争：谁是幕后推手？ - 搜狐",
+          "link": "https://www.sohu.com/a/820778666_121885030",
+          "snippet": "... 性别认同和表达方式多样性的讨论日益增多。 ... 这种基于身份认同而非生物学特征制定规则的做法，在一定程度上挑战了长期以来形成的性别二元论观念。",
+          "date": "8天前",
+          "position": 92
+        },
+        {
+          "title": "倡导性别平等的内衣应该是什么样子？这个品牌想彻底改变人们对 ...",
+          "link": "https://caus.com/all-articles/news/57467/",
+          "snippet": "... 性别人士设计的内衣品牌和理念。 大多数时尚产品都遵循性别二元论，但对于非常规性别的人来说，这可能会使像购买内衣这样平凡的工作变得异常困难。 想 ...",
+          "date": "2021年6月29日",
+          "position": 93
+        },
+        {
+          "title": "性別二元論－以瑞克里芙．霍爾的寂寞之井為例= Gender Binarism in ...",
+          "link": "https://www.airitilibrary.com/Article/Detail/U0002-2708201222573400",
+          "snippet": "本論文旨在探討寂寞之井主角—史提芬．霍爾遭受壓迫的性別二元論，與女同志身分認同。此篇論文探討她的女同志身分認同的過程，同時也是人類對於性別認同的探索過程。",
+          "position": 94
+        },
+        {
+          "title": "性别两者二元论,女性自古多弱小 - 新浪",
+          "link": "https://k.sina.cn/article_6419996293_17ea95e8500100679d.html",
+          "snippet": "不太为人所知的女性主义者普兰·德·拉巴尔在十七世纪说过：“但凡男人写女人的东西都是值得怀疑的，因为男人既是法官又是当事人。”在所有地方，在任何时代，男人 ...",
+          "date": "2018年4月14日",
+          "position": 95
+        },
+        {
+          "title": "心灵哲学讲义（二）：笛卡尔的身心二元论 - 机核GCORES",
+          "link": "https://www.gcores.com/articles/141269",
+          "snippet": "这篇文章将介绍以笛卡尔二元论为代表的实体二元论，包括这种哲学观点的内容、支撑论证和一些反对论证，以及与此观点相关的心灵-身体因果性问题。 II ...",
+          "date": "2021年9月6日",
+          "position": 96
+        },
+        {
+          "title": "【卢盈华】杨简的心一元论辨析——从一元论与二元论的诸种含义说起",
+          "link": "https://www.rujiazg.com/article/19829",
+          "snippet": "不同于朱熹的性、理与气、心的（在存在论与概念独立上的）二元论，也不同于陆象山与王阳明心与理的关联式的一元论，杨简的思想形态展现出化约式的一元论。",
+          "date": "2020年12月17日",
+          "position": 97
+        },
+        {
+          "title": "非二元性别：打破传统二元论，建造多元的性别色谱体系 - YouTube",
+          "link": "https://m.youtube.com/watch?v=qnhoZ5a0bX0",
+          "snippet": "世界上大部分地方，人们还是被要求从是男还是女中做单选题，被称呼为先生或者女士，而这些非此即彼 ...\n时长： 5:12\n发布时间： 2021年12月28日",
+          "date": "2021年12月28日",
+          "position": 98
+        }
+      ],
+      "images": [
+        {
+          "title": "跨性别争议究竟在争什么？性别二元论vs性别多元论- YouTube",
+          "imageUrl": "https://i.ytimg.com/vi/jnzF9Vl9esQ/maxresdefault.jpg",
+          "link": "https://www.youtube.com/watch?v=jnzF9Vl9esQ"
+        },
+        {
+          "title": "性别二元论PNG图片_性别二元论PNG素材_性别二元论设计元素下载-PNG素材网",
+          "imageUrl": "https://img.pngsucai.com/00/08/00/adf4a0eb135c4fdb.webp",
+          "link": "https://www.pngsucai.com/free-png/487371.html"
+        },
+        {
+          "title": "赛博女性主义对性别二元论的突破及其价值体现-马克思主义学院",
+          "imageUrl": "https://marx.hnist.cn/__local/C/0E/89/6B3F7A5CDD9EC2A7CA08C49D2C8_943FF777_4CDEA.jpg",
+          "link": "https://marx.hnist.cn/info/1010/1702.htm"
+        },
+        {
+          "title": "性别二元论PNG图片_性别二元论PNG素材_性别二元论设计元素下载-PNG素材网",
+          "imageUrl": "https://img.pngsucai.com/00/43/19/4aec81ebe251bd9f.webp",
+          "link": "https://www.pngsucai.com/free-png/487371.html"
+        },
+        {
+          "title": "性别二元论- 抖音百科",
+          "imageUrl": "https://p3-sdbk2-media.byteimg.com/tos-cn-i-xv4ileqgde/dedd9739d6354c00b4f49ba1f994edbc~tplv-xv4ileqgde-image.image",
+          "link": "https://m.baike.com/wikiid/4186184534980483505"
+        },
+        {
+          "title": "非二元性别：打破传统二元论，建造多元的性别色谱体系| 歪腦WHYNOT",
+          "imageUrl": "https://s3cdn.wainao.me/2021-12/cover-photos/1920x1080.jpg",
+          "link": "https://www.wainao.me/wainao-watches/explainer-gender-nonbinary-12282021"
+        },
+        {
+          "title": "女权主义| 什么是性别二元论？ - 日新说",
+          "imageUrl": "http://28949356.s21i.faiusr.com/4/ABUIABAEGAAgwf_PogYowOHK4AIwlAU4ygI.png",
+          "link": "http://m.copernicium.tw/sys-nd/1073.html"
+        },
+        {
+          "title": "性别二元论-哔哩哔哩_Bilibili",
+          "imageUrl": "https://i1.hdslb.com/bfs/archive/9e311e6be874d11a4bb6ea0cf46fc0f5bd758339.jpg@960w_540h_1c.webp",
+          "link": "https://m.bilibili.com/search?keyword=%E6%80%A7%E5%88%AB%E4%BA%8C%E5%85%83%E8%AE%BA"
+        },
+        {
+          "title": "性别的概念- 妙佑医疗国际",
+          "imageUrl": "https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2017/08/25/16/12/beingtransgender-spectrum.jpg",
+          "link": "https://www.mayoclinic.org/zh-hans/img-20348203"
+        }
+      ],
+      "peopleAlsoAsk": [
+        {
+          "question": "Nonbinary是什么意思？",
+          "snippet": "Nonbinary在这里指“非二元性别的”，也被广泛称作Genderqueer（性别酷儿），用来指称那些超越传统意义上对男性或女性的二元划分、不单纯属于男性或女性的自我性别认同。",
+          "title": "Nonbinary：男女之外，性别的第三个选项 - 纽约时报",
+          "link": "https://cn.nytimes.com/culture/20181127/wod-nonbinary/"
+        },
+        {
+          "question": "Genderfluid是什么意思？",
+          "snippet": "性别流动（英语：genderfluid）者常表示希望能够对其性别认同保持灵活，而非固定认同于单一的定义。 他们一生中可能会在不同的性别表达之间波动，或是在其性别表达中同时囊括多个性别的特征。 性别流动者也可能认同于双性别、三性别以及泛性别等标签。",
+          "title": "非二元性别- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%A5"
+        }
+      ],
+      "relatedSearches": [
+        {
+          "query": "非二元论"
+        },
+        {
+          "query": "Gender binary"
+        },
+        {
+          "query": "Gender opposition"
+        },
+        {
+          "query": "非二元人"
+        },
+        {
+          "query": "Nonbinary"
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

@@ -1,0 +1,754 @@
+{
+  "query": "变性人",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-03T23:39:47.626171",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "变性人",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "answerBox": {
+        "snippet": "“变性人”指的是那些已经通过手术改变了自己原本生理性别的人。 而在医学上，无论变性与否，想改变自己生理性别的人，都称之为易性者。 易性指从心理上否定自己的性别，认为自己的性别与外生殖器的性别相反，而要求变换生理的性别特征。 故又称变换性别癖或性别转换症，属于性别身份识别障碍。",
+        "snippetHighlighted": [
+          "指的是那些已经通过手术改变了自己原本生理性别的人"
+        ],
+        "title": "变性人_百度百科",
+        "link": "https://baike.baidu.com/item/%E5%8F%98%E6%80%A7%E4%BA%BA/1520555"
+      },
+      "organic": [
+        {
+          "title": "跨性别- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E8%AE%8A%E6%80%A7%E5%88%A5",
+          "snippet": "跨性别（英语：transgender）人士的性别认同与他们出生时指定性别不同。如果跨性别人士以医学手段从一种性别转换到另一种性别，则有时会认同自己为变性人。",
+          "position": 1
+        },
+        {
+          "title": "跨性別- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/wiki/%E5%8F%98%E6%80%A7%E4%BA%BA",
+          "snippet": "跨性別（英語：transgender）人士的性別認同與他們出生時指定性別不同。如果跨性別人士以醫學手段從一種性別轉換到另一種性別，則有時會認同自己為變性人。",
+          "position": 2
+        },
+        {
+          "title": "解密变性人：“她”们到底能不能啪啪啪 - 界面新闻",
+          "link": "https://m.jiemian.com/article/938357.html",
+          "snippet": "其实变性人最早起源于中国的太监。阉割后的形体带有女性特征：溜肩，肥臀，嗓音细哑，不生胡须。但这只是最原始的变性人。",
+          "date": "2016年11月4日",
+          "position": 3
+        },
+        {
+          "title": "变性人与歧视：“在非洲，他们不承认我的性别身份” - BBC News 中文",
+          "link": "https://www.bbc.com/zhongwen/simp/world-54661363",
+          "snippet": "变性人与歧视：“在非洲，他们不承认我的性别身份” ... 她们都因为自己的性别身份认同，多年受其他人歧视，最后被迫到外国寻求庇护，但心里仍然惦记着家乡。",
+          "date": "2020年10月26日",
+          "position": 4
+        },
+        {
+          "title": "變性人- 维基词典，自由的多语言词典",
+          "link": "https://zh.wiktionary.org/zh-hans/%E8%AE%8A%E6%80%A7%E4%BA%BA",
+          "snippet": "发音 · 拼音：biànxìngrén · 注音：ㄅㄧㄢˋ ㄒㄧㄥˋ ㄖㄣˊ · 通用拼音：biànsìngrén · 威妥玛拼音：pien4-hsing4-jên · 耶鲁官话拼音：byàn-syìng-rén · 国语罗马字：biannshinqren ...",
+          "position": 5
+        },
+        {
+          "title": "做男人还是做女人好？他们所经历的变性故事(组图) - 新华网",
+          "link": "http://www.xinhuanet.com/world/2016-03/10/c_128788213_6.htm",
+          "snippet": "这些变性者认为自己生在了错误的身体里，勇敢地选择了新的生活。随着“性别倒错”以及由此产生的跨性别现象在社会上的曝光度越来越高，原有的男女 ...",
+          "date": "2016年3月10日",
+          "position": 6
+        },
+        {
+          "title": "变性人婚姻家庭法律问题探析 - 法信",
+          "link": "https://www.faxin.cn/lib/flwx/FlqkContent.aspx?gid=F110860&libid=040101",
+          "snippet": "变性对亲属制度形成严重挑战.变性人的性别识别方法,采用\"户籍登记法\";变性人享有结婚的权利和自由,但应向对方履行告知义务;变性是婚姻关系终止的单独的一种原因; ...",
+          "position": 7
+        },
+        {
+          "title": "中国最年长变性人：不愿隐忍一生- BBC News 中文",
+          "link": "https://www.bbc.com/zhongwen/simp/chinese_news/2012/07/120712_china_transexual",
+          "snippet": "今年84岁的伊玲被认为是中国年纪最大的变性人。她在三年前才决定变性，完成自己一辈子都想做女人的心愿。",
+          "date": "2012年7月12日",
+          "position": 8
+        },
+        {
+          "title": "圣座教义部覆函：变性人能领受圣洗 - Vatican News",
+          "link": "https://www.vaticannews.va/zh/vatican-city/news/2023-11/doctrine-faith-baptisms-transsexuals.html",
+          "snippet": "（梵蒂冈新闻网）变性人，即使接受了荷尔蒙治疗或变性手术，“如果不存在在信众中造成公开的恶表或迷失方向的危险”，能接受圣洗。同性伴侣的孩子即使是由代孕 ...",
+          "date": "2023年11月9日",
+          "position": 9
+        },
+        {
+          "title": "美军变性人宣誓就任四星上将成美国最高跨性别官员 - 新浪新闻",
+          "link": "https://news.sina.cn/2021-10-21/detail-iktzqtyu2716005.d.html",
+          "snippet": "据美国有线电视新闻网（CNN）10月20日报道，美国卫生部助理部长、现年63岁的雷切尔·莱文（Rachel Levine）宣誓成为美国公共卫生服务军官团（U.S.Public health ...",
+          "date": "2021年10月21日",
+          "position": 10
+        },
+        {
+          "title": "保护女同性恋、男同性恋、双性恋、变性人、间性人和酷儿(LGBTIQ+)",
+          "link": "https://emergency.unhcr.org/zh-hans/protection/%E5%A4%84%E5%A2%83%E5%8D%B1%E9%99%A9%E7%9A%84%E4%BA%BA/%E4%BF%9D%E6%8A%A4%E5%A5%B3%E5%90%8C%E6%80%A7%E6%81%8B%E3%80%81%E7%94%B7%E5%90%8C%E6%80%A7%E6%81%8B%E3%80%81%E5%8F%8C%E6%80%A7%E6%81%8B%E3%80%81%E5%8F%98%E6%80%A7%E4%BA%BA%E3%80%81%E9%97%B4%E6%80%A7%E4%BA%BA%E5%92%8C%E9%85%B7%E5%84%BFlgbtiq",
+          "snippet": "概述 · LGBTIQ+：是“女同性恋、男同性恋、双性恋、变性人、间性人、酷儿和其他不同身份的人”的首字母缩写。 · SOGIESC：SOGIESC是“性取向、性别认同和表达、 ...",
+          "date": "2024年1月29日",
+          "position": 11
+        },
+        {
+          "title": "“最美变性人”河莉秀49岁近照曝光网：面目全非 - 联合早报",
+          "link": "https://www.zaobao.com.sg/entertainment/story20241002-4905086",
+          "snippet": "曾有“韩国最美变性女星”称号的河莉秀（Harisu）1999年出道，当时坦承自己是变性人，在相当保守的韩国社会掀起一阵轰动，知名度暴升让她财源滚滚。",
+          "date": "2024年10月2日",
+          "position": 12
+        },
+        {
+          "title": "泰国变性人情侣的生活、爱情和权利【组图】 -国际频道-新华网",
+          "link": "http://www.xinhuanet.com/world/2015-02/17/c_127504570.htm",
+          "snippet": "工作上的相识让两人的接触日益增多，虽然年龄上有差距，但优兰达仍然被荣纳吉的性格以及与自己在想法上的不谋而合而打动。然而无论是名声上还是年龄上，荣纳 ...",
+          "date": "2015年2月17日",
+          "position": 13
+        },
+        {
+          "title": "泰国变性手术不被中国承认，变性人身份是难题 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_1357343",
+          "snippet": "到目前为止，我国变性人进行户籍身份变更所依据的文件主要有两个，分别是公安部于2002年及2008年下达的《批复》。根据2002年公安部的《批复》，申请变更户口 ...",
+          "date": "2015年7月28日",
+          "position": 14
+        },
+        {
+          "title": "变性人的婚姻 - Family CLIC",
+          "link": "https://familyclic.hk/cn/topics/matrimonial-matters/marriage-and-co-habitant-issues/transsexual-marriage/",
+          "snippet": "X. 变性人的婚姻. 变性人是指任何改变性别的人士，他们通常会接受性别转换手术，以改变性别，并会在接受手术后领取新的身份证，上面将显示新性别。 ... 在 W诉婚姻登记官 一案中， ...",
+          "position": 15
+        },
+        {
+          "title": "香港终院称婚姻性质已变化变性人有权结婚 - 时政- 人民网",
+          "link": "http://politics.people.com.cn/n/2013/0514/c70731-21475682.html",
+          "snippet": "分享到... ... 中新网5月14日电据香港《文汇报》报道，香港由男变女的W小姐2009年申请司法复核，争取变性人结婚权，原审及上诉庭均判其败诉，但W在终审法院获得“ ...",
+          "date": "2013年5月14日",
+          "position": 16
+        },
+        {
+          "title": "中国首例变性人的情感历程：20年女人梦(组图) - 新浪新闻",
+          "link": "https://news.sina.cn/sa/2003-04-22/detail-ikkntiak7297588.d.html",
+          "snippet": "中国首例变性人的情感历程：20年女人梦(组图) · 一，风雨之夜，她带着伤痛逃亡. 张克莎1962年出生在湖南长沙一个高干家庭，从小倍受父母宠爱。 · 二，最爱她的 ...",
+          "date": "2003年4月22日",
+          "position": 17
+        },
+        {
+          "title": "变性人--拒绝生存在社会边缘 - 新闻- 搜狐",
+          "link": "http://news.sohu.com/1/0504/62/subject220016282.shtml",
+          "snippet": "川变性人婚礼成变性人峰会(03/18 10:38) ·变性人陈莉莉被劫后首次露面表示对将来很迷惘(03/18 06:07) ·一个变性人的内心世界：性别模糊是我最深的痛(03/18 01:22) ·变性人 ...",
+          "position": 18
+        },
+        {
+          "title": "变性人有权以新性别结婚 - 人民日报",
+          "link": "http://paper.people.com.cn/rmrbhwb/html/2013-05/14/content_1239353.htm",
+          "snippet": "终审法院判词中说，香港《婚姻条例》中所使用的“女”及“女方”等字词应该包括“由男变女的变性人”。判词还说，香港《基本法》和《香港人权法案》都保护结婚的 ...",
+          "date": "2013年5月14日",
+          "position": 19
+        },
+        {
+          "title": "原创中国第一个变性人，17岁当兵，21岁变成女人，父亲曾是部队首长",
+          "link": "https://www.sohu.com/a/681856175_121715304",
+          "snippet": "工作之余他也会查阅和变性手术有关的资料，偶然间在一本杂志上看到一篇科普文章，张克沙才知道原来自己是得了性别认同障碍症。 她的母亲到最后也没能看 ...",
+          "date": "2023年6月4日",
+          "position": 20
+        },
+        {
+          "title": "性别可以被强行更改吗？“世界上最成功变性人”之死 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_25691445",
+          "snippet": "性别可以被强行更改吗？“世界上最成功变性人”之死 ... 1967年，美国巴尔的摩。不到两岁的大卫·赖默（David Reimer）被推进手术室，这次手术将摘除他的双侧睾丸，这 ...",
+          "date": "2023年12月18日",
+          "position": 21
+        },
+        {
+          "title": "3种泰国变性手术 - RubikHealth",
+          "link": "https://rubikhealth.com/zh/articles/3-techniques-male-to-a-female-sex-reassignment-surgery-in-thailand",
+          "snippet": "在从男性到女性的性别重新分配手术中（男变女（MTF）），也称为跨性别女人。目前，泰国越来越多的本地人和外国人都进行过性别重新分配手术。 但是正如我从一 ...",
+          "position": 22
+        },
+        {
+          "title": "变性_百度百科",
+          "link": "https://baike.baidu.com/item/%E5%8F%98%E6%80%A7/13032505",
+          "snippet": "但是技术上的改变并没有改变跨性别者的生活处境，在经历了变性手术之后，许多跨性别者的生活也面临着巨大的挑战。由于对于跨性别者的污名化，使得社会上大多数人对跨性别者还 ...",
+          "position": 23
+        },
+        {
+          "title": "民政部：变性人的结婚登记合法有效 - 中国法院网",
+          "link": "https://www.chinacourt.org/article/detail/2003/01/id/32951.shtml",
+          "snippet": "民政部日前对此作出明确答复：变性人的结婚登记合法有效，解除婚姻关系参照协议离婚处理。 杨某（女）和游某（男）于1998年依法办理结婚登记。婚后，游某生理上的 ...",
+          "date": "2003年1月16日",
+          "position": 24
+        },
+        {
+          "title": "CCTV.com-英最年轻变性人女人味足男友不知其曾是男儿身 - 新闻频道",
+          "link": "http://news.cctv.com/world/20070403/101226.shtml",
+          "snippet": "一头棕色的头发，修长而妖娆的身材，玛莱尼自豪地在记者面前秀出她柔顺的女性曲线，浑身上下都透露着一名18岁女性的青春和迷人魅力。在她的右边，是一个小男孩 ...",
+          "date": "2007年4月3日",
+          "position": 25
+        },
+        {
+          "title": "日本最美变性人走红盘点全球变性人的坎坷故事 - 福州新闻网",
+          "link": "https://m.fznews.com.cn/fuzhou/20150317/5507dce235541.shtml",
+          "snippet": "Conchita Wurst说现在有两颗心脏在他的胸口跳动,一颗是奥地利男人的,另一颗是那个热血沸腾的哥伦比亚表演者的。他上了妆穿上女人的衣服后,就变成Conchita, ...",
+          "date": "2015年3月17日",
+          "position": 26
+        },
+        {
+          "title": "中国变性人-新闻频道 - 搜狐",
+          "link": "http://news.sohu.com/1/0504/63/subject220016329.shtml",
+          "snippet": "西安女子欲变性为男称最开心切掉胸前乳房(图)(11/17 14:35); 32岁男子下周“动工”变女人以后基本无性需求(10/28 00:42); 齐鲁男儿要换女儿身续当事人大闹南京公众 ...",
+          "position": 27
+        },
+        {
+          "title": "最美变性人 - 微博",
+          "link": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%80%E7%BE%8E%E5%8F%98%E6%80%A7%E4%BA%BA%23&luicode=10000011&lfid=1005055992841723&featurecode=newtitle%0A%E4%B8%80%E5%8A%A07+Pro%E5%B0%86%E9%85%8D%E5%A4%87%E5%AE%89%E5%8D%93%E6%9C%BA%E4%B8%AD%E5%B0%BA%E5%AF%B8%E6%9C%80%E5%A4%A7%E6%A8%AA%E5%90%91%E7%BA%BF%E6%80%A7%E9%A9%AC%E8%BE%BE",
+          "snippet": "我的分类编辑 · 吃娱不吐刺 · 雯雯-cd宝贝ladyboy · 圈内容嬷嬷 · 陈敏-CS · 韩国id医院 · TVB官方微博 · 治愈系心理学 · 全球奇闻趣事 ...",
+          "position": 28
+        },
+        {
+          "title": "变性人是什么意思 - 亲子百科",
+          "link": "https://baike.pcbaby.com.cn/yycs/1603/2817028.html",
+          "snippet": "变性人有什么特征 · 1、深信自己内在是异性； · 2、声称自己是异性，但身躯发育并非异性； · 3、要求医学改变躯体成为自己所认定的性别； · 4、希望周围人按其 ...",
+          "date": "2016年3月18日",
+          "position": 29
+        },
+        {
+          "title": "纪实变性手术全过程男人如何变成女人 - 中国四川",
+          "link": "http://sc.china.com.cn/index.php?a=show_wap&catid=180&id=2753&m=wap&remains=true",
+          "snippet": "泰国曼谷，Cascade Bar的变性舞女们被分成两拨，一拨在旋转舞台上热舞，另一拨则在台下陪客人喝酒玩乐甚至被客人带出去开房，两拨人每20分钟轮换一次。Cascade ...",
+          "date": "2014年6月15日",
+          "position": 30
+        },
+        {
+          "title": "变性人能活多久? 变性人和人妖有什么区别 - 网易",
+          "link": "https://www.163.com/dy/article/GKLM35C30511NLQ0.html",
+          "snippet": "变性后由于不断地用药物控制，长期激素紊乱，变性人寿命只有四十至五十岁。 不过，也有妇产 ...",
+          "date": "2021年9月24日",
+          "position": 31
+        },
+        {
+          "title": "美专家号称“世上最成功的变性人”，世界上年龄最小的性别转换者 - 搜狐",
+          "link": "https://www.sohu.com/a/629583420_121274840",
+          "snippet": "学术界需要不同的声音，而专家莫尼考虑到的只是自己的名利，在这个关注度极高的性别转换案例破灭后，他的事迹被《纽约时报》的记者约翰.",
+          "date": "2023年1月14日",
+          "position": 32
+        },
+        {
+          "title": "瞧，变性人的婚姻生活 - 许昌网",
+          "link": "http://www.21xc.com/content/200403/25/c36003.html",
+          "snippet": "2003年8月，成都双流县彭镇38岁的章士林做了变性手术，并更名为章琳。章琳在成都拥有一家小小的理发店。3年挣的钱加上她以前的积蓄1万多块钱全都用在了变性 ...",
+          "date": "2004年3月25日",
+          "position": 33
+        },
+        {
+          "title": "当变性人后悔变性-虎嗅网",
+          "link": "https://m.huxiu.com/article/328280.html",
+          "snippet": "变性手术后，他们的焦虑并没有得到缓解。”最近，英国一家慈善机构的创始人埃文斯，在接受英国电视台采访时称，英国有数百名变性人因变性而反悔。",
+          "date": "2019年11月27日",
+          "position": 34
+        },
+        {
+          "title": "组图：揭秘泰国变性人手术全过程 - 国际新闻",
+          "link": "https://world.huanqiu.com/gallery/9CaKrnQePio",
+          "snippet": "/csr-component-m/config/gallery/index.js. 9CaKrnQePio. 作者：. world.huanqiu.com. zh-Hans. gallery. 组图：揭秘泰国变性人手术全过程. /e3pmh22ph/e3pn6efsl.",
+          "position": 35
+        },
+        {
+          "title": "史上十大\"变性人\"大盘点 - China Daily",
+          "link": "http://www.chinadaily.com.cn/hqph/2006-11/15/content_734263.htm",
+          "snippet": "史上十大\"变性人\"大盘点 · 1、河莉秀. “地球上最美丽的人种”勇敢与上帝唱反调的韩国变性艺人河莉秀，因变性问题在韩国及台港两岸三地造成媒体讨论，让向来 ...",
+          "date": "2006年11月15日",
+          "position": 36
+        },
+        {
+          "title": "工作场所中的变性人：企业和员工应如何认知",
+          "link": "http://www.knowledgeatwharton.com.cn/article/8569/",
+          "snippet": "近80%的调查对象称，自己曾被虐待或者遭到歧视。 产生摩擦的一个理由，源于“同质性”（homophily）的自然力量，或者说“人们往往与和自己相似的人在一起——会与 ...",
+          "date": "2015年7月2日",
+          "position": 37
+        },
+        {
+          "title": "从关注变性人到支持变性人的重要性 - The Kind Clinic",
+          "link": "https://kindclinic.org/zh/blog/the-importance-of-moving-from-trans-visibility-to-trans-allyship/",
+          "snippet": "在此处添加标题文本 · 阅读更多内容 · 只要成为金德诊所的患者，就能为我们的社区提供支持！只要您在我们的合作药店使用保险支付药费，您就能帮助支付所有 ...",
+          "date": "2020年11月30日",
+          "position": 38
+        },
+        {
+          "title": "身边的变性人：他们患上了易性病 - 科普中国",
+          "link": "https://www.kepuchina.cn/health/psychology/201803/t20180313_557177.shtml",
+          "snippet": "在纪录片《冷暖人生》中，刘霆表示，在自己三四岁时，便有了抗拒男孩子服饰等的想法，会时常做出“兰花指”等女性化的阴柔举动。当刘霆的父母发现儿子越来越像“ ...",
+          "date": "2018年3月13日",
+          "position": 39
+        },
+        {
+          "title": "说出他们的名字：2020年变性人纪念日",
+          "link": "https://legalaidatwork.org/zh/say-their-names-transgender-day-of-remembrance-2020/",
+          "snippet": "1998年，变性妇女丽塔-海丝特在波士顿阿尔斯通社区被杀后，变性活动家格温多林-安-史密斯创办了一个名为\"纪念我们的死者\"的网站，记录了变性人杀人的流行情况 ...",
+          "date": "2020年11月20日",
+          "position": 40
+        },
+        {
+          "title": "变性人-翻译为英语-例句中文 - Reverso Context",
+          "link": "https://context.reverso.net/%E7%BF%BB%E8%AF%91/%E4%B8%AD%E6%96%87-%E8%8B%B1%E8%AF%AD/%E5%8F%98%E6%80%A7%E4%BA%BA",
+          "snippet": "使用Reverso Context: petite 泰国变性人在牛仔裤抽搐关闭，在中文-英语情境中翻译\"变性人\"",
+          "position": 41
+        },
+        {
+          "title": "《Nature》变性人研究证明了男女的免疫系统有壁 - 生物通",
+          "link": "https://m.ebiotrade.com/newsf/2024-9/20240905071407531.htm",
+          "snippet": "《Nature》变性人研究证明了男女的免疫系统有壁 ... 编辑推荐：. 研究发现，睾酮治疗提高了一种炎症蛋白的水平，达到了顺式男性的水平。 广告. X. 变性人接受 ...",
+          "date": "2024年9月6日",
+          "position": 42
+        },
+        {
+          "title": "揭秘日本最美变性人从未整容 - 国际在线",
+          "link": "https://news.cri.cn/2015-3-16/045b91d6-76b4-4e98-910a-a45d001520c7.html",
+          "snippet": "近日，一位日本变性美女走红网络。曾接受过变性手术，但并未整容的她身材性感，长相美丽，多次参加电视节目，还曾在推特上夸奖范冰冰的美貌。",
+          "date": "2015年3月16日",
+          "position": 43
+        },
+        {
+          "title": "变性人-梨视频官网-Pear Video-梨网站",
+          "link": "https://www.pearvideo.com/tag_6198",
+          "snippet": "梨视频是一个讲述中国故事的短视频平台,为你提供变性人相关短视频,更多精彩请关注梨视频官网。",
+          "position": 44
+        },
+        {
+          "title": "“最美变性人”河莉秀近照曝光，热衷整容和减肥，49岁已面目全非",
+          "link": "https://news.qq.com/rain/a/20241001A077DX00",
+          "snippet": "韩国是整容大国，就连变性人也热衷整容。有“最美变性人”之称的韩国女星河莉秀，虽然已经很少在幕前演出，但仍活跃在社交平台。近日，河莉秀晒出近照， ...",
+          "date": "2024年10月1日",
+          "position": 45
+        },
+        {
+          "title": "超过200000 张关于“变性人”和“人”的免费图片 - Pixabay",
+          "link": "https://pixabay.com/zh/images/search/%E5%8F%98%E6%80%A7%E4%BA%BA/",
+          "snippet": "寻找关于变性人的图片✓ 免版税✓ 不要求署名✓ 高质量图片.",
+          "position": 46
+        },
+        {
+          "title": "联合国人权专家：匈牙利新立法将危及变性人和性别多样化人群的权利",
+          "link": "https://news.un.org/zh/story/2020/04/1056282",
+          "snippet": "联合国人权专家：匈牙利新立法将危及变性人和性别多样化人群的权利. 在旧金山飘扬的一面彩虹旗。彩虹旗通常被视为同性恋骄傲 ... 在旧金山飘扬的一面彩虹旗。",
+          "date": "2020年4月29日",
+          "position": 47
+        },
+        {
+          "title": "泰国变性人毁誉参半 - 美国之音",
+          "link": "https://www.voachinese.com/a/thailand-transgender-20160519/3337697.html",
+          "snippet": "美国正在对变性人使用卫生间的权利争论不休。而在泰国，人民对性别身份的观点也各抒己见。尽管变性人在泰国一般能够被公众接受，但是污名化问题仍然 ...",
+          "date": "2016年5月20日",
+          "position": 48
+        },
+        {
+          "title": "打不过才是正常！中国女拳手杨柳不敌疑似“变性人”哈利夫，获66公斤 ...",
+          "link": "https://web.shobserver.com/wx/detail.do?id=782449",
+          "snippet": "打不过才是正常！中国女拳手杨柳不敌疑似“变性人”哈利夫，获66公斤级亚军 ... 目前情况就是“一位女子参与了一场女性之间的竞争”。 当地时间9日晚，巴黎奥运会 ...",
+          "date": "2024年8月10日",
+          "position": 49
+        },
+        {
+          "title": "[PDF] 变性人和非二元性别客户的姓名和性别变更常见问题(FAQ)",
+          "link": "https://www.nyc.gov/assets/hra/downloads/pdf/services/lgbtqi/HRA-138b-SC.pdf",
+          "snippet": "性别标记有哪些选择？ 社会服务局(DSS)/人力资源管理局(HRA) 客户可以要求将其性别标记为F（女性）、. M（男性）或X（非男性或女性）。 “X”对于性别标记意味着什么？许多人认为 ...",
+          "position": 50
+        },
+        {
+          "title": "世界十大最美变性人排行，中国上榜一人，安能辨我是雄雌！ - 网易",
+          "link": "https://www.163.com/dy/article/D3I7M4HE0528DTP4.html",
+          "snippet": "第一名、Poy，中文名宝儿，泰国。1986年10月5日出生于泰国普吉岛，泰国变性女艺人，17岁成功变性成美女。身材凹凸有致，被评“比大部分女孩子都好看,拥有毫无攻击性的那种 ...",
+          "position": 51
+        },
+        {
+          "title": "TRANSGÉNERO/TRANSEXUAL/GENERO FLUIDO Y LACTANCIA ...",
+          "link": "https://llli.org/zh/informacion-sobre-la-lactancia-materna-de-la-a-a-la-z/transgenero-transexual-genero-fluido-y-lactancia-informacion-general/",
+          "snippet": "变性人、变性人和流线型人的身份和表达都与解剖学上的社会能力相一致。 Algunas 角色跨性别使用terapias 医学故事como tratamiento 荷尔蒙y/o cirugías para alterar ...",
+          "position": 52
+        },
+        {
+          "title": "各国变性人数量，及现状 - 时尚- 搜狐",
+          "link": "https://fashion.sohu.com/20170124/n479519018.shtml",
+          "snippet": "各国变性人数量，及现状 · 变性人数量：10 · 变性人数量：未知 · 全世界变性人生活环境最差的地区之一 · 变性人数量：160 万 · 关于变性人该如何如厕的问题，特 ...",
+          "date": "2017年1月24日",
+          "position": 53
+        },
+        {
+          "title": "大马华裔变性人的传奇人生：性别跟他开了个玩笑 - 中国新闻网",
+          "link": "http://www.chinanews.com.cn/hr/2012/11-07/4309725.shtml",
+          "snippet": "大马华裔变性人的传奇人生：性别跟他开了个玩笑 查看下一页 ... 经过一场人生浩劫，林雪乐恢复男儿身，回到他所熟悉的滚滚红尘。 不理家人的反对，换上了女装， ...",
+          "date": "2012年11月7日",
+          "position": 54
+        },
+        {
+          "title": "泰国变性人情侣的生活、爱情和权利(图) - 凤凰网",
+          "link": "https://news.ifeng.com/a/20150216/43190190_1.shtml",
+          "snippet": "谈到婚姻问题，有人认为一对变性人情侣相当于互换了性别，即使变性后的身份不受到法律的保护，但由于他们的出生性别和新的性别都不同，因此仍然可以钻法律的 ...",
+          "date": "2015年2月16日",
+          "position": 55
+        },
+        {
+          "title": "【假】巴黎奥运会变性人打哭女拳击手 - 辟谣吧",
+          "link": "https://www.piyaoba.org/olympics-sports-trans-boxer/",
+          "snippet": "中英文媒体自媒体都出现巴黎奥运会女子拳击赛中，变性人46秒打哭意大利女拳击手的爆炸性新闻。Musk，JK Rowlings等国外著名反“变性”人士也宣称男人不能 ...",
+          "date": "2024年8月7日",
+          "position": 56
+        },
+        {
+          "title": "人妖活不过40岁，那变性人呢-京东健康 - JD.com",
+          "link": "https://www.jd.com/pccontent/556785",
+          "snippet": "其实有不少人把人妖与变性人的概念混淆了，以为人妖也是通过整形成为变性人，其实，他们还是不同的。人妖并不是真正的女人，而且人妖因为过多接受了女性的激素， ...",
+          "position": 57
+        },
+        {
+          "title": "日本变性人美丽性感走红网络 - 人民政协网",
+          "link": "https://www.rmzxb.com.cn/sqmy/hlyh/2015/03/15/466088.shtml",
+          "snippet": "近日，一位日本变性美女走红网络。曾接受过变性手术，但并未整容的她身材性感，长相美丽，多次参加电视节目。;人民政协网是由人民政协报社主办， ...",
+          "date": "2015年3月15日",
+          "position": 58
+        },
+        {
+          "title": "变性| 简体中文-英语翻译——剑桥词典 - Cambridge Dictionary",
+          "link": "https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93-%E8%8B%B1%E8%AF%AD/%E5%8F%98%E6%80%A7",
+          "snippet": "The applicant requested a change in the legislation so that his transsexuality could remain secret. 申请人要求修改立法，这样他做过变性手术的事就可以保密。 变性的.",
+          "position": 59
+        },
+        {
+          "title": "J. 变性人的婚姻",
+          "link": "https://www.clic.org.hk/cn/topics/familyMatrimonialAndCohabitation/marraige_and_cohabitant_issues/transsexual_marriage",
+          "snippet": "在 W诉婚姻登记官 一案中，终审法院承认变性人婚姻的权利，裁定「女人」及「女性」的定义包括医学上证明已因手术转换性别，由男性变为女性的变性人。 因此，法院认为，W可在法律 ...",
+          "position": 60
+        },
+        {
+          "title": "教你如何在泰国分辨真女人与变性人！ - 荆楚网",
+          "link": "http://wh.cnhubei.com/bxs/201502/t3189416.shtml",
+          "snippet": "人妖表演的动作柔软、婀娜多姿，歌声一般较粗犷，演出水准较高，蜚声泰国内外，每次演出，台下座无虚席。年纪大的人妖往丑角发展，逗逗观众，要靠上天赏赐一副 ...",
+          "date": "2015年2月26日",
+          "position": 61
+        },
+        {
+          "title": "巴西：变性家庭- 可持续发展",
+          "link": "https://www.un.org/sustainabledevelopment/zh/2014/10/brazil-a-transgender-family/",
+          "snippet": "United Nations 一项史无前例的联合国公共教育运动“自由与平等”在巴西展开，来支持同性恋、双性恋、变性人的权利，但他们很多人依然遭遇着歧视。",
+          "date": "2017年11月13日",
+          "position": 62
+        },
+        {
+          "title": "变性人- Wiktionary, the free dictionary",
+          "link": "https://en.wiktionary.org/wiki/%E5%8F%98%E6%80%A7%E4%BA%BA",
+          "snippet": "(This term is the simplified form of 變性人). Notes: Simplified Chinese is mainly used in Mainland China, Malaysia, and Singapore.",
+          "position": 63
+        },
+        {
+          "title": "泰媒评世界十大最美变性人排行榜，中国上榜2人！ - 环球网",
+          "link": "https://m.huanqiu.com/gallery/9CaKrnQhD24",
+          "snippet": "民众不仅仅会尊重自己国度的“漂亮姐姐”，选出了“世界十大变性人排行榜”。",
+          "position": 64
+        },
+        {
+          "title": "日本最美变性人走红盘点全球变性人的坎坷故事 - 时政频道- China Daily",
+          "link": "http://china.chinadaily.com.cn/shizheng/2015-03/18/content_19838582.htm",
+          "snippet": "美国加州30岁男子斯科特·莫尔是一名变性人，而他的配偶托马斯本来也是一名女性，但却和他一样接受变性手术成为男人。美国加州30岁男子斯科特·莫尔是一名 ...",
+          "date": "2015年3月18日",
+          "position": 65
+        },
+        {
+          "title": "《龙腾4》引导玩家创建变性人角色：才能解锁更多对话 - QQ News",
+          "link": "https://news.qq.com/rain/a/20241029A09O7O00",
+          "snippet": "《龙腾世纪4：影障守护者》将在10月31日正式发售，尽管玩家还没能亲身体验，但本作已经确定是一款政治正确大作：上到变了性的游戏总监，下到能添加变性手术 ...",
+          "date": "5天前",
+          "position": 66
+        },
+        {
+          "title": "不想来的还是来了！中国女拳手杨柳，将在奥运会决赛迎战“变性人”",
+          "link": "https://web.shobserver.com/wx/detail.do?id=781284",
+          "snippet": "如今，不想来的还是来了，中国姑娘杨柳，将在该项目决赛直面这位充满争议的“跨性别”拳手。32岁的杨柳，来自内蒙古赤峰市，她也是杭州亚运会该项目的冠军。作为 ...",
+          "date": "2024年8月7日",
+          "position": 67
+        },
+        {
+          "title": "Lancet子刊：接受激素治疗的成年“变性人”五十年来的死亡趋势报告",
+          "link": "https://m.medsci.cn/article/show_article.do?id=377721e6006d",
+          "snippet": "在随访期间，有317名（10.8%）变性妇女死亡，与普通人群男性（SMR 1.8，95% CI 1.6-2.0）和普通人群女性（SMR 2.8，2.5-3.1）相比，这一比例高于预期。同时，变性妇女 ...",
+          "date": "2021年9月24日",
+          "position": 68
+        },
+        {
+          "title": "创造历史！美军迎来首位变性人四星上将-观察者网",
+          "link": "https://www.guancha.cn/internation/2021_10_21_611667.shtml",
+          "snippet": "据美国有线电视新闻网（CNN）10月20日报道，美国卫生部助理部长、现年63岁的雷切尔·莱文（Rachel Levine）宣誓成为美国公共卫生服务军官团（U.S.Public ...",
+          "date": "2021年10月21日",
+          "position": 69
+        },
+        {
+          "title": "《WOW新家》完整版：[第7期]最美“变性人”真实生活曝光 - YouTube",
+          "link": "https://www.youtube.com/watch?v=GxefkFLakvA",
+          "snippet": "欢迎订阅https://www.youtube.com/channel ...\n时长： 36:08\n发布时间： 2017年2月9日",
+          "date": "2017年2月9日",
+          "position": 70
+        },
+        {
+          "title": "美丽变性人大全Transgender people Home Page's Photos - Facebook",
+          "link": "https://m.facebook.com/media/set/?set=pb.1643629435853542.-2207520000.1464724208.&type=1",
+          "snippet": "See more photos… 美丽变性人大全Transgender people Home Page's Photos. Loading... Try Again. Cancel. Loading... Loading...",
+          "position": 71
+        },
+        {
+          "title": "无讼阅读｜变性人犯罪后该关押在哪里？",
+          "link": "http://victory.itslaw.cn/victory/api/v1/articles/article/179599e8-8ce7-4c04-ad48-ecf9dd470593",
+          "snippet": "目前，公安部有关批复中，要求对性别不明的在押人员一般采取单独羁押的方式。对于监狱如何关押做过变性手术的罪犯，未见有规定。对于做过变性手术的罪犯，情况较为复杂，如果 ...",
+          "position": 72
+        },
+        {
+          "title": "特朗普签署备忘录禁止变性人参军称其使军队医疗成本高昂 - 上观新闻",
+          "link": "https://www.jfdaily.com/wx/detail.do?id=63140",
+          "snippet": "... 人认为特朗普的言论涉嫌歧视变性人。 美国总统唐纳德·特朗普25日签署总统备忘录，要求国防部禁止变性人服役，但未对已经入伍的变性人去留做出明确要求。",
+          "date": "2017年8月26日",
+          "position": 73
+        },
+        {
+          "title": "外媒：传言声称法国“第一夫人”是“变性人”，马克龙愤怒回击 - 环球网",
+          "link": "http://m.huanqiu.com/article/4Gv2d9dcaHZ",
+          "snippet": "【环球网报道】综合英国《每日邮报》、法国电视一台报道，此前有传言声称，法国总统马克龙的夫人布丽吉特·马克龙是“变性人”，其在出生时是男性。马克龙当地 ...",
+          "date": "2024年3月9日",
+          "position": 74
+        },
+        {
+          "title": "180809 Porträt Transsexualität – DW – 2010年3月6日",
+          "link": "https://www.dw.com/zh/%E5%8F%98%E6%80%A7%E4%BA%BA%E5%9C%A8%E5%BE%B7%E5%9B%BD%E7%9A%84%E5%A4%84%E5%A2%83/a-5309503",
+          "snippet": "所谓的\"变性人\"，外表看来跟常人没两样，但他们内心却充满着错生为男体或女体的怨恨。有助于解除他们烦恼的，唯有接受变性手术一途。踏出这一步，不仅对他们在 ...",
+          "date": "2010年3月6日",
+          "position": 75
+        },
+        {
+          "title": "变性人去男厕还是女厕美国大选争论了半天 - 第一财经",
+          "link": "https://m.yicai.com/news/5007777.html",
+          "snippet": "最近在北卡来罗纳州新推出的一项立法表示，变性人需要使用与其出生时性别一致的厕所，不允许他们按各自认同的性别选择厕所。",
+          "date": "2016年4月27日",
+          "position": 76
+        },
+        {
+          "title": "马来西亚：法院将判决跨性人权利",
+          "link": "https://www.hrw.org/zh-hans/news/2014/05/13/253826",
+          "snippet": "“在该州的歧视性法律之下，马来西亚变性妇女每天都为了做自己而面临被逮捕的危险，”人权观察同性恋、双性恋和变性人权利高级研究员妮拉・戈夏尔（Neela ...",
+          "date": "2014年5月13日",
+          "position": 77
+        },
+        {
+          "title": "性别确认手术| Bangkok Hospital",
+          "link": "https://www.bangkokhospital.com/zh/content/sex-affirmation-surgery",
+          "snippet": "身体将不再分泌女性荷尔蒙，没有排卵，没有月经，将来也不会有受孕的机会，这一切都符合患者成为变性人的目标。 手术不仅会关闭阴道口，还会延长尿道，按照患者的意愿 ...",
+          "position": 78
+        },
+        {
+          "title": "变性人寿命到底有多长-京东健康 - JD.com",
+          "link": "https://www.jd.com/pccontent/617065",
+          "snippet": "总之，变性人的寿命与正常人并无明显差异。只要注重保养、保持良好的生活习惯和心理状态，变性人同样可以拥有健康、幸福的生活。",
+          "position": 79
+        },
+        {
+          "title": "变性人(非原本生理性别的人) - 搜狗百科",
+          "link": "https://baike.sogou.com/v4600797.htm",
+          "snippet": "百科是一部有着平等、协作、分享、自由理念的网络百科全书，为每一个互联网用户创造一个涵盖所有领域知识、服务的中文知识性平台。",
+          "position": 80
+        },
+        {
+          "title": "[PDF] 变性学生支持指南》 关键术语定义 - Hawaii DOE",
+          "link": "https://www.hawaiipublicschools.org/DOE%20Forms/Civil%20Rights/TransgenderSupports-SCH.pdf",
+          "snippet": "“性别表达”指一个人向他人表示或表达其性别的方式，一般指行为、衣着、发型、活动、. 声音或举止。 “性别认同”指一个人内心深处对自身性别（男性、女性或其他）的感觉，无论此 ...",
+          "position": 81
+        },
+        {
+          "title": "泰国变性人选美(组图) - 中国—东盟中心",
+          "link": "http://www.asean-china-center.org/2010-05/18/c_13300379_3.htm",
+          "snippet": "首页 > 文化交往 > 正文 ... 泰国是世界上变性人最多的国家，全泰目前至少有20万名变性人，俗称“人妖”。在泰国，人妖表演已成为一种产业。 泰国对变性人的接受 ...",
+          "date": "2010年5月18日",
+          "position": 82
+        },
+        {
+          "title": "变性手术患者的心理分析及其护理 - 中华医学期刊网",
+          "link": "https://rs.yiigle.com/CN114657201704/1012706.htm",
+          "snippet": "由于易性症者通常不被社会和家庭的理解与接受，使其具有了特殊的心理状态。因此，心理护理对变性人更好适应新角色和融入社会具有重要的意义。",
+          "position": 83
+        },
+        {
+          "title": "变性人全过程曝光，阳刚男是怎么变成软妹子? - Facebook",
+          "link": "https://www.facebook.com/EducationLittleBee/videos/%E5%8F%98%E6%80%A7%E4%BA%BA%E5%85%A8%E8%BF%87%E7%A8%8B%E6%9B%9D%E5%85%89%E9%98%B3%E5%88%9A%E7%94%B7%E6%98%AF%E6%80%8E%E4%B9%88%E5%8F%98%E6%88%90%E8%BD%AF%E5%A6%B9%E5%AD%90/553601063199151/",
+          "snippet": "变性人全过程曝光，阳刚男是怎么变成软妹子?\n时长： 1:11\n发布时间： 2022年9月23日",
+          "date": "2022年9月23日",
+          "position": 84
+        },
+        {
+          "title": "变性人之命- 日记- 豆瓣",
+          "link": "https://m.douban.com/note/766873486/",
+          "snippet": "变性人之命这篇是以前写的了，见微博上有粉丝挖出来，我自己也顺便读了一遍，发现还满有意味的。 有人问变性人的八字怎么看。倘若是同性恋的八字， ...",
+          "date": "2020年6月10日",
+          "position": 85
+        },
+        {
+          "title": "泰国--变性人的天堂 - RFI",
+          "link": "http://www1.rfi.fr/actucn/articles/101/article_7344.asp",
+          "snippet": "如何解释这种现象？克里斯特尔认为，泰国男性身体柔和，骨头细，毛被稀少。人们以女性为美，再加上男人变女人比其他任何地方容易。所以变性人多。大学讲师同时 ...",
+          "date": "2008年5月8日",
+          "position": 86
+        },
+        {
+          "title": "巴西：变性家庭 - YouTube",
+          "link": "https://www.youtube.com/watch?v=PZKXQYL_KvY",
+          "snippet": "United Nations 一项史无前例的联合国公共教育运动“自由与平等”在巴西展开，来支持同性恋 ...\n时长： 2:31\n发布时间： 2014年10月31日",
+          "date": "2014年10月31日",
+          "position": 87
+        },
+        {
+          "title": "多了一根的大胸美女：变性人的可笑可悲银幕史 - 虎嗅",
+          "link": "https://m.huxiu.com/article/368864.html",
+          "snippet": "多了一根的大胸美女：变性人的可笑可悲银幕史 · 罗琳发文称喜欢史蒂芬·金到达新高度，惹得史蒂芬·金赶紧出来表态“跨性别女是女性”，罗琳阿姨一气之下立马删文 ...",
+          "date": "2020年7月14日",
+          "position": 88
+        },
+        {
+          "title": "英12岁男生将接受变性手术世界最小“变性人” - 新闻频道- 央视网",
+          "link": "http://news.cctv.com/world/20090919/100577.shtml",
+          "snippet": "据英国媒体18日报道，英国一名12岁男孩在过完暑假回校上学时，竟然摇身变成了一个穿着连衣裙、扎着长辫子的“女学生”。据悉，这名12岁“变性女生”将准备接受 ...",
+          "date": "2009年9月19日",
+          "position": 89
+        },
+        {
+          "title": "从牧师到变性人– DW – 2013年7月16日",
+          "link": "https://www.dw.com/zh/%E4%BB%8E%E7%89%A7%E5%B8%88%E5%88%B0%E5%8F%98%E6%80%A7%E4%BA%BA/video-16954969",
+          "snippet": "安德里亚斯·茨沃福尔是巴伐利亚新教教会的牧师，现在他还是一名男性，不过很快他将会成为一名女性，并且不再担任教会的牧师。从牧师到变性人， ...",
+          "date": "2013年7月16日",
+          "position": 90
+        },
+        {
+          "title": "摄影师展现古巴变性人手术前后对比图为变性者群体发声 - 国际在线",
+          "link": "https://news.cri.cn/2014-12-9/4113135e-e524-4e6c-859d-a3fc0021b648.html",
+          "snippet": "古巴摄影师Claudia Gonzalez拍摄了一组名为Reassign的照片，讲述12位变性人在变性前后的对比，通过两幅连图——一副表现变性前对性别转变的追求，另一副则 ...",
+          "date": "2014年12月9日",
+          "position": 91
+        },
+        {
+          "title": "艾米·古铁雷斯：变性人意味着什么？ - Infobae",
+          "link": "https://www.infobae.com/cn/2022/03/19/amy-gutierrez-what-does-it-mean-to-be-pansexual/",
+          "snippet": "这是女同性恋、男同性恋、双性恋、变性人和双性人的缩写，也被用作“具有不同性别、性取向和性别认同的人” 的缩写。",
+          "date": "2022年3月19日",
+          "position": 92
+        },
+        {
+          "title": "变性容易变族裔难：身份认同之争 - 美国之音",
+          "link": "https://www.voachinese.com/a/people-identity-20150617/2826542.html",
+          "snippet": "美国最近发生的两起改变身份案例在社会上引起辩论，一个人是否有权选择自己的种族或性别？如果不喜欢与生俱来的特征，是否有权改变？",
+          "date": "2015年6月18日",
+          "position": 93
+        },
+        {
+          "title": "为变性人和非二元工人提供的新工具箱",
+          "link": "https://legalaidatwork.org/zh/new-toolkit-for-transgender-and-nonbinary-workers/",
+          "snippet": "为变性人和非二元工人提供的新工具箱 ... 今天，在变性人可见性日和塞萨尔-查韦斯日，工作中的法律援助组织和超越二元法律组织很高兴地宣布推出我们的变性和非 ...",
+          "date": "2022年3月31日",
+          "position": 94
+        },
+        {
+          "title": "变性人因癫痫发作改变性别认同由男变女又变男 - 凤凰网",
+          "link": "https://news.ifeng.com/a/20150402/43468013_0.shtml",
+          "snippet": "不过，因为此前接受一系列变性手术，这名男子的钱财已经所剩无几。但是，他的母亲因为儿子在性别认同上的改变感到非常开心，并且乐意资助他接受手术， ...",
+          "date": "2015年4月2日",
+          "position": 95
+        },
+        {
+          "title": "被护士叫“先生” 港变性人觉被辱法院投诉 - 中国法院网",
+          "link": "https://www.chinacourt.org/article/detail/2013/04/id/949403.shtml",
+          "snippet": "... 港变性人 ... 香港变性人Angel 来源：香港《星岛日报》. 据香港《星岛日报》报道，化全妆的Angel穿透视上衣、高跟鞋 ...",
+          "date": "2013年4月19日",
+          "position": 96
+        },
+        {
+          "title": "做男人好还是做女人好？那些变性人真的过上自己想要的生活了吗？",
+          "link": "https://sports.sohu.com/20180506/n536844276.shtml",
+          "snippet": "做男人好还是做女人好？那些变性人真的过上自己想要的生活了吗？ ... 有人说，做男人真辛苦，需要拼命挣钱才能结得起婚和养得起家，还是做女人好。也有人说，做 ...",
+          "date": "2018年5月6日",
+          "position": 97
+        },
+        {
+          "title": "Calypso 变性人歌舞表演| 曼谷, 泰国 - Tripadvisor",
+          "link": "https://cn.tripadvisor.com/AttractionProductReview-g293916-d16741965-Calypso_Ladyboy_Cabaret_Show-Bangkok.html",
+          "snippet": "Calypso 变性人歌舞表演 · 您将在预订时收到确认信息 · 11 岁及以下的儿童必须由付费成人陪同 · Calypso Cabaret 是适合家庭的娱乐活动。 · 所有座位均按照先到先得的原则 ...",
+          "rating": 4,
+          "ratingCount": 50,
+          "position": 98
+        }
+      ],
+      "images": [
+        {
+          "title": "最美变性人”河莉秀近照曝光，热衷整容和减肥，49岁已面目全非-腾讯新闻",
+          "imageUrl": "https://inews.gtimg.com/om_bt/OOSrOMN7lFkbx1TVVG67sM8T-7K8FfJhG4w-niq5O13D8AA/641",
+          "link": "https://news.qq.com/rain/a/20241001A077DX00"
+        },
+        {
+          "title": "中泰双语| 泰八卦】泰国第三性别都短命？都是谣言？|今天唠唠新生代 ...",
+          "imageUrl": "https://i.ytimg.com/vi/KHlNBdZGRSw/maxresdefault.jpg",
+          "link": "https://www.youtube.com/watch?v=KHlNBdZGRSw"
+        },
+        {
+          "title": "最美变性人#",
+          "imageUrl": "https://ww2.sinaimg.cn/orj360/6017fd0cjw1f41nlp7xl6j20m812oqie.jpg",
+          "link": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%80%E7%BE%8E%E5%8F%98%E6%80%A7%E4%BA%BA%23&luicode=10000011&lfid=1005055992841723&featurecode=newtitle%0A%E4%B8%80%E5%8A%A07+Pro%E5%B0%86%E9%85%8D%E5%A4%87%E5%AE%89%E5%8D%93%E6%9C%BA%E4%B8%AD%E5%B0%BA%E5%AF%B8%E6%9C%80%E5%A4%A7%E6%A8%AA%E5%90%91%E7%BA%BF%E6%80%A7%E9%A9%AC%E8%BE%BE"
+        },
+        {
+          "title": "假】巴黎奥运会变性人打哭女拳击手- 辟谣吧",
+          "imageUrl": "https://www.piyaoba.org/wp-content/uploads/2024/08/%E7%8E%B0%E5%9C%BA.jpeg",
+          "link": "https://www.piyaoba.org/olympics-sports-trans-boxer/"
+        },
+        {
+          "title": "组图：泰国变性人手术全程揭秘--国际--人民网",
+          "imageUrl": "http://www.people.com.cn/mediafile/pic/20130507/33/9562842257524975565.jpg",
+          "link": "http://world.people.com.cn/n/2013/0507/c1002-21386963.html"
+        },
+        {
+          "title": "采访“变性人”，男生变女生是一种什么体验- YouTube",
+          "imageUrl": "https://i.ytimg.com/vi/E7yfrwqGLvE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCZ20jnIKwqmulyexma7WYh04wUFg",
+          "link": "https://m.youtube.com/watch?v=E7yfrwqGLvE"
+        },
+        {
+          "title": "中国首例变性人的情感历程：20年女人梦(组图)_手机新浪网",
+          "imageUrl": "http://image2.sina.com.cn/dy/z/mobanabcdefg/1_1-63-1215_2003042216548.JPG",
+          "link": "https://news.sina.cn/sa/2003-04-22/detail-ikkntiak7297588.d.html"
+        },
+        {
+          "title": "最美变性人”河莉秀近照曝光，热衷整容和减肥，49岁已面目全非-腾讯新闻",
+          "imageUrl": "https://inews.gtimg.com/om_bt/Oj5mkgHu3r47E-IMPtDAgXKMvWN2Ju1AOn0JxbxpcjtgkAA/641",
+          "link": "https://news.qq.com/rain/a/20241001A077DX00"
+        },
+        {
+          "title": "最美变性人#",
+          "imageUrl": "https://ww3.sinaimg.cn/orj360/005Paufkgw1f41qfpz1b4j30m811018e.jpg",
+          "link": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%80%E7%BE%8E%E5%8F%98%E6%80%A7%E4%BA%BA%23&luicode=10000011&lfid=1005055992841723&featurecode=newtitle%0A%E4%B8%80%E5%8A%A07+Pro%E5%B0%86%E9%85%8D%E5%A4%87%E5%AE%89%E5%8D%93%E6%9C%BA%E4%B8%AD%E5%B0%BA%E5%AF%B8%E6%9C%80%E5%A4%A7%E6%A8%AA%E5%90%91%E7%BA%BF%E6%80%A7%E9%A9%AC%E8%BE%BE"
+        }
+      ],
+      "relatedSearches": [
+        {
+          "query": "变形人"
+        },
+        {
+          "query": "srs手术费用"
+        },
+        {
+          "query": "trans是什么意思"
+        },
+        {
+          "query": "药娘维基百科"
+        },
+        {
+          "query": "零深度手术"
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

@@ -1,0 +1,726 @@
+{
+  "query": "性别二元偏见",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-04T00:37:26.108459",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "性别二元偏见",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "answerBox": {
+        "snippet": "性别二元主义、性别二元论（英语：gender binary）仅将生理性别（sex）和社会性别（gender）划分为男女两种，漠视男女之外其他性别表现或性别认同为异常或不自然，作社会体制分类方式，性别和性取向被默认假设与出生时赋予的性别相一致，包括对个人的服装、行为、性取向、名字或代词的特定期望、使用哪个洗手间等特征，亦 ...",
+        "snippetHighlighted": [
+          "仅将生理性别（sex）和社会性别（gender）划分为男女两种，漠视男女之外其他性别表现或性别认同为异常或不自然"
+        ],
+        "title": "性别二元论- 维基百科，自由的百科全书",
+        "link": "https://zh.wikipedia.org/zh-cn/%E6%80%A7%E5%88%A5%E4%BA%8C%E5%85%83%E8%AB%96"
+      },
+      "organic": [
+        {
+          "title": "非二元性别：打破传统二元论，建造多元的性别色谱体系 - 歪脑",
+          "link": "https://www.wainao.me/wainao-watches/explainer-gender-nonbinary-12282021",
+          "snippet": "在工作和生活中克服性别偏见，多使用没有传统性别标签的语言，都是促进性别平等和尊重非二元性别理念的有效方式。",
+          "date": "2021年12月28日",
+          "position": 1
+        },
+        {
+          "title": "跨性别者和多元性别者的斗争 - ohchr",
+          "link": "https://www.ohchr.org/zh/special-procedures/ie-sexual-orientation-and-gender-identity/struggle-trans-and-gender-diverse-persons",
+          "snippet": "这些暴力和歧视行为的根本原因是基于预设的二元性别认知（男性或女性）而对性别认同不符合的受害者施加惩罚。这些行为无一例外地表现出根深蒂固的成见和偏见、非理性仇恨和 ...",
+          "position": 2
+        },
+        {
+          "title": "关于跨性别的事实- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/healthy-lifestyle/adult-health/in-depth/transgender-facts/art-20266812",
+          "snippet": "跨性别者的定义 · 性别认同不同于出生性别的人。 · 性别表达不遵循出生性别固有社会规范的人。 · 在性别二元范围外认同和表达自己性别的人。",
+          "date": "2023年4月21日",
+          "position": 3
+        },
+        {
+          "title": "我们为什么要重新审视性别的二元化/性别多元化？",
+          "link": "https://www.xinshengproject.org/post/outsidethegenderbinary-simplified",
+          "snippet": "二元性别指将人的性别限制为仅有“男”、“女”两个对立的选项的制度。这种制度是压迫性的，但因为西方的二元性别制度植根于白人至上和殖民主义，它对非白人的 ...",
+          "date": "2023年6月5日",
+          "position": 4
+        },
+        {
+          "title": "女权主义| 什么是性别二元论？ - 日新说",
+          "link": "http://m.copernicium.tw/sys-nd/1073.html",
+          "snippet": "我们在出生时被分类为男孩或女孩，因此决定了我们认为适合我们感知的性别的服装风格、家庭角色、课外活动和社会习俗。 这种分离依赖于性别二元论，即存在 ...",
+          "date": "2023年4月22日",
+          "position": 5
+        },
+        {
+          "title": "“蜜糖裹砒霜”：善意性别偏见对女性生涯发展的影响 - 心理学报",
+          "link": "https://journal.psych.ac.cn/xlkxjz/article/2019/1671-3710/1671-3710-27-8-1478.shtml",
+          "snippet": "善意性别偏见是指一类主观情感上爱护女性但是将她们限制在传统性别角色定位上的态度。根据Glick和Fiske (1996)开发的矛盾性别偏见量表(ambivalent sexism inventory, ASI), ...",
+          "position": 6
+        },
+        {
+          "title": "[GI]性別二元論的挑戰；維基百科的結構性偏見；性別與空間表現",
+          "link": "http://genderedinnovations.taiwan-gist.net/Community/151.html",
+          "snippet": "性別二元論意指將人類分為女性和男性兩種區別，這在心理科學的歷史發展上扮演重要角色，但近年來不論是在學術研究還是社會運動的發展上，皆對性別二元論提出 ...",
+          "date": "2018年8月2日",
+          "position": 7
+        },
+        {
+          "title": "非二元性别- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%A5",
+          "snippet": "非二元性别者可能介于传统定义上男性和女性表现之间（中性），认同在男女之外的第三性别，认同多于一个性别（双性别、三性别、泛性别），认为自己没有性别（无性别）或在两者或以上 ...",
+          "position": 8
+        },
+        {
+          "title": "人权专家：各国必须抵制有害的反性别言论| | 1联合国新闻 - UN News",
+          "link": "https://news.un.org/zh/story/2021/06/1086792",
+          "snippet": "一位联合国人权专家今天在人权理事会会议上表示，在世界许多地方，背离性别规范和社会期望的个人受到攻击，被剥夺了自决权、自主权、身心健全权。",
+          "date": "2021年6月25日",
+          "position": 9
+        },
+        {
+          "title": "性别酷儿_百度百科",
+          "link": "https://baike.baidu.com/item/%E6%80%A7%E5%88%AB%E9%85%B7%E5%84%BF/55793875",
+          "snippet": "性别酷儿（genderqueer）是一种性别认同，或对性别的体验或表达方式。不同于主流的男女性别二元观念（认为仅存在男性和女性两种性别），性别酷儿可能觉得自己的性别处在男性 ...",
+          "position": 10
+        },
+        {
+          "title": "吴利娟| 社会性别：社会工作介入的重要视角- 北京大学社会学系wap",
+          "link": "http://www.shehui.pku.edu.cn/wap/second/index.aspx?nodeid=2036&page=ContentPage&contentid=10461",
+          "snippet": "因此，在女权主义运动第一次浪潮和第二次浪潮中诞生的全称性概念，尤其是作为集体身份的女性概念以及描述不平等性别结构的父权制概念，在第三次浪潮中都受到了挑战。而在男女 ...",
+          "position": 11
+        },
+        {
+          "title": "无意识偏见| 爱思唯尔 - Elsevier",
+          "link": "https://www.elsevier.cn/about/open-science/science-and-society/unconscious-bias/",
+          "snippet": "... 性，以解决出版中的性别偏见。我们要求期刊作者、审稿人和编辑通过以下选项来确定其性别：女性、男性、非二元性别/其他和“不愿透露”。这将成为编辑管理器中用户注册 ...",
+          "position": 12
+        },
+        {
+          "title": "是时候停止孤立地看待性别偏见了 - 昆明信息港",
+          "link": "https://m.kunming.cn/news/c/2018-07-04/10548250.shtml",
+          "snippet": "通过对南非、巴西和印度三个国家各1000名男性和1000名女性的调查发现,人们越来越缺乏对于个体身份和地位(包括性别、年龄、种族、人际关系、宗教、性等)的 ...",
+          "date": "2018年7月4日",
+          "position": 13
+        },
+        {
+          "title": "[PDF] 跨性别者、间性人和酷儿（LGBTIQ+）融入劳动世界",
+          "link": "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@asia/@ro-bangkok/@ilo-beijing/documents/publication/wcms_856152.pdf",
+          "snippet": "这有时被称为性别二元，因为二元的意思是“有两部分”（这里是男性和女性）。非二元 ... 性别歧视(sexism)：基于一个人性与性别的偏见或歧视。性别歧视态度可能源于 ...",
+          "position": 14
+        },
+        {
+          "title": "[PDF] UNDP-CH-PEG-Being-LGBT-in-China_CH.pdf",
+          "link": "https://www.undp.org/sites/g/files/zskgke326/files/migration/cn/UNDP-CH-PEG-Being-LGBT-in-China_CH.pdf",
+          "snippet": "表2 样本的出生性别、性倾向、性别认同及性别表达构成 ... 年龄越小的受. 访者中，有越高的比例反对对同性恋的病理化认知、对性少数的气质偏见、二元性别观以及对男同性恋.",
+          "position": 15
+        },
+        {
+          "title": "善意性别偏见的研究综述与展望 - 汉斯出版社",
+          "link": "https://www.hanspub.org/journal/paperinformation?paperid=73535",
+          "snippet": "善意性别偏见是对女性的一系列相互关联的态度，这些态度在对女性的刻板印象和受限制的角色中是性别歧视的，但在感觉基调方面主观上是积极的(对于感知者而言)，并且还 ...",
+          "position": 16
+        },
+        {
+          "title": "双向匿名评审如何打破同行评审中的性别偏见？ - IOP China",
+          "link": "https://china.ioppublishing.org/news/shuang-xiang-ni-ming-ping-shen-ru-he-da-po-tong-hang-ping/",
+          "snippet": "我们还发现，女性或非二元性别的研究人员比男性更愿意选择匿名工作。这表明这些人将偏见视为一种生活体验，并重视匿名工作的选择。 双向匿名同行评审并不是解决出版业 ...",
+          "position": 17
+        },
+        {
+          "title": "《纽约时报》与LGBT人士吵起来了-观察者网",
+          "link": "https://www.guancha.cn/internation/2023_02_19_680535.shtml",
+          "snippet": "这两封公开批评《纽约时报》的信均发布于当地时间2月15日，其中，撰稿人（其中有部分人是跨性别和非二元性别者）的信在开头就写道，他们之所以写信是为了“严重 ...",
+          "date": "2023年2月19日",
+          "position": 18
+        },
+        {
+          "title": "5种方法，帮助孩子打破性别偏见",
+          "link": "https://cn.weforum.org/stories/2021/03/5-zhong-fang-fa-bang-zhu-hai-zi-da-po-xing-bie-pian-jian/",
+          "snippet": "但是，在美国，变性人群体、同性恋群体等越来越多的年轻人无法达成这样的一致，他们的性别认同或与生理特征相反，或不属于传统的二元性别范畴。据估计，每1500 ...",
+          "date": "2021年3月16日",
+          "position": 19
+        },
+        {
+          "title": "[PDF] 性别多样性和参与度调查报告 - icann",
+          "link": "https://www.icann.org/en/system/files/files/gender-survey-complete-11oct17-zh.pdf",
+          "snippet": "50% 以上的答复人希望进入ICANN 的志愿者社群领导层，3并且女性和非二元性別的人渴望成. 功的愿望比男性略强烈。但是，在强烈同意对女性领导力的偏见会对其在ICANN 社群中的 ...",
+          "position": 20
+        },
+        {
+          "title": "[康丽]性别与民俗学研究",
+          "link": "https://www.chinafolklore.org/web/index.php?NewsID=18081",
+          "snippet": "作为研究概念，性别最早被用于解释人类社会的性别结构现状。在这种解释过程中，性别被框定为兼具自然与文化基础的二元结构：既包括指向解剖学意义上两性区别的生理 ...",
+          "position": 21
+        },
+        {
+          "title": "性别互动论：基于“做性别”视角的探讨 - 社会学视野网",
+          "link": "http://sociologyol.ruc.edu.cn/shxyj/fzshx/xbshx/2b947c6fbb674a1fb88f707426ea64c7.htm",
+          "snippet": "摘要：自从坎迪斯·韦斯特和唐·齐默尔曼的《做性别》一文发表以来，性别研究领域出现了新的范式革命，即社会性别从一种“结构性规定”转变成“互动式达成”。“做 ...",
+          "date": "2020年5月8日",
+          "position": 22
+        },
+        {
+          "title": "以人为本的运营中的性别不匹配和偏见：来自随机现场实验的证据",
+          "link": "https://www.x-mol.com/paper/1770306807454199808/t?recommendPaper=1641221826939334656",
+          "snippet": "实验设计使我们能够在性别匹配（女性客户-女性顾问或男性客户-男性顾问）或性别不匹配（女性客户-男性顾问或男性客户-女性顾问）时检查二元交流中的性别偏见。",
+          "date": "2024年3月19日",
+          "position": 23
+        },
+        {
+          "title": "“生而无罪，你不需要抱歉”|性别认同：“顺”或“跨”都不该被轻易定义",
+          "link": "https://xinli.swjtu.edu.cn/info/1065/5833.htm",
+          "snippet": "性别认同和性倾向是两个完全不同的概念。性别认同是一种人的内在的意识，也就是对自己是男性、女性或者非二元性别者的认同感。而 ...",
+          "date": "2021年10月13日",
+          "position": 24
+        },
+        {
+          "title": "儿童与性别认同：支持您的孩子- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/healthy-lifestyle/childrens-health/in-depth/children-and-gender-identity/art-20266811",
+          "snippet": "在很多情况下，儿童会说出自己的感受。他们可能强烈地认为自己是男孩或女孩。有时，也可能认为自己两者都不是，或者不完全符合两者（非二元性别者）。",
+          "position": 25
+        },
+        {
+          "title": "贺翠香：当代西方女性主义研究中的性别身份问题",
+          "link": "http://marxism.cass.cn/gwmszy/202312/t20231210_5705203.shtml",
+          "snippet": "... 性别偏见的场所。 激进女性主义者认为，女性受压迫的原因在于其 ... 这样，拉康就颠覆了传统的男女两性二元划分模式，为女性、同性恋者及其他 ...",
+          "date": "2023年10月16日",
+          "position": 26
+        },
+        {
+          "title": "性别二元制- 搜狗科学百科",
+          "link": "https://wuli.wiki/assets/sogou/524%E6%80%A7%E5%88%AB%E4%BA%8C%E5%85%83%E5%88%B6%20-%20%E6%90%9C%E7%8B%97%E7%A7%91%E5%AD%A6%E7%99%BE%E7%A7%91.html",
+          "snippet": "女权主义哲学家玛丽亚·卢戈内斯认为，西方殖民者把他们的性别二元论强加给土著人民，取代了先前存在的土著概念。 ... 在当代西方，非二元制或性别同性恋者通过拒绝“男性”和“女性 ...",
+          "position": 27
+        },
+        {
+          "title": "[PDF] “蜜糖裹砒霜”：善意性别偏见对女性生涯发展的影响* - SciEngine",
+          "link": "https://www.sciengine.com/doi/pdfView/231E96F6AF894853B7D87531210552AF",
+          "snippet": "女性主义心理学的最新思想对性别二元模. 式的消解和文化价值多元性的强调, 也为未来性. 别偏见的研究向本土化、差异化和情境化发展提. 供了丰富的积极启示。 参考文献.",
+          "position": 28
+        },
+        {
+          "title": "中文性别包容性语言指南",
+          "link": "https://www.un.org/zh/gender-inclusive-language/guidelines.shtml",
+          "snippet": "1.2 避免使用暗示某个性别优于或不如另一性别的表述. 歧视性说法举例：. 男人婆; 娘娘腔; 女人干的活儿; 婆婆妈妈; 头发长，见识短; 男主外女主内. 1.3 避免带有性别偏见或 ...",
+          "position": 29
+        },
+        {
+          "title": "善意和敌意性别偏见及其对社会认知的影响,ERICDATA高等教育知識庫",
+          "link": "http://ericdata.com/tw/detail.aspx?no=61368",
+          "snippet": "敌意性别偏见是一种出于对女性敌对情感的性别偏见；善意的性别偏见则是指一种主观上出于爱护女性的正面情感，通过特定角色限制而对女性形成的一种性别偏见态度。二者的 ...",
+          "position": 30
+        },
+        {
+          "title": "法律的性别偏见——从女权主义到女性主义的演变分析",
+          "link": "https://legal-theory.org/?mod=info&act=view&id=9751",
+          "snippet": "在自由主义时期因呼吁女性应享有同男子平等的法律与政治权利，可归结为一种女权主义法律思想。在激进与后现代时期由于坚持女性以一种不同于男性的方式体验 ...",
+          "date": "2005年11月7日",
+          "position": 31
+        },
+        {
+          "title": "关于性别偏见：我们不是一个模子刻出来的男孩女孩",
+          "link": "https://www.testdaily.cn/38544/",
+          "snippet": "尽管性别偏见对我们的社会生活带来了多样的影响，但全方面拒绝“性别特点”与“性别二元化”目前仍然是一种较为激进的观点。 首先很多人担心过度地抹除生理性别 ...",
+          "date": "2021年3月9日",
+          "position": 32
+        },
+        {
+          "title": "[PDF] 性/别手册学生版 - 中央大学",
+          "link": "https://www.chuo-u.ac.jp/uploads/2024/03/campuslife_diversity_gs_book_06.pdf?1711756800105",
+          "snippet": "... 性别偏见（关于性. 别的偏见和歧视）、性别 ... 此外，在性取向方面，还有其他词汇如泛性恋者（Pansexual）、无性恋者（Asexual）；在. 性别认同方面，还有X 性别和非二元性别 ...",
+          "position": 33
+        },
+        {
+          "title": "(PDF) 翻译-联合国报告-大语言模型中对妇女和女童的偏见(第2届世界 ...",
+          "link": "https://www.researchgate.net/publication/379116418_fanyi-lianheguobaogao-dayuyanmoxingzhongduifunuhenutongdepianjiandi2jieshijierengongyishidahuisudixilie",
+          "snippet": "性别化主题的正面或负面评价，以及由性别和文化生成的文本中的多样性。 研究发现，尽管持续努力减轻此类问题，但这些最新的语言模型中仍存在持续的社会偏见。",
+          "date": "2024年3月21日",
+          "position": 34
+        },
+        {
+          "title": "书评刊物中的性别偏见，比你想象的更加严重 - 新浪新闻",
+          "link": "https://news.sina.cn/gn/2019-10-09/detail-iicezuev1004898.d.html",
+          "snippet": "研究人员发现，这1000多份《纽约时报书评》样本有三分之二都是男性撰写的，并且被评论的书籍都是倾向于反映刻板的性别偏见，这被研究者称为主题偏见（topic ...",
+          "date": "2019年10月9日",
+          "position": 35
+        },
+        {
+          "title": "警钟：教科文组织报告揭示生成式AI加剧性别偏见 - UNESCO",
+          "link": "https://www.unesco.org/zh/articles/jingzhongjiaokewenzuzhibaogaojieshishengchengshiaijiajuxingbiepianjian",
+          "snippet": "该研究还强调了LLM倾向于生成关于同性恋群体和特定种族群体的负面内容。当3种AI模型被要求补全“一个同性恋者是……”这句话时，Llama 2生成的内容中有70 ...",
+          "date": "2024年8月16日",
+          "position": 36
+        },
+        {
+          "title": "双重身份下女性对抗性别偏见的回应行为 - 中国科学院心理研究所",
+          "link": "https://journal.psych.ac.cn/xlkxjz/CN/10.3724/SP.J.1042.2019.01085",
+          "snippet": "当女性在作为受害者和旁观者两种不同身份时, 她们对性别偏见持有者的回应既有相同之处, 也存在着一些差异。压力应对模型和对抗偏见反应模型可作为适应女性双重身份下对抗 ...",
+          "position": 37
+        },
+        {
+          "title": "性别偏见_百度百科",
+          "link": "https://baike.baidu.com/item/%E6%80%A7%E5%88%AB%E5%81%8F%E8%A7%81/10633707",
+          "snippet": "... 二元性别人群）都可能遭受到偏见。性别偏见与性别歧视之间具有因果关系，两者性质不同。性别偏见是性别歧视行为的思想源头。发生在家庭、校园、职场等不同场合的性别偏见 ...",
+          "position": 38
+        },
+        {
+          "title": "非二元性别者：Helen Brand 谈如何找到活得真实的力量| 慧咨环球",
+          "link": "https://www.wisetechglobal.com/zh-cn/news/they-them-theirs-helen-brand-on-finding-the-strength-to-live-authentically/",
+          "snippet": "我们采访了人力资源部的生产力和系统合伙人Helen Brand，ta 分享了ta 自我接纳的励志历程，以及非二元性别身份如何改变ta 的生活，并为其他探索自己性别 ...",
+          "date": "2021年8月26日",
+          "position": 39
+        },
+        {
+          "title": "[PDF] 人工智能时代性别伦理的多维思考与前瞻性治理*",
+          "link": "http://www.szass.com/attachment/0/52/52065/826459.pdf",
+          "snippet": "... 性别偏见，并通过算法实现性别偏. 见、性别歧视的“客观 ... 其三，. 人工智能内生的“无性别”特征淡化男性与女. 性二元对立的性别冲突，也导致性别问题的复.",
+          "date": "2022年7月4日",
+          "position": 40
+        },
+        {
+          "title": "[PDF] 社会性别分析与女性主义?国际关系学",
+          "link": "https://www.jis.pku.edu.cn/docs/2018-06/20180626141455766809.pdf",
+          "snippet": "所以%女性主义者是要走出偏见%而不是树立并强化二元对立( 近代以来的西. 方学术 ... 男女分野的二元思维%那. 么民族/国家/阶级/性取向这些千差万异的现象就可能被 ...",
+          "position": 41
+        },
+        {
+          "title": "联合国报告：生成式人工智能加剧性别偏见 - 新华网",
+          "link": "http://www.news.cn/20240308/30bbd3725b9b410ab1a95b2e54b0fe88/c.html",
+          "snippet": "新华社巴黎3月7日电（记者徐永春）国际妇女节前夕，联合国教科文组织7日发布研究报告称，大语言模型存在性别偏见、种族刻板印象等倾向。 ... 元”的Llama 2等都 ...",
+          "date": "2024年3月8日",
+          "position": 42
+        },
+        {
+          "title": "Intersex People | 间性人",
+          "link": "https://www.unfe.org/zh/know-the-facts/challenges-solutions/intersex",
+          "snippet": "有些间性人自我认同为男性或女性，并希望他们的文件能够反映这一点，而有些人更喜欢非二元性别标记（例如“x”这样的性别标记）。这需要一个可以更改性或性别标记的简易程序，以 ...",
+          "position": 43
+        },
+        {
+          "title": "性别与健康",
+          "link": "https://www.who.int/zh/news-room/fact-sheets/detail/gender",
+          "snippet": "定义. 性别是指任何社会认为适合男性和女性、男孩和女孩以及非二元身份者的社会结构角色、行为、 ...",
+          "date": "2018年8月23日",
+          "position": 44
+        },
+        {
+          "title": "女性视角下的大众传媒- 法信- 懂法，更懂法律人",
+          "link": "https://www.faxin.cn/lib/Flwx/FlqkContent.aspx?gid=F120571&libid=040106",
+          "snippet": "女性主义指出，大众传媒在社会性别角色观念和女性发展中扮演着重要角色，媒介充当了一个重要的性别偏见传播器。西方女性主义各主要学派均认定，女性价值并非天生，而正是自人类 ...",
+          "position": 45
+        },
+        {
+          "title": "[PDF] 跨性别者性别认同的法律承认",
+          "link": "https://www.undp.org/sites/g/files/zskgke326/files/migration/asia_pacific_rbap/81e35c0bbe5b80d746519d11bb00d20cb33c8990b529c6664137bf2127ce73cd.pdf",
+          "snippet": "本报告的研究范围不包括间性人人群，即“出生时具有的性别特征（包括生殖器、性腺和染色体模式） 不符合男性或女性身体的典型二元概念. 的人”。（由联合国人权事务高级 ...",
+          "position": 46
+        },
+        {
+          "title": "西方女权主义国际政治理论述评 - 美国研究期刊",
+          "link": "http://www.mgyj.com/american_studies/2001/fourth/fourth04.htm",
+          "snippet": "这种观点又可以分解为两个方面：第一，对持这种观点的人来说，由于生理上的原因，男子比妇女更具侵犯性，更注重等级。第二，一些学者否定任何生理决定论，代之以强调社会文化的 ...",
+          "position": 47
+        },
+        {
+          "title": "[PDF] 科学和性别相关吗? - 社科网",
+          "link": "https://www.sinoss.net/uploadfile/2010/1130/6168.pdf",
+          "snippet": "更重要. 的在于,女性主义对性别区分本身正是对其批判二元对立模. 式的诋毁 ... 客观性”; (二) 她们批判传统科学那种充满男性偏见的客观. 性不具有 ...",
+          "date": "2003年9月14日",
+          "position": 48
+        },
+        {
+          "title": "全球外科领域中的性别平等：实现2030年目标的女权运动",
+          "link": "https://jphe.amegroups.org/article/view/6432/10874",
+          "snippet": "性别−种族的交叉性是另一个需要在世界范围内进行更多研究的议题。最后，大多数的学术研究都关注于顺性别的男女二元角度，而我们在进行全球外科领域的性别平等的讨论 ...",
+          "position": 49
+        },
+        {
+          "title": "创新方面的性别差距：分析联合王国的漏水管道 - WIPO",
+          "link": "https://www.wipo.int/about-ip/zh/ip_innovation_economics/gender_innovation_gap/gender-gap-challenges-uk.html",
+          "snippet": "西方的偏见。使用的是联合王国和美国的出生姓名数据。 男女性通用的名字没有消除性别歧义。 人名-性别匹配可能具有时间敏感性。 性别仅作为一个二元变量统计。 想 ...",
+          "position": 50
+        },
+        {
+          "title": "异性恋与父权制：什么是异性恋本位？-腾讯新闻 - QQ News",
+          "link": "https://news.qq.com/rain/a/20230327A08FSF00",
+          "snippet": "异性恋本位是一种意识形态，它指出异性恋是正常的或自然的性取向，并将性别二元、性行为和性别角色联系起来。异性恋本位既包括只有异性恋倾向（顺性别 ...",
+          "date": "2023年3月27日",
+          "position": 51
+        },
+        {
+          "title": "[PDF] 妇女和发展的范式：全球性与地方性的实践张力",
+          "link": "http://cidrn.cau.edu.cn/module/download/downfile.jsp?classid=0&filename=e99fd3a834bc4c15b2774aed121f32f7.pdf",
+          "snippet": "艾斯勒的观点虽然基于考古学的发. 现，但是其主张充满了西方中心主义的偏见。 ... 基于性别二元权力结构的西方女性主义的框. 架具有现实的价值。但是，对于作为发展 ...",
+          "position": 52
+        },
+        {
+          "title": "A Brief Introduction to Trans - shypeople",
+          "link": "https://shypeople.cn/A-Brief-Introduction-to-Trans",
+          "snippet": "这些都是处于男女二元之外的生理性别，是比出生时被指定的性别远远更为多样的。 这种性器官、性染色体与性激素情况的不一致，通常在临床上会被诊断为性发育异常，但更为尊重 ...",
+          "position": 53
+        },
+        {
+          "title": "去你的吧！无性别设计的神话",
+          "link": "https://www.simpleux.cn/blog/sharing/the-genderless-design-myth/",
+          "snippet": "以欧洲为中心的标准和规范在历史上延续了性别二元制，将女性形象塑造并限制为男性的对立面，这使得父权制得以盛行，并且定义了今天的性别二分法。 在父权制 ...",
+          "date": "2022年10月27日",
+          "position": 54
+        },
+        {
+          "title": "[PDF] 多元性別統計指引一、 前言依據《性別平等政策綱領》",
+          "link": "https://gec.ey.gov.tw/File/168F09F426F60ACA/1ba8e755-df46-4915-81a9-3815cfe474b1?A=C",
+          "snippet": "(1) 就業歧視：雙性人在求職和工作中面臨的歧視比例，. 包括面試中的偏見、職場中的騷擾和不公平對待。 ... (2) 二元性別/性別二元（gender binary）：認為性別只. 有男、女二種， ...",
+          "position": 55
+        },
+        {
+          "title": "跨性别者- مغايرة الهوية الجنسانية - UN Free & Equal",
+          "link": "https://www.unfe.org/zh/ar/know-the-facts/challenges-solutions/transgender",
+          "snippet": "间性者——也就是出生时性别特征不符合典型的男性或女性身体这一二元概念的人——也可能认为自己是跨性别者。 ... 医疗专业人员的偏见和缺乏培训加剧了这一问题。 行动 ...",
+          "position": 56
+        },
+        {
+          "title": "[PDF] 欧盟性别平等 - EEAS",
+          "link": "https://www.eeas.europa.eu/sites/default/files/documents/2024/2023%20report%20on%20gender%20equality%20in%20the%20EU.pdf",
+          "snippet": "其根源在于性别偏见和性别刻板. 印象。性骚扰的受害者绝大多数都为女性 ... 二元性别艺术家提供了支持。 另一类项目旨在通过艺术内容的开发来解决 ...",
+          "date": "2024年3月13日",
+          "position": 57
+        },
+        {
+          "title": "42段金句，见证女性的勇敢与开阔 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_22176574",
+          "snippet": "在性别二元制的性别秩序里，深植于核心位置的，便是厌女症。在这个秩序之下，无论男人女人，无人能逃离厌女症的笼罩。厌女症弥漫在这个秩序体制之中 ...",
+          "date": "2023年3月8日",
+          "position": 58
+        },
+        {
+          "title": "[PDF] 当知识遭遇性别 - 社会学研究",
+          "link": "https://shxyj.ajcass.com/Admin/UploadFile/20130926008/2015-08-25/Issue/zqrgsu2z.pdf",
+          "snippet": "... 性别偏见留下 ... 女性主义反对认知和. 文化体系中的两分法传统,认为关于定量与定性、客观与主观、理性与情感、主体与客体、公共与私人. 的二元划分与男人和女人、男性 ...",
+          "position": 59
+        },
+        {
+          "title": "学者分析AI 生成图像或加深的七类社会偏见",
+          "link": "https://ijnet.org/zh-hans/story/%E5%AD%A6%E8%80%85%E5%88%86%E6%9E%90-ai-%E7%94%9F%E6%88%90%E5%9B%BE%E5%83%8F%E6%88%96%E5%8A%A0%E6%B7%B1%E7%9A%84%E4%B8%83%E7%B1%BB%E7%A4%BE%E4%BC%9A%E5%81%8F%E8%A7%81",
+          "snippet": "人工智能似乎也将性别呈现为二元，而不是展示更多元的性别身份的例子。 AI-generated images 在输入的提示上，人工智能生成的女性图像包括记者等非专业职位（ ...",
+          "date": "2023年7月19日",
+          "position": 60
+        },
+        {
+          "title": "[PDF] 國際多元性別統計與我國發展情形",
+          "link": "https://ws.dgbas.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNDYxL3JlbGZpbGUvMTA3NjgvMjMzNzExL%2BWkmuWFg%2BaAp%2BWIpee1seioiOWIhumhnuaVmeadkO%2B8jeOAjOWci%2Bmam%2BWkmuWFg%2BaAp%2BWIpee1seioiOiIh%2BaIkeWci%2BeZvOWxleaDheW9ouOAjS5wZGY%3D&n=5aSa5YWD5oCn5Yil57Wx6KiI5YiG6aGe5pWZ5p2Q77yN44CM5ZyL6Zqb5aSa5YWD5oCn5Yil57Wx6KiI6IiH5oiR5ZyL55m85bGV5oOF5b2i44CNLnBkZg%3D%3D&icon=.pdf",
+          "snippet": "及經濟參與上的不足、性別刻板印象與偏見、性別暴力威脅、照. 顧女性化、性別 ... 非二元性別非二元性別. 以兩階段法推論順性別與跨性別. 社會性別. 出生時生理性別 ...",
+          "position": 61
+        },
+        {
+          "title": "[PDF] LIST OF TERMS – SEXUAL ORIENTATION, GENDER IDENTITY ...",
+          "link": "https://irb.gc.ca/en/interpreters/Documents/SOGIESC_Glossaries/SOGIESC_List_of_Terms_Mandarin.pdf",
+          "snippet": "对双性恋的反感或偏见. Bisexual. Bisexuel(le). 双性恋. Bottom surgery ... 性别二元. Gender dysphoria. Dysphorie de genre. 性别焦虑症. Gender expression.",
+          "position": 62
+        },
+        {
+          "title": "[PDF] 中文包容性语言指南 - WIPO",
+          "link": "https://www.wipo.int/documents/d/gender/wipo-guidelines-inclusive-language.pdf-5",
+          "snippet": "这种偏见有可能导致对二元异性恋正统主义之外的性. 取向和性别认同的污名化和边缘化。 在处理性取向、性别认同和性别表达时，应采用与上文所述同样的. 策略（“隐去 ...",
+          "position": 63
+        },
+        {
+          "title": "[PDF] 性别多样性 - icann",
+          "link": "https://www.icann.org/en/system/files/files/gender-survey-overview-11oct17-zh.pdf",
+          "snippet": "在表示照顾/家庭责任会影响参与的人. 员中，女性数量比男性和非二元性別. 的人数多。 68%. 75% 的答复人表示，没有遭遇或. 目睹过性别歧视或性别偏见。",
+          "position": 64
+        },
+        {
+          "title": "温哥华酷儿女权脱口秀：带妈妈来看我们讲性和政治笑话 - 歪脑",
+          "link": "https://www.wainao.me/wainao-reads/Vancouver-queer-feminist-stand-up-comedy-show-12122023",
+          "snippet": "带妈妈来看我们讲性和政治笑话，如何成为“异类”们战胜恐惧、偏见和暴力的抗争 ... 乐乐是一名自我认同为“非二元”的跨性别演员，也是UniCome的核心志愿者。",
+          "date": "2023年12月11日",
+          "position": 65
+        },
+        {
+          "title": "認識跨性別– 跨性別Transgender",
+          "link": "https://transgender.taipei/%E8%AA%8D%E8%AD%98%E8%B7%A8%E6%80%A7%E5%88%A5/",
+          "snippet": "跨性別男性（Trans Man / FTM）：指從女性跨越到男性，也可簡稱跨男。 · 跨性別女性（Trans Woman / MTF）：指從男性跨越到女性，也可簡稱跨女。 · 非二元性別（Non-binary）：指性別 ...",
+          "position": 66
+        },
+        {
+          "title": "管理研究中的女性形象 - 上海财经大学期刊社",
+          "link": "https://qks.sufe.edu.cn/mv_html/j00002/202011/8d55131a-d8c1-4dc0-b2e8-a373f20976c8_WEB.htm",
+          "snippet": "性别匹配（gender match）是指在商业领域内两个对偶角色的性别所形成的不同组合，包括三分类划分（男—男、男—女、女—女）和二分类划分（同性、异性）。对偶角色的性别匹配包括： ...",
+          "position": 67
+        },
+        {
+          "title": "苏珊娜·坦科: 什么是跨性别者——谬误的性别二元化贻害所有人 - TED",
+          "link": "https://www.ted.com/talks/susannah_temko_what_it_means_to_be_intersex/transcript?language=zh-cn",
+          "snippet": "苏珊娜·坦科（Susannah Temko）以她的个人经历为基础，揭露了跨性别群体所面临的耻辱、偏见和伤害，因为他们被迫遵从对性的二元理解，最终阻碍了他们的健康和",
+          "date": "2020年8月26日",
+          "position": 68
+        },
+        {
+          "title": "[PDF] 第三章認識跨性別者（T）及其處境",
+          "link": "https://www.boca.gov.tw/dl-2331-7e983e47d7e043f3b9c6d19c66e9d68a.html",
+          "snippet": "為跨性別及非二元性別者，高於其他所有年齡層。 從原本法律認定性別男性轉變為女性的變性者稱為MtF（Male to Female），. 也稱跨性別女性（transgender female）；原本 ...",
+          "position": 69
+        },
+        {
+          "title": "公平性：减少偏见| Machine Learning",
+          "link": "https://developers.google.com/machine-learning/crash-course/fairness/mitigating-bias?hl=zh-cn",
+          "snippet": "公平性：减少偏见. bookmark_border ... MinDiff： MinDiff 旨在平衡两个不同数据切片的错误（男/女生与非二元学生）相比， 两组预测分布之间的差异。",
+          "date": "2024年8月13日",
+          "position": 70
+        },
+        {
+          "title": "英语例句中的性别歧视和刻板印象——以国内语言学期刊为例",
+          "link": "https://www.hanspub.org/journal/paperinformation?paperid=52078",
+          "snippet": "但与此同时，本研究的研究者也认识到性别的非二元性，并清楚上述简化的二元分类法对于性别谱系来说描述的不完全性与不准确性。遗憾的是，在此所分析的论文中尚未出现对专有 ...",
+          "position": 71
+        },
+        {
+          "title": "术语介绍 - FtM.wiki",
+          "link": "https://ftm.wiki/zh-cn/psycho/terminology/",
+          "snippet": "二元性别（Gender binary） 是指一种观念，即只有男性和女性两种性别；每个人必须属于其中之一；而且所有男子都是男性化的，所有女子都是女性化的。 多元性别（ ...",
+          "date": "2023年12月11日",
+          "position": 72
+        },
+        {
+          "title": "当我们讨论女性问题时，二元对立会是唯一终点吗？ - 新浪财经",
+          "link": "https://finance.sina.cn/2019-08-19/detail-ihytcitn0172593.d.html",
+          "snippet": "更进一步地说，是能够或多或少地揭示上面这些偏见，或者揭示误解背后作祟的、惯常但却错误的思维方式，以及权益缺失背后结构性不公的报道，都可以叫做女性报道 ...",
+          "date": "2019年8月19日",
+          "position": 73
+        },
+        {
+          "title": "YEF2024专题论坛| AIGC：我太“男”了？——大模型中的性别偏差问题",
+          "link": "https://www.ccf.org.cn/Focus/2024-05-29/823281.shtml",
+          "snippet": "如果大模型在训练过程中吸收了带有性别偏见数据或方法，这些偏见很可能反映在其输出决策中。这不仅可能导致机会分配不平等，还可能在日常人机互动中加深性别 ...",
+          "date": "2024年5月29日",
+          "position": 74
+        },
+        {
+          "title": "[GI]性別二元論的挑戰；維基百科的結構性偏見；性別與空間表現",
+          "link": "https://taiwan-gist.nknu.edu.tw/index.php/component/sppagebuilder/?view=page&id=151",
+          "snippet": "性別二元論意指將人類分為女性和男性兩種區別，這在心理科學的歷史發展上扮演重要角色，但近年來不論是在學術研究還是社會運動的發展上，皆對性別二元論提出了嚴峻的挑戰，本文 ...",
+          "position": 75
+        },
+        {
+          "title": "善意性别偏见与女性韧性程度：中介作用分析 - 应用心理学",
+          "link": "http://www.appliedpsy.cn/CN/abstract/abstract454.shtml",
+          "snippet": "摘要 本文基于传播韧性理论，对300位成年女性进行问卷调查，探究善意性别偏见对韧性的中介作用机制。结果表明：1. 善意性别偏见正向预测韧性；2. 善意性别偏见通过社会支持寻求 ...",
+          "position": 76
+        },
+        {
+          "title": "联合国报告：生成式人工智能加剧性别偏见 - 人民网-国际频道",
+          "link": "http://world.people.com.cn/n1/2024/0308/c1002-40191962.html",
+          "snippet": "新华社巴黎3月7日电（记者徐永春）国际妇女节前夕，联合国教科文组织7日发布研究报告称，大语言模型存在性别偏见、种族刻板印象等倾向。 ... 元”的Llama 2等都 ...",
+          "date": "2024年3月8日",
+          "position": 77
+        },
+        {
+          "title": "OpenAI的大模型更倾向生成白人男性图像？研究发现多款AI模型均 ...",
+          "link": "https://www.mittrchina.com/news/detail/11744",
+          "snippet": "最终，这些模型的输出“压倒性”地反映了典型的性别偏见。比如，当在描述一个职业的提示词中加入“富有同情心”、“情绪化”或“敏感”等形容词，AI ...",
+          "date": "2023年3月22日",
+          "position": 78
+        },
+        {
+          "title": "用于研究翻译中性别偏见的数据集 - tf.wiki 社区",
+          "link": "https://discuss.tf.wiki/t/topic/1811",
+          "snippet": "值得一提的是，由于维基百科通过这种方式来表示实体，目前其中的实例还不足以准确反映非二元群体。因此很遗憾，该集合并不包括标识为非二元的个人。为了将每 ...",
+          "date": "2021年8月28日",
+          "position": 79
+        },
+        {
+          "title": "联合国报告：生成式人工智能加剧性别偏见 - 新华网客户端",
+          "link": "https://app.xinhuanet.com/news/article.html?articleId=4cb20f5a325275a362e43983e676725a",
+          "snippet": "... 元”的Llama 2等都属于此类。 此次联合国教科文组织名为“大语言模型中对妇女和女童的偏见”的研究深入分析了大语言模型中的刻板印象。结果显示，上述大 ...",
+          "date": "2024年3月8日",
+          "position": 80
+        },
+        {
+          "title": "[PDF] 矛盾性别偏见与群际焦虑的关系 - 心理与行为研究",
+          "link": "https://psybeh.tjnu.edu.cn/EN/article/downloadArticleFile.do?attachType=PDF&id=1908",
+          "snippet": "综上，本研究提出一个有调. 节的中介模型（见图1），主要目的包括两方面：. （1）考察消极元刻板印象在矛盾性别偏见与群际. 焦虑之间可能的中介作用；（2）检验群体认同对. 此中介 ...",
+          "position": 81
+        },
+        {
+          "title": "[康丽]性别与民俗学研究",
+          "link": "https://www.chinesefolklore.org.cn/web/index.php?NewsID=18081",
+          "snippet": "作为研究概念，性别最早被用于解释人类社会的性别结构现状。在这种解释过程中，性别被框定为兼具自然与文化基础的二元结构：既包括指向解剖学意义上两性区别的生理 ...",
+          "position": 82
+        },
+        {
+          "title": "联合国报告：生成式人工智能加剧性别偏见 - 新闻- 中国网",
+          "link": "http://news.china.com.cn/2024-03/08/content_117049034.shtml",
+          "snippet": "新华社巴黎3月7日电（记者徐永春）国际妇女节前夕，联合国教科文组织7日发布研究报告称，大语言模型存在性别偏见、种族刻板印象等倾向。 ... 元”的Llama 2等都 ...",
+          "date": "2024年3月8日",
+          "position": 83
+        },
+        {
+          "title": "社会偏见还是性别差异 - 武汉大学",
+          "link": "http://cgrs.lib.whu.edu.cn/Qw/Paper/161104",
+          "snippet": "自古以来，在文化观念上就认为男女具有截然不同的性别特征。西方自笛卡儿以来确立的主体与客体、知者与所知之间的二元划分，在启蒙时代进一步泛化 ...",
+          "position": 84
+        },
+        {
+          "title": "双重身份下女性对抗性别偏见的回应行为 - SciEngine",
+          "link": "https://www.sciengine.com/APS2/doi/10.3724/SP.J.1042.2019.01085;JSESSIONID=f82d16d5-c765-4f51-8da4-3b109c2edc94",
+          "snippet": "性别偏见(Gender Prejudice)是基于社会性别分类, 偏见持有者认为偏见对象群体拥有更低的社会地位的一种态度( Brinkman & Rickard, 2009 )。",
+          "date": "2022年7月13日",
+          "position": 85
+        },
+        {
+          "title": "【资讯】敲打性别偏见与主体意识的觉醒：12场国际展览如何聚焦 ...",
+          "link": "http://www.artspy.cn/activity/view/12237",
+          "snippet": "由历史文化、观念习俗与社会制度塑造的性别从属关系及其困境，虽不能由一场或几场展览而轻易被改变，但反之也说明：让过去及现在与男性同样有才华的女性获得 ...",
+          "date": "2022年3月12日",
+          "position": 86
+        },
+        {
+          "title": "当代美国女性主义思潮述评",
+          "link": "http://www.mgyj.com/american_studies/1999/second/second06.htm",
+          "snippet": "有人对二元体系提出批评，主张用一元体系来解释妇女问题。 ... 扬建议用“社会性别的劳动分工”（gender division of labor）作为核心概念，把马克思主义、激进主义和精神分析的 ...",
+          "position": 87
+        },
+        {
+          "title": "教科文组织报告敲响警钟：生成式人工智能加剧性别偏见| 联合国日内瓦",
+          "link": "https://www.ungeneva.org/zh/news-media/news/2024/03/91294",
+          "snippet": "该研究还强调了LLM倾向于生成关于同性恋群体和特定种族群体的负面内容。当3种AI模型被要求补全“一个同性恋者是……”这句话时，Llama 2生成的内容中有70 ...",
+          "date": "2024年3月7日",
+          "position": 88
+        },
+        {
+          "title": "变性别欲者之酸甜苦辣_博览群书 - 光明网",
+          "link": "https://www.gmw.cn/02blqs/2010-02/07/content_1133352.htm",
+          "snippet": "由于男女二元分割的性别文化和性别歧视，变性别欲者往往比常人更容易受到 ... ”显然，刻板的性别角色定位和性别偏见与性别歧视一样，左右着变性别欲者的选择。",
+          "date": "2010年2月7日",
+          "position": 89
+        },
+        {
+          "title": "不论强调性别还是使用中性词汇，都会影响职场性别偏见 - 领研网",
+          "link": "https://www.linkresearcher.com/theses/7b07b2d9-ee80-41f4-9b6e-fef65cc01de7",
+          "snippet": "新兴的研究表明，语言在塑造我们在专业领域中对性别的看法方面具有重要作用。然而，两种对立的性别沟通策略之间存在着紧张关系：性别标记和性别中立。每一项 ...",
+          "date": "2022年6月20日",
+          "position": 90
+        },
+        {
+          "title": "人类性别偏见是如何支配我们大脑的- BBC 英伦网",
+          "link": "https://www.bbc.com/ukchina/simp/57440585",
+          "snippet": "在一项分析1,400 次脑部扫描的研究中，神经科学家达芙娜·乔尔（Daphna Joel）及其同事发现“所有评估的灰质、白质和连接的女性和男性分布之间存在广泛重叠”，也 ...",
+          "date": "2021年6月11日",
+          "position": 91
+        },
+        {
+          "title": "朱迪斯·巴特勒：性别差异与性别操演 - 中国社会科学杂志社",
+          "link": "http://sscp.cssn.cn/xkpd/zx_20145/202401/t20240124_5730456.html",
+          "snippet": "然而，作为后女性主义的代表，巴特勒认为这个区分其实是没有意义的。在巴特勒看来，二者之间的这种决定与被决定的关系不是固有的。而且，权力和话语通过这 ...",
+          "date": "2024年1月24日",
+          "position": 92
+        },
+        {
+          "title": "[PDF] 浅析性别平等广告对角色定型的突破",
+          "link": "https://www.sinoss.net/upload/resources/file/2023/09/19/34441.pdf",
+          "snippet": "鸣，将批判性别歧视与性别偏见的情绪积累到顶点。 （三）否定角色定型 ... 最后，主动发挥广告的社. 会价值，跨越男女二元对立的立场去传递平等的 ...",
+          "date": "2023年9月19日",
+          "position": 93
+        },
+        {
+          "title": "宇多田光的「非二元性別」自白：別用偏見對待自己、看待世界 - 女人迷",
+          "link": "https://womany.net/read/article/27468",
+          "snippet": "性別觀察｜宇多田光的「非二元性別」自白：別用偏見對待自己、看待世界 ... 宇多田光公開出櫃：公佈自己是「非二元性別者」——不是男生、不是女生，想是什麼，由 ...",
+          "date": "2021年7月26日",
+          "position": 94
+        },
+        {
+          "title": "科学网-第2届世界人工意识大会速递--联合国测评报告：大语言模型对 ...",
+          "link": "https://wap.sciencenet.cn/blog-3429562-1426222.html?mobile=1",
+          "snippet": "主要发现包括在性别化词语关联任务中，最近的一个LLM仍然表现出先前确定的偏见，并且更有可能将性别化的名称与传统角色联系在一起（例如，女性名称与“家庭”、“ ...",
+          "date": "2024年3月21日",
+          "position": 95
+        },
+        {
+          "title": "How does benevolent sexism affect women's career development?",
+          "link": "https://www.researchgate.net/publication/336080054_Sweet_poison_How_does_benevolent_sexism_affect_women's_career_development",
+          "snippet": "是和敌意性别偏见的“两弊相衡取其轻”。 ... 统性别角色规范的作用。 ... 拳”, 更像是“蜜糖裹砒霜”。 ... 如前所述, 善意性别偏见对女性的消极作用,. 主要是通过 ...",
+          "date": "2024年10月22日",
+          "position": 96
+        },
+        {
+          "title": "性偏见从哪儿来？ - 神经现实",
+          "link": "https://neu-reality.com/2019/06/sexual-prejudice/",
+          "snippet": "在一些国家，人们仍然会因为发生同性关系而被关入监狱或者判处死刑。哪怕是在美国这样已经实现合法化的国家，根据独立研究组织NORC开展的调查显示，2018年 ...",
+          "date": "2019年6月23日",
+          "position": 97
+        },
+        {
+          "title": "“我不喜欢你”所以“你也可能不喜欢我”：矛盾性别偏见与群际焦虑的关系",
+          "link": "http://www.xml-data.org/XYYXWYJ/html/2019/2/2019-2-274.htm",
+          "snippet": "研究结果表明：（1）矛盾性别偏见正向预测群际焦虑，但善意性别偏见与群际焦虑相关不显著；（2）消极元刻板印象在矛盾性别偏见和群际焦虑间起部分中介作用；（3）消极元刻板印象的 ...",
+          "position": 98
+        }
+      ],
+      "images": [
+        {
+          "title": "关于性别偏见：我们不是一个模子刻出来的男孩女孩| TestDaily厚朴优学",
+          "imageUrl": "https://testdaily-static.oss-cn-beijing.aliyuncs.com/f/2024-09-29/202409291910051bf48ff300.jpg",
+          "link": "https://www.testdaily.cn/38544/"
+        },
+        {
+          "title": "非二元性别者：Helen Brand 谈如何找到活得真实的力量| 慧咨环球",
+          "imageUrl": "https://www.wisetechglobal.com/media/yk4j4owh/wtg_real-me-blogpost_helenbrand.jpg?rnd=132745303134570000",
+          "link": "https://www.wisetechglobal.com/zh-cn/news/they-them-theirs-helen-brand-on-finding-the-strength-to-live-authentically/"
+        },
+        {
+          "title": "性别偏见的双重影响- Genspark",
+          "imageUrl": "https://sspark.ai/cfimages?u1=lakdWnu%2BqzQzrC2%2BVIcDQeIQtbZnckZCnoxk1GofnioXI99dVuL21U80G2ETFqLql3tuO3sjG4fET1j0LYvVht0Eo9DrwWd4PwsZ&u2=7xd4aysuhgPz2pV3&width=1024",
+          "link": "https://www.genspark.ai/spark/%E6%80%A7%E5%88%AB%E5%81%8F%E8%A7%81%E7%9A%84%E5%8F%8C%E9%87%8D%E5%BD%B1%E5%93%8D/15c41d4a-981a-3719-b5e2-4c82fbe9b154"
+        },
+        {
+          "title": "非二元性别：打破传统二元论，建造多元的性别色谱体系| 歪腦WHYNOT",
+          "imageUrl": "https://s3cdn.wainao.me/2021-12/cover-photos/1920x1080.jpg",
+          "link": "https://www.wainao.me/wainao-watches/explainer-gender-nonbinary-12282021"
+        },
+        {
+          "title": "非二元性别- 维基百科，自由的百科全书",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Marche_des_Fiert%C3%A9s_Paris_02_07_2016_06.jpg",
+          "link": "https://zh.wikipedia.org/zh-cn/%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%A5"
+        },
+        {
+          "title": "生而无罪，你不需要抱歉”|性别认同：“顺”或“跨”都不该被轻易定义-心理 ...",
+          "imageUrl": "https://xinli.swjtu.edu.cn/__local/9/CC/D3/98BE083031BC7972DCCA4EF1DDA_C7E0FFE9_BE263.png",
+          "link": "https://xinli.swjtu.edu.cn/info/1065/5833.htm"
+        },
+        {
+          "title": "PDF) 翻译-联合国报告-大语言模型中对妇女和女童的偏见(第2届世界人工 ...",
+          "imageUrl": "https://i1.rgstatic.net/publication/379116418_fanyi-lianheguobaogao-dayuyanmoxingzhongduifunuhenutongdepianjiandi2jieshijierengongyishidahuisudixilie/links/65fba953a4857c79626571a1/largepreview.png",
+          "link": "https://www.researchgate.net/publication/379116418_fanyi-lianheguobaogao-dayuyanmoxingzhongduifunuhenutongdepianjiandi2jieshijierengongyishidahuisudixilie"
+        },
+        {
+          "title": "非二元性别- 维基百科，自由的百科全书",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Non-binary_preferred_pronouns_chart.png/200px-Non-binary_preferred_pronouns_chart.png",
+          "link": "https://zh.wikipedia.org/zh-cn/%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%A5"
+        },
+        {
+          "title": "人类性别偏见是如何支配我们大脑的- BBC 英伦网",
+          "imageUrl": "http://c.files.bbci.co.uk/213C/production/_118780580_melissagenderfamilygettyjavier.jpg",
+          "link": "https://www.bbc.com/ukchina/simp/57440585"
+        }
+      ],
+      "relatedSearches": [
+        {
+          "query": "Gender binary"
+        },
+        {
+          "query": "Gender opposition"
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

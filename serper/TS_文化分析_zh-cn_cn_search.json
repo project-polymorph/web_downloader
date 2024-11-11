@@ -1,0 +1,1038 @@
+{
+  "query": "TS 文化分析",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-04T00:44:36.926091",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "TS 文化分析",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "伪娘文化中的cd和ts群体分析 - 暗室",
+          "link": "https://www.anshizm.com/14445.html",
+          "snippet": "另一方面，TS是Transsexual的缩写，指跨性别者。他们可能通过手术、激素治疗或其他方式来使自己的性别认同与身体外观相一致。与CD不同，TS更多关注的是性别 ...",
+          "date": "2024年5月5日",
+          "position": 1
+        },
+        {
+          "title": "论T. S.艾略特的文化自然发展观 - 重庆大学期刊社",
+          "link": "http://qks.cqu.edu.cn/cqdxskcn/article/html/201006027",
+          "snippet": "T. S.艾略特文化思想的第一要素就是非理性建构的文化自然发展观和超时空的大文化观。历时性的前者重历史,保传统,主张文化无为而治,自然进化;共时性的后者指“统一文化” ...",
+          "position": 2
+        },
+        {
+          "title": "TS公司跨文化冲突及其管理的案例研究",
+          "link": "https://d.wanfangdata.com.cn/thesis/D01209475",
+          "snippet": "协同跨文化的差异，能够求同存异，创造出新的具有共同目标的新文化”。 跨文化冲突普遍存在于各个跨国公司，实施跨文化冲突管理是企业生存和发展的根本需要。",
+          "date": "2018年2月8日",
+          "position": 3
+        },
+        {
+          "title": "著名TS up主从其专业角度详细分析了易事件，他深入浅出讲的非常透彻",
+          "link": "https://m.kdslife.com/t_11358984_0_2.html",
+          "snippet": "著名TS up主从其专业角度详细分析了易事件，他深入浅出讲的非常透彻，不错的科普 ... 90年代从来没听说过TS 这就是外国势力渗透我们污染我们的文化. 引用自#13 ...",
+          "date": "2024年10月22日",
+          "position": 4
+        },
+        {
+          "title": "你不知道的TypeScript 高级技巧_语言& 开发 - InfoQ",
+          "link": "https://www.infoq.cn/article/7art3fu6ywdhxyqfss0w",
+          "snippet": "而原生的JavaScript 由于其弱类型和没有模块化的缺点，不利于大型应用的开发和维护，因此，TypeScript 也就应运而生。本文带你了解Awesome TypeScript。",
+          "date": "2021年7月31日",
+          "position": 5
+        },
+        {
+          "title": "運用「TS分析法」解決問題！2個案例教你用聰明方式，提高生產力",
+          "link": "https://pinshuoi.com/post220914/",
+          "snippet": "介紹了一種我稱為「TS分析法」的概念，它是時間軸（Time）與空間軸（Space）的結合。在我們面對棘手問題的時候，TS分析法可以更具體的拆解問題的根源，以利對症下藥。",
+          "position": 6
+        },
+        {
+          "title": "TypeScript被吹过头了？_GMTC_Paul Cowan_InfoQ精选文章",
+          "link": "https://www.infoq.cn/article/honccnmidzivqzpxik17",
+          "snippet": "TypeScript 克服了一些难以逾越的障碍，成为了前端编程领域的主流之选。TypeScript 在这篇文章列出的最受欢迎编程语言中排名第七。 无论你是否在使用 ...",
+          "date": "2020年3月24日",
+          "position": 7
+        },
+        {
+          "title": "[PDF] 何谓“跨文化”： 自我与他者的吊诡共生",
+          "link": "https://www.tsyzm.com/fileup/1004-2229/NEWS/20220720105228.pdf",
+          "snippet": "跨文化研究是一种面对他者的伦理态度，表现在批判僵化主体，. 主张文化的混杂本质，批判“正统身份”及“中心主义”，就强势与弱势文化的关系与. 比较研究及后殖民 ...",
+          "date": "2022年7月20日",
+          "position": 8
+        },
+        {
+          "title": "[PDF] 识别文化的因果效应",
+          "link": "https://www.tsyzm.com/fileup/1004-2229/NEWS/20240103115411_NewsFile_40.pdf",
+          "snippet": "【内容摘要】 文化现实效应的既有分析重在勾画文化与其他待解释社会现象之间的相关性，以经验相. 关来指代因果。文化创造性转化和创新性发展研究的 ...",
+          "date": "2024年1月3日",
+          "position": 9
+        },
+        {
+          "title": "从文化主义到结构主义马克思主义 - 中央党史和文献研究院",
+          "link": "https://www.dswxyjy.org.cn/n1/2019/0617/c427163-31163398.html",
+          "snippet": "在“葛兰西转向”前，伯明翰学派的学术路径经历了一个由文化主义到结构主义马克思主义的变迁：一是研究视角从经验转向结构；二是逻辑框架由文学社会学为主 ...",
+          "date": "2016年9月1日",
+          "position": 10
+        },
+        {
+          "title": "TS Anders Hejlsberg - TypeScript 之父简介 - CSDN博客",
+          "link": "https://blog.csdn.net/universsky2015/article/details/83594174",
+          "snippet": "TypeScript 是JavaScript 的超集，TypeScript结合了类型检查和静态分析，显式接口。TypeScript是微软的开源项目，它是由C#之父Anders Hejlsberg发起的。",
+          "date": "2017年11月16日",
+          "position": 11
+        },
+        {
+          "title": "政府向社会力量购买公共文化服务指导性目录",
+          "link": "http://www.ts.gov.cn/art/2024/9/19/art_1229246210_4256479.html",
+          "snippet": "文化、广电、新闻出版/文化; 文号：; 无〔2024〕0号; 发布机构：; 泰顺 ... 分析. （五）公共文化服务信息系统建设、升级、运行及维护. （六）公共文化 ...",
+          "date": "2024年9月19日",
+          "position": 12
+        },
+        {
+          "title": "从TypeScript到ArkTS的适配规则",
+          "link": "https://developer.huawei.com/consumer/cn/doc/harmonyos-guides/typescript-to-arkts-migration-guide-V5",
+          "snippet": "从TypeScript到ArkTS的适配规则ArkTS通过规范约束了TypeScript（简称TS） ... 分析服务） · Performance Analysis Kit简介 · HiLog使用指导 · 使用HiLog打印日志（ArkTS）.",
+          "position": 13
+        },
+        {
+          "title": "昆仑文化研究丨昆仑何以伟大 - 天山网",
+          "link": "https://www.ts.cn/xwzx/xuexi/llwz/202410/t20241031_24696948.shtml",
+          "snippet": "中国传统格物致知的认识论表明，人类知识体系的形成乃是先民通过对自然世界的观察分析获得的，而并不是出于他们头脑中的虚造玄想，这意味着中华文明本是追求 ...",
+          "date": "4天前",
+          "position": 14
+        },
+        {
+          "title": "《西藏自治区级文化生态保护区管理暂行办法》出台",
+          "link": "https://toutiao.xzdw.gov.cn/ts/qwht/202312/t20231220_427638.html",
+          "snippet": "（一）对文化形态形成的地理环境、历史沿革、现状、鲜明特色、文化内涵与价值的描述和分析； ... 考察组应当吸收非物质文化遗产保护、地方文化研究 ...",
+          "date": "2023年12月20日",
+          "position": 15
+        },
+        {
+          "title": "TS - 问题解决力- 上篇- Anliven - 博客园",
+          "link": "https://www.cnblogs.com/anliven/p/9136619.html",
+          "snippet": "... 分析案例、展开讨论、逻辑思考、框架分析 ... TS - 问题解决力- 上篇 ... 公司体系（System）：运作流程与操作程序，如财务系统、研发系统、供应链系统等。 “软件”. 组织文化( ...",
+          "position": 16
+        },
+        {
+          "title": "[PDF] T-S 模糊重要度分析方法研究",
+          "link": "https://qikan.cmes.org/jxgcxb/EN/PDF/24736",
+          "snippet": "姚成玉等：T-S 模糊重要度分析方法研究. 165. 1. *. 1. 1. 2. *. 2. 1. *. 1 ... 文化大. 发展大繁荣做贡献的激情，新闻出版总署于2011 年3 月18 日在北京北展剧场 ...",
+          "position": 17
+        },
+        {
+          "title": "[PDF] 跨文化研究的基础",
+          "link": "http://www.shehui.pku.edu.cn/upload/editor/file/20180928/20180928094239_9542.pdf",
+          "snippet": "它在文化系统间作跨文化分析,. 所用标准一般具有文化普遍性及绝. 对性 ... e lu t u比al tS du ise 卜f叨比h e r p ~ de . T he if o t is t he is ...",
+          "date": "2018年9月28日",
+          "position": 18
+        },
+        {
+          "title": "张雪青 - 同济大学设计创意学院",
+          "link": "https://tjdi.tongji.edu.cn/TeacherDetail.do?id=1142&lang=",
+          "snippet": "ISSN 2095-1728，CN 31-2129/TS. [6] 张雪青，徐捷. 设计学科视阈下的色彩 ... 色彩文化研究：上海和伦敦消费品色彩比较案例分析，同济大学女教师成才基金，项目 ...",
+          "position": 19
+        },
+        {
+          "title": "伪娘文化中的ts和cd是什么？跟人妖有区别，老司机才懂(cd是什么意思)",
+          "link": "https://www.mzcf88.com/article/114331.html",
+          "snippet": "伪娘文化中的ts和cd是什么？跟人妖有区别，老司机才懂(cd是什么意思) 今天我们来说一下，跟二次元文化几乎是同等级的伪娘文化中的“ts”和“cd”是什么意思的问题。 伪娘文化 ...",
+          "position": 20
+        },
+        {
+          "title": "“科学文化”：科学知识的传播之网",
+          "link": "http://www.xml-data.org/KXYSH/html/f821cc1f-a0cb-4e28-b31c-7f400ba8b34a.htm",
+          "snippet": "根据威廉姆斯的研究，爱略特（T. S. Eliot）在20世纪复苏了该术语的评估性内涵 ... 20世纪60年代后的文化研究，将科学作为一种文化构成进行分析。威廉姆斯的历史 ...",
+          "position": 21
+        },
+        {
+          "title": "KPL硬核分析：TS为什么能战胜AG？细节 - 王者荣耀",
+          "link": "http://pvp.uuu9.com/yxsp/jssp/202107/29066.shtml",
+          "snippet": "KPL硬核分析：TS为什么能战胜AG？细节. 时间：06/19 来源：本站原创 作者 ... KPL浓墨重彩的一笔！LGD联合大鹅文化斥资8000 ...",
+          "position": 22
+        },
+        {
+          "title": "TS系列交流伺服系统在智能邮包分拣中的应用 - 和利时电机",
+          "link": "http://www.syn-tron.com/index.php?m=content&c=index&a=show&catid=180&id=15&mid=82",
+          "snippet": "... 分析处理，由单片机控制计算出邮包到达指定分拣格口所需要的时间，以便邮包到达分 ... 企业文化 · 公司资质 · 品牌故事 · 知识产权 · 人力资源 · 合作伙伴. 下载中心. 选型 ...",
+          "position": 23
+        },
+        {
+          "title": "为高校网络思政提供方法自觉 - 中国社会科学网",
+          "link": "https://www.cssn.cn/mkszy/ts/202301/t20230116_5583069.shtml",
+          "snippet": "基于此，本书采用跨学科的综合分析，借用心理学、思想政治教育和社会学的研究视角，对新媒体时代青年亚文化的生成过程、构建与变迁、社会效用进行分析，力求对 ...",
+          "date": "2023年1月16日",
+          "position": 24
+        },
+        {
+          "title": "一文读懂TS的(.d.ts)文件 - 腾讯云",
+          "link": "https://cloud.tencent.com/developer/article/2278044",
+          "snippet": "随着前端技术的不断发展，TypeScript（简称TS）已经在逐步取代JavaScript（简称JS），尤其在以Vue3 使用TS 重构后， TS 更是成为前端框架编写的主力语言。",
+          "position": 25
+        },
+        {
+          "title": "[PDF] 比较文学研究的多元文化视角——以库切《等待野蛮人》文本阅读为例",
+          "link": "http://aclts.cn/Assets/userfiles/sys_eb538c1c-65ff-4e82-8e6a-a1ef01127fed/files/%E6%AF%94%E8%BE%83%E6%96%87%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%9A%84%E5%A4%9A%E5%85%83%E6%96%87%E5%8C%96%E8%A7%86%E8%A7%92%E2%80%94%E2%80%94%E4%BB%A5%E5%BA%93%E5%88%87%E3%80%8A%E7%AD%89%E5%BE%85%E9%87%8E%E8%9B%AE%E4%BA%BA%E3%80%8B%E6%96%87%E6%9C%AC%E9%98%85%E8%AF%BB%E4%B8%BA%E4%BE%8B.pdf",
+          "snippet": "内容提要：本论文从比较文学的概念起文，分析“外国文学”与“本国文学”的内涵与. 外延。“外国”作为“异域之地”, 其中的“异域性”与“本土性”相对应，其概念效果可.",
+          "position": 26
+        },
+        {
+          "title": "关于ts艾略特的选题分析报告",
+          "link": "https://www.xuantibao.com/subject/detail?sid=OA==&wid=MTYyMjg2",
+          "snippet": "t.s.艾略特热点选题态势分析报告是为研究人员申报各级各类课题、基金， ... 威廉斯文化思想比较研究”（14FWW004）. 湖南省社科规划办项目“雷蒙德·威廉斯的 ...",
+          "position": 27
+        },
+        {
+          "title": "（转）关于正式开通Incites数据库的通知",
+          "link": "https://fld.nwsuaf.edu.cn/jylt/429030.htm",
+          "snippet": "在科学研究层面，可帮助科研人员洞悉研究前沿、识别学术热点、寻找合作伙伴、发掘高质量的投稿期刊和基金资助机构。在管理评价层面可进行对标分析，明确机构 ...",
+          "date": "2019年7月3日",
+          "position": 28
+        },
+        {
+          "title": "数学与文化教育-通识与人文教育学院 - 石家庄财经职业学院",
+          "link": "https://www.hebcj.cn/ts/info/1037/1429.htm",
+          "snippet": "数学是一种文化数学作为现代理性文化的核心，提供了一种思维方式。这种思维方式包括：抽象化、运用符号、建立模型、逻辑分析、推理、计算，不断地改进、推广，更深入地洞察 ...",
+          "position": 29
+        },
+        {
+          "title": "TS封装格式小白入门分析之抓包码流分析介绍 - 360Doc",
+          "link": "http://www.360doc.com/content/24/0604/05/37788866_1125254343.shtml",
+          "snippet": "节目关联表PAT的PID为0x0000，包括该TS流中的所有节目映射表即每个节目的PMT PID，传输流ID等。PAT表的结构分析如下：. typedef struct TS_PAT{.",
+          "date": "2024年6月4日",
+          "position": 30
+        },
+        {
+          "title": "语言学院“Messenger”团队开展“中国文化英语微视频制作研究”项目 ...",
+          "link": "https://www.njts.edu.cn/2020/0816/c5813a50855/page.htm",
+          "snippet": "... 分析，结合问卷填写者的反馈，包括他们对中华传统文化的认知，对某一文化类别的喜爱程度，以及对文化传播途径的建议等，团队成员在线上众多与中华文化 ...",
+          "date": "2020年8月17日",
+          "position": 31
+        },
+        {
+          "title": "[PDF] 跨性别女性人群心理特征及相关行为分析* - 中国公共卫生",
+          "link": "https://www.zgggws.com/cn/article/pdf/preview/10.11847/zgggws1118684.pdf",
+          "snippet": "... 文化程度居多，占83.1 %；74.4 %. 为非独生子女。性取向选择男性119 人 ... 1.3 统计分析采用Excel2007 录入，用SPSS19.0. 软件对资料进行统计学 ...",
+          "date": "2018年11月1日",
+          "position": 32
+        },
+        {
+          "title": "严飞：历史社会学的文化阐释与意义构筑 - 爱思想",
+          "link": "https://www.aisixiang.com/data/148546.html",
+          "snippet": "据此，本文提出在历史情境(context)基础上的文化分析路径，强调历史社会学不应该仅仅只是结构性的变量回归，在变量与变量之间机械地去推导线性因果，而是要 ...",
+          "date": "2024年1月10日",
+          "position": 33
+        },
+        {
+          "title": "TS 轻工业、手工业 - 广西民族大学图书馆",
+          "link": "https://library.gxmzu.edu.cn/info/1060/1698_4.htm",
+          "snippet": "G 文化、科学、教育、体育 · H 语言、文字 · I 文学 · J 艺术 · K 历史、地理 · N 自然科学 ... 分析、试验TS314 盐业气象TS32 盐业资源TS321 盐业资源的形成与分类TS322 盐 ...",
+          "position": 34
+        },
+        {
+          "title": "TS - 企查查",
+          "link": "https://www.qcc.com/product/a9d64db9-ec7e-428a-af9b-5fb737b7a477.html",
+          "snippet": "... 分析，为客户提供智慧交通、智慧建筑、智慧医疗、智慧教育、智慧农业、智慧数据 ... “3”即布局终端与智能制造、信息产品与服务、文化内容与创意三大产业板块，提供核心产品与 ...",
+          "position": 35
+        },
+        {
+          "title": "多发性抽动症患儿预后影响因素研究分析 - 中华急诊医学杂志",
+          "link": "http://www.cem.org.cn/rhtml/20170925/index.htm",
+          "snippet": "采用本研究自行设计的调查问卷《TS患儿一般临床资料问卷调查表》，调查内容包括患儿性别、发病年龄、病程、出生异常病史、家庭和睦关系、父母文化程度、父亲性格、母亲性格 ...",
+          "position": 36
+        },
+        {
+          "title": "CEN/TS 16555-1《创新管理第1部分:创新管理体系》标准解读 - 浙里检",
+          "link": "https://www.zljweb.com/news/1237.html",
+          "snippet": "内部分析需要考虑执行层面、文化层面、能力层面、营运层面、绩效层面的影响。执行层面包括现有的管理实务及其他管理体系标准的使用；文化层面包括组织的 ...",
+          "date": "2022年6月20日",
+          "position": 37
+        },
+        {
+          "title": "泰顺县人民政府县文广旅体局",
+          "link": "https://www.ts.gov.cn/col/col1229663410/index.html",
+          "snippet": "具体内容可登录泰顺县人民政府门户网站（http://www.ts.gov.cn/）点击 ... 分析的义务。 凡涉及党委、政府联合发文的信息，严格按照《中国共产党 ...",
+          "date": "2022年6月28日",
+          "position": 38
+        },
+        {
+          "title": "用中华优秀传统文化涵育大学生文化自信 - 天山网",
+          "link": "https://www.ts.cn/xwzx/pl/202309/t20230901_15660040.shtml",
+          "snippet": "如何更好地引导广大学生在学习和掌握专业知识的同时，强化大学生对中华优秀传统文化的正确认识，使他们养成利用学习和研究中华优秀传统文化分析和解决 ...",
+          "date": "2023年9月1日",
+          "position": 39
+        },
+        {
+          "title": "TS系列中型顶载单热像云台",
+          "link": "http://ithermaltec.com/products/shop_565.html",
+          "snippet": "内置大口径高灵敏度红外热像仪，搭载360°全方位旋转中型云台，实现中远距离快速搜索及监控. • 支持温度异常预警，联动报警输出. • 嵌入式智能分析算法，在设备端实现移动侦 ...",
+          "position": 40
+        },
+        {
+          "title": "儿童多发性抽动症发病危险因素分析",
+          "link": "https://rs.yiigle.com/CN119273201702/986499.htm",
+          "snippet": "... 文化程度、父亲性格特点、母亲性格特点、教养方式、血铅(Pb)水平、血 ... 采用多因素非条件logistic回归分析，对儿童TS发病危险因素进行多因素分析。",
+          "date": "2017年4月1日",
+          "position": 41
+        },
+        {
+          "title": "[PDF] ÿþM i c r o s o f t   W o r d   - àe!ŁÑSU\\ OòŁÅe8n„TS W O T  R'gÊSú ...",
+          "link": "http://www.yrdcpcn.com/upload/2023/0818/2550a3a1-917d-4b78-b7ee-68f2dd05326b.pdf",
+          "snippet": "... 文化信息，构筑文化意境，从而达到个体身心和意志的 ... 二、无锡发展休闲旅游的SWOT 分析. 1.Strength 分析―无锡发展休闲旅游的优势分析 ... Opportunities 分析―无锡发展休闲 ...",
+          "position": 42
+        },
+        {
+          "title": "UP! Studio 采用TS-932X 混合式10GbE NAS 搭配QTS 4.3.5 深度优化 ...",
+          "link": "https://www.qnap.com.cn/la/case-studies/ts-932x-upstudio",
+          "snippet": "以丰富的镜头创意和极高的拍摄效率著称。自2014 年成立以来，UP! Studio 已服务于众多汽车、建筑、IT、文化等领域的500 强企业，包括迪士尼、西门子、JEEP、蔚来汽车、SOHO ...",
+          "position": 43
+        },
+        {
+          "title": "感知社会支持与学生学业成就关系的元分析：学习投入的中介作用",
+          "link": "https://journal.psych.ac.cn/xlkxjz/CN/10.3724/SP.J.1042.2023.00552",
+          "snippet": "TS & SE & AP, 语/数. 2, Bryce, 2019, 1031, 小学, 发达/西方(美国), 期刊, TS/PS ... 表5 经济和文化调节作用元分析结果. 经济和文化, 异质性分析, 效应值及95%的置信区间 ...",
+          "position": 44
+        },
+        {
+          "title": "“旋转在静止中”：《四个四重奏》与T.S.艾略特对中国的认知",
+          "link": "https://www.semanticscholar.org/paper/%E2%80%9C%E6%97%8B%E8%BD%AC%E5%9C%A8%E9%9D%99%E6%AD%A2%E4%B8%AD%E2%80%9D%EF%BC%9A%E3%80%8A%E5%9B%9B%E4%B8%AA%E5%9B%9B%E9%87%8D%E5%A5%8F%E3%80%8B%E4%B8%8ET.S.%E8%89%BE%E7%95%A5%E7%89%B9%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%AE%A4%E7%9F%A5-%E5%BC%A0%E5%89%91/b0013ec987ae756052697de416e48bd5bae60f0c",
+          "snippet": "... 研究,绝口不谈＂影响＂,然而艾略特在诗歌和文集中屡次提到中国诗歌和中国文化,难道是偶然巧合吗？本文试图对艾略特诗歌和文集中的中国元素进行梳理,通过文本分析和深 ...",
+          "position": 45
+        },
+        {
+          "title": "ts管理项目具体有哪些 - Worktile",
+          "link": "https://worktile.com/kb/ask/881765.html",
+          "snippet": "分析和整理用户反馈和需求，制定技术支持的工作流程。 设计问题解决的 ... 文化项目运行管理是什么 ...",
+          "date": "2024年4月8日",
+          "position": 46
+        },
+        {
+          "title": "食用槟榔卤水质地剖面分析及测试条件的优化 - 食品与发酵工业",
+          "link": "http://sf1970.cnif.cn/CN/10.13995/j.cnki.11-1802/ts.028991",
+          "snippet": "11-1802/ts.028991. 分析与检测. 食用槟榔卤水质地剖面分析及测试条件的优化. 李良怡1,2, 钱鑫1,2, 吴安琪1,2, 赵培瑞1,2, 李嘉灏1,2, 张家铭1,2, 赵野1,2, 周文化1,2*.",
+          "position": 47
+        },
+        {
+          "title": "TS 页码25 | CLC | 中图分类号查询| 中国图书馆分类法",
+          "link": "https://www.clcindex.com/book/search/?type=search_num&keyword=TS&page=25",
+          "snippet": "中国酒文化趣谈 《中国酒文化趣谈》编写组编写 2008年. 印前工艺 郝景江主编 2008 ... 2008年. 版面设计基础 编著沈晓丽 2008年. 液相色谱质谱联用技术在食品和药品分析中的 ...",
+          "position": 48
+        },
+        {
+          "title": "武汉TS脏辫，脏辫培训，脏辫制作_手机搜狐网",
+          "link": "https://www.sohu.com/a/346105967_120341049",
+          "snippet": "脏辫文化流传于古希腊非洲，后被作为一种潮流脏辫传播在国内，起源于雷鬼音乐文化，嘻哈文化的传播。 武汉TS脏辫是国内 ...",
+          "date": "2019年10月10日",
+          "position": 49
+        },
+        {
+          "title": "TS 16949 - 认证产品- 海强认证检测（深圳）有限公司",
+          "link": "http://www.hiqiang.com/CerPro.asp?cid=10",
+          "snippet": "注1：上述质量管理体系所需的过程应当包括与管理活动、资源提供、产品实现以及测量、分析和改进有关的过程。 注2：\"外包过程\"是为了质量管理体系的需要，由组织选择，并由外部 ...",
+          "position": 50
+        },
+        {
+          "title": "[译]共同配置ESLint、Prettier和Typescript - 稀土掘金",
+          "link": "https://juejin.cn/post/7238027797313290277",
+          "snippet": "这与动态分析形成对比：测试等执行您的代码并审查结果的工具。静态分析 ... 签到蓝星文化系统后我飞升了.",
+          "date": "2023年5月27日",
+          "position": 51
+        },
+        {
+          "title": "浅谈Vue3 + TS + Vite2 前端技术框架 - 七猫技术团队",
+          "link": "https://tech.qimao.com/vue3-ts-vite2/",
+          "snippet": "引用尤大大的话： 为了实现这一点，编译器和运行时需要协同工作：编译器分析模板并生成带有优化提示的代码，而运行 ...",
+          "date": "2022年1月20日",
+          "position": 52
+        },
+        {
+          "title": "王浩：Ts·达木丁苏伦与蒙古族文学关系研究 - 中国民俗学网",
+          "link": "https://www.chinesefolklore.org.cn/blog/?uid-2600-action-viewspace-itemid-19219",
+          "snippet": "... 文化关系研究的开拓与发展做出了贡献。 Ts·达木丁苏伦将对蒙古族文学关系方面的思考进行认真的总结和归纳，多次公开发表在自己的学术论文中。本文主要根据 ...",
+          "date": "2010年11月9日",
+          "position": 53
+        },
+        {
+          "title": "全新发布TS-360：满足不同规模测量系统的配置要求 - 仪器谱",
+          "link": "https://ibook.antpedia.com/x/973558.html",
+          "snippet": "TS-360 型支持使用电池进行供电，这在 ... 文化遗产保护与研究的检测和监测方法 08-23 科普：海上风电场设计过程中测井数据的重要性 07-09 案例分析 ...",
+          "date": "2024年6月25日",
+          "position": 54
+        },
+        {
+          "title": "区话剧团召开习近平文化思想专题学习会 - 西藏头条",
+          "link": "https://toutiao.xzdw.gov.cn/ts/qwht/202310/t20231017_406005.html",
+          "snippet": "... 文化使命而不断奋斗。四要强化政治责任，牢牢掌握工作的主动权话语权。把意识形态工作列入重要议程，加强对意识形态领域重大问题的分析研判和重大战略 ...",
+          "date": "2023年10月13日",
+          "position": 55
+        },
+        {
+          "title": "《T.S. 艾略特的诗学世界》 - 出版社",
+          "link": "https://cbs.sass.org.cn/2024/0123/c7436a562764/page.htm",
+          "snippet": "... T. S. 艾略特的诗学思想与建树展开多维度分析，主要特点有三： ... 虞又铭，江苏南京人，文学博士，华东师范大学国际汉语文化学院副教授，加州大学伯克利分校英语系访问学者。",
+          "position": 56
+        },
+        {
+          "title": "TS流简介讲解 - 百度爱伴功",
+          "link": "https://abg.baidu.com/tags/krj4d5546k66tpnsxxra14",
+          "snippet": "百度爱伴功提供各种日常工作模板和学习资料，主要内容包含：TS流简介讲解、TS流介绍、TS流简介、TS流简介(精)、关于TS流的解析.",
+          "position": 57
+        },
+        {
+          "title": "紧急报警对讲管理软件",
+          "link": "https://www.hikvision.com/cn/software-product/DS-PEA-TS/",
+          "snippet": "针对园区安防、园区管理、园区服务、园区运营等场景，通过智能摄像机、智能分析 ... DS-PEA-TS紧急报警对讲管理软件是一款对讲设备管理软件，主要实现对讲设备的统一 ...",
+          "position": 58
+        },
+        {
+          "title": "我校举办“外教社杯”高校学生跨文化能力大赛（江苏省赛区）校内选拔赛",
+          "link": "https://www.njts.edu.cn/2021/0814/c5822a57991/page.htm",
+          "snippet": "... 分析中西方文化的差异，展现了选手们完善的思辨能力和对“文化自信”的深刻认识。评委们在选手汇报后也进行现场提问，并对选手的答辩进给予了点评和建议。经评委审议，3 ...",
+          "position": 59
+        },
+        {
+          "title": "TS书目索引__河北知行文化传播有限公司",
+          "link": "http://hbzx.tsxcfw.com/gclcbooks.asp?id=300&g=37&t=0&Page=30",
+          "snippet": "各章节分别介绍和探讨了食品物理化学(如玻璃化和凝胶化)和食品分析的基本概念。在每章节末尾均设置有相应的学习活动帮助复习重要的概念。某些习题可能需要借助互联网 ...",
+          "position": 60
+        },
+        {
+          "title": "[PDF] 跨文化研究的三个概念综述 - 浙江越秀外国语学院",
+          "link": "https://xuebao.zyufl.edu.cn/_upload/article/files/fd/18/c9ec1fa74a66a04a13db293fb5bb/22959d11-21b2-4cf1-b9e2-f0e780664fde.pdf",
+          "snippet": "他们沿承了英国文化批评的传统（如Matthew Arnold，T.S. Eliot，I.A. ... （CCCS）从事文化研究并对相关问题开展理论和实证分析。在Hoggart 的 ...",
+          "date": "2020年9月23日",
+          "position": 61
+        },
+        {
+          "title": "TS服装公司国际化战略研究 - 万方数据",
+          "link": "https://d.wanfangdata.com.cn/thesis/Y4111811",
+          "snippet": "第4章TS公司内部环境分析. 4．1公司经营概况. 4．1．1 ... 3国际化企业文化建设. 6．3．4合理利用政策，履行社会 ... 本文选择TS服装公司（以下简称TS公司）作为研究 ...",
+          "position": 62
+        },
+        {
+          "title": "TS是什么意思？为什么有人说自己是，CD又什么意思？ - 喜马拉雅",
+          "link": "https://m.ximalaya.com/ask/q1671713",
+          "snippet": "病情百分析:你好！根据你的描述，你是想知道ts与cd的区别意见建议:TS不会认为自己度是男人，CD通常承认自己是男人，对未来的发展期望完全是不同的，TS ...",
+          "date": "2022年7月20日",
+          "position": 63
+        },
+        {
+          "title": "TS, M3U8",
+          "link": "https://garden.songxingguo.com/C-Knowledge/%E5%89%8D%E7%AB%AF/%E6%8A%80%E6%9C%AF%E4%B9%A6%E7%B1%8D/%E5%A4%9A%E5%AA%92%E4%BD%93%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C/TS,-M3U8",
+          "snippet": "ts层的内容是通过PID值来标识的，主要内容包括：PAT表、PMT表、音频流、视频流。解析ts流要先找到PAT表，只要找到PAT就可以找到PMT，然后就可以找到音视频流了。 PAT表的 ...",
+          "position": 64
+        },
+        {
+          "title": "TS女王调教2奴在线视频”：探索特定文化现象的深度分析#4 - GitHub",
+          "link": "https://github.com/cenushipin/cenushipin/issues/4",
+          "snippet": "文化表现与心理需求：这种视频形式常常探索权力和支配的主题，这与人们在现实生活中对权力关系的复杂感受有关。通过虚拟的情节和角色设定，创作者能够探讨这 ...",
+          "date": "2024年9月29日",
+          "position": 65
+        },
+        {
+          "title": "基于因子分析法的TS石油财务绩效评价研究",
+          "link": "https://cdmd.cnki.com.cn/Article/CDMD-10220-1021090585.htm",
+          "snippet": "基于因子分析法的TS石油财务绩效评价研究 ; 10, 赵露菡;郑志元;张译文;;基于SD法的上海三邻桥文化创意产业园使用后评价研究[A];2021年工业建筑学术交流会论文集(上册)[C]; ...",
+          "position": 66
+        },
+        {
+          "title": "使用TypeScript开发-编辑代码-开发-华为快应用IDE使用指导",
+          "link": "https://developer.huawei.com/consumer/cn/doc/Tools-Guides/ide-typescript-0000001315526013",
+          "snippet": "使用TypeScript开发TypeScript是微软开发的一个开源的编程语言，通过在JavaScript的基础上添加静态类型定义构建而成。TypeScript通过TypeScript编译器 ...",
+          "date": "2024年3月8日",
+          "position": 67
+        },
+        {
+          "title": "TS8 印刷工业_TS 轻工业、手工业 - 科学商城",
+          "link": "https://www.ecsponline.com/category.php?category=43504&display=list&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salesnum&order=DESC",
+          "snippet": "内容简介：本书以中国气象局业务部门的观测规范和分析方法为基础，注重培养学生农业气象要素观测技能和数据资料分析处理能力，在介绍传统常规观测手段和方法的同...",
+          "currency": "¥",
+          "price": 75,
+          "position": 68
+        },
+        {
+          "title": "Axygen® 60 µm CyclerSeal封板膜，适合储存和PCR应用，非灭菌",
+          "link": "https://ecatalog.corning.com/life-sciences/b2b/CN/zh/%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%AD%A6%E5%92%8C%E5%88%86%E5%AD%90%E7%94%9F%E7%89%A9%E5%AD%A6/PCR%E8%80%97%E6%9D%90/%E5%B0%81%E6%9D%BF%E8%86%9C%E5%92%8C%E5%B0%81%E6%9D%BF%E5%B8%A6/Axygen%C2%AE-%E5%B0%81%E6%9D%BF%E8%86%9C/p/PCR-TS",
+          "snippet": "PCR-TS. 数量/包, 100 /包. 数量/箱, 500 /箱. 品牌, Axygen®. 平板规格, 密封膜. 无菌 ... 分析流量。我们还同社交媒体、广告和分析合作伙伴分享有关您使用我们网站的信息 ...",
+          "position": 69
+        },
+        {
+          "title": "[PDF] 英国的传媒与文化研究 - 北京大学社会学系",
+          "link": "http://www.shehui.pku.edu.cn/upload/editor/file/20181102/20181102103229_6311.pdf",
+          "snippet": "文化和文化研究便成了热. 研究范围. ,. 包括媒体制作过程研究(p r ed 优it on ... I川e n l a o o nal 八J ts. a n d. S e ie nc e s. P 茂55,. 19 7 6 ...",
+          "date": "2018年11月1日",
+          "position": 70
+        },
+        {
+          "title": "[PDF] “后理论时代”的后人文研究： 兼论文学与机器的关系",
+          "link": "http://aclts.cn/Assets/userfiles/sys_c1e161d2-ee2f-4942-9430-a85600a5f478/files/%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96%E4%BC%A0%E6%92%AD/_%E5%90%8E%E7%90%86%E8%AE%BA%E6%97%B6%E4%BB%A3_%E7%9A%84%E5%90%8E%E4%BA%BA%E6%96%87%E7%A0%94%E7%A9%B6_%E5%85%BC%E8%AE%BA%E6%96%87%E5%AD%A6%E4%B8%8E%E6%9C%BA%E5%99%A8%E7%9A%84%E5%85%B3%E7%B3%BB_%E7%8E%8B%E5%AE%81.pdf",
+          "snippet": "... 文化研究》。北京：北. 京大学出版社，2009。 11．王宁：《20世纪西方文学比较研究———王宁文化学术. 批评文选之二》。北京：人民文学出版社，2000。 作者 ...",
+          "position": 71
+        },
+        {
+          "title": "从BP和对局详解TS为何能零封上轮状态神勇的TTG - 王者荣耀",
+          "link": "https://pvp.qq.com/gicp/news/600/492465.html",
+          "snippet": "王者文化. CULTURE. 王者文化站; IP共创计划; 龙翼王者卡; 共创基地 ... 上周为大家带来了胜者组的两场对决的分析，这周在下轮来临前补上另外两场 ...",
+          "date": "2020年12月3日",
+          "position": 72
+        },
+        {
+          "title": "聂珍钊：T.S.艾略特研究学术史上的新标志 - 中国社会科学网",
+          "link": "https://www.cssn.cn/skgz/bwyc/202302/t20230210_5587404.shtml",
+          "snippet": "... 文化批评研究》，说明他的努力结出了硕果。此后又出版有关艾略特、庞德等作家的诗学理论与文化批评研究著作多部。蒋洪新对艾略特的研究坚持近30年从未 ...",
+          "date": "2023年2月10日",
+          "position": 73
+        },
+        {
+          "title": "【我和思科TS的故事】系列一：刘在恒- Cisco Community",
+          "link": "https://community.cisco.com/t5/%E7%A4%BE%E5%8C%BA%E7%AE%A1%E7%90%86%E5%8D%9A%E5%AE%A2/%E6%88%91%E5%92%8C%E6%80%9D%E7%A7%91ts%E7%9A%84%E6%95%85%E4%BA%8B-%E7%B3%BB%E5%88%97%E4%B8%80-%E5%88%98%E5%9C%A8%E6%81%92/ba-p/4383085",
+          "snippet": "... 分析，得到了客户的高度认同，经过实际验证，此次问题终于迎刃而解。 思科在全球的成功，与其强大企业文化和价值观的成功不无关系。公司坚持培养和谐 ...",
+          "date": "2014年6月27日",
+          "position": 74
+        },
+        {
+          "title": "TS公司营销渠道策略优化研究- 中国优秀硕士学位论文全文数据库",
+          "link": "http://cnki.cqgmy.edu.cn/KCMS/detail/detailall.aspx?filename=1018119291.nh&dbcode=CMFD&dbname=CMFD2019",
+          "snippet": "TS公司营销渠道策略优化研究. Studyon the Marketing Strategy of TSC ... 文化建设。首先是组织保障:一是销售团队的保障,二是考核制度的支撑,三是人员岗位 ...",
+          "position": 75
+        },
+        {
+          "title": "ts服务是什么意思 - 抖音",
+          "link": "https://www.douyin.com/search/ts%E6%9C%8D%E5%8A%A1%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D",
+          "snippet": "... 分析，并报告相应错误代码3. npm i typescript 会在项目中安装最新 ... ts服务于特定行业，gq如此，文化如此. ts服务于特定行业，gq如此，文化 ...",
+          "date": "2024年10月26日",
+          "position": 76
+        },
+        {
+          "title": "诗人眼中的“基督教社会理念”——T. S.艾略特的社会批评探讨",
+          "link": "http://www.pacilution.com/ShowArticle.asp?ArticleID=12354",
+          "snippet": "... 文化秩序。艾略特受布莱德利思想的影响，没有群体就没有个体的存在，“每 ... 在此，艾略特以社会批评家的身份呼吁诗人、评论家对这些问题进行评估、分析、宣传， ...",
+          "date": "2022年5月13日",
+          "position": 77
+        },
+        {
+          "title": "ts人员报表统计原创 - CSDN博客",
+          "link": "https://blog.csdn.net/qq_52869391/article/details/135792866",
+          "snippet": "5. **报表与统计**：提供各类业务流程的统计分析，帮助管理层了解流程执行情况，优化业务流程。 三、修复问题详解最近的更新主要针对两个已知问题进行了修复： ...",
+          "date": "2024年1月23日",
+          "position": 78
+        },
+        {
+          "title": "美与伟大的依存悖论——T.S.艾略特与新批评派的文论异趣 - 维普期刊",
+          "link": "https://qikan.cqvip.com/Qikan/Article/Detail?id=24872876&from=Qikan_Search_Index",
+          "snippet": "... 数据基础，通过对国内出版发行的15000余种科技期刊、7000万篇期刊全文进行内容组织和引文分析，为高校图书馆、情报所、科研机构及企业用户提供一站式文献服务。",
+          "position": 79
+        },
+        {
+          "title": "[PDF] 感知社会支持与学生学业成就关系的元分析 - 心理学报",
+          "link": "https://journal.psych.ac.cn/xlkxjz/EN/article/downloadArticleFile.do?attachType=PDF&id=6544",
+          "snippet": "经济和文化调节作用元分析结果. 经济和文化. 异质性分析. 效应值及95%的置信区间. 双 ... coefficients; SE ~ b21*TS; AP ~ b32*SE + b31*TS; #. Variances; TS~ ~ 1*TS ...",
+          "position": 80
+        },
+        {
+          "title": "成都市统计局",
+          "link": "https://cdstats.chengdu.gov.cn/",
+          "snippet": "2024.10.29 习近平在中共中央政治局第十七次集体学习时强调：锚定建成文化强国战略目标不断发展新时代中国特色社会主义文化 ... 统计分析 · 统计制度 · 指标解释. 政务公开.",
+          "position": 81
+        },
+        {
+          "title": "南雄市2021年“南粤春暖”暨“重点企业用工”专场网络招聘会- 南雄市 ...",
+          "link": "https://m.beidejeans.com/zdly/jyy/ts/content/post_2090059.html",
+          "snippet": "... 分析化学、分析检测等相关专业知识，基薪+绩效（8万 ... 操作员3人，中专以上文化，有1年以上化工厂工作经验。 ... 分析，月薪5000-8000元。 9.应用工程师2名，本科 ...",
+          "position": 82
+        },
+        {
+          "title": "深度讲解TS：这样学TS，迟早进大厂【21】：代码检查 - 腾讯云",
+          "link": "https://cloud.tencent.com/developer/article/2100268",
+          "snippet": "... TypeScript系列，总计21 期，点赞、收藏、评论、关注、三连支持！ TS系列地址： 21篇文章带你玩转ts. ... 分析代码，观测项目代码质量，助力维护团队卓越代码文化。 产品介绍产品 ...",
+          "position": 83
+        },
+        {
+          "title": "项目管理中ts代表什么 - Worktile",
+          "link": "https://worktile.com/kb/p/3162575",
+          "snippet": "相关问答FAQs： · 需求分析：首先，项目团队需要明确项目的技术需求和目标。 · 制定TS：基于需求分析的结果，项目团队可以开始制定TS。 · 审核和批准TS：制定好TS后 ...",
+          "date": "2024年8月9日",
+          "position": 84
+        },
+        {
+          "title": "T. S. 艾略特的艺术丨一切都将变好火焰与玫瑰合二为一 - 搜狐",
+          "link": "https://www.sohu.com/a/499941542_694312",
+          "snippet": "要理解《荒原》，读者必须具备历史意识，具备文学或文化素养，方能鲜活体验那些典故。他必须是这样的读者：引经据典在他看来是自然的表达方式。但《四 ...",
+          "date": "2021年11月8日",
+          "position": 85
+        },
+        {
+          "title": "中国电影史的微观研究",
+          "link": "https://www.cfa.org.cn/cfa/yj/ts/2022032317273088540/index.html",
+          "snippet": "每个篇章或叙或议，或有史料分析，或有人物访谈，或有数据对比，作者以不同表现手法从多个维度娓娓道来，让人在阅读文本时，不仅可以获知从未揭晓的历史掌故，还能把握中国电影 ...",
+          "position": 86
+        },
+        {
+          "title": "扒官方文档学Ts类型编程 - 稀土掘金",
+          "link": "https://juejin.cn/post/7084128507109834782",
+          "snippet": "案例分析-【本身就是类型】：. 因为索引访问类型本身就是类型，所以支持 ... 文化: 勇于承担、深入业务、群策群力、简单开放. Github：github.com ...",
+          "date": "2022年4月8日",
+          "position": 87
+        },
+        {
+          "title": "埃于普文化中心和婚礼大厅- 参考项目- Feltouch",
+          "link": "https://www.feltouch.com/zh-CN/%E9%A1%B9%E7%9B%AE/%E5%9F%83%E5%B0%A4%E6%99%AE%E6%96%87%E5%8C%96%E4%B8%AD%E5%BF%83/",
+          "snippet": "在艾尤普苏丹市文化中心的多功能婚礼大厅，进行了两次声学测量，以分析声学布置前后的差异。这些测量是根据“TS EN ISO 3382-2 - 房间声学参数测量- 第1 部分：演出 ...",
+          "position": 88
+        },
+        {
+          "title": "ts码流分析 - 百度爱伴功",
+          "link": "https://abg.baidu.com/tags/orz4f26b6635ntxw",
+          "snippet": "... ，主要内容包含：TS码流分析、ts码流分析、ts码流结构分析、ts码流结构分析与监测、TS ... 企业文化手册.doc. 1268浏览. ts代码规范. 7浏览.",
+          "position": 89
+        },
+        {
+          "title": "文化分析- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E6%96%87%E5%8C%96%E5%88%86%E6%9E%90",
+          "snippet": "文化分析（英语：Cultural analytics）是一种对大量文化相关视觉材料的研究，视觉材料包括数字化的文物以及当代的视觉、互动媒体。面对如何有效率地探索大量文化材料的 ...",
+          "position": 90
+        },
+        {
+          "title": "TS LOMBARD分析师团队 - 研究报告",
+          "link": "http://www.yanjiubaogao.com/agency/t/ts_lombard",
+          "snippet": "... 文化传播北京学之途网络科技北京博星证券投资顾问北京多氪信息科技北京集奥聚合科技北京新三优秀科技北京智联三珂人才服务北京华品博睿网络技术北京爱分析科技北京贵士 ...",
+          "position": 91
+        },
+        {
+          "title": "R&S TS-EMF 便携式EMF测量系统 - 东方中科",
+          "link": "https://www.dfzk.com/prod_rs_ts-emf.html",
+          "snippet": "R&S®TS-EMF测量系统通过提供自动测试序列, 包括预配置的测量包来为用户提供支持。全向天线可以不受方向和极化方式影响而检测场强。罗德与施瓦茨的很多频谱分析仪和测试 ...",
+          "position": 92
+        },
+        {
+          "title": "SIST-TS ISO/TS 22176:2024 化妆品- 分析方法 - 标准全球搜",
+          "link": "http://www.bz52.com/app/home/productDetail/b19657bbe2e91dbeeafa15b4e1549bbf",
+          "snippet": "SIST-TS ISO/TS 22176-2024 《化妆品- 分析方法- 开发用于定量分析方法验证的全球方法》本文件定义了定量分析 ... 轻工、文化与生活用品- 日用化工品. 国际 ...",
+          "date": "2024年5月8日",
+          "position": 93
+        },
+        {
+          "title": "TS全球首个基于十二星座文化研发的Web3.0+NFT+GameFi+元宇宙+ ...",
+          "link": "https://nft.aiju.com/news/37681.html",
+          "snippet": "TS致力于成为下一代web3.0赛道的领导者，并在互联网从Web 2.0到Web 3.0的道路上发挥着至关重要的作用。TS涵盖元宇宙、Web3.0、GameFi、十二星座、NFT生态 ...",
+          "date": "2022年10月19日",
+          "position": 94
+        },
+        {
+          "title": "Software Engineering Delivery Lead with JS/TS - MSD Careers",
+          "link": "https://jobs.msd.com/cn/zh/job/R318952/Software-Engineering-Delivery-Lead-with-JS-TS",
+          "snippet": "数字化数据和分析at MSD. ... 本站点上的信息是为了发布我们组织的就业机会，让我们的受众了解我们的文化、多元化和发展机会。",
+          "position": 95
+        },
+        {
+          "title": "扒官方文档学Ts类型编程(一) - SegmentFault 思否",
+          "link": "https://segmentfault.com/a/1190000041899279",
+          "snippet": "案例分析-【条件类型+泛型】：. 通过上面学习的示例同样看起来相当的鸡肋 ... 文化: 勇于承担、深入业务、群策群力、简单开放. Github：github.com ...",
+          "date": "2022年5月25日",
+          "position": 96
+        },
+        {
+          "title": "另类国产ts人妖系列视频- 新闻资讯 - 91官琪",
+          "link": "https://mega888c9.com/715",
+          "snippet": "这类视频以其独特的表现形式和丰富的内容吸引了大量观众的关注。本文将对这一现象进行深入探讨，分析其背后的文化意义、社会影响以及未来发展趋势。 一、 ...",
+          "date": "2024年9月18日",
+          "position": 97
+        },
+        {
+          "title": "ts啥意思指人 - 抖音",
+          "link": "https://www.douyin.com/search/ts%E5%95%A5%E6%84%8F%E6%80%9D%E6%8C%87%E4%BA%BA",
+          "snippet": "... 分析#TS #法律 #法律常识 #法律科普. 与TS性交易，怎么不是卖淫嫖娼呢 ... ｜ 网络文化许可证-京网文-（2022）0938-030号｜. icon 京公网安备 ...",
+          "date": "2024年10月25日",
+          "position": 98
+        },
+        {
+          "title": "TS传媒携爱学派打造网剧《我们都有超能力》 - 文化频道- China Daily",
+          "link": "http://ent.chinadaily.com.cn/2016-11/04/content_27274410.htm",
+          "snippet": "凭借大数据分析和视频营销的兴起，互联网+影视正得到越来越多企业和年轻网民的认可。爱学派CEO盛勤，TS传媒CEO成绍军，《我们都有超能力》导演徐斌， ...",
+          "date": "2016年11月4日",
+          "position": 99
+        }
+      ],
+      "images": [
+        {
+          "title": "伪娘文化中的cd和ts群体分析_字母亚文化圈电商-小众文化领域科普",
+          "imageUrl": "https://www.anshizm.com/wp-content/uploads/2024/05/38da407524c8b6595006f6806414701-1024x576.jpg",
+          "link": "https://www.anshizm.com/14445.html"
+        },
+        {
+          "title": "運用「TS分析法」解決問題！2個案例教你用聰明方式，提高生產力",
+          "imageUrl": "https://pinshuoi.com/wp-content/uploads/2023/07/20220914.jpg",
+          "link": "https://pinshuoi.com/post220914/"
+        },
+        {
+          "title": "伪娘文化中的ts和cd是什么？跟人妖有区别，老司机才懂_手机搜狐网",
+          "imageUrl": "http://p0.itc.cn/images01/20201017/69736bcdce4c45ba85c88b69aec0ee7a.png",
+          "link": "https://www.sohu.com/a/425352355_120369357"
+        },
+        {
+          "title": "TS核心知识点总结及项目实战案例分析最近工作一直很忙，复盘周期也有所 ...",
+          "imageUrl": "https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/65f8624eaf6b48b0bba5b90da6c0e0a4~tplv-k3u1fbpfcp-zoom-in-crop-mark:1512:0:0:0.awebp",
+          "link": "https://juejin.cn/post/6857123751205535751"
+        },
+        {
+          "title": "TS, M3U8",
+          "imageUrl": "https://garden.songxingguo.com/C-Knowledge/%E5%89%8D%E7%AB%AF/%E6%8A%80%E6%9C%AF%E4%B9%A6%E7%B1%8D/%E5%A4%9A%E5%AA%92%E4%BD%93%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C/attachments/TS,-M3U8-20240421071530891.webp",
+          "link": "https://garden.songxingguo.com/C-Knowledge/%E5%89%8D%E7%AB%AF/%E6%8A%80%E6%9C%AF%E4%B9%A6%E7%B1%8D/%E5%A4%9A%E5%AA%92%E4%BD%93%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C/TS,-M3U8"
+        },
+        {
+          "title": "TS, M3U8",
+          "imageUrl": "https://garden.songxingguo.com/C-Knowledge/%E5%89%8D%E7%AB%AF/%E6%8A%80%E6%9C%AF%E4%B9%A6%E7%B1%8D/%E5%A4%9A%E5%AA%92%E4%BD%93%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C/attachments/TS,-M3U8-20240421072117077.webp",
+          "link": "https://garden.songxingguo.com/C-Knowledge/%E5%89%8D%E7%AB%AF/%E6%8A%80%E6%9C%AF%E4%B9%A6%E7%B1%8D/%E5%A4%9A%E5%AA%92%E4%BD%93%E5%89%8D%E7%AB%AF%E6%89%8B%E5%86%8C/TS,-M3U8"
+        },
+        {
+          "title": "TypeScript 5.0 现已发布：全新的装饰器，速度、内存和包大小优化_大 ...",
+          "imageUrl": "https://static001.geekbang.org/wechat/images/fb/fbf9c9c57f57922643433d3ac5c25616.png",
+          "link": "https://www.infoq.cn/article/wygethgv7blrrkhizcif"
+        },
+        {
+          "title": "花了四年迁移到TypeScript，我们总结出了这些经验教训_架构_Luke ...",
+          "imageUrl": "https://static001.infoq.cn/resource/image/82/f5/825690a4da5e9d01048769ec6f6a18f5.png",
+          "link": "https://www.infoq.cn/article/krmfi0iacrjubz7z40jt"
+        },
+        {
+          "title": "TypeScript 5.0 现已发布：全新的装饰器，速度、内存和包大小优化_大 ...",
+          "imageUrl": "https://static001.geekbang.org/wechat/images/64/641a1e11990db1935a1873e0d422df7f.png",
+          "link": "https://www.infoq.cn/article/wygethgv7blrrkhizcif"
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "TS 文化分析",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "TS - 养心殿",
+          "link": "https://www.yangxindian.com/tags-2369.html",
+          "snippet": "摘要：TS的多元世界包含众多不同的领域和方面，探索其丰富多彩的内涵，可以让我们更深入地了解这个特殊的群体。从生理到心理，从文化到艺术，TS的多元世界展示 ...",
+          "date": "2024年10月23日",
+          "position": 1
+        },
+        {
+          "title": "Ts'ui-jung Liu | Adjunct Faculty - 中央研究院-臺灣史研究所",
+          "link": "https://www.ith.sinica.edu.tw/members_faculty_look.php?l=e&no=2&id=131&page=1&ps=20&print=print",
+          "snippet": "Ts'ui-jung Liu. 1974, \"Trade on the Han River and ... 分析〉，收於許倬雲、毛漢光、劉翠溶主編 ... Li 《中國文化研究學報》第四十八期，頁557-570。 Ts ...",
+          "position": 2
+        },
+        {
+          "title": "TS 数据流分析学习- doscho - 博客园",
+          "link": "https://www.cnblogs.com/doscho/p/7678579.html",
+          "snippet": "ts文件为传输流文件，视频编码主要格式h264/mpeg4，音频为acc/MP3。 ts文件分为三层：ts 层Transport Stream， 就是在pes层加入数据流的识别和传输必须的 ...",
+          "date": "2017年10月16日",
+          "position": 3
+        },
+        {
+          "title": "专访丨赵毅衡谈形式论：人是会叙述的动物，也是元符号的动物",
+          "link": "https://m.thepaper.cn/newsDetail_forward_29026939",
+          "snippet": "... ，澎湃新闻，澎湃新闻网，新闻与思想，澎湃是植根于中国上海的时政思想类互联网平台，以最活跃的原创新闻与最冷静的思想分析 ... T. S. 艾略特的《荒原》就 ...",
+          "date": "3天前",
+          "position": 4
+        },
+        {
+          "title": "金融TS是什么？它在金融领域有哪些应用场景？",
+          "link": "https://www.cjbkcxw.com/jr/53680.html",
+          "snippet": "金融TS是一种金融分析方法，通过对历史数据进行分析，利用统计学方法建立模型，从而预测未来趋势。它在股票价格、货币汇率、商品价格、利率、经济指标 ...",
+          "date": "2023年10月29日",
+          "position": 5
+        },
+        {
+          "title": "介绍美国TS大学的专业设置和特色，并分析招生政策和申请条件",
+          "link": "https://www.usplanking.com/article/765078",
+          "snippet": "国际化教育：该校注重培养学生的国际视野和跨文化交流能力，提供丰富的国际交流项目，如暑期学院、海外交流项目等。 实践教学：学校注重 ...",
+          "date": "2023年9月1日",
+          "position": 6
+        },
+        {
+          "title": "JS vs TS二分法博弈对比分析 - JB51.Net",
+          "link": "https://www.jb51.net/javascript/313628own.htm",
+          "snippet": "这篇文章主要介绍了JS vs TS二分法博弈对比分析,有需要的朋友可以借鉴参考下,希望能够有所帮助,祝大家多多进步,早日升职加薪.",
+          "date": "2024年1月21日",
+          "position": 7
+        },
+        {
+          "title": "美国华盛顿州动用国民警卫队预防大选骚乱 - DW",
+          "link": "https://www.dw.com/zh/%E7%BE%8E%E5%9B%BD%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%B7%9E%E5%8A%A8%E7%94%A8%E5%9B%BD%E6%B0%91%E8%AD%A6%E5%8D%AB%E9%98%9F%E9%A2%84%E9%98%B2%E5%A4%A7%E9%80%89%E9%AA%9A%E4%B9%B1/a-70668692",
+          "snippet": "文化 · 科技创新 · 繁电视直播节目 · 最新视频 ... T. S. Warren. 移民议题成焦点. 目前，美国选战 ... 分析人士指出，美国的农业、食品加工等领域高度 ...",
+          "date": "19小时前",
+          "position": 8
+        },
+        {
+          "title": "对中国股票而言刺激措施比美国大选更重要 - 联合早报",
+          "link": "https://www.zaobao.com.sg/wencui/political/story20241027-5253012",
+          "snippet": "特写 美食 旅行 文化艺术 人文史地 ... 彭博经济研究的一项分析显示，与2018-2019年特 ... TS Lombard认为，相比2018年，中国更易受到关税 ...",
+          "date": "8天前",
+          "position": 9
+        },
+        {
+          "title": "Steam Community Market :: Listings for 合肥（酒店上门服务）联系 ...",
+          "link": "https://steamcommunity.com/market/listings/730/%E5%90%88%E8%82%A5%EF%BC%88%E9%85%92%E5%BA%97%E4%B8%8A%E9%97%A8%E6%9C%8D%E5%8A%A1%EF%BC%89%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F[%E9%A2%84%E7%BA%A6%E7%94%B5%E8%AF%9D%E5%BE%AE%E4%BF%A1188-5204-2435]%E6%8F%90%E4%BE%9B%E9%AB%98%E8%B4%A8%E9%87%8F%E5%B0%8F%E5%A7%90%E4%B8%8A%E9%97%A8%E6%9C%8D%E5%8A%A1%20%E5%BF%AB%E9%80%9F%E9%80%89%E7%85%A7%E7%89%87%E5%AE%89%E6%8E%92%20%E9%9D%A2%E5%88%B0%E4%BB%98%E6%AC%BE%2030%E5%88%86%E9%92%9F%E5%86%85%E5%88%B0%E8%BE%BE.0700",
+          "snippet": "Buy and sell Counter-Strike 2 items on the Steam Community Market for Steam Wallet funds.",
+          "position": 10
+        },
+        {
+          "title": "ReduCommerce法国圣体节跨境营销活动 - AMZ123",
+          "link": "https://www.amz123.com/ask/tU74bFz3",
+          "snippet": "ReduCommerce抓住每一个国际节日的营销机会，以增强品牌影响力并促进销售。法国圣体节作为一个重要的文化节日，ReduCommerce策划了一场别开生面的跨境 ...",
+          "date": "2天前",
+          "position": 11
+        },
+        {
+          "title": "探索TS的多元世界之美 - 养心殿",
+          "link": "https://yangxindian.com/post/994.html",
+          "snippet": "摘要：TS的多元世界包含众多不同的领域和方面，探索其丰富多彩的内涵，可以让我们更深入地了解这个特殊的群体。从生理到心理，从文化到艺术，TS的多元 ...",
+          "date": "2024年10月23日",
+          "position": 12
+        },
+        {
+          "title": "秦氏金升：10.30黄金尝试做空，伦敦金走势分析及操作建议",
+          "link": "http://gold.cnfol.com/mingjiadianjin/20241030/30997173.shtml",
+          "snippet": "秦氏金升：10.30黄金尝试做空，伦敦金走势分析及操作建议 ... 2年期国债期货（TS）主力合约涨0.02%，5年期 ... 《网络文化经营许可证》编号：闽网文[2017] ...",
+          "date": "4天前",
+          "position": 13
+        },
+        {
+          "title": "东京大学将拉曼光谱的测量速度提高100倍 - 电子工程专辑",
+          "link": "https://www.eet-china.com/mp/a358924.html",
+          "snippet": "该研究项目预计，TS-CSRS光谱方法实现测量速度 ... 文化学习、多元化学习渠道和自主学习。教育的新 ... 不仅全面分析全球范围内主要企业竞争态势，收入和市场 ...",
+          "date": "9小时前",
+          "position": 14
+        },
+        {
+          "title": "QNAP 推出4-Bay 1U 短機箱機架式NAS TS-433eU - iThome",
+          "link": "https://www.ithome.com.tw/pr/165813",
+          "snippet": "在QNAP 的企業藍圖中，NAS 早已突破儲存裝置的框架，搭配雲基礎網路架構上的多項研發創新，協助客戶高效率導入人工智慧分析、邊緣運算及資訊整合應用 ...",
+          "date": "1天前",
+          "position": 15
+        },
+        {
+          "title": "TS - 让科技为人类生命健康创造价值—新产业生物 - Snibe",
+          "link": "https://www.snibe.com/cn/product/pipeline/157.html",
+          "snippet": "选择新产业 · 社会招聘 · 校园招聘 · 关于我们 · 理念 · 创新 · 业务 · 历史 · 文化 · ESG · 720°新产业印象 · English. 新产业-日立全实验室智能化流水线. TS. 40265378.",
+          "position": 16
+        },
+        {
+          "title": "荒原之风:T.S.艾略特在中国(董洪川著书籍) - 搜狗百科",
+          "link": "https://baike.sogou.com/v63447434.htm",
+          "snippet": "... 文化交流、碰撞与融合的一个经典个案。本书将艾略特置于西方历史文化、现代派文学观念发展及中西文化交流史的语境中加以考察，系统地整理、分析和阐释艾略特在中国的译 ...",
+          "position": 17
+        },
+        {
+          "title": "ReduCommerce法国国庆节热销品大盘点-AMZ123跨境导航",
+          "link": "https://www.amz123.com/ask/0sKdiSRI",
+          "snippet": "法国人热爱时尚，对于服装的追求不仅限于实用性，更是一种生活态度和文化的体现。 ... 报告深入分析了消费者在整个购物流程中，从浏览 ... comForter华熙供应 ...",
+          "date": "2天前",
+          "position": 18
+        },
+        {
+          "title": "周一可关注股票 - 联合早报",
+          "link": "https://www.zaobao.com.sg/realtime/singapore/story20241028-5256342",
+          "snippet": "特写 美食 旅行 文化艺术 人文史地 专栏 @世代 ... Acumen董事会已安排王秀华于今年6月底或前后休假，并委任CLA Global TS ... 分析师：大型单位供应有限是 ...",
+          "date": "7天前",
+          "position": 19
+        },
+        {
+          "title": "Steam Community Market :: Listings for 麻醉药地下购买渠道【微信 ...",
+          "link": "https://steamcommunity.com/market/listings/730/%E9%BA%BB%E9%86%89%E8%8D%AF%E5%9C%B0%E4%B8%8B%E8%B4%AD%E4%B9%B0%E6%B8%A0%E9%81%93%E3%80%90%E5%BE%AE%E4%BF%A143276390%E3%80%91%E9%BA%BB%E9%86%89%E8%8D%AF%E5%9C%B0%E4%B8%8B%E8%B4%AD%E4%B9%B0%E6%B8%A0%E9%81%93%E9%BA%BB%E9%86%89%E8%8D%AF%E5%9C%B0%E4%B8%8B%E8%B4%AD%E4%B9%B0%E6%B8%A0%E9%81%93.0809",
+          "snippet": "Buy and sell Counter-Strike 2 items on the Steam Community Market for Steam Wallet funds.",
+          "position": 20
+        },
+        {
+          "title": "雲林縣立臺西國中",
+          "link": "https://tsjh.ylc.edu.tw/",
+          "snippet": "111-05-17函轉嘉新兆福文化基金會「111年度中華嘉新 ... 研究發展中心辦理113年「素養導向課室評量 ... 聯絡信箱：ts@mail.tsjh.ylc.edu.tw. 本校地址：636雲 ...",
+          "position": 21
+        },
+        {
+          "title": "EH4700ETTS-4.194308MTR - Datasheet - 电子工程世界",
+          "link": "https://datasheet.eeworld.com.cn/view/48318263.html",
+          "snippet": "TS = Tri-State (High Impedance). MECHANICAL ... 近年来，随着我国经济实力的日益增长，和国际间交往合作的日益深入，一些在国际国内都有重大影响力的体育赛事、文化活动 ...",
+          "position": 22
+        },
+        {
+          "title": "【JDM燃續經典EP02】日產戰神2017 GT-R NISMO R35 如何重燃 ...",
+          "link": "https://www.youtube.com/watch?v=H8QEGtgwnh0",
+          "snippet": "... 文化，將會為每部成功配對嘅JDM ... TS Pro四驅系統， ... 分析一下 ...\n时长： 25:31\n发布时间： 2024年10月25日",
+          "date": "2024年10月25日",
+          "position": 23
+        },
+        {
+          "title": "AMF060329K40.25%10PPM/KNP20 ... - Datasheet - 电子工程世界",
+          "link": "https://datasheet.eeworld.com.cn/view/66018015.html",
+          "snippet": "ISO/TS 16949:2009. Chip resistors - Made in ... 国际知识产权专业杂志《iam》和专利数据分析商ktMINE ... 第四回：文化是最大障碍前员工称英特尔嵌入式前途难卜.",
+          "position": 24
+        },
+        {
+          "title": "iThome | iThome Online 是臺灣第一個網路原生報，提供IT產業即時 ...",
+          "link": "https://www.ithome.com.tw/",
+          "snippet": "隨著伺服器虛擬化、大數據分析、生成式AI技術浪潮一 ... Telegram 通訊平台─自由隱私或監管管控？ 2024-11-03. QNAP 推出4-Bay 1U 短機箱機架式NAS TS-433eU ... 電週文化事業 ...",
+          "position": 25
+        },
+        {
+          "title": "icemanliang/code-analysis-ts - GitHub",
+          "link": "https://github.com/icemanliang/code-analysis-ts",
+          "snippet": "code-analysis-ts是一款前端代码分析工具，用于实现代码调用分析报告，代码评分，代码告警，“脏调用”拦截，API趋势变化分析等应用场景。支持CLI/API两种使用模式，可 ...",
+          "position": 26
+        },
+        {
+          "title": "レギュラー番組への道 - NHK",
+          "link": "https://www.nhk.jp/p/ts/RJ5G2XZ4N3/",
+          "snippet": "レギュラー化を狙った多彩な番組の数々。新たな切り口で、これまでにない番組を目指します。",
+          "position": 27
+        },
+        {
+          "title": "照片的历史-pdf,txt,mobi,azw3,epub 汇书网",
+          "link": "https://www.huibooks.com/33271.html",
+          "snippet": "出版著作有《沃尔特·惠特曼：作为私人史的诗歌》，编有《美国城市：文学与文化视角》《摄影中的肖像》《风景艺术》等，同时也参与埃德加·爱伦·坡、T. S. ...",
+          "date": "23小时前",
+          "position": 28
+        },
+        {
+          "title": "北京快餐一次需要花费多少钱？",
+          "link": "http://jmdfl.npx.ac.cn/news/070c07199858.html",
+          "snippet": "... 文化、次需教育中心之一。花费近年来，多少随着 ... 分析华阴约炮：当地古镇掀起一股神秘风潮三指探洞：探究这种疼痛有多强烈为什么ts都是卖的(为什么TS热销 ...",
+          "date": "24小时前",
+          "position": 29
+        },
+        {
+          "title": "ホーム - 埼玉県立総合教育センターホームページ",
+          "link": "https://www.center.spec.ed.jp/",
+          "snippet": "緒方貞子さんの理念、開発途上国の現状と課題、JICAの教育協力、異文化理解、キャリア、高校生へのメッセージという流れで御講義をいただきました。 講演直前の動画には、 ...",
+          "position": 30
+        },
+        {
+          "title": "TS银河后备队VS奇帕联合后备队高清无插件视频直播在线观看",
+          "link": "https://www.alive-grp.com/list_nanfeihoubei/4237930.html",
+          "snippet": "... TS银河后备队VS 奇帕联合后备队直播视频,并为您提供TS ... 北京中轴线足球友谊赛以足球为媒传播北京中轴线文化 ... 斗球直播还有专业分析团队提供最全面的赛事 ...",
+          "date": "18小时前",
+          "position": 31
+        },
+        {
+          "title": "足球直播- 南非后备TS银河后备队vs奇帕联合后备队 - 360直播",
+          "link": "https://www.plantpeopleblog.com/list_nanfeihoubei/4237930.html",
+          "snippet": "360直播还提供最新消息、赛前分析、赛后回顾、统计数据，给球迷们对球赛有更详细的了解，快来到360直播观看在线高清体育直播吧！ Copyright@2023 360 ...",
+          "date": "1天前",
+          "position": 32
+        },
+        {
+          "title": "人妖ts色视频在线观看",
+          "link": "http://www.yxgames.com/video8qyyp4.html",
+          "snippet": "人妖ts色视频在线观看官方平台·app·下载·手机版！ ... 分析校园人员流动的整体情况，综合校内活动情况 ... 文化，围绕红色景点，讲述清华先辈革命历史 ...",
+          "date": "2024年10月20日",
+          "position": 33
+        },
+        {
+          "title": "TS银河后备队VS奇帕联合后备队高清无插件视频直播在线观看",
+          "link": "https://www.amse-modeling.com/list_nanfeihoubei/4237930.html",
+          "snippet": "斗球直播还提供包括赛事预告、赛事回放、评论和分析等多种内容，以满足您对体育赛事的多元化需求。不要再犹豫了，快来到斗球直播免费观看您所期待的 ...",
+          "date": "18小时前",
+          "position": 34
+        },
+        {
+          "title": "龙泉驿阳光城附近妹儿(阳光城，青春衬托的花都。)",
+          "link": "http://jmdfl.npx.ac.cn/news/12c68799300.html",
+          "snippet": "二、文化浸润的古镇之旅. 青春的阳光城附近有 ... 无论是夏日的欢乐，还是古镇的文化 ... ts(但是楼凤在一些城市的陌陌上)梧州直接约会软件安全性分析 ...",
+          "date": "1天前",
+          "position": 35
+        },
+        {
+          "title": "南非后备TS银河后备队vs奇帕联合后备队- 足球直播 - 山猫直播",
+          "link": "https://www.haokets.com/list_nanfeihoubei/4237930.html",
+          "snippet": "山猫直播还提供了一系列的体育新闻报道和赛事分析，帮助球迷们更好地了解每个比赛的背景、赛况和分析，快来到山猫直播观看免费高清体育直播吧。",
+          "date": "17小时前",
+          "position": 36
+        },
+        {
+          "title": "世界うた旅 - レギュラー番組への道 - NHK",
+          "link": "https://www.nhk.jp/p/ts/RJ5G2XZ4N3/episode/te/QLYWNNGL9W/",
+          "snippet": "旅人はSNSで話題沸騰中の歌うまデュオ“おじさんと小娘”。歌声に乗せ、インドネシアの人々の暮らしや文化、夢までも映し出していく。 配信中 ...",
+          "position": 37
+        },
+        {
+          "title": "小众文化科普，什么是ts，cd，伪娘，人妖？ - 暗室",
+          "link": "https://www.anshism.com/4656.html",
+          "snippet": "小众文化科普，什么是ts，cd，伪娘，人妖？最近易建联那事闹得沸沸扬扬，很多人人都不知道ts是什么，…",
+          "date": "2024年10月25日",
+          "position": 38
+        },
+        {
+          "title": "信号的抽样与恢复实验报告",
+          "link": "https://www.nongzhangzhixi.com/html/bn60.html",
+          "snippet": "% 进行抽样. Ts = 1/200; % 抽样时间间. n = 0:Ts:1; % 抽样时间轴. xn ... 古琴市场调查报告：传统文化的复兴与市场趋势分析 · 高职教育评估报告 ...",
+          "date": "17小时前",
+          "position": 39
+        },
+        {
+          "title": "斯泰伦博斯后备队VS奥兰多海盗后备队高清无插件视频直播在线观看",
+          "link": "https://www.alive-grp.com/list_nanfeihoubei/4237928.html",
+          "snippet": "南非后备完场斯泰伦博斯后备队5-1 TS银河后备队 ... 北京中轴线足球友谊赛以足球为媒传播北京中轴线文化 ... 斗球直播还有专业分析团队提供最全面的赛事资讯和 ...",
+          "date": "18小时前",
+          "position": 40
+        },
+        {
+          "title": "【学习笔记】TS流分析（二）-七夜浮生",
+          "link": "http://blog.chinaaet.com/yuwoo/p/5100018407",
+          "snippet": "TS流的格式是怎样的？ TS流是基于Packet的位流格式，每个包是188个字节（或204个字节，在188个字节后加上了16字节的CRC校验数据，其他格式一样）。",
+          "date": "2016年9月12日",
+          "position": 41
+        },
+        {
+          "title": "台湾代孕公司怎么找kn(10951068微信)台湾代孕公司 ... - Fjalor Shqip",
+          "link": "https://fjalorthi.com/%E5%8F%B0%E6%B9%BE%E4%BB%A3%E5%AD%95%E5%85%AC%E5%8F%B8%E6%80%8E%E4%B9%88%E6%89%BEkn(10951068%E5%BE%AE%E4%BF%A1)%E5%8F%B0%E6%B9%BE%E4%BB%A3%E5%AD%95%E5%85%AC%E5%8F%B8%E6%80%8E%E4%B9%88%E6%89%BEkn%E5%8F%B0%E6%B9%BE%E4%BB%A3%E5%AD%95%E5%85%AC%E5%8F%B8%E6%80%8E%E4%B9%88%E6%89%BEkn.1024",
+          "snippet": "Kuptimi i fjalës 台湾代孕公司怎么找kn(10951068微信)台湾代孕公司怎么找kn台湾代孕公司怎么找kn.1024. Diçka shkoi keq gjatë kërkimit!",
+          "position": 42
+        },
+        {
+          "title": "TS银河后备队VS奇帕联合后备队高清无插件视频直播在线观看",
+          "link": "https://www.exsprocessing.com/list_nanfeihoubei/4237930.html",
+          "snippet": "... TS银河后备队VS 奇帕联合后备队直播视频,并为您提供TS ... 北京中轴线足球友谊赛以足球为媒传播北京中轴线文化 ... 龙珠直播还提供了实时的比赛评论和分析， ...",
+          "date": "1天前",
+          "position": 43
+        },
+        {
+          "title": "ts是代表什么意思（伪娘文化中的ts和cd） - 电脑常识大全",
+          "link": "http://news.zhienkeji.com/4430.html",
+          "snippet": "ts是什么意思(伪娘文化中的ts和cd是什么)#假仙女#今天就来说说伪娘文化中“ts”和“cd”的含义，和二次元文化差不多一个层次。伪娘文化，其实是和二次元 ...",
+          "date": "2023年11月4日",
+          "position": 44
+        },
+        {
+          "title": "TS核心知识点总结及项目实战案例分析 - 阿里云开发者社区",
+          "link": "https://developer.aliyun.com/article/907648",
+          "snippet": "最近工作一直很忙，复盘周期也有所拉长，不过还是会坚持每周复盘。今天笔者将复盘一下typescript在前端项目中的应用，至于为什么要学习typescript，我想大家也不言自明 ...",
+          "position": 45
+        },
+        {
+          "title": "伪娘文化中的ts和cd是什么？跟人妖有区别，老司机才懂,狗狗的名字 ...",
+          "link": "https://xn--xkry40fg7ir7g.com/art/1690570383104828.html",
+          "snippet": "女装大佬，都是cdcd这个词汇，其实是英文单词的首字母缩写，它的完整单词是“Crossdresser”，也就是变装的意思。我们前文当中说过的张一山和轩墨宝宝， ...",
+          "date": "2023年7月29日",
+          "position": 46
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

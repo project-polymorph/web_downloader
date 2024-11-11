@@ -1,0 +1,1625 @@
+{
+  "query": "多重性别",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-04T00:36:03.927466",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "多重性别",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "knowledgeGraph": {
+        "title": "多元性别",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeZQQNRaawTqcjzWOJU1Us6sVYSS-lM1T12_ZhtI-QPyljwH4mIxVUB-g&s=0",
+        "description": "多元性别，或称为性别多元化，是一个术语，用于代表人类的社会性别特征，性取向和性别认同的所有多元性，而不需要详细说明或列举形成这种多元性的每个个体，行为或特征。",
+        "descriptionSource": "维基百科",
+        "descriptionLink": "https://zh.wikipedia.org/zh-cn/%E5%A4%9A%E5%85%83%E6%80%A7%E5%88%A5"
+      },
+      "organic": [
+        {
+          "title": "多元性别- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E5%A4%9A%E5%85%83%E6%80%A7%E5%88%A5",
+          "snippet": "多元性别（英语：sexual and gender diversity），或称为性别多元化，是一个术语，用于代表人类的社会性别特征，性取向和性别认同的所有多元性，而不需要详细说明或列举形成这 ...",
+          "position": 1
+        },
+        {
+          "title": "[PDF] 跨性别者、间性人和酷儿（LGBTIQ+）融入劳动世界",
+          "link": "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@asia/@ro-bangkok/@ilo-beijing/documents/publication/wcms_856152.pdf",
+          "snippet": "2021年，国际劳工大会通过了《关于不平等与劳动世界的决议》，指出歧视（包括系统性、多重性和交叉性. 的歧视）仍然是一个持续且普遍的问题，亦是不平等的根源。《学习指南：女 ...",
+          "position": 2
+        },
+        {
+          "title": "【GQ科普】什麼是順性別、跨性別、LGBTQ+？人的「性別認同 ...",
+          "link": "https://www.gq.com.tw/bettermen/article/%E6%80%A7%E5%88%A5%E8%AA%8D%E5%90%8C-%E6%80%A7%E5%88%A5%E5%B9%B3%E6%AC%8A-lgbtq",
+          "snippet": "跨性別Trans：必須注意的是，在為其他更多元性別認同作定義的前提下，這裡指的「跨性」仍單純是指「男」與「女」之間「二元性別」的互跨，例如「出生時是男性， ...",
+          "date": "2024年6月24日",
+          "position": 3
+        },
+        {
+          "title": "多元性别_百度百科",
+          "link": "https://baike.baidu.com/item/%E5%A4%9A%E5%85%83%E6%80%A7%E5%88%AB/58414587",
+          "snippet": "多元性别（Gender and Sexual Diversity），或称性别多元。中国社会科学院2016年发布的《现代汉语词典》（第7版）中，“多元”一词被解释为“多样的，不单一的”，因而“多元性别”指 ...",
+          "position": 4
+        },
+        {
+          "title": "多性恋- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E5%A4%9A%E6%80%A7%E6%88%80",
+          "snippet": "多性恋（英语：Polysexual），是一种强调数量的性倾向分类，一般指对特定的至少三种性别可以发生性吸引及爱慕情绪的人，但并非泛性恋那般完全不在乎任何性别。",
+          "position": 5
+        },
+        {
+          "title": "家庭中性别角色的动态性 - 中国社会科学网",
+          "link": "https://www.cssn.cn/shx/xbyjt/202210/t20221028_5556593.shtml",
+          "snippet": "在现代社会中，男性和女性都有着多重角色身份，如家庭生活中能够想到的比较典型的角色是挣钱养家的人、照料家庭的人。理论上，不同性别的个体都可能会 ...",
+          "date": "2022年10月28日",
+          "position": 6
+        },
+        {
+          "title": "多重歧視性別暴力防治 - 勵馨基金會",
+          "link": "https://www.goh.org.tw/services/multiple-discrimination-and-gender-violence-prevention-center/",
+          "snippet": "多重歧視性別暴力防治中心暖馨開幕. 勵馨基金會最新調查顯示，12歲以上的多元性別朋友（LGBTQ+）有4成2遭受過性別暴力對待，包括：霸凌、精神暴力、高壓控制、威脅恐嚇、性暴力 ...",
+          "position": 7
+        },
+        {
+          "title": "性少数者 - ohchr",
+          "link": "https://www.ohchr.org/zh/topic/lgbti-people",
+          "snippet": "在世界各地，女同性恋者、男同性恋者、双性恋者、变性者和间性者继续面临普遍的污名化、排斥和歧视，包括在教育、就业和医护方面，以及在家庭和社区内。",
+          "position": 8
+        },
+        {
+          "title": "性別的多重宇宙—談性別特質 - 桃園市社區心理衛生中心",
+          "link": "https://mental.tycg.gov.tw/News_Content.aspx?n=524&s=1001471",
+          "snippet": "性別的多重宇宙—談性別特質 · 生理性別：包含了性染色體、性激素、生殖器官等不同的生物生理特徵定義性別。 · 心理性別：包含了性取向認同-對於自我性吸引行為或情感歸屬性別 ...",
+          "position": 9
+        },
+        {
+          "title": "[PDF] UNDP-CH-PEG-Being-LGBT-in-China_CH.pdf",
+          "link": "https://www.undp.org/sites/g/files/zskgke326/files/migration/cn/UNDP-CH-PEG-Being-LGBT-in-China_CH.pdf",
+          "snippet": "本研究报告名为“中国性少数群体生存状况- 基于性倾向，性别认同和性别表达的社会态度调. 查报告”由联合国开发计划署“亚洲同志”项目策划，并委托北京大学社会学系吴利娟老师 ...",
+          "position": 10
+        },
+        {
+          "title": "多重性_百度百科",
+          "link": "https://baike.baidu.com/item/%E5%A4%9A%E9%87%8D%E6%80%A7/1847845",
+          "snippet": "复杂的性质或状态，多种多样或形形色色的性质或状态。",
+          "position": 11
+        },
+        {
+          "title": "[PDF] 多重视角下的社会性别观",
+          "link": "http://idl.hbdlib.cn/book/00000000000000/pdfbook/003/010/131494.pdf",
+          "snippet": "多重视角下的社会性别观. 苏红主编. ·上海·. Page 2. 图书在版编目（CIP）数据. 多重视角下的社会性别观／苏红主编．—上海：上海. 大学出版社，2004. （社会学与社会 ...",
+          "position": 12
+        },
+        {
+          "title": "男扮女裝：從創作經驗探討多重性別認同的根源與力量",
+          "link": "https://teric.naer.edu.tw/wSite/ct?mp=teric_b&xItem=1955956&ctNode=655",
+          "snippet": "0：209 · 男扮女裝：從創作經驗探討多重性別認同的根源與力量 · 並列題名；Drag Queen: From The Creating Process to Explore the Root and Power of Multi-Gender Identity.",
+          "position": 13
+        },
+        {
+          "title": "多重歧視性別暴力防治服務 - 勵馨基金會",
+          "link": "https://www.goh.org.tw/perspectives/sexual-violence-prevention-of-lgbtq/",
+          "snippet": "性別暴力不只發生在女性身上，男性、同性戀、跨性別等族群也都可能遭受暴力。包含多元性別在內，許多性別暴力的當事人，由於性別、年齡、自我認同、身心狀況等多重因素， ...",
+          "position": 14
+        },
+        {
+          "title": "[PDF] 跨性别组织现状（第二版）",
+          "link": "https://gate.ngo/wp-content/uploads/2017/10/The-State-of-Trans-Organizing-2nd-Edition-2017-Executive-Summary-ZH_CN.pdf",
+          "snippet": "那些性别表现与社会和文化所建. 构的性别形象不符的人尤易受害。对于来自弱势社群和面对多重边缘化的人（例如基于种族、民族、阶层、种. 性、国籍、残障或年龄等原因，或 ...",
+          "position": 15
+        },
+        {
+          "title": "居日台湾人批评“反跨团体”遭起诉，日本跨性别权益面临多重挑战",
+          "link": "https://theinitium.com/zh-hans/article/20240810-whatsnew-international-japan-transgender",
+          "snippet": "2004年，在自民党右翼弱势的情况下，《性别认同障碍者性别处理特例法》（下称特例法）最终获得通过。尽管如此，特例法对更改登记性别的要求仍然极为严格，包括 ...",
+          "date": "2024年8月9日",
+          "position": 16
+        },
+        {
+          "title": "与许纪霖、刘擎等商榷③丨多重身份与歧视的交叉性 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_8462085",
+          "snippet": "从根本上说，“交叉性”概念提供了这样一种洞见：对任何特定身份的歧视从来并不只有单一的模式，相反总是会在具体的社会情境中，依附于各种中介因素（包括与被 ...",
+          "date": "2020年7月30日",
+          "position": 17
+        },
+        {
+          "title": "齐家治国？习近平时代的女性参政(2) - 美国之音",
+          "link": "https://www.voachinese.com/a/gender-distribution-chinese-politics-20171103/4099321.html",
+          "snippet": "... ，学者及关注中国性别议题的倡议者指出，高层政治的性别比例分配只是冰山一角，必须关注更深层的职场、家庭和文化等多重因素以及性少数人口。",
+          "date": "2017年11月4日",
+          "position": 18
+        },
+        {
+          "title": "多重性 - IBM",
+          "link": "https://www.ibm.com/docs/zh/rsas/7.5.0?topic=ss4je2-7-5-5-com-ibm-xtools-viz-cpp-doc-topics-cmultiplicity-html",
+          "snippet": "多重性. 在“统一建模语言”（UML）类图中，多重性指定一组相关联的类可以假定的允许基数范围。 多重性规范是一个由非负整数组成的开放集合的子集。可以为关联关系中的角色提供 ...",
+          "position": 19
+        },
+        {
+          "title": "妇女| 联合国",
+          "link": "https://www.un.org/zh/fight-racism/vulnerable-groups/women",
+          "snippet": "... 多重歧视。 联合国展览：以身作则，我是“平等的一代”. 从议会、学校到媒体，妇女领袖呼吁采取行动，解决长期以来被忽视的对性别平等至关重要的问题。本次展览展示了其中 ...",
+          "position": 20
+        },
+        {
+          "title": "[PDF] 2022-2025 年性别平等战略",
+          "link": "https://genderequalitystrategy.undp.org/downloads/UNDP_Gender_Equality_Strategy_2022-2025_CH_V2.pdf",
+          "snippet": "多重危机和风险正威胁着全世界，. 我们目睹了令人震惊的对妇女权利和性别. 平等的强烈抵制。自COVID-19 疫情爆发以. 来，女性失业的可能性几乎是男性的两倍。1. 然而，在世界 ...",
+          "position": 21
+        },
+        {
+          "title": "在UML 形状上指定多重性- Microsoft 支持",
+          "link": "https://support.microsoft.com/zh-cn/topic/%E5%9C%A8-uml-%E5%BD%A2%E7%8A%B6%E4%B8%8A%E6%8C%87%E5%AE%9A%E5%A4%9A%E9%87%8D%E6%80%A7-e2dcac55-e9b6-40fa-a976-eb5f6ef2df3b",
+          "snippet": "设置多重性值 ... 右键单击“ 关系” 形状，然后单击“ 显示多重性”。 ... 单击第一个多重字段，然后键入值。 单击第一个多重字段，然后键入值。 ... 在关系线的两端设置UML 关系表示法 ...",
+          "position": 22
+        },
+        {
+          "title": "哪些国家能在2030年实现性别平等？ - 世界经济论坛",
+          "link": "https://cn.weforum.org/agenda/2022/09/dao-2030-nian-shi-xian-xing-bie-ping-deng-nei-xie-guo-jia-de-jin-zhan-zui-da/",
+          "snippet": "... 多重冲击使之前的进展发生倒退，在2020年至2022年期间，全球预计实现性别平等的时间从100年延长至132年；全球性别差距指数为各国提供了行动框架，以 ...",
+          "date": "2022年9月29日",
+          "position": 23
+        },
+        {
+          "title": "Maya Creative 帮助| 多点结和CV 多重性",
+          "link": "https://help.autodesk.com/view/MAYACRE/CHS/?guid=GUID-D18781B6-5D47-4EE5-955A-5C24B7666103",
+          "snippet": "多点结和CV 多重性. 多点结是指位于空间中的同一位置的多个编辑点。 CV 多重性是指位于空间中的同一位置的多个CV。 多点结和CV 多重性可实现类似的效果（曲线中更尖锐的弯曲 ...",
+          "position": 24
+        },
+        {
+          "title": "样本多重分析| 多重测序 - Illumina",
+          "link": "https://www.illumina.com.cn/techniques/sequencing/ngs-library-prep/multiplexing.html",
+          "snippet": "双标签测序. 为多重分析制备文库时，我们推荐使用唯一双标签序列。 · 唯一分子标记. 唯一分子标记（UMI）是一种分子条形码，可以在测序过程中错误校正，提高准确性。 · 最小化标签 ...",
+          "position": 25
+        },
+        {
+          "title": "光致异构分子多重性 - 国家纳米科学中心- 中国科学院",
+          "link": "http://www.nanoctr.cas.cn/zengqingdao/yjly/201607/t20160705_4635684.html",
+          "snippet": "纳米器件, 纳米材料, 纳米生物效应与安全性, 纳米表征, 纳米标准, 纳米制造与应用基础.",
+          "position": 26
+        },
+        {
+          "title": "习近平在安徽考察时强调发挥多重国家发展战略叠加优势奋力谱写 ...",
+          "link": "http://www.gwytb.gov.cn/m/headline/202410/t20241018_12657308.htm",
+          "snippet": "他强调，要加强历史文化保护，坚持创造性转化、创新性发展，在发展社会主义先进文化、弘扬革命文化、传承中华优秀传统文化上协同发力，打牢社会治理的文化根基 ...",
+          "date": "2024年10月18日",
+          "position": 27
+        },
+        {
+          "title": "郑佑轩/李承辉团队Angew：多硼手性多重共振热激活延迟荧光材料和 ...",
+          "link": "https://chem.nju.edu.cn/83/d8/c28455a689112/page.htm",
+          "snippet": "手性多重共振热激活延迟荧光(CP-MR-TADF)材料由于其可以兼具高色纯度、高发光效率和圆偏振发光(CPL)等性质特点，在制备圆偏振有机电致发光 ...",
+          "date": "2024年5月25日",
+          "position": 28
+        },
+        {
+          "title": "从COP16看全球生物多样性保护面临的挑战和机遇 - 科技日报",
+          "link": "https://www.stdaily.com/web/gdxw/2024-11/03/content_252451.html",
+          "snippet": "分析人士认为，当前全球生物多样性受到气候变化、物种入侵、过度开发等多重因素影响，各国政府、国际组织和利益攸关方亟需形成合力，推动“昆明-蒙特利尔全球 ...",
+          "date": "13小时前",
+          "position": 29
+        },
+        {
+          "title": "多发性硬化症",
+          "link": "https://www.who.int/zh/news-room/fact-sheets/detail/multiple-sclerosis",
+          "snippet": "多发性硬化症是免疫系统攻击大脑和脊髓时会出现的一种疾病。 多发性硬化症的症状因人而异，取决于神经纤维损伤的部位和严重程度。这些症状通常包括视力问题 ...",
+          "date": "2023年8月7日",
+          "position": 30
+        },
+        {
+          "title": "多重身份验证(MFA) | Microsoft 安全",
+          "link": "https://www.microsoft.com/zh-cn/security/business/identity-access/microsoft-entra-mfa-multi-factor-authentication",
+          "snippet": "使用Microsoft Entra 的各种MFA 方法（例如短信验证、生物识别和一次性密码）来满足组织的需求。 Microsoft Authenticator FIDO2 安全密钥 基于证书 ...",
+          "position": 31
+        },
+        {
+          "title": "多重不确定性因素令日元走弱 - 国际经济",
+          "link": "http://intl.ce.cn/sjjj/qy/202411/01/t20241101_39188799.shtml",
+          "snippet": "多重不确定性因素令日元走弱 ... 10月31日，日本央行将政策利率维持在0.25%不变，符合市场预期。利率决议公布后，日元对美元窄幅波动，直至午后日本央行行长植田 ...",
+          "date": "3天前",
+          "position": 32
+        },
+        {
+          "title": "具有多重共线性或相关特征的置换重要性 - scikit-learn中文社区",
+          "link": "https://scikit-learn.org.cn/view/254.html",
+          "snippet": "处理多重共线性特征. 当特征是共线特征时，置换一个特征对模型性能的影响很小，因为它可以从相关特征中获得相同的信息。 ... 接下来，我们通过对树状图的可视化检查来手动选择 ...",
+          "position": 33
+        },
+        {
+          "title": "程心怡、胡子、莎拉·福克斯——多重视角下的“女性凝视”",
+          "link": "https://capsuleshanghai.com/zh/press/54-artsy/",
+          "snippet": "面对一幅画，假如得知了创作者的性别身份，你会对它产生截然不同的感受吗？这个简单的问题，在过去近半个世纪中，一直萦绕着我们对绘画的观赏。",
+          "date": "2018年7月23日",
+          "position": 34
+        },
+        {
+          "title": "杨解君：碳排放权的法律多重性——基于分配行政论的思考 - 法治政府网",
+          "link": "https://fzzfyjy.cupl.edu.cn/info/1036/16203.htm",
+          "snippet": "杨解君：碳排放权的法律多重性——基于分配行政论的思考 · 对碳排放权的行政确认属于对权利(及其属性)的确认，其确认事项主要包括两个方面：一是确认权利主体及 ...",
+          "date": "2024年2月18日",
+          "position": 35
+        },
+        {
+          "title": "QF-PCR(多重STR位点分析技术) - 广东省妇幼保健院",
+          "link": "http://www.e3861.com/cn/keshizhuanjia/yixueyichuanzhongxin/5521.html",
+          "snippet": "QF-PCR（多重STR位点分析技术）. 染色体病是先天性智力障碍、先天性心脏病、神经管畸形、唇腭裂等出生缺陷、原发性不孕不育以及真两性畸形的主要病因。",
+          "position": 36
+        },
+        {
+          "title": "齐延平：论基本权利的价值多重性",
+          "link": "http://fzyjs.chinalaw.org.cn/portal/article/index/id/493.html",
+          "snippet": "作为客观价值秩序的基本权利主要发挥以下几个功能。第一，制度性保障功能，即要求立法者建立和维护制度以促进基本权利功能的实现，国家对此负有制度性保障义务。第二，组织与 ...",
+          "position": 37
+        },
+        {
+          "title": "国际观察｜从COP16看全球生物多样性保护面临的挑战和机遇 - 新华网",
+          "link": "http://www.news.cn/world/20241103/dacc14aa2f1242bb9121efda127db664/c.html",
+          "snippet": "分析人士认为，当前全球生物多样性受到气候变化、物种入侵、过度开发等多重因素影响，各国政府、国际组织和利益攸关方亟需形成合力，推动“昆明-蒙特利尔全球 ...",
+          "date": "18小时前",
+          "position": 38
+        },
+        {
+          "title": "什么是多重身份验证(MFA) 安全防护？ - Akamai",
+          "link": "https://www.akamai.com/zh/glossary/what-is-mfa-security",
+          "snippet": "向未经授权的个人授予访问权违反了Zero Trust（这种安全模式使企业能够消除隐性信任）的基本原则。 多重身份验证(MFA) 在用户请求访问时提供了一层额外的保障。除了用户名和 ...",
+          "position": 39
+        },
+        {
+          "title": "贝尔格自由无调性音乐作品的多重结构研究(Chinese Edition) eBook",
+          "link": "https://www.amazon.it/%E8%B4%9D%E5%B0%94%E6%A0%BC%E8%87%AA%E7%94%B1%E6%97%A0%E8%B0%83%E6%80%A7%E9%9F%B3%E4%B9%90%E4%BD%9C%E5%93%81%E7%9A%84%E5%A4%9A%E9%87%8D%E7%BB%93%E6%9E%84%E7%A0%94%E7%A9%B6-Chinese-%E5%9B%BD%E6%98%8E-%E9%82%B1-ebook/dp/B0C8T82N8K",
+          "snippet": "贝尔格自由无调性音乐作品的多重结构研究(Chinese Edition) eBook : 邱,国明: Amazon.it: Kindle Store.",
+          "position": 40
+        },
+        {
+          "title": "重磅！央行最新决定 - MBAChina网",
+          "link": "https://www.mbachina.com/html/xw/202410/600955.html",
+          "snippet": "... 性监管指标压力，持续提升银行间市场的流动性、安全性 ... 从工具定位看，买断式逆回购采用利率招标、多重价位中标，工具定位为流动性投放工具。",
+          "date": "7天前",
+          "position": 41
+        },
+        {
+          "title": "[PDF] 認識多重耐藥性細菌",
+          "link": "https://www.chp.gov.hk/files/pdf/mdro_preparedness.pdf",
+          "snippet": "，便稱為「多重耐藥性細菌」. ▫ 需用非常規抗生素替代治療. □感染難以治癒 ... ▫ 否則應安排帶有同一種類的多重耐藥性細菌. 的院友們入住同一房間. ▫ 否則以屏障 ...",
+          "position": 42
+        },
+        {
+          "title": "5000亿元！央行新工具落地，对市场有何影响？最新解读",
+          "link": "https://www.jfdaily.com/news/detail?id=813603",
+          "snippet": "... 性的影响。 多重价位中标，突显流动性投放工具的定位。央行公告称，买断式逆回购采用固定数量、利率招标、多重价位中标。根据这一机制，参与机构在 ...",
+          "date": "3天前",
+          "position": 43
+        },
+        {
+          "title": "[PDF] 支气管$灌&联合抗生素治疗难治性肺部多重耐药菌感染的临床效ж",
+          "link": "https://jcmp.yzu.edu.cn/cn/article/pdf/preview/10.7619/jcmp.202003006.pdf",
+          "snippet": "摘要：目的探讨支气管镜灌洗联合抗生素治疗难治性肺部多重耐药菌感染的临床效果。方法选取150例难治性肺. 部多重耐药菌感染患者作为研究对象，将单纯采取抗生素治疗者设 ...",
+          "position": 44
+        },
+        {
+          "title": "CN101200526A - 多重环境响应性的三嵌段共聚物及其制备方法",
+          "link": "https://patents.google.com/patent/CN101200526A/fi",
+          "snippet": "一种多重敏感性的光敏型两性聚电解质胶束的制备方法. CN102604310A * 2012-03-09 2012-07-25 同济大学 一种硅包覆聚合物纳米粒子的水相制备方法. CN102604923A * 2011-01 ...",
+          "position": 45
+        },
+        {
+          "title": "多发性硬化症- 症状与病因- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269",
+          "snippet": "多发性硬化症（MS）是一种可能导致大脑和脊髓（中枢神经系统）失能的疾病。 MS 患者的免疫系统会攻击包覆神经纤维的保护鞘（髓磷脂），导致大脑无法与身体 ...",
+          "date": "2022年12月24日",
+          "position": 46
+        },
+        {
+          "title": "公开市场买断式逆回购业务公告〔2024〕第1号 - 中国政府网",
+          "link": "https://www.gov.cn/lianbo/bumen/202410/content_6984138.htm",
+          "snippet": "为维护银行体系流动性合理充裕，2024年10月人民银行以固定数量、利率招标、多重价位中标方式开展了5000亿元买断式逆回购操作。",
+          "date": "3天前",
+          "position": 47
+        },
+        {
+          "title": "中国楼市“银十”升温现多重积极信号 - 南方网",
+          "link": "https://news.southcn.com/node_179d29f1ce/6225a1c31d.shtml",
+          "snippet": "中原地产研究中心首席分析师张大伟表示，考虑到网签数据具有滞后性，10月份北京二手房真实成交量或达到2.5万套，同比上涨超150%。再如深圳，广东省城规院住房 ...",
+          "date": "2天前",
+          "position": 48
+        },
+        {
+          "title": "189例医院获得性下呼吸道多重耐药菌感染危险因素分析",
+          "link": "https://rs.yiigle.com/CN114798201412/598826.htm",
+          "snippet": "2010年9月至2012年9月，经我院诊断为医院获得性下呼吸道感染且2次以上痰培养细菌呈阳性并为同一菌株的住院患者共396例，其中多重耐药菌阳性者189例，回顾全部临床 ...",
+          "position": 49
+        },
+        {
+          "title": "央行又推新工具！增强1年以内的流动性跨期调节能力 - 财经网",
+          "link": "http://economy.caijing.com.cn/20241028/5046405.shtml",
+          "snippet": "公开市场买断式逆回购采用固定数量、利率招标、多重价位中标，回购标的包括国债、地方政府债券、金融债券、公司信用类债券等。操作结果将通过央行官网相关 ...",
+          "date": "7天前",
+          "position": 50
+        },
+        {
+          "title": "公开市场业务添新工具",
+          "link": "https://jrj.wuhan.gov.cn/ynzx_57/xwzx/202410/t20241030_2476360.shtml",
+          "snippet": "明明表示，多重目标投标方式有助于提高定价效率，不同机构可根据自身流动性供需合理确定资金价格。 董希淼认为，这种模式能减少机构在利率招标时的“搭便车” ...",
+          "date": "5天前",
+          "position": 51
+        },
+        {
+          "title": "伊朗动荡，美国产量新高！原油价格能否在多重压力下逆袭？ - 新浪财经",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2024-11-02/doc-incusksc7598083.shtml",
+          "snippet": "这一低迷的就业数据再次引发市场对经济放缓的担忧。鉴于油价对经济活动的敏感性，此数据令油市承压。 SEB的分析师Ole Hvalbye认为，伊朗的军事反应 ...",
+          "date": "2天前",
+          "position": 52
+        },
+        {
+          "title": "多重优势为高质量发展赋能泰鸿万立沪主板IPO即将上会 - 经济参考报",
+          "link": "http://jjckb.xinhuanet.com/20241101/7ade2bcd1af14b4e94fd5014abbf60a5/c.html",
+          "snippet": "在市场需求和政策利好的双重推动下，近年来，一批技术工艺突出、业务模式成熟、经营稳定的汽车零部件代表性企业开始崛起。以泰鸿万立为例，该公司成立初期的 ...",
+          "date": "2天前",
+          "position": 53
+        },
+        {
+          "title": "国际观察｜从COP16看全球生物多样性保护面临的挑战和机遇",
+          "link": "http://news.china.com.cn/2024-11/03/content_117523925.shtml",
+          "snippet": "... 多重因素影响，各国政府、国际组织和利益攸关方亟需形成合力，推动“昆明-蒙特利尔全球生物多样性框架”（“昆蒙框架”）目标达成。中国在政策制定、资源 ...",
+          "date": "15小时前",
+          "position": 54
+        },
+        {
+          "title": "重磅利好！央行最新决定，专家解读 - 新湖南",
+          "link": "https://m.voc.com.cn/xhn/news/202410/20909677.html",
+          "snippet": "... 多重价位中标，回购标的包括国债、地方政府债券、金融债券、公司信用类债券等。操作结果将通过人民银行官网相关栏目对外披露。增强1年以内的流动性跨 ...",
+          "date": "7天前",
+          "position": 55
+        },
+        {
+          "title": "央行创设买断式逆回购新工具有何深意？ - 第一财经",
+          "link": "https://m.yicai.com/news/102330992.html",
+          "snippet": "10月28日早8点整，央行官宣创设买断式逆回购新工具，完善流动性管理工具框架，维护流动性环境平稳。 ... 公开市场买断式逆回购采用固定数量、利率招标、多重价位中标，回购标的 ...",
+          "position": 56
+        },
+        {
+          "title": "多重URL打开器- Chrome 应用商店",
+          "link": "https://chromewebstore.google.com/detail/%E5%A4%9A%E9%87%8Durl%E6%89%93%E5%BC%80%E5%99%A8/jfanmjbbnmijbkhgnkpbaclkfeliinob?hl=zh-CN",
+          "snippet": "➤ 多重URL打开器Chrome扩展程序无缝融入你的日常活动，提升你的网络体验。 速度与效率的结合1️⃣ 体验无延迟或减速地打开多个网页的能力。 2️⃣ 可靠性和稳定性是我们批量URL ...",
+          "position": 57
+        },
+        {
+          "title": "5000亿元！央行新工具落地，对市场有何影响？最新解读 - 中国青年网",
+          "link": "https://news.youth.cn/gn/202410/t20241031_15618148.htm",
+          "snippet": "... 性的影响。 多重价位中标，突显流动性投放工具的定位。央行公告称，买断式逆回购采用固定数量、利率招标、多重价位中标。根据这一机制，参与机构在 ...",
+          "date": "4天前",
+          "position": 58
+        },
+        {
+          "title": "习近平在安徽考察时强调发挥多重国家发展战略叠加优势奋力谱写 ...",
+          "link": "https://hrss.tj.gov.cn/xinwenzixun/meitijujiao/202410/t20241018_6756410.html",
+          "snippet": "... 多重国家发展战略叠加优势，在打造具有重要影响力的科技创新策源地 ... 守好实体经济这个根基，加快传统产业改造升级，壮大战略性新兴产业，超前 ...",
+          "date": "2024年10月18日",
+          "position": 59
+        },
+        {
+          "title": "Gender在這裡-性別視聽分享站",
+          "link": "https://www.gender.ey.gov.tw/multimedia/",
+          "snippet": "性．別．映．象. more · 《媽的多重宇宙》──正因為妳一事無成，所以妳才有無限可能 · 楊紫瓊飾演的華裔移民秀蓮（備註：英文名Evelyn Wang）原是一個傳統平凡的中年婦女 ...",
+          "position": 60
+        },
+        {
+          "title": "繞射物質化：論免疫記憶的多重時間性= Diffractive Mattering",
+          "link": "https://www.airitilibrary.com/Article/Detail/03030849-N202312230007-00003",
+          "snippet": "在這篇文章，我將把感染和免疫視為化為分子的微型政治事件，從中梳理跨物種共同演化中，免疫力的展露、疊加與干擾，以及病原體的逃避機制等議題，特別是其中所涉及的微尺度 ...",
+          "position": 61
+        },
+        {
+          "title": "温敏性W/O/W 型多重乳液的制备及其对维生素C 的控释性. (Chinese)",
+          "link": "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=16741404&AN=159282059&h=VNOZgA5VxyaM%2Fp75jQV3IT%2Fu8U9YaVkQWd0dbDBNrEIxn%2BGq1kvkToioV53%2B2aJ3onlfipVYZ6uOfm3GXUALiw%3D%3D&crl=c",
+          "snippet": "Document Type: Article ; Keywords: controlled release material cosmetics multiple emulsions thermal-reversible gel 化妆品 多重乳液 温敏凝胶 缓释载体; Language of ...",
+          "position": 62
+        },
+        {
+          "title": "评论丨一次性地方化债，腾出更多资源保民生与促发展 - 21财经",
+          "link": "https://m.21jingji.com/article/20241030/e4b4bd064e3557d155b077de11ea891a.html",
+          "snippet": "... 性增加较大规模债务限额置换地方政府存量隐性债务。财政 ... 一揽子化债政策工具箱包括特殊再融资债、多重用途专项债、央行化债SPV、金融化债等。",
+          "date": "5天前",
+          "position": 63
+        },
+        {
+          "title": "5000亿元买断式逆回购操作来了：本质上仍是资金业务定位为中短期 ...",
+          "link": "https://wap.eastmoney.com/a/202410313225186959.html",
+          "snippet": "公告显示，为维护银行体系流动性合理充裕，2024年10月人民银行以固定数量、利率招标、多重价位中标方式开展了5000亿元买断式逆回购操作，期限为6个月(182天) ...",
+          "date": "3天前",
+          "position": 64
+        },
+        {
+          "title": "“必须把顶层设计和摸着石头过河结合起来” - 求是网",
+          "link": "http://www.qstheory.cn/qshyjx/2024-11/02/c_1130215874.htm",
+          "snippet": "二者结合起来，体现的正是稳中求进工作总基调这一治国理政重要原则，有着多重现实指向。 这是出于对世情国情的深刻洞察。“推进中国式现代化是一个探索性事业 ...",
+          "date": "2天前",
+          "position": 65
+        },
+        {
+          "title": "多重程序、反射性损失和被告国反诉| 联合国国际贸易法委员会 - uncitral",
+          "link": "https://uncitral.un.org/zh/multipleproceedings",
+          "snippet": "秘书处的说明A/CN.9/WG.III/WP.193 - 投资人与国家间争端解决制度的可能改革- 多重程序和反诉A/CN.9/WG.III/WP.170 - 股东索赔和反射性损失A/CN.9/WG.",
+          "position": 66
+        },
+        {
+          "title": "央行又“上新”了！ - 证券日报",
+          "link": "http://m.zqrb.cn/finance/hongguanjingji/2024-10-28/A1730079565794.html",
+          "snippet": "买断式逆回购采用利率招标、多重价位中标，工具定位为流动性投放工具。此 ... 性、安全性和国际化水平。 （编辑孙倩）",
+          "date": "7天前",
+          "position": 67
+        },
+        {
+          "title": "央行启用公开市场买断式逆回购操作工具 - 中国基金报",
+          "link": "https://www.chnfund.com/article/AR32f9a2a3-2033-85ce-7ff7-3a15e8b4a955",
+          "snippet": "采用“固定数量、利率招标、多重价位中标”，表明操作的目的主要在流动性的投放，而非承担政策利率的作用。买断式回购相对于质押式回购，最大的不同是债券的 ...",
+          "date": "6天前",
+          "position": 68
+        },
+        {
+          "title": "【中化新网】多重刺激响应性室温磷光材料研究获新进展 - 新闻网",
+          "link": "https://news.ecust.edu.cn/2024/0321/c160a178873/pagem.htm",
+          "snippet": "近日，华东理工大学化学与分子工程学院费林加诺贝尔奖科学家联合研究中心田禾院士团队梅菊副教授在多重刺激响应性室温磷光材料研究方面取得新进展， ...",
+          "date": "2024年3月21日",
+          "position": 69
+        },
+        {
+          "title": "5000亿元央行开展买断式逆回购操作 - 人民网",
+          "link": "http://finance.people.com.cn/n1/2024/1101/c1004-40352096.html",
+          "snippet": "人民网北京11月1日电（记者黄盛）中国人民银行在10月31日发布公告表示，为维护银行体系流动性合理充裕，2024年10月中国人民银行以固定数量、利率招标、多重",
+          "date": "3天前",
+          "position": 70
+        },
+        {
+          "title": "农产品技术分析：多重不确定性交织，CBOT大豆接下来怎么走？",
+          "link": "https://xnews.jin10.com/details/151694",
+          "snippet": "农产品技术分析：多重不确定性交织，CBOT大豆接下来怎么走？ 钻石VIP专享文章. 分析师认为，长期需求或将推动CBOT玉米市场...... 风险提示及免责条款：市场有风险，投资需 ...",
+          "position": 71
+        },
+        {
+          "title": "央行又推新工具！增强1年以内的流动性跨期调节能力 - 证券",
+          "link": "https://wap.stockstar.com/detail/SS2024102800013181",
+          "snippet": "公开市场买断式逆回购采用固定数量、利率招标、多重价位中标，回购标的包括国债、地方政府债券、金融债券、公司信用类债券等。操作结果将通过央行官网相关 ...",
+          "date": "7天前",
+          "position": 72
+        },
+        {
+          "title": "央行新工具强化流动性管理 - 华龙网",
+          "link": "https://www.cqnews.net/1/detail/1301088523911421952/web/content_1301088523911421952.html",
+          "snippet": "公开市场买断式逆回购采用固定数量、利率招标、多重价位中标，回购标的包括国债、地方政府债券、金融债券、公司信用类债券等。操作结果将通过中国人民银行 ...",
+          "date": "5天前",
+          "position": 73
+        },
+        {
+          "title": "[PDF] 感染控制處應對多重耐藥性菌類的感染控制措施給安老院的資訊",
+          "link": "https://www.chp.gov.hk/files/pdf/infection_control_advice_on_mdro_for_rche_chi.pdf",
+          "snippet": "照顧多重耐藥性菌類院友的額外感染控制措施. 2. 以下指引應用於對下列多重耐藥性菌類檢測呈陽性的院友：. 甲、 耐萬古霉素腸球菌﹝VRE﹞. 乙、 產碳青霉烯酶腸桿菌科細菌 ...",
+          "position": 74
+        },
+        {
+          "title": "钟祥市人民政府头条新闻习近平在安徽考察时强调发挥多重国家发展 ...",
+          "link": "https://zhongxiang.gov.cn/art/2024/10/18/art_16206_1105592.html",
+          "snippet": "他强调，要加强历史文化保护，坚持创造性转化、创新性发展，在发展社会主义先进文化、弘扬革命文化、传承中华优秀传统文化上协同发力，打牢社会治理的文化根基 ...",
+          "date": "2024年10月18日",
+          "position": 75
+        },
+        {
+          "title": "GeXP多重PCR法同时检测5种致泻性大肠埃希菌 - 预防医学",
+          "link": "http://www.zjyfyxzz.com/CN/abstract/abstract2488.shtml",
+          "snippet": "A.U.以上。GeXP单模板多重PCR体系中,5种致泻性大肠埃希菌的12种毒力基因PCR产物片段大小与设计相符,特异性良好。菌液浓度为103 CFU/mL时,GeXP多重PCR可 ...",
+          "date": "2022年10月10日",
+          "position": 76
+        },
+        {
+          "title": "央行启动公开市场买断式逆回购操作工具来看专家解读 - 杭州网",
+          "link": "https://news.hangzhou.com.cn/jjxw/content/2024-10/28/content_8805995.htm",
+          "snippet": "... 性投放工具，不会新增货币政策工具中标利率。 此次推出的买断式逆回购采用固定数量、利率招标、多重价位中标，机构根据自身情况可以选择不同利率投标 ...",
+          "date": "7天前",
+          "position": 77
+        },
+        {
+          "title": "長期照護機構多重抗藥性微生物感染管制措施指引",
+          "link": "https://www.cdc.gov.tw/Category/ListContent/FR9BZ-4u-p4jZvbt_q6IXw?uaid=Ik08G0G8bCjWd9Hol17NAA",
+          "snippet": "流行性斑疹傷寒 · 腸道出血性大腸桿菌感染症 · 傷寒 · 副傷寒 · 桿菌性痢疾 · 阿米巴性痢疾 · 霍亂 · 急性病毒性A型肝炎 · 小兒麻痺症/急性無力肢體麻痺 · 炭疽病 · 多重抗 ...",
+          "position": 78
+        },
+        {
+          "title": "如何理解央行开启买断式逆回购 - 华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3731889",
+          "snippet": "... 性提出了更高的要求，买断式逆回购操作将采取“固定数量、利率招标、多重价位中标”，在提升流动性投放的精准性的同时，不会模糊政策利率的信号。 其二 ...",
+          "date": "7天前",
+          "position": 79
+        },
+        {
+          "title": "“多重因子分析”平台选项 - JMP",
+          "link": "https://www.jmp.com/support/help/zh-cn/17.2/jmp/multiple-factor-analysis-platform-options.shtml",
+          "snippet": "显示或隐藏每个区组的第一个特征值以及该特征值的权重。该权重是第一个特征值的逆平方根。 ... 显示或隐藏特征值表，该表对应于一致性维，且按照从最大到最小 ...",
+          "date": "2023年9月18日",
+          "position": 80
+        },
+        {
+          "title": "CN102952876A - 一种产毒微囊藻特异性多重pcr检测方法及其试剂盒",
+          "link": "https://patents.google.com/patent/CN102952876A/zh",
+          "snippet": "本发明所要解决的技术问题在于，为了克服现有技术中存在的对产毒微囊藻检测方法复杂、仪器要求高等问题，提供一种产毒微囊藻特异性多重PCR检测方法及其试剂盒。",
+          "position": 81
+        },
+        {
+          "title": "自我概念清晰性与无聊的关系：多重中介模型分析",
+          "link": "https://www.hanspub.org/journal/PaperInformation?PaperID=84263&",
+          "snippet": "目的：研究旨在考察大学生自我概念清晰性与无聊的关系，并探究睡眠拖延行为与个体焦虑水平的链式中介效应。方法：采用大学生无聊倾向问卷、睡眠拖延量表、广泛性焦虑量表 ...",
+          "position": 82
+        },
+        {
+          "title": "李兵机电工程与自动化学院 -?? - 哈工大深圳校区教师空间展示系统",
+          "link": "https://faculty.hitsz.edu.cn/libing",
+          "snippet": "... 多重时序变胞调控机理及“型-功-性”一体化设计理论，在研，项目负责人. 2. 2017-2020 国家重点研发计划“智能机器人”重点专项：智能护理机器人关键技术与示范应用，结题 ...",
+          "position": 83
+        },
+        {
+          "title": "央行新工具强化流动性管理 - 中国经济网",
+          "link": "http://www.ce.cn/xwzx/gnsz/gdxw/202410/30/t20241030_39185497.shtml",
+          "snippet": "公开市场买断式逆回购采用固定数量、利率招标、多重价位中标，回购标的包括国债、地方政府债券、金融债券、公司信用类债券等。操作结果将通过中国人民银行 ...",
+          "date": "5天前",
+          "position": 84
+        },
+        {
+          "title": "5000亿元！央行新工具落地，对市场有何影响？最新解读",
+          "link": "https://m.voc.com.cn/xhn/news/202411/21226102.html",
+          "snippet": "... 性的影响。 多重价位中标，突显流动性投放工具的定位。央行公告称，买断式逆回购采用固定数量、利率招标、多重价位中标。根据这一机制，参与机构在 ...",
+          "date": "3天前",
+          "position": 85
+        },
+        {
+          "title": "地骨皮的多重位点特异性PCR鉴别- 中国生物医学文献服务系统",
+          "link": "https://www.sinomed.ac.cn/article.do?ui=2024178998",
+          "snippet": "目的:使用多重位点特异性聚合酶链式反应(PCR)的方法,简单高效地鉴定地骨皮(Lycii Cortex)的2种基原植物枸杞(Lycium chinense)和宁夏枸杞(L.barbarum)。",
+          "position": 86
+        },
+        {
+          "title": "买断式逆回购操作落地流动性投放工具更加丰富 - 新浪财经",
+          "link": "https://finance.sina.cn/stock/ggyj/2024-11-01/detail-incupefr9084781.d.html?vt=4",
+          "snippet": "多重价位中标. 凸显流动性投放工具的定位. 央行公告显示，买断式逆回购采用固定数量、利率招标、多重价位中标。根据这一机制，参与机构在投标时需要根据 ...",
+          "date": "3天前",
+          "position": 87
+        },
+        {
+          "title": "可盘活大量债券资产本质上仍是资金业务",
+          "link": "https://m.cls.cn/detail/1844600",
+          "snippet": "... 性的影响。 流动性投放工具定位突显，盘活大量债券资产带动全市场买断式回购业务发展. 央行公告称，买断式逆回购采用固定数量、利率招标、多重价位中标。",
+          "date": "4天前",
+          "position": 88
+        },
+        {
+          "title": "央行再“上新” 货币政策“工具箱”渐丰富 - 经济形势",
+          "link": "http://www.china-cer.com.cn/guwen/2024102929098.html",
+          "snippet": "... 性管理新工具。央行10月28日发布 ... 记者从接近央行人士处获悉，与MLF采用单一价位中标不同，此次推出的买断式逆回购采用固定数量、利率招标、多重 ...",
+          "date": "6天前",
+          "position": 89
+        },
+        {
+          "title": "央行流动性管理工具持续丰富市场化属性进一步凸显 - 证券时报",
+          "link": "https://www.stcn.com/article/detail/1390684.html",
+          "snippet": "... 性投放工具中1个月期到1年期工具欠缺的空白。从定价方式看，采用固定数量、利率招标、多重价位中标，机构可以结合自身的资金需求情况选择不同利率投标。",
+          "date": "4天前",
+          "position": 90
+        },
+        {
+          "title": "盘前重磅！定位流动性投放，央行再推新工具 - 第一财经",
+          "link": "https://m.yicai.com/news/102329510.html",
+          "snippet": "公开市场买断式逆回购采用固定数量、利率招标、多重价位中标，回购标的包括国债、地方政府债券、金融债券、公司信用类债券等。操作结果将通过人民银行官网相关栏目对外 ...",
+          "position": 91
+        },
+        {
+          "title": "中国楼市“银十”升温现多重积极信号 - 经济",
+          "link": "https://economy.southcn.com/node_71505a4d28/2d608e2567.shtml",
+          "snippet": "中原地产研究中心首席分析师张大伟表示，考虑到网签数据具有滞后性，10月份北京二手房真实成交量或达到2.5万套，同比上涨超150%。再如深圳，广东省城规院住房 ...",
+          "date": "2天前",
+          "position": 92
+        },
+        {
+          "title": "肿瘤微环境精准解析的新途径：CyLinter在多重成像中的应用医药新闻",
+          "link": "https://bydrug.pharmcube.com/news/detail/a2294ac40687aebfd0e650d292b64dc4",
+          "snippet": "这些方法对于揭示肿瘤微环境中的细胞异质性以及细胞间的复杂相互作用具有重要意义。 高度多重成像技术（例如MxIF、CyCIF、CODEX等）使得研究人员能够 ...",
+          "date": "17小时前",
+          "position": 93
+        },
+        {
+          "title": "央行又推新工具！增强1年以内的流动性跨期调节能力",
+          "link": "https://m.caijing.com.cn/article/350082",
+          "snippet": "公开市场买断式逆回购采用固定数量、利率招标、多重价位中标，回购标的包括国债、地方政府债券、金融债券、公司信用类债券等。操作结果将通过央行官网相关 ...",
+          "date": "7天前",
+          "position": 94
+        },
+        {
+          "title": "央行10月开展5000亿元买断式逆回购操作，专家：可盘活大量债券资产",
+          "link": "https://news.qq.com/rain/a/20241031A08BZ000",
+          "snippet": "具体来看，为维护银行体系流动性合理充裕，2024年10月人民银行以固定数量、利率招标、多重价位中标方式开展了5000亿元买断式逆回购操作，期限为6个月 ...",
+          "date": "4天前",
+          "position": 95
+        },
+        {
+          "title": "接近央行人士：买断式逆回购预计可更好对冲年底前MLF的集中到期",
+          "link": "https://m.10jqka.com.cn/20241028/c662845989.shtml",
+          "snippet": "从工具定位看，买断式逆回购采用利率招标、多重价位中标，工具定位为流动性投放工具。 ... 性、安全性和国际化水平。（中国证券报）. 微信. 朋友圈. 点赞 ...",
+          "date": "7天前",
+          "position": 96
+        },
+        {
+          "title": "人格分裂者的首宗案件：父亲性侵时我变成了另一个人 - BBC",
+          "link": "https://www.bbc.com/ukchina/simp/49649612",
+          "snippet": "杰妮·海因斯从小受到父亲性侵虐待，为了生存而分离出多重人格——现在，她以多重人格的身份出来指证自己的父亲。",
+          "date": "2019年9月10日",
+          "position": 97
+        },
+        {
+          "title": "最新研究：一种新型抗生素有望战胜一类多重耐药菌 - 科学网",
+          "link": "https://news.sciencenet.cn/htmlnews/2024/1/515411.shtm",
+          "snippet": "阻断脂多糖合成及其向外膜的输送，能降低细胞的生存能力，提高它对某些抗生素的敏感性。 在最新发表的第一篇论文中，瑞士罗氏制药研发团队新发现的 ...",
+          "date": "2024年1月4日",
+          "position": 98
+        },
+        {
+          "title": "跨性别者和多元性别者的斗争 - ohchr",
+          "link": "https://www.ohchr.org/zh/special-procedures/ie-sexual-orientation-and-gender-identity/struggle-trans-and-gender-diverse-persons",
+          "snippet": "定义性别认同是指一个人内心深切感受到的基于个人体验的性别，可能与出生时被指派性别相同或者不同，包括对身体的个人感觉（如果能够自由选择，这可能包括使用医学、手术或 ...",
+          "position": 99
+        }
+      ],
+      "images": [
+        {
+          "title": "居日台湾人批评“反跨团体”遭起诉，日本跨性别权益面临多重挑战 ...",
+          "imageUrl": "https://theinitium.com/wp-content/uploads/2024/08/98594e45f77941bf9bb226638fcf03e7.jpg",
+          "link": "https://theinitium.com/zh-hans/article/20240810-whatsnew-international-japan-transgender"
+        },
+        {
+          "title": "LGBTQ+】支持多重歧視性別暴力防治中心- 勵馨基金會",
+          "imageUrl": "https://www.goh.org.tw/wp-content/uploads/Project_2021102113453541-1.jpg",
+          "link": "https://www.goh.org.tw/product/lgbt/"
+        },
+        {
+          "title": "多重歧視性別暴力防治- 勵馨基金會",
+          "imageUrl": "https://www.goh.org.tw/wp-content/uploads/2022/03/img_s284.jpg",
+          "link": "https://www.goh.org.tw/services/multiple-discrimination-and-gender-violence-prevention-center/"
+        },
+        {
+          "title": "看見台灣跨性別者之「多重困境」 – 網氏／罔市女性電子報",
+          "imageUrl": "http://bongchhi.frontier.org.tw/wp-content/uploads/2019/12/%E5%9C%96%E8%A1%A8%E4%B8%80.jpg",
+          "link": "https://bongchhi.frontier.org.tw/archives/46455"
+        },
+        {
+          "title": "贝尔格自由无调性音乐作品的多重结构研究(Chinese Edition) eBook : 邱 ...",
+          "imageUrl": "https://m.media-amazon.com/images/I/51okwG3FF1L._UF1000,1000_QL80_.jpg",
+          "link": "https://www.amazon.it/%E8%B4%9D%E5%B0%94%E6%A0%BC%E8%87%AA%E7%94%B1%E6%97%A0%E8%B0%83%E6%80%A7%E9%9F%B3%E4%B9%90%E4%BD%9C%E5%93%81%E7%9A%84%E5%A4%9A%E9%87%8D%E7%BB%93%E6%9E%84%E7%A0%94%E7%A9%B6-Chinese-%E5%9B%BD%E6%98%8E-%E9%82%B1-ebook/dp/B0C8T82N8K"
+        },
+        {
+          "title": "大学生性别观念差异及其多重影响因素_中国妇女报<20140708期>第B1版 ...",
+          "imageUrl": "http://pcpaper.cnwomen.com.cn/Img/2014/7/m20140708641a0cf270254bc582b6eb5f83aa907c.jpg?editionid=820",
+          "link": "http://pcpaper.cnwomen.com.cn/content/2014-07/08/004591.html"
+        },
+        {
+          "title": "多重歧視性別暴力防治- 勵馨基金會",
+          "imageUrl": "https://www.goh.org.tw/wp-content/uploads/messageImage_1640330148234.jpg",
+          "link": "https://www.goh.org.tw/services/multiple-discrimination-and-gender-violence-prevention-center/"
+        },
+        {
+          "title": "多重歧視性別暴力防治服務- 勵馨基金會",
+          "imageUrl": "https://www.goh.org.tw/wp-content/uploads/pexels-alexander-grey-3738057.jpg",
+          "link": "https://www.goh.org.tw/perspectives/sexual-violence-prevention-of-lgbtq/"
+        },
+        {
+          "title": "具有多重共线性或相关特征的置换重要性-scikit-learn中文社区",
+          "imageUrl": "https://scikit-learn.org.cn/upload/9fdd2cd1fcf9b49b0f28b788768a166f.png",
+          "link": "https://scikit-learn.org.cn/view/254.html"
+        }
+      ],
+      "peopleAlsoAsk": [
+        {
+          "question": "Gender Diversity 是什么？",
+          "snippet": "定义 多元性别指“多样的性别 ”。 其包含范围主要为：生理性别、社会性别（性别认同和性别表达）和性倾向 。",
+          "title": "多元性别_百度百科",
+          "link": "https://baike.baidu.com/item/%E5%A4%9A%E5%85%83%E6%80%A7%E5%88%AB/58414587"
+        },
+        {
+          "question": "Cisgender是什么意思？",
+          "snippet": "顺性别（英语：Cisgender）是指性别认同与出生时指定性别相同的人的一个术语。 例如：一个人的性别认同是女性并且出生时被指定女性，这个人就是顺性别女性。 顺性别一词与跨性别刚好相反。 以顺性别为标准看待社会的世界观被称作“顺性别主义”（cissexism）。",
+          "title": "顺性别- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E9%A0%86%E6%80%A7%E5%88%A5"
+        }
+      ],
+      "relatedSearches": [
+        {
+          "query": "97 genders"
+        },
+        {
+          "query": "lgbt和lgbtq"
+        },
+        {
+          "query": "LGBTQ"
+        },
+        {
+          "query": "LGBTQIA+"
+        },
+        {
+          "query": "Gender Diversity"
+        },
+        {
+          "query": "LGBTQ 是 啥 意思"
+        },
+        {
+          "query": "How many genders are there"
+        },
+        {
+          "query": "lgbtq的q是什么"
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "多重性别",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "郑佑轩团队报道在手性多重共振材料和圆偏振发光器件方面最新研究 ...",
+          "link": "https://chem.nju.edu.cn/e4/b5/c12639a582837/page.htm",
+          "snippet": "材料在掺杂薄膜中的最大发射峰分别在455和458 nm，半峰宽仅为32 nm，量子产率在0.9以上。同时，由于两个发光核心共同构建了轴手性中心，使得手性中心完全参与 ...",
+          "date": "2022年7月19日",
+          "position": 1
+        },
+        {
+          "title": "[PDF] 認識多重耐藥性細菌",
+          "link": "https://www.chp.gov.hk/files/pdf/mdro_preparedness.pdf",
+          "snippet": "，便稱為「多重耐藥性細菌」. ▫ 需用非常規抗生素替代治療. □感染難以治癒 ... ▫ 否則應安排帶有同一種類的多重耐藥性細菌. 的院友們入住同一房間. ▫ 否則以屏障 ...",
+          "position": 2
+        },
+        {
+          "title": "App 安全性概览- 官方Apple 支持(中国)",
+          "link": "https://support.apple.com/zh-cn/guide/security/sec35dd877d0/web",
+          "snippet": "Apple 提供了多重安全措施以帮助确保App 不受已知恶意软件侵害以及不被篡改。",
+          "date": "2022年5月13日",
+          "position": 3
+        },
+        {
+          "title": "评论丨一次性地方化债，腾出更多资源保民生与促发展 - 21财经",
+          "link": "https://m.21jingji.com/article/20241030/e4b4bd064e3557d155b077de11ea891a.html",
+          "snippet": "... 性增加较大规模债务限额置换地方政府存量隐性债务。财政 ... 一揽子化债政策工具箱包括特殊再融资债、多重用途专项债、央行化债SPV、金融化债等。",
+          "date": "5天前",
+          "position": 4
+        },
+        {
+          "title": "使用Onion Over VPN， 提升您的隐私 - NordVPN",
+          "link": "https://nordvpn.com/zh/features/onion-over-vpn/",
+          "snippet": "它为您提供了Onion 路由器(Tor) 的所有优点以及VPN 隧道的额外安全性。 Onion 网络的工作原理是？",
+          "position": 5
+        },
+        {
+          "title": "當期主題】族群、階級與性別困境：當代台灣原住民女性的多重挑戰",
+          "link": "http://www.iwomenweb.org.tw/cp9d4e.html?n=AD9A36B3AB43CD9B",
+          "snippet": "像是都市原住民女性所面對的家庭照養負擔及職場安全不足等困難，也不見政府回應，如今都會區原住民人口已占原住民總人口6成以上，面臨到的困境遠比原鄉部落複雜，從就業機會、 ...",
+          "position": 6
+        },
+        {
+          "title": "邦达亚洲:多重利好因素支撑黄金再刷历史高位 - 新浪财经",
+          "link": "https://finance.sina.com.cn/money/forex/forexfxyc/2024-10-30/doc-incuixur7681855.shtml",
+          "snippet": "另外，在金融市场为美国总统大选做准备的同时，日本民调结果导致其下届政府人选不明，面对不确定性的上升，市场普遍预计日本央行周四将按兵不动。彭博社调查的 ...",
+          "date": "5天前",
+          "position": 7
+        },
+        {
+          "title": "HTTP 范围请求",
+          "link": "https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Range_requests",
+          "snippet": "多重范围. Range 标头还允许在文档中支持一次性获取多重范围。这些范围使用逗号分隔。 bash. Copy to Clipboard. curl http://www.example.com -i -H ...",
+          "date": "2024年5月5日",
+          "position": 8
+        },
+        {
+          "title": "央行启用公开市场买断式逆回购操作工具 - 中国基金报",
+          "link": "https://www.chnfund.com/article/AR32f9a2a3-2033-85ce-7ff7-3a15e8b4a955",
+          "snippet": "采用“固定数量、利率招标、多重价位中标”，表明操作的目的主要在流动性的投放，而非承担政策利率的作用。买断式回购相对于质押式回购，最大的不同是债券的 ...",
+          "date": "6天前",
+          "position": 9
+        },
+        {
+          "title": "多重优势为高质量发展赋能泰鸿万立沪主板IPO即将上会 - 经济参考报",
+          "link": "http://jjckb.xinhuanet.com/20241101/7ade2bcd1af14b4e94fd5014abbf60a5/c.html",
+          "snippet": "在市场需求和政策利好的双重推动下，近年来，一批技术工艺突出、业务模式成熟、经营稳定的汽车零部件代表性企业开始崛起。以泰鸿万立为例，该公司成立初期的 ...",
+          "date": "2天前",
+          "position": 10
+        },
+        {
+          "title": "分离性身份识别障碍 - 默沙东诊疗手册",
+          "link": "https://www.msdmanuals.cn/professional/psychiatric-disorders/dissociative-disorders/dissociative-identity-disorder",
+          "snippet": "分离性身份障碍，既往称为多重人格障碍，是分离障碍的一种，表现为两种或多种人格状态（也称为替代身份、自我状态或身份）这种障碍表现为不能回忆日常事件，重要的个人信息， ...",
+          "position": 11
+        },
+        {
+          "title": "大湾区环境研究院王平山教授团队可控制备多重对称性分子 - 广州大学",
+          "link": "http://www.gzhu.edu.cn/info/1113/7847.htm",
+          "snippet": "大湾区环境研究院王平山教授团队可控制备多重对称性分子 ... 该论文通过设计多配位点的三联吡啶金属有机配体对其进行结构控制组装研究。 精准可控地自组装 ...",
+          "date": "2021年11月3日",
+          "position": 12
+        },
+        {
+          "title": "央行又推新工具！增强1年以内的流动性跨期调节能力 - 证券",
+          "link": "https://wap.stockstar.com/detail/SS2024102800013181",
+          "snippet": "公开市场买断式逆回购采用固定数量、利率招标、多重价位中标，回购标的包括国债、地方政府债券、金融债券、公司信用类债券等。操作结果将通过央行官网相关 ...",
+          "date": "7天前",
+          "position": 13
+        },
+        {
+          "title": "AT4050 多重指向電容式麥克風 - 鐵三角",
+          "link": "https://www.audio-technica.com.tw/%E5%B0%88%E6%A5%AD%E9%BA%A5%E5%85%8B%E9%A2%A8/%E6%9C%89%E7%B7%9A%E9%BA%A5%E5%85%8B%E9%A2%A8/at4050-%E5%A4%9A%E9%87%8D%E6%8C%87%E5%90%91%E6%80%A7%E9%9B%BB%E5%AE%B9%E5%9E%8B%E9%BA%A5%E5%85%8B%E9%A2%A8/",
+          "snippet": "鐵三角AT4050指向麥克風為電容式麥克風，高訊噪比且具有寬廣動態範圍及可變化的指向性，提升了高品質收音的可能性，適合錄音室錄音使用，如果您需要指向麥克風， ...",
+          "currency": "$",
+          "price": 19500,
+          "position": 14
+        },
+        {
+          "title": "長期照護機構多重抗藥性微生物感染管制措施指引",
+          "link": "https://www.cdc.gov.tw/Category/ListContent/FR9BZ-4u-p4jZvbt_q6IXw?uaid=Ik08G0G8bCjWd9Hol17NAA",
+          "snippet": "流行性斑疹傷寒 · 腸道出血性大腸桿菌感染症 · 傷寒 · 副傷寒 · 桿菌性痢疾 · 阿米巴性痢疾 · 霍亂 · 急性病毒性A型肝炎 · 小兒麻痺症/急性無力肢體麻痺 · 炭疽病 · 多重抗 ...",
+          "position": 15
+        },
+        {
+          "title": "2.1 灾害对农业的多重影响",
+          "link": "https://www.fao.org/3/cc7900zh/online/impact-of-disasters-on-agriculture-and-food-2023/multifaceted-impacts-of-disasters-in-agriculture.html",
+          "snippet": "气候条件和天气相关事件会直接影响种植业、畜牧业、渔业和林业的可持续性 7由于洪水、缺水、干旱、农业产量及渔业资源减少、生物多样性丧失和环境退化等多重危害和威胁， ...",
+          "position": 16
+        },
+        {
+          "title": "5000亿元！央行新工具落地，对市场有何影响？最新解读 - 中国青年网",
+          "link": "https://news.youth.cn/gn/202410/t20241031_15618148.htm",
+          "snippet": "... 性的影响。 多重价位中标，突显流动性投放工具的定位。央行公告称，买断式逆回购采用固定数量、利率招标、多重价位中标。根据这一机制，参与机构在 ...",
+          "date": "4天前",
+          "position": 17
+        },
+        {
+          "title": "公开市场买断式逆回购业务公告〔2024〕第1号 - 中国政府网",
+          "link": "https://www.gov.cn/lianbo/bumen/202410/content_6984138.htm",
+          "snippet": "为维护银行体系流动性合理充裕，2024年10月人民银行以固定数量、利率招标、多重价位中标方式开展了5000亿元买断式逆回购操作。",
+          "date": "3天前",
+          "position": 18
+        },
+        {
+          "title": "晚潮｜世事多重性人有两重性 - 腾讯新闻",
+          "link": "https://news.qq.com/rain/a/20240527A05JDB00",
+          "snippet": "晚潮｜世事多重性人有两重性. v. 潮新闻. 2024年5月27日15:29浙江潮新闻官方账号. 关注. 潮新闻客户端朱国良. 图片. 苍茫人世间，繁杂生活中，充满了水和火、刚和柔、矛和 ...",
+          "position": 19
+        },
+        {
+          "title": "央行新工具强化流动性管理 - 中国经济网",
+          "link": "http://www.ce.cn/xwzx/gnsz/gdxw/202410/30/t20241030_39185497.shtml",
+          "snippet": "公开市场买断式逆回购采用固定数量、利率招标、多重价位中标，回购标的包括国债、地方政府债券、金融债券、公司信用类债券等。操作结果将通过中国人民银行 ...",
+          "date": "5天前",
+          "position": 20
+        },
+        {
+          "title": "央行又推新工具！增强1年以内的流动性跨期调节能力",
+          "link": "https://m.caijing.com.cn/article/350082",
+          "snippet": "公开市场买断式逆回购采用固定数量、利率招标、多重价位中标，回购标的包括国债、地方政府债券、金融债券、公司信用类债券等。操作结果将通过央行官网相关 ...",
+          "date": "7天前",
+          "position": 21
+        },
+        {
+          "title": "2023年12月11日16:00-17:30 - 中山大学数学学院（珠海）",
+          "link": "https://mathzh.sysu.edu.cn/zh-hans/article/2090",
+          "snippet": "几类非线性抛物方程组中自相似解的存在性和多重性 · 单位 Affiliation: 江苏大学 · 主持人Host：易泰山教授 · 我们首先给出了非齐次抛物型系统的Liouville型 ...",
+          "date": "2023年11月30日",
+          "position": 22
+        },
+        {
+          "title": "分离性障碍- 症状与病因- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/diseases-conditions/dissociative-disorders/symptoms-causes/syc-20355215",
+          "snippet": "分离性身份识别障碍. 这种疾病既往被称为多重人格障碍，其特征是会“切换”到其他身份。您可能会感觉到有 ...",
+          "date": "2023年12月13日",
+          "position": 23
+        },
+        {
+          "title": "央行启动公开市场买断式逆回购操作工具来看专家解读 - 杭州网",
+          "link": "https://news.hangzhou.com.cn/jjxw/content/2024-10/28/content_8805995.htm",
+          "snippet": "... 性投放工具，不会新增货币政策工具中标利率。 此次推出的买断式逆回购采用固定数量、利率招标、多重价位中标，机构根据自身情况可以选择不同利率投标 ...",
+          "date": "7天前",
+          "position": 24
+        },
+        {
+          "title": "5000亿元买断式逆回购操作来了：本质上仍是资金业务定位为中短期 ...",
+          "link": "https://wap.eastmoney.com/a/202410313225186959.html",
+          "snippet": "公告显示，为维护银行体系流动性合理充裕，2024年10月人民银行以固定数量、利率招标、多重价位中标方式开展了5000亿元买断式逆回购操作，期限为6个月(182天) ...",
+          "date": "3天前",
+          "position": 25
+        },
+        {
+          "title": "央行新工具强化流动性管理 - 华龙网",
+          "link": "https://www.cqnews.net/1/detail/1301088523911421952/web/content_1301088523911421952.html",
+          "snippet": "公开市场买断式逆回购采用固定数量、利率招标、多重价位中标，回购标的包括国债、地方政府债券、金融债券、公司信用类债券等。操作结果将通过中国人民银行 ...",
+          "date": "5天前",
+          "position": 26
+        },
+        {
+          "title": "女性作者写男性主角引争议：性别、历史与创作的多重纠葛 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_26803237",
+          "snippet": "为了使作品被正视，不少女性作家以男性笔名发表作品，夏洛蒂·勃朗特在发表《简·爱》时署名“科勒·贝尔”，以此避免被熟人认出自己的女性身份并因此让作品受到不 ...",
+          "date": "2024年4月24日",
+          "position": 27
+        },
+        {
+          "title": "如何理解央行开启买断式逆回购 - 华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3731889",
+          "snippet": "... 性提出了更高的要求，买断式逆回购操作将采取“固定数量、利率招标、多重价位中标”，在提升流动性投放的精准性的同时，不会模糊政策利率的信号。 其二 ...",
+          "date": "7天前",
+          "position": 28
+        },
+        {
+          "title": "人格分裂者的首宗案件：父亲性侵时我变成了另一个人 - BBC",
+          "link": "https://www.bbc.com/ukchina/simp/49649612",
+          "snippet": "杰妮·海因斯从小受到父亲性侵虐待，为了生存而分离出多重人格——现在，她以多重人格的身份出来指证自己的父亲。",
+          "date": "2019年9月10日",
+          "position": 29
+        },
+        {
+          "title": "“必须把顶层设计和摸着石头过河结合起来” - 求是网",
+          "link": "http://www.qstheory.cn/qshyjx/2024-11/02/c_1130215874.htm",
+          "snippet": "二者结合起来，体现的正是稳中求进工作总基调这一治国理政重要原则，有着多重现实指向。 这是出于对世情国情的深刻洞察。“推进中国式现代化是一个探索性事业 ...",
+          "date": "2天前",
+          "position": 30
+        },
+        {
+          "title": "国际观察｜从COP16看全球生物多样性保护面临的挑战和机遇",
+          "link": "http://news.china.com.cn/2024-11/03/content_117523925.shtml",
+          "snippet": "... 多重因素影响，各国政府、国际组织和利益攸关方亟需形成合力，推动“昆明-蒙特利尔全球生物多样性框架”（“昆蒙框架”）目标达成。中国在政策制定、资源 ...",
+          "date": "15小时前",
+          "position": 31
+        },
+        {
+          "title": "同时负载水溶性和油溶性活性物的固态多重自乳化载体",
+          "link": "https://ibmd.seu.edu.cn/2018/1030/c21245a244386/page.htm",
+          "snippet": "提供一种可同时负载水溶性和油溶性活性物的固态多重自乳化载体，此载体是结合了多重乳液与自微乳的优势之后提出的新型微纳米载体。以生理相容性的固态脂质 ...",
+          "date": "2018年10月30日",
+          "position": 32
+        },
+        {
+          "title": "奇奇核152Eu中的多重八极关联效应 - 中国科学院理论物理研究所",
+          "link": "http://itp.cas.cn/kxyj/xshd/xsbg/202407/t20240708_7213675.html",
+          "snippet": "刘晨，山东大学副教授，硕士研究生导师。长期从事原子核结构的实验研究工作，在原子核对称性及自发对称性破缺的实验和理论研究方面取得了一系列成果 ...",
+          "date": "2024年7月9日",
+          "position": 33
+        },
+        {
+          "title": "閉鎖性家族控股公司需多重保護| 勤業眾信 - Deloitte",
+          "link": "https://www2.deloitte.com/tw/tc/pages/legal/articles/legal-update-2307.html",
+          "snippet": "近期台灣高等法院台中分院111年度重上字第204號民事判決【滄州公司(閉鎖性)案】，肯定閉鎖性公司得以章程就股份繼承為合理限制，並強調：公司章程之性質為拘束所有股東的集體 ...",
+          "position": 34
+        },
+        {
+          "title": "多重耐药性支原体的检测与分析 - 中国热带医学",
+          "link": "http://www.cntropmed.com/CN/Y2004/V4/I02/243",
+          "snippet": "林翀,廖彦,王燕萍. 多重耐药性支原体的检测与分析. 中国热带医学. 2004, 4(02): 243-244. Detection and analysis of multiple druk -resistant ...",
+          "date": "2016年7月29日",
+          "position": 35
+        },
+        {
+          "title": "盘前重磅！定位流动性投放，央行再推新工具 - 第一财经",
+          "link": "https://m.yicai.com/news/102329510.html",
+          "snippet": "公开市场买断式逆回购采用固定数量、利率招标、多重价位中标，回购标的包括国债、地方政府债券、金融债券、公司信用类债券等。操作结果将通过人民银行官网相关栏目对外 ...",
+          "position": 36
+        },
+        {
+          "title": "道家的性哲学和性实践导论——道家性理论和男性多重性高潮",
+          "link": "http://ccj.pku.edu.cn/Article/info?aid=310331783",
+          "snippet": "Abstract. 本文首先扼要介绍道家的性哲学,然后论述道家的性实践的方方面面,最后基于道家的性哲学和性实践,提出男性多重性高潮的意义,并详细讨论男性如何达到多重性高潮的 ...",
+          "position": 37
+        },
+        {
+          "title": "[PDF] 台灣成年早期未婚者多重親密關係態度之分析",
+          "link": "https://teric.naer.edu.tw/wSite/PDFReader?xmlId=&fileName=1583743080229&format=pdf&OWASP_CSRFTOKEN=WAB3-UZS8-7V5V-8U5M-EBHT-ATTQ-E7AD-UA7I",
+          "snippet": "因此，本研究欲. 以身體親密及情感親密兩個向度，探討在不同背景變項上（性別、性傾向、交往經驗. 及關係認同），各族群對於多重親密關係的開放態度。其中有關身體親密及情感 ...",
+          "position": 38
+        },
+        {
+          "title": "程心怡、胡子、莎拉·福克斯——多重视角下的“女性凝视”",
+          "link": "https://capsuleshanghai.com/zh/press/54-artsy/",
+          "snippet": "面对一幅画，假如得知了创作者的性别身份，你会对它产生截然不同的感受吗？这个简单的问题，在过去近半个世纪中，一直萦绕着我们对绘画的观赏。",
+          "date": "2018年7月23日",
+          "position": 39
+        },
+        {
+          "title": "基于多重催化实现的仲酰胺对映选择性还原官能化",
+          "link": "https://chem.xmu.edu.cn/info/1445/17064.htm",
+          "snippet": "基于多重催化实现的仲酰胺对映选择性还原官能化. 发布日期:2022-11-26 浏览次数:1095次. 我院黄培强教授课题组在酰胺不对称还原官能化方面取得重要进展，相关成果 ...",
+          "position": 40
+        },
+        {
+          "title": "深入浅出UML类图（二）_uml多重性 - CSDN博客",
+          "link": "https://blog.csdn.net/LoveLion/article/details/7842898",
+          "snippet": "…… } ... 图4对应的Java代码片段如下：. public class Node {. private Node subNode; …… } ... 多重性关联关系又称为重数性(Multiplicity)关联关系，表示两个 ...",
+          "date": "2012年8月8日",
+          "position": 41
+        },
+        {
+          "title": "什麼是多重要素驗證(MFA) – MFA 介紹 - AWS",
+          "link": "https://aws.amazon.com/tw/what-is/mfa/",
+          "snippet": "... 多重要素驗證(MFA) ... Amazon 是支持平等就業機會的雇主： 少數民族/女性/殘障人士/退伍軍人/性別認同/性取向/年齡。",
+          "position": 42
+        },
+        {
+          "title": "格点的多重可见性Multiple Visibility of Lattice Points - 汉斯出版社",
+          "link": "https://image.hanspub.org/Html/16-1251205_40533.htm",
+          "snippet": "最近，刘奎和孟宪昌[5] 提出了多重k-可见性的概念。对于k,l∈ℕ，若格点(m,n)∈ℤ×ℤ 在形如y=rxk (r∈ℚ) 的曲线上，且在点(m,n) 与(0,0) 之间的曲线段(不含端点)上至多有l−1 个格点 ...",
+          "position": 43
+        },
+        {
+          "title": "接近央行人士：买断式逆回购预计可更好对冲年底前MLF的集中到期",
+          "link": "https://m.10jqka.com.cn/20241028/c662845989.shtml",
+          "snippet": "从工具定位看，买断式逆回购采用利率招标、多重价位中标，工具定位为流动性投放工具。 ... 性、安全性和国际化水平。（中国证券报）. 微信. 朋友圈. 点赞 ...",
+          "date": "7天前",
+          "position": 44
+        },
+        {
+          "title": "多重过敏变应性鼻炎患者接受尘螨皮下免疫治疗的疗效预测研究",
+          "link": "https://rs.yiigle.com/cmaid/1474970",
+          "snippet": "然而研究发现，AR患者中对2种及以上过敏原呈阳性反应的多重过敏者所占比例远大于单一过敏者 。虽然大部分研究结果证实，单一过敏原制剂AIT在单一过敏和多重 ...",
+          "date": "2023年10月7日",
+          "position": 45
+        },
+        {
+          "title": "央行再“上新” 货币政策“工具箱”渐丰富 - 经济形势",
+          "link": "http://www.china-cer.com.cn/guwen/2024102929098.html",
+          "snippet": "... 性管理新工具。央行10月28日发布 ... 记者从接近央行人士处获悉，与MLF采用单一价位中标不同，此次推出的买断式逆回购采用固定数量、利率招标、多重 ...",
+          "date": "6天前",
+          "position": 46
+        },
+        {
+          "title": "土地资源稀缺性和人类需求的多样性：土地利用冲突识别的新框架",
+          "link": "https://www.x-mol.com/paper/1441112427820019712/t?recommendPaper=1349536221946998784",
+          "snippet": "这说明土地利用的多重适宜性是土地利用冲突的前提和基础，但不是唯一的决定因素，与我们的假设是一致的。(2)济南土地利用冲突以中度冲突为主，占冲突总数的 ...",
+          "date": "2021年9月23日",
+          "position": 47
+        },
+        {
+          "title": "C++多重继承的二义性- 知道了呀 - 博客园",
+          "link": "https://www.cnblogs.com/-citywall123/p/13175635.html",
+          "snippet": "在派生类中对基类成员访问应该是唯一的，但是在多继承时，可能会导致对基类某成员访问出现不一致的情况，这就是C++多继承中的二义性。 有两种继承的情况 ...",
+          "date": "2020年6月22日",
+          "position": 48
+        },
+        {
+          "title": "多重线性回归分析(Multiple Linear Regression Analysis) - 梦特医数通",
+          "link": "https://mengte.online/archives/11913",
+          "snippet": "一、案例介绍. 某社区医师从本社区的糖尿病患者中随机抽取50名，收集了他们的性别(Gender)、经济水平(Income) ...",
+          "date": "2023年2月10日",
+          "position": 49
+        },
+        {
+          "title": "央行又推新工具！增强1年以内的流动性跨期调节能力 - 证券时报",
+          "link": "https://stcn.com/article/detail/1373491.html",
+          "snippet": "公开市场买断式逆回购采用固定数量、利率招标、多重价位中标，回购标的包括国债、地方政府债券、金融债券、公司信用类债券等。操作结果将通过央行官网相关 ...",
+          "date": "7天前",
+          "position": 50
+        },
+        {
+          "title": "“多重因子分析”平台选项 - JMP",
+          "link": "https://www.jmp.com/support/help/zh-cn/17.2/jmp/multiple-factor-analysis-platform-options.shtml",
+          "snippet": "显示或隐藏每个区组的第一个特征值以及该特征值的权重。该权重是第一个特征值的逆平方根。 ... 显示或隐藏特征值表，该表对应于一致性维，且按照从最大到最小 ...",
+          "date": "2023年9月18日",
+          "position": 51
+        },
+        {
+          "title": "女歸成神：性別與宗族／親、族群之間的多重交織 - 博客來",
+          "link": "https://www.books.com.tw/products/0010881842?srsltid=AfmBOorcAm4qvuNEvEIHSnR_sEWfHzdBMYMlk9d-COBJPiJ2Xj7oI5I7",
+          "snippet": "書名：女歸成神：性別與宗族／親、族群之間的多重交織，語言：繁體中文，ISBN：9789865659363，頁數：352，出版社：遠流，作者：姜貞吟，出版日期：2021/01/27，類別：人文社科.",
+          "position": 52
+        },
+        {
+          "title": "伊朗动荡，美国产量新高！原油价格能否在多重压力下逆袭？ - 新浪财经",
+          "link": "https://finance.sina.com.cn/stock/usstock/c/2024-11-02/doc-incusksc7598083.shtml",
+          "snippet": "这一低迷的就业数据再次引发市场对经济放缓的担忧。鉴于油价对经济活动的敏感性，此数据令油市承压。 SEB的分析师Ole Hvalbye认为，伊朗的军事反应 ...",
+          "date": "2天前",
+          "position": 53
+        },
+        {
+          "title": "可盘活大量债券资产本质上仍是资金业务",
+          "link": "https://m.cls.cn/detail/1844600",
+          "snippet": "... 性的影响。 流动性投放工具定位突显，盘活大量债券资产带动全市场买断式回购业务发展. 央行公告称，买断式逆回购采用固定数量、利率招标、多重价位中标。",
+          "date": "4天前",
+          "position": 54
+        },
+        {
+          "title": "5000亿元！央行新工具落地，对市场有何影响？最新解读",
+          "link": "https://m.voc.com.cn/xhn/news/202411/21226102.html",
+          "snippet": "... 性的影响。 多重价位中标，突显流动性投放工具的定位。央行公告称，买断式逆回购采用固定数量、利率招标、多重价位中标。根据这一机制，参与机构在 ...",
+          "date": "3天前",
+          "position": 55
+        },
+        {
+          "title": "[PDF] 多重聚合酶連鎖反應： 感染性腹瀉病原之診斷利器",
+          "link": "https://www.cdc.gov.tw/Uploads/archives/1313d71d-27cc-4e18-bc07-3b0c7360b081.pdf",
+          "snippet": "高度開發國家儘管供. 水、衛生建設較完善，感染性腹瀉的. 盛行率大幅降低，每到冬季仍有諾羅. 病毒流行的問題[2]；多重共病、免. 疫低下族群，或是男同志族群亦有細. 菌、寄蟲 ...",
+          "position": 56
+        },
+        {
+          "title": "女女SM视频：探索性别、权力与文化表现的多重维度#2 - GitHub",
+          "link": "https://github.com/baimianwa/baimianwa/issues/2",
+          "snippet": "... 性别和权力关系。本文将探讨“女女SM视频”的背景、特点、文化表现及其对社会的潜在影响，旨在深入理解这一现象的多重 ... 性别、权力与文化表现的多重维度 #2.",
+          "date": "2024年9月29日",
+          "position": 57
+        },
+        {
+          "title": "性别多样化为什么重要？ | CEIBS - 中欧国际工商学院",
+          "link": "https://cn.ceibs.edu/new-papers-columns/15939",
+          "snippet": "有研究发现，性别多样性对公司绩效和治理的影响也取决于其他因素，包括董事会和公司特征。多重董事比例是指拥有多重董事职位的董事比例，可以衡量董事 ...",
+          "date": "2019年3月21日",
+          "position": 58
+        },
+        {
+          "title": "让文化空间在乡土大地诗意“生长” - 光明网-理论频道",
+          "link": "https://theory.gmw.cn/2024-11/03/content_37654125.htm",
+          "snippet": "这些空间不仅是村民日常活动的重要场域，也承担着赓续乡土文脉、满足大众新的精神文化需求等多重功能。 ... 性与合目的性的高度统一。 2024-01-12 09 ...",
+          "date": "23小时前",
+          "position": 59
+        },
+        {
+          "title": "中国楼市“银十”升温现多重积极信号 - 经济",
+          "link": "https://economy.southcn.com/node_71505a4d28/2d608e2567.shtml",
+          "snippet": "中原地产研究中心首席分析师张大伟表示，考虑到网签数据具有滞后性，10月份北京二手房真实成交量或达到2.5万套，同比上涨超150%。再如深圳，广东省城规院住房 ...",
+          "date": "2天前",
+          "position": 60
+        },
+        {
+          "title": "需住院治疗的肺炎球菌性肺炎- UpToDate",
+          "link": "https://www.uptodate.com/contents/zh-Hans/pneumococcal-pneumonia-in-patients-requiring-hospitalization",
+          "snippet": "专题提纲 · 痰液革兰染色和培养 · 尿液抗原检测 · 血培养 · 多重检测体系 · 其他检测方法.",
+          "date": "2023年8月1日",
+          "position": 61
+        },
+        {
+          "title": "找到射精前的临界点,体验多重性高潮 - 河南省卫生健康委员会",
+          "link": "http://222.143.34.138:86/contents/176/24744.shtml",
+          "snippet": "男性要想获得多重性高潮必须通过手淫或性交过程中的不断训练，找到射精前的临界点，在即有明显快感，又未达到射精阈值时停止性刺激，这样再反复多次，最后射精，就等于有几次无 ...",
+          "position": 62
+        },
+        {
+          "title": "5000亿元！央行新工具落地，对市场有何影响？最新解读",
+          "link": "https://news.rednet.cn/content/646855/83/14413119.html",
+          "snippet": "... 性合理充裕，体现央行坚持支持性货币政策立场。专家指出，上述工具 ... 多重价位中标，突显流动性投放工具的定位。央行公告称，买断式逆回购采用 ...",
+          "date": "3天前",
+          "position": 63
+        },
+        {
+          "title": "5000亿元央行开展买断式逆回购操作 - 人民网",
+          "link": "http://finance.people.com.cn/n1/2024/1101/c1004-40352096.html",
+          "snippet": "人民网北京11月1日电（记者黄盛）中国人民银行在10月31日发布公告表示，为维护银行体系流动性合理充裕，2024年10月中国人民银行以固定数量、利率招标、多重",
+          "date": "3天前",
+          "position": 64
+        },
+        {
+          "title": "跳脫二元框架認識性別認同，尊重他人的自我價值 - 女子學",
+          "link": "https://share99.com/mind-gender-identity",
+          "snippet": "此活動在2002 年於馬來西亞首都吉隆坡正式舉辦第一屆，是亞洲第一場歡迎任何性別、性向、性別認同的國際運動會。 即便現在多元性別 ... 接納性別的多重樣貌： ...",
+          "date": "2022年5月10日",
+          "position": 65
+        },
+        {
+          "title": "具有多重敏感性之可標的幾丁聚醣奈米微胞用於抗癌藥物傳輸",
+          "link": "https://hub.tmu.edu.tw/zh/projects/a-multi-sensitive-chitosan-nanomicelles-for-targeted-anticancer-d",
+          "snippet": "說明 ... 奈米微胞之溫度敏感性可以在低溫膨潤而吸收抗癌藥物，並於體溫收縮而降低藥物釋放速率；pH 及bio-redox 之敏感性則有利於奈米微胞在腫瘤組織或癌細胞內釋放抗癌藥物。",
+          "position": 66
+        },
+        {
+          "title": "【文汇APP】这场论坛上，中国、新加坡两国院士为何要给AI“泼冷水”？",
+          "link": "https://news.tongji.edu.cn/info/1006/88986.htm",
+          "snippet": "... 多重安全叠加问题”三大灵魂拷问。他严肃指出，当前AI应用系统，安全责任 ... 会上，多位专家分析，看似强大的人工智能、大模型也存在消耗大、安全性、伦理方面的 ...",
+          "date": "3天前",
+          "position": 67
+        },
+        {
+          "title": "3-6 治療 - 台灣肺炎診治指引",
+          "link": "https://pneumonia.idtaiwanguideline.org/guide/ch3-6.html",
+          "snippet": "重點提要. 院內型肺炎及呼吸器相關肺炎之經驗性抗生素選擇，經評估多重抗藥性風險高低及病人嚴重度和死亡風險，可選擇單方或是合併兩種抗綠膿桿菌抗生素使用。近年多重抗 ...",
+          "position": 68
+        },
+        {
+          "title": "肿瘤微环境精准解析的新途径：CyLinter在多重成像中的应用医药新闻",
+          "link": "https://bydrug.pharmcube.com/news/detail/a2294ac40687aebfd0e650d292b64dc4",
+          "snippet": "这些方法对于揭示肿瘤微环境中的细胞异质性以及细胞间的复杂相互作用具有重要意义。 高度多重成像技术（例如MxIF、CyCIF、CODEX等）使得研究人员能够 ...",
+          "date": "17小时前",
+          "position": 69
+        },
+        {
+          "title": "本质上仍是资金业务定位为中短期流动性投放工具 - 21财经",
+          "link": "https://www.21jingji.com/article/20241031/herald/2d95d2128b9def1ff117dd1d98217b04.html",
+          "snippet": "公告显示，为维护银行体系流动性合理充裕，2024年10月人民银行以固定数量、利率招标、多重价位中标方式开展了5000亿元买断式逆回购操作，期限为6个月(182天) ...",
+          "date": "3天前",
+          "position": 70
+        },
+        {
+          "title": "多重视角下的社会性别观- 全部书评 - 豆瓣",
+          "link": "https://m.douban.com/book/subject/1391183/reviews",
+          "snippet": "话说觉得写得很水的论文拿了全班第二吓尿了。） 我眼中的性别“平等” “多维视野下的女性与性别研究”课程，11次课下来，听到最多的词当然是“女性”，而与之相随出现的词语往往 ...",
+          "position": 71
+        },
+        {
+          "title": "博士媽媽向前走－女性多重角色與進修博士的困境與進路",
+          "link": "https://www.airitilibrary.com/Article/Detail/15609251-201303-201306210027-201306210027-31-75",
+          "snippet": "六、七○年代新女性主義者認為女性仍因受限於傳統性別角色束縛，無法展現其自我肯定的一陎（Horner, 1969, 1972）。本文以進修博士學位的媽媽們如何在教職、母職、賢妻、 ...",
+          "position": 72
+        },
+        {
+          "title": "大学生性别观念差异及其多重影响因素 - 中国妇女报",
+          "link": "http://pcpaper.cnwomen.com.cn/content/2014-07/08/004591.html",
+          "snippet": "此前曾有研究认为，在男性中，大学以上文化程度者与性别文化进步不一定正相关，还可能存在一定的反向性关系。而本次调研显示，这种现象也同样存在于女性中，即 ...",
+          "date": "2014年7月8日",
+          "position": 73
+        },
+        {
+          "title": "身心障礙鑑定醫院 - 慈濟醫院",
+          "link": "http://app.tzuchi.com.tw/a_f/f_hl/atc/law/law-01.htm",
+          "snippet": "... 性代謝異常、其他先天性缺陷、慢性精神病、平衡障、頑性癲癇、罕見疾病、多重障. 財團法人基督教門諾會醫院. TEL：03-824-1406. 花蓮市民權路44號. 可鑑定類別：視障、聽障 ...",
+          "position": 74
+        },
+        {
+          "title": "多重线性回归分析(Multiple Linear Regression Analysis) - 梦特医数通",
+          "link": "https://mengte.online/archives/2012",
+          "snippet": "2. 条件3判断(各观测值之间的独立性). (1) SAS实现. 由于本案例中性别(Gender)和经济水平(Income)为分类变量，需要为其设置哑变量，以女性和低收入为 ...",
+          "date": "2022年1月1日",
+          "position": 75
+        },
+        {
+          "title": "央行新增买断式逆回购增强流动性调节能力 - 证券之星",
+          "link": "https://wap.stockstar.com/detail/SS2024102900008939",
+          "snippet": "操作对象为公开市场业务一级交易商，原则上每月开展一次操作，期限不超过1年。买断式逆回购采用固定数量、利率招标、多重价位中标，回购标的包括国债、地方 ...",
+          "date": "6天前",
+          "position": 76
+        },
+        {
+          "title": "5000亿元！央行新工具落地，对市场有何影响？最新解读 - 上观新闻",
+          "link": "https://www.jfdaily.com/news/detail?id=813517",
+          "snippet": "... 性的影响。 多重价位中标，突显流动性投放工具的定位。央行公告称，买断式逆回购采用固定数量、利率招标、多重价位中标。根据这一机制，参与机构在 ...",
+          "date": "3天前",
+          "position": 77
+        },
+        {
+          "title": "盘前重磅，央行推出新工具！ - 证券时报",
+          "link": "https://stcn.com/article/detail/1373494.html",
+          "snippet": "从工具定位看，买断式逆回购采用利率招标、多重价位中标，工具定位为流动性投放工具。此次推出的买断式逆回购采用固定数量、利率招标、多重价位中标 ...",
+          "date": "7天前",
+          "position": 78
+        },
+        {
+          "title": "与许纪霖、刘擎等商榷③丨多重身份与歧视的交叉性 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_8462085",
+          "snippet": "从根本上说，“交叉性”概念提供了这样一种洞见：对任何特定身份的歧视从来并不只有单一的模式，相反总是会在具体的社会情境中，依附于各种中介因素（包括与被 ...",
+          "date": "2020年7月30日",
+          "position": 79
+        },
+        {
+          "title": "央行再“上新” 货币政策“工具箱”渐丰富 - 新华网",
+          "link": "http://www.news.cn/money/20241029/bfc48d5c7b444788a8ff80197e38cc2f/c.html",
+          "snippet": "... 性投放工具， ... 记者从接近央行人士处获悉，与MLF采用单一价位中标不同，此次推出的买断式逆回购采用固定数量、利率招标、多重 ...",
+          "date": "6天前",
+          "position": 80
+        },
+        {
+          "title": "将女性“多重高潮”翻译为“说不完的八卦”，《老友记》内地删改问题被 ...",
+          "link": "https://chinadigitaltimes.net/chinese/676856.html",
+          "snippet": "许多网友嘲笑这是“对我们英语能力的侮辱”。一位微博用户说：“它不仅忽视了女性的性欲和性享受，还强化了女性的性别刻板印象。” 这条评论获得了超过81000 个赞。",
+          "position": 81
+        },
+        {
+          "title": "央行：10月开展了5000亿元买断式逆回购操作 - 东方财富",
+          "link": "https://wap.eastmoney.com/a/202410313224908744.html",
+          "snippet": "央行：10月开展了5000亿元买断式逆回购操作】为维护银行体系流动性合理充裕，2024年10月人民银行以固定数量、利率招标、多重价位中标方式开展了5000亿元 ...",
+          "date": "3天前",
+          "position": 82
+        },
+        {
+          "title": "央行10月开展5000亿元买断式逆回购操作，专家：可盘活大量债券资产",
+          "link": "https://news.qq.com/rain/a/20241031A08BZ000",
+          "snippet": "具体来看，为维护银行体系流动性合理充裕，2024年10月人民银行以固定数量、利率招标、多重价位中标方式开展了5000亿元买断式逆回购操作，期限为6个月 ...",
+          "date": "4天前",
+          "position": 83
+        },
+        {
+          "title": "上汽通用汽车推多重钜惠回馈消费者信赖与支持",
+          "link": "https://wallstreetcn.com/articles/3732762",
+          "snippet": "... 性补贴1.5万元或1.2万元，均不限沪牌。为回馈广大新老客户长期以来的支持与厚爱，上汽通用汽车携旗下凯迪拉克、别克和雪佛兰三大品牌超50家上海本地 ...",
+          "date": "17小时前",
+          "position": 84
+        },
+        {
+          "title": "疯狂对谈：妈的多重宇宙，还是妈的多重悖论？ | 端传媒Initium Media",
+          "link": "https://theinitium.com/zh-hans/opinion/20220608-opinion-talk-everything-everywhere-allatonce",
+          "snippet": "... 性的评论者之一。她不掩饰对电影中热狗手指女同性恋宇宙和女版Joker的喜欢，认为电影最纠结、也最值得一再重申的性别问题是异性恋生理女性和性小众 ...",
+          "date": "2022年6月8日",
+          "position": 85
+        },
+        {
+          "title": "為什麼想嘗試多重伴侶關係？心理師分析6原因：「這點」想被滿足",
+          "link": "https://www.uho.com.tw/article-60785.html",
+          "snippet": "多重伴侶關係（CNM）是一個現代的綜合性專有名詞，指雙方在道德上同意開放與他人的性關係，在某些情況下，也包含認真的戀愛關係。心理治療師潔西卡．",
+          "date": "2023年6月9日",
+          "position": 86
+        },
+        {
+          "title": "看見台灣跨性別者之「多重困境」",
+          "link": "https://bongchhi.frontier.org.tw/archives/46455",
+          "snippet": "看見台灣跨性別者之「多重困境」 · 一、 學校廁所使用與住宿困境 · 二、 職場歧視，騷擾、解雇 · 三、 就醫、辦手機等需出示身分證件時的尷尬 · 四、 遭受 ...",
+          "date": "2019年12月30日",
+          "position": 87
+        },
+        {
+          "title": "【多重存取管制與防護措施，確保雲端資料儲存的安全】公有雲物件 ...",
+          "link": "https://www.ithome.com.tw/tech/147674",
+          "snippet": "為了防止資料遭到非授權存取、洩漏或惡意竄改，公有雲物件儲存服務提供3種基本的安全性機制，分別是：存取管制、加密，以及一寫多讀（WORM）",
+          "date": "2021年11月9日",
+          "position": 88
+        },
+        {
+          "title": "央行再放大招，“买断式逆回购”将带来什么？ - 中国网",
+          "link": "http://www.china.com.cn/opinion2020/2024-11/03/content_117521899.shtml",
+          "snippet": "... 性合理充裕。与MLF的单一价位中标不同，多重价位中标是买断式逆回购工具的特点之一。多重价位中标有利于真实、全面地反映市场需求及利率定价情况 ...",
+          "date": "1天前",
+          "position": 89
+        },
+        {
+          "title": "作為賦生式誤配的多重定向力： 非對人性戀之對「二次元」性特質的 ...",
+          "link": "https://vocus.cc/article/63e50cb5fd89780001297a30",
+          "snippet": "V. 作為「字面化幻想」的對人性戀中心主義 ... 巴特勒認為，在異性戀主體化過程中的雙重排除作用，既否定了同性戀的可能性，同時導致對同性戀之失落本身的忘卻 ...",
+          "date": "2023年2月9日",
+          "position": 90
+        },
+        {
+          "title": "21世紀的地方社會：多重地方認同下的社群性與社會想像 - 博客來",
+          "link": "https://www.books.com.tw/products/0010731587?srsltid=AfmBOoppxyJXzA4RPISVgScSKoB1JnDcuQf8a2_ElVBbRKrLIUr-VfaA",
+          "snippet": "書名：21世紀的地方社會：多重地方認同下的社群性與社會想像，語言：繁體中文，ISBN：9789869280372，頁數：304，出版社：群學，作者：黃應貴,陳文德,李威宜,呂玫鍰,莊雅仲,張正衡， ...",
+          "currency": "$",
+          "price": 276,
+          "position": 91
+        },
+        {
+          "title": "漏洞发现结果| Security Command Center - Google Cloud",
+          "link": "https://cloud.google.com/security-command-center/docs/concepts-vulnerabilities-findings?hl=zh-cn",
+          "snippet": "如需详细了解如何管理合规性，请参阅评估和报告安全性合规性标准。 Google ... 多重身份验证(MFA) 是一种最佳实践，可在用户名和密码之外再增加一层保护。借助 ...",
+          "position": 92
+        },
+        {
+          "title": "什么是多重性",
+          "link": "https://blog.visual-paradigm.com/cn/what-is-multiplicity/",
+          "snippet": "Multiplicity in class diagram should be indicated at each end of the association. This specifies the minimum and maximum number of instances ...",
+          "date": "2022年2月9日",
+          "position": 93
+        },
+        {
+          "title": "多囊性卵巢症候群(PCOS) | 衛教資訊| 便民服務 - 衛生福利部豐原醫院",
+          "link": "https://www.fyh.mohw.gov.tw/?aid=509&page_name=detail&iid=1170&pid=48",
+          "snippet": "多囊性卵巢症候群相關併發症一、代謝方面:(一)糖尿病：約50-70%多囊性卵巢症候群女性有血糖增高與胰島素敏感度降低的問題，比一般人罹患糖尿病的機率高5-6倍 ...",
+          "date": "2023年8月22日",
+          "position": 94
+        },
+        {
+          "title": "[PDF] 認識多元性別",
+          "link": "https://www.tlhc.ylc.edu.tw/resource/openfid.php?id=1059",
+          "snippet": "社會. 的歧視壓力，讓同志身分不被認可，同志的愛情也往往被迫隱形。缺乏社會支持、缺乏長期. 而穩定的伴侶典範、常見的多重性、以及傳統男性角色的陽剛特質，使男同志 ...",
+          "position": 95
+        },
+        {
+          "title": "一起来学UML（4）——类图中的多重性（Multiplicity） 转载",
+          "link": "https://blog.csdn.net/viggirl/article/details/8587721",
+          "snippet": "一起来学UML（4）——类图中的多重性（Multiplicity） 转载 ... 在类图中，关系连线的两端有时会有1、*等符号，通过下图来做一个说明。 在图中：. 1. 一个Car有一个 ...",
+          "date": "2013年2月18日",
+          "position": 96
+        },
+        {
+          "title": "南非一妻多夫合法化：多伴侣能助女性对抗父权制吗？ - BBC",
+          "link": "https://www.bbc.com/zhongwen/simp/world-58583700",
+          "snippet": "南非拥有世界上最自由化的宪法之一，欣然接受所有性别的同性婚姻和男性的一夫多妻制。 ... 穆沃姆比奉行公开的多重伴侣关系已经超过10年，在这个群体 ...",
+          "date": "2021年9月16日",
+          "position": 97
+        },
+        {
+          "title": "CEO照過來！多重弱勢加深職場5大傷害– CSRone 永續智庫",
+          "link": "https://csrone.com/topics/6443",
+          "snippet": "多重弱勢加深職場5大傷害. 多重弱勢身分交織理論 intersectionality theory 多元性 包容性 性別平等 種族主義 人資管理. 【重點摘要】美國稍早「黑人的 ...",
+          "date": "2020年10月5日",
+          "position": 98
+        },
+        {
+          "title": "欢迎访问《中国感染控制杂志》编辑部",
+          "link": "http://zggrkzzz.ijournals.cn/",
+          "snippet": "患儿性别，入院时是否有黄疸，是否早产、剖宫产，是否伴有感染等因素与不良反应的 ... 结论医疗环境物体表面及医护人员手携带的CNS存在多重耐药性，应引起临床警惕。",
+          "position": 99
+        },
+        {
+          "title": "[多元性別認同旗幟] 多重伴侶關係旗 - 風城部屋",
+          "link": "https://www.gisneyland.org/column/column/detail/?id=21",
+          "snippet": "Polyamory(多重伴侶關係)的名詞由字根Poly(代表多重)和Amour(代表愛)所組成，. 因此Polyamory擁有多重感情的意思。 代表的旗幟是頂部為藍色，. 中間是紅色，.",
+          "date": "2021年9月22日",
+          "position": 100
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "多重性别",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 3,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "线性模型——异方差、序列相关、多重共线性与内生性的处理 - 博客园",
+          "link": "https://www.cnblogs.com/pingzeng/p/5073159.html",
+          "snippet": "解释变量之间的多重共线; 解释变量为随机变量，存在内生性. 异方差性. 线性模型的基本假设中有var(u ...",
+          "date": "2015年12月24日",
+          "position": 1
+        },
+        {
+          "title": "iPad mini (第6 代) - 技术规格- 官方Apple 支持(中国)",
+          "link": "https://support.apple.com/zh-cn/111886",
+          "snippet": "在中国大陆仅可通过Safari 浏览器使用Apple Pay 网页支付，此功能要求使用兼容的iPhone 或iPad 机型，并安装iOS 11.2 或更新系统。 数据准确性截至产品发布时。 ENERGY STAR ...",
+          "position": 2
+        },
+        {
+          "title": "不只勃起！讓男人多重高潮的五個秘訣 - LOVE MYSELF 為i篩檢",
+          "link": "https://www.lovemyself.org.tw/article/cont?aid=37",
+          "snippet": "臉紅小編說：. 高潮，是男人追求女人也渴望的極致性歡愉，過去探討過很多關於女性高潮的文章，除了陰蒂、陰道高潮外，還有貓男貓女們不可不知的神秘 ...",
+          "date": "2020年9月2日",
+          "position": 3
+        },
+        {
+          "title": "構造化仮説群の多重性制御法1（Gatekeeping法） Multiple Testing ...",
+          "link": "https://www.jstage.jst.go.jp/article/jjb/36/Special_Issue_2/36_S147/_pdf",
+          "snippet": "などの組み合わせが多重性の原因となる臨床試験で利用される．その後，柔軟な仮説構造（順序性）. に対応できる gatekeeping procedure として tree-structured gatekeeping ...",
+          "position": 4
+        },
+        {
+          "title": "《计算机系统应用》编辑部",
+          "link": "https://www.c-s-a.org.cn/",
+          "snippet": "在多个公开可用的基准数据集上进行的大量实验证明了所提出方法的有效性和优越性. ... 基于多重互信息约束的高表现力语音转换. 王光，刘宗泽，姜彦吉，董浩. 2024,33(9): ...",
+          "position": 5
+        },
+        {
+          "title": "多重人格障害 - 解離性同一症 - MSD Manuals",
+          "link": "https://www.msdmanuals.com/ja-jp/home/10-%E5%BF%83%E3%81%AE%E5%81%A5%E5%BA%B7%E5%95%8F%E9%A1%8C/%E8%A7%A3%E9%9B%A2%E7%97%87/%E8%A7%A3%E9%9B%A2%E6%80%A7%E5%90%8C%E4%B8%80%E7%97%87",
+          "snippet": "（多重人格障害） · 小児期に極度のストレスを受けると、自己の経験をまとまりのある1つの自己同一性（人格）に統合できなくなることがあります。 · 患者には複数の人格があり ...",
+          "position": 6
+        },
+        {
+          "title": "楊凱丞／腦補歪讀《媽的多重宇宙》：一部字字血淚的性別戰爭史",
+          "link": "https://opinion.udn.com/opinion/story/10124/6304222",
+          "snippet": "這為整部電影建立了一場性別意識戰爭的基調，故事要說的，是秀蓮作為一個多重宇宙中「最爛版本」、「最一無是處版本」，沒有立場、沒有主體性的自己，這位中年 ...",
+          "date": "2022年5月11日",
+          "position": 7
+        },
+        {
+          "title": "联大会议中国忙什么--力推乌战中国和平方案，为“一中原则”辩护",
+          "link": "https://www.voachinese.com/a/un-china-20240928/7803168.html",
+          "snippet": "... 多重地缘危机之际， ... 性辩论会上发表演讲。 图片来源：联合国. 分享. 评论(32). 打印.",
+          "date": "2024年9月29日",
+          "position": 8
+        },
+        {
+          "title": "犯罪有理？    LGBT 恐慌辯護與蕩婦羞辱，本就不該是減刑理由 - 換日線",
+          "link": "https://crossing.cw.com.tw/article/14905",
+          "snippet": "... 多重性伴侶者），都貶為在性自主議題上不值得受保護的客體；特別當這些 ... 專長為刑事案件代理及辯護、 性別平等暨LGBT 多元性別權益維護、企業 ...",
+          "date": "2021年6月9日",
+          "position": 9
+        },
+        {
+          "title": "我有兩個情人，兩個我都愛：多重伴侶關係可能存在嗎？ - 女人迷",
+          "link": "https://womany.net/read/article/20708",
+          "snippet": "或許我們可以這麼說，我們的世界終於從原本認為婚姻只能限定在「男女」兩性之間，逐漸打破了既定的框架，擴延到了更多元的性別、性傾向。然而，似乎我們對於 ...",
+          "date": "2019年8月16日",
+          "position": 10
+        },
+        {
+          "title": "繼《媽的多重宇宙》搖出父權綑綁之後，你不可不知的3 部「當代女性 ...",
+          "link": "https://crossing.cw.com.tw/article/16424",
+          "snippet": "當今21 世紀，女性意識乍似抬頭，但性別歧視、厭女情結依舊存在。銀幕上，我們絕對需要有更多元的女性角色及故事，而非僅是過於理想化的女英雄、男性凝視創造 ...",
+          "date": "2022年7月1日",
+          "position": 11
+        },
+        {
+          "title": "電影《迷失安狄》中性別、階級、身障的多重交織| 500輯",
+          "link": "https://500times.udn.com/wtimes/story/12672/5205330",
+          "snippet": "2021年1月8日上映的電影《迷失安狄Miss Andy》是一部從跨性別者切角出發，描述馬來西亞社會底層困境的作品，曾獲選大阪亞洲電影節、紐約電影節、德國五 ...",
+          "date": "2021年1月26日",
+          "position": 12
+        },
+        {
+          "title": "愛情也能分享？歡迎來到「多重伴侶、多邊戀」的時代 - Vogue Taiwan",
+          "link": "https://www.vogue.com.tw/entertainment/article/polyamory",
+          "snippet": "據估計，有23% 的受訪者表示他們的關係已經是非一夫一妻制，這與2017 年曾發表在《性與婚姻治療雜誌》（Journal of Sex & Marital Therapy）上的一項突破性 ...",
+          "date": "2022年4月11日",
+          "position": 13
+        },
+        {
+          "title": "解離性障害―多重人格の理解と治療 | 岡野 憲一郎 |本 | 通販 | Amazon",
+          "link": "https://www.amazon.co.jp/%E8%A7%A3%E9%9B%A2%E6%80%A7%E9%9A%9C%E5%AE%B3%E2%80%95%E5%A4%9A%E9%87%8D%E4%BA%BA%E6%A0%BC%E3%81%AE%E7%90%86%E8%A7%A3%E3%81%A8%E6%B2%BB%E7%99%82-%E5%B2%A1%E9%87%8E-%E6%86%B2%E4%B8%80%E9%83%8E/dp/4753307069",
+          "snippet": "Amazonで岡野 憲一郎の解離性障害―多重人格の理解と治療。アマゾンならポイント還元本が多数。岡野 憲一郎作品ほか、お急ぎ便対象商品は当日お届けも可能。",
+          "rating": 3.6,
+          "ratingCount": 13,
+          "currency": "¥",
+          "price": 3850,
+          "position": 14
+        },
+        {
+          "title": "21 个LGBTQ 旗帜及其含义– 了解它们代表什么 - Bonobology.com",
+          "link": "https://www.bonobology.com/zh-CN/LGBTQ-%E6%A0%87%E5%BF%97%E5%8F%8A%E5%85%B6%E5%90%AB%E4%B9%89/",
+          "snippet": "黄色代表性别不属于男性和女性二元性别的人，白色代表具有多重性别身份的人，黑色代表无性别者，紫色代表混合性别。正如您所看到的，骄傲旗帜颜色的含义可以像LGBTQIA+ 保护伞 ...",
+          "position": 15
+        },
+        {
+          "title": "跳脫二元框架認識性別認同，尊重他人的自我價值| 女子學",
+          "link": "https://today.line.me/tw/v2/article/LXGrq9z",
+          "snippet": "接納性別的多重樣貌：跳脫二元框架認識性別認同，尊重他人的自我價值. 女子學. 更新於2022年05月10日20:03 • 發布於2022年05月10日02:05. 已追蹤 追蹤.",
+          "position": 16
+        },
+        {
+          "title": "年龄、性别和多样性(AGD) | UNHCR",
+          "link": "https://emergency.unhcr.org/zh-hans/%E4%BF%9D%E6%8A%A4/%E4%BF%9D%E6%8A%A4%E5%8E%9F%E5%88%99/%E5%B9%B4%E9%BE%84%E3%80%81%E6%80%A7%E5%88%AB%E5%92%8C%E5%A4%9A%E6%A0%B7%E6%80%A7agd",
+          "snippet": "年龄、性别和多样性(AGD) · 在整个方案周期内利用评估和与被迫流离失所者和无国籍者协商过程所收集的信息 · 与不同AGD群体的个人和群体、被迫流离失所者和无 ...",
+          "date": "2024年1月29日",
+          "position": 17
+        },
+        {
+          "title": "多元性别- China Digital Space",
+          "link": "https://chinadigitaltimes.net/space/%E5%A4%9A%E5%85%83%E6%80%A7%E5%88%AB",
+          "snippet": "多元性别，或称为性别多元化，是一个包容性的概念，用于代表人类的社会性别特征、性取向和性别认同的所有多元性。 大多数时候，我们使用简单的分类来描述性取向（异性恋， ...",
+          "position": 18
+        },
+        {
+          "title": "放弃性别二元论：为基于性别的暴力绘制人道干预新途径",
+          "link": "http://international-review.icrc.org/zh-hans/articles/letting-go-gender-binary-charting-new-pathways-humanitarian-interventions-gender-based",
+          "snippet": "一些人日益认识到妇女和女童并非性暴力的唯一受害者，性暴力也并非基于性别的暴力的唯一形式。但这一认识尚未在人道界的政策和实践中得到充分反映。",
+          "date": "2015年9月9日",
+          "position": 19
+        },
+        {
+          "title": "性別多樣化的認識與尊重 - 教育部家庭教育資源網",
+          "link": "https://familyedu.moe.gov.tw/reDocDetail.aspx?uid=8912&pid=8905&rt=4&docid=295032",
+          "snippet": "近年來，與性別多樣化相關的議題，大致分為下列四類：（一）因出生時的生理性別而產生的差別待遇，也就是男女平等運動興起的原因；（二）因女生陽剛或男生陰柔等 ...",
+          "date": "2023年1月4日",
+          "position": 20
+        },
+        {
+          "title": "关于性的多样性 - 静冈市",
+          "link": "https://www.city.shizuoka.lg.jp.c.qv.hp.transer.com/003_000001_00047.html",
+          "snippet": "即使出生时分配的性别有违和感,户籍的性别变更和医疗是否需要因人而异。 （3）性取向(喜欢的性) 喜欢的感情适合哪个性别叫做性取向。喜欢同性的情况(女同性恋和 ...",
+          "position": 21
+        },
+        {
+          "title": "多元性別  性別不是只有分男生、女生 - 健康九九",
+          "link": "https://health99.hpa.gov.tw/article/18959",
+          "snippet": "揮別非男即女的性別選項 近年來，你是否發現在不少需要填寫個人資料的場合（如：問卷調查、商品會員服務等），「性別」的欄位已不再像過往僅有男性或女性的 ...",
+          "date": "2022年4月25日",
+          "position": 22
+        },
+        {
+          "title": "[PDF] 性別多樣化的認識與尊重 - 教育部",
+          "link": "https://ks.familyedu.moe.gov.tw/fileRename.aspx?uid=3186&fid=37063&kid=2&site_id=1",
+          "snippet": "近年來，與性別多樣化. 相關的議題，大致分為下列四類：（一）因出生時的生理性別而產生的差別待遇，. 也就是男女平等運動興起的原因；（二）因女生陽剛或男生陰柔等性別氣質的不.",
+          "position": 23
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

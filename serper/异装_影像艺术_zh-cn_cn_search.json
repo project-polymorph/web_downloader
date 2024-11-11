@@ -1,0 +1,980 @@
+{
+  "query": "异装 影像艺术",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-04T00:43:08.371023",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "异装 影像艺术",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "伪装之下的美与狂野：这些照片重现了西方百年异装癖历史",
+          "link": "https://www.theartjournal.cn/archives/exhibitions/36495",
+          "snippet": "伦敦。近百张1880 年到1980 年代陈旧的异装者照片，绝⼤部分来自跳蚤市场、车库拍卖、旧货店和eBay 等渠道。这类在当时社会被视为禁忌的照⽚，拍摄地点横夸了美国和欧洲， ...",
+          "position": 1
+        },
+        {
+          "title": "异装艺术简史 - 搜狐",
+          "link": "https://www.sohu.com/a/146169839_819453",
+          "snippet": "异装艺术简史. 从古希腊悲剧开始，男人就开始假扮女人在舞台上进行表演。莎士比亚曾经男扮女装进行表演，在巴洛克的歌剧里，也有异装表演的例子。",
+          "date": "2017年6月6日",
+          "position": 2
+        },
+        {
+          "title": "卡斯特利是同性恋或者是异装癖？ - 北京文艺网",
+          "link": "https://www.artsbj.cn/meishu/87494.html",
+          "snippet": "... 艺术家是否是同性恋或者是异装癖？ 通过讲座，最终的答案肯定是否定的，因为艺术家的妻子就在现场，而之所以会有这样的作品，与艺术家的思想有很大的 ...",
+          "date": "2015年5月21日",
+          "position": 3
+        },
+        {
+          "title": "英国最早的异装癖肖像被发现- 书画艺术报 - 美术网",
+          "link": "https://shop.meishu.com/news/cangbaoge/2/2019-09-17/35468.html",
+          "snippet": "而现在，英国国家肖像美术馆已经购入了这件作品，这是该美术馆收藏的第一幅异装癖的肖像。 这是画家Thomas Stewart的作品，画面中的人物戴着羽毛装饰的华丽 ...",
+          "date": "2019年9月17日",
+          "position": 4
+        },
+        {
+          "title": "亚历克斯·基特尼克谈影像艺术难以捉摸的过去和不确定的未来",
+          "link": "https://www.artforum.com.cn/print/202305/14550",
+          "snippet": "影像艺术从物理层面理解其自身，换句话说，从其光线、像素、远距传输信号（实时或延迟）以及最终编码进我们的感官的具体结果上来理解。如果电影荧幕让观众变得无形，那么影像 ...",
+          "date": "2023年5月8日",
+          "sitelinks": [
+            {
+              "title": "假面：黄汉明的艺术",
+              "link": "https://www.artforum.com.cn/print/201205/4262"
+            },
+            {
+              "title": "中国艺术与女权主义– artforum.com.cn",
+              "link": "https://www.artforum.com.cn/slant/11496"
+            },
+            {
+              "title": "布鲁斯·瑙曼的艺术",
+              "link": "https://www.artforum.com.cn/print/201808/11672"
+            }
+          ],
+          "position": 5
+        },
+        {
+          "title": "[PDF] 诗意空间与变装肖像 - 北京大学人文学部",
+          "link": "https://fh.pku.edu.cn/docs/2021-04/20210412085355333406.pdf",
+          "snippet": "摘要透明玻璃和玻璃镜进入清宫后为宫廷装饰艺术带来了重要变化和审美方面的变革，而后者的引进更带来. 全新的室内空间设计理念。利用玻璃镜对光的反射和折射营造各种错视 ...",
+          "position": 6
+        },
+        {
+          "title": "[图集]南·戈丁：我将是你的镜子 - 艺术档案",
+          "link": "https://www.artda.cn/yingxiangdangan-c-10126.html",
+          "snippet": "14岁时离家出走，混迹于纽约地下，与同性恋者、异装癖者、变性人共同生活，从那时开始用相机记录下就是自己和朋友琐碎、亲密、毫无遮掩的生活情景。1986年，南 ...",
+          "date": "2016年5月31日",
+          "position": 7
+        },
+        {
+          "title": "[PDF] 影像艺术的多样化思考、实践与表达",
+          "link": "https://www.scfai.edu.cn/__local/A/F1/D8/9215D9F5634BBFE16518A63683A_9EC72007_77F8F1.pdf",
+          "snippet": "《当代美术家》（以下简称“当”）：. 中国的影像艺术创作从20世纪80年代末期. 开始，虽然晚于西方，但在当时契合了国内. 的社会文化环境，可以说是从中国当代艺. 术的土壤中自然 ...",
+          "position": 8
+        },
+        {
+          "title": "视觉行动主义——当代视觉文化中的一种新的视觉实践形态",
+          "link": "https://www.cafamuseum.org/exhibit/newsdetail/2584",
+          "snippet": "本文将结合波及全球的各种抵抗运动阐述这一现象的发生发展，并结合视觉文化考察其抵抗方式及效果、力量，将其视为一种基于改变的视觉文化研究、行动中的文本，认为这些实践 ...",
+          "position": 9
+        },
+        {
+          "title": "异装癖陶艺家当选英皇家艺术学院院士(图) - 收藏- 新浪",
+          "link": "http://collection.sina.com.cn/cqty/20110409/100422671.shtml",
+          "snippet": "因为佩里的陶瓷作品充斥了性、暴力、犯罪、虐童等骇人的主题；更加关键的是，这位陶艺家是个远近闻名的异装癖，每个星期总有那么几天要打扮得像个小萝莉一样 ...",
+          "date": "2011年4月9日",
+          "position": 10
+        },
+        {
+          "title": "异性装扮- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E7%95%B0%E6%80%A7%E8%A3%9D%E6%89%AE",
+          "snippet": "异性装扮（英语：Cross-dressing，缩写：CD），简称：异装，是指任何人为任何理由、动机穿着异性的服装，有时也会搭配化妆。成语“易弁而钗”就是男扮女装的意思。",
+          "position": 11
+        },
+        {
+          "title": "Pauline Boudry与Renate Lorenz谈创作和表演 - Art-Ba-Ba",
+          "link": "http://www.art-ba-ba.com/main/view.art?threadId=81673&forumId=8",
+          "snippet": "Pauline Boudry和 Renate Lorenz,是柏林的一对艺术家，他们在影像 ... 它对异装有一种不同的理解，认为异装行为不仅仅是亚文化表演的一种演绎 ...",
+          "date": "2014年10月15日",
+          "position": 12
+        },
+        {
+          "title": "安迪·沃霍尔的影像世界 - 艺术档案",
+          "link": "https://www.artda.cn/yingxiangdangan-c-3308.html",
+          "snippet": "变妆的沃霍尔. 遭遇了1968年枪击事件后的安迪时刻紧张，异装躲进了他的摄影师Christopher的镜头，效仿着他描摹过的梦露等女星的模样。 中国味道儿的沃 ...",
+          "date": "2010年4月10日",
+          "position": 13
+        },
+        {
+          "title": "【绝对艺术】从编织雕塑到行为表演奥利弗·赫林的“四十七天” - 搜狐",
+          "link": "https://www.sohu.com/a/151108402_306436",
+          "snippet": "他几乎打破大众对艺术的概念，绘画、雕塑、影像 ... 这些带有自我审视意味的雕塑探讨了记忆和生命的消逝，是赫林向已逝的异装表演者Ethyl Eichelberger致敬的 ...",
+          "date": "2017年6月22日",
+          "position": 14
+        },
+        {
+          "title": "傻瓜相机记录下的变装皇后历史 - 纽约时报",
+          "link": "https://cn.nytimes.com/culture/20150813/t13lindasimpson/",
+          "snippet": "影像中的纽约变装皇后历史. 1987年至1996年，辛普森拍了大约5000张变装 ... “在我作为变装皇后的成长过程中，变装从一种地下艺术形式演变成一种流行文化现象。",
+          "date": "2015年8月13日",
+          "position": 15
+        },
+        {
+          "title": "图像的影子——当代绘画的媒介、体制与空间| UCCA尤伦斯当代艺术 ...",
+          "link": "https://ucca.org.cn/lab/shadows-of-image/",
+          "snippet": "2023.2.17 - 2023.3.19. 关于展出作品视频资料展览 ... 苏杭的绘画以自我的肉身经验为创作起点，探索个人化的情感表达与感知线索，尝试将自身的异质化实践线索来回应艺术 ...",
+          "position": 16
+        },
+        {
+          "title": "回顾| 特纳奖中的10位影像艺术家及作品 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_9509086",
+          "snippet": "原创光圈×晟怡Aperturist光圈收录于话题#艺术17#光圈17. '24 Hour Psycho' 展览现场. 1996年，道格拉斯·戈登成为了第一位获得特纳奖的影像艺术家；2018 ...",
+          "date": "2020年10月12日",
+          "position": 17
+        },
+        {
+          "title": "酷儿影像与同志社群及身份建构第一届中国酷儿独立影像巡回展观后 ...",
+          "link": "https://www.chinaindiefilm.org/%E9%85%B7%E5%84%BF%E5%BD%B1%E5%83%8F%E4%B8%8E%E5%90%8C%E5%BF%97%E7%A4%BE%E7%BE%A4%E5%8F%8A%E8%BA%AB%E4%BB%BD%E5%BB%BA%E6%9E%84-%E7%AC%AC%E4%B8%80%E5%B1%8A%E4%B8%AD%E5%9B%BD%E9%85%B7%E5%84%BF%E7%8B%AC/?lang=zh-hans",
+          "snippet": "同性恋有时是反酷儿的，酷儿有时也是反同性恋的。酷儿理论中所谈的酷儿包括所有的性少数者，所有受异性恋霸权压迫的人群，如双性恋、跨性别（包括异装和变性）、一夜情（419）、多 ...",
+          "position": 18
+        },
+        {
+          "title": "妮妃雅如何重新定义源于西方的变装文化｜端闻Podcast",
+          "link": "https://theinitium.com/zh-hans/audio/20240529-initium-audio-taiwan-nymphia-wind-wins-rupauls-drag-race",
+          "snippet": "2024年5月25日，台北，妮妃雅在第二届台北国际变装艺术节上表演。摄：Ann Wang/Reuters/达志影像. 端传媒台湾组记者章凯闳，端传媒音频制作人陈莉雅. 刊登于2024-05-28. 端 ...",
+          "position": 19
+        },
+        {
+          "title": "台湾反串艺人与变装皇后以表演“活出自己的样子” - BBC News 中文",
+          "link": "https://www.bbc.com/zhongwen/simp/chinese-news-69166017",
+          "snippet": "前反串艺人程美凤与变装皇后糖果妈妈和BBC 中文分享他们的演出经历。 影片製作：张友慈. 相关主题内容. 台湾 · 艺术 · LGBT. 更多相关内容. 今年1月，31岁的 ...",
+          "date": "2024年7月8日",
+          "position": 20
+        },
+        {
+          "title": "艺术史逻辑、全球化语境与卡通一代的实践(盛葳) - 广东美术馆",
+          "link": "https://www.gdmoa.org/exhibition/exhibitions/2007/xgwd_2007/200709/t20070914_6650.shtml",
+          "snippet": "... 艺术的受益者；另一方面，未能与利希滕斯坦等1960年代的美国波普艺术家拉开差距。美少女、变形金刚、麦当劳、电子游戏、同性恋、异装癖是西方波普艺术 ...",
+          "date": "2007年9月14日",
+          "position": 21
+        },
+        {
+          "title": "是艺术品，还是垃圾？ - 广州市实验外语学校",
+          "link": "https://www.gwdwx.com/info/infoshow.aspx?m=139001&i=100000671113525",
+          "snippet": "... 影像艺术。影像艺术家马克雷（Marclay）制作了一个聪明、杰出的作品叫《钟表》，它是影像艺术的名作，我建议你们去看看，他有沙发，这可能是他获得 ...",
+          "date": "2014年1月2日",
+          "position": 22
+        },
+        {
+          "title": "日本手工书工坊——缀叶装 - 崇真艺客",
+          "link": "https://www.trueart.com/news/382202.html",
+          "snippet": "缀叶装作为和装本的一种，常和黏叶装、列帖装、大和订、结缀、四目订等混淆，“同名异 ... 【专家见面会】让你的影像艺术作品被看见｜三影堂摄影奖. 余德耀美术 ...",
+          "date": "2020年8月27日",
+          "position": 23
+        },
+        {
+          "title": "[PDF] 关键词：酷儿影像",
+          "link": "https://www.chinaindiefilm.org/wp-content/uploads/2022/09/%E5%85%B3%E9%94%AE%E8%AF%8D-%E9%85%B7%E5%84%BF%E5%BD%B1%E5%83%8F.pdf",
+          "snippet": "... 艺术/ 地下的表现这一早期想象复杂化。 酷儿虚构类影像: 第六代，数字 ... 这种对反串表演者和扮演女性的关注，不仅反映了中国酷儿社群内外无处不在的异装表演现象，还.",
+          "position": 24
+        },
+        {
+          "title": "沃霍异装相及其崇拜女星亮相_展览信息 - 收藏- 新浪",
+          "link": "http://collection.sina.com.cn/zlxx/20110629/151130615.shtml",
+          "snippet": "中国书画 当代艺术 油画雕塑 瓷器陶艺 文玩杂项 古籍善本 铜器佛像 · 钱币天地 中外邮票 翡翠玉石 家具红木 影像艺术 奢侈私享 其他藏品 · 新浪收藏 ...",
+          "date": "2011年6月29日",
+          "position": 25
+        },
+        {
+          "title": "异装的歌声 - 三联生活周刊",
+          "link": "http://ny.slzhongdu.com/h5/article/detail.do?artId=214859",
+          "snippet": "当迈内克站在一九四六年的战争废墟之上，回望大半个世纪的德国历史时，不禁感慨，充满艺术 ... 维斯康蒂正是要以影像为刀，来剖析他们的人格与内心。",
+          "date": "2023年11月9日",
+          "position": 26
+        },
+        {
+          "title": "国际艺术家电影系列放映2 - 金杜艺术中心",
+          "link": "http://kwmartcenter.com/zh/2019/04/18/kwm-artcenter-x-whitechapel-gallery-artists-film-international-screening-2/",
+          "snippet": "这两部电影的主角分别是“访客”(一位不确定性取向的神秘外来者)和伯纳黛特(一位异装癖表演者)，并且都由同一位演员特伦斯·斯坦普饰演。这些电影是艺术家 ...",
+          "date": "2019年4月18日",
+          "position": 27
+        },
+        {
+          "title": "反串表演－当艺术的超越性遇上性别政治[2] - 中国日报网",
+          "link": "http://cn.chinadaily.com.cn/2013-12/23/content_17356147_2.htm",
+          "snippet": "我相信现在的西方读者会取笑这种精致的传统艺术，认为这只不过是异装癖或者同性恋的伪装。但是事实可能复杂得多。 在金棕榈奖获奖影片《霸王别姬》中 ...",
+          "date": "2013年12月23日",
+          "position": 28
+        },
+        {
+          "title": "鲍德里亚对当代艺术的诊断与批判 - 参考网",
+          "link": "https://m.fx361.com/news/2014/0210/16844075.html",
+          "snippet": "易性症与异装癖：当代艺术的身份危机——鲍德里亚对当代艺术的诊断与批判 ... 影像和明星的豪华时代被缩减为一些人造的龙卷风效果、蹩脚的假建筑和 ...",
+          "date": "2014年2月10日",
+          "position": 29
+        },
+        {
+          "title": "600 多张免费的“异装癖”和“书”矢量图 - Pixabay",
+          "link": "https://pixabay.com/zh/vectors/search/%E5%BC%82%E8%A3%85%E7%99%96/",
+          "snippet": "640 异装癖的自由矢量图形. 免版税载体. 易装癖者, 变性人, 酷 ... 影片,. 相片 电影 相机 幻灯片电影 幻灯片 · 编辑图片 · 公告, 兔女郎装, 男人, 戏服, 人类, 人, 线条艺术.",
+          "position": 30
+        },
+        {
+          "title": "【快讯】“自拍Selfie”刘铮个展将于北京艺门画廊隆重开幕 - 雅昌艺术网",
+          "link": "https://amma.artron.net/observation_shownews.php?newid=628500",
+          "snippet": "自拍裸体的过程中，“文明人”内心的私密冲动通过影像显形。自拍者在这个过程中释放内心，流露自己丰富多元的欲望，即使它们不合常规。比如同性恋、异装、捆绑 ...",
+          "date": "2014年7月14日",
+          "position": 31
+        },
+        {
+          "title": "过去一年，这些宝藏展览、书籍和艺术家，你PICK到了吗？ - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_10695812",
+          "snippet": "对当时异装癖和性少数群体在社会中的生存方式以及面临的社会问题，这些 ... 影像的国际艺术博览会——影像上海艺术博览会。欲知更多详情，请访问 ...",
+          "date": "2021年1月12日",
+          "position": 32
+        },
+        {
+          "title": "梦想时间| UCCA尤伦斯当代艺术中心",
+          "link": "https://ucca.org.cn/exhibition/dream-time/",
+          "snippet": "以思辨小说的方式介入行为、写作与动态影像中，以扰乱对于欲望、身份认同与物化的规训过程。单慧乾以“变装”作为具目的性的艺术体现，质疑归因于科技和观看系统中生成的理想形 ...",
+          "position": 33
+        },
+        {
+          "title": "妮妃雅的风与疯：亚洲第一皇后诞生，鲁保罗变装秀的夺冠幕后 - 端傳媒",
+          "link": "https://theinitium.com/zh-hans/article/20240425-taiwan-nymphia-wind-wins-rupauls-drag-race",
+          "snippet": "... 艺术（pop art）。在台湾，他有另个称号叫“蕉佛”，粉丝则会自称“蕉徒 ... 摄：Ann Wang/Reuters/达志影像. 在鲁保罗第16季赛事中，Leo 除了翻玩 ...",
+          "date": "2024年4月24日",
+          "position": 34
+        },
+        {
+          "title": "融合科技与艺术，用镜头捕捉多样的生灵",
+          "link": "https://www.shkjb.com/content.html?id=231329",
+          "snippet": "自2022年以来，“运动触发” 野生动物影像监测项目已通过展览的形式先后在苏黎世、首尔、策尔内茨、班加罗尔等城市展出。 图片由瑞士科技文化中心提供. 今年， ...",
+          "date": "2023年12月21日",
+          "position": 35
+        },
+        {
+          "title": "839 异装癖图片、库存照片、3D 物体和矢量图 - Shutterstock",
+          "link": "https://www.shutterstock.com/zh/search/%E5%BC%82%E8%A3%85%E7%99%96",
+          "snippet": "839 张异装癖库存照片、矢量图和插图，可免版税下载。 查看异装癖库存视频影片. 筛选条件. 图片类型.",
+          "position": 36
+        },
+        {
+          "title": "蒙特利尔国际艺术电影节明天开幕！《金六刀》《变装皇后》等展映",
+          "link": "https://ici.radio-canada.ca/rci/zh-hans/%E6%96%B0%E9%97%BB/2057634/%E5%9B%BD%E9%99%85%E8%89%BA%E6%9C%AF%E7%94%B5%E5%BD%B1%E8%8A%82-%E9%87%91%E5%85%AD%E5%88%80-%E5%8F%98%E8%A3%85%E7%9A%87%E5%90%8E-",
+          "snippet": "FIFA是国际最大型的艺术电影节之一，今年，来自47 个国家的不少于164 部影片将在电影节上映，其中包括39 部世界首映影片和33 部加拿大首映影片。 喜欢艺术 ...",
+          "date": "2024年3月15日",
+          "position": 37
+        },
+        {
+          "title": "造影——青年艺术家装置影像展开幕 - 99艺术网",
+          "link": "http://www.99ys.com/home/2020/09/08/11/8753.html",
+          "snippet": "... 装置2019年250x110x100cm（可变）. 本次展览试图通过所选取的九位优秀青年艺术家的装置、影像、多媒体作品，对当下进行\"造影\"，并非旨在挑起现实/虚拟 ...",
+          "date": "2020年9月8日",
+          "position": 38
+        },
+        {
+          "title": "日本独立电影大师处女作公开，回归创作原点，重掀朋克热潮",
+          "link": "https://www.jpfbj.cn/sys/?p=1143",
+          "snippet": "出道以来，其尖锐的表现手法不仅在电影，在音乐录像、影像艺术、摄影等诸多媒介都得以施展。 ... 正弘和阳子因一点小事分手后，正弘试着做一个异装癖者，阳子则和一些乞丐混在 ...",
+          "position": 39
+        },
+        {
+          "title": "2021谢子龙影像艺术馆春节参观指南（开放时间+展出汇总+预约指南）",
+          "link": "http://cs.bendibao.com/jieri/2021210/69650.shtm",
+          "snippet": "2021年1月16日至2月28日，近70幅解海龙经典纪实摄影作品展将在长沙谢子龙影像艺术馆展出。 ... 2024长沙万圣节异装派对门票多少钱？ 2024-10-25 · 2024长沙 ...",
+          "date": "2021年2月10日",
+          "position": 40
+        },
+        {
+          "title": "二刷发现王世聪可能是个异装癖或性别认知为女- 缉魂 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/13148172/",
+          "snippet": "做手术的艺术品储藏室，里面有非常显眼的女性胸部的雕塑。还有摆在桌上的 ... 影片从知名富豪的遇害案讲起，负责此案的检察官梁文超（张震饰）与 ...",
+          "date": "2021年1月18日",
+          "position": 41
+        },
+        {
+          "title": "2010川美毕业展：提供更为宽泛的感知与观看视角 - 品博艺术网",
+          "link": "http://www.ccarting.com/review/exhibit/2010-06-22/1277237787d17626_1.html",
+          "snippet": "近几年，由于观念影像艺术在中国当代艺术领域的发展，在学院艺术 ... 影片中接连不断呈现的一个异装的少数民族男子，他的行为举止看似具有一定 ...",
+          "date": "2010年6月22日",
+          "position": 42
+        },
+        {
+          "title": "不要信- 多余的人 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/10214324?from=subject",
+          "snippet": "即在此吧。 特意查了下异装癖，他们大多结婚，在穿妻子的内衣时有性兴奋，主动。少数异装 ... 他们小偷小摸，占女人便宜，但他们自贵其生，热爱艺术，真正享有艺术， ...",
+          "date": "2019年5月31日",
+          "position": 43
+        },
+        {
+          "title": "ROPPONGI ART NIGHT 2024 - 六本木アートナイト",
+          "link": "https://www.roppongiartnight.com/2024/cn/",
+          "snippet": "他们从60年代的京剧电影和蔡明亮的电影作品中汲取灵感，通过性别转换变装成酷儿姐妹的形象，以舞蹈支持人类的性解放，创作了众多表演和影像作品。 □展示地点： ...",
+          "date": "2024年9月27日",
+          "position": 44
+        },
+        {
+          "title": "佳士得赞助北京当代艺术基金会“女性青年艺术家资助计划”获选结果公布",
+          "link": "https://bcaf.org.cn/29253800",
+          "snippet": "龙盼，来自江西宜春。 创作领域： 装置艺术、新媒体与影像艺术 2019年，毕业于 ... 虽然大部分是文字创作，但目前我正试图把我所做的一些文字作品变为影像作品。",
+          "position": 45
+        },
+        {
+          "title": "[PDF] 瑰丽的梦与真切的痛 - UGent",
+          "link": "https://backoffice.biblio.ugent.be/download/8589206/01H2ZEV3ZKW447QH63EEWZ6B3R",
+          "snippet": "关键词:女性艺术家； 当代艺术； 影像艺术； 实验电影； 录像艺术； 媒体艺术； 行为艺术 ... （AndyWarhol）等异装大师已经教了我们太多；至于“私人. 及身体”的题材，我想 ...",
+          "position": 46
+        },
+        {
+          "title": "自由影像——亲密关系- Red Brick Art Museum - 红砖美术馆",
+          "link": "http://www.redbrickartmuseum.org/exhibitions/%E8%87%AA%E7%94%B1%E5%BD%B1%E5%83%8F-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB/",
+          "snippet": "... 影像艺术的时空隧道，探索在沉浸式的空间中观众如何感知影像、装置作品构成的亲密关系。”红砖美术馆馆长闫士杰在新闻发布会上说到。 本次展览策展人奥迪尔·布尔吕 ...",
+          "position": 47
+        },
+        {
+          "title": "CAFA展评｜乌雷：穿透生命的皮囊 - 中央美术学院",
+          "link": "https://www.cafa.com.cn/mobile/cn/opinions/reviews/details/8331599",
+          "snippet": "... 艺术《静止能量》的影像在空间上形成了奇妙的呼应。这件大型铝制雕塑由左右两个弧形构成外轮廓，中间牵引出对抗的张力这恰恰和《静止能量》中二人身体 ...",
+          "date": "2022年9月22日",
+          "position": 48
+        },
+        {
+          "title": "松本俊夫_百度百科",
+          "link": "https://baike.baidu.com/item/%E6%9D%BE%E6%9C%AC%E4%BF%8A%E5%A4%AB/9525913",
+          "snippet": "... 影像艺术与科学”社团的社长。曾任日本大学艺术系教授， ... 1969年，松本俊夫拍摄电影《蔷薇的葬礼》，其中使用男同性恋异装者在镜头前演出自己 ...",
+          "position": 49
+        },
+        {
+          "title": "争议成瘾围观特纳奖二十年 - Art-Ba-Ba 中国当代艺术社区",
+          "link": "http://www.art-ba-ba.com/main/main.art?threadId=69343&forumId=8",
+          "snippet": "... 影像和装置是艺术，这无疑更加彰显了泰特现代美术馆所面临的挑战——在接 ... 异装癖陶艺家借花瓶斩获特纳奖”。 2004年，体现自伊拉克战争以来的 ...",
+          "date": "2012年4月16日",
+          "position": 50
+        },
+        {
+          "title": "陶辉：手机屏幕中的表演碎片- 美凯龙艺术中心Macalline Center of Art",
+          "link": "https://www.macallineart.org/zh/events/86/n-a",
+          "snippet": "陶辉1987 年出生于重庆云阳，毕业于四川美术学院油画系，现工作生活于北京。虽然毕业于油画系，但陶辉的作品以影像和装置艺术为主，他擅长从个人记忆、 视觉 ...",
+          "date": "2020年12月27日",
+          "position": 51
+        },
+        {
+          "title": "余华朱一龙艺术碰撞“没有答案” - 中青在线",
+          "link": "http://m.cyol.com/gb/articles/2023-10/25/content_mOm5KpsVLq.html",
+          "snippet": "... 影片原著小说作者余华点赞了 ... 相对于小说的讲述,电影《河边的错误》对一众配角都有不同程度的细化,最出彩的人物当数许亮,一位有“异装癖”的男性。",
+          "date": "2023年10月25日",
+          "position": 52
+        },
+        {
+          "title": "2022纤维艺术系本科生毕业作品展/ 纤维造型艺术工作室",
+          "link": "https://fiberartnow.caa.edu.cn/zt/byz/202209/55033.html",
+          "snippet": "在《Love is Love》这件作品中，设定一个情境:一个疲于应对外界社会的异装爱好者在结束一天工作后回到家释放真实的自己。选取给人温暖之感的柔性纤维材料，暗示主人公 ...",
+          "position": 53
+        },
+        {
+          "title": "[PDF] J3í`…z!+,;<¬v!®C¯Ÿ>°¶ìB± ²³ ”$aW\"aW\"\"\"z´µ2DaW!%3¶=!>$%Ÿ>",
+          "link": "https://www.tup.com.cn/upload/books/yz/052138-01.pdf",
+          "snippet": "装_性运动影像所采用的元素往往带有复古#怀旧和维多利亚风格\"其表现细. 腻\"灵活多 ... @=?)设计的图案就充分M示. 了这种将艺术与自然#装_与纹样有机结合在/起的贴力 ...",
+          "position": 54
+        },
+        {
+          "title": "“海后”艾梅柏的艺术献身之旅：六部高颜值大尺度电影推荐 - QQ News",
+          "link": "https://news.qq.com/rain/a/20240821A04VV400",
+          "snippet": "... 2018年上映的一部英国悬疑惊悚犯罪片,故事发在伦敦这座阴暗而混沌的都市之中。影片 ... 她的每一次变装，都仿佛是一场视觉盛宴，令人叹为观止。她既是美丽的 ...",
+          "date": "2024年8月21日",
+          "position": 55
+        },
+        {
+          "title": "刘令姿 - 微博",
+          "link": "https://m.weibo.cn/p/index?extparam=%E5%88%98%E4%BB%A4%E5%A7%BF&containerid=100808fa9fc1125050870725befd5eefe9c6f3&luicode=20000061&lfid=4529506817936071",
+          "snippet": "超话头像框变装征集开启，限时装扮速来&gt;&gt;. llz#刘令姿未来可期# 【刘令姿 ... 艺术》 《娱乐周刊》 《尼龙》 《iMUTE》 ➄【商务/代言/合作/推广】（节选 ...",
+          "position": 56
+        },
+        {
+          "title": "与时代共情，拉开体验多维未来的滑动门｜“曹斐：潮汐宙合”论坛回顾",
+          "link": "https://www.theartjournal.cn/archives/exhibitions/134677",
+          "snippet": "... 艺术家个展及首个影像与媒体艺术大展，也是全球最大规模的曹斐个展之一。在展览开幕当日，《艺术新闻》（The Art Journal）邀请艺术家 ... 阿明喜欢异装 ...",
+          "date": "2024年7月1日",
+          "position": 57
+        },
+        {
+          "title": "“有机”的有机的世界 - Yuki Onodera",
+          "link": "https://yukionodera.fr/zh/publications/gu-zheng-yuki-onoderas-artistic-experiments/",
+          "snippet": "一个独特的、无人可以取代的影像世界，一个用真实与虚构一起来建立的影像世界。 ... 在《易装》系列（2002-2006）中，奥诺黛拉把世界万物作为剪影人物身上服装的肌理 ...",
+          "position": 58
+        },
+        {
+          "title": "不可移动文物展示设计虚拟仿真实验",
+          "link": "https://www.ilab-x.com/details/page?id=11948&isView=true",
+          "snippet": "通过构建打虎亭汉墓的虚拟仿真实验过程，多角度、立体化阐释与展示了文物的文化、历史、艺术 ... 采集墓室二维影像资源，将分块拍摄的影像资料在Photoshop中拼合。使用 ...",
+          "position": 59
+        },
+        {
+          "title": "【雅昌专稿】王珺：如何阅读南•戈尔丁的“摄影日记”",
+          "link": "https://m-news.artron.net/20200724/n1082225.html",
+          "snippet": "戈尔丁把她拍的反转片用幻灯机在酒吧里放，和她的同性恋、异装癖、瘾君子的这些朋友们在一起看。 ... 影像艺术的生态，持续激活当代中国的影像艺术与文化。",
+          "date": "2020年7月24日",
+          "position": 60
+        },
+        {
+          "title": "纽约MoMA：数字化安迪·沃霍尔胶片电影 - 每日环球展览",
+          "link": "https://art.icity.ly/entries/l21ovsz",
+          "snippet": "... 影片以雀西旅馆为背景，带领观众窥视安迪·沃霍尔周围的艺文圈生活，主题涉及药物、死亡、性欲、同性恋、异装癖等边缘问题，成为60年代最具争议的地下电影之一。 安迪 ...",
+          "position": 61
+        },
+        {
+          "title": "邪典动画背后的亚文化：边缘艺术的出圈与失控 - 观察",
+          "link": "https://user.guancha.cn/main/content?id=348163",
+          "snippet": "到了1975年，真正意义上的第一部“邪典电影”——《洛基恐怖秀》诞生了，它结合科幻小说与恐怖影片的手法，囊括异装癖，乱伦，同性恋等元素，大胆的表现 ...",
+          "date": "2020年7月13日",
+          "position": 62
+        },
+        {
+          "title": "中国摄影师荣荣 - 三影堂+3画廊",
+          "link": "http://www.plus3gallery.com/en/product-21022-82446.html",
+          "snippet": "... 易装表演者马六明。 1994年，当荣荣在这里生活了一年之后，东村爆发出了集体 ... 2015 《做景观天:首届西安当代影像艺术文献展》,“中国当代摄影二十年主题展”板块 ...",
+          "position": 63
+        },
+        {
+          "title": "个人意见| 《新蝙蝠侠》：深渊中的异装者 - 界面新闻",
+          "link": "https://m.jiemian.com/article/7235499.html",
+          "snippet": "艺术 · 商业 · 科技 · 汽车 · 地产 · 证券 · 金融 · 消费 · 工业 · 交通 · 投资 · 营销 ... 影像风格来让蝙蝠侠和谜语人明暗交织中揭开罪恶地图，同时也让 ...",
+          "date": "2022年3月20日",
+          "position": 64
+        },
+        {
+          "title": "苏州经典艺术摄影工作室——JD|经典|摄影|经典影业——Powered By ...",
+          "link": "http://www.jdcdsy.com/",
+          "snippet": "空间艺术 苏州经典艺术摄影工作室提供千变万化的空间艺术造型服务，为您的精神 ... QQ：1298967529（请说明CD或变装爱好者) 联系人：葛小姐本站所有文章、图片及视频影像 ...",
+          "position": 65
+        },
+        {
+          "title": "王珺：如何阅读南戈尔丁的“摄影日记” - 360Doc",
+          "link": "http://www.360doc.com/content/23/0430/23/75026952_1078778320.shtml",
+          "snippet": "本组作品对当时异装癖和同性恋群体的日常生活和生存方式进行了真实展现 ... 影像艺术的生态，持续激活当代中国的影像艺术与文化。 来自：新用户 ...",
+          "date": "2023年4月30日",
+          "position": 66
+        },
+        {
+          "title": "麦当娜将拍新片最想扮演男同性恋异装癖(图)-搜狐新闻中心",
+          "link": "http://news.sohu.com/20050219/n224347848.shtml",
+          "snippet": "英国《太阳报》报道，麦姐最近与好莱坞签约，在影片中将扮演著名男同性恋异装癖CandyDarling。 ... CandyDarling是美国著名当代艺术大师安迪-沃荷的好 ...",
+          "date": "2005年2月19日",
+          "position": 67
+        },
+        {
+          "title": "俄罗斯艺术家Gena Marvin，撕开童年伤疤创造艺术",
+          "link": "https://www.145758.com/yishudiangu/2196.html",
+          "snippet": "这些如同噩梦般的变装造型让人恐惧的同时也让人感到兴奋，其实这些造型的 ... 在这里，您可以找到绘画艺术、影像图片、数字潮玩、数字藏品、数字 ...",
+          "date": "2024年1月2日",
+          "position": 68
+        },
+        {
+          "title": "探索时空的科学艺术之旅 - 上海科技报",
+          "link": "https://www.shkjb.com/content.html?id=233421",
+          "snippet": "展览追随光的轨迹，从极遥远的深空出发，直到回归地球表面，通过作品将艺术与科学融合在一起，让观众理解宇宙的起源是什么，大型天文装置 ... 影像“动态宇宙”提供 ...",
+          "date": "2024年5月16日",
+          "position": 69
+        },
+        {
+          "title": "[PDF] 金杜艺术中心x 伦敦白教堂美术馆国际艺术家电影(AFI)",
+          "link": "http://kwmartcenter.com/wp-content/uploads/2019/04/20190418-%E5%9B%BD%E9%99%85%E8%89%BA%E6%9C%AF%E5%AE%B6%E7%94%B5%E5%BD%B1%E7%B3%BB%E5%88%97%E6%94%BE%E6%98%A02-%E6%96%B0%E9%97%BB%E7%A8%BFCN.pdf",
+          "snippet": "“国际艺术家电影”关注国际重要影像作品，作品由包括金杜艺术 ... 这两部电影的主角分别是“访客”(一位不确定性取向的神秘外来者)和伯纳黛特. (一位异装 ...",
+          "date": "2019年4月18日",
+          "position": 70
+        },
+        {
+          "title": "自然与共，陈漫个展“龙·雨·田”登陆上海复星艺术中心 - 福布斯中国",
+          "link": "https://www.forbeschina.com/leadership/67192",
+          "snippet": "龙、雨、田，是宇宙的三个乐章，生命的三重声部，也皆为水的喻体。 在探索“以水为客体、本体和主体”的艺术实践中，陈漫通过绘画、摄影、影像和装置，构建 ...",
+          "date": "2024年2月27日",
+          "position": 71
+        },
+        {
+          "title": "法兰克福电影教授莱基\"一流当代艺术家\"之路(组图) - 99艺术网",
+          "link": "http://www.99ys.com/home/2008/12/03/11/74195.html",
+          "snippet": "马克·莱基痴迷于“菲利猫”和“辛普森一家”等流行文化中的卡通形象，并将它们加入影像作品，他的获奖作品涉及了从电影到雕塑的多种元素。",
+          "date": "2008年12月3日",
+          "position": 72
+        },
+        {
+          "title": "虚构的宗教体验：陈天灼谈巴黎东京宫首次个展 - Mei Huang Studio",
+          "link": "https://www.meihuangstudio.com/articles/%E8%99%9A%E6%9E%84%E7%9A%84%E5%AE%97%E6%95%99%E4%BD%93%E9%AA%8C%EF%BC%9A%E9%99%88%E5%A4%A9%E7%81%BC%E8%B0%88%E5%B7%B4%E9%BB%8E%E4%B8%9C%E4%BA%AC%E5%AE%AB%E9%A6%96%E6%AC%A1%E4%B8%AA%E5%B1%95/",
+          "snippet": "这些作品中了包含了装置，影像，录像和行为表演等多种艺术视觉形式。 陈 ... 异装者还有其他的像类似与这样的元素，这些都跟我自己的兴趣特别 ...",
+          "date": "2015年6月24日",
+          "position": 73
+        },
+        {
+          "title": "25790 变装皇后图片、库存照片、3D 物体和矢量图 - Shutterstock",
+          "link": "https://www.shutterstock.com/zh/search/%E5%8F%98%E8%A3%85%E7%9A%87%E5%90%8E",
+          "snippet": "... 图和插图，可免版税下载。 查看变装皇后库存视频影片. 筛选条件. 图片类型. 服装和配饰 · 女性 · 科技 · 异装艺术 · 彩虹 · 连衣裙 · 女人 · 假髮 · 连体衣 · 異性裝扮 · 下 ...",
+          "position": 74
+        },
+        {
+          "title": "广州玲距离-变装摄影 - BiliBili",
+          "link": "https://space.bilibili.com/3493291005839360/",
+          "snippet": "... 变装，摄影艺术、恋物体验等多元深度体验。影像治愈生活，变装舒缓压力，为CD姐妹拍最好看的照片，办最好玩的聚会！ 展开. 动态 视频. 广州玲距离-变装摄影. 05-27 · 投稿 ...",
+          "position": 75
+        },
+        {
+          "title": "邵亦杨：后现代主义之后?——残酷的与温柔的现实影像 - 中央美术学院",
+          "link": "https://www.cafa.com.cn/mobile/cn/figures/article/details/813386",
+          "snippet": "当前的艺术批评基于什么样的理论？或许，在冷战结束后，西方的当代艺术已经进入意识形态的真空，理论变得不再重要了？在西方，后 ...",
+          "date": "2012年1月21日",
+          "position": 76
+        },
+        {
+          "title": "男性穿着女性服装矢量波普艺术插画 - Depositphotos",
+          "link": "https://depositphotos.com/cn/vector/vector-pop-art-illustration-of-male-wearing-feminine-clothing-145400671.html",
+          "snippet": "矢量波普艺术插画的男性穿着女人衣服在晚上。滑稽演员或异装癖者在复古波普艺术喜剧风格.库存矢量图145400671 ⬇ 从Depositphotos 下载矢量艺术和图形⚡ ...",
+          "date": "2017年3月11日",
+          "position": 77
+        },
+        {
+          "title": "多物种之云- 美凯龙艺术中心Macalline Center of Art",
+          "link": "https://www.macallineart.org/zh/exhibitions/1343/n-a",
+          "snippet": "... 艺术中心，2022。摄影：孙诗. “多物种之云”展览现场，美凯龙艺术中心，2022。摄影：孙诗. 郑马乐，《贝壳里的一季》，装置，影像，尺寸可变，2013—2016。",
+          "date": "2022年12月27日",
+          "position": 78
+        },
+        {
+          "title": "黑蓝叁拾捌号·视觉·《英国特纳艺术奖》",
+          "link": "http://www.heilan.com/periodical/heilan_38/shijue_2.htm",
+          "snippet": "贴在特纳奖身上的“前卫艺术”标签向来被人看作“皇帝的新衣”，评委们年年遍地寻找异装癖、脏兮兮的大床、被硫酸腐蚀的牛……。这次斯塔林获奖，《独立报》的批评家汤姆·鲁伯克( ...",
+          "position": 79
+        },
+        {
+          "title": "在地下电影和造星工厂，重新发现安迪·沃霍尔 - 凤凰网",
+          "link": "http://inews.ifeng.com/yidian/46321714/news.shtml?ch=ref_zbs_ydzx_news",
+          "snippet": "引言：作为波普艺术大师的安迪沃霍尔是一位传奇艺术家，他创作的金宝汤罐头画和玛丽莲·梦露的丝网印刷头像一度成为了波普艺术 ... 他以男扮女装（异装癖）的形象 ...",
+          "date": "2015年11月20日",
+          "position": 80
+        },
+        {
+          "title": "罗伯特·帕丁森：我演的吸血鬼就像异装癖 - 英语点津",
+          "link": "https://language.chinadaily.com.cn/news/2010-03/24/content_9633901.htm",
+          "snippet": "《暮光之城：月食》的首个预告片因被传至YouTube视频网上，已吸引了数百万人观看。 这部影片将于今夏上映，影片 ... 他在英国影视艺术学会奖颁奖典礼结束后举行 ...",
+          "date": "2010年3月24日",
+          "position": 81
+        },
+        {
+          "title": "蕾切尔·韦兹勒谈梁芝兰的艺术",
+          "link": "https://artforum.com.cn/print/202405/15093",
+          "snippet": "... 变体，分别由画廊副总监、一名布展人员和一名私人藏家来放置。和《监视器》一样，《门》也让人们注意到孩子降生带给家庭空间带来的变化：加装在卧室和厨房中的看似平常 ...",
+          "position": 82
+        },
+        {
+          "title": "金属难加工材料切削及刀具磨损虚拟仿真实验国家级一流课程",
+          "link": "https://www.ilab-x.com/details/page?id=2655&isView=true",
+          "snippet": "机械制造技术基础是机械类专业核心课程，而金属切削相关理论知识作为本课程的重点内容，在实验教学中存在实验设备成本高、数量少、易 ... 将安装有球头刀的刀柄装夹到机床主轴 ...",
+          "position": 83
+        },
+        {
+          "title": "2010川美毕业展：提供更为宽泛的感知与观看视角 - 卓克艺术网",
+          "link": "http://www.zhuokearts.com/html/20100729/154994.html",
+          "snippet": "在艺术家的心中，有一种挥之不去的少数民族情节，这或许与我们广泛的汉族生活情节相比，多了一份陌生和难以言喻。影片中接连不断呈现的一个异装的少数 ...",
+          "date": "2010年7月29日",
+          "position": 84
+        },
+        {
+          "title": "幸存者综合症：马修·巴尼的新作 - 艺术与设计",
+          "link": "https://www.donnamail.com/article/view/id/36950",
+          "snippet": "同性恋、更衣室风格的游戏感与种种“越轨”（transgressive）象征并置：肛塞、荷尔蒙分泌物、子宫张开器和护口器都在暗指孔洞（orifice）。巴尼和他的母亲异装出现。这件 ...",
+          "position": 85
+        },
+        {
+          "title": "【视频】过度滥用削弱表演价值反串被“玩坏”的艺术? - 南洋商报",
+          "link": "https://www.enanyang.my/node/623417",
+          "snippet": "... 异装表演而已。 新加坡最广为人知的反串演员，相信非大导演梁志强莫属了 ... 影片，但他现在更受欢迎的是为女人发声的“安娣跟你讲”系列。 廖国贤 ...",
+          "date": "2024年9月9日",
+          "position": 86
+        },
+        {
+          "title": "[PDF] 使用说明书",
+          "link": "https://download.omsystem.com/pages/inst/ep7/manual_ep7_CHS.pdf",
+          "snippet": "• 可用影像风格根据视频模式的不同而异。 • 录制视频时，请使用Class 10或更高 ... 影像风格和艺术滤镜。 • 此项功能适用于静态拍摄和视频录制。 1 按Q按钮显示LV ...",
+          "position": 87
+        },
+        {
+          "title": "时尚视野｜创意与艺术如何不断重塑男性气质？ - 腾讯新闻",
+          "link": "https://new.qq.com/rain/a/20220320A02IKI00",
+          "snippet": "在正式面向公众开放之前，博物馆曾向WWD 透露，展览压轴部分将展示男演员Billy Porter、歌手Harry Styles 与变装演员Bimini Bon-Boulash 曾穿着过的 ...",
+          "date": "2022年3月20日",
+          "position": 88
+        },
+        {
+          "title": "全景：视觉—剧场与监控的政治 - 杨振中Yang Zhenzhong",
+          "link": "https://yangzhenzhong.com/16946154",
+          "snippet": "他封死了原本只有15 平米的空间，临街的墙体上只留了一个栅栏窗户，与周边的环境融为一体，看上去再平常不过，想必没人会留意到窗户上安装的其实是审讯室专用玻璃。观众透过 ...",
+          "position": 89
+        },
+        {
+          "title": "《历史的显影——致敬西南剧展80周年影像展演》故地呈现-中新网",
+          "link": "https://www.chinanews.com.cn/gn/2024/10-27/10308728.shtml",
+          "snippet": "中新网桂林10月27日电(欧惠兰)10月26日晚，由中央戏剧学院主办，中央戏剧学院戏剧艺术 ... 年轻人热衷养异宠冷门动物渐入大众视野 · 金石篆刻：以刀写意 ...",
+          "date": "8天前",
+          "position": 90
+        },
+        {
+          "title": "从泥土到语言—以陶瓷为媒介| 明珠美术馆 - Pearl Art Museum",
+          "link": "http://www.pearlartmuseum.org/cn/index/exhibition/Exhibition-Review/detail!From-Clay-to-Words-Ceramics-as-Media",
+          "snippet": "... 装置，尺寸可变. 03 耿雪《金色之名》2 配套装置. 《金色之名》（影像截图），耿雪，2019，泥土定格动画，多屏视频装置，尺寸可变. “生于土”篇章里的另一件作品是艺术家耿 ...",
+          "position": 91
+        },
+        {
+          "title": "以龙为引，自然与共，陈漫个展“龙·雨·田”登陆上海复星艺术中心",
+          "link": "https://www.forbeschina.com/life/67192",
+          "snippet": "龙、雨、田，是宇宙的三个乐章，生命的三重声部，也皆为水的喻体。 在探索“以水为客体、本体和主体”的艺术实践中，陈漫通过绘画、摄影、影像和装置，构建 ...",
+          "date": "2024年2月27日",
+          "position": 92
+        },
+        {
+          "title": "影像艺术 - 新华网",
+          "link": "http://www.xinhuanet.com/art/yxys_news.htm",
+          "snippet": "新华书画院|当代艺术|油画雕塑|影像艺术|瓷器陶艺|文玩杂项|珠宝玉器|家具 ... 易拍全球：打造艺术品在线交易新模式 · 赵力：未来“青年艺术100”是世界的.",
+          "position": 93
+        },
+        {
+          "title": "潜力股艺术家推广与作品经纪平台 - 美术网",
+          "link": "https://www.meishu.com/news/cangbaoge/index_167.html",
+          "snippet": "本栏目是美术报的艺术趣闻栏目,综合了中国美术界艺术界的奇闻异事，艺术趣闻,名人趣事,科技趣闻.走进艺术的世界与大家一起分享艺术大咖们的奇闻趣事。",
+          "position": 94
+        },
+        {
+          "title": "《丹麦女孩》：丈夫爱穿女装！夫妻到姐妹，异装癖的爱与救赎 - 暗室",
+          "link": "https://www.anshism.com/2962.html",
+          "snippet": "影片中的主角一直处在世人异样的眼光和自我怀疑中，主角的认知没有问题，他追寻真正的自我，不惜为此付出生命，但在医生的眼中，他患有精神疾病，是需要被治疗的 ...",
+          "date": "2022年4月29日",
+          "position": 95
+        },
+        {
+          "title": "我所钟爱的电影之二－公路片转载 - CSDN博客",
+          "link": "https://blog.csdn.net/charleslei/article/details/41155087",
+          "snippet": "... 影片的主演是一个人呐，而且跨度相当大，在好莱坞这种地方，连帅哥靓妹都要拼演技，何况一个长相不佳的外国演员呢。影片涉及到变性人、同性恋及异装癖 ...",
+          "date": "2014年11月15日",
+          "position": 96
+        },
+        {
+          "title": "变装欧美 - TikTok",
+          "link": "https://www.tiktok.com/discover/%E5%8F%98%E8%A3%85%E6%AC%A7%E7%BE%8E",
+          "snippet": "76.6K. 语言是一门艺术#憋笑挑战#印度变装搞笑#翻唱. su.7727. 6377. 163 個讚，來自小雨(@pkv110) 的TikTok 影片：「#. 3281. #老肩巨滑狐狸变装挑战#黄玉 ...",
+          "date": "2024年8月26日",
+          "position": 97
+        },
+        {
+          "title": "影像装置艺术的交互模式研究 - 时尚家居",
+          "link": "http://www.trends-home.com/design/20180704/86803.html",
+          "snippet": "由此，观众在创作和诠释艺术作品方面的地位变得愈发重要，观众的参与方式和参与度往往成为作品能否成功的关键。因此，对影像装置作品交互模式的研究有 ...",
+          "date": "2018年7月4日",
+          "position": 98
+        },
+        {
+          "title": "2020“异域·同天”中日韩高校摄影邀请展—日本高校 - 海报新闻",
+          "link": "https://hb.dzwww.com/p/7575911.html",
+          "snippet": "学院包括5个系（美术与媒体科学系，摄影与影像艺术系，视觉设计系，居住环境设计系，社会设计系）下属12个专业。九州产业大学美术研究生院坚持挑战性的艺术表达 ...",
+          "date": "2021年1月12日",
+          "position": 99
+        }
+      ],
+      "images": [
+        {
+          "title": "沃霍异装相及其崇拜女星亮相_展览信息_新浪收藏_新浪网",
+          "imageUrl": "http://collection.sinaimg.cn/zlxx/20110629/U5826P1081T2D30615F6DT20110629151102.jpg",
+          "link": "http://collection.sina.com.cn/zlxx/20110629/151130615.shtml"
+        },
+        {
+          "title": "梦想时间| UCCA尤伦斯当代艺术中心",
+          "imageUrl": "https://ucca.org.cn/storage/public/images/2/9/0/324452-44ba9a-757e6c.banner.jpg",
+          "link": "https://ucca.org.cn/exhibition/dream-time/"
+        },
+        {
+          "title": "异装癖陶艺家当选英皇家艺术学院院士(图)_海外动态_新浪收藏_新浪网",
+          "imageUrl": "http://collection.sinaimg.cn/cqty/20110409/U5566P1081T2D22671F7DT20110409101005.jpg",
+          "link": "http://collection.sina.com.cn/cqty/20110409/100422671.shtml"
+        },
+        {
+          "title": "亚历克斯·基特尼克谈影像艺术难以捉摸的过去和不确定的未来– artforum ...",
+          "imageUrl": "https://www.artforum.com.cn/uploads/upload.000/id14550/article00_1064x.jpg",
+          "link": "https://www.artforum.com.cn/print/202305/14550"
+        },
+        {
+          "title": "梦想时间| UCCA尤伦斯当代艺术中心",
+          "imageUrl": "https://ucca.org.cn/storage/public/images/2/9/0/7b3c7c-e81ad8-578495.banner.jpg",
+          "link": "https://ucca.org.cn/exhibition/dream-time/"
+        },
+        {
+          "title": "梦想时间| UCCA尤伦斯当代艺术中心",
+          "imageUrl": "https://ucca.org.cn/storage/public/images/2/9/0/9738f1-c0f7c9-cc1e29.banner.jpg",
+          "link": "https://ucca.org.cn/exhibition/dream-time/"
+        },
+        {
+          "title": "沃霍异装相及其崇拜女星亮相_展览信息_新浪收藏_新浪网",
+          "imageUrl": "http://collection.sinaimg.cn/zlxx/20110629/U5826P1081T2D30615F7DT20110629151102.jpg",
+          "link": "http://collection.sina.com.cn/zlxx/20110629/151130615.shtml"
+        },
+        {
+          "title": "回顾| 特纳奖中的10位影像艺术家及作品",
+          "imageUrl": "https://imagepphcloud.thepaper.cn/pph/image/92/938/807.jpg",
+          "link": "https://m.thepaper.cn/newsDetail_forward_9509086"
+        },
+        {
+          "title": "技术宅、异装癖和赛博格：聊一聊那些数字艺术领域的酷女孩们_手机搜狐网",
+          "imageUrl": "https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20180126/6a4ecb2a3a00410ebc3d1b27c8aeb3ee.jpeg",
+          "link": "https://www.sohu.com/a/219037085_495467"
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "异装 影像艺术",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "汪黎明：用照片搭起一座淳安蝶变“档案馆” - 千岛湖新闻网",
+          "link": "https://www.qdhnews.com.cn/news/content/2024-10/31/content_9740497.html",
+          "snippet": "汪黎明，中国摄影家协会会员、杭州市艺术摄影学会主席团成员、淳安县摄协艺术 ... 当年，4张拼接而成的照片能装下排岭镇的全部，今天却装不下了。如今的 ...",
+          "date": "4天前",
+          "position": 1
+        },
+        {
+          "title": "變裝的藝術 - 博客來",
+          "link": "https://www.books.com.tw/products/0010904047?srsltid=AfmBOop4j8mq5h-TP4pJwT1iCJJlIsIu6dHwqGWRVsUszmHUMhxp-EcR",
+          "snippet": "書名：變裝的藝術，原文名稱：The Art of Drag，語言：繁體中文，ISBN：9789860777468，頁數：136，出版社：大塊文化，作者：傑克・霍爾，譯者：陳瑄，出版日期：2021/10/09，類別：人文社 ...",
+          "position": 2
+        },
+        {
+          "title": "在地下电影和造星工厂，重新发现安迪·沃霍尔 - 读书- 凤凰网",
+          "link": "http://culture.ifeng.com/a/20151120/46321714_0.shtml",
+          "snippet": "... ，对名声的这种追求几乎将他淹没，他的作品几乎变成了“名声制造机”，而这整个过程都被他自己以各种艺术 ... 他以男扮女装（异装癖）的形象而闻名。在1964-1966年 ...",
+          "date": "2015年11月20日",
+          "position": 3
+        },
+        {
+          "title": "人形机器人碎步、弯腿、剁脚？这个难题解决了 - 光明网科技频道",
+          "link": "https://tech.gmw.cn/2024-10/30/content_37646334.htm",
+          "snippet": "众擎机器人创始人兼CEO赵同阳表示，SE01的推出不仅是技术上的一大进步，更体现出科技与艺术的结合。 ... AEP100发动机配装全球最大无人运输机. 由中国航 ...",
+          "date": "5天前",
+          "position": 4
+        },
+        {
+          "title": "[PDF] 有机·奥诺黛拉：",
+          "link": "https://yukionodera.fr/wp-content/uploads/2021/04/CHINESE-PHOTOGRAPHY-Magazine_Apr2021_text-by-Lin_Ye.pdf",
+          "snippet": "倘若一定要以某种特定. 的观念或主题来高屋建瓴式地对她整个创作. 生涯做一个概括性论述，一定会感到手足无. 措，仿佛坠入某种影像的旋涡，不知从何入手。 ... 《易装》系列的 ...",
+          "position": 5
+        },
+        {
+          "title": "五问五答：频频“肇事”上热搜，野猪“撒野”怎么办？ - 西部网",
+          "link": "http://m.cnwest.com/tianxia/a/2024/11/02/22851341.html",
+          "snippet": "长到1岁时，仔猪进入成年期，身上的红色逐渐加深呈黑色，与成年野猪无异。 ... 第十届丝绸之路国际艺术节“丝路微短剧艺术大会”在陕西西安召开. 11-02 12 ...",
+          "date": "2天前",
+          "position": 6
+        },
+        {
+          "title": "好电影让我们听见时代的密语 - 新华网",
+          "link": "http://www.news.cn/ent/20241031/8d6f7f50023e47a7a069d0eeb2dac6df/c.html",
+          "snippet": "而以艺术审美眼光判定的好电影不能只提供情绪价值，还得有营养（思辨性）。好电影不光要触发情绪还要触及真相触达真理。过往每一个时代这条价值标准都是清晰 ...",
+          "date": "4天前",
+          "position": 7
+        },
+        {
+          "title": "TOPIC】安迪·沃霍尔与他的影像见证者-搜狐!!! - 时尚",
+          "link": "https://fashion.sohu.com/20170402/n486132599.shtml",
+          "snippet": "在1979年，这本名为《曝光》（Exposure）的影集出版，其中收录了Makos为沃霍尔拍摄的那套著名的变装 ... 艺术展演EPI，将波普艺术带入了摇滚乐。 lonsome cowboys.",
+          "date": "2017年4月2日",
+          "position": 8
+        },
+        {
+          "title": "魔都新添世界级影像艺术中心，每晚开放至23点 - 静安区",
+          "link": "https://www.jingan.gov.cn/rmtzx/003008/003008006/20231021/0cd71ed3-b900-4d04-a6be-46b2c410c8ec.html",
+          "snippet": "苏河之畔新添艺术地标，全球影像之家Fotografiska的亚洲首馆Fotografiska影像艺术中心于10月21日正式开放，为市民带来丰富及角度多元的影像艺术视觉盛宴 ...",
+          "date": "2023年10月21日",
+          "position": 9
+        },
+        {
+          "title": "互联网形态与身份转化：当代艺术重新界定摄影 - 参考网",
+          "link": "https://m.fx361.com/news/2020/1125/7323017.html",
+          "snippet": "... 艺术生产方式；身份伴随着互联网技术的快速发展，影像 ... 装癖、同性恋、孕妇，他们通过自拍印证自己的独一无二。德国艺术家 ...",
+          "date": "2020年11月25日",
+          "position": 10
+        },
+        {
+          "title": "45年后创意返回起点，这是IP彻底干涸前的回光返照？ - 经济观察网",
+          "link": "http://www.eeo.com.cn/2024/1103/695872.shtml",
+          "snippet": "这片宇宙自然是艺术的矿藏，雷德利·斯科特的导演风格和吉格尔的异形设计 ... 对于普通大众来说，异形的IP已经深度与异虫抱脸、异形破膛这种十分 ...",
+          "date": "24小时前",
+          "position": 11
+        },
+        {
+          "title": "两个女娼妓和异装癖者——图库图片© microgen #115191158",
+          "link": "https://depositphotos.com/cn/photo/two-female-prostitutes-and-transvestite-115191158.html",
+          "snippet": "从Depositphotos 收集的数百万优质高分辨率的库存图片、矢量图和插图中，下载免版税两女娼妓和异装癖者，性工作者在说话背巷的库存图片115191158。",
+          "date": "2016年6月17日",
+          "position": 12
+        },
+        {
+          "title": "异装- 抖音百科",
+          "link": "https://m.baike.com/wikiid/4180142869624683355",
+          "snippet": "异装的英文为“Crossdress”，简称“CD”。异装通常是指男性或女性通过穿着异性的服装和模仿异性的谈吐、举止等获得一种特别的满足感，是一种影响力渐渐扩大的非主流社会群体 ...",
+          "position": 13
+        },
+        {
+          "title": "2010川美毕业展：提供更为宽泛的感知与观看视角 - 卓克艺术网",
+          "link": "http://www.zhuokearts.com/html/20100729/154994.html",
+          "snippet": "在艺术家的心中，有一种挥之不去的少数民族情节，这或许与我们广泛的汉族生活情节相比，多了一份陌生和难以言喻。影片中接连不断呈现的一个异装的少数 ...",
+          "date": "2010年7月29日",
+          "position": 14
+        },
+        {
+          "title": "当代艺术家戴增钧、张小涛个展在山西省当代美术馆开幕 - 中国新闻网",
+          "link": "http://www.chinanews.com/cul/2024/11-03/10312907.shtml",
+          "snippet": "... 影像，到多媒体，到摄影，也包括行为艺术，是一个多方面的艺术家。”王春辰说，这次展览除绘画之外，还可以看到他的数字影像和装置作品。该展所聚焦的 ...",
+          "date": "13小时前",
+          "position": 15
+        },
+        {
+          "title": "中国人日益被剥夺权力计划外精神文化生活——严控万圣节来看",
+          "link": "https://msguancha.com/a/msrd/2024/1101/23852.html",
+          "snippet": "王先生对于上海当局突然收紧对变装的控制，不以为然。他说；“穿个 ... 从上海如临大敌的那一刻已成艺术. 再加上李克强逝世一周年的双重buff.",
+          "date": "2天前",
+          "position": 16
+        },
+        {
+          "title": "见见安迪·沃霍尔的“女人们” - 青年参考",
+          "link": "http://qnck.cyol.com/html/2011-07/06/nw.D110000qnck_20110706_1-35.htm",
+          "snippet": "从6月25日到9月25日，英国曼彻斯特洛利艺术中心举办展览“沃霍尔与 ... 这些可不是沃霍尔在家里鬼鬼祟祟的“异装”实验，这个戴银色假发掩饰秃顶的 ...",
+          "date": "2011年7月6日",
+          "position": 17
+        },
+        {
+          "title": "邀请观众共同探索800年来的未解之谜闽剧《幻戏图》将于11月1日上演",
+          "link": "https://m.163.com/news/article/JFORQ7NK0530QRMB.html?clickfrom=subscribe&spss=adap_pc",
+          "snippet": "... ：人民网人民网福州10月30日电（记者张子剑）11月1日19：30，古装闽剧《幻戏图》将在福州市海峡文化艺术 ... “变装界天花板”，非遗婺剧不止有变脸还有变 · 川剧鬼 ...",
+          "date": "5天前",
+          "position": 18
+        },
+        {
+          "title": "马拉喀什国际摄影双年展组委会主席点赞“光影里的宁波”-新闻中心",
+          "link": "http://news.cnnb.com.cn/system/2024/10/29/030624945.shtml",
+          "snippet": "当地时间10月23日起，“光影里的宁波”全球百企百展亮相摩洛哥马拉喀什国际摄影双年展，与全球众多国家的艺术作品一起，在带给观众影像 ... 无法快充车门异响……",
+          "date": "6天前",
+          "position": 19
+        },
+        {
+          "title": "在长江国家文化公园建设中建设幸福新常州 - 光明网科技频道",
+          "link": "https://tech.gmw.cn/2024-11/01/content_37652777.htm",
+          "snippet": "... 装，还新增活力，自然美景与人文魅力相映生辉，大大提升了常州的城市品质。 然而，作为一项系统性文化工程，我国关于国家文化公园建设的理论与实践都 ...",
+          "date": "3天前",
+          "position": 20
+        },
+        {
+          "title": "顾铮：“另类”的民国肖像摄影小史(2) - 南方艺术",
+          "link": "https://www.zgnfys.com/m/a/nfrw-7543_2.shtml",
+          "snippet": "他这一系列的举止，可能不仅仅只是停留于摄影留念的层面，可能还受希望自己是女儿身的潜在的“易装癖”欲望的驱动。这种欲望，虽然只是在照片上付诸实现 ...",
+          "date": "2012年9月28日",
+          "position": 21
+        },
+        {
+          "title": "她画的胖女孩画让你看见语言如何穿过身体 - 每日頭條",
+          "link": "https://kknews.cc/zh-cn/news/6qxmprm.html",
+          "snippet": "裸体胖女人、雌雄同体、异装癖者，切断了来自于男性的色情观看 · 2018 ... 影像、装置、综合材料为主要形式的当代艺术展。 男子把吃喝拉撒睡都搬进 ...",
+          "date": "2019年1月24日",
+          "position": 22
+        },
+        {
+          "title": "光·景｜秋千互动影像装置Time traveller - YouTube",
+          "link": "https://www.youtube.com/watch?v=kCd-msiV9XU",
+          "snippet": "成今天融聚艺术文艺气息又不失生活本真的特色街区。 「光·景」是一个影像互动装置，配合人和影像 ...\n时长： 1:12\n发布时间： 2019年4月28日",
+          "date": "2019年4月28日",
+          "position": 23
+        },
+        {
+          "title": "联播+｜总书记为何要求答好这一“融合命题” - 观察者",
+          "link": "https://www.guancha.cn/politics/2024_10_31_753696.shtml",
+          "snippet": "... 艺术展\"上 ... 台媒询问大陆是否愿向台湾供电？国台办回应. 2024-10-30 16:30 两岸关系 · 六部门：推动有条件的新建厂房、新建公共建筑应装尽装光伏系统.",
+          "date": "4天前",
+          "position": 24
+        },
+        {
+          "title": "2024 年万圣节这个周末，您应该在巴黎观看哪些戏剧和演出？",
+          "link": "https://www.sortiraparis.com/zh/xiaoxi/zai-bali/articles/321180-2024-nian-wan-sheng-jie-zhe-ge-zhou-mo-nin-ying-gai-zai-ba-li-guan-kan-na-xie-xi-ju-he-yan-chu",
+          "snippet": "无论您是对戏剧充满热情，还是在寻找适合儿童观看的演出，抑或是对身临其境的艺术 ... 异装癖歌舞表演和巴黎俱乐部 赞助- 作为名副其实的巴黎机构，亚瑟夫人将 ...",
+          "date": "3天前",
+          "position": 25
+        },
+        {
+          "title": "豆瓣8.6！这部剧题材尺度够大胆变装后他是比许晴还性感的男人",
+          "link": "https://wapbaike.baidu.com/tashuo/browse/content?id=bad7cf356b09cc09e4e333d1",
+          "snippet": "实际上，这部音乐剧改编自电影《长靴》，这是一部2005年上映的影片，豆瓣评分7.7分。 它取材于真实发生的故事，讲述一个老字号鞋店传人和酒吧“变装 ...",
+          "date": "2018年7月25日",
+          "position": 26
+        },
+        {
+          "title": "中国人日益被剥夺权力计划外精神文化生活——严控万圣节来看 - 禁闻网",
+          "link": "https://www.bannedbook.org/bnews/renquan/20241101/2110144.html",
+          "snippet": "王先生对于上海当局突然收紧对变装的控制，不以为然。他说；“穿个 ... 从上海如临大敌的那一刻已成艺术. 再加上李克强逝世一周年的双重buff.",
+          "date": "2天前",
+          "position": 27
+        },
+        {
+          "title": "《异装癖的女人》高清中字手机在线观看 - 星空影院",
+          "link": "https://www.sh-hualing.com.cn/3259937344.html",
+          "snippet": "自1905年中国第一部电影诞生以来，电影逐渐成为中国人民喜闻乐见的文化娱乐方式，成为展示中国社会发展变化，展现中国人民精神面貌，弘扬中华优秀传统文化的重要艺术形式。",
+          "position": 28
+        },
+        {
+          "title": "在巴黎观看主题展览，体验精彩的文化之旅- Sortiraparis.com",
+          "link": "https://www.sortiraparis.com/zh/zai-bali-canguan-shenme/zhanlan-bowuguan/guides/321081-zai-ba-li-guan-kan-zhu-ti-zhan-lan-ti-yan-jing-cai-de-wen-hua-zhi-lu",
+          "snippet": "... 变装和金属之夜，充满宣泄气氛！ [阅读更多].",
+          "date": "6天前",
+          "position": 29
+        },
+        {
+          "title": "从《敞开的门》到异装癖电影 - Bilibili",
+          "link": "https://www.bilibili.com/read/cv2319174/",
+          "snippet": "有幸在西班牙电影《敞开的门》在其国内上映前看到，这是一部很容易令人联想到同是西班牙电影的阿莫多瓦的《关于我母亲的一切》的影片，也藉此聊一聊有异装癖 ...",
+          "date": "2019年3月24日",
+          "position": 30
+        },
+        {
+          "title": "自我本尊——实验影像作品展- 展览- Eli Klein Gallery",
+          "link": "https://www.galleryek.com/ch/exhibitions/zi-wo-ben-zun-shi-yan-ying-xiang-zuo-pin-zhan/installation-view?view=slider",
+          "snippet": "艺术家的作品。与行为艺术近似，影像艺术也属于在20世纪60年代才得到艺术界广泛关注的新媒介，其实验性与开放性给予女性艺术家在男性主导的社会传统中发掘自我视角的机会。",
+          "position": 31
+        },
+        {
+          "title": "2022 Official | Three Shadows",
+          "link": "https://www.threeshadows.cn/cn/jimei-arles/curatorial-award/2022-official/",
+          "snippet": "2022 集美· 阿尔勒“影像策展人奖” 入围揭晓香奈儿携手三影堂摄影艺术中心, 于2021年10月共同发起“集美·阿尔勒“影像策展人奖”（ Curatorial Award for Photography and ...",
+          "position": 32
+        },
+        {
+          "title": "6 多张免费的“Transvestite”和“异装癖”照片- Pixabay",
+          "link": "https://pixabay.com/zh/photos/search/transvestite/",
+          "snippet": "成人内容安全搜索. 人妖, 异装癖, 泰国, 柔弱的男人. 人妖 异装癖 泰国 柔弱的男人 · 编辑图片. 街头摄影, 街头艺术, 异装癖, 变性者, 教会, 独自.",
+          "position": 33
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

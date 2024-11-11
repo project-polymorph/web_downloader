@@ -1,0 +1,1655 @@
+{
+  "query": "性别悖论",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-04T00:37:07.275296",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "性别悖论",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "性别平等悖论的局限性-SCWIST",
+          "link": "https://scwist.ca/zh-CN/limitations-of-the-gender-equality-paradox/",
+          "snippet": "本质上，这创造了传统的刻板印象，即女性选择从事STEM事业的唯一原因是因为她们认为这是通往成功的唯一真实途径。 此外，它延续了错误的假设，即女性只是对STEM科目不感兴趣。",
+          "position": 1
+        },
+        {
+          "title": "【研究】“性别平等悖论“：越是男女平等的社会，女性就越不爱学理工",
+          "link": "https://www.sohu.com/a/439203939_778776",
+          "snippet": "这种看似奇怪的现象被称为“性别平等悖论“（gender-equality paradox）。专家们认为，正是因为在男女平等的社会里，女性的选择不受社会压力，她们会按照自己的 ...",
+          "date": "2020年12月19日",
+          "position": 2
+        },
+        {
+          "title": "STEM性别平等悖论是否存在？ - 汉斯出版社",
+          "link": "https://www.hanspub.org/journal/paperinformation?paperid=57242",
+          "snippet": "STEM性别平等悖论指性别越平等的地区，STEM的性别差异越大。悖论的提出与争议均来自对PISA历年调查数据的分析，而PISA的调查数据来自中国有限的几个发达城市。我们将从悖论 ...",
+          "position": 3
+        },
+        {
+          "title": "性别刻板印象与科学技术工程数学中的女性未被充分代表 - EurekAlert!",
+          "link": "https://www.eurekalert.org/news-releases/517367?language=chinese",
+          "snippet": "性别数学刻板印象（GMS）程度高的国家的青少年女性比青少年男性打算学习数学或者从事数学密集型职业的可能性更低。这些发现提示，经济发展和性别平等权利与重 ...",
+          "date": "2020年11月23日",
+          "position": 4
+        },
+        {
+          "title": "一碗水端不平？中国家庭双向代际支持的性别悖论 - 社会学评论",
+          "link": "http://src.ruc.edu.cn/CN/Y2024/V12/I1/96",
+          "snippet": "本研究基于三期中国老龄社会追踪调查数据，考察了家庭双向代际支持中的性别悖论，即女儿相对于儿子向父母提供的支持更多但父母却给予儿子更多支持的现象 ...",
+          "date": "2024年2月23日",
+          "position": 5
+        },
+        {
+          "title": "性别平等悖论：研究发现性别平等国家的阅读和科学性别差异最大",
+          "link": "https://yuyuetg.com/archives/7828",
+          "snippet": "一项新研究揭示，学术优势中的性别差异存在于全球范围内，且在性别平等的国家中，女生在阅读方面的相对优势和男生在科学方面的相对优势最大。",
+          "date": "2024年9月25日",
+          "position": 6
+        },
+        {
+          "title": "新加坡悖论：女性回避数学相关职业 - The UNESCO Courier",
+          "link": "https://courier.unesco.org/zh/articles/xinjiapobeilunnuxinghuibishuxuexiangguanzhiye",
+          "snippet": "数字游戏. 南洋理工大学（NTU）的一项最新研究发现，与男性相比，新加坡女性对自己的数学能力明显缺乏信心。考虑到该国男女学生的数学成绩旗鼓相当，这个现象让 ...",
+          "date": "2023年1月9日",
+          "position": 7
+        },
+        {
+          "title": "STEM性别平等悖论是否存在？ - 汉斯出版社",
+          "link": "https://www.hanspub.org/journal/cta?paperID=57242",
+          "snippet": "STEM领域性别单一化成为全球面临的问题。STEM性别平等悖论指性别越平等的地区，STEM的性别差异越大。悖论的提出与争议均来自对PISA历年调查数据的分析，而PISA的调查数据 ...",
+          "position": 8
+        },
+        {
+          "title": "J Heart Lung Transplant：调查肺动脉高压中的“性别悖论” - MedSci",
+          "link": "https://m.medsci.cn/article/show_article.do?id=bd898255428e",
+          "snippet": "背景：女性性别是肺动脉高压（PAH）的一个重要风险因素，但是一些研究表明，患有PAH的男性却表现出更差的生存率，这一现象被称为PAH中的“性别悖论”。",
+          "date": "2024年5月12日",
+          "position": 9
+        },
+        {
+          "title": "重新审视性别工作满意度悖论：根源似乎很深 - X-MOL",
+          "link": "https://www.x-mol.com/paper/1398395080479850496/t",
+          "snippet": "本文使用2016 年加拿大综合社会调查（一个具有全国代表性的大型数据集）估计了性别工作满意度差距。这个独特的数据集可以控制几乎所有以前建议用来解释 ...",
+          "date": "2021年5月28日",
+          "position": 10
+        },
+        {
+          "title": "二孩悖论——两个孩子其中一个是男孩",
+          "link": "https://news.qq.com/rain/a/20240430A09VFZ00",
+          "snippet": "但如果我们把所有的可能性都列举出来就会发现，好像还没那么简单。两个孩子的性别组合可以有四种情况，男男、男女、女男、女女。其中一个是男孩，有三种 ...",
+          "date": "2024年4月30日",
+          "position": 11
+        },
+        {
+          "title": "新解：性的悖论_繁殖 - 搜狐",
+          "link": "https://www.sohu.com/a/481525947_121119349",
+          "snippet": "新解：性的悖论 ... 生命世界有很多方面都令人惊叹，同样也出现了很多令人困惑的事情。 此外，一个更大的谜团始终困扰着科学家，它被称为“性的悖论”。有性繁殖这 ...",
+          "date": "2021年8月5日",
+          "position": 12
+        },
+        {
+          "title": "数据中的悖论 - 兴国县人民政府",
+          "link": "http://www.xingguo.gov.cn/xgxxxgk/xg9482/201502/1cb79125381f4f8fb92f14f8fd6b1372.shtml",
+          "snippet": "在研究诸如上述录用率与性别是否相关这类问题时，人们通常会进行分组比较。“辛普森悖论”是在这类研究中遇到的一种特殊现象：在分组比较中都占优势的一方，有时 ...",
+          "position": 13
+        },
+        {
+          "title": "性别差异·历史共谋·镜式悖论 - 中国社会科学文库",
+          "link": "https://www.sklib.cn/booklib/databasedetail?colID=1762&SiteID=122&Type=literature&ID=10147755",
+          "snippet": "不论是性政治上的清算，还是性文化上的抵抗，都试图在男性世界法则的规约下，让处于被动状态下的女性隐形书写得到最大能量的显形和释放。在很长一段历史时间内，女性既不具备 ...",
+          "position": 14
+        },
+        {
+          "title": "J Heart Lung Transplant：调查肺动脉高压中的“性别悖论” - 梅斯医学",
+          "link": "https://www.medsci.cn/article/show_article.do?id=bd898255428e",
+          "snippet": "... 性别悖论”。尽管女性更容易罹患PAH，但男性患者似乎承受着更严重的后果，这种观察引发了对PAH发病机制和性别差异的进一步研究。 方法：本研究纳入了 ...",
+          "date": "2024年5月12日",
+          "position": 15
+        },
+        {
+          "title": "辛普森悖论- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E8%BE%9B%E6%99%AE%E6%A3%AE%E6%82%96%E8%AE%BA",
+          "snippet": "辛普森悖论在类似于现实世界变异性的数据上的可视化表明，误判真实关系的风险可能难以发现。 该现象于20世纪初就有人讨论，但一直到1951年，爱德华·H·辛普森在他发表的论文中 ...",
+          "position": 16
+        },
+        {
+          "title": "<br>性别生活满意度/抑郁悖论 - X-MOL",
+          "link": "https://www.x-mol.com/paper/1439712207198547968/t",
+          "snippet": "根据性别生活满意度/抑郁悖论，在控制所有相关的社会人口因素后，女性比男性更有可能报告更高水平的生活满意度，但也更有可能宣称自己患有抑郁症。我们发现，这一悖论在 ...",
+          "position": 17
+        },
+        {
+          "title": "世界女性科技群落（三） - 图文详情——科普中国资源服务",
+          "link": "https://cloud.kepuchina.cn/newSearch/imgText?from=1&id=6868388464415121408&is_self=2",
+          "snippet": "开个玩笑，实际上，尽管北欧科技在全球领先，女性境遇也很友好，但北欧女性却依然存在一个著名的悖论——Gender-Equality Paradoxin性别平等悖论。",
+          "date": "2021年12月9日",
+          "position": 18
+        },
+        {
+          "title": "STEM教育中的性别悖论？一场持续两年的学术争论！ - 网易",
+          "link": "https://www.163.com/dy/article/F5CIJV5505368QAS.html",
+          "snippet": "对于男女平等指数，Geary和Stoet解释应该进行综合的衡量，不能仅仅从经济政治生活中女性来看待女性的地位，比如卢旺达在2015年的性别平等指数中排名第六，但这 ...",
+          "date": "2020年2月14日",
+          "position": 19
+        },
+        {
+          "title": "悖论的可见性:《9个gay》与《一屋赞客》对同性恋的再现 - 社会杂志",
+          "link": "https://www.society.shu.edu.cn/cn/y2016/v36/i2/215",
+          "snippet": "这是一种充满悖论的可见性:一方面,它有利于改变社会对同性恋的污名化和刻板印象,并为争取同性恋的公民权利打下基础;另一方面,这种可见性是以剥夺了私领域以外的生活与更加 ...",
+          "position": 20
+        },
+        {
+          "title": "在性別平等程度較高的國家，女性獲得STEM學位的可能性較小（英）",
+          "link": "http://www.twepress.net/resources/paper/item/678-paper-131-3",
+          "snippet": "根據一項新研究，隨著社會越來越富裕，越性別平等，女性在STEM求取學位的可能性就越小。研究人員稱之為「性別平等悖論」。",
+          "date": "2018年11月12日",
+          "position": 21
+        },
+        {
+          "title": "女性主体性建构的文化悖论——当代文化场域中的“大女主剧”",
+          "link": "https://www.tsyzm.com/CN/Y2021/V1/I5/152",
+          "snippet": "大女主剧颠覆了传统言情叙事中的纯爱想象,建构了以权力为指向的全新女性伦理,但在价值层面未能完成对于男权秩序的整体反思,而是陷入合理化逻辑和女性独立 ...",
+          "date": "2021年5月24日",
+          "position": 22
+        },
+        {
+          "title": "新解：性的悖论-腾讯新闻",
+          "link": "https://news.qq.com/rain/a/20210803A0E28900",
+          "snippet": "此外，一个更大的谜团始终困扰着科学家，它被称为“性的悖论”。有性繁殖这种形式应该在生命进化比较早的时期就已经出现了，并且一直维持到现在，这一点在进化上 ...",
+          "date": "2021年8月3日",
+          "position": 23
+        },
+        {
+          "title": "悖论的可见性:《9个gay》与《一屋赞客》对同性恋的再现",
+          "link": "http://html.rhhz.net/society/html/20160210.htm",
+          "snippet": "“看我丢掉他的西装，比我先红了眼眶，笑我傻，陪我慌。当我找到幸福去向，帮我快乐地化妆，陪我傻，笑我慌。”这是著名歌手张惠妹(阿妹)2009年的歌曲《彩虹》中的歌词。这首歌深受 ...",
+          "position": 24
+        },
+        {
+          "title": "女性艺术是个悖论 - 中国书画网",
+          "link": "http://www.chinashj.com/ysll_ysllsy/9037.html",
+          "snippet": "女性艺术的自觉，强调的是个体的意识，而女性艺术的自由跨越了性别的界限，集结了人类的集体智慧，代表着人类的集体意识。从女性身体的自我关注，到整个人类的生命包扩对男人 ...",
+          "position": 25
+        },
+        {
+          "title": "胡悦、李睿哲：城市治理的时间悖论与动态治理 - 清华大学政治学系",
+          "link": "https://www.dps.tsinghua.edu.cn/info/1114/3039.htm",
+          "snippet": "随着我国新型城镇化进入高质量发展阶段，城市治理议程复杂性与有限时间治理资源的张力不断加大，造成“说起来重要，干起来次要，忙起来不要”的当代城市治理 ...",
+          "date": "2024年3月1日",
+          "position": 26
+        },
+        {
+          "title": "新三板做市交易提高流动性了吗？——基于“流动性悖论”的视角",
+          "link": "http://www.jryj.org.cn/CN/abstract/abstract473.shtml",
+          "snippet": "摘要 本文以新三板市场实施“做市商制度”为研究背景,使用2014年底前挂牌的1542家公司2014-2016年的数据,利用双重差分法(DID)研究了选择做市交易对流动性的影响。研究发现, ...",
+          "position": 27
+        },
+        {
+          "title": "母职的悖论：从女性主义批判到中国式母职策略",
+          "link": "http://sociology.cssn.cn/shxsw/swx_kycg/swx_xslw/202202/t20220214_5393795.html",
+          "snippet": "母职的悖论：从女性主义批判到中国式母职策略 ... 摘要：过去几十年中母职在世界范围内已成为一个流行议题。从西方女性主义的演变脉络来看,母职研究经历了从母 ...",
+          "date": "2021年4月15日",
+          "position": 28
+        },
+        {
+          "title": "[PDF] 彩票悖论与序言悖论的同构性与统一解",
+          "link": "http://clgsk.qks.cqut.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=4759",
+          "snippet": "一致性规则:知识集内部不应存在不一致的命题. 1961年,凯伯格(Kyburg)在《概率与合理信念逻辑》[5]一书中提出了彩票悖论 ...",
+          "position": 29
+        },
+        {
+          "title": "性别社会学_社会学视野网 - 中国人民大学",
+          "link": "http://sociologyol.ruc.edu.cn/shxyj/fzshx/xbshx/index.htm",
+          "snippet": "[贺光烨，王安迪] 隔代抚育与农村老年人的健康轨迹——性别差异的视角 2024-06-04; [李婷，钟晓慧，靳永爱] 一碗水端不平？中国家庭双向代际支持的性别悖论 2024-06-04 ...",
+          "position": 30
+        },
+        {
+          "title": "创新悖论",
+          "link": "https://www.imf.org/zh/Publications/fandd/issues/2024/09/the-innovation-paradox-ufuk-akcigit",
+          "snippet": "大型企业主导了美国的众多经济领域，它们排挤了更具创新性的小型企业和初创企业。在各个行业，最大的参与者优先考虑的是保护自身业务的战略性举措，而不是寻求真正的创新。",
+          "position": 31
+        },
+        {
+          "title": "产品分析之统计学悖论| 人人都是产品经理",
+          "link": "https://www.woshipm.com/data-analysis/1846422.html",
+          "snippet": "我们简化上述表格，发现悖论是由于基数产生的影响——男生在学院1和学院2的分布和女生的分布截然相反引起的。 在日常分析工作也经常存在这样的现象，经常在两端分析时，大都以为 ...",
+          "position": 32
+        },
+        {
+          "title": "“流动性”悖论与现代人权观念的危机",
+          "link": "http://www.rqjournal.cn:81/CN/abstract/abstract2040.shtml",
+          "snippet": "“流动性”悖论与现代人权观念的危机. 吉林大学行政学院吉林大学人权研究中心. 摘要; 图/表; 参考文献; 相关文章 (15). 全文: PDF (413 KB) HTML (1 KB)",
+          "position": 33
+        },
+        {
+          "title": "[PDF] 共同富裕的中国式现代化对资本主义悖论性贫困的超越",
+          "link": "http://hprc.org.cn/gsyj/jjs/jjsxs/202306/P020230628525331432787.pdf",
+          "snippet": "20世纪30年代以后，. 资本主义国家试图通过各种方式修复悖论性贫困，提高雇佣工人的物质生活水平，但最终都“无功而返”，资本主义. 不可避免地陷入“两极分化”困境和“福利过度” ...",
+          "position": 34
+        },
+        {
+          "title": "辛普森悖论- Miao Yu | 于淼",
+          "link": "https://yufree.cn/cn/2021/08/27/simpson-paradox/",
+          "snippet": "此时因果图出现一个对撞结构，你要是需要控制学院就开了后门无法正确估计性别的作用，此时就不应控制任何变量直接看两者关系。但真实世界哪有这么简单，学校 ...",
+          "date": "2021年8月27日",
+          "position": 35
+        },
+        {
+          "title": "危机中的突围与成长女性企业家的悖论式领导",
+          "link": "https://repository.ceibs.edu/en/publications/%E5%8D%B1%E6%9C%BA%E4%B8%AD%E7%9A%84%E7%AA%81%E5%9B%B4%E4%B8%8E%E6%88%90%E9%95%BF-%E5%A5%B3%E6%80%A7%E4%BC%81%E4%B8%9A%E5%AE%B6%E7%9A%84%E6%82%96%E8%AE%BA%E5%BC%8F%E9%A2%86%E5%AF%BC",
+          "snippet": "过去几十年间,商界见证了女性企业家的崛起,越来越多的女性开始创业并担任领导职务,女性优势在经营管理领域的重要性也日益凸显。大量实证研究显示女性领导者不同的经营视角 ...",
+          "position": 36
+        },
+        {
+          "title": "[PDF] 女性主体性建构的文化悖论",
+          "link": "https://www.tsyzm.com/EN/article/downloadArticleFile.do?attachType=PDF&id=7498",
+          "snippet": "女性主体性建构的文化悖论. ——当代文化场域中的“大女主剧”. 高翔. 【内容摘要】 近年来“大女主剧”的涌现，源于新媒介语境下女性书写的兴起，表现为消费主义语境. 中被“客体 ...",
+          "position": 37
+        },
+        {
+          "title": "项久雨：现代性悖论与中国式现代化的历史性超越 - 马克思主义研究网",
+          "link": "http://marxism.cass.cn/zyzgh/202401/t20240104_5724541.shtml",
+          "snippet": "习近平强调：“中国式现代化是人与自然和谐共生的现代化。人与自然是生命共同体”，“坚定不移走生产发展、生活富裕、生态良好的文明发展道路，实现中华民族永续 ...",
+          "date": "2024年1月4日",
+          "position": 38
+        },
+        {
+          "title": "Amazon.com: 信念悖论与策略合理性(精): 9787300283111",
+          "link": "https://www.amazon.com/%E4%BF%A1%E5%BF%B5%E6%82%96%E8%AE%BA%E4%B8%8E%E7%AD%96%E7%95%A5%E5%90%88%E7%90%86%E6%80%A7-%E7%B2%BE-%E7%BE%8E-%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7C-%E5%AD%94%E6%96%AF/dp/730028311X",
+          "snippet": "Amazon.com: 信念悖论与策略合理性(精): 9787300283111: 罗伯特?C.孔斯（Robert C.Koons: Books.",
+          "currency": "US$",
+          "price": 32,
+          "position": 39
+        },
+        {
+          "title": "悖论式领导如何让员工两全其美？——心理安全感和工作繁荣感的 ...",
+          "link": "https://qks.sufe.edu.cn/mv_html/j00002/201803/cfd77cfa-45f0-4ca3-8f94-60fe9d0f105a_WEB.htm",
+          "snippet": "悖论式领导（paradoxical leadership，PL）是将悖论理论与领导风格理论有效结合延伸出的一种新型领导理论，旨在应对企业外部环境变化带来的竞争性挑战（Lavine，2014）。悖论理论 ...",
+          "position": 40
+        },
+        {
+          "title": "[PDF] 组织惯例对组织创新的悖论性作用机理研究",
+          "link": "https://nbr.nankai.edu.cn/download_upload_file.aspx?file_name=/uploadfile/nkglpl/20200223/6%20%E6%9E%97%E6%B5%B7%E8%8A%AC%E7%AD%89%20%E7%BB%84%E7%BB%87%E6%83%AF%E4%BE%8B%E5%AF%B9%E7%BB%84%E7%BB%87%E5%88%9B%E6%96%B0%E7%9A%84%E6%82%96%E8%AE%BA%E6%80%A7%E4%BD%9C%E7%94%A8%E6%9C%BA%E7%90%86%E7%A0%94%E7%A9%B6.pdf",
+          "snippet": "本研究在. 组织惯例二维构成观、五维结构模型及惯例明示面与执. 行面的内在互动关系理论基础上，采用探索性案例研究. 方法，探究组织惯例对组织创新既阻碍又促进的悖论性.",
+          "position": 41
+        },
+        {
+          "title": "法律自创生机制：隐藏与展开悖论 - 交大法学",
+          "link": "https://lawreview.sjtu.edu.cn/ch/reader/view_abstract.aspx?file_no=20130105&flag=1",
+          "snippet": "丁骋骋.流动性过剩与流动性悖论[J].财经理论与实践,2007,28(5):27-30. [ ...",
+          "position": 42
+        },
+        {
+          "title": "政治权威与道德自主性：悖论及协调的可能性 - 法信",
+          "link": "https://www.faxin.cn/lib/Flwx/FlqkContent.aspx?gid=F44159&libid=040101",
+          "snippet": "[1]这里的“悖论”似乎意指它的字面含义，即看起来似是而非的某个东西，但却蕴含了哲学的挑战。[2]权威与理性或自主性之间的悖论是显而易见的，理性要求一个人总是按照他所意识 ...",
+          "position": 43
+        },
+        {
+          "title": "概率性证据研究中的认识悖论",
+          "link": "https://zjkxyjy.cupl.edu.cn/info/2072/4888.htm",
+          "snippet": "概率性证据研究中的认识悖论 ... 【摘 要】在南昌大学原校长周文斌受贿案中，其机械使用概率论解释质疑控方证据的做法，存在严重错误，由此引发了关于概率证据理论的一些思考。",
+          "position": 44
+        },
+        {
+          "title": "教育的消费性价值——研究“伊斯特林悖论”的新思路 - Semantic Scholar",
+          "link": "https://www.semanticscholar.org/paper/%E6%95%99%E8%82%B2%E7%9A%84%E6%B6%88%E8%B4%B9%E6%80%A7%E4%BB%B7%E5%80%BC%E2%80%94%E2%80%94%E7%A0%94%E7%A9%B6%E2%80%9C%E4%BC%8A%E6%96%AF%E7%89%B9%E6%9E%97%E6%82%96%E8%AE%BA%E2%80%9D%E7%9A%84%E6%96%B0%E6%80%9D%E8%B7%AF-%E7%8E%8B%E5%86%B0/be8a0876079864f9ed09041a400a0ef129921e74",
+          "snippet": "自伊斯特林提出收入增加并不一定导致幸福增加即“伊斯特林悖论”之后，经济学界产生了极大反响。教育是增加收入的主要途径，收入对主观幸福感产生影响某种程度上正是教育的 ...",
+          "position": 45
+        },
+        {
+          "title": "中国涉外法治研究主体性建构的悖论及其超越 - 学术月刊",
+          "link": "https://www.xsyk021.com/article/id/8d143c85-3ae1-4610-b65f-e36830fc6715",
+          "snippet": "在此影响下，中国学界开始自我东方化：一方面认为中国与西方在涉外治理上的差异是一种“落后”，这种认识激发了强烈的主体性意识和进步意愿；另一方面，在建设中国涉外法治时，又因 ...",
+          "position": 46
+        },
+        {
+          "title": "万民法》中的国家自主性悖论--罗尔斯的解决方案及其遗留问题(论文)",
+          "link": "https://cir.hqu.edu.cn/info/1153/7008.htm",
+          "snippet": "为因应国家自主性悖论，罗尔斯以人民去替代传统的国家概念，并着力论证人民之对内自主性与个人自主性的兼容，及其对外自主性与普遍和平理想的兼容。但这一 ...",
+          "date": "2023年7月7日",
+          "position": 47
+        },
+        {
+          "title": "资本主义经济发展悖论的理论剖析 - 人民日报",
+          "link": "http://paper.people.com.cn/rmlt/html/2021-04/01/content_25887120.htm",
+          "snippet": "通过对三方面悖论的揭示，马克思得出资本主义社会经济发展与环境破坏是同一历史过程、富裕与贫困共生、人的独立性以对物的依赖为基础的结论，在此基础上，马克思提出正是这些 ...",
+          "position": 48
+        },
+        {
+          "title": "【4月16日】 误导性推论与认识悖论——逻辑与哲学系列讲座第73讲",
+          "link": "https://philosophy.whu.edu.cn/info/1036/109891.htm",
+          "snippet": "【4月16日】 误导性推论与认识悖论——逻辑与哲学系列讲座第73讲. 点击次数：154 更新时间：2024-04-15. 版权所有©2018 武汉大学哲学学院 地址：中国 武汉 珞珈山 邮编：430072 邮箱：phil@whu.edu.cn.",
+          "position": 49
+        },
+        {
+          "title": "悖论_百度百科",
+          "link": "https://baike.baidu.com/item/%E6%82%96%E8%AE%BA/126620",
+          "snippet": "... 性绝对化，即把形式逻辑当做思维方式。所有悖论都是因形式逻辑思维方式产生，形式逻辑思维方式发现不了、解释不了、解决不了的逻辑错误。所谓解悖 ... 悖论) 罗素悖论 ...",
+          "position": 50
+        },
+        {
+          "title": "破坏性创新商业模式“合法性悖论”的突破方式研究 - 科技进步与对策",
+          "link": "http://www.kjjb.org/CN/abstract/abstract16247.shtml",
+          "snippet": "摘要 过去的研究大多针对概念、分类方法及破坏性创新商业模式成功后的关键因素等进行静态分析,对于其成长过程中如何突破\"合法性悖论\"以避免中途夭折的动态研究却不多见 ...",
+          "position": 51
+        },
+        {
+          "title": "危重症患者的“肥胖悖论”现象：神话还是现实 - 中华医学期刊网",
+          "link": "https://rs.yiigle.com/CN112147202211/1431577.htm",
+          "snippet": "肥胖是以人体脂肪组织过度蓄积或分布异常为特征的一种疾病 ［1］，依据病因分为单纯性肥胖和病理性肥胖，前者是由于饮食、运动、遗传等因素所致，后者是因某些 ...",
+          "date": "2022年11月12日",
+          "position": 52
+        },
+        {
+          "title": "《王国悖论日》将推出男女“反串”戏楚天都市报",
+          "link": "https://ctdsbepaper.hubeidaily.net/pc/content/202312/13/content_255793.html",
+          "snippet": "《王国悖论日》12月底将推出男女演员“反串”戏，由男性演员角色扮演女主角小爱，让观众体验一把角色互换的戏剧解构；同时，还将采取脱口秀与戏剧及故事情节结合 ...",
+          "date": "2023年12月13日",
+          "position": 53
+        },
+        {
+          "title": "[PDF] “知道者悖论”的博弈论分析",
+          "link": "https://www.sinoss.net/uploadfile/2010/1130/7105.pdf",
+          "snippet": "本文以“突击考试”为例，指. 出这个悖论涉及合理行动问题，其中的推理是策略性推理，通过分析主体的目标、偏好、行动，在完全信. 息博弈模型中重构了相关推理，提出了一个博弈论 ...",
+          "position": 54
+        },
+        {
+          "title": "非对称伦理学与世界公民主义宽容悖论 - HKUST SPD",
+          "link": "https://repository.hkust.edu.hk/ir/Record/1783.1-63433",
+          "snippet": "它的反面是那些依据种族、信仰、性别等特殊品质界定个人根本身份并以此排斥他人的共同体。当代自由主义政治理论家如罗尔斯和哈贝马斯把宽容阐释为独立于某种关于善和美好 ...",
+          "position": 55
+        },
+        {
+          "title": "受欺负与青少年外化问题关系的“健康环境悖论”：敌意性归因的中介作用",
+          "link": "https://journal.psych.ac.cn/xlxb/CN/10.3724/SP.J.1041.2021.00170",
+          "snippet": "“健康环境悖论”是指在总体受欺负水平较低的环境中, 受欺负的个体会表现出更多适应问题。本研究以来自47个班级的1764名5年级到8年级学生为被试(男生956人, 平均年龄14.46岁) ...",
+          "position": 56
+        },
+        {
+          "title": "同济高等讲堂｜知识产权法的悖论",
+          "link": "https://sicip.tongji.edu.cn/1c/30/c13019a334896/page.htm",
+          "snippet": "... 悖论构成了知识产权保护体系内的复杂问题。讲座最后，孔祥俊教授进一步讨论了知识产权的政治性、政策性与专业性，并指出宏观与微观及政策与法律技术的 ...",
+          "date": "2024年5月13日",
+          "position": 57
+        },
+        {
+          "title": "悖论- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E6%82%96%E8%AE%BA",
+          "snippet": "悖论，亦称为誖论、吊诡、佯谬或诡局，是指一种导致矛盾的命题。通常从逻辑上无法判断正确或错误称为悖论，似非而是称为佯谬；有时候违背直觉的正确论断也称为悖论。悖论的 ...",
+          "position": 58
+        },
+        {
+          "title": "领导创新期望与员工突破性创新投入:基于悖论理论的研究 - 万方",
+          "link": "https://doi.wanfangdata.com.cn/10.3969/j.issn.1002-5502.2021.10.017",
+          "snippet": "基于罗森塔尔效应和悖论理论,通过对创新过程投入进行分类并将突破性创新概化为一个包含相互竞争的学习需求间张力的过程,本研究构建了一个有调节的中介 ...",
+          "date": "2021年10月28日",
+          "position": 59
+        },
+        {
+          "title": "康德的实践性教育：强制与自由的悖论 - 中国社会科学网",
+          "link": "https://www.cssn.cn/jyx/jyxyl/202211/t20221108_5561174.shtml",
+          "snippet": "康德的实践性教育：强制与自由的悖论 ... 摘要：在一般意义上，自由与强制是难以共存于教育艺术之中的，因为二者是矛盾的。不过，在康德那里，他在界定教育是艺术 ...",
+          "date": "2020年2月6日",
+          "position": 60
+        },
+        {
+          "title": "[PDF] 科技进步与自由时间的获得性悖论 - 自然辩证法通讯",
+          "link": "https://jdn.ucas.ac.cn/public/uploads/files/6416e0c2660f2.pdf",
+          "snippet": "一悖论性矛盾的图景。只有如此，才能对自由. 时间获得性悖论的问题进行科学的回答。 一、当前科技进步与自由时间的悖论. 当前科学技术的发展正逐渐进入以人工智. 能、大 ...",
+          "position": 61
+        },
+        {
+          "title": "数据交易如何破局——数据要素市场中的阿罗信息悖论与法律应对",
+          "link": "https://www.civillaw.com.cn/t/?id=38463",
+          "snippet": "有观点认为，应通过数据产权保护消解阿罗信息悖论，避免相关的公地悲剧、“搭便车”与激励问题。但数据具有价值不确定、一定程度的非竞争性与非排他性 ...",
+          "date": "2022年4月11日",
+          "position": 62
+        },
+        {
+          "title": "由悖论式领导走向责任型领导 - 清华大学经济管理学院",
+          "link": "https://www.sem.tsinghua.edu.cn/info/1171/35782.htm",
+          "snippet": "这一定义体现了组织悖论“嵌入于要素”的特征及其“作为一种特殊性关系”的本质。相互依赖要素既可以是两个要素，也可以是多个要素，因此，学界逐渐意识到“悖论” ...",
+          "date": "2023年12月18日",
+          "position": 63
+        },
+        {
+          "title": "儒家社会的人口买卖：性别歧视与价值观悖论 - 第一财经",
+          "link": "https://m.yicai.com/news/101683934.html",
+          "snippet": "这样，在一个人身权利尚未得到充分保护的时代，不同阶层都通过买卖仆人、妻子、奴隶、小妾、童养媳、妓女、学徒和养子养女来满足家庭内部的需求，其结果是， ...",
+          "date": "2023年2月24日",
+          "position": 64
+        },
+        {
+          "title": "媒介公共性的“理解-交往”悖论——基于结构方程模型的实证分析",
+          "link": "http://scholar.pku.edu.cn/pengyi/publications/mei-jie-gong-gong-xing-de-li-jie-jiao-wang-bei-lun-ji-yu-jie-gou-fang-cheng-mo",
+          "snippet": "研究发现,个体的信息地位是其经济社会地位与网络认知态度间的中介变量;信息地位越高,媒介事件认知越低,媒介素养水平越高;与此同时,媒介事件认知作为信息地位和媒介信任评价 ...",
+          "position": 65
+        },
+        {
+          "title": "学术期刊的论文撤销与其权威性悖论解析 - 科技导报",
+          "link": "http://www.kjdb.org/CN/Y2015/V33/I19/109",
+          "snippet": "学术期刊是发表创新科研成果、交流学术思想的主要媒介,同时具有学术导向和学术评价作用;而要发挥这些作用就必须具备一定的学术权威性,可以说,学术权威性是学术期刊的 ...",
+          "position": 66
+        },
+        {
+          "title": "化解科技创新的“宽容悖论” - 中国政府网",
+          "link": "https://www.gov.cn/zhengce/2018-04/19/content_5283870.htm",
+          "snippet": "科技创新，尤其是原始性创新，是一种向未知领域探索的活动，风险与变数如影随形。失败的概率高于成功的概率，是科技创新的常态。著名科学家钱学森在论述 ...",
+          "date": "2018年4月19日",
+          "position": 67
+        },
+        {
+          "title": "性別悖論- 牧羊人 - Medium",
+          "link": "https://medium.com/@extraordinary1022/%E6%80%A7%E5%88%A5%E6%82%96%E8%AB%96-e900668447b7",
+          "snippet": "性別悖論 ... 當我們在談論性別的差異時，可以先分成兩個部份，生理和心理上的，例如跨部的不同，這是很顯而易見的，這是第一性徵，或者進入青春期後才會比較明顯 ...",
+          "date": "2022年8月23日",
+          "position": 68
+        },
+        {
+          "title": "说不可说:对言说之原初悖论的文学性裁决 - 文艺理论研究",
+          "link": "https://tsla.ecnu.edu.cn/CN/abstract/abstract1593.shtml",
+          "snippet": "摘要： 耶鲁学派发现,遵循语言三维(所指之维、间性之维和自反关涉之维)的转换生成机制,文学言说发明了无数化解言说之原初悖论的表意手段或修辞策略。",
+          "position": 69
+        },
+        {
+          "title": "悖论 - MBA智库百科",
+          "link": "https://wiki.mbalib.com/wiki/%E6%82%96%E8%AE%BA",
+          "snippet": "局限性。产生悖论的根本原因是把传统逻辑形式化、把传统逻辑普适性 ... 悖论主要有逻辑悖论、概率悖论、几何悖论、统计悖论和时间悖论等。 罗素的悖论以其 ...",
+          "position": 70
+        },
+        {
+          "title": "基于复杂网络的电网结构健壮性及Braess悖论现象研究 - 计算物理",
+          "link": "http://www.cjcp.org.cn/CN/10.19596/j.cnki.1001-246x.8279",
+          "snippet": "应用复杂网络理论，建立电力系统的改进导纳模型，结合电网拓扑特性和电气特性对电网的级联故障进行研究。通过随机移除传输线引发电网级联故障，研究网络的节点数、平均度、 ...",
+          "position": 71
+        },
+        {
+          "title": "科学网-漫谈“男孩或女孩”悖论-王宏琳的博文 - 手机版",
+          "link": "https://wap.sciencenet.cn/blog-3005681-1457784.html?mobile=1",
+          "snippet": "如果我们随机选择一个第一个是男孩的家庭，那就排除了第一种和第二种可能性，剩下两种同样可能的可能性。这两种中，只有一种有两个男孩。所以这个家庭两个 ...",
+          "date": "4天前",
+          "position": 72
+        },
+        {
+          "title": "[PDF] 非对称伦理学与世界公民主义宽容悖论 - PhilArchive",
+          "link": "https://philarchive.org/archive/NEL",
+          "snippet": "它的反面是那些依据种族、信仰、性别等特殊品质界定个人根本身份并以此排斥他人的共同体。 当. 代自由主义政治理论家如罗尔斯和哈贝马斯把宽容颜草草为独立于某种关于 ...",
+          "position": 73
+        },
+        {
+          "title": "中国生育悖论背后的深层逻辑 - 河海大学期刊部",
+          "link": "https://jour.hhu.edu.cn/hhdxxbsk/article/html/20240101?st=search",
+          "snippet": "中国是目前世界上少数几个进入很低生育率状态的发展中国家之一,这种超前于现代化发展水平的状态成为一个悖论。破解中国低生育率之谜,需要从中国特殊的 ...",
+          "date": "2024年3月1日",
+          "position": 74
+        },
+        {
+          "title": "反身性与“曼海姆悖论”——兼论相对主义社会学的可能性",
+          "link": "https://shxyj.ajcass.com/Magazine/show/?id=72677",
+          "snippet": "社会学思想； 曼海姆； 知识社会学； 涂尔干； 诠释学； 拉图尔； 价值关联； 反思性； 兼论； 布鲁尔；. 英文关键词：. 项目基金：. 欢迎阅读《社会学研究》！您是该文 ...",
+          "position": 75
+        },
+        {
+          "title": "现代性的五个悖论 - 商务印书馆",
+          "link": "https://www.cp.com.cn/book/b9aecb06-e.html",
+          "snippet": "显示全部内容简介. 本书集中讨论了有关现代性研究的五个悖论：对新的迷信、对未来的笃行、对理论的偏好、对大众文化的呼唤和对否定的激情。作者认为，现代传统由一个死胡同 ...",
+          "currency": "¥",
+          "price": 20,
+          "position": 76
+        },
+        {
+          "title": "性别健康差距研究：女性的健康寿命悖论 - 煎蛋",
+          "link": "http://jandan.net/p/116376",
+          "snippet": "“研究突出的一个关键点是，女性和男性在许多生物学和社会因素上存在差异，这些因素随时间波动，有时累积，导致他们在生活的每个阶段和世界各地区经历的健康和 ...",
+          "date": "2024年5月3日",
+          "position": 77
+        },
+        {
+          "title": "程序性正当程序的悖论与重构",
+          "link": "http://www.shkxjk.com/CN/abstract/abstract3187.shtml",
+          "snippet": "摘要/Abstract. 摘要： 在法治现代化不断发展的过程中, 法律程序, 特别是程序性正当程序的重要性被论者反复加以强调, 甚至被上升为法律的真髓所在。但实践证明, 程序性正当 ...",
+          "position": 78
+        },
+        {
+          "title": "肯定美学的悖论与生态文明 - 新华网",
+          "link": "http://www.xinhuanet.com/politics/2015-10/14/c_128314834.htm",
+          "snippet": "肯定美学通过解构审美关系中人的中心作用而完成了对人类中心主义的质疑与颠覆。重新审视并消解审美中人的“中心”性是合理的，但肯定美学偏激追求“自然自律” ...",
+          "date": "2015年10月14日",
+          "position": 79
+        },
+        {
+          "title": "独立董事摆脱“独立性悖论”路径探究 - 中国上市公司协会",
+          "link": "https://www.capco.org.cn/xhdt/hyzywyh/dldswyh/201904/20190418/j_2019041817484000015689727297498561.html",
+          "snippet": "不能独立的独立董事却被要求独立，否则就要承担法律责任，这就是对“独立性悖论”最简单的概括，如此，学界纷纷传出消极言论，建议取消独立董事制度，以为“独立性 ...",
+          "date": "2014年9月11日",
+          "position": 80
+        },
+        {
+          "title": "女性艺术是个悖论- 佟玉洁- 崇真艺客",
+          "link": "https://www.trueart.com/news/295961.html",
+          "snippet": "女性艺术是个悖论 ... 通过制造悖论而逃离悖论，这是女性艺术面临的一种尴尬。 ... 节日美学的文本身体，更强调身体的符号意义，而忽略了身体的物理的存在。如果 ...",
+          "date": "2009年3月3日",
+          "position": 81
+        },
+        {
+          "title": "[PDF] “任人唯贤”的制度悖论∗ - Projects at Harvard",
+          "link": "https://projects.iq.harvard.edu/sites/projects.iq.harvard.edu/files/cbdb/files/an_institutio._ming_dynasty_ke_rong_zhu_.pdf",
+          "snippet": "科举考试于隋朝应运而生，统治者允许符合基本要求的男性. 参加由国家组织的选拔性笔试。 经唐宋等朝代演变，这一选拔机制逐渐成为选. 拔政治精英的主要渠道，并在明代达到顶峰 ...",
+          "position": 82
+        },
+        {
+          "title": "解读互联网时代的悖论 - 胡泳",
+          "link": "https://huyong.blog.caixin.com/archives/162181",
+          "snippet": "管理哲学家查尔斯·汉迪以“组织与个人的关系”“未来工作形态”的新观念而闻名于世。他把世界上的问题分为两种：一种是“收敛性问题”，即可以找到“唯一答案”的 ...",
+          "date": "2017年4月25日",
+          "position": 83
+        },
+        {
+          "title": "打破改革的悖论需要勇气和智慧 - 新浪财经",
+          "link": "http://finance.sina.cn/zl/2016-05-09/zl-ifxryhhi8552023.d.html?from=wap",
+          "snippet": "在这个“养虎为患”形成的复杂性里进行改革，改革的悖论将更加显性化。打破悖论的途径不仅需要断腕的勇气，更需要顶层设计的智慧，也需要社会共识和信任的重建 ...",
+          "date": "2016年5月9日",
+          "position": 84
+        },
+        {
+          "title": "悖论式领导如何促进员工工作—家庭平衡？ - 上海财经大学期刊社",
+          "link": "https://qks.sufe.edu.cn/mv_html/j00002/202101/3949f80e-4589-42e8-8b6f-1ef6f95e3c3c_WEB.htm",
+          "snippet": "相比于其他领导风格，悖论式领导善于整合相互矛盾的组织结构需求和员工个人需求，引导下属从整体性视角看待问题（Zhang等，2015）。因此，深入探讨悖论式领导对员工工作—家庭平衡 ...",
+          "position": 85
+        },
+        {
+          "title": "选择性执法的内在悖论与消解机制 - 法信",
+          "link": "https://www.faxin.cn/lib/Flwx/FlqkContent.aspx?gid=F109794",
+          "snippet": "选择性执法基于对灵活性、成本低和实质正义的追求而具有法治合理性,但又会违背法治的普遍性、连续性等基本要求,破坏人们对法治的信仰,因而形成了一种内在悖论.要化解选择性 ...",
+          "position": 86
+        },
+        {
+          "title": "青年教师跨学科论坛第七十八期：悖论式组织 - 社会科学处",
+          "link": "http://skc.xjtu.edu.cn/info/1037/5742.htm",
+          "snippet": "报告题目：悖论式组织：一个基于中国组织实践现象的原创性理论新构念 ... 摘要：借助扎根理论思想与方法，融合了一定的民族志研究风格，以诠释性单案例研究方法， ...",
+          "date": "2022年4月8日",
+          "position": 87
+        },
+        {
+          "title": "法治的细节︱强奸罪的悖论：都是酒后乱性，为何不平等对待？",
+          "link": "https://m.thepaper.cn/newsDetail_forward_25556430",
+          "snippet": "此前人们对强奸受害人还有几种刻板印象：其一，受害人也有错——谁让你穿成这样？谁让你喝那么多酒？这种问责受害人的方式，加重了受害人的痛苦和自责。另一种 ...",
+          "date": "2023年12月6日",
+          "position": 88
+        },
+        {
+          "title": "专业认同的悖论：社会工作专业实习的意外后果",
+          "link": "http://www.xml-data.org/shgzygl/html/1586502155011-1019678316.htm",
+          "snippet": "表意性认同在包括对社会工作专业价值观认同的同时，还包含对社会工作专业知识体系的认同，这是一种与特定行为目的没有直接关联的认同，表达的是学生对社会工作专业一种纯粹 ...",
+          "position": 89
+        },
+        {
+          "title": "外国文学| 拉康精神分析的伦理学悖论（文/赵淳）",
+          "link": "https://www.bfsujournals.com/c/2023-05-12/518907.shtml",
+          "snippet": "但凯塞尔（Marc de Kesel）在自己的专题研究中指出，拉康的伦理学“不仅没有真正形成任何确定性的结论，而且这些评论本身逐渐演变为许多未解决的悖论”（265）；而 ...",
+          "date": "2023年5月12日",
+          "position": 90
+        },
+        {
+          "title": "国内外隐私悖论研究综述 - 图书情报工作",
+          "link": "https://www.lis.ac.cn/CN/10.13266/j.issn.0252-3116.2023.04.013",
+          "snippet": "[目的/意义] 隐私悖论是一种新的社会信息学现象和“特殊”的隐私披露行为，通过分析国内外图书情报领域隐私悖论的代表性研究成果，对现有研究的知识体系进行系统梳理，并 ...",
+          "position": 91
+        },
+        {
+          "title": "陈杨｜自主性的悖论——试析康德自主性概念的两种诠释",
+          "link": "https://philosophy.sysu.edu.cn/article/4709",
+          "snippet": "陈杨｜自主性的悖论——试析康德自主性概念的两种诠释. 发布日期：2023-07-19. image-20230720113107-1. image-20230720113137-2. image-20230720113200-3.",
+          "position": 92
+        },
+        {
+          "title": "肖瑛| 反身性与“曼海姆悖论”：兼论相对主义社会学的可能性 - 360Doc",
+          "link": "http://www.360doc.com/content/23/1009/13/16295112_1099531421.shtml",
+          "snippet": "拉图尔指出，“反身性指任何一种考虑其自身产物的文本；以及那些通过这样做，宣称能消除其读者因对其相信得过少或过多而产生的有害后果的文本”，其中，元反身性 ...",
+          "date": "2023年10月9日",
+          "position": 93
+        },
+        {
+          "title": "悖论的力量 - 世界科学",
+          "link": "https://worldscience.cn/c/2022-03-25/638555.shtml",
+          "snippet": "一种对于悖论的合理定义是“一系列相互矛盾的主张，其中每一个似乎都是正确的”。这类谜题中最古老和最著名的例子之一是芝诺的两分法悖论，它由一位生活在 ...",
+          "date": "2022年3月25日",
+          "position": 94
+        },
+        {
+          "title": "关注战场情报预警悖论- 解放军报 - 中国军网",
+          "link": "http://www.81.cn/jfjbmap/content/2018-09/27/content_216758.htm",
+          "snippet": "悖论一：战场预警的可靠性越高，越不易被质疑，也越容易造成预警失误。 可靠性指预警情报反映警情的客观程度。高可靠性是在战场情报预警实践中确立起来的，在 ...",
+          "date": "2018年9月27日",
+          "position": 95
+        },
+        {
+          "title": "11 | 常见误区及解决方法（下）：辛普森悖论和实验组/对照组的独立性",
+          "link": "https://time.geekbang.org/column/article/326826",
+          "snippet": "\"A/B测试误区与解决方法\"总结了A/B测试中的常见误区和解决方法，包括辛普森悖论和实验/对照组的独立性问题，以及在社交网络、共享经济和共享资源业务中的表现形式和解决 ...",
+          "position": 96
+        },
+        {
+          "title": "中心性的悖论",
+          "link": "https://www.spacesyntax.online/zh-hans/term/zh-hans-centrality-paradox/",
+          "snippet": "中心性的悖论指某个地区的形态更为整合（即更接近圆形），那么该地区内部最为整合的部分与其外界就更为隔离，而外界包括该地区邻近的聚集区。简而言之，内部最大限度的整合， ...",
+          "position": 97
+        },
+        {
+          "title": "新加坡悖论：女性回避数学相关职业 - UN iLibrary",
+          "link": "https://www.un-ilibrary.org/content/journals/22203583/2023/1/7?crawler=true&mimetype=application/pdf",
+          "snippet": "新加坡悖论：女性回避数学相关职业| 17. 但乔尔·林的经历表明，还存在一个. 不那么明显的隐性障碍：缺乏信心。 数字游戏. 南洋理工大学（NTU）的一项最新 ...",
+          "date": "2023年1月7日",
+          "position": 98
+        },
+        {
+          "title": "期望效用理论的两个悖论及其消解 - 学习公社数字图书馆",
+          "link": "http://library.ttcdw.com/libary/wenhuakejisuyang/zx/118194.html",
+          "snippet": "作为一种规范性理论，期望效用理论（贝叶斯决策理论）在决策论中一直占有突出的地位。然而，阿莱斯悖论（Allais paradox）和厄尔斯伯格悖论（Ellsberg paradox）在理论基础和解释 ...",
+          "position": 99
+        }
+      ],
+      "images": [
+        {
+          "title": "J Heart Lung Transplant：调查肺动脉高压中的“性别悖论”：肺动脉高压 ...",
+          "imageUrl": "https://img.medsci.cn/20240512/1715508217093_1976717.png",
+          "link": "https://m.medsci.cn/article/show_article.do?id=bd898255428e"
+        },
+        {
+          "title": "研究】“性别平等悖论“：越是男女平等的社会，女性就越不爱学理工_手机 ...",
+          "imageUrl": "http://p2.itc.cn/q_70/images03/20201219/eef0d688b2c64eb9a85b067f45c50c11.jpeg",
+          "link": "https://www.sohu.com/a/439203939_778776"
+        },
+        {
+          "title": "产品分析之统计学悖论| 人人都是产品经理",
+          "imageUrl": "https://image.woshipm.com/wp-files/2019/01/ilXALGOObc5AKsX2tKah.png",
+          "link": "https://www.woshipm.com/data-analysis/1846422.html"
+        },
+        {
+          "title": "STEM性别平等悖论是否存在？ Does STEM Gender Equality Paradox Exist?",
+          "imageUrl": "x-raw-image:///7c7432af15dc2ab472dab8a304d816fbf15a56ae08260275ed2fcebf99753eb5",
+          "link": "https://pdf.hanspub.org/ASS20221000000_29281273.pdf"
+        },
+        {
+          "title": "现代性的五个悖论",
+          "imageUrl": "https://pic.cp.com.cn/Images/2014/2/14/101057293bd4f7181-9_hwc268268.jpg",
+          "link": "https://www.cp.com.cn/book/b9aecb06-e.html"
+        },
+        {
+          "title": "性别平等悖论：研究发现性别平等国家的阅读和科学性别差异最大– 科技视野",
+          "imageUrl": "https://yuyuetg.com/wp-content/uploads/2024/09/classroom-scaled.jpg",
+          "link": "https://yuyuetg.com/archives/7828"
+        },
+        {
+          "title": "新解：性的悖论_手机搜狐网",
+          "imageUrl": "https://p4.itc.cn/q_70/images03/20210805/d88631024e9f453c8869238c26dd9f46.png",
+          "link": "https://www.sohu.com/a/481525947_121119349"
+        },
+        {
+          "title": "康德的实践性教育：强制与自由的悖论-中国社会科学网",
+          "imageUrl": "https://www.cssn.cn/jyx/jyxyl/202211/W020221108376984321185.png",
+          "link": "https://www.cssn.cn/jyx/jyxyl/202211/t20221108_5561174.shtml"
+        },
+        {
+          "title": "辛普森悖论：诡异的男女比例- physixfan",
+          "imageUrl": "http://www.physixfan.com/wp-content/uploads/1xr0gm.png",
+          "link": "https://www.physixfan.com/xinpusenbeilunguiyidenannubili/"
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "性别悖论",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "【中亚书评系列之十七】《权力的悖论：欧亚国家脆弱性的逻辑》",
+          "link": "http://icas.lzu.edu.cn/f/201907/582.html",
+          "snippet": "[ 英] 约翰·希瑟肖[ 加] 爱德华·斯卡兹著代家玮编译【编译者按】 国家脆弱性是指国家能力虚弱或部分虚弱，无法满足国民对生活的基本需求或无力抵御源自 ...",
+          "date": "2019年7月1日",
+          "position": 1
+        },
+        {
+          "title": "辛普森悖论- 集智百科- 复杂系统|人工智能",
+          "link": "https://wiki.swarma.org/index.php/%E8%BE%9B%E6%99%AE%E6%A3%AE%E6%82%96%E8%AE%BA",
+          "snippet": "该悖论指出：会存在着这样的数据。总体上的统计结果与其每一个子部分的统计结果相反。即存在如下的可能性：X和Y在边缘上正相关 ...",
+          "date": "2022年7月10日",
+          "position": 2
+        },
+        {
+          "title": "女性艺术是个悖论- 佟玉洁- 崇真艺客",
+          "link": "https://www.trueart.com/news/295961.html",
+          "snippet": "女性艺术是个悖论 ... 通过制造悖论而逃离悖论，这是女性艺术面临的一种尴尬。 ... 节日美学的文本身体，更强调身体的符号意义，而忽略了身体的物理的存在。如果 ...",
+          "date": "2009年3月3日",
+          "position": 3
+        },
+        {
+          "title": "David Graeber | 傻屌：解开“领带悖论”",
+          "link": "https://tyingknots.net/2020/09/graeber-dickheads/",
+          "snippet": "女性特有的装饰（耳环、口红、眼影等）倾向于突出“接受性的器官”（receptive organs）。能被接受的男性首饰——戒指、袖扣、名牌手表——则倾向于突出手部。这当然 ...",
+          "date": "2020年9月11日",
+          "position": 4
+        },
+        {
+          "title": "一致性悖论（Paradox of Unanimity） - 日记- 豆瓣",
+          "link": "https://m.douban.com/note/803287223/",
+          "snippet": "一致性悖论（Paradox of Unanimity） 请注意一致性悖论英文是Paradox of Unanimity，而不是Consistency Paradox。后者有时同样译作一致性悖论。",
+          "date": "2021年5月21日",
+          "position": 5
+        },
+        {
+          "title": "[PDF] 中国近三十年逻辑悖论研究的主要特点与趋势*",
+          "link": "http://rwxy.cupl.edu.cn/__local/F/F0/FA/9175F42CAF4AC2367B5D07E0E50_9D1C48C2_3EC6F.pdf",
+          "snippet": "应当指出的是，在上述讨论中否定悖论的“辩证矛盾”说的学者中有不少并不否认对悖论做辩证. 分析的必要性和重要性，也不否认悖论研究对辩证逻辑研究的价值。 二悖论的定义与 ...",
+          "position": 6
+        },
+        {
+          "title": "颜岩：现代性及其文化悖论 - 马克思主义研究网",
+          "link": "http://marxism.cass.cn/gwmszy/202312/t20231210_5704695.shtml",
+          "snippet": "科学共同体与民主社会是紧密相连的，前者可以促进后者的完善和发展，后者则为前者提供良好的环境和氛围。孔多塞坚决反对个别科学家和统治阶级利用手中的权力垄断科学，他认为 ...",
+          "position": 7
+        },
+        {
+          "title": "悖论的迷宫与知识的脆弱性_中华读书报 - 光明网",
+          "link": "https://www.gmw.cn/01ds/2005-10/12/content_317089.htm",
+          "snippet": "一切真实的事物都是可知的，这是悖论产生的根基。在享受完这顿丰盛的智力大餐后，我们得到了一个反讽式的结论：我们的无知是必然的。当然，这很不幸。但认识到 ...",
+          "date": "2005年10月12日",
+          "position": 8
+        },
+        {
+          "title": "制度悖论视角下包容性创新的实现路径研究 - Amazon",
+          "link": "https://www.amazon.de/-/en/dp/7516159603",
+          "snippet": "制度悖论视角下包容性创新的实现路径研究: Amazon.de: Books.",
+          "currency": "€",
+          "price": 39.93,
+          "position": 9
+        },
+        {
+          "title": "辛普森悖论：诡异的男女比例 - physixfan",
+          "link": "https://www.physixfan.com/xinpusenbeilunguiyidenannubili/",
+          "snippet": "辛普森悖论：诡异的男女比例 ; 男生人数, 女生人数 ; P大, 50, 201 ; T大, 9, 92 ...",
+          "date": "2011年1月31日",
+          "position": 10
+        },
+        {
+          "title": "资本主义经济发展悖论的理论剖析 - 人民论坛网",
+          "link": "http://www.rmlt.com.cn/2021/0415/611922.shtml",
+          "snippet": "通过对三方面悖论的揭示，马克思得出资本主义社会经济发展与环境破坏是同一历史过程、富裕与贫困共生、人的独立性以对物的依赖为基础的结论，在此基础上， ...",
+          "date": "2021年4月15日",
+          "position": 11
+        },
+        {
+          "title": "短纤维与芯垫完整性的悖论，误解还是事实？ - 书赞桉诺",
+          "link": "https://www.suzanoasia.com.cn/knowledge_article/%E7%9F%AD%E7%BA%A4%E7%BB%B4%E4%B8%8E%E8%8A%AF%E5%9E%AB%E5%AE%8C%E6%95%B4%E6%80%A7%E7%9A%84%E6%82%96%E8%AE%BA%E8%AF%AF%E8%A7%A3%E8%BF%98%E6%98%AF%E4%BA%8B%E5%AE%9E/",
+          "snippet": "卡洛斯·里歇尔（Carlos Richer） Richer Investment首席执行官兼国际尿布测试中心首席执行官. 我已经在纸尿裤行业工作34年了。回想1984年，当我问及尿裤吸收芯层时，我得到 ...",
+          "position": 12
+        },
+        {
+          "title": "【冯庆】近代情性论变革的动机与悖论——以康有为和谭嗣同的“内在 ...",
+          "link": "https://www.rujiazg.com/article/17954",
+          "snippet": "康有为承认世界竞争的局势才是“天道自然”———这是其与传统儒家天道观彻底决裂之标志。为了参与“万国竞争”，就得变换国民之气质，使其情性特征转变为“强”。",
+          "date": "2020年1月4日",
+          "position": 13
+        },
+        {
+          "title": "辛普森悖论_百度百科",
+          "link": "https://baike.baidu.com/item/%E8%BE%9B%E6%99%AE%E6%A3%AE%E6%82%96%E8%AE%BA/4475862",
+          "snippet": "当人们尝试探究两种变量（比如新生录取率与性别）是否具有相关性的时候，会分别对之进行分组研究。然而，在分组比较中都占优势的一方，在总评中有时反而是失势的一方。",
+          "position": 14
+        },
+        {
+          "title": "“女性书写”的主体(性)悖论",
+          "link": "http://book.newdu.com/m/view.php?aid=27541",
+          "snippet": "在诸多女性主义文学批评的核心概念之中，“女性书写”理论尤为引人注目，它是女性主义批评者寻找到的新的批评话语，并成为支撑女性主义文学批评学理性的唯一 ...",
+          "date": "2024年10月26日",
+          "position": 15
+        },
+        {
+          "title": "悖论性工作要求与员工创造力的关系：悖论心态与感知组织支持的作用",
+          "link": "https://d.wanfangdata.com.cn/thesis/Y3773731",
+          "snippet": "探究悖论性工作要求、悖论心态和员工创造力之间的动态变化关系以及感知组织支持的正向调节作用，不仅有助于理清组织提出的悖论性工作要求影响员工创造力的作用机制与边界 ...",
+          "position": 16
+        },
+        {
+          "title": "张旭东：全球化时代的文化悖论：多样性还是单一性",
+          "link": "https://www.legal-theory.org/?mod=info&act=view&id=8607",
+          "snippet": "杰姆逊坚持认为，我们必须格外留心包括经济和文化、市场和力比多、基于生活方式的消费及其对\"主体性\"的意识形态表达在内的各种结构分化的力量，毫不含糊地将 ...",
+          "date": "2004年9月24日",
+          "position": 17
+        },
+        {
+          "title": "期刊论文|姜晓萍，杨舒雯，合法性动机与选择性策略：农村基层减负 ...",
+          "link": "https://ggglxy.scu.edu.cn/info/1093/6923.htm",
+          "snippet": "摘要：农村基层减负悖论是基层治理中的棘手问题，理解其生成逻辑、找到破解之道成为提升农村治理效能的关键。现有研究大多将减负行动视为“因”、负担加 ...",
+          "date": "2024年8月29日",
+          "position": 18
+        },
+        {
+          "title": "解读“凯恩斯悖论”——关于生产率分享的思考 - 经济50人论坛",
+          "link": "http://www.50forum.org.cn/home/article/detail/id/9419.html",
+          "snippet": "无论是由于诺贝尔经济学奖获得者的声誉效应，还是这句话确实揭示了人们苦思不得其解的现实问题，经济学家将这个矛盾现象称为索洛生产率悖论。 无论从学理 ...",
+          "date": "2022年7月5日",
+          "position": 19
+        },
+        {
+          "title": "1、社会网络基础（聚集系数与嵌入性、友谊悖论的验证） - 博客园",
+          "link": "https://www.cnblogs.com/wangzheming35/p/15861343.html",
+          "snippet": "为了检验某一网络是否存在友谊悖论，我一一检查网络中的每一节点。对于节点i，如果他的朋友数（度数degree）比他朋友的平均度数小不少，那么节点i就存在友谊悖 ...",
+          "date": "2022年2月3日",
+          "position": 20
+        },
+        {
+          "title": "文化安全的悖论与软实力的正途 - 全国哲学社会科学工作办公室",
+          "link": "http://www.nopss.gov.cn/n/2013/0423/c362315-21251623.html",
+          "snippet": "在传统思维模式限制人的思想能力，使人对于现实存在着一种习惯性的普遍认同时，这种否定和批判精神就显得格外珍贵，其重要价值也更加凸显。通过对存在的理论 ...",
+          "date": "2013年4月23日",
+          "position": 21
+        },
+        {
+          "title": "姜晓萍等:合法性动机与选择性策略：农村基层减负悖论的生成逻辑",
+          "link": "https://www.zgxcfx.com/sannonglunjian/122741.html",
+          "snippet": "摘要：农村基层减负悖论是基层治理中的棘手问题，理解其生成逻辑、找到破解之道成为提升农村治理效能的关键。现有研究大多将减负行动视为“因”、负担加 ...",
+          "date": "2024年10月15日",
+          "position": 22
+        },
+        {
+          "title": "从理想主义到合意性：企业社会责任多重悖论的破解 - 武汉大学",
+          "link": "http://cgrs.lib.whu.edu.cn/Qw/Paper/780388",
+          "snippet": "从实践的角度来看，与企业社会责任理论与公共认知相伴的是企业社会责任实践表现呈现诸多悖论。悖论是来自逻辑学的基础性概念，被界定为在同一个命题下，根据普遍认可 ...",
+          "position": 23
+        },
+        {
+          "title": "[PDF] 五种技术悖论与发展政治学",
+          "link": "https://www.sfu.ca/~andrewf/paradoxeschinese.pdf",
+          "snippet": "鸟儿显然配备着翅膀，这也可以. 解释他们能够飞翔的原因。这是对于. 海德格尔问题的常识性回答。但这个. 答案的含意还不够明确。尽管直觉告.",
+          "position": 24
+        },
+        {
+          "title": "生命的多样性与“性悖论” - 生物通",
+          "link": "https://www.ebiotrade.com/newsf/2021-7/20210731084847260.htm",
+          "snippet": "“大多数细菌是单细胞的和无性的。但由于细菌比植物、动物和真菌古老得多，即使有数十亿种细菌，它们也没有迅速繁殖。”“因此，多细胞生物和有性繁殖仍然可以 ...",
+          "date": "2021年7月31日",
+          "position": 25
+        },
+        {
+          "title": "性别和社会性别的悖论(34) - 男性的终结 - 心晴网",
+          "link": "http://www.ixinqing.com/book/1389-511-10078",
+          "snippet": "心理书籍 · 男性的终结 · 书籍目录 · 性别和社会性别的悖论; 性别和社会性别的悖论(34). 性别和社会性别的悖论(34). (提示：登陆后自动保存当前读书进度).",
+          "position": 26
+        },
+        {
+          "title": "高技术的伦理—道德悖论及其文化战略 - 新浪新闻",
+          "link": "http://news.sina.com.cn/o/2004-09-14/08453658623s.shtml",
+          "snippet": "现代生殖技术、基因技术正在颠覆家庭的血缘基础，而“人人充当上帝”无疑是上帝的“还俗”，于是，在根源与终极两个层面，道德的神圣性都遭遇“祛魅”。而一旦神圣性 ...",
+          "date": "2004年9月14日",
+          "position": 27
+        },
+        {
+          "title": "算法悖论与制度因应 - 山东大学学报",
+          "link": "https://www.journal.sdu.edu.cn/info/1276/2337.htm",
+          "snippet": "下载此PDF 文件. 上一条：我国上市公司信披违规的底层逻辑与靶向优化. 下一条：社会性别视域下的人口寿命性别差异分析. [返回首页]. 地址：济南市山大南路 ...",
+          "date": "2022年12月5日",
+          "position": 28
+        },
+        {
+          "title": "悖论式领导对团队创造力的影响机制——社会网络理论视角",
+          "link": "http://www.kjjb.org/fileup/HTML/2018-22-145.htm",
+          "snippet": "随着研究深入，相关悖论议题的探究不仅仅停留在哲学领域，还延展到组织管理领域[1]。在当前行业竞争愈加激烈的情境下，面对技术革新更迭和市场需求多样性的严峻挑战，企业会 ...",
+          "position": 29
+        },
+        {
+          "title": "关于“遵从规则”悖论的争论性研究 - 中国科学院大学",
+          "link": "https://jdn.ucas.ac.cn/home/journal/view/id/3203",
+          "snippet": "摘 要：维特根斯坦在《哲学研究》第201节提出著名的“遵从规则”悖论，这一悖论在克里普克的怀疑论解读基础之上引发了学界广泛的争论，并逐渐形成怀疑论与 ...",
+          "date": "2017年5月5日",
+          "position": 30
+        },
+        {
+          "title": "科斯悖论和当事者对产权的认知 - 社会学研究",
+          "link": "https://shxyj.ajcass.com/Magazine/show/?id=73076",
+          "snippet": "英文标题：. 摘要：, 本文以科斯在论述社会成本时提出的相互性问题为起点，首先指出了在“相互性”问题论述中潜藏的逻辑悖论；进而阐明悖论之摆脱或相互性问题之成立，有赖于 ...",
+          "position": 31
+        },
+        {
+          "title": "制度性文化保护的悖论与反思 - 先晓书院",
+          "link": "https://xianxiao.ssap.com.cn/catalog/detail/id/1585684.html",
+          "snippet": "制度性文化保护的悖论与反思章节高雪莲传统文化精准扶贫宗祖文化本文以榕江县S乡为研究个案，就以国家意志为主导的“制度性旅游开发措施”介入民族文化保护所带来的悖论 ...",
+          "priceRange": "JP¥3",
+          "position": 32
+        },
+        {
+          "title": "悖论的可见性：《9个gay》与《一屋赞客》对同性恋的再现.pdf",
+          "link": "https://www.academia.edu/28789122/%E6%82%96%E8%AE%BA%E7%9A%84%E5%8F%AF%E8%A7%81%E6%80%A7_9%E4%B8%AAgay_%E4%B8%8E_%E4%B8%80%E5%B1%8B%E8%B5%9E%E5%AE%A2_%E5%AF%B9%E5%90%8C%E6%80%A7%E6%81%8B%E7%9A%84%E5%86%8D%E7%8E%B0_pdf",
+          "snippet": "本文通过对《9个gay》和《一屋赞客》中同性恋相关内容的分析,意在说明在异/同性恋正统主义的逻辑下,网络视频对同性恋的再现被囿于私领域的牢笼,消费、爱情与亲密关系、 ...",
+          "position": 33
+        },
+        {
+          "title": "[PDF] 悖论的可见性：《9个犵犪狔》与《一屋赞客》对同性恋的再现",
+          "link": "https://www.society.shu.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=7027",
+          "snippet": "作者：罗牧原香港中文大学社会学系、性别研究课程（犃狌狋犺狅狉：犔犝犗犕狌狔狌犪狀，犇犲狆犪狉狋犿犲狀狋. 狅犳犛狅犮犻狅犾狅犵狔犪狀犱犌犲狀犱犲狉 ...",
+          "date": "2015年4月30日",
+          "position": 34
+        },
+        {
+          "title": "易用性悖论| 人人都是产品经理",
+          "link": "https://www.woshipm.com/zhichang/5219963.html",
+          "snippet": "... 性，但其实大家容易陷入一个悖论。易用= 简单，上手快速。那么，在SaaS产品中，复杂的大型项目中，易用性指的什么？作者总结了三点，分享给你。 最近在和团队一块设计 ...",
+          "position": 35
+        },
+        {
+          "title": "一个人才悖论：农村师资缺乏与大学毕业生“准入难”--唐松林",
+          "link": "http://edu.hnu.edu.cn/info/1072/1527.htm",
+          "snippet": "局部性缺乏。局部性缺乏意味着在农村教师整体基本满足的状态下，仍然存在着局部地区师资缺乏。由于信息的闭塞，这种局部性的缺乏往往显得很隐蔽，不易被政策 ...",
+          "date": "2012年12月2日",
+          "position": 36
+        },
+        {
+          "title": "现代医学技术镜像下性的道德悖论",
+          "link": "https://yizhe.dmu.edu.cn/article/doi/10.12014/j.issn.1002-0772.2017.12a.06?viewType=HTML",
+          "snippet": "现代医学技术镜像下性的道德悖论 · 包头医学院马克思主义学院内蒙古包头014040 · 基金项目: 2015年内蒙古高等学校大学生思想政治教育专题研究项目(NJXZ1508). 2016年包头 ...",
+          "position": 37
+        },
+        {
+          "title": "[DOC] 遵守规则的悖论及其解决办法 - 北京大学逻辑",
+          "link": "https://logic.pku.edu.cn/ann_attachments/sha.doc",
+          "snippet": "普尔（Klaus Puhl）1991年所编的论文集《意义怀疑主义》（Meaning Skepticism）所探讨的内容有：维特根斯坦和怀疑论，维特根斯坦后期的心灵哲学，规则、共同体和个体的关系，一致性 ...",
+          "position": 38
+        },
+        {
+          "title": "紙性戀處境及其悖論〉發表與「動漫遊台灣」研討會後心得 - 方格子",
+          "link": "https://vocus.cc/article/644f4f46fd897800017c0c01",
+          "snippet": "該理論可以解釋把過渡客體的依戀與慾望，回收為對人性戀的方法。即因為社會常規性的性特質，不能以過渡客體為取向。當對「二次元」的欲望被回收到對人性戀當中時，以與人類 ...",
+          "position": 39
+        },
+        {
+          "title": "【苏庆辉】可知性悖论的条件句分析 - 哲学中国网",
+          "link": "http://philosophy.org.cn/fzxk/ljx/201612/t20161213_3315042.shtml",
+          "snippet": "所谓的可知性悖论(the paradox of knowability)是指我们可以从(1)所有真理都是可知的，①(2)有些真理是未知的，(3)知识蕴含真理原则，以及(4)连言分配原则，推导出一个矛盾 ...",
+          "position": 40
+        },
+        {
+          "title": "辛普森悖论学习笔记",
+          "link": "https://jiaxiangbu.github.io/train_model/analysis/simpson_s_paradox.html",
+          "snippet": "1.1 应用一 · 辛普森悖论的一个著名案例涉及1973 > 年加州大学伯克利分校的研究生入学是否存在性别歧视。 · 然而，进一步考察发现，在伯克利大学的85 个系中， ...",
+          "date": "2019年12月2日",
+          "position": 41
+        },
+        {
+          "title": "数据分析--辛普森悖论原创 - CSDN博客",
+          "link": "https://blog.csdn.net/weixin_43368684/article/details/108254408",
+          "snippet": "起初，整体数据显示男性录取比例高于女性，但深入分析专业招生情况后，发现这一现象可能源于男性和女性申请不同难度专业的差异，而非性别歧视，这就是著名的 ...",
+          "date": "2020年8月27日",
+          "position": 42
+        },
+        {
+          "title": "五位艺术界人物的讨论：向京的悖论",
+          "link": "http://www.99ys.com/home/2013/08/15/14/147579.html",
+          "snippet": "向：中国是一个很有趣的现象，中国的女性解放意识从来也不是自觉的，而是别人给的，毛泽东一句话“时代不同了，男女都一样”“妇女能顶半边天”，女性的地位就被抬到 ...",
+          "date": "2013年8月15日",
+          "position": 43
+        },
+        {
+          "title": "“新”世界的迷茫——现代性悖论的起源 - Semantic Scholar",
+          "link": "https://www.semanticscholar.org/paper/%E2%80%9C%E6%96%B0%E2%80%9D%E4%B8%96%E7%95%8C%E7%9A%84%E8%BF%B7%E8%8C%AB%E2%80%94%E2%80%94%E7%8E%B0%E4%BB%A3%E6%80%A7%E6%82%96%E8%AE%BA%E7%9A%84%E8%B5%B7%E6%BA%90/013ee76acc86fedef014b1285e3500b2b7a8bd07",
+          "snippet": "研究现代性的悖论，需要将现代性自身放在西方思想史的整体发展过程中来考察。黑格尔的辩证法确立了求新求变的现代性的基本品格，对于黑格尔的辩证法的现象学解读是接近 ...",
+          "position": 44
+        },
+        {
+          "title": "加强中国中央银行独立性之悖论",
+          "link": "http://www.reformdata.org/2004/1128/24524.shtml",
+          "snippet": "... 性水平并不如人们想象的那样低;如何解决央行决策的随意性和波动性比简单强调央行的独立性更有意义 ... 加强中国中央银行独立性之悖论. 2004-11-28 16:48 财经科学.",
+          "position": 45
+        },
+        {
+          "title": "因果推断简介之七：Lord's Paradox - 统计之都",
+          "link": "https://cosx.org/2013/09/causality7-lord-paradox/",
+          "snippet": "这个悖论是Educational Testing Service (ETS) 的统计学家Frederic Lord 于1967 年提出来的；最终由同在ETS 工作的另外两位统计学家Paul Holland 和Donald ...",
+          "date": "2013年9月9日",
+          "position": 46
+        },
+        {
+          "title": "孔子“悖论”辨：歧视妇女乎？_资讯 - 凤凰网",
+          "link": "https://news.ifeng.com/history/2/shidian/200805/0526_2666_563028_2.shtml",
+          "snippet": "那时男性主导社会体制已然形成，女子缺乏经济独立的能力，只能以家庭和丈夫作为她们终身的归宿，几乎没有受教育的机会，所以见识气度、思想境界难免较为狭隘。",
+          "date": "2008年5月26日",
+          "position": 47
+        },
+        {
+          "title": "缺血性卒中的肥胖悖论 - 中华医学期刊网",
+          "link": "https://rs.yiigle.com/CN115541202202/1374341.htm",
+          "snippet": "缺血性卒中的肥胖悖论 ... 国际脑血管病杂志,2022, 30 (02): 124-128. 肥胖是公认的卒中危险因素。但是，许多研究显示，与体重正常和不足的患者相比，肥胖或 ...",
+          "date": "2022年2月28日",
+          "position": 48
+        },
+        {
+          "title": "人工智能与现代生产率悖论：预期与统计数据的冲突 - 比较- Caixin",
+          "link": "https://bijiao.caixin.com/m/2019-03-01/101385907_all.html",
+          "snippet": "因此，我们似乎正在面临“索洛悖论”（Solow，1987）的重演：到处都能看见变革性新技术，但在生产率统计数据中却看不见它们。 本文回顾了现代生产率悖论的证据和 ...",
+          "date": "2019年2月1日",
+          "position": 49
+        },
+        {
+          "title": "含糊性及累积悖论研究-马克思主义学院 - 长沙理工大学",
+          "link": "https://www.csust.edu.cn/mksxy/info/1077/1801.htm",
+          "snippet": "范恩超真值理论(13)是含糊性推理研究中的一个典范之作。然而该理论仍存在不少问题。该理论的提出依赖于假设：不定能通过扩充/精确化达到完全(预设了存在 ...",
+          "date": "2014年5月28日",
+          "position": 50
+        },
+        {
+          "title": "在北歐悖論中高水準的性別平等並不等同於對女性的安全",
+          "link": "https://www.2cr.com.au/%E5%9C%A8%E5%8C%97%E6%AD%90%E6%82%96%E8%AB%96%E4%B8%AD-%E9%AB%98%E6%B0%B4%E6%BA%96%E7%9A%84%E6%80%A7%E5%88%A5%E5%B9%B3%E7%AD%89%E4%B8%A6%E4%B8%8D%E7%AD%89%E5%90%8C%E6%96%BC%E5%B0%8D%E5%A5%B3%E6%80%A7/",
+          "snippet": "這一現像被稱為北歐悖論（Nordic paradox），即以平等為重點的斯堪的納維亞國家經歷了高於預期的暴力。 專家們難以解釋這現象。 可能的理論包括女性進步導致 ...",
+          "date": "2024年5月19日",
+          "position": 51
+        },
+        {
+          "title": "辛普森悖论 - MBA智库百科",
+          "link": "https://wiki.mbalib.com/wiki/%E8%BE%9B%E6%99%AE%E6%A3%AE%E6%82%96%E8%AE%BA",
+          "snippet": "辛普森悖论（Simpson's Paradox）又译为辛普森诡论辛普森悖论（Simpson's Paradox）亦有人译为辛普森诡论，为英国统计学家E.H.辛普森（E.H.Simpson）于1951年提出的悖论， ...",
+          "position": 52
+        },
+        {
+          "title": "打破能源“三元悖论”要增强政策灵活性 - 人民日报",
+          "link": "http://paper.people.com.cn/zgnyb/html/2020-12/14/content_2023807.htm",
+          "snippet": "在世界各国推进能源转型过程中，普遍面临着既要保障能源安全，又要消除能源贫困、实现公平可及，还要保护生态环境的政策选择或平衡难题，被称之为能源政策的“ ...",
+          "date": "2020年12月14日",
+          "position": 53
+        },
+        {
+          "title": "紙性戀處境及其悖論：情動、想像、賦生關係Fictosexual Position ...",
+          "link": "https://www.researchgate.net/publication/382531443_zhixinglianchujingjiqibeilunqingdongxiangxiangfushengguanxi_Fictosexual_Position_and_its_Paradox_Affects_Imagination_and_Animating_Relations",
+          "snippet": "接這，我透過現象學訪談調查「臺大御宅研究讀書會」這個紙性戀半當事者社群中的報導人，並透過主題化的方式呈現他們的生存體驗。透過基於體驗的討論，我指出 ...",
+          "date": "2024年7月26日",
+          "position": 54
+        },
+        {
+          "title": "心理所发现跨期选择中的新悖论----中国科学院",
+          "link": "https://www.cas.cn/ky/kyjz/201103/t20110303_3078508.shtml",
+          "snippet": "研究结果表明，凡是基于独立性和可加性的任何跨期选择理论都无法解释本研究发现的悖论。这项研究挑战了主流跨期选择理论的基本理论前提，指引未来研究 ...",
+          "date": "2011年3月2日",
+          "position": 55
+        },
+        {
+          "title": "悖论式领导：研究述评与展望",
+          "link": "https://qks.sufe.edu.cn/mv_html/j00002/202004/1ecb9f3c-1e18-4aa6-99d3-8a9556660c29_WEB.htm",
+          "snippet": "摘要：悖论式领导是指领导者采用看似竞争却相互关联的领导行为，旨在同时满足工作中的竞争性需求。这种新型的领导行为是基于中国传统阴阳哲学理论提出的，它突破了权变 ...",
+          "position": 56
+        },
+        {
+          "title": "从辛普森悖论谈起：因果效应中的混淆因子及可识别性",
+          "link": "https://pattern.swarma.org/study_group_issue/22",
+          "snippet": "人类对于因果科学的探索则起源于20世纪：休厄尔–赖特在研究豚鼠的毛色遗传时，发现豚鼠的毛色遗传与孟德尔遗传定律是相互抵触的，由此提出了假设母鼠子宫内“发育因子”的存在性 ...",
+          "position": 57
+        },
+        {
+          "title": "打破“生育率悖论” - 四川省委党校",
+          "link": "http://www.scge.gov.cn/html/website/outsite/sichuandangxiaobao/2022niandi4qi/di4banredianguanzhu1513429293538168833/zz1513439533767806977.html",
+          "snippet": "一般来说，生育率触底并且回升的情形，至少要发生在人类发展指数达到0.80~0.85之间，这属于“极高人类发展水平”的行列。第三，在人类发展水平一般性提高的同时，还需要特别关注 ...",
+          "position": 58
+        },
+        {
+          "title": "“她”综艺女性形象的叙事悖论 - 维普期刊",
+          "link": "https://qikan.cqvip.com/Qikan/Article/Detail?id=7111524220",
+          "snippet": "维普中文期刊服务平台，是重庆维普资讯有限公司标准化产品之一，本平台以《中文科技期刊数据库》为数据基础，通过对国内出版发行的15000余种科技期刊、7000万篇期刊全文 ...",
+          "position": 59
+        },
+        {
+          "title": "想象与现实的悖论： “国民性”阻碍了现代中国的建立吗",
+          "link": "https://xbzs.ecnu.edu.cn/CN/lexeme/showArticleByLexeme.do?articleID=10820",
+          "snippet": "The Paradox between Imagination and Reality：Has “National Character” Hindered the Establishment of Modern China？ LIU Xu. 华东师范大学学报(哲学社会科学版) . 2015 ...",
+          "position": 60
+        },
+        {
+          "title": "“忠贞”的悖论：丁玲的烈女/烈士认同与革命时代的性别政治 - 学术月刊",
+          "link": "https://www.xsyk021.com/article/id/c47e2eab-5c99-46d2-9f44-2afe13095d76",
+          "snippet": "摘要: 丁玲动荡曲折的一生，堪称20世纪中国文学与革命政治最生动的映照。在最后的遗作中，丁玲所回忆的那些历史上的“忠臣烈女”的故事，已成为她自己人生的一部分，并终将缠绕她 ...",
+          "position": 61
+        },
+        {
+          "title": "反身性与“曼海姆悖论”：兼论相对主义社会学的可能性",
+          "link": "http://www.360doc.com/content/23/0423/19/16295112_1077837937.shtml",
+          "snippet": "反身性的这三个面相之间具有相互反动的性质：悖论与自我反思对立；诠释学循环一方面使诠释成为可能（方法论诠释学），另一方面却消解了启蒙理性所建构的主客 ...",
+          "date": "2023年4月23日",
+          "position": 62
+        },
+        {
+          "title": "圆桌| 爱情是一个卓越的悖论系统 - 新浪新闻",
+          "link": "https://news.sina.cn/2019-12-29/detail-iihnzhfz9065261.d.html",
+          "snippet": "爱情是自我的整全性的出让，这意味着，“只有对方在场你才能感到完整，真正恋爱就是找另一半，你自己不再是一个整全。某种意义上，爱情使人变成高度神经质，疯狂 ...",
+          "date": "2019年12月29日",
+          "position": 63
+        },
+        {
+          "title": "【作者稱之為「性別平等悖論」】... - The News Lens 關鍵評論網香港",
+          "link": "https://www.facebook.com/TheNewsLens.hk/posts/%E4%BD%9C%E8%80%85%E7%A8%B1%E4%B9%8B%E7%82%BA%E6%80%A7%E5%88%A5%E5%B9%B3%E7%AD%89%E6%82%96%E8%AB%96%E8%BF%91%E6%97%A5%E4%B8%80%E9%A0%85%E7%A0%94%E7%A9%B6%E9%A1%AF%E7%A4%BA%E6%80%A7%E5%88%A5%E5%B9%B3%E7%AD%89%E6%8C%87%E6%95%B8%E8%B6%8A%E9%AB%98%E5%98%85%E5%9C%8B%E5%AE%B6%E7%90%86%E5%B7%A5%E7%A7%91%E7%9B%AE%E7%95%A2%E6%A5%AD%E7%94%9F%E5%A5%B3%E6%80%A7%E6%AF%94%E4%BE%8B%E8%B6%8A%E4%BD%8E%E8%AB%96%E6%96%87%E4%BD%9C%E8%80%85%E5%88%86%E6%9E%90%E6%95%B8%E6%93%9A%E5%BE%8C%E5%98%97%E8%A9%A6%E6%8F%90%E5%87%BA%E4%B8%80%E5%95%B2%E8%A7%A3%E9%87%8B/1583990941650247/",
+          "snippet": "This browser is not supported · The News Lens 關鍵評論網香港's post · 【作者稱之為「性別平等悖論」】 近日一項研究顯示，性別平等指數越高嘅國家， ...",
+          "date": "2018年2月21日",
+          "position": 64
+        },
+        {
+          "title": "性别和社会性别的悖论(1) - 男性的终结 - 心晴网",
+          "link": "http://www.ixinqing.com/book/1389-511-10045",
+          "snippet": "心理书籍 · 男性的终结 · 书籍目录 · 性别和社会性别的悖论; 性别和社会性别的悖论(1). 性别和社会性别的悖论(1). (提示：登陆后自动保存当前读书进度).",
+          "position": 65
+        },
+        {
+          "title": "悖论管理的思想溯源、特征启示与未来前景",
+          "link": "http://ft.newdu.com/m/Print.asp?ArticleID=191993",
+          "snippet": "内容提要：比较中西方情境下的悖论思想起源，辨识已有受到两者启发的研究，明确了组织悖论特征对悖论管理有效性的启示。研究表明：①中国本土悖论思想起源于辩证思想，而西方悖论 ...",
+          "position": 66
+        },
+        {
+          "title": "科学论文的“新颖性悖论”-黄河宁的博文",
+          "link": "https://wap.sciencenet.cn/blog-3427112-1339196.html?mobile=1",
+          "snippet": "新颖性—novelty—是所有学术期刊对科学论文的基本要求。期刊编辑和审稿人在评估一篇论文是否可以发表时，主要关注该论文的新颖性。但是，如果...",
+          "date": "2022年5月19日",
+          "position": 67
+        },
+        {
+          "title": "悖论与解决交通拥挤的经济学方法有效性 - 上海理工大学学报",
+          "link": "https://jns.usst.edu.cn/shlgdxxbzk/article/html/20120414",
+          "snippet": "利用交通网络扩建后路网整体和出行者个体效益均没有改善的悖论,对交通问题的复杂性以及两种解决交通拥挤问题的经济学手段的有效性进行了深入分析.",
+          "date": "2012年9月26日",
+          "position": 68
+        },
+        {
+          "title": "什么是：准确性悖论 - 轻松学习统计",
+          "link": "https://zh-cn.statisticseasily.com/%E8%AF%8D%E6%B1%87%E8%A1%A8/%E4%BB%80%E4%B9%88%E6%98%AF%E5%87%86%E7%A1%AE%E6%80%A7%E6%82%96%E8%AE%BA/",
+          "snippet": "准确度悖论是指数据分析和机器学习中的一种情况，即模型实现了高精度，但无法提供有意义的见解或预测。这种现象通常发生在不平衡的数据集中，其中一个类别的数量远远超过另 ...",
+          "position": 69
+        },
+        {
+          "title": "悖论问题的统一解 - NI Community",
+          "link": "https://forums.ni.com/t5/NI-LabVIEW-CVI-%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E7%AD%89%E4%BA%A7%E5%93%81%E8%AE%A8%E8%AE%BA%E5%8C%BA/%E6%82%96%E8%AE%BA%E9%97%AE%E9%A2%98%E7%9A%84%E7%BB%9F%E4%B8%80%E8%A7%A3/td-p/2362352",
+          "snippet": "人们依赖于直觉或通常思维，给人们带来不可替代的优越性，但同时导致了骗子和骗局在一些地方畅通无阻。骗局分三种，一种是简单违反直觉或常识的，但有人会相信 ...",
+          "date": "2013年3月23日",
+          "position": 70
+        },
+        {
+          "title": "辛普森悖论的处理方式 - CSDN博客",
+          "link": "https://blog.csdn.net/zealfory/article/details/67631896",
+          "snippet": "当人们尝试探究两种变量是否具有相关性的时候，比如新生录取率与性别，报酬与性别等，会分别对之进行分组研究。辛普森悖论是在这种研究中，在某些前提下有时会 ...",
+          "date": "2017年3月28日",
+          "position": 71
+        },
+        {
+          "title": "台湾阳明大学王文芳教授“语意悖论与Tarski的真理不可定义性定理",
+          "link": "http://ggy.scnu.edu.cn/a/20150126/3913.html",
+          "snippet": "塔斯基坚持经典逻辑，提出著名的T-框架和真理的语言层级论。王教授分析了塔斯基的“真理的不可被定义性定理”的理论后承，表明不仅一个一致的、古典的、丰富 ...",
+          "date": "2015年1月26日",
+          "position": 72
+        },
+        {
+          "title": "张俊国谈胡塞尔先验现象学中的主体性悖论 - 南开大学哲学院",
+          "link": "https://phil.nankai.edu.cn/2019/0318/c6342a120867/page.htm",
+          "snippet": "在《欧洲科学危机和先验现象学》中，胡塞尔明确地提出了人类主体性悖论：“人既是建构世界的主体，同时又是存在于世界之中的对象”。 面对这一理论困境David ...",
+          "date": "2019年3月18日",
+          "position": 73
+        },
+        {
+          "title": "马尔库什文化批判理论研究[WX]孙建茵黑龙江大学出版社有限责任 ...",
+          "link": "https://www.amazon.de/%E6%96%87%E5%8C%96%E6%82%96%E8%AE%BA%E4%B8%8E%E7%8E%B0%E4%BB%A3%E6%80%A7%E6%89%B9%E5%88%A4-%E9%A9%AC%E5%B0%94%E5%BA%93%E4%BB%80%E6%96%87%E5%8C%96%E6%89%B9%E5%88%A4%E7%90%86%E8%AE%BA%E7%A0%94%E7%A9%B6-WX-%E5%AD%99%E5%BB%BA%E8%8C%B5%E9%BB%91%E9%BE%99%E6%B1%9F%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE%E6%9C%89%E9%99%90%E8%B4%A3%E4%BB%BB%E5%85%AC%E5%8F%B89787811293692/dp/7811293692",
+          "snippet": "文化悖论与现代性批判——马尔库什文化批判理论研究[WX]孙建茵黑龙江大学出版社有限责任公司9787811293692 : Amazon.de: Bücher.",
+          "currency": "€",
+          "price": 31.91,
+          "position": 74
+        },
+        {
+          "title": "国家暴力机器，是如何驯化了我们？《人性悖论》[美]理查德 - YouTube",
+          "link": "https://www.youtube.com/watch?v=8tVyz_YKlS4",
+          "snippet": "... 悖论：人类进化中的美德与暴力》。作者是美国人类学家理查德·兰厄姆。这位作者在这本书中提出 ...\n时长： 12:29\n发布时间： 2024年10月25日",
+          "date": "2024年10月25日",
+          "position": 75
+        },
+        {
+          "title": "大学生网络思想意识的悖论性样态研究 - 中国社会科学文库",
+          "link": "https://www.sklib.cn/booklib/bookPreview?SiteID=122&ID=9492141&fromSubID=713",
+          "snippet": "大学生网络思想意识的悖论性样态研究 ; ISBN：978-7-5203-9551-9 ; 出版日期：2022-03 ; 页数：290 ; 字数：300.0千字 ; 点击量：6497次.",
+          "currency": "¥",
+          "price": 59,
+          "position": 76
+        },
+        {
+          "title": "《慈悲》走进现代性的悖论之中 - 中国出版集团",
+          "link": "http://www.cnpubg.com/book/2016/0122/27586.shtml",
+          "snippet": "水生问什么是捐会，师傅告诉他，一群工人每人每个月拿出五块钱，凑成一笔大 钱，然后抽签，中了头签的人，第一个月拿钱，中了第二名的人就第二个月拿钱，如果最后 ...",
+          "date": "2016年1月22日",
+          "position": 77
+        },
+        {
+          "title": "悖论与厌女：逃不开的男性凝视- 阅读浪漫小说 - 豆瓣",
+          "link": "https://m.douban.com/book/review/12823089/",
+          "snippet": "阅读浪漫小说的书评。书中呈现了「阅读浪漫小说」和「浪漫小说」本身的数种悖论：浪漫小说中的女性形象（女主角）总是打破了社会性别道德对于女性的桎梏， ...",
+          "date": "2020年8月24日",
+          "position": 78
+        },
+        {
+          "title": "现代性的悖论与后现代主义的真谛 - 中国理论法学研究信息网",
+          "link": "https://legal-theory.org/?mod=info&act=view&id=5018",
+          "snippet": "真正后现代的后现代主义的诞生有两个前提：1、认识到现代性的本质是主体－客体二分法，现代主义的本质是以人为中心的主体主义；2、找到超越主体主义的新的生存 ...",
+          "date": "2003年8月9日",
+          "position": 79
+        },
+        {
+          "title": "常读常新的宋代书画之美——读《知宋·宋代之书画艺术》 - 光明网",
+          "link": "https://news.gmw.cn/2024-11/03/content_37654039.htm",
+          "snippet": "对于今天的观众，宋代书画兼具两个悖论性的身份：“熟悉的陌生人”和“神秘的公众人物”。",
+          "date": "1天前",
+          "position": 80
+        },
+        {
+          "title": "杨笠被京东“退货”，中国男性脆弱的自我不容取笑？ - 纽约时报中文网",
+          "link": "https://cn.nytimes.com/china/20241101/china-comedy-women-yang-li/",
+          "snippet": "围绕女性笑话的争论反映了中国女权主义更广泛的悖论。一方面，女权主义言论比以往任何时候都更加普遍，曾经小众的关于性别不平等的讨论现在可以公开播出。",
+          "date": "3天前",
+          "position": 81
+        },
+        {
+          "title": "[PDF] 彩票悖论与序言悖论的同构性与统一解",
+          "link": "http://clgsk.qks.cqut.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=4759",
+          "snippet": "一致性规则:知识集内部不应存在不一致的命题. 1961年,凯伯格(Kyburg)在《概率与合理信念逻辑》[5]一书中提出了彩票悖论 ...",
+          "position": 82
+        },
+        {
+          "title": "意愿与行动的悖论：基于福建省农村家庭高等教育需求的质性分析",
+          "link": "https://xianxiao.ssap.com.cn/catalog/7300957.html",
+          "snippet": "认知、意愿与行动的悖论：基于福建省农村家庭高等教育需求的质性分析章节谭敏加强高等教育需求研究是办好人民满意的教育的基础一环。对福建省农村家长、教师和学生的质 ...",
+          "priceRange": "JP¥9",
+          "position": 83
+        },
+        {
+          "title": "探讨科学技术社会功能的悖论性",
+          "link": "https://worldscience.cn/c/2005-04-29/606276.shtml",
+          "snippet": "但是隔代精子和卵子所培育的试管婴儿的出现，尤其是无性繁殖、克隆技术的出现，不仅改变了人类的生育模式和社会延续方式，最终也改变着人类社会本身。这必将 ...",
+          "date": "2005年4月29日",
+          "position": 84
+        },
+        {
+          "title": "“报复性执法”悖论-郑戈的财新博客",
+          "link": "https://zhengge.blog.caixin.com/archives/10771",
+          "snippet": "“报复性执法”悖论 ... 本学期给学生上“法律与社会”课，其中有个专题是“欧洲封建社会与宪政史”。阅读材料中提到，封建社会是一种“互助保险型的社会”，其中弱者 ...",
+          "date": "2010年11月3日",
+          "position": 85
+        },
+        {
+          "title": "冯佳副研究员在国际历史学顶级期刊Nations and Nationalism发表论文",
+          "link": "https://www.view.sdu.edu.cn/info/1021/196377.htm",
+          "snippet": "文章辩证地回应了国际史学界有关翻译、后殖民、民族主义、黑人研究等前沿理论，揭示了民国知识分子在翻译话语使用中的双重悖论性，即用殖民的话语逻辑批判 ...",
+          "date": "7天前",
+          "position": 86
+        },
+        {
+          "title": "高考加分应避免公平性悖论 - 中国文明网",
+          "link": "http://www.wenming.cn/wmpl_pd/zmgd/201412/t20141219_2355207.shtml",
+          "snippet": "从多年来的操作情况看，由于在审核和考查上的狭隘、疏漏、造假甚至寻租，鼓励性加分项的存在已经制造了高考公平的悖论。本来，它们的设立，是为了增加“德育”“ ...",
+          "date": "2014年12月19日",
+          "position": 87
+        },
+        {
+          "title": "2.5 模糊性：连锁悖论 - YouTube",
+          "link": "https://www.youtube.com/watch?v=6qOqrjse9kY",
+          "snippet": "本课程将讲授历史上已经提出的一些著名悖论，涉及的论题有：一些扰人的二难困境；模糊性：连锁 ...\n时长： 20:44\n发布时间： 2023年8月10日",
+          "date": "2023年8月10日",
+          "position": 88
+        },
+        {
+          "title": "“天然摄影棚”恩平魅力何在？人文建筑和自然生态之美吸引众多剧组前 ...",
+          "link": "http://www.jiangmen.gov.cn/home/sqdt/epzx/content/post_3190062.html",
+          "snippet": "... 性城市景观接连登上各大荧屏。 ... 其中，依托冯如文化打造的恩平泉林飞行主题馆是一座极具未来感、科技感的建筑，成为播放量超8亿次的体竞都市剧《极速悖论》 ...",
+          "date": "6天前",
+          "position": 89
+        },
+        {
+          "title": "史上最疯狂的《哈姆雷特》将来到YOUNG剧场邀请观众一起“薅土”",
+          "link": "https://www.shyp.gov.cn/shypq/ggfw-bmgg/20241031/466981.html",
+          "snippet": "作为莎士比亚最为人熟知的传世经典，其展示的“哈姆雷特难以采取行动”的核心悖论 ... 上海市杨浦区长白社区N090702单元控制性详细规划P3街坊局部调整 ...",
+          "date": "3天前",
+          "position": 90
+        },
+        {
+          "title": "ᴿᵉᵇᵉˡRFAChinese on X: \"围绕女性笑话的争论反映了中国女权 ...",
+          "link": "https://twitter.com/RFAChinese/status/1853021049492738337",
+          "snippet": "围绕女性笑话的争论反映了中国女权主义更广泛的悖论。一方面，女权主义言论比以往任何时候都更加普遍，曾经小众的关于性别不平等的讨论现在可以公开播出。",
+          "date": "14小时前",
+          "position": 91
+        },
+        {
+          "title": "美国选战背后的创新与谎言 - 证券之星",
+          "link": "https://wap.stockstar.com/detail/IG2024103100040879",
+          "snippet": "美国悖论. 2024年的美国大选即将揭晓。代表着婴儿潮一代的特朗普与比他 ... 根据《经济学人》的最新预测，特朗普这次有53%的可能性赢。《金融时报》 ...",
+          "date": "4天前",
+          "position": 92
+        },
+        {
+          "title": "历史文化源流丨君子处事于义合者为利",
+          "link": "http://www.hebcdi.gov.cn/2024-11/01/content_9256259.htm",
+          "snippet": "要闻要论 · 廉洁河北. 君子处事于义合者为利. 来源：中央纪委国家监委网站 ... 意思是说，小人做事，合乎自己利益就是有利，有悖于自己利益就是有害 ...",
+          "date": "3天前",
+          "position": 93
+        },
+        {
+          "title": "新华时评丨历史不容歪曲遗忘祖国终将完全统一 - 新华网",
+          "link": "http://www.news.cn/tw/20241025/ac0a409748f347a08de3f86d48a6b5c6/c.html",
+          "snippet": "这番极具欺骗性和迷惑性的无耻 ... 赖清德和民进党明目张胆对历史进行切割、湮灭、曲解，为图谋分裂国家拼装出一套支离破碎、悖论百出的“台独史观”。",
+          "date": "2024年10月25日",
+          "position": 94
+        },
+        {
+          "title": "美国选战背后的创新与谎言 - 经济观察网",
+          "link": "http://www.eeo.com.cn/2024/1031/695427.shtml",
+          "snippet": "穿透大选的喧嚣，美国自身的“悖论”更值得我们审视，整体而言有三个方面：第一，创新者与保守者合流，以马斯克全力支持特朗普最有代表性。第二，超级 ...",
+          "date": "3天前",
+          "position": 95
+        },
+        {
+          "title": "美国在中东“谋霸”外交没变 - 中国网",
+          "link": "http://www.china.com.cn/opinion2020/2024-10/28/content_117510687.shtml",
+          "snippet": "... 性打击。地区紧张局势再次急剧升级，国际社会对于中东和平的期望也 ... 但显而易见，美国在上述方面均未达到目标，这也暴露出其中东政策存在诸多悖论。",
+          "date": "7天前",
+          "position": 96
+        },
+        {
+          "title": "AI发展比核武更具有不确定性，别说伦理，超越人类的各种“框架”几乎 ...",
+          "link": "https://user.guancha.cn/main/content?id=1322586",
+          "snippet": "... 悖论》评论区，标题为小编添加】. 晨枫. 一本书、一个视频甚至一句话都是人“制作”的吧？那是制作的人在作恶，你觉得呢？ 他并没有get到你担忧的那个点 ...",
+          "date": "7天前",
+          "position": 97
+        },
+        {
+          "title": "身体·行动——进入阿布拉莫维奇的精神世界 - 上观新闻",
+          "link": "https://www.jfdaily.com/sgh/detail?id=1454164",
+          "snippet": "弗朗西斯·埃利斯是一位不断迁徙的艺术家，亦是强迫性流浪者。他最被大众所熟知的作品当属《实践的悖论》。彼时，艺术家移居到墨西哥城。他在街上推着 ...",
+          "date": "10小时前",
+          "position": 98
+        },
+        {
+          "title": "这就是男女关系最大的悖论 - Bilibili",
+          "link": "https://www.bilibili.com/video/BV1cw4m1S7XU/",
+          "snippet": "这就是男女关系最大的悖论, 视频播放量1335、弹幕量1、点赞数74、投硬币枚数2、收藏人数12 ...\n时长： 0:33\n发布时间： 2024年6月10日",
+          "date": "2024年6月10日",
+          "position": 99
+        },
+        {
+          "title": "“一个叫沙白的女孩决定去死”：多元化时代应尊重自己的“活法” - 虎嗅",
+          "link": "https://m.huxiu.com/article/3617086.html",
+          "snippet": "制度性个体化则强迫所有人都要以鼓吹新自由主义的方式来选择生活，其结果便是“to live a life of one's own through conformity”的悖论。笔者当年译为 ...",
+          "date": "2024年10月26日",
+          "position": 100
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "性别悖论",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 3,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "评论| 易富贤：中国鼓励生育政策缺乏想象力",
+          "link": "https://www.rfa.org/mandarin/pinglun/yifuxian/yfx-china-announces-measures-to-boost-births-10302024115707.html",
+          "snippet": "评论| 易富贤：中国新质生产力的悖论. 热门文章. RFA. 跨省“远洋捕捞”打击广东民企异地趋利性执法 ...",
+          "date": "4天前",
+          "position": 1
+        },
+        {
+          "title": "临床基因组资源平台ClinGen开放访问定义基因和变异的临床相关性",
+          "link": "https://www.ebiotrade.com/newsf/2024-10/20241025032837446.htm",
+          "snippet": "临床基因组资源（ClinGen）是一个由美国国立卫生研究院（NIH）资助的资源，致力于定义基因和变异的临床相关性 ... 6挑战“抗癌”自然防御机制与进化悖论; 7父亲肠道 ...",
+          "date": "7天前",
+          "position": 2
+        },
+        {
+          "title": "算力通缩下的“老黄经济学”-虎嗅网",
+          "link": "https://m.huxiu.com/article/3624815.html",
+          "snippet": "有一个悖论的地方是H100售价3万美金，而物料成本大概只有3000美金，HBM成本占了2000。在算力通缩背景下，如何能够持续性地维持高Margin，同时还能通过 ...",
+          "date": "7天前",
+          "position": 3
+        },
+        {
+          "title": "State of Play in China:Rise of the 'Ordinary Men' - YouTube",
+          "link": "https://www.youtube.com/watch?v=_hDtWWAJXeU",
+          "snippet": "“脱口秀牛X悖论”硬控全场！见识一下吐槽天花板的实力！ #脱口秀#脱口秀 ... 從無人權的中 ...\n时长： 34:54\n发布时间： 2024年10月21日",
+          "date": "2024年10月21日",
+          "position": 4
+        },
+        {
+          "title": "3亿美元首付款交易，释放出的两个信号",
+          "link": "https://bydrug.pharmcube.com/news/detail/15d5e3947201bd4e3a0d67a561c3e48d",
+          "snippet": "读者应自行判断和鉴别转载文章的真实性、合法性和有效性。 ... 数十年饮冰，百亿赛道一扫阴霾，COPD药物开发迎来峰回路转时刻？ “裁员与融资齐飞，晦暗共光明一色”的CGT悖论.",
+          "position": 5
+        },
+        {
+          "title": "坚定捍卫一个中国原则，正本清源反对“台独”操弄 - 中国军网",
+          "link": "http://www.81.cn/pl_208541/16348489.html",
+          "snippet": "... 论学习习近平总书记在省部级主要领导干部专题研讨 ... 时至今日，赖清德当局鼓吹“中华人民共和国无权代表台湾”完全是逆历史潮流而动，悖国际秩序行事。",
+          "date": "4天前",
+          "position": 6
+        },
+        {
+          "title": "论西方当代性别与跨性别理论的缘起、内涵与特性 - 浙江大学学术期刊网",
+          "link": "https://www.zjujournals.com/soc/article/2021/2021-5-110.htm",
+          "snippet": "该理论的缘起可追溯到20世纪20年代以来女权主义对女性受压迫根源的探寻、20世纪60—70年代生理性别/社会性别的分类与制度探讨、20世纪80年代男女性别二元 ...",
+          "date": "2021年10月28日",
+          "position": 7
+        },
+        {
+          "title": "AI智能体，人工智能的“增程模式”？ - 36氪",
+          "link": "https://m.36kr.com/p/3011804421796992",
+          "snippet": "莫拉维克悖论（Moravec's paradox）指出，对于人工智能系统而言，高级推理只需非常少的计算能力，而实现人类习以为常的感知运动技能却需要耗费巨大的计算资源。",
+          "date": "7天前",
+          "position": 8
+        },
+        {
+          "title": "让欧洲摆脱美国、独立自主？-张维为、亚尼斯·瓦鲁法基斯-观察者网",
+          "link": "https://www.guancha.cn/ZhangWeiWei/2024_11_03_753992.shtml",
+          "snippet": "所以，我对亚尼斯提出的第二个问题就是：如果欧洲没有足够的自主性，欧洲的数字经济路在何方？ ... 欧洲被一个巨大的悖论笼罩着：这个拥有5亿人口的大陆，在经济、 ...",
+          "date": "24小时前",
+          "position": 9
+        },
+        {
+          "title": "猴子需要7个宇宙的寿命才能打出莎士比亚的作品 - cnBeta.COM",
+          "link": "https://www.cnbeta.com.tw/articles/science/1451826.htm",
+          "snippet": "我们甚至无法想象一只猴子在《两个贵族》的最后一行打错了字而不得不重新开始的沮丧。 伍德科克说：\"这一发现将该定理与其他概率谜题和悖论--如圣彼得堡悖 ...",
+          "date": "3天前",
+          "position": 10
+        },
+        {
+          "title": "《审判》中的法律之门 - 正义网",
+          "link": "https://news.jcrb.com/jsxw/2024/202411/t20241102_6709050.html",
+          "snippet": "... 性、权威性。它无处不在,无时不有,形成了社会意识形态和政治制度。说 ... 门的设立本身就是一种悖论,为方便出入而建门,也为防止出入而建门,既是 ...",
+          "date": "2天前",
+          "position": 11
+        },
+        {
+          "title": "人工智能聊天机器人导致一名14岁男孩自杀 - 财富中文网",
+          "link": "https://www.fortunechina.com/keji/c/2024-11/02/content_459489.htm",
+          "snippet": "他的母亲声称，在长达10个月的时间里，塞维尔与机器人进行了“虐待和性互动”。 ... “我们的研究揭示了一个人性悖论：在我们让人工智能代理变得更具人性的 ...",
+          "date": "2天前",
+          "position": 12
+        },
+        {
+          "title": "开盘大涨34.38%！医药合成生物学第一股港交所敲钟 - 动脉网",
+          "link": "https://www.vbdata.cn/intelDetail/615790",
+          "snippet": "... 性，耐受性和靶向参与性。 ▫ 超100亿！渤健也出手了！ 渤健与Neomorph达成 ... 精神病中的洞察悖论. 2024-10-31 17:38 Medsci. 达安基因旗下产品百日咳杆菌核酸 ...",
+          "position": 13
+        },
+        {
+          "title": "向西还是向俄？摩尔多瓦和格鲁吉亚都面临痛苦抉择",
+          "link": "https://www.whb.cn/commonDetail/954867",
+          "snippet": "在摩尔多瓦，现任总统桑杜本希望以其力推的“亲欧”政策获得民众的压倒性 ... 对桑杜而言，这几乎是无解的悖论——在任何投票中都不可能不让这两个地区 ...",
+          "date": "5天前",
+          "position": 14
+        },
+        {
+          "title": "北约：挑动阵营对抗的“冷战遗孽” - 国际军事- 华夏经纬网",
+          "link": "https://www.huaxia.com/c/2024/11/01/1974189.shtml",
+          "snippet": "为此，美国和北约一方面抛出“北约后院的安全遭到破坏”等言论，为东进亚太捏造借口;另一方面以敏感性 ... 北约的三大悖论 · 国际军事2022-06-30 10:23:34. 北约 ...",
+          "date": "3天前",
+          "position": 15
+        },
+        {
+          "title": "11/2 游戏更新日志 - 5EPlay",
+          "link": "https://csgo.5eplay.com/article/2411038hsqzm",
+          "snippet": "悖论：时间之墙T3的沉默持续时间从3秒减少至2.5秒. 【装备改动】. 铜墙铁壁 ... 10月30日-实验性英雄更新 · 10/30小型更新 · 10/28 游戏小型补丁公布 ...",
+          "date": "21小时前",
+          "position": 16
+        },
+        {
+          "title": "数字化校园平台的设计原则 - 网易",
+          "link": "https://m.163.com/news/article/JG2VJT0P05568W0A.html?clickfrom=subscribe",
+          "snippet": "然而，要构建一个高效、可持续且能满足未来教育需求的数字化校园平台，设计原则的科学性和前瞻性显得尤为重要。 ... 这是科学史上最难理解的悖论 · 上海男子在 ...",
+          "date": "18小时前",
+          "position": 17
+        },
+        {
+          "title": "黑洞的悖论：白洞存在的可能性与宇宙之谜探索",
+          "link": "https://www.msn.cn/zh-cn/news/other/%E9%BB%91%E6%B4%9E%E7%9A%84%E6%82%96%E8%AE%BA-%E7%99%BD%E6%B4%9E%E5%AD%98%E5%9C%A8%E7%9A%84%E5%8F%AF%E8%83%BD%E6%80%A7%E4%B8%8E%E5%AE%87%E5%AE%99%E4%B9%8B%E8%B0%9C%E6%8E%A2%E7%B4%A2/ar-AA1sOYrP?cvid=BC0B3F85029F4C4C88FB1C290DC94D32&ocid=hpmsn",
+          "snippet": "黑洞的悖论：白洞存在的可能性与宇宙之谜探索. 一览科普的报道. • 1 周1 周. 在我们浩瀚无垠的宇宙中，除了闻名遐迩的黑洞——这个连光线都能吞噬的存在，还有一个更为神秘 ...",
+          "position": 18
+        },
+        {
+          "title": "中新健康｜个性化定制护肤，会是一门好生意吗？",
+          "link": "https://www.chinanews.com.cn/life/2024/11-02/10312324.shtml",
+          "snippet": "此外，据华熙生物方面透露，该仪器已经申请了多项专利，其中包含的108 种定制方案也在国家药监局进行了备案，并完成了相关安全性与功效性检测。 ... 悖论。 同济 ...",
+          "date": "2天前",
+          "position": 19
+        },
+        {
+          "title": "数十年饮冰，百亿赛道一扫阴霾，COPD药物开发迎来峰回路转时刻？",
+          "link": "https://bydrug.pharmcube.com/news/detail/5698203e7c59198612ccabbf9d8f0f09",
+          "snippet": "读者应自行判断和鉴别转载文章的真实性、合法性和有效性。 同类资讯. 同疾病 ... 悖论 · 晶锐医药可入脑的BET抑制剂获批临床，拥挤赛道是否还有突围机会 · 礼来重磅BTK ...",
+          "position": 20
+        },
+        {
+          "title": "关注后续美国大选，恒生科技指数ETF(159742)盘中涨超1% - 界面新闻",
+          "link": "https://m.jiemian.com/article/11901051.html",
+          "snippet": "市场一方面期待大规模的政策发力提供新的支撑，但同时也担心大选后如特朗普获胜其政策带来的冲击，但其中的悖论在于，两者互为因果。换言之，在“应激式”的政策响应函数 ...",
+          "position": 21
+        },
+        {
+          "title": "最近\"阶级\"是热门话题。 这是因为受到奈飞原创综艺《黑白厨师:料理 ...",
+          "link": "https://www.mk.co.kr/cn/business/11155671",
+          "snippet": "... 悖论\". 豪塞尔说:\"当你开着一辆漂亮的汽车（法拉利）时，人们看不到你。 只佩服你的车。 没有人会看重你的东西。\" 乘坐别人连想都不敢想的昂贵车时 ...",
+          "date": "4天前",
+          "position": 22
+        },
+        {
+          "title": "人有先天知识吗？ (下) - 吴道平文集",
+          "link": "http://wu-daoping.hxwk.org/2024/11/02/%E4%BA%BA%E6%9C%89%E5%85%88%E5%A4%A9%E7%9F%A5%E8%AF%86%E5%90%97%EF%BC%9F-%E4%B8%8B/",
+          "snippet": "(1) 它们是普遍的，只要是人类，不论什么种族、性别，都具有同样的先天知识。 ... 芝诺悖论简述(下). 近期评论. 吴道平在“造”出的女人— 布鲁斯\\布兰达\\戴维 ...",
+          "date": "1天前",
+          "position": 23
+        },
+        {
+          "title": "隔夜纳斯达克中国金龙指数收涨超4%！港股或开启新一轮快牛？",
+          "link": "https://www.fx168news.com/article/791672",
+          "snippet": "市场一方面期待大规模的政策发力提供新的支撑，但同时也担心大选后如特朗普获胜其政策带来的冲击，但其中的悖论在于，两者互为因果。 ... 性行情为主。",
+          "date": "6天前",
+          "position": 24
+        },
+        {
+          "title": "美媒：美修筑对华“高墙”是作茧自缚 - 海外网",
+          "link": "https://news.haiwainet.cn/n/2024/1104/c3541083-32808267.html",
+          "snippet": "随着华盛顿加大半导体禁运力度，出现了一个麻烦的悖论：在试图阻挠中国 ... 尽管这些管制意在阻碍中国的科技雄心，但它们可能也会对美国产生实质性负面影响。",
+          "date": "1小时前",
+          "position": 25
+        },
+        {
+          "title": "硬核科技，赋能未来：解码芯片产业创新趋势-EDN 电子技术设计",
+          "link": "https://www.ednchina.com/news/a13834.html",
+          "snippet": "... 性、简化架构和OTA升级等功能。 SYNIOS® P1515 ... AI 大模型迈向多模态，助力具身智能与机器人实现创新 你听过莫拉维克悖论 (Moravec's paradox) 吗？",
+          "date": "3天前",
+          "position": 26
+        },
+        {
+          "title": "杨笠被京东“退货”，中国男性脆弱的自我不容取笑？ - 文学城",
+          "link": "https://www.wenxuecity.com/news/2024/11/01/125849647.html",
+          "snippet": "围绕女性笑话的争论反映了中国女权主义更广泛的悖论。一方面，女权主义言论比以往任何时候都更加普遍，曾经小众的关于性别不平等的讨论现在可以公开播出。",
+          "date": "2天前",
+          "position": 27
+        },
+        {
+          "title": "朝鲜性压抑？错，是性解放！东亚最穷的朝鲜，到底有多开放？",
+          "link": "https://www.youtube.com/watch?v=P2gpFKpTsxU",
+          "snippet": "... 性解放？https://youtu.be/P2gpFKpTsxU. ... 尼赫鲁主义悖论 4、犹太人为什 ...\n时长： 17:38\n发布时间： 2024年10月14日",
+          "date": "2024年10月14日",
+          "position": 28
+        },
+        {
+          "title": "一文带你探索多元时间序列预测的研究进展！",
+          "link": "https://hub.baai.ac.cn/view/40749",
+          "snippet": "PEMS03（城市交通流量数据）具备清晰且稳定的周期性模式，符合城市交通的规律性； ... 笔者一直认为，时间序列预测存在一个悖论：那些可预测的时间序列往往具备 ...",
+          "date": "14小时前",
+          "position": 29
+        },
+        {
+          "title": "黑洞的悖论：白洞存在的可能性与宇宙之谜探索 - MSN 中国",
+          "link": "https://www.msn.cn/zh-cn/news/other/%E9%BB%91%E6%B4%9E%E7%9A%84%E6%82%96%E8%AE%BA-%E7%99%BD%E6%B4%9E%E5%AD%98%E5%9C%A8%E7%9A%84%E5%8F%AF%E8%83%BD%E6%80%A7%E4%B8%8E%E5%AE%87%E5%AE%99%E4%B9%8B%E8%B0%9C%E6%8E%A2%E7%B4%A2/ar-AA1sOYrP?cvid=4C7F592FA99C41BE8B6E4705D44A2D34&ocid=hpmsn",
+          "snippet": "黑洞的悖论：白洞存在的可能性与宇宙之谜探索. 一览科普的报道. • 1 周1 周. 在我们浩瀚无垠的宇宙中，除了闻名遐迩的黑洞——这个连光线都能吞噬的存在，还有一个更为神秘 ...",
+          "position": 30
+        },
+        {
+          "title": "為何性別問題經常撕裂中國輿論場 - 香港01",
+          "link": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/1070639/%E7%82%BA%E4%BD%95%E6%80%A7%E5%88%A5%E5%95%8F%E9%A1%8C%E7%B6%93%E5%B8%B8%E6%92%95%E8%A3%82%E4%B8%AD%E5%9C%8B%E8%BC%BF%E8%AB%96%E5%A0%B4",
+          "snippet": "其實，如果不把「普信男」的標籤無限泛化或隨便濫用，而是當作男性群體中一種存在已久的社會現象，便能起到「有則改之，無則加勉」的效果。畢竟，無論是在網絡 ...",
+          "date": "4天前",
+          "position": 31
+        },
+        {
+          "title": "无限猴子理论被打破写不出莎士比亚作品 - 网易",
+          "link": "https://m.163.com/news/article/JG3TVSGV0514B52J.html?clickfrom=subscribe",
+          "snippet": "虽然实验曾经测试这一理论的有效性，但不太为人所知的是有限猴子 ... 这些悖论包括圣彼得堡悖论，涉及无限报酬的赌博游戏没有人愿意参与；芝诺 ...",
+          "date": "9小时前",
+          "position": 32
+        },
+        {
+          "title": "人有先天知识吗？ (上) - 吴道平文集",
+          "link": "http://wu-daoping.hxwk.org/2024/11/02/%E6%9C%89%E5%85%88%E5%A4%A9%E7%9F%A5%E8%AF%86%E5%90%97%EF%BC%9F-%E4%B8%8A/",
+          "snippet": "本文的介绍只能是概述，已经没有了他的严密性。下篇则主要介绍乔姆斯基的学说。他的论证通俗易懂。 三．《纯粹理性批判》论先天( ...",
+          "date": "1天前",
+          "position": 33
+        },
+        {
+          "title": "人类性别偏见是如何支配我们大脑的- BBC 英伦网",
+          "link": "https://www.bbc.com/ukchina/simp/57440585",
+          "snippet": "在一项分析1,400 次脑部扫描的研究中，神经科学家达芙娜·乔尔（Daphna Joel）及其同事发现“所有评估的灰质、白质和连接的女性和男性分布之间存在广泛重叠”，也 ...",
+          "date": "2021年6月11日",
+          "position": 34
+        },
+        {
+          "title": "社会性别理论探析",
+          "link": "https://web.shnu.edu.cn/mprtc/a9/60/c21654a633184/page.htm",
+          "snippet": "它是针对西方知识传统在两性关系上的“自然主义态度”和男女二元对立的思维模式而提出的。该理论将人的性别分为生理性别和社会性别,认为男女不平等的根本 ...",
+          "date": "2014年5月16日",
+          "position": 35
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

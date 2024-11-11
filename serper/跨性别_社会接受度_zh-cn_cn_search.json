@@ -1,0 +1,966 @@
+{
+  "query": "跨性别 社会接受度",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-03T23:48:02.199034",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "跨性别 社会接受度",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "[PDF] 中国跨性别群体- 生存现状调查报告",
+          "link": "https://cnlgbtdata.com/files/uploads/2019/03/2017_%E4%B8%AD%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E7%BE%A4%E4%BD%93%E7%94%9F%E5%AD%98%E7%8E%B0%E7%8A%B6%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A-%E5%8F%AF%E8%A7%86%E5%8C%96.pdf",
+          "snippet": "69%的跨性别者在工作中着装与认同的性别不符，跨性. 别女性中占比为33.76%，跨性别男性占比为11.34%，. 性别酷儿中占比为13.85%，易装者中占比为5.43%。 6.3 社团/民非/基金会 ...",
+          "position": 1
+        },
+        {
+          "title": "[PDF] 公众对变性人士权利的看法: 中国 - Williams Institute",
+          "link": "https://williamsinstitute.law.ucla.edu/wp-content/uploads/Public-Opinion-Trans-China-Chinese-Jun-2021.pdf",
+          "snippet": "我们分析了2017 年中国对变性人士的全球态度调查中. 的数据，以提供有关对变性人士、其权利及其在社会地位的看法的新信息。 在中国，对变性人士的态度的研究还很有限。 中国 ...",
+          "position": 2
+        },
+        {
+          "title": "[PDF] LGBTI 包容指数拟议指标",
+          "link": "https://www.undp.org/sites/g/files/zskgke326/files/publications/CHINESE_LGBTI_index.pdf",
+          "snippet": "• 性别认同表达的是某人是否认为自己是男性、女性或其他性别，例如非二元性别。跨性. 别者的性别认同与出生时指派性别并不相符；顺性人具有与出生时指派性别相符的身份.",
+          "position": 3
+        },
+        {
+          "title": "[EPUB] 2019年社会概览",
+          "link": "https://www.oecd-ilibrary.org/society-at-a-glance-2019-summary-chinese_9ee3f8dc-zh.epub?itemId=%2Fcontent%2Fcomponent%2F9ee3f8dc-zh&mimeType=epub",
+          "snippet": "女同性恋者、男同性恋者、双性恋者与跨性别者（LGBT）群体要被经合组织国家完全接受还任重而道远。整体而言，LGBT群体仍然遭受各种形式的歧视。然而，歧视不仅在道德上无法接受 ...",
+          "position": 4
+        },
+        {
+          "title": "中华人民共和国LGBT权益- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BDLGBT%E6%9D%83%E7%9B%8A",
+          "snippet": "中华人民共和国的LGBT（包括男女同性恋、双性恋与跨性别等）人士会面临一定的法律压力与社会压力。时至今日，同性性行为和跨越着装在中国已不再违法，但中国的法律和民事 ...",
+          "position": 5
+        },
+        {
+          "title": "跨性别权利的全球现状与挑战：法律、文化与社会的交织 - 续航教育",
+          "link": "https://www.forwardpathway.com/134574",
+          "snippet": "在全球范围内，LGBTQ权利的法律地位和社会接受度差异显著。根据人权观察的报告，尽管一些国家在LGBTQ权利方面取得了进展，但仍有约20亿人生活在将自愿同性 ...",
+          "date": "6天前",
+          "position": 6
+        },
+        {
+          "title": "超过一半的中国受访者表示同性恋、双性恋、跨性别者等多元群体 ...",
+          "link": "https://williamsinstitute.law.ucla.edu/press/china-press-release-chinese/",
+          "snippet": "大多数受访者（70%）认识至少一位同性恋、双性恋、跨性别者等多元群体的人士，近一半（47%）认识两位或两位以上。 · 近半数受访者（46%）认为他们不介意其邻居属于 ...",
+          "date": "2024年7月2日",
+          "position": 7
+        },
+        {
+          "title": "[PDF] UNDP-CH-PEG-Being-LGBT-in-China_CH.pdf",
+          "link": "https://www.undp.org/sites/g/files/zskgke326/files/migration/cn/UNDP-CH-PEG-Being-LGBT-in-China_CH.pdf",
+          "snippet": "七成以上的受访者认同性. 少数有权利使用各项社会服务，九成以上的受访者认同性少数有平等接受社会救助、将同性伴侣列为保. 险受益人以及平等接受再就业服务的权利。相比之 ...",
+          "position": 8
+        },
+        {
+          "title": "我是社工鹿苹，关于我所了解的跨性别群体现状，问吧！ - 澎湃新闻",
+          "link": "https://m.thepaper.cn/asktopic_detail_10027872",
+          "snippet": "在中国，约有400万名跨性别者，TA们自我认同的性别与出生时的性别并不一致。作为社会小众群体，TA们面临着身心健康、职场歧视、家庭对立等巨大困境。",
+          "date": "2024年10月8日",
+          "position": 9
+        },
+        {
+          "title": "[PDF] 跨性别者、间性人和酷儿（LGBTIQ+）融入劳动世界",
+          "link": "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@asia/@ro-bangkok/@ilo-beijing/documents/publication/wcms_856152.pdf",
+          "snippet": "本指南介绍了LGBTIQ+人群面临的歧视和挑战，并为预防和解决LGBTIQ+人群在. 劳动世界的歧视、污名和排斥提供了行动指导。 研究表明，消除歧视和促进包容可以提高工作场所的 ...",
+          "position": 10
+        },
+        {
+          "title": "跨性别恐惧- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E8%B7%A8%E6%80%A7%E5%88%A5%E6%81%90%E6%87%BC",
+          "snippet": "近年来，在西方世界中有一股逐步建立反歧视和平等机会的政策的趋势。这一趋势在发展中国家也有一定展现。另外，LGBT 运动正在世界范围散播，使得社会对非传统的性别认同的接受 ...",
+          "position": 11
+        },
+        {
+          "title": "【专题报道】中国“同志”等性和性别少数群体境遇有待改善 - UN News",
+          "link": "https://news.un.org/zh/story/2019/06/1036281",
+          "snippet": "刘教授表示，近年来，性少数群体在法律地位和社会接受度方面已经取得了一些进展。 刘明辉：“和以前相比我感觉还是好一些了，一个改变就是，《中华人民共和国反 ...",
+          "date": "2019年6月24日",
+          "position": 12
+        },
+        {
+          "title": "中国跨性别者悲歌:“家人决定我是谁” - DW",
+          "link": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85%E6%82%B2%E6%AD%8C%E5%AE%B6%E4%BA%BA%E5%86%B3%E5%AE%9A%E6%88%91%E6%98%AF%E8%B0%81/a-48800958",
+          "snippet": "方羽然认为对中国的法治系统来说，跨性别不在它们考虑的范畴内。 不过他也认为，随着年轻一代慢慢理解跨性别的议题，社会的接受度也有慢慢提升的趋势。 他 ...",
+          "date": "2019年5月20日",
+          "position": 13
+        },
+        {
+          "title": "“让我出箱”运动提高对跨性别儿童生活的认识 - UN News",
+          "link": "https://news.un.org/zh/story/2022/03/1101322",
+          "snippet": "... ，以促进对跨性别儿童的更大包容和接受度， ... 联合国艾滋病规划署与跨性别者社区、民间社会组织和政府 ...",
+          "date": "2022年3月31日",
+          "position": 14
+        },
+        {
+          "title": "你的国家对跨性别者有多大的支持度？ - 世界经济论坛",
+          "link": "https://cn.weforum.org/stories/2017/01/839596e7-4293-4d70-bd24-0bf290c9bbb3/",
+          "snippet": "而这些国家则得到一个总分为一百分的得分排名。较为年轻的人和收入较高、受教育程度较高的人往往对变性者更为支持，女性也比男性更为 ...",
+          "date": "2017年1月9日",
+          "position": 15
+        },
+        {
+          "title": "[PDF] 评估职场中LGBTQI+ 的包容性",
+          "link": "https://outandequal.org/wp-content/uploads/2023/07/ToolkitForChange_Global_Mandarin_R61.pdf",
+          "snippet": "列举了性别认同保护（2002年这一数字仅. 为3%）。1. • 婚姻平等的国家数量已增至31个；2. • 根据社会调查衡量，30年来，全球对. LGBTQI+社群的接受度在130多个 ...",
+          "date": "2023年7月10日",
+          "position": 16
+        },
+        {
+          "title": "[PDF] 跨性别组织现状（第二版）",
+          "link": "https://gate.ngo/wp-content/uploads/2017/10/The-State-of-Trans-Organizing-2nd-Edition-2017-Executive-Summary-ZH_CN.pdf",
+          "snippet": "持续不断地发布文件引起了国际社会对各地跨性别者. 高得惊人的被谋杀率的关注 ... 跨性别组织在寻找、申请和接受资助时面临障碍。 70.8%的跨性别团体报告称在申请 ...",
+          "position": 17
+        },
+        {
+          "title": "性别歧视让柜子越来越深——中国性少数群体生存状况调查",
+          "link": "https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/hj1-06192019165254.html",
+          "snippet": "辛颖解释，其实中国的年轻一代对LGBT人群接受度极高，然而充当社会主流意见的较年长阶层恐惧不一样的性别倾向和认知，他们的对LGBT群体偏见主要来自性别歧视 ...",
+          "date": "2019年6月19日",
+          "position": 18
+        },
+        {
+          "title": "跨性别人群生存困境调查：多数人有遭受校园暴力经历 - 新闻频道",
+          "link": "http://news.cctv.com/2020/02/22/ARTIJ5mYNQzX05v1IZiDuRoN200222.shtml",
+          "snippet": "广州性别教育中心发布的《跨性别校园环境及身份、学历证件变更状况调查报告》显示，跨性别人群仅有52.34%能够顺利毕业，有60.15%认为学历证件的性别问题将对 ...",
+          "date": "2020年2月22日",
+          "position": 19
+        },
+        {
+          "title": "跨性别女性的评估和管理- UpToDate",
+          "link": "https://www.uptodate.com/contents/zh-Hans/transgender-women-evaluation-and-management/print",
+          "snippet": "发生率–现有数据表明0.6%的成人为跨性别者[3-5]。跨性别的发生率取决于定义。例如，一些研究仅纳入接受了激素治疗、性别确认手术或证实跨性别(有对应 ...",
+          "date": "2023年10月12日",
+          "position": 20
+        },
+        {
+          "title": "[PDF] 異性戀大學生對順性別者與跨性別者社會人際關係態度之比較",
+          "link": "https://tpl.ncl.edu.tw/NclService/pdfdownload?filePath=lV8OirTfsslWcCxIpLbUfhQHstx_oOBLKsxi6CD7mYA3nvVV2i7li6Ydd8gbOtpR&imgType=Bn5sH4BGpJw=&key=Bph3n2VeCR-oAK_Lo2rUt64aYoQxWpfcWeRwJblKm-MeVVU9OyINO4qBZJhLTxWd&xmlId=0006995133",
+          "snippet": "***p < .001. 表6. 男女大學生對同儕友情接受度、愛情認同度及關懷同情度簡單主要效果分析. 層面.",
+          "position": 21
+        },
+        {
+          "title": "[PDF] “我需要家长同意才能做自己”",
+          "link": "https://www.amnesty.org/en/wp-content/uploads/2021/05/ASA1702692019CHINESE.pdf",
+          "snippet": "跨性别者普遍在家中和社会上受到歧视，这意味着许许多多的人依然被迫隐藏自己 ... 59 《接受多样性并保护跨性别与性别多样的儿童及青少年（Embrace diversity and ...",
+          "position": 22
+        },
+        {
+          "title": "性少数群体医疗照顾3例经验分享- 中华全科医师杂志",
+          "link": "https://rs.yiigle.com/cmaid/1504756",
+          "snippet": "性少数群体，包括女同性恋者、男同性恋者、双性恋者和跨性别者等，可能面临着特有的健康和社会问题。目前有关我国性少数群体医疗照顾的报道较少。笔者 ...",
+          "date": "2024年6月4日",
+          "position": 23
+        },
+        {
+          "title": "[PDF] 美国心理学会性少数人群心理实践指南",
+          "link": "https://www.apa.org/pi/lgbt/resources/practice-sexual-minority-chinese.pdf",
+          "snippet": "某些情况下，跨性别者接受性别. 肯定医疗干预，如激素治疗时，. 性倾向可能会变得更 ... 于她们的社会接受度和支持度都. 更低，遭受性侵害后的恢复也面. 临更大的困难 ...",
+          "position": 24
+        },
+        {
+          "title": "国际不再恐同日：3.5亿LGBTQ群体，让世界充满爱",
+          "link": "https://m.medsci.cn/article/show_article.do?id=a4bd211463b2",
+          "snippet": "为此，医生助理教育认证评审委员会将从2020年9月开始增加LGBTQ课程内容。 虽然个人关于LGBTQ人群的看法不甚相同，但社会对LGBTQ人群的接受度确实已经增加。",
+          "date": "2021年5月17日",
+          "position": 25
+        },
+        {
+          "title": "[PDF] 性与性别少数群体心理健康与亲密关系报告",
+          "link": "https://cnlgbtdata.com/files/uploads/2021/07/%E6%80%A7%E4%B8%8E%E6%80%A7%E5%88%AB%E5%B0%91%E6%95%B0%E7%BE%A4%E4%BD%93%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E4%B8%8E%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB%E6%8A%A5%E5%91%8A%E5%8F%AF%E8%A7%86%E5%8C%96.pdf",
+          "snippet": "成人性与性别少数群体的轻度抑郁风险是全国调研数据的. 近两倍,重度抑郁风险 ... 跨性别者受到社会支持类型分布情况. 1.61.1%的跨性别者表示自己曾受到过一种或多种 ...",
+          "position": 26
+        },
+        {
+          "title": "[PDF] 跨性别女性人群心理特征及相关行为分析* - 中国公共卫生",
+          "link": "https://www.zgggws.com/cn/article/pdf/preview/10.11847/zgggws1118684.pdf",
+          "snippet": "完全男性或男性为主装扮从事社会生活的104 人，. 占65.0 %，以完全 ... 性接受性肛交性行为，占64.3 %。59 人与女性发生. 过性行为，占36.9 %。61 ...",
+          "date": "2018年11月1日",
+          "position": 27
+        },
+        {
+          "title": "中国跨性别者非自杀倾向自残行为研究——流行率和风险 ... - 汉斯出版社",
+          "link": "https://image.hanspub.org/Html/38-1132645_48438.htm",
+          "snippet": "结论：研究结果证实，NSSI在中国跨性别群体中普遍存在，并且研究表明降低NSSI可以通过改善其心理健康问题和提高身体接受度来实现。同时，社会应采取相应措施 ...",
+          "date": "2022年1月28日",
+          "position": 28
+        },
+        {
+          "title": "平等视角| “对跨性别人群和性别多样人群尊重、细致且准确的展现，会 ...",
+          "link": "https://equal-eyes.org/chinese/2019/9/9/-",
+          "snippet": "基于实现可持续发展目标这一背景，联合国开发计划署举办了一次研讨会，旨在改善非洲撒哈拉以南地区的性、性别少数群体的人权和社会包容度。研讨会明确了个体 ...",
+          "date": "2019年9月9日",
+          "position": 29
+        },
+        {
+          "title": "支持壳牌的LGBT 人才",
+          "link": "https://www.shell.com.cn/zh_cn/careers/diversity-inclusion/lgbt-talent-at-shell.html",
+          "snippet": "壳牌支持和帮助具有各种背景的卓越人才，并努力成为工作场所内女同性恋者、男同性恋者、双性恋者与跨性别者(LGBT) 的包容性先锋。 ... 社会中的接受度。2012 年，我们成为工作 ...",
+          "position": 30
+        },
+        {
+          "title": "[PDF] 摘要",
+          "link": "https://upr-info.org/sites/default/files/documents/2019-04/js16_upr31_chn_e_annexe1.pdf",
+          "snippet": "18北京同志中心，北京大学社会学系：《2017 中国跨性别群体生存现状调查报告》，2017 年，第51 页. 19 观察网，《中国性倾向职场歧视第一案”终审宣判小红帽主角之一败诉》.",
+          "position": 31
+        },
+        {
+          "title": "《2023台灣跨性別族群生活處境報告》暨記者會",
+          "link": "https://hotline.org.tw/news/3408",
+          "snippet": "這可能反映社會大眾對於出生指定性別為女性但打扮陽剛、男性化的外貌，有著較高的接受度。此外，社會大眾對跨性別男性的討論度較低，較不易意識到這個族群的 ...",
+          "date": "2024年1月18日",
+          "position": 32
+        },
+        {
+          "title": "[PDF] 全球跨性别健康与幸福指数议题",
+          "link": "https://transrespect.org/wp-content/uploads/2018/12/TvT-PS-Vol20-2018_CN.pdf",
+          "snippet": "在俄国，10 17％的受访者表示他们被拒绝接受医疗护理，因为. 他们的外表和性别认同与他们的性别标记相关的社会期望不符。 41％的受访. 者表示他们被迫从医生那里停止得到医疗和 ...",
+          "position": 33
+        },
+        {
+          "title": "[PDF] 跨性别以及间性（LGBTI）人群的问题企业行为准则 - ohchr",
+          "link": "https://www.ohchr.org/sites/default/files/documents/issues/lgbt/Standards-of-Conduct-discrimination-lgbti-CH.pdf",
+          "snippet": "... 度。 联合国在2000年发布了世界上规模最大的企业责任倡议书一《联. 合国全球 ... 要想. 实现这些目标，包括解决社会和经济性歧视和边缘化问题，需要除. 了政府以外的 ...",
+          "position": 34
+        },
+        {
+          "title": "'他想把我身体里的女人打跑' | Human Rights Watch",
+          "link": "https://www.hrw.org/zh-hans/news/2019/10/07/334475",
+          "snippet": "对於许多接受我访谈的跨性别女性来说，在父权社会中接纳自己的性别认同是一个痛苦过程。他们常常面临两难抉择：或者公开表现真我，但必须付出代价，也 ...",
+          "date": "2019年10月7日",
+          "position": 35
+        },
+        {
+          "title": "中?跨性?者??保?保障?系的困境??策- 동북아법연구 - KISS",
+          "link": "https://kiss.kstudy.com/DetailOa/Ar?key=53302884",
+          "snippet": "... 跨性别者难以被社会接受, 受到各种歧视。 相较于, 英、 美两国, 由于医疗保障的缺失, 中国的跨性别者存在更为严重的药物滥用和心理健康问题。 出于人权保护和社会公平 ...",
+          "position": 36
+        },
+        {
+          "title": "跨性别人士在荷兰过得怎么样？",
+          "link": "https://helanonline.cn/article/16811",
+          "snippet": "荷兰文化社会规划署（Sociaal en Cultuur Planbureau,简称SCP）2018年的数据显示，3.9%的荷兰人不完全认同自己出生时确定的生理性别。而打算或已经接受手术或 ...",
+          "date": "2021年11月24日",
+          "position": 37
+        },
+        {
+          "title": "年终报道：2017年中国LGBT人群现况与展望 - 美国之音",
+          "link": "https://www.voachinese.com/a/year-ender-china-lgbt-20171229/4184970.html",
+          "snippet": "除此之外，多元性别群体面临着严重的家暴，尤其是来自原生家庭的暴力，因为父母接受不了孩子的同性恋、双性恋、跨性别者身份，打骂很常见，甚至有被家长强制送 ...",
+          "date": "2017年12月30日",
+          "position": 38
+        },
+        {
+          "title": "王恒| 吾栖之肤：跨性别者的性别认同与具身实践——基于在北京市 ...",
+          "link": "http://www.shehui.pku.edu.cn/wap/second/index.aspx?nodeid=2030&page=ContentPage&contentid=10195",
+          "snippet": "王恒（2000-），出生于浙江杭州，多伦多大学女性与性别研究所2022级硕士生，北京大学法学（社会学）学士、文学（艺术史论）学士。研究方向：跨性别研究、酷儿理论、社会运动。本文 ...",
+          "position": 39
+        },
+        {
+          "title": "关于跨性别群体的生存状态，问我吧! - 澎湃新闻",
+          "link": "https://m.thepaper.cn/asktopic_detail_10001458",
+          "snippet": "我想了解女跨男群体的生存状况，还有社会接受度低必然导致TS多数只能从事皮肉生意吗？ 孙蕴珍: 2015-12-23 ∙ 未知. 1. 您好，女跨男的生活相对比较平静 ...",
+          "date": "2015年12月23日",
+          "position": 40
+        },
+        {
+          "title": "[PDF] 中国跨性别者非自杀倾向自残行为研究",
+          "link": "https://pdf.hanspub.org/AP20220100000_27859661.pdf",
+          "snippet": "结论：研究结果证实，NSSI在中. 国跨性别群体中普遍存在，并且研究表明降低NSSI可以通过改善其心理健康问题和提高身体接受度来实. 现。同时，社会应采取相应 ...",
+          "date": "2022年1月21日",
+          "position": 41
+        },
+        {
+          "title": "儿童与性别认同：支持您的孩子- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/healthy-lifestyle/childrens-health/in-depth/children-and-gender-identity/art-20266811",
+          "snippet": "大多数儿童会通过穿着方式、玩具选择以及角色扮演来度过性别探索期。有些儿童 ... 请孩子的医务人员帮您安排曾接受过跨性别需求培训的咨询师。 社会过渡是什么 ...",
+          "position": 42
+        },
+        {
+          "title": "世卫组织重​新归类“变性”不再被视为精神病 - 中国网新闻中心",
+          "link": "http://news.china.com.cn/2019-05/31/content_74840251.htm",
+          "snippet": "据报道，2018年，联合国卫生机构（United Nations health agency）在宣布这一改变时表示，预计新的分类将提高跨性别者的社会接受度，同时仍将提供重要的卫生资源 ...",
+          "date": "2019年5月31日",
+          "position": 43
+        },
+        {
+          "title": "2024年F&M全球晴雨表LGBTQI+感知指数调查",
+          "link": "https://www.lgbtqiperceptionindex.org/survey/mandarin/",
+          "snippet": "在此项调查中，我们将询问您在过去12个月中，作为一位女同性恋、男同性恋、双性恋、跨性别者、酷儿和/或间性者，您在安全、恐惧、社会接受度方面的感受以及遭受到暴力和歧视的 ...",
+          "position": 44
+        },
+        {
+          "title": "面部男性化手术如何实现性别确认？ - Kamol Cosmetic Hospital",
+          "link": "https://www.kamolhospital.com/zh/blog/1131/how-does-facial-masculinization-surgery-make-gender-affirmation",
+          "snippet": "增强社交互动：面部男性化手术可以影响跨性别男性在社交互动中他人对他们的看法。更加阳刚的面部外貌可能会导致更多的社会接受，减少误用性别称谓，并改善与他人的互动。这有 ...",
+          "position": 45
+        },
+        {
+          "title": "跨性别青少年激素治疗一年后性别不安、人际少数族裔压力和心理 ...",
+          "link": "https://www.x-mol.com/paper/1760540383582588928/t",
+          "snippet": "较高水平的基线家庭支持、父母与性别相关的接受度和较低水平的基线受害与一年随访时更好的心理健康有关。身体不满意的减少也与抑郁症状的减少以及心理社会功能和随访的改善 ...",
+          "position": 46
+        },
+        {
+          "title": "新加坡废除同性性行为禁令亚太国家和地区的“同志”权益现状盘点 - BBC",
+          "link": "https://www.bbc.com/zhongwen/simp/world-62646571",
+          "snippet": "新加坡的LGBT（女同性恋者、男同性恋者、双性恋者与跨性别者的英文首 ... 权益人士指出，越南的同性平权运动及社会接受度越来越高，有可能成为下 ...",
+          "date": "2022年8月23日",
+          "position": 47
+        },
+        {
+          "title": "[PDF] 多元性別統計指引一、 前言依據《性別平等政策綱領》",
+          "link": "https://gec.ey.gov.tw/File/168F09F426F60ACA/1ba8e755-df46-4915-81a9-3815cfe474b1?A=C",
+          "snippet": "(2) 社會接受度：社會對雙性人的認識和接受程度，是否. 存在廣泛的社會偏見和刻板 ... 跨性別女性的. 性別認同為女性，但在出生時被歸類為男. 性；跨性別男性的性別認同為男性，但 ...",
+          "position": 48
+        },
+        {
+          "title": "[PDF] 第三章認識跨性別者（T）及其處境",
+          "link": "https://www.boca.gov.tw/dl-2331-7e983e47d7e043f3b9c6d19c66e9d68a.html",
+          "snippet": "事實上，現實生活測試中所包含對社會接受度的觀察，也是一項相當困難且牽. 涉社會價值觀的議題。一般大眾對於變性者仍有相當的誤解與歧視，即使現在. 社會觀念日漸開放 ...",
+          "position": 49
+        },
+        {
+          "title": "Education sector responses to homophobic bullying (chi)",
+          "link": "https://unesdoc.unesco.org/ark:/48223/pf0000216493_chi",
+          "snippet": "... 跨性别和社会性别身份与主流不符的学生。这其中包括确保任何歧视、骚扰和欺凌的 ... 社会包容度。 在预防和解决恐同欺凌现象方面，针对课程和学习材料应充分考虑 ...",
+          "position": 50
+        },
+        {
+          "title": "[PDF] 简报#09 跨性别性工作者的需求与权利",
+          "link": "https://www.nswp.org/sites/default/files/trans_sws_chinese.pdf",
+          "snippet": "和. 其他没有安全居留身份的人一样，TSW移民会遇到额外的障碍，如语言不. 通，难以获得住房、失业救济、医护服务/医保等社会福利。移民TSW不安. 全的居留身份使其难以享受完整 ...",
+          "position": 51
+        },
+        {
+          "title": "跨性别者和多元性别者的斗争 - ohchr",
+          "link": "https://www.ohchr.org/zh/special-procedures/ie-sexual-orientation-and-gender-identity/struggle-trans-and-gender-diverse-persons",
+          "snippet": "无法获得法律承认的性别认同会对人们的生活的各个方面产生负面影响：包括其健康权、住房权、获得社会保障的权利，以及行动和居住自由的权利；还会助长包括教育和工作场所在内 ...",
+          "position": 52
+        },
+        {
+          "title": "性少数群体数据（LGBT+、性别类型、社交、社会认同） - 镝数聚",
+          "link": "https://www.dydata.io/datastore/detail/2066847388596834304/",
+          "snippet": "主要用于指LGB或非异性恋者，也可以指跨性别、非二元性别（包括第三性别）或双性人。根据《中国性少数群体生存状况调查报告》，在中国，性少数人群依然生活在 ...",
+          "date": "2022年7月7日",
+          "currency": "¥",
+          "price": 19,
+          "position": 53
+        },
+        {
+          "title": "台湾同婚合法了但全世界对LGBT更加宽容了吗 - BBC",
+          "link": "https://www.bbc.com/zhongwen/simp/world-48441884",
+          "snippet": "例如，在加纳，对同性恋者的态度变得更加严厉，同性性行为可以被定罪入狱。2013年的民意调查显示，96％的加纳人认为社会不应接受同性恋。世界各地政府 ...",
+          "date": "2019年6月3日",
+          "position": 54
+        },
+        {
+          "title": "異性戀大學生對順性別者與跨性別者社會人際關係態度之比較 ...",
+          "link": "http://ericdata.com/tw/detail.aspx?no=414508",
+          "snippet": "研究對象為828位大學生，男生376位、女生452位。研究工具有三，分別是大學生對順性別者、對跨性男及對跨性女之社會人際關係態度量表，每一量表各有三個層面，分別是友情接受度 ...",
+          "position": 55
+        },
+        {
+          "title": "性别不一致和性别焦虑症 - 默沙东诊疗手册",
+          "link": "https://www.msdmanuals.cn/home/mental-health-disorders/gender-incongruence-and-gender-dysphoria/gender-incongruence-and-gender-dysphoria",
+          "snippet": "这被称为社会性别转换。他们可能改变姓名和获得异性身份的证明（例如驾照），以便于他们能够以异性的身份工作和生活。 大多数寻求医学治疗的成人跨性别者希望接受激素 ...",
+          "position": 56
+        },
+        {
+          "title": "Ta山| 数据报告出炉！中国公众对跨性别者权利怎么看？ - 关于同语",
+          "link": "https://www.tycommonlanguage.com/post/ta%E5%B1%B1-%E6%95%B0%E6%8D%AE%E6%8A%A5%E5%91%8A%E5%87%BA%E7%82%89%EF%BC%81%E4%B8%AD%E5%9B%BD%E5%85%AC%E4%BC%97%E5%AF%B9%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85%E6%9D%83%E5%88%A9%E6%80%8E%E4%B9%88%E7%9C%8B%EF%BC%9F",
+          "snippet": "在中国，对公众之于跨性别者态度的研究还很有限；过去的相关研究显示，中国对跨性别群体的接纳度较低。比如一份2017年所作的非概率样本报告表明：近90%的家庭 ...",
+          "date": "2022年3月31日",
+          "position": 57
+        },
+        {
+          "title": "性别扭转治疗：一个跨性别女孩的残酷“成年礼” - QQ News",
+          "link": "https://news.qq.com/rain/a/20200722A057D800",
+          "snippet": "朱亦的痛苦并不是跨性别群体中的个例。根据北京同志中心、北京大学社会学系共同发起的《2017中国跨性别群体生存现况调查》，2060份有效问卷显示 ...",
+          "date": "2020年7月22日",
+          "position": 58
+        },
+        {
+          "title": "公告_中国人民大学人权研究中心",
+          "link": "http://humanrights.ruc.edu.cn/rqdt/gg/c8e75436c9f04272bb1c7a18780d0e72.htm",
+          "snippet": "国家要尊重跨性别者的个人选择，这是国家的消极义务。另一方面要进行变性手术，社会包容的环境等，又需要国家积极保障义务，来创造条件以促进他们权利的实现 ...",
+          "position": 59
+        },
+        {
+          "title": "中国公众对性少数群体歧视程度的地域分布:一项全国性调研 - 豆瓣",
+          "link": "https://m.douban.com/note/762489861/",
+          "snippet": "在五个维度的接受度评估中，异性恋参与者报告，对自己的孩子为LGBT的接受度较低(平均值=46.4，标准差=5.5)。值得注意的是，中国最西部地区的接受程度明显较低， ...",
+          "date": "2020年5月13日",
+          "position": 60
+        },
+        {
+          "title": "[PDF] 论西方当代性别与跨性别理论的缘起 - 浙江大学学术期刊",
+          "link": "https://www.zjujournals.com/soc/CN/article/downloadArticleFile.do?attachType=PDF&id=32814",
+          "snippet": "20 世纪70 年代，学界开展了社会性别在文学文化中的表现形式研究和生理性别/社会性别制. 度研究。前者以凯特·米利特（Kate Millett）为代表。1970 年，凯特· ...",
+          "date": "2021年9月5日",
+          "position": 61
+        },
+        {
+          "title": "認識跨性別– 跨性別Transgender",
+          "link": "https://transgender.taipei/%E8%AA%8D%E8%AD%98%E8%B7%A8%E6%80%A7%E5%88%A5/",
+          "snippet": "跨性別者的樣貌 · 跨性別男性（Trans Man / FTM）：指從女性跨越到男性，也可簡稱跨男。 · 跨性別女性（Trans Woman / MTF）：指從男性跨越到女性，也可簡稱跨女。 · 非二元性別（Non- ...",
+          "position": 62
+        },
+        {
+          "title": "志同契合工作坊-LGBT+友善支持團體 - 南投縣政府性別平等專區",
+          "link": "https://www.nantou.gov.tw/ge/show.php?cid=2191&cid1=0&id=135070",
+          "snippet": "... 性戀、泛性戀、半無性戀、雙靈人等較少見的性傾向類型。 南投屬於農業縣，生活單純、民風純樸，對於同志婚姻、跨性別、多元性別議題之接受度，較質疑、抗拒與排斥。幾 ...",
+          "position": 63
+        },
+        {
+          "title": "[PDF] 雙性戀及跨性別中學生在校園遇到的騷擾和歧視經歷」研究報告",
+          "link": "https://www.eoc.org.hk/EOC/Upload/UserFiles/File/Funding%20Programme/policy/1314/20150526/HKIEd_Research%20Report_C.pdf",
+          "snippet": "1. 研究顯示超過八成（84.3%）的受訪者表示從無接受過性教育課程中有關跨性別或 ... 研究指出，在制度層面方面，對不同性傾向及性別認同學生的歧視是植根於社會制. 度 ...",
+          "position": 64
+        },
+        {
+          "title": "跨儿心理咨询手册 - 跨性别在线·文档库",
+          "link": "https://docs.transonline.org.cn/kexl-counseling/",
+          "snippet": "内化跨性别嫌恶（Internalized Transnegativity）是指跨性别者不断接受外部的负面态度，如歧视、侵害、拒绝等，而逐渐内化了社会规范中的性别期待，进而对自身的跨性别身份产生 ...",
+          "position": 65
+        },
+        {
+          "title": "非男即女吗？或者有其他？ | 端传媒Initium Media",
+          "link": "https://theinitium.com/zh-hans/article/20160204-taiwan-gender-identity",
+          "snippet": "阴阳人（Intersex）有着独立于跨性别（Transgender）的性别认同过程 ... 除了医学层面，社会的接受度是一个更大的难题。丘爱芝现身后，发现其实 ...",
+          "date": "2016年2月3日",
+          "position": 66
+        },
+        {
+          "title": "台港跨性別人士的法律保護與社會接受度探討 - RTI 洞察中國",
+          "link": "https://insidechina.rti.org.tw/news/view/id/2164836",
+          "snippet": "在香港，跨性別人士受到《性別歧視條例》等法律保護，該條例禁止基於性別、婚姻狀況和針對懷孕人士的歧視。可是，該條例沒有明確將性別認同或性別表達列為受 ...",
+          "date": "2023年4月14日",
+          "position": 67
+        },
+        {
+          "title": "LGBTQ权益排名：马耳他第一波兰垫底，德国第几？ - DW",
+          "link": "https://www.dw.com/zh/lgbtq%E6%9D%83%E7%9B%8A%E6%8E%92%E5%90%8D%E9%A9%AC%E8%80%B3%E4%BB%96%E7%AC%AC%E4%B8%80-%E6%B3%A2%E5%85%B0%E5%9E%AB%E5%BA%95%E5%BE%B7%E5%9B%BD%E7%AC%AC%E5%87%A0/a-69115041",
+          "snippet": "LGBTQ代表：女同性恋（L）、男同性恋（G）、双性恋（B）、跨性别（T）和酷儿（Q: 非二元性别）人士。“我们很高兴有一个支持我们的政府。当然，如果你是LGBTQ人士，可能 ...",
+          "date": "2024年5月18日",
+          "position": 68
+        },
+        {
+          "title": "难以跨越的“隐形门”：跨性别者职场生存记 - 新浪新闻",
+          "link": "https://news.sina.cn/sh/2020-01-21/detail-iihnzahk5471671.d.html",
+          "snippet": "现有法律中，没有不得歧视跨性别者性别认同与性别表达的条款，也不存在对就业歧视的定义，辞退理由中的这一类歧视因素很难被认定，这是众多跨性别者就业歧视 ...",
+          "date": "2020年1月21日",
+          "position": 69
+        },
+        {
+          "title": "“亚洲同志”项目中国国别报告 - Issuu",
+          "link": "https://issuu.com/undp-china/docs/undp-ch-peg-being_lgbt_in_asia_chin",
+          "snippet": "它列举了致力于LGBT权利保护的重要组织，并指出了LGBT社会接受度和社区发展上的地区差异。 ... 特别是接受了性别重建手术的跨性别者， 他们所经历的心理转变的 ...",
+          "date": "2015年3月3日",
+          "position": 70
+        },
+        {
+          "title": "[PDF] 國際多元性別統計與我國發展情形",
+          "link": "https://ws.dgbas.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvNDYxL3JlbGZpbGUvMTA3NjgvMjMzNzExL%2BWkmuWFg%2BaAp%2BWIpee1seioiOWIhumhnuaVmeadkO%2B8jeOAjOWci%2Bmam%2BWkmuWFg%2BaAp%2BWIpee1seioiOiIh%2BaIkeWci%2BeZvOWxleaDheW9ouOAjS5wZGY%3D&n=5aSa5YWD5oCn5Yil57Wx6KiI5YiG6aGe5pWZ5p2Q77yN44CM5ZyL6Zqb5aSa5YWD5oCn5Yil57Wx6KiI6IiH5oiR5ZyL55m85bGV5oOF5b2i44CNLnBkZg%3D%3D&icon=.pdf",
+          "snippet": "... 性別（Sex）與社會性別( Gender ) 建構「順性別. （cisgender）」與「跨性別（transgender）」之多元性別分類. • 順性別：社會性別與出生時性別一致. • 跨性別：社會性別與出生時 ...",
+          "position": 71
+        },
+        {
+          "title": "爱尔兰：婚姻平等体现社会包容性 - Human Rights Watch",
+          "link": "https://www.hrw.org/zh-hans/news/2015/05/28/270087",
+          "snippet": "今年3月，爱尔兰国会通过性别承认法，是该国首度允许跨性别人群申请合法的性别认定。该法案有些瑕疵，例如规定已婚人士必须先离婚才能合法变更性别。",
+          "date": "2015年5月28日",
+          "position": 72
+        },
+        {
+          "title": "跨性别人群可以通过后天干预改变吗？ - 搜狐",
+          "link": "https://www.sohu.com/a/152744941_516458",
+          "snippet": "世界上，有男人有女人，也有第三种人，第三种人是什么人？ 性别仿佛是每个人最重要的属性之一，男或者女，这看起来是最简单明了的问题。但是在现实中，性别真 ...",
+          "date": "2017年6月28日",
+          "position": 73
+        },
+        {
+          "title": "[PDF] 行政院「我國多元性別（LGBTI）者生活狀況調查」研究案",
+          "link": "https://equallove.tw/sites/default/files/att-file/%E8%A1%8C%E6%94%BF%E9%99%A2%E3%80%8C%E6%88%91%E5%9C%8B%E5%A4%9A%E5%85%83%E6%80%A7%E5%88%A5%28LGBTI%29%E8%80%85%E7%94%9F%E6%B4%BB%E7%8B%80%E6%B3%81%E8%AA%BF%E6%9F%A5%E3%80%8D%E5%A7%94%E8%A8%97%E7%A0%94%E7%A9%B6%E5%A0%B1%E5%91%8A.pdf",
+          "snippet": "... 社會敵意、社會支持與生活滿意度，跨. 性別者遭遇歧視、暴力與騷擾的頻率 ... 這個結果顯示為何家庭成員的接受度，可能成為臺灣多元性. 別族群一大 ...",
+          "date": "2023年5月24日",
+          "position": 74
+        },
+        {
+          "title": "跨性别者的爱情：我爱你，不是因为你的性别 - 歪脑",
+          "link": "https://www.wainao.me/wainao-reads/love-of-transgender-individuals-10042023",
+          "snippet": "在香港需要刻意隐藏自己的性别认同，扮演着先生、父亲、男朋友的身分，来到英国之后，Lilith感受到西方社会的思想较为开放及接受，纵然不时有人会在 ...",
+          "date": "2023年10月4日",
+          "position": 75
+        },
+        {
+          "title": "中国医患社会心态分问卷的跨性别测量等值性 - 心理技术与应用",
+          "link": "http://www.xljsyyy.com/CN/10.16842/j.cnki.issn2095-5588.2020.07.003",
+          "snippet": "结果表明，医患满意度1问卷的三因子结构、患方医患满意度2问卷和健康观问卷以及医方疾病观问卷的二因子结构在总样本、男性样本与女性样本中均拟合均达到可接受的标准。其中 ...",
+          "position": 76
+        },
+        {
+          "title": "中国跨性别就业平权第一案 - Radio Free Asia",
+          "link": "https://www.rfa.org/mandarin/yataibaodao/shehui/hj-12112019143336.html",
+          "snippet": "随着平权运动的兴起，中国性少数群体在职场受到的歧视问题也逐渐进入公众视野。近日，杭州一法院受理了中国首起跨性别平等就业权的案件。这是中国跨性别 ...",
+          "date": "2019年12月11日",
+          "position": 77
+        },
+        {
+          "title": "推動多元與包容的文化– 台灣首位跨性別選美皇后愛里的分享",
+          "link": "https://news.microsoft.com/zh-tw/features/di-microsoft-transgender-2/",
+          "snippet": "台灣為亞洲第一個同志婚姻合法化的國家，同性議題在台灣社會雖然已逐漸取得認同，但在彩虹光譜下有一群人似乎仍是最微弱的光源，那便是跨性別者。儘管同婚合法，但在法律和 ...",
+          "position": 78
+        },
+        {
+          "title": "[PDF] 以愛之名擁抱多元性別",
+          "link": "https://www.tax.taichung.gov.tw/media/767964/1100903-cedaw%E9%80%B2%E9%9A%8E%E8%AA%B2%E7%A8%8B-%E5%A4%9A%E5%85%83%E6%80%A7%E5%88%A5%E6%AC%8A%E7%9B%8A%E7%B0%A1%E5%A0%B1.pdf",
+          "snippet": "「跨性別」人士之所以精神感到痛苦，是因為身受暴力對待，以及. 感受到社會排斥，而非自身的性別認同所導致。 http://news.ltn.com.tw/news/world/ ...",
+          "date": "2021年6月22日",
+          "position": 79
+        },
+        {
+          "title": "[PDF] 跨性別者自助手冊",
+          "link": "https://genderempowerment.org/wp-content/uploads/2023/06/A5_%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85%E8%87%AA%E5%8A%A9%E6%89%8B%E5%86%8A_%E4%BA%92%E5%8B%95%E7%89%88_final_print-_vf.pdf",
+          "snippet": "外科手術. 在專業的醫療及心理學專家的監測下，跨性別靑. 少年才可考慮接受荷爾蒙治療。 ... 但不能與性別認同混為一談。 社會性別Social Gender. 指一個人在日常生活中，怎樣 ...",
+          "position": 80
+        },
+        {
+          "title": "性别认同- 《默沙东诊疗手册大众版》",
+          "link": "https://www.msdmanuals.cn/home/mental-health-disorders/gender-incongruence-and-gender-dysphoria/gender-identity",
+          "snippet": "... 社会中被视为男性的方式行事）。术语“顺性别”适用于大多数人，用于指性身份与出生时性别相符的人。有些人感到自己的性身份与其生理性别不符。这被称为跨性别者或性别多样化。",
+          "position": 81
+        },
+        {
+          "title": "2020跨性別人權處境調查報告 - 台灣伴侶權益推動聯盟",
+          "link": "https://tapcpr.org/main-topics/gender/2020%E8%B7%A8%E6%80%A7%E5%88%A5%E4%BA%BA%E6%AC%8A%E8%99%95%E5%A2%83%E8%AA%BF%E6%9F%A5%E5%A0%B1%E5%91%8A",
+          "snippet": "本研究採立意取樣，為了在最大程度納入多元性別認同者的經驗，在邀請填答時強調「跨性別者」與「性別氣質不符合社會期待者」均能填寫，分析資料時再透過交叉 ...",
+          "date": "2020年3月31日",
+          "position": 82
+        },
+        {
+          "title": "性之变:改革开放40年的梳理与思考 - 社会学视野网- 中国人民大学",
+          "link": "http://sociologyol.ruc.edu.cn/shxyj/fzshx/xbshx/67144d043d4645abb027a2ca014467f3.htm",
+          "snippet": "相比而言，主流性别研究无论是议题本身，还是研究资源、制度化程度、社会可接受度，其边缘性、经验特点与变化趋势，与性与多元性别都有所不同，带出的问题与 ...",
+          "date": "2020年5月17日",
+          "position": 83
+        },
+        {
+          "title": "平等就业权：中国性少数群体的职场反抗",
+          "link": "https://clb.org.hk/zh-hans/content/%E5%B9%B3%E7%AD%89%E5%B0%B1%E4%B8%9A%E6%9D%83%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%80%A7%E5%B0%91%E6%95%B0%E7%BE%A4%E4%BD%93%E7%9A%84%E8%81%8C%E5%9C%BA%E5%8F%8D%E6%8A%97",
+          "snippet": "2020年，在一起跨性别者的劳动争议中，劳动者获得胜诉判决，但性少数群体遭遇的职场歧视，仍是长期存在但又鲜有被看见的问题。在这个骄傲月（Pride Month）， ...",
+          "date": "2021年7月17日",
+          "position": 84
+        },
+        {
+          "title": "跨儿心理咨询手册 - 跨性別資源中心",
+          "link": "https://www.tgr.org.hk/index.php/zh/31-china/354-twt-counseling-handbook",
+          "snippet": "2018年6月18日，世界卫生组织发布《国际疾病分类第十一次修订本（ICD-11）》，将跨性别的性别认同和性别表达从精神疾病与心理障碍中全部删除，同时在“性健康 ...",
+          "date": "2021年9月11日",
+          "position": 85
+        },
+        {
+          "title": "调查显示美国同性恋族群者人数首度突破千万大关 - 国际新闻",
+          "link": "https://world.huanqiu.com/article/9CaKrnJZKwt",
+          "snippet": "... 性恋、跨性别者)。报告推测，美国约有1005万2000人属于同志族群，占人口 ... 社会接受同性恋程度较高环境下成长的一代，这是他们愿意表态的主因 ...",
+          "date": "2017年1月15日",
+          "position": 86
+        },
+        {
+          "title": "讓跨性別好一點    《台灣跨性別族群生活處境報告》發布 - 苦勞網",
+          "link": "https://www.coolloud.org.tw/node/98115",
+          "snippet": "受訪者中有半數（54%）總是以符合自身性別認同的外貌打扮生活，但也有近兩成（19%）的受訪者很少或從未以理想的外貌打扮生活。至於受訪者接受過的跨性別相關 ...",
+          "date": "2024年1月18日",
+          "position": 87
+        },
+        {
+          "title": "跨性別者在中國的待遇與威脅—守舊思想趕得上新時代嗎？",
+          "link": "https://insidechina.rti.org.tw/news/view/id/2165571",
+          "snippet": "... 社會的接受程度上，較中港台三地來得先進和開放。筆者在上一篇文章帶大家了解了跨性別 ... 由於中國對跨性別人士的認知度和接受度仍然很低，很多醫療機構並不 ...",
+          "date": "2023年4月22日",
+          "position": 88
+        },
+        {
+          "title": "[PDF] 跨性別是泛指「任何人的性別認同及/或其性別表達",
+          "link": "https://www.eoc.org.hk/eoc/upload/20141120161458391903.pdf",
+          "snippet": "該研究探討本港對男女同性戀者及跨性別(LGBT)僱員的態. 度及LGBT僱員的經驗7。 ... - 45%相信跨性別人士在社會上受到負面對待，22%表示在工作間遇到此情況。 關於 ...",
+          "position": 89
+        },
+        {
+          "title": "中国性少数群体生存状况调查报告丨报告解读 - 公益- 凤凰网",
+          "link": "http://igongyi.ifeng.com/44831483/news.shtml",
+          "snippet": "分别有30%左右的受访者表示介意在生活中与性少数群体交往或者认为性少数群体不适合养育孩子。在涉及到自己家人的时候，这个数据变得特别保守，至少10% 的受 ...",
+          "date": "2018年1月3日",
+          "position": 90
+        },
+        {
+          "title": "[DOC] 裝扮遊戲～「是男是女我決定？」",
+          "link": "https://www.gender.ey.gov.tw/Multimedia/Common/FileDownload.ashx?sn=o%24fU4Pq5M07JRVJ!c3Rrug%40%40",
+          "snippet": "例如目前社會上有更多人肯認同性戀變性者的存在，肯認不進行性別重置手術，但是想更改姓名生活的情形，亦即對於「性別」之界線與不同意涵之性別排列組合之接受度有增加之趨勢， ...",
+          "position": 91
+        },
+        {
+          "title": "跨儿心理工作手册 - 跨性别在线·文档库",
+          "link": "https://docs.transonline.org.cn/kexl-work",
+          "snippet": "跨儿（Trans people / Transgender and gender nonconforming people），即广义的跨性别者与非性别常规者，是指性别认同和/或性别表达与其出生分配性别的社会常规不一致的人，是 ...",
+          "position": 92
+        },
+        {
+          "title": "跨性別遊行首度移師228公園2500人上街發聲| 生活 - 中央社",
+          "link": "https://www.cna.com.tw/news/ahel/202410250377.aspx",
+          "snippet": "... 社會提供更多資訊、促進相關政策配套討論。（編輯：管中維）1131025. 2024第6屆台灣跨性別遊行25日 ...",
+          "date": "2024年10月25日",
+          "position": 93
+        },
+        {
+          "title": "2024-10-25【新聞稿】2024第6屆台灣跨性別遊行",
+          "link": "https://hotline.org.tw/news/3476",
+          "snippet": "自2019年台灣通過同性婚姻後，同性戀與雙性戀群體的社會處境有所改善；然而，作為LGBTI+群體的一部分，跨性別社群依然面臨許多挑戰。根據台灣同志諮詢熱線協會 ...",
+          "date": "2024年10月26日",
+          "position": 94
+        },
+        {
+          "title": "中国前卫文艺空间受限：从《三体》编辑被查到金星演出被拒 - 美国之音",
+          "link": "https://www.voachinese.com/a/tabooed-science-fiction-transgenderism-and-halloween-stifle-chinese-literary-and-artistic-innovation/7843781.html",
+          "snippet": "他说，像金星这样的跨性别者能够在中国的主流媒体频频出现，是一个极少数的现象，她以其个人魅力和艺术造诣，一点一滴地带领中国民众逐渐接受LGBT，是领军人物 ...",
+          "date": "1天前",
+          "position": 95
+        },
+        {
+          "title": "跨儿心理工作手册 - 跨性別資源中心",
+          "link": "https://tgr.org.hk/index.php/zh/china/china-info/31-china/355-twt-counselor-handbook",
+          "snippet": "内化跨性别嫌恶（即内化社会对跨性别者的消极态度），并指出社群 ... 低接受度与低支持率：由于跨儿挑战了性别二元规范，大部分跨儿的性别认同 ...",
+          "date": "2021年9月11日",
+          "position": 96
+        },
+        {
+          "title": "关于跨性别的事实- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/healthy-lifestyle/adult-health/in-depth/transgender-facts/art-20266812",
+          "snippet": "性别表达不遵循出生性别固有社会规范的人。 在性别二元范围外认同和表达 ... 还有些跨性别者和多元性别者能安然接受自己的身体和性别，不会出现性别焦虑。",
+          "date": "2023年4月21日",
+          "position": 97
+        },
+        {
+          "title": "国家能源局2024年第四季度新闻发布会文字实录",
+          "link": "https://www.nea.gov.cn/2024-10/31/c_1310787069.htm",
+          "snippet": "今年迎峰度夏期间，全国多地出现持续性高温，20个省级电网负荷创历史新高 ... 三是能源网络基础设施投资稳步释放。5项在建跨省跨区特高压直流 ...",
+          "date": "4天前",
+          "position": 98
+        },
+        {
+          "title": "全文 - 微博",
+          "link": "https://m.weibo.cn/status/4885317464625769",
+          "snippet": "该节日成立于2009年，专为跨性别群体设立，旨在提升全球关于跨性别群体遭受深度歧视、污名、以及不公社会待遇的关注度。跨性别者是对性别认同和/或性别表达 ...",
+          "date": "2023年3月30日",
+          "position": 99
+        }
+      ],
+      "images": [
+        {
+          "title": "跨性别人士在荷兰过得怎么样？ | 荷兰在线中文网HelanOnline",
+          "imageUrl": "https://helanonline.cn/sites/default/files/styles/frontpage_578/public/1_121.png?itok=U6KGjiCj&timestamp=1637722604",
+          "link": "https://helanonline.cn/article/16811"
+        },
+        {
+          "title": "跨性别权利的全球现状与挑战：法律、文化与社会的交织- 美国续航教育",
+          "imageUrl": "https://www.forwardpathway.com/wp-content/uploads/2024/10/transgender_rights_advocacy.jpg",
+          "link": "https://www.forwardpathway.com/134574"
+        },
+        {
+          "title": "跨儿心理工作手册| 跨性别在线·文档库",
+          "imageUrl": "https://docs.transonline.org.cn/assets/img/07-SOC.4a864d63.jpeg",
+          "link": "https://docs.transonline.org.cn/kexl-work"
+        },
+        {
+          "title": "全国跨性别健康调研报告",
+          "imageUrl": "x-raw-image:///b15f1e019f3006c0538ee15aeb102c28e5c3bc4c7e21f4204395dcbe564219bb",
+          "link": "https://cnlgbtdata.com/files/uploads/2023/01/2021%E5%85%A8%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E5%81%A5%E5%BA%B7%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.pdf"
+        },
+        {
+          "title": "跨儿心理工作手册| 跨性别在线·文档库",
+          "imageUrl": "https://docs.transonline.org.cn/assets/img/KEXL.b4326193.jpeg",
+          "link": "https://docs.transonline.org.cn/kexl-work"
+        },
+        {
+          "title": "跨性别女性：我的灵魂与我格格不入丨镜相",
+          "imageUrl": "https://imagepphcloud.thepaper.cn/pph/image/245/337/110.jpeg",
+          "link": "https://m.thepaper.cn/newsDetail_forward_22457629"
+        },
+        {
+          "title": "跨性别人士在荷兰过得怎么样？ | 荷兰在线中文网HelanOnline",
+          "imageUrl": "https://helanonline.cn/sites/default/files/styles/frontpage_578/public/6_94.png?itok=hdBOh3Bl&timestamp=1637722707",
+          "link": "https://helanonline.cn/article/16811"
+        },
+        {
+          "title": "跨儿心理工作手册| 跨性别在线·文档库",
+          "imageUrl": "https://docs.transonline.org.cn/assets/img/09-report.d0df6e40.jpeg",
+          "link": "https://docs.transonline.org.cn/kexl-work"
+        },
+        {
+          "title": "国际不再恐同日：3.5亿LGBTQ群体，让世界充满爱@MedSci",
+          "imageUrl": "https://img.medsci.cn/2021517/1621243458289_5433779.png",
+          "link": "https://m.medsci.cn/article/show_article.do?id=a4bd211463b2"
+        }
+      ],
+      "relatedSearches": [
+        {
+          "query": "友跨什么意思"
+        },
+        {
+          "query": "习近平 LGBT"
+        },
+        {
+          "query": "lgbt群体"
+        },
+        {
+          "query": "MTF"
+        },
+        {
+          "query": "酷儿"
+        },
+        {
+          "query": "金星"
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "跨性别 社会接受度",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "女生不一定喜歡男生妳應該知道5個性別潮流名詞 - Yahoo奇摩新聞",
+          "link": "https://tw.news.yahoo.com/%E5%A5%B3%E7%94%9F%E4%B8%8D-%E5%AE%9A%E5%96%9C%E6%AD%A1%E7%94%B7%E7%94%9F-%E5%A6%B3%E6%87%89%E8%A9%B2%E7%9F%A5%E9%81%935%E5%80%8B%E6%80%A7%E5%88%A5%E6%BD%AE%E6%B5%81%E5%90%8D%E8%A9%9E-162702050.html",
+          "snippet": "... 接受度比較高，但還是有很多空間需要努力。此為示意圖。圖/123RF圖庫. 1.跨性別Transgender. 跨性別是一個總體稱呼，包含性別認同與生理性別相反的人們 ...",
+          "date": "6天前",
+          "position": 1
+        },
+        {
+          "title": "人民日报刊发上海市委署名文章：奋力谱写新时代人民城市建设新画卷",
+          "link": "https://www.shanghai.gov.cn/nw4411/20241102/fcb650016bba4c0ebf1a633c9dbada9a.html",
+          "snippet": "这一科学思想理念作为习近平新时代中国特色社会主义思想在城市建设与治理领域的重大原创性成果，是一个系统完整、逻辑严密的科学理论体系，实现了马克思主义 ...",
+          "date": "2天前",
+          "position": 2
+        },
+        {
+          "title": "浙江省科学技术厅关于印发《浙江省软科学研究计划和项目管理办法 ...",
+          "link": "https://kjt.zj.gov.cn/art/2024/10/31/art_1229080140_2534863.html",
+          "snippet": "鼓励跨单位整合资源，集聚优势研究力量，一般 ... 省科技行政部门对拟立项项目在本部门门户网站上进行公示，接受社会监督和意见反馈，公示期为7天。",
+          "date": "4天前",
+          "position": 3
+        },
+        {
+          "title": "在法治监督体系中更好发挥法律监督功能作用 - 最高人民检察院",
+          "link": "https://www.spp.gov.cn/spp/llyj/202411/t20241101_670716.shtml",
+          "snippet": "郭立新：党的十八届四中全会将“建设中国特色社会主义法治体系，建设社会 ... 跨区域一体履职机制有待持续完善，提升办案质效。司法责任制还没有 ...",
+          "date": "3天前",
+          "position": 4
+        },
+        {
+          "title": "全方位推进高质量发展奋力谱写中国式现代化翔安篇章 - 福建省人民政府",
+          "link": "https://www.fujian.gov.cn/zwgk/ztzl/sxzygwzxsgzx/sdjj/wvjj/202410/t20241031_6556061.htm",
+          "snippet": "2002年，时任福建省省长的习近平同志为厦门擘画了“提升本岛、跨岛发展”的蓝图，为厦门发展指明了方向。 ... 度和体验性。”翔安区文化和旅游局局长吴善营说。",
+          "date": "4天前",
+          "position": 5
+        },
+        {
+          "title": "RF变焦镜头-RF70-200mm F2.8 L IS USM Z-产品首页 - 佳能（中国）",
+          "link": "https://www.canon.com.cn/product/rf70200f28lisusmz/",
+          "snippet": "多种按钮开关，提升对焦的操作性与便捷性. 镜头前端具备RF镜头特色的控制环。用户可根据习惯将快门速度、ISO感光度以及曝光补偿等功能分配到 ...",
+          "position": 6
+        },
+        {
+          "title": "IIGF观点| 任国征：智慧养老产业发展的国内外探索及展望",
+          "link": "https://iigf.cufe.edu.cn/info/1012/9285.htm",
+          "snippet": "智慧养老项目初期投入大、回报周期长，对多元化融资渠道的需求迫切，而资本市场对智慧养老产业的认知度和接受度尚需提升，部分金融机构尚未推出针对性的优惠 ...",
+          "date": "2024年10月24日",
+          "position": 7
+        },
+        {
+          "title": "表彰有重大发现还未获国际大奖的科学家世界顶尖科学家协会奖在沪 ...",
+          "link": "https://www.shanghai.gov.cn/nw4411/20241026/9d0681f42cfd476b9f46b3802f41a3e9.html",
+          "snippet": "此次“智能科学或数学奖”授予康奈尔大学计算机科学和信息科学讲席教授乔恩·克莱因伯格，以表彰他在计算机科学与社会科学交叉领域的开创性贡献；“生命 ...",
+          "date": "2024年10月26日",
+          "position": 8
+        },
+        {
+          "title": "腾讯参与2024香港金融科技周展现金融科技创新实力 - Tencent 腾讯",
+          "link": "https://www.tencent.com/zh-cn/articles/2201960.html",
+          "snippet": "腾讯首度参展，并以“驱动金融科技的未来：与腾讯一起创新、连接 ... 跨境消费便利性。跨境汇款服务也支持海外华人和WeChat港币钱包用户便捷汇 ...",
+          "date": "5天前",
+          "position": 9
+        },
+        {
+          "title": "丰都县供销社关于健全农业社会化服务体系的建议",
+          "link": "http://gxhzs.cq.gov.cn/sy/qxgz_17118/202411/t20241101_13761004_wap.html",
+          "snippet": "... 跨区域协同的“一盘棋”服务体系。 （三）社会化服务意识不强，社会参与度不高。 ... 接受服务意识不强，不愿被服务不想被服务、等一等观望看、宁可苦熬 ...",
+          "date": "3天前",
+          "position": 10
+        },
+        {
+          "title": "中國前衛文藝空間受限：從《三體》編輯被查到金星演出被拒",
+          "link": "https://www.voacantonese.com/a/tabooed-science-fiction-transgenderism-and-halloween-stifle-chinese-literary-and-artistic-innovation/7848908.html",
+          "snippet": "他說，像金星這樣的跨性別者能夠在中國的主流媒體頻頻出現，是一個極少數的現象，她以其個人魅力和藝術造詣，一點一滴地帶領中國民眾逐漸接受LGBT，是領軍人物 ...",
+          "date": "1天前",
+          "position": 11
+        },
+        {
+          "title": "IIGF观点| 任国征、孔颖等：我国养老金融中的数据要素和产业对策",
+          "link": "https://iigf.cufe.edu.cn/info/1012/9310.htm",
+          "snippet": "... 社会即称之为“老龄社会”。 据国家统计局公布2023年末人口数据，2023年 ... 许多老年人由于年龄、教育背景或生活习惯等原因，对新技术接受度低 ...",
+          "date": "3天前",
+          "position": 12
+        },
+        {
+          "title": "券商投行财务顾问角色凸显 - 中国经济网",
+          "link": "http://m.ce.cn/gp/gd/202410/30/t20241030_39185728.shtml",
+          "snippet": "随着并购市场活跃度提升，投行正积极转型，把握并购业务新机遇。 ... 随着国家政策支持，跨境资本流动的便利性提升，企业进行跨境并购的机会将增多。",
+          "date": "5天前",
+          "position": 13
+        },
+        {
+          "title": "聚焦数字交往下的政治传播新趋势 - 中国社会科学网",
+          "link": "https://www.cssn.cn/skgz/202410/t20241031_5797680.shtml",
+          "snippet": "对中国国际传播实践而言，需接受由之带来的理念变革，深刻认识到“传统国际传播期待与当下传播生态存在紧张关系”的困境，充分认识多元现代性的世界发展可能， ...",
+          "date": "4天前",
+          "position": 14
+        },
+        {
+          "title": "瞭望丨着力构建支撑强国建设的现代职业教育体系 - 新华网",
+          "link": "http://www.xinhuanet.com/edu/20241103/09e0dfbae2d44121858d0d6a03e87d26/c.html",
+          "snippet": "... 接受度、认可度。弘扬劳模精神和工匠精神，树立人人皆可成才，人人尽展其才的理念，营造全社会关心支持职业教育改革发展的良好社会氛围。（作者单位 ...",
+          "date": "20小时前",
+          "position": 15
+        },
+        {
+          "title": "一揽子生育支持措施出台，楼市17年来首次“银十”超“金九”丨一周热点 ...",
+          "link": "https://m.yicai.com/news/102339659.html",
+          "snippet": "国务院办公厅日前印发《关于加快完善生育支持政策体系推动建设生育友好型社会的若干措施》，从4方面提出系列生育支持措施。 ... 性跨期调节能力，维护年末流动 ...",
+          "date": "2天前",
+          "position": 16
+        },
+        {
+          "title": "我国流感疫苗接种率不到4%，“8公里”城市马拉松助力健康防治",
+          "link": "https://www.jfdaily.com/news/detail?id=813662",
+          "snippet": "通过轻量化的八公里马拉松赛事，旨在强化公众运动参与度，并携手社会多方力量助力提升流感季公众防护意识。 为增强大众对流感科学的防治意识，每年11 ...",
+          "date": "3天前",
+          "position": 17
+        },
+        {
+          "title": "2024年20期_在线杂志_人民论坛网_中央重点理论网站_人民日报社主管",
+          "link": "http://www.rmlt.com.cn/magazine/A/2024/1083/",
+          "snippet": "为此，应完善制度顶层设计、建立多元化筹资机制、提升护理服务供给能力、加强政策宣传、提高社会接受度，以此... ... 进一步推动入境旅游高质量发展，可结合跨 ...",
+          "date": "3天前",
+          "position": 18
+        },
+        {
+          "title": "评论丨金砖跨境支付体系，意味着什么？ - 21经济网",
+          "link": "https://www.21jingji.com/article/20241029/6e2ba526e55defac8a98425e59a63cb5.html",
+          "snippet": "这是金砖国家合作机制历史性扩员后的首次峰会，备受国际社会关注。 ... BRICS PAY支付系统的国际接受度和信任度尚未完全建立，仍需时间和努力来 ...",
+          "date": "6天前",
+          "position": 19
+        },
+        {
+          "title": "首批14家试点券商名单出炉“跨境理财通2.0”扬帆起航 - 金融证券",
+          "link": "http://finance.ce.cn/rolling/202411/02/t20241102_39190057.shtml",
+          "snippet": "华南一家头部券商相关负责人表示，证券公司客户对基金、理财等产品接受度更高，与银行客户的互补性强。增加证券公司参与业务试点，将使投资者跨境资产 ...",
+          "date": "2天前",
+          "position": 20
+        },
+        {
+          "title": "跨性别女性嗓音问卷简体中文版信度和效度评价 - 中华医学期刊网",
+          "link": "https://rs.yiigle.com/CN115330202211/1433573.htm",
+          "snippet": "TWVQ-SC量表的克朗巴哈系数为0.97，30道题目ITC值范围为0.40~0.86，组内相关系数为0.84。4个主成分因子的旋转后累计贡献率为65.12%，与VHI-10量表正相关（r= ...",
+          "date": "2022年11月7日",
+          "position": 21
+        },
+        {
+          "title": "性别认同对跨性别者的心理影响 - 心理派",
+          "link": "https://www.xinlipai.cn/article/health/e88e3032c5a59682cf3949e76b4d5320.html",
+          "snippet": "综上所述，性别认同对跨性别者的心理影响是一个复杂的问题，需要从多个角度进行分析。跨性别者需要得到社会的认可和支持，建立健康的自我认同，得到家庭和医疗 ...",
+          "date": "2024年1月14日",
+          "position": 22
+        },
+        {
+          "title": "專訪中研院劉文：美國大選和抗中政治的愛恨矛盾下 - 報導者",
+          "link": "https://www.twreporter.org/a/usa-election-2024-liu-wen-interview",
+          "snippet": "... 接受度，也打造了多元文化，讓不同種族、不同性別打入主流社會的年代。 ... 跨性別是什麽，都只是要奪走他們原本引以為傲的美國道德主義。 這個跡象從 ...",
+          "date": "6天前",
+          "position": 23
+        },
+        {
+          "title": "中国资本市场将从封闭型走向开放型，有助于提升市场流动性和信心",
+          "link": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fhy%2Fdfzh%2F2024-10-30%2Fdoc-incuhwia1254672.shtml",
+          "snippet": "他还强调要提升金融服务对经济转型的适配性，并有针对性地提出要发展科技金融、数字金融、普惠金融、绿色金融、跨境金融。 ... 在政策社会接受度的影响因素中 ...",
+          "date": "5天前",
+          "position": 24
+        },
+        {
+          "title": "普林斯顿大学校友Lex Brown与Lucas Ramos荣获2024-25罗马奖",
+          "link": "https://www.forwardpathway.com/135850",
+          "snippet": "Motus Theater的TRANSformative Stories项目通过为跨性别和非二元性别的领导者提供平台，分享他们的自传独白，促进了社会对话和理解。该项目强调了在 ...",
+          "date": "1天前",
+          "position": 25
+        },
+        {
+          "title": "美国大选前中文社区谣言横行，事实核查员们奋力追寻谣言源头 - 歪脑",
+          "link": "https://www.wainao.me/wainao-reads/chinese-fact-checkers-us-elections-rumor-10302024",
+          "snippet": "联合国教科文组织在2023年发布的一项调查显示，在接受访问的16个国家 ... 最后他列举了国际奥委会的规定，说明跨性别运动员参加女子组比赛时，需 ...",
+          "date": "4天前",
+          "position": 26
+        },
+        {
+          "title": "[PDF] 艾滋病与跨性别者及其它多元性别群体",
+          "link": "http://hkb980dd.pic44.websiteonline.cn/upload/16gh.pdf",
+          "snippet": "可能是结构性的(即体现在法律. 政策和制度化的实践中)或社. 会性的(即来源于拒绝、待遇不. 公和社会排斥以及其他人对其性 ... 如. 选择接受,跨性别和多元 ...",
+          "date": "2021年1月26日",
+          "position": 27
+        },
+        {
+          "title": "跨性别人群生存困境调查：多数人有遭受校园暴力经历 - 江西",
+          "link": "http://jx.people.com.cn/n2/2020/0222/c186330-33818908.html",
+          "snippet": "... 性别，相信自己应该属于另一种性别，主要包括跨性别男性、跨性别女性和性别酷儿跨性别人群所面临的失业风险约为社会普通人群的3倍，工作环境对跨性别者不.",
+          "date": "2020年2月22日",
+          "position": 28
+        },
+        {
+          "title": "小A辣：跨性别者的真实生活与挑战 - 搜狐",
+          "link": "https://www.sohu.com/a/817838815_121956425",
+          "snippet": "... 跨性别者偏见的延续。 这样的经历并不是偶然。小A辣是许多跨性别者面临歧视和误解的缩影。虽然社会对性别认同的接受度逐渐提高，但在很多地方，跨性别 ...",
+          "date": "2024年10月18日",
+          "position": 29
+        },
+        {
+          "title": "2022年关于跨性别者的社会态度调查报告 - Telegraph",
+          "link": "https://telegra.ph/2022%E5%B9%B4%E5%85%B3%E4%BA%8E%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85%E7%9A%84%E7%A4%BE%E4%BC%9A%E6%80%81%E5%BA%A6%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A-03-31",
+          "snippet": "有效样本中，跨性别、顺性别异性恋和顺性别非异性恋受访者分别占比34.92%、32.01%和33.07%，学生群体占比更高，年龄分布较为年轻。在比较跨性别、顺性别非 ...",
+          "date": "2022年3月31日",
+          "position": 30
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

@@ -1,0 +1,784 @@
+{
+  "query": "非二元性别",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-04T00:31:49.740066",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "非二元性别",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "answerBox": {
+        "snippet": "Nonbinary——非二元性别，是一种性别认同，用于统称不将自己限制在传统男女性别二元论框架的人们。 Ta们认为传统理念中的男性或女性，都不能准确代表对自己的身份认同，或者觉得自己根本没有性别，也可能只是表达对性别二元论的不认同。",
+        "snippetHighlighted": [
+          "一种性别认同，用于统称不将自己限制在传统男女性别二元论框架的人们"
+        ],
+        "title": "非二元性别：打破传统二元论，建造多元的性别色谱体系 - 歪脑",
+        "link": "https://www.wainao.me/wainao-watches/explainer-gender-nonbinary-12282021",
+        "date": "2021年12月28日"
+      },
+      "organic": [
+        {
+          "title": "非二元性别- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%A5",
+          "snippet": "非二元性别（英语：Non-binary gender）、性别酷儿（英语：genderqueer）和X性别（日语：Xジェンダー）是处于二元性别以外的性别认同。非二元性别认同可以归于作为伞状术语的跨 ...",
+          "position": 1
+        },
+        {
+          "title": "性别酷儿_百度百科",
+          "link": "https://baike.baidu.com/item/%E6%80%A7%E5%88%AB%E9%85%B7%E5%84%BF/55793875",
+          "snippet": "总的来讲，性别酷儿挑战了男女两分的性别二元观念 。性别酷儿有时候也被叫做性别非二元（non-binary）、性别不驯（gender nonconforming）、性别殊异（gender variants）等 。",
+          "position": 2
+        },
+        {
+          "title": "Nonbinary：男女之外，性别的第三个选项 - 纽约时报",
+          "link": "https://cn.nytimes.com/culture/20181127/wod-nonbinary/",
+          "snippet": "Nonbinary意为“非二元的”，可指那些超越传统意义上的二元划分，不单纯属于男性或女性的自我性别认同。它也被广泛称作Genderqueer（性别酷儿）。",
+          "date": "2018年11月27日",
+          "position": 3
+        },
+        {
+          "title": "国际非二元性别日- 维基百科",
+          "link": "https://zh.wikipedia.org/zh-cn/%E5%9C%8B%E9%9A%9B%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%A5%E6%97%A5",
+          "snippet": "国际非二元性别日（英语：International Non-Binary People's Day）设立于每年7月14日，旨在提高人们对世界各地非二元性别人士所面临问题的认识，并组织相关活动。",
+          "position": 4
+        },
+        {
+          "title": "非二元性別者是什麼？和傳統二元性別有何不同呢？ - Yahoo奇摩新聞",
+          "link": "https://tw.news.yahoo.com/%E5%AE%87%E5%A4%9A%E7%94%B0%E5%85%89-%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%A5%E8%80%85-nonbinary-mx-lgbtq-072148175.html",
+          "snippet": "非二元性別者是什麼？ 除了上述的LGBTQ之外，還有一群人不認同非男即女，不接受非順性別即跨性別的二元畫分，因此以「非二元性別」來表達其性別認同。簡而言之 ...",
+          "date": "2021年6月30日",
+          "position": 5
+        },
+        {
+          "title": "澳洲华人讲述“他”与“她”之外的非二元性别 - SBS",
+          "link": "https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/non-binary-option-is-a-big-progress-for-chinese-lgbtiq-communities-in-australia/j4uavtb5f",
+          "snippet": "非二元性别（Non-binary）是指在传统男性的“他”和女性的“她”之外，一系列不完全是男性或女性的性别认同。非二元性别人士可能有两种性别意识，或者是介于两者之 ...",
+          "date": "2021年3月5日",
+          "position": 6
+        },
+        {
+          "title": "对话德国“非二元性别”演员：也许我是个偶然的外星人 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_11630604",
+          "snippet": "在社会性别的认知中，有一种认知叫“非二元性别”，被广泛称为Genderqueer（性别酷儿），即那些超越传统意义上对男性或女性的二元划分、不单纯属于男性或女性的 ...",
+          "date": "2021年3月11日",
+          "position": 7
+        },
+        {
+          "title": "护照上的性别填哪个：男、女、X？ - BBC 英伦网",
+          "link": "https://www.bbc.com/ukchina/simp/50660226",
+          "snippet": "护照和各种表格上的性别栏增加一个选择，被权益组织提到尊重人权的高度。 对于性别认同“非二元”群体，官方证件上设第三性别等于承认中立性别，意义深远。",
+          "date": "2019年12月5日",
+          "position": 8
+        },
+        {
+          "title": "非二元性别者和性别多元化者更有可能存在长期心理健康问题-腾讯新闻",
+          "link": "https://news.qq.com/rain/a/20240222A0663E00",
+          "snippet": "以往的证据表明，与顺性别男性和女性相比，跨性别者、非二元性别者和性别多元化者发生抑郁和焦虑等心理健康问题的风险更高。然而，这些发现都是基于针对特定 ...",
+          "date": "2024年2月22日",
+          "position": 9
+        },
+        {
+          "title": "英语杂谈: Non-Binary Identities 非二元性别 - Ruqin China Travel",
+          "link": "https://ruqintravel.com/chinese/ruqinenglish/non-binary-identities/",
+          "snippet": "The term nonbinary refers to people who do not identify exclusively as male or female. “非二元性别的”——意指那些性别认同不单纯属于男性或女性的人 ...",
+          "date": "2024年2月13日",
+          "position": 10
+        },
+        {
+          "title": "非二元性别者：Helen Brand 谈如何找到活得真实的力量| 慧咨环球",
+          "link": "https://www.wisetechglobal.com/zh-cn/news/they-them-theirs-helen-brand-on-finding-the-strength-to-live-authentically/",
+          "snippet": "如果您用错了某人的代词，我认为重要的是不要纠结于此，而是要承认错误，倾听任何反馈，确保ta 感到被倾听和理解，并看到ta 所展现出的真实的自己，而不是评判或 ...",
+          "date": "2021年8月26日",
+          "position": 11
+        },
+        {
+          "title": "非二元性别认同和算法心理测量营销的易读性 - X-MOL",
+          "link": "https://www.x-mol.com/paper/1376551864711491584/t",
+          "snippet": "非二元性别认同和算法心理测量营销的易读性 ... 最近，关于非二元性别认同的讨论越来越多地出现在美国主流印刷媒体中，特别是大众市场杂志、广告和商业社论，以及来自消费者洞察 ...",
+          "position": 12
+        },
+        {
+          "title": "【随机波动】性别非二元，想象无止境",
+          "link": "https://www.stovol.club/kering",
+          "snippet": "About this Episode. 谈到性别，我们首先想到的，是否就是非男即女的二元性别？在天地混沌初开之时，人类从一个圆、一团迷雾、一颗苹果被一劈为二，成为男人 ...",
+          "date": "2023年9月27日",
+          "position": 13
+        },
+        {
+          "title": "关于跨性别的事实- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/healthy-lifestyle/adult-health/in-depth/transgender-facts/art-20266812",
+          "snippet": "... 性别所相关的社会规范和期望。 性别少数群体压力。与污名、偏见和歧视相关的压力，针对具有多元性别认同和表达的个人。 非二元性别者。其性别认同是 ...",
+          "date": "2023年4月21日",
+          "position": 14
+        },
+        {
+          "title": "非二元性别者是什么？和传统二元性别有何不同？ - 暗室",
+          "link": "https://www.anshism.com/2514.html",
+          "snippet": "然而，有些人的生理性别、社会性别及性别认同并不一致，也就出现了LGBTQ此缩写。其中，L代表Lesbian，意指女同志；G代表Gay，意指男同志；B代表Bisexual，意指双性 ...",
+          "date": "2022年2月13日",
+          "position": 15
+        },
+        {
+          "title": "[PDF] 变性人和非二元性别客户的姓名和性别变更常见问题(FAQ)",
+          "link": "https://www.nyc.gov/assets/hra/downloads/pdf/services/lgbtqi/HRA-138b-SC.pdf",
+          "snippet": "“非二元”性别指的是既非男性也非女性的性别认同。 • “两性人”包含多种情况，指的是人具有对男性或女性来说非典型的生物学特征。",
+          "position": 16
+        },
+        {
+          "title": "跨性别和非二元个体对性别确认手术的偏好和障碍 - X-MOL",
+          "link": "https://www.x-mol.com/paper/1426274513293393920/t?recommendPaper=1391009602340540416",
+          "snippet": "跨性别和非二元个体对性别确认手术的偏好和障碍 · 摘要 · 背景：跨性别/非二元社区仍然是医疗服务不足的人群，我们对他们的兴趣、不感兴趣和过渡相关医疗保健的障碍的理解 ...",
+          "position": 17
+        },
+        {
+          "title": "性别不是连续谱 - 神经现实",
+          "link": "https://neu-reality.com/2016/07/gender-is-not-a-spectrum/",
+          "snippet": "他们的“非二元化人”的身份存在取决于一个更大的所谓“单性别”的一群人，这些“单性别”人不能置身于被社会强制指导形成的男性或者女性之外。 这里存在一个讽刺 ...",
+          "date": "2016年7月22日",
+          "position": 18
+        },
+        {
+          "title": "护照上的性别填哪个：男？女？还是X？ - BBC News 中文",
+          "link": "https://www.bbc.com/zhongwen/simp/world-50658107",
+          "snippet": "维奥列特（Mia Violet）是变性者，性别认同“非二元”，但护照上是女性。她支持护照证件增加第三性别选项。 认可和尊重. 护照和各种表格上的 ...",
+          "date": "2019年12月5日",
+          "position": 19
+        },
+        {
+          "title": "非二元性別 - Nonbinary Wiki",
+          "link": "https://nonbinary.wiki/wiki/Nonbinary/zh-tw",
+          "snippet": "這個旗子意思是「是那些對性別酷兒旗沒有認同感的非二元者的象徵。這個旗子希望跟瑪麗蓮・若希（Marilyn Roxie）的性別酷兒旗並存，而不是取代它。這個旗子有四個條紋。從上到 ...",
+          "position": 20
+        },
+        {
+          "title": "24393 非二元性别图片、库存照片、3D 物体和矢量图 - Shutterstock",
+          "link": "https://www.shutterstock.com/zh/search/%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%AB",
+          "snippet": "在Shutterstock 收藏中查找非二元性别HD 库存图片以及数百万张免版税库存照片、3D 物体、插图和矢量图。 每天添加成千上万张全新的高品质图片。",
+          "position": 21
+        },
+        {
+          "title": "非二元性別之哪裡只得男或 - Gender Empowerment 性別空間",
+          "link": "https://genderempowerment.org/index.php/2021/07/16/nonbinary/",
+          "snippet": "相⽐起⽤「男」「⼥」去將性別分類，也許更正確的分類是「⼆元」和「⾮⼆元」。「男」「⼥」落⼊「⼆元」的類別，⽽其他性別認同⾝份，例如雙性別、性別流動、第三性別 ...",
+          "date": "2021年7月16日",
+          "position": 22
+        },
+        {
+          "title": "什么是非二元性别？ - Zhihu",
+          "link": "https://zhuanlan.zhihu.com/p/389880541",
+          "snippet": "没有此网页的信息。 · 了解原因",
+          "position": 23
+        },
+        {
+          "title": "[PDF] 2021全国跨性别健康调研报告",
+          "link": "https://cnlgbtdata.com/files/uploads/2023/01/2021%E5%85%A8%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E5%81%A5%E5%BA%B7%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.pdf",
+          "snippet": "非二元性别（Non-binary）. 指不认同自己是男性或女性的人的个体，可能认为自. 己是性别流动、无性别、雌雄同体、多性别，或拥有. 其TA存在于性别二元秩序之外的认同。",
+          "position": 24
+        },
+        {
+          "title": "Non-binary Workshop 非二元性别研讨会 - Facebook",
+          "link": "https://www.facebook.com/events/%E8%A5%BF%E4%BA%A4%E5%88%A9%E7%89%A9%E6%B5%A6%E5%A4%A7%E5%AD%A6/non-binary-workshop-%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%AB%E7%A0%94%E8%AE%A8%E4%BC%9A/201364590368662/?locale=zh_CN",
+          "snippet": "Gender is not confined to cis-normative identities. It is a spectrum. Genderqueer(GQ) or non-binary, therefore, is the term given to gender identities that ...",
+          "position": 25
+        },
+        {
+          "title": "非二元性别 - Wiktionary",
+          "link": "https://en.wiktionary.org/wiki/%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%AB",
+          "snippet": "zh:LGBT · zh:Transgender · Chinese lemmas · Mandarin lemmas · Hokkien lemmas · Chinese nouns · Mandarin nouns · Hokkien nouns · Chinese terms spelled with 非 ...",
+          "position": 26
+        },
+        {
+          "title": "美国推出X性别护照非二元性别人士一大福音 - RFI",
+          "link": "https://www.rfi.fr/cn/%E7%BE%8E%E5%9B%BD%E6%8E%A8%E5%87%BAx%E6%80%A7%E5%88%AB%E6%8A%A4%E7%85%A7-%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%AB%E4%BA%BA%E5%A3%AB%E4%B8%80%E5%A4%A7%E7%A6%8F%E9%9F%B3",
+          "snippet": "在位于华盛顿郊区亚历山卓（Alexandria）的家中，奥赫达开始在线上填写一长串护照申请表格，申请表要填写姓名，然后从3种性别中选择：M代表男性，F代表女性，X则 ...",
+          "date": "2022年4月12日",
+          "position": 27
+        },
+        {
+          "title": "跨性别者和多元性别者的斗争 - ohchr",
+          "link": "https://www.ohchr.org/zh/special-procedures/ie-sexual-orientation-and-gender-identity/struggle-trans-and-gender-diverse-persons",
+          "snippet": "这些暴力和歧视行为的根本原因是基于预设的二元性别认知（男性或女性）而对性别认同不符合的受害者施加惩罚。这些行为无一例外地表现出根深蒂固的成见和偏见、非理性仇恨和 ...",
+          "position": 28
+        },
+        {
+          "title": "LGBTI的权利- - 国际特赦组织",
+          "link": "https://zh.amnesty.org/what-we-do-discrimination-lgbti-rights/",
+          "snippet": "... 性取向、性别认同（和/或性别表达）和性特征的歧视，就可能会因为被迫忍受这种歧视，而对自己的身体、精神和情感健康产生毁灭性 ... 有些非二元性别者可能会使用中性的人称代词， ...",
+          "position": 29
+        },
+        {
+          "title": "龙腾世纪首次有非二元性别角色且能自定义 - 新浪财经",
+          "link": "https://finance.sina.com.cn/tech/roll/2024-11-02/doc-incuseka2163398.shtml",
+          "snippet": "在《龙腾世纪：影障守护者》这款游戏中，有一个非二元性别角色引起了玩家们的注意。尽管这个系列以往也涉及LGBTQ+主题和角色，但这却是第一次在这个游戏中 ...",
+          "date": "2天前",
+          "position": 30
+        },
+        {
+          "title": "微博",
+          "link": "https://m.weibo.cn/status/5056106990668433",
+          "snippet": "非二元个体可能会认同为性别流动（Genderfluid）、双性别（Bigender）、无性别（Agender）或其他不符合二元性别框架的性别身份。非二元性别的存在挑战了传统的性别观念，强调性别 ...",
+          "position": 31
+        },
+        {
+          "title": "109 – 关于非二元性",
+          "link": "https://www.seksediversiteit.nl/zh-CN/misvattingen/109-non-binair/",
+          "snippet": "认为双性人是非二元的这是一种误解。 分界线性别和Gender：双性关注生物性别，而非二元性关注gender身份，传统的男性和女性规范被拒绝。 每个人都可以访问的 ...",
+          "date": "2023年11月15日",
+          "position": 32
+        },
+        {
+          "title": "性别平等- KONG - 邦那迪安全防护用品（上海）有限公司",
+          "link": "https://kongfareast.cn/cn/pdg/",
+          "snippet": "促进性别平等意味着努力打破这种陈规定型观念，消除基于性别的暴力，并确保妇女和非二元性别认同的人有平等的机会充分参与社会的各个方面，包括教育、就业和政治参与。 公司 ...",
+          "position": 33
+        },
+        {
+          "title": "警务执法中,跨性别者与非二元性别的权益 - CUS美华社",
+          "link": "https://chineseinus.org/%E8%AD%A6%E5%8A%A1%E6%89%A7%E6%B3%95%E4%B8%AD%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85%E4%B8%8E%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%AB%E7%9A%84%E6%9D%83%E7%9B%8A/",
+          "snippet": "居民有权向警官表明自己是跨性别者和/或非二元性别。在整个互动过程中，费城警察必须使用一个人选择的名字和代词。 对于如何记录跨性别或非二元性别的 ...",
+          "date": "2023年7月4日",
+          "position": 34
+        },
+        {
+          "title": "新邦德可能是“非二元性别”？国外网民哀嚎：007要完蛋了 - 搜狐",
+          "link": "https://www.sohu.com/a/507585556_115479",
+          "snippet": "非二元性别”这一看似“适应时代”的设定变化，虽然还不确定会出现，但已经惹恼了不少国外网民，有人哀嚎“一个成功的系列要完蛋了”，还有人开始抵制，“拍吧 ...",
+          "date": "2021年12月12日",
+          "position": 35
+        },
+        {
+          "title": "汉语非二元代词的检索--翻译技术速递",
+          "link": "http://transtech.lingosail.com/news/detail/188108",
+          "snippet": "随着企业努力接触更广泛的受众，性别包容的语言已变得势在必行。企业已经认识到，任何与偏见、种族主义或性别歧视的联系，无论多么无意，甚至是好意， ...",
+          "date": "2021年7月26日",
+          "position": 36
+        },
+        {
+          "title": "新邦德可能是“非二元性别”？国外网民哀嚎：007要完蛋了-观察者网",
+          "link": "https://www.guancha.cn/internation/2021_12_12_618231.shtml",
+          "snippet": "007制片人芭芭拉·布洛柯里（Barbara Broccoli）日前透露，邦德新人选可能不是白人，但不会是女性，且不排除邦德未来被设定为“非二元性别”（non-binary）的 ...",
+          "date": "2021年12月12日",
+          "position": 37
+        },
+        {
+          "title": "身份彻底变换，爱仍是爱，终古常新”｜国际非二元性别日- 阿尔戈 - 豆瓣",
+          "link": "https://m.douban.com/book/review/15295609/",
+          "snippet": "《阿尔戈》与酷儿言说：“纵使身体、身份彻底变换，爱仍是爱，终古常新”｜国际非二元性别日 ... 罗兰·巴特说，一个主体说出“我爱你”时，就像是希腊神话中的阿尔戈 ...",
+          "date": "2023年7月14日",
+          "position": 38
+        },
+        {
+          "title": "品味跨性别者和非二元性别者的感人故事，欢庆骄傲月 - Google Play",
+          "link": "https://play.google.com/store/apps/editorial?id=mc_games_editorialmd_pride_2024_fcp&hl=zh_CN",
+          "snippet": "为庆祝骄傲月，我们将重点推荐一些优质游戏，这些游戏中有的讲述跨性别者的故事，有的主打跨性别和非二元性别角色，还有的以有趣、包容的方式庆祝跨性别者的喜悦。",
+          "position": 39
+        },
+        {
+          "title": "性别不一致与性别焦虑- MSD诊疗手册专业版",
+          "link": "https://www.msdmanuals.cn/professional/psychiatric-disorders/gender-incongruence-and-gender-dysphoria/gender-incongruence-and-gender-dysphoria",
+          "snippet": "非二元性别认同是指认为自己的性别与西方典型的二元性别认同（男性或女性）观点不同的个人。非二元性描述了具有不同类型性别认同的人，包括不认同任何性别的人、认同多种性别 ...",
+          "position": 40
+        },
+        {
+          "title": "尊重性别多元美国航企将新增\"非二元性别\"选项 - 民航资源网",
+          "link": "https://news.carnoc.com/list/483/483393.html",
+          "snippet": "行业组织美国航空运输协会（A4A）宣布，国际航协（IATA）和美国航协的会员通过了一项最新的“非二元性别”国际标准，将于今年6月1日起开始生效。 美国航空运输协会 ...",
+          "date": "2019年2月20日",
+          "position": 41
+        },
+        {
+          "title": "非男即女？瑞士不认同这种二元性别划分的人数占比最高 - Swissinfo",
+          "link": "https://www.swissinfo.ch/chi/society/%E9%9D%9E%E7%94%B7%E5%8D%B3%E5%A5%B3-%E7%91%9E%E5%A3%AB%E4%B8%8D%E8%AE%A4%E5%90%8C%E8%BF%99%E7%A7%8D%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%AB%E5%88%92%E5%88%86%E7%9A%84%E4%BA%BA%E6%95%B0%E5%8D%A0%E6%AF%94%E6%9C%80%E9%AB%98/48574242",
+          "snippet": "6%的瑞士受访者自认为是跨性别、非二元性别、性别流动或非男女二元性别人士。在参与调研的国家里这个比例为最高，超过占5%的泰国，和均占4%的意大利、瑞典、 ...",
+          "date": "2023年6月9日",
+          "position": 42
+        },
+        {
+          "title": "non-binary > 非二元（性别）",
+          "link": "https://chi.proz.com/kudoz/6954848",
+          "snippet": "非二元（性别）. binary = 二元化= either male or female non-binary include LGBT, etc. gender-fluid can be translated as 流性人(https://baike.",
+          "date": "2021年4月26日",
+          "position": 43
+        },
+        {
+          "title": "[多元性別認同旗幟] 非二元性别旗 - 風城部屋",
+          "link": "https://www.gisneyland.org/column/column/detail/?id=11",
+          "snippet": "紫色也通常是表示流動或獨特的非二元者們。黑色則是表達沒有性別、活在性別之外的人，. 因為黑色在光學上是代表沒有顏色、沒有光的狀態。」非二元旗以及 ...",
+          "date": "2021年9月22日",
+          "position": 44
+        },
+        {
+          "title": "澳洲人口普查将首次包含非二元性别选项| SBS Chinese",
+          "link": "https://www.sbs.com.au/language/chinese/zh-hans/article/australian-census-to-include-a-gender-non-binary-option-for-the-first-time/97q148s9b",
+          "snippet": "今年2021年，人口普查将改为要求填表人选择“男性”、“女性”或“非二元性别”，填报人可以选择非二元性别的选项，也可以选择另一种性别表达。",
+          "date": "2021年1月15日",
+          "position": 45
+        },
+        {
+          "title": "非二元性别什么意思? - 百度知道",
+          "link": "https://zhidao.baidu.com/question/1710861090681723220.html",
+          "snippet": "“非二元性别（Nonbinary)”是指那些超越传统意义上对男性或女性的二元划分、不单纯属于男性或女性的自我性别认同。 例如31岁的尼日利亚作家阿克韦克·埃米齐不认为自己 ...",
+          "position": 46
+        },
+        {
+          "title": "如何在报道中处理性别身份| 国际记者网络",
+          "link": "https://ijnet.org/zh-hans/story/%E5%A6%82%E4%BD%95%E5%9C%A8%E6%8A%A5%E9%81%93%E4%B8%AD%E5%A4%84%E7%90%86%E6%80%A7%E5%88%AB%E8%BA%AB%E4%BB%BD",
+          "snippet": "... 性别群体和非二元性别群体却注意不会进一步加深刻板印象与有害叙事。 对于性别议题和既有媒体规范缺少知识积累– 以及由于绝大多数工作者是顺性别人士 ...",
+          "date": "2019年7月26日",
+          "position": 47
+        },
+        {
+          "title": "非二元- Wiktionary, the free dictionary",
+          "link": "https://en.wiktionary.org/wiki/%E9%9D%9E%E4%BA%8C%E5%85%83",
+          "snippet": "Adjective. edit. 非二元. non-binary (outside the gender binary). Derived terms. edit · 非二元性別／非二元性别 (fēi'èryuán xìngbié).",
+          "position": 48
+        },
+        {
+          "title": "新提案，非二元性别”(non-binary)或将出现在官方文件上 - 咕噜美国通",
+          "link": "https://www.guruin.com/news/538",
+          "snippet": "咕噜美国通(Guruin.com): 加州的民主党派人士提议在驾照和其它官方文件上增加除了男性和女性之外的第三种性别，也就是非二元性别”(non-binary)。该项提案将这个权利惠及 ...",
+          "position": 49
+        },
+        {
+          "title": "非二元性別者是什麼？和傳統二元性別有何不同呢？ - T-Studio",
+          "link": "https://www.t-studio.info/zh-TW/blogs/our-survival-guide/73632?srsltid=AfmBOoo0OdcZTXPRhnLLqm_SEbRN74xKOffbLCSQHnZbc4Q7fGybfck3",
+          "snippet": "然而，有些人的生理性別、社會性別及性別認同並不一致，也就出現了LGBTQ此縮寫。其中，L代表Lesbian，意指女同志；G代表Gay，意指男同志；B代表Bisexual，意指雙性 ...",
+          "date": "2021年7月1日",
+          "position": 50
+        },
+        {
+          "title": "認識跨性別– 跨性別Transgender",
+          "link": "https://transgender.taipei/%E8%AA%8D%E8%AD%98%E8%B7%A8%E6%80%A7%E5%88%A5/",
+          "snippet": "跨性別男性（Trans Man / FTM）：指從女性跨越到男性，也可簡稱跨男。 · 跨性別女性（Trans Woman / MTF）：指從男性跨越到女性，也可簡稱跨女。 · 非二元性別（Non-binary）：指性別 ...",
+          "position": 51
+        },
+        {
+          "title": "《使命召唤21》首个非二元性别角色出现不知道是男是女 - QQ News",
+          "link": "https://news.qq.com/rain/a/20241024A089S500",
+          "snippet": "《使命召唤21：黑色行动6》即将正式发售。近日有外媒报道称，该系列将推出首个非二元性别角色Volta Rossi，她(或他)将被用来在游戏中注入性别意识形态。",
+          "date": "2024年10月24日",
+          "position": 52
+        },
+        {
+          "title": "龙腾世纪新突破：首引非二元性别角色，个性定制开启新篇章！",
+          "link": "http://m.itbear.com.cn/html/2024-11/573838.html",
+          "snippet": "尽管这个系列以往也涉及LGBTQ+主题和角色，但这却是第一次在这个游戏中出现非二元性别角色，并且玩家可以自己选择扮演这种类型的角色。",
+          "date": "2天前",
+          "position": 53
+        },
+        {
+          "title": "史无前例，Gucci 增设「非二元性别」部门Gucci Mx - NOWRE现客",
+          "link": "https://nowre.com/fashion/517709/shiwuqianligucci-zengshefeieryuanxingbiebumen-gucci-mx/",
+          "snippet": "稍早老牌时装屋Gucci 宣布首次增设「Non-binary」非二元性别部门。美不只局限在某一种族群或是单一性别，成了被广泛认同的观念，Gucci 推出此「非二元 ...",
+          "date": "2020年7月24日",
+          "position": 54
+        },
+        {
+          "title": "《龙腾世纪：影障守护者》加入系列首个非二元性别角色 - 网易",
+          "link": "https://www.163.com/dy/article/JG03FU4D0526D8LR.html",
+          "snippet": "《龙腾世纪：影障守护者》中有一个非二元性别角色。在此之前，许多玩家曾怀疑其中一个伙伴是否为非二元性别，因为宣传材料中经常用“他们/她们”的代词来指 ...",
+          "date": "2天前",
+          "position": 55
+        },
+        {
+          "title": "我们为什么要重新审视性别的二元化/性别多元化？",
+          "link": "https://www.xinshengproject.org/post/outsidethegenderbinary-simplified",
+          "snippet": "二元性别指将人的性别限制为仅有“男”、“女”两个对立的选项的制度。这种制度是压迫性的，但因为西方的二元性别制度植根于白人至上和殖民主义，它对非白人的 ...",
+          "date": "2023年6月5日",
+          "position": 56
+        },
+        {
+          "title": "非二元性別 - Nonbinary Wiki",
+          "link": "https://nonbinary.wiki/index.php?title=Nonbinary/zh-tw&mobileaction=toggle_view_desktop",
+          "snippet": "Nonbinary characters in fiction ... 「小元（enby, 複數型為enbies，源自N-B）」是一個可以用來稱呼非二元者的暱稱。最早可能是起源於Tumblr，有些非二元者用 ...",
+          "date": "2023年6月23日",
+          "position": 57
+        },
+        {
+          "title": "中国古代有哪些非二元性别的名人吗…… - 美卡论坛",
+          "link": "https://www.uscardforum.com/t/topic/229245",
+          "snippet": "武则天只是权力欲旺盛吧，她当皇帝以后找面首aka小白脸开淫趴，很明显没有改变性别认同，还是直女啊。 而且什么断袖分桃，也不好说是非二元性别了，因为往往 ...",
+          "date": "2024年2月6日",
+          "position": 58
+        },
+        {
+          "title": "Travelport为非二元性别旅客提供“X”性别选项 - 环球旅讯",
+          "link": "https://m.traveldaily.cn/article/129603",
+          "snippet": "新的“X”预订代码于2019年6月1日生效。 领先的旅游商务平台Travelport自6月1日起为非二元性别的航空乘客提供全新预订代码“X”。",
+          "date": "2019年6月5日",
+          "position": 59
+        },
+        {
+          "title": "这家公司，为女性、非二元性别者创造了更多可能 - 财富中文网",
+          "link": "https://www.fortunechina.com/lingdaoli/c/2020-09/07/content_376701.htm",
+          "snippet": "该非营利组织还推出了一个演讲事务处名为“Visionary Voices”，包含对发言机会感兴趣的女性和非二元性别的创业者和投资人。在各种活动上发言成为在科技 ...",
+          "date": "2020年9月7日",
+          "position": 60
+        },
+        {
+          "title": "术语介绍 - FtM.wiki",
+          "link": "https://ftm.wiki/zh-cn/psycho/terminology/",
+          "snippet": "多元性别（Gender diverse） 一词用于描述性别认同和/ 或性别表达不同于对其出生时受指派性别的社会和文化期望的个体，其中涵盖非二元性别、性别拓展、性别 ...",
+          "date": "2023年12月11日",
+          "position": 61
+        },
+        {
+          "title": "伴盟跨性別資訊平台: 認識跨性別",
+          "link": "https://transgender.tapcpr.org/",
+          "snippet": "跨性別泛指所有出生指定性別與性別認同不一致的族群，包含：跨性別男性、跨性別女性、以及非二元性別。 ... （3）非二元性別者（Non-Binary）：非二元性別族群可能有 ...",
+          "position": 62
+        },
+        {
+          "title": "《上古卷轴OL》首个非二元性别角色引玩家不满 - 新浪财经",
+          "link": "https://finance.sina.com.cn/tech/roll/2024-11-03/doc-incuupqy0938947.shtml",
+          "snippet": "近日，《上古卷轴OL》在U44更新中引入了首个非二元性别的同伴角色坦洛林，引发了社区玩家们的不满。一些玩家认为这个角色的加入破坏了游戏的沉浸感，并且不 ...",
+          "date": "18小时前",
+          "position": 63
+        },
+        {
+          "title": "原创全美双人滑冠军自称非二元性别者将创奥运会历史 - 搜狐",
+          "link": "https://www.sohu.com/a/515927653_114977",
+          "snippet": "2019年，勒杜克成为第一位公开的、拿下全美锦标赛双人滑冠军的同志运动员，去年，这位滑冰运动员宣布了他的非二元性别认同。 此前，国际奥委会（IOC）在2020 ...",
+          "date": "2022年1月11日",
+          "position": 64
+        },
+        {
+          "title": "每年的7 月14 日是国际非二元性别日。 它最初创立于2012 年，旨在 ...",
+          "link": "https://www.reddit.com/r/weibo_read/comments/1e5mxmx/%E6%AF%8F%E5%B9%B4%E7%9A%84_7_%E6%9C%88_14_%E6%97%A5%E6%98%AF%E5%9B%BD%E9%99%85%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%AB%E6%97%A5_%E5%AE%83%E6%9C%80%E5%88%9D%E5%88%9B%E7%AB%8B%E4%BA%8E_2012/",
+          "snippet": "每年的7 月14 日是国际非二元性别日。 它最初创立于2012 年，旨在庆祝和唤起人们对那些不符合传统性别二元论的人的关注。 · Comments Section · Community ...",
+          "date": "2024年7月17日",
+          "position": 65
+        },
+        {
+          "title": "非二元性別者之性別認同歷程：敘事研究",
+          "link": "https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22112NCUE0464002%22.&searchmode=basic",
+          "snippet": "本研究採質性研究敘事分析，透過訪談五位非二元性別者，深入探討他們的性別認同歷程與出櫃經驗，以及非二元性別認同在生命中的意義。本研究採用社會建構論的觀點作為分析 ...",
+          "position": 66
+        },
+        {
+          "title": "宇多田光的「非二元性別」自白：別用偏見對待自己、看待世界 - 女人迷",
+          "link": "https://womany.net/read/article/27468",
+          "snippet": "性別觀察｜宇多田光的「非二元性別」自白：別用偏見對待自己、看待世界 ... 宇多田光公開出櫃：公佈自己是「非二元性別者」——不是男生、不是女生，想是什麼，由 ...",
+          "date": "2021年7月26日",
+          "position": 67
+        },
+        {
+          "title": "跨性别者的爱情：我爱你，不是因为你的性别 - 歪脑",
+          "link": "https://www.wainao.me/wainao-reads/love-of-transgender-individuals-10042023",
+          "snippet": "非二元性别者的爱情. 另一位曾与伴侣渡过性别认同转变阶段的薯条，是一名原生性别为女性的非二元性别者。 在90年代中国长大的薯条，早早认定自己的性 ...",
+          "date": "2023年10月4日",
+          "position": 68
+        },
+        {
+          "title": "王恒| 吾栖之肤：跨性别者的性别认同与具身实践——基于在北京市 ...",
+          "link": "http://www.shehui.pku.edu.cn/wap/second/index.aspx?nodeid=2030&page=ContentPage&contentid=10195",
+          "snippet": "此外，随着酷儿运动的兴起，越来越多的经验研究开始关注非二元性别者和性别酷儿等在之前的研究中被很大程度上忽视的群体。 概言之，西方学界针对跨性别者的经验研究与正在发生 ...",
+          "position": 69
+        },
+        {
+          "title": "J·K·罗琳遭抵制，关于性别我们还可以讨论什么？ - 领研网",
+          "link": "https://www.linkresearcher.com/information/6209b1b2-ced5-45a1-a5a2-de5955680de8",
+          "snippet": "我的非二元性别身份，也再也不由我自己决定，只能通过比较我的性别身份和其他人的性别身份分布才能确定。尽管我自我认知为一个女人，别人可能在性别连续谱上 ...",
+          "date": "2020年7月31日",
+          "position": 70
+        },
+        {
+          "title": "非二元性别- 美国续航教育",
+          "link": "https://www.forwardpathway.com/tag/%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%AB",
+          "snippet": "首页 » 非二元性别. 标签： 非二元性别. 雪城大学更新性别标识政策，推动多元与包容环境. 资讯分类：美国大学相关新闻LLM | 标签：包容性, 多元化, 性别 ...",
+          "date": "2024年9月15日",
+          "position": 71
+        },
+        {
+          "title": "性别不一致和性别焦虑症 - 默沙东诊疗手册",
+          "link": "https://www.msdmanuals.cn/home/mental-health-disorders/gender-incongruence-and-gender-dysphoria/gender-incongruence-and-gender-dysphoria",
+          "snippet": "非二元性别指同时或在不同时间有多个性身份的人。 性别酷儿指性身份不是严格男性或女性的人，可能包括两者或两者都不 ...",
+          "position": 72
+        },
+        {
+          "title": "“生而无罪，你不需要抱歉”|性别认同：“顺”或“跨”都不该被轻易定义",
+          "link": "https://xinli.swjtu.edu.cn/info/1065/5833.htm",
+          "snippet": "性别认同是一种人的内在的意识，也就是对自己是男性、女性或者非二元性别者的认同感。而性倾向则包括一个人对另一个个体（无论是不同性别还是相同性别，或者 ...",
+          "date": "2021年10月13日",
+          "position": 73
+        },
+        {
+          "title": "A Brief Introduction to Trans - shypeople",
+          "link": "https://shypeople.cn/A-Brief-Introduction-to-Trans",
+          "snippet": "在父权制下，顺性别与跨性别女性、跨性别男性、间性别、非二元性别、酷儿性别等社会性别的人，都遭受着系统性的经济、社会与政治地位和权力的不平等，面对着偏见、歧视、恐惧 ...",
+          "position": 74
+        },
+        {
+          "title": "[PDF] 淺談非二元認同及其教育意涵： 面對性別刻板印象與性別二分的反思",
+          "link": "http://www.ater.org.tw/journal/article/12-2/free/10.pdf",
+          "snippet": "其自我認同是「中性的」或是「無. 性別」（Throne et al., 2019）。 非二元族群中也存在一群不適應兩性生理特徵（例如：女性的乳房、男性的. 鬍子）的人 ...",
+          "position": 75
+        },
+        {
+          "title": "“请用They称呼我”-观察者网",
+          "link": "https://www.guancha.cn/internation/2019_12_12_528198.shtml",
+          "snippet": "10日，韦氏词典宣布，代指非二元性别者的词“They”成为该词典的年度词汇。 “我一生都在与自己的性别作战，如今我决定将自己的代名词改为'They/Them'，去拥抱 ...",
+          "date": "2019年12月12日",
+          "position": 76
+        },
+        {
+          "title": "非二元性别信息图表",
+          "link": "https://online.visual-paradigm.com/cn/infoart/templates/infographics/things-that-genderqueer-people-want-you-to-know-infographic/",
+          "snippet": "非二元性别信息图表. 许多人传统上认为他们的性别是男性或女性。这些身份通常与出生时的性别有关。然而，总有 ...",
+          "position": 77
+        },
+        {
+          "title": "儿童与性别认同：支持您的孩子- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/healthy-lifestyle/childrens-health/in-depth/children-and-gender-identity/art-20266811",
+          "snippet": "有时，也可能认为自己两者都不是，或者不完全符合两者（非二元性别者）。 大多数 ... 我如何支持跨性别儿童或性别与其出生指定性别不一致的儿童？ 倾听孩子关于 ...",
+          "position": 78
+        },
+        {
+          "title": "非二元性别小组 - 豆瓣",
+          "link": "https://m.douban.com/group/729666/",
+          "snippet": "豆瓣小组：非二元性别，最新帖子：有正在或者未来打算从事科研工作的trans/非二元性别朋友吗，活跃一下(闲聊)，非二元性别者认识自己性别的过程是怎样的？（转载）",
+          "position": 79
+        },
+        {
+          "title": "非二元性别者犯下5死枪案美推特反LGBTQ假讯息激增 - RFI",
+          "link": "https://www.rfi.fr/cn/%E7%BC%A4%E7%BA%B7%E4%B8%96%E7%95%8C/20230412-%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%AB%E8%80%85%E7%8A%AF%E4%B8%8B5%E6%AD%BB%E6%9E%AA%E6%A1%88-%E7%BE%8E%E6%8E%A8%E7%89%B9%E5%8F%8Dlgbtq%E5%81%87%E8%AE%AF%E6%81%AF%E6%BF%80%E5%A2%9E",
+          "snippet": "凶嫌史特强（Connor Sturgeon）身分公布后，前川普幕僚高卡（Sebastian Gorka）等右派人士随即公开他的领英（LinkedIn）页面截图，并且指出史特强自称是性别认同非 ...",
+          "date": "2023年4月12日",
+          "position": 80
+        },
+        {
+          "title": "墨西哥首位公开“非二元性别”法官死于家中，身中至少20刀",
+          "link": "http://www.br-cn.com/static/content/news/nm_news/2023-11-17/1175134149570237355.html",
+          "snippet": "墨西哥“elfinanciero”网报道，巴埃纳是墨西哥首位公开担任司法职务的“非二元性别”人士，也是阿瓜斯卡连特斯（Aguascalientes）选举法院的一名法官。",
+          "date": "2023年11月17日",
+          "position": 81
+        },
+        {
+          "title": "《使命召唤21》首个非二元性别角色出现不知道是男是女",
+          "link": "https://m.cnbeta.com.tw/view/1450318.htm",
+          "snippet": "《使命召唤21：黑色行动6》即将正式发售。近日有外媒报道称，该系列将推出首个非二元性别角色VoltaRossi，她(或他)将被用来在游戏中注入性别意识形态。",
+          "date": "2024年10月24日",
+          "position": 82
+        },
+        {
+          "title": "宇多田光自承非二元性別者不想被男女性別定義[影] - 中央社",
+          "link": "https://www.cna.com.tw/news/firstnews/202106290330.aspx",
+          "snippet": "日本歌手宇多田光日前在IG直播影片中表示，自己是「非二元性別者」（non-binary），認為自己不屬於男性，也不屬於女性。",
+          "date": "2021年6月29日",
+          "position": 83
+        },
+        {
+          "title": "2025东京马拉松将设立非二元性别组，不限制参赛者为男性和女性",
+          "link": "https://www.163.com/dy/article/J74N9PMU052880KM.html",
+          "snippet": "东京马拉松官方宣布，2025东京马拉松将允许运动员在登记性别时选择非二元性别，不再仅局限于男性和女性。至此，全球六大马拉松大满贯赛事均已设立了非二 ...",
+          "date": "2024年7月15日",
+          "position": 84
+        },
+        {
+          "title": "跨性别或非二元性别 - CnGal",
+          "link": "https://www.cngal.org/tags/index/826",
+          "snippet": "CnGal资料站的建站目的是收集，索引国产gal及中文化galgame资料、文章、攻略，为galgame同好们提供方便。",
+          "position": 85
+        },
+        {
+          "title": "Gucci增设非二元性别部门将为性别流动者推出跨性别单品 - 服装设计",
+          "link": "https://d.cfw.cn/news/277018-1.html",
+          "snippet": "上周老牌时装屋Gucci 宣布首次增设“Non-binary”非二元性别部门。",
+          "date": "2020年7月27日",
+          "position": 86
+        },
+        {
+          "title": "跨性别术语指南[1]- 中国日报网 - 文化频道",
+          "link": "http://ent.chinadaily.com.cn/2016-01/26/content_23263474.htm",
+          "snippet": "也有些人虽然经历了这个过程——也就是“变性”，却更喜欢被称为“跨性别者”，而非“性身相异者”。最好先问问对方更喜欢哪种称呼。 非二元性别（Non-binary）. 非二 ...",
+          "date": "2016年1月26日",
+          "position": 87
+        },
+        {
+          "title": "28 – 双性≠非二元– Seksediversiteit.nl",
+          "link": "https://www.seksediversiteit.nl/zh-CN/misvattingen/h028/",
+          "snippet": "这是用人工智能总结并由编辑检查的。第28 章并非所有双性人都是非二元性别双性人与非二元性别相同吗？答案是不。但有一个有趣的相似之处。",
+          "date": "2023年11月17日",
+          "position": 88
+        },
+        {
+          "title": "毫无预警！宇多田光宣布自己是“非二元性别者” - UWeekly",
+          "link": "https://www.uweekly.sg/showbiz/119574",
+          "snippet": "日籍美裔歌手宇多田光（38岁）无预警在27日开直播，宣布自己是“非二元性别者”（non-binary），而且不想再被非男即女的性别框架定义。",
+          "date": "2021年6月29日",
+          "position": 89
+        },
+        {
+          "title": "什么叫非二元性别者 - 抖音",
+          "link": "https://www.douyin.com/search/%E4%BB%80%E4%B9%88%E5%8F%AB%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%AB%E8%80%85",
+          "snippet": "性别酷儿（genderqueer）是一种性别认同，或对性别的体验或表达方式。不同于主流的男女性别二元观念（认为仅存在男性和女性两种性别），性别酷儿可能觉得 ...",
+          "date": "2天前",
+          "position": 90
+        },
+        {
+          "title": "配合国际不再恐同日墨西哥首颁非二元性别护照 - 亚洲电视新闻",
+          "link": "https://atvnewsonline.com/world/%E9%85%8D%E5%90%88%E5%9B%BD%E9%99%85%E4%B8%8D%E5%86%8D%E6%81%90%E5%90%8C%E6%97%A5-%E5%A2%A8%E8%A5%BF%E5%93%A5%E9%A6%96%E9%A2%81%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%AB%E6%8A%A4%E7%85%A7/",
+          "snippet": "为了配合5月17日的国际不再恐同日，墨西哥在周三颁发了第一本非二元护照。非二元性别者（Non-binary gender）是处于男性和女性、二元性别以外的性别认同 ...",
+          "date": "2023年5月18日",
+          "position": 91
+        },
+        {
+          "title": "阿根廷承认非二元性别身分可注记X - SWI swissinfo.ch",
+          "link": "https://www.swissinfo.ch/chi/%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%89%BF%E8%AE%A4%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%AB-%E8%BA%AB%E5%88%86%E5%8F%AF%E6%B3%A8%E8%AE%B0x/46809534",
+          "snippet": "阿根廷承认非二元性别身分可注记X ... （法新社布宜诺斯艾利斯21日电） 阿根廷政府宣布，从今天起允许国民在身分文件上标注性别为「X」，亦即非男性也非女性。此 ...",
+          "date": "2021年7月22日",
+          "position": 92
+        },
+        {
+          "title": "那些跨性别的青少年是否更有可能经历和产生性暴力行为？ - MedSci",
+          "link": "https://m.medsci.cn/article/show_article.do?id=d01de2878397",
+          "snippet": "主要结局为在顺性别、跨性别和非二元性别青年中自我报告的经历或实施性暴力的比率（包括性侵犯、强奸、强奸未遂和强迫性行为）。 研究结果显示，在 ...",
+          "date": "2022年6月9日",
+          "position": 93
+        },
+        {
+          "title": "Bumble包容性性别选项",
+          "link": "https://bumble.com/zh/help/%E6%80%A7%E5%88%AB-%E9%80%89%E9%A1%B9",
+          "snippet": "在加入Bumble时，如果您选择的是约会模式，您将被询问愿意认识哪类人群，选项有女性、男性、非二元性人士。您可以同时选择两项或所有人群。性别选项、性取向选项以及筛选偏好 ...",
+          "position": 94
+        },
+        {
+          "title": "当我们用they指代一个人：性别友好到底意味着什么？ - 界面新闻",
+          "link": "https://m.jiemian.com/article/3263688.html",
+          "snippet": "我们在日常交流中往往缺乏这样的意识：这个世界已经不再是以“男孩/女孩”或“蓝色/粉色”来进行划分的世界了，这是一个非二元性别的世界，现有的性别类型如 ...",
+          "date": "2019年7月2日",
+          "position": 95
+        },
+        {
+          "title": "美国推出“X性别”护照，非二元人士成功拿照，感叹“再也不用假装女人”",
+          "link": "https://caus.com/all-articles/news/83307/",
+          "snippet": "拜登政府于本周一推出了“X”性别护照的新选项。据估计，目前约有120万性别身份不属于男性或女性的美国人，可以选择持有带有“X”性别标识的护照。此举被视为对 ...",
+          "date": "2022年4月12日",
+          "position": 96
+        },
+        {
+          "title": "《龙腾世纪4》新爆料：非二元性别才能与所有人谈恋爱 - 旅法师营地",
+          "link": "https://www.iyingdi.com/tz/post/5469027",
+          "snippet": "比如《龙腾世纪》系列许多人在意的恋爱系统，如果玩家创建主角时性别选择男性，就只能和2位女性谈恋爱，只有选择非二元性别，才可以和所有角色谈恋爱。 这位测试者表示，虽然《 ...",
+          "position": 97
+        },
+        {
+          "title": "龙腾世纪新突破：首次引入非二元性别角色，个性定制开启新篇章！",
+          "link": "http://m.itbear.com.cn/html/2024-11/573812.html",
+          "snippet": "尽管这个系列以往也涉及LGBTQ+主题和角色，但这却是第一次在这个游戏中出现非二元性别角色，并且玩家可以自己选择扮演这种类型的角色。",
+          "date": "2天前",
+          "position": 98
+        }
+      ],
+      "images": [
+        {
+          "title": "台灣北區同志社群服務中心-GisneyLand風城部屋",
+          "imageUrl": "http://www.gisneyland.org/media//upload/%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%AB%E6%97%97-Non-binary%20gender.jpg",
+          "link": "https://www.gisneyland.org/column/column/detail/?id=11"
+        },
+        {
+          "title": "非二元性別- Nonbinary Wiki",
+          "imageUrl": "https://nonbinary.wiki/images/thumb/c/c0/Nonbinary.png/250px-Nonbinary.png",
+          "link": "https://nonbinary.wiki/wiki/Nonbinary/zh-tw"
+        },
+        {
+          "title": "非二元性別之哪裡只得男或⼥? – Gender Empowerment 性別空間",
+          "imageUrl": "https://genderempowerment.org/2020newsite/wp-content/uploads/2021/07/JUNE-JULY-instagram-post-3-1024x1024.png",
+          "link": "https://genderempowerment.org/index.php/2021/07/16/nonbinary/"
+        },
+        {
+          "title": "非二元性別者是什麼？和傳統二元性別有何不同呢？",
+          "imageUrl": "https://s.yimg.com/ny/api/res/1.2/oXDqD02VSOnpdSVZ0x3ZDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTU-/https://s.yimg.com/os/creatr-uploaded-images/2021-06/253e5300-d973-11eb-9ffe-197285658675",
+          "link": "https://tw.news.yahoo.com/%E5%AE%87%E5%A4%9A%E7%94%B0%E5%85%89-%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%A5%E8%80%85-nonbinary-mx-lgbtq-072148175.html"
+        },
+        {
+          "title": "非二元性別之哪裡只得男或⼥? – Gender Empowerment 性別空間",
+          "imageUrl": "https://genderempowerment.org/2020newsite/wp-content/uploads/2021/07/JUNE-instagram-post-1-1024x1024.png",
+          "link": "https://genderempowerment.org/index.php/2021/07/16/nonbinary/"
+        },
+        {
+          "title": "A Talk with】SPECIAL in HongKong－非二元跨性別Vincy - YouTube",
+          "imageUrl": "https://i.ytimg.com/vi/Wt3KG1BSvZ4/maxresdefault.jpg",
+          "link": "https://www.youtube.com/watch?v=Wt3KG1BSvZ4"
+        },
+        {
+          "title": "非二元性别- 维基百科，自由的百科全书",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Marche_des_Fiert%C3%A9s_Paris_02_07_2016_06.jpg",
+          "link": "https://zh.wikipedia.org/zh-cn/%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%A5"
+        },
+        {
+          "title": "24,393 非二元性别图片、库存照片、3D 物体和矢量图| Shutterstock",
+          "imageUrl": "https://www.shutterstock.com/image-vector/lgbtq-symbol-vector-illustration-types-260nw-2436239301.jpg",
+          "link": "https://www.shutterstock.com/zh/search/%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%AB"
+        },
+        {
+          "title": "非二元性别：打破传统二元论，建造多元的性别色谱体系| 歪腦WHYNOT",
+          "imageUrl": "https://s3cdn.wainao.me/2021-12/cover-photos/1920x1080.jpg",
+          "link": "https://www.wainao.me/wainao-watches/explainer-gender-nonbinary-12282021"
+        }
+      ],
+      "peopleAlsoAsk": [
+        {
+          "question": "Gender有几种？",
+          "snippet": "其实，性别的定义有很多方式，严格一点说，一个个体起码具备六种性别模式，这六种性别模式都统一，才能确定其真正意义上的雄性或者雌性，否则就会出现性别模糊或性征模糊。 生物的六种性别模式包括染色体性别、基因性别、性腺性别、生殖器性别、心理性别和社会性别。",
+          "title": "六种性别_百度百科",
+          "link": "https://baike.baidu.com/item/%E5%85%AD%E7%A7%8D%E6%80%A7%E5%88%AB/11023723"
+        },
+        {
+          "question": "Gender queer是什么意思？",
+          "snippet": "性别酷儿（genderqueer）是一种性别认同，或对性别的体验或表达方式。 不同于主流的男女性别二元观念（认为仅存在男性和女性两种性别），性别酷儿可能觉得自己的性别处在男性和女性之间，觉得自己既非男性也非女性，或者既是男性也是女性，或者完全拒绝任何“性别”。",
+          "title": "性别酷儿_百度百科",
+          "link": "https://baike.baidu.com/item/%E6%80%A7%E5%88%AB%E9%85%B7%E5%84%BF/55793875"
+        },
+        {
+          "question": "Gender Fluid是什么意思？",
+          "snippet": "「性別流動」（gender- fluid）是「跨性別」（Transgender）的一種，意指該人不認為自己有一個固定的性別，可以隨時改變，或是同時擁有不止一個性別。",
+          "title": "你知道「性別流動（gender- fluid）」是什麼嗎？ - 英文學習部落格",
+          "link": "https://blog.english4u.net/blog2.aspx?id=367"
+        },
+        {
+          "question": "Demigirl 什么意思？",
+          "snippet": "半女孩Demigirl （也稱為Demiwoman，Demilady或Demifemale person）是一種非二元性別， 他們有可能出生的指定性別為男生或女生，但在自我認同的歷程中只佔了他們的性別的一部分。",
+          "title": "[多元性別認同旗幟] 半男性/ 半女性旗 - 風城部屋",
+          "link": "https://www.gisneyland.org/column/column/detail/?id=20"
+        }
+      ],
+      "relatedSearches": [
+        {
+          "query": "非二元人"
+        },
+        {
+          "query": "非二元是什么意思"
+        },
+        {
+          "query": "非二元论"
+        },
+        {
+          "query": "Nonbinary"
+        },
+        {
+          "query": "non-binary是什么意思"
+        },
+        {
+          "query": "non binary gender中文"
+        },
+        {
+          "query": "gender fluid中文"
+        },
+        {
+          "query": "genderqueer意思"
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

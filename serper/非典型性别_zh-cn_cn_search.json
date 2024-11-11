@@ -1,0 +1,1287 @@
+{
+  "query": "非典型性别",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-04T00:32:57.145515",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "非典型性别",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "新生儿外生殖器性别不明- 症状、诊断和治疗 - BMJ Best Practice",
+          "link": "https://bestpractice.bmj.com/topics/zh-cn/868",
+          "snippet": "外生殖器性别不明（即生殖器表型不具有明确的男性或女性特征）由染色体、性腺或解剖学性别的非典型发育引起。导致外生殖器性别不明的一组复杂疾病被称为性发育 ...",
+          "position": 1
+        },
+        {
+          "title": "性别表现- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E6%80%A7%E5%88%A5%E6%B0%A3%E8%B3%AA?oldformat=true",
+          "snippet": "一种类型的性别表现，其自身外部性别感知上被视为非典型的，这些人士可能被描述为非常规性别。 与男性对应的性别表现是男性气质或男子气概；与女性对应的性别表现是女性气质或 ...",
+          "position": 2
+        },
+        {
+          "title": "「男主內、女主外」探討廣告中非典型性別角色對廣告效果之影響機制",
+          "link": "https://www.airitilibrary.com/Article/Detail/P20171012001-N202403230007-00001",
+          "snippet": "本研究共執行三個組間實驗設計，結果發現低度非典型性別角色反而引發最高的認知失調，並進一步的影響廣告效果；而認知需求與幽默訴求的調節效果也產生一定的作用，使得中 ...",
+          "position": 3
+        },
+        {
+          "title": "典型和非典型性发育的遗传控制 - X-MOL",
+          "link": "https://www.x-mol.com/paper/1643644272264359936/t",
+          "snippet": "性别发育依赖于基因网络的性别特异性作用，将生长中胎儿的双能性腺分化为睾丸或卵巢，然后根据激素的存在或不存在来分化内生殖器和外生殖器。性发育差异(DSD) 是由这些 ...",
+          "position": 4
+        },
+        {
+          "title": "性別化的傷疤效果？檢視非典型工作經驗對於臺灣受雇者日後進入 ...",
+          "link": "https://www.airitilibrary.com/Article/Detail/10237305-202106-202107130013-202107130013-1-33",
+          "snippet": "本研究發現在西元2000年之後女性進入非典型工作的可能性逐漸增加。而在受雇者的工作流動部分，則支持傷疤效果和陷阱說的觀點，但發現前一份工作身份為非典型工作者，與先前 ...",
+          "position": 5
+        },
+        {
+          "title": "非典型细胞：是癌症吗？ - 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/diseases-conditions/cancer/expert-answers/atypical-cells/faq-20058493",
+          "snippet": "即使是正常的衰老，也会使细胞看起来不正常。 如果病因得到解决，非典型细胞可能变回正常细胞。这可能是自发性的，也可能是特定治疗的结果。",
+          "position": 6
+        },
+        {
+          "title": "传染性非典型肺炎 - 国家疾病预防控制局",
+          "link": "https://www.ndcpa.gov.cn/jbkzzx/c1000372/common/content/content_1715193373042012160.html",
+          "snippet": "呼吸系统症状中咳嗽不多见，表现为干咳，少痰，可有胸闷，严重者渐出现呼吸加速、气促，甚至呼吸窘迫。常无上呼吸道卡他症。部分病人出现腹泻、恶心、呕吐等 ...",
+          "date": "2023年10月20日",
+          "position": 7
+        },
+        {
+          "title": "传染性非典型肺炎诊断标准- 中华人民共和国国家卫生健康委员会",
+          "link": "http://www.nhc.gov.cn/wjw/s9491/200802/38821.shtml",
+          "snippet": "传染性非典型肺炎诊断标准. 发布时间： 2008-02-28. 标准号, WS 286-2008, 标准名, 传染性非典型肺炎诊断标准. 发布时间, 2008.02.28, 实施时间, 2008.09.",
+          "position": 8
+        },
+        {
+          "title": "传染性非典型肺炎医院感染控制指导原则（试行）",
+          "link": "https://m.chinacdc.cn/jkzt/crb/yl/crxfdxfy/jszl_9043/200507/t20050707_24435.html",
+          "snippet": "传染性非典型肺炎具有较强的传染性，可通过近距离空气飞沫、接触病人分泌物传播，医院必须采取严格的消毒隔离和防护措施，控制医院感染的发生。根据前一阶段防治工作经验， ...",
+          "position": 9
+        },
+        {
+          "title": "传染性非典型肺炎防治管理办法 - 中国政府网",
+          "link": "https://www.gov.cn/banshi/2005-08/01/content_19099.htm",
+          "snippet": "对从事传染性非典型肺炎预防控制、医疗救治、科学研究的人员，所在单位应当根据有关规定，采取有效的防护措施和医疗保健措施。 第十六条有关单位和个人必须 ...",
+          "date": "2005年8月1日",
+          "position": 10
+        },
+        {
+          "title": "传染性非典型肺炎病毒研究实验室暂行管理办法 - 中国疾病预防控制中心",
+          "link": "https://m.chinacdc.cn/jkzt/crb/yl/crxfdxfy/jszl_9043/201103/t20110314_28181.html",
+          "snippet": "传染性非典型肺炎是一种严重的传染性疾病。为确保生物安全，防止实验人员感染和污染环境，特制定本办法。 本办法对从事传染性非典型肺炎病毒研究的实验室实行分级管理。",
+          "position": 11
+        },
+        {
+          "title": "非典型性肺炎-湖南省人民政府门户网站",
+          "link": "https://www.hunan.gov.cn/hnszf/xxgk/yjgl/yjzs/201301/t20130108_4694789.html",
+          "snippet": "非典型性肺炎（SARS）是一种由新型冠状病毒引起的严重急性呼吸道综合征。主要通过近距离呼吸道飞沫、直接接触病人呼吸道分泌物及密切接触传播。",
+          "date": "2007年11月16日",
+          "position": 12
+        },
+        {
+          "title": "传染性非典型肺炎 - 湖南省疾病预防控制中心",
+          "link": "https://hncdc.com/html/web/education/jiankangzhuti/chuanranxingjibing/yilei/chuanranxingfeidianxingfeiyan/index.html",
+          "snippet": "严重急性呼吸道症候群又称SARS。在未查明病因前，被叫做“非典型性肺炎”，是一种极具传染性的疾病。传染性非典型肺炎，又称严重急性呼吸综合症（Severe Acute Respiratory ...",
+          "position": 13
+        },
+        {
+          "title": "非典型肺炎- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E9%9D%9E%E5%85%B8%E5%9E%8B%E8%82%BA%E7%82%8E",
+          "snippet": "非典型肺炎（英语：Atypical pneumonia），简称非典，英语也称游走肺炎（英语：Walking pneumonia）是一个总称，泛指所有由某种未知的病原体引起的传染性肺炎。",
+          "position": 14
+        },
+        {
+          "title": "非典防治工作综述 - 中国政府网",
+          "link": "https://www.gov.cn/test/2005-06/28/content_10716.htm",
+          "snippet": "2003年上半年，中国（指中国内地，下同）24个省区市先后发生传染性非典型肺炎（以下简称非典）疫情，共波及266个县和市（区），累计报告非典病例5327例，累计治愈出院4927例， ...",
+          "position": 15
+        },
+        {
+          "title": "传染性非典型肺炎病原体研究进展 - 中华疾病控制杂志",
+          "link": "https://zhjbkz.ahmu.edu.cn/article/id/JBKZ200404028",
+          "snippet": "出版历程 ... 摘要: 自世界卫生组织将传染性非典型肺炎定义为严重急性呼吸系统综合症(SARS)以来,中国、德国、加拿大、法国、美国等10个国家和地区的13个一流实验室首先在病原 ...",
+          "position": 16
+        },
+        {
+          "title": "非典型肺炎常见问题新解",
+          "link": "http://www.nhc.gov.cn/wjw/zcjd/201304/c53f7355df2b44a0aa75a3201a7dd936.shtml",
+          "snippet": "非典型肺炎常见问题新解《健康报》 (2003.04.24) 问：什么是非典型肺炎？ 答：非典型肺炎是由冠状病毒的一个变种引起的，主要通过近距离空气飞沫和密切接触传播，是一种新的 ...",
+          "position": 17
+        },
+        {
+          "title": "防治非典型性肺炎_中华人民共和国外交部",
+          "link": "https://www.mfa.gov.cn/ziliao_674904/zt_674979/ywzt_675099/zt2003_675963/2267_675979/",
+          "snippet": "两微一端 · 非典型肺炎疫情通报（2003-08-01） · 非典型肺炎疫情通报（2003-07-30） · 非典型肺炎疫情通报（2003-07-28） · 非典型肺炎疫情通报（2003-07-25） · 非典型肺炎疫情 ...",
+          "position": 18
+        },
+        {
+          "title": "乳腺非典型性导管增生的研究进展 - 上海交通大学学报（医学版）",
+          "link": "https://xuebao.shsmu.edu.cn/CN/10.3969/j.issn.1674-8115.2013.04.029",
+          "snippet": "摘要/Abstract. 摘要：. 乳腺非典型性导管增生（ADH）具有进展为乳腺癌的危险性，ADH的分子生物学及遗传学改变具有一定的特征，与导管原位癌（DCIS）具有一定的相似性。细胞增殖 ...",
+          "position": 19
+        },
+        {
+          "title": "制定了《教育系统预防与控制传染性非典型肺炎工作预案》。",
+          "link": "http://www.moe.gov.cn/jyb_xxgk/gk_gbgg/moe_0/moe_9/moe_39/tnull_110.html",
+          "snippet": "对出现非典病人或疑似病人的高校，学校可根据其活动范围，在相应的范围内调整教学方式和学习方式，暂时避免集中上课，采用网上授课、电话咨询与指导、学生自学等方式进行学习， ...",
+          "position": 20
+        },
+        {
+          "title": "有消息称非典病原可能来自动物，那么我们盘中的鸡鸭鱼肉安全吗？",
+          "link": "https://www.whcdc.org/view/937.html",
+          "snippet": "据美国权威科学杂志《科学》报道，非典病毒是一种与以往已知的动物和人冠状病毒没有密切关系的全新冠状病毒，可以排除非典病毒从已知冠状病毒变异而来的可能性。据有关流行病 ...",
+          "position": 21
+        },
+        {
+          "title": "上海市人民政府关于进一步加强传染性非典型肺炎防治工作的通告",
+          "link": "https://www.shanghai.gov.cn/nw9724/20200906/0001-9724_669.html",
+          "snippet": "为了进一步加强本市传染性非典型肺炎（以下简称“非典”）防治工作，按照中共中央和国务院的要求，根据《中华人民共和国传染病防治法》和国家有关部门的规定，特通告如下：",
+          "position": 22
+        },
+        {
+          "title": "传染性非典型肺炎传染性初步分析及其防制措施 - 中华流行病学杂志",
+          "link": "http://chinaepi.icdc.cn/zhlxbx/ch/reader/view_abstract.aspx?file_no=20030602&flag=1",
+          "snippet": "传染性非典型肺炎[严重急性呼吸综合征(severeacuterespiratorysyndrome,SARS)]是一种由新型冠状病毒引起的以肺炎为主要临床表现的呼吸道传染病.通过对现有资料的分析 ...",
+          "position": 23
+        },
+        {
+          "title": "全国传染性非典型肺炎疫情监测网络直报系统启动",
+          "link": "https://www.most.gov.cn/ztzl/ykkjzsfd/gzdt/200311/t20031106_10686.html",
+          "snippet": "为了检验全国非典网络直报系统功能，考核各级卫生系统疫情报告和应急指挥响应能力，卫生系统日前组织了非典网络直报和指挥决策系统演示和演练。据卫生部统计 ...",
+          "date": "2003年11月6日",
+          "position": 24
+        },
+        {
+          "title": "（失效） 北京市实施传染性非典型肺炎预防控制措施若干规定",
+          "link": "https://www.beijing.gov.cn/zhengce/gfxwj/sj/201905/t20190522_56542.html",
+          "snippet": "北京市实施传染性非典型肺炎预防控制措施若干规定》已经2003年5月27日市人民政府第9次常务会议通过，现予公布，自公布之日起施行。",
+          "position": 25
+        },
+        {
+          "title": "在社区获得性肺炎的成人住院患者中，非典型病原体的经验性抗生素 ...",
+          "link": "https://www.cochranelibrary.com/es/cdsr/doi/10.1002/14651858.CD004418.pub4/full/zh_HANS",
+          "snippet": "肺炎是一种严重的肺部感染疾病，通常使用抗生素治疗。导致社区获得性肺炎（community‐acquired pneumonia, CAP，在医疗机构外感染的肺炎）的细菌传统上分为\"典型\"和\"非典型\"，每 ...",
+          "position": 26
+        },
+        {
+          "title": "传染性非典型性肺炎 - 武汉市疾病预防控制中心",
+          "link": "https://www.whcdc.org/list/231.html",
+          "snippet": "联系我们. 您当前位置：首页传染病与地方病急性/新发传染病传染性非典型性肺炎 · 霍乱 · 传染性非典型性肺炎 · 人禽流感 · 甲型H1N1流感 · 中东呼吸综合征 · 埃博拉病毒 ...",
+          "position": 27
+        },
+        {
+          "title": "传染性非典型肺炎防控_国动视频 - 福州市人民政府",
+          "link": "https://www.fuzhou.gov.cn/zgfzzt/srfb/zwgk/gdsp/201903/t20190319_2783105.htm",
+          "snippet": "传染性非典型肺炎防控. 时间：2019-03-19 09:30 浏览量：. 微信 微博 QQ空间. 1. 、 来源：人防办. 附件下载. 058传染性非典型肺炎_标清(000037913-000210933).wmv.",
+          "position": 28
+        },
+        {
+          "title": "市疾控中心加强传染性非典型肺炎防治工作",
+          "link": "https://www.yzcdc.com/index/news/detail/newsid/309.html",
+          "snippet": "2004-05-26 4298 来源: 疾病预防控制中心. 近日国内再次发生传染性非典型肺炎疫情，市疾控中心切实把非典防治工作摆在重中之重的位置，认真落实了各项防控措施，对当前 ...",
+          "position": 29
+        },
+        {
+          "title": "防治非典型性肺炎_中华人民共和国外交部",
+          "link": "https://www.mfa.gov.cn/web/ziliao_674904/zt_674979/ywzt_675099/zt2003_675963/2267_675979/200304/t20030416_9289689.shtml",
+          "snippet": "首页 > 资料 > 专题 > 以往专题 > 2003年专题 > 防治非典型性肺炎. 部分城市非典型肺炎咨询电话. 2003-04-16 11:14. 【中大小】. 打印. 北京市：010-64274209、64212486 ...",
+          "position": 30
+        },
+        {
+          "title": "广东省13市传染性非典型肺炎首发病例流行病学分析",
+          "link": "http://chinaepi.icdc.cn/zhlxbx/ch/reader/view_abstract.aspx?file_no=20030507&flag=1",
+          "snippet": "目的分析广东省首例传染性非典型肺炎病例(SARS)的流行病学特征,为追溯传染源提供科学依据。方法采用统一的个案调查表对广东省SARS首发病例进行调查,同时对其密切接触者 ...",
+          "position": 31
+        },
+        {
+          "title": "关于非典型肺炎疫情发生期间个人取得的特殊临时性工作补助等所得 ...",
+          "link": "https://shanghai.chinatax.gov.cn/zcfw/zcfgk/grsds/200701/t288744.html",
+          "snippet": "二、为防止非典型肺炎的扩散，对单位发给个人的用于预防非典型肺炎的药品、医疗用品和防护用品等实物（不包括现金），可不计入个人当月的工资、薪金收入，免予 ...",
+          "date": "2007年1月8日",
+          "position": 32
+        },
+        {
+          "title": "中国儿童非典型溶血尿毒综合征诊治专家共识(2023版)",
+          "link": "https://rs.yiigle.com/CN101070202306/1460313.htm",
+          "snippet": "非典型溶血尿毒综合征(atypical hemolytic uremic syndrome，aHUS)是罕见病和危重性疾病，由补体旁路调节蛋白异常所致。急性期病死率高，且病情反复，容易 ...",
+          "date": "2023年6月5日",
+          "position": 33
+        },
+        {
+          "title": "【摘要】罗琼鹏、郭锐：语义融合与汉语非典型宾语结构",
+          "link": "http://ling.cass.cn/keyan/xueshuchengguo/cgtj/202408/t20240805_5768901.html",
+          "snippet": "这类非典型宾语结构呈现出明显的形义错配性，是汉语研究中长期以来的难点。 过去几十年来，学者们围绕这类现象从不同角度进行了大量研究，提出“转喻说”“介词 ...",
+          "date": "2024年8月5日",
+          "position": 34
+        },
+        {
+          "title": "杭州市人民政府关于印发杭州市传染性非典型肺炎防治应急预案的通知",
+          "link": "https://www.hangzhou.gov.cn/art/2019/7/29/art_1671542_6139.html",
+          "snippet": "各区、县(市)人民政府,市政府各部门、各直属单位: 现将《杭州市传染性非典型肺炎防治应急预案》印发给你们,请认真执行。",
+          "date": "2019年7月29日",
+          "position": 35
+        },
+        {
+          "title": "神经退行性非典型帕金森综合征 - 生物通",
+          "link": "https://m.ebiotrade.com/newsf/2024-7/2024719144239644.htm",
+          "snippet": "神经退行性非典型帕金森综合征 ... 编辑推荐：. 7月19日，经纪公司证实郑佩佩去世消息。据Variety报道，郑佩佩曾于2019年被诊断患有神经退行性非典型帕金森综合 ...",
+          "date": "2024年7月19日",
+          "position": 36
+        },
+        {
+          "title": "温州市人民政府关于印发温州市传染性非典型肺炎防治应急预案的通知",
+          "link": "https://www.wenzhou.gov.cn/art/2006/8/25/art_1229116916_577202.html",
+          "snippet": "传染性非典型肺炎是通过近距离空气飞沫和密切接触传播的急性呼吸道传染病，具有较强的传染性和致病性。国家已明确将其按甲类传染病进行控制和管理。目前， ...",
+          "date": "2006年8月25日",
+          "position": 37
+        },
+        {
+          "title": "北京市实施传染性非典型肺炎预防控制措施若干规定",
+          "link": "https://www.moj.gov.cn/pub/sfbgw/flfggz/flfggzdfzwgz/200308/t20030807_134378.html",
+          "snippet": "（一）对被传染性非典型肺炎污染的场所，未按照疾病预防控制机构的要求实施卫生处理的； （二）传染性非典型肺炎病人或者疑似病人拒绝、阻碍、逃避预防控制措施， ...",
+          "date": "2003年8月7日",
+          "position": 38
+        },
+        {
+          "title": "四川省传染性非典型肺炎疫情报告分析 - 疾病监测",
+          "link": "http://www.jbjc.org/article/doi/10.3784/j.issn.1003-9961.2004.2.52",
+          "snippet": "引用本文: 唐雪峰, 宋杨, 吴先萍, 许军红, 何君. 四川省传染性非典型肺炎疫情报告分析[J]. 疾病监测, 2004, 19(2): 52-55. DOI: 10.3784/j.issn.1003-9961.2004.2.52.",
+          "position": 39
+        },
+        {
+          "title": "关于印发《传染性非典型肺炎病毒研究实验室暂行管理办法》的通知",
+          "link": "https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20030513/0016-150163.html",
+          "snippet": "为保证传染性非典型肺炎（又称为严重急性呼吸综合征）研究工作的顺利开展，加强从事非典型肺炎病毒研究实验室的管理，防止病毒对环境的污染，保障实验人员的 ...",
+          "date": "2003年5月13日",
+          "position": 40
+        },
+        {
+          "title": "葛沾镇防治传染性非典型肺炎工作方案 - 天津市津南区人民政府",
+          "link": "https://www.tjjn.gov.cn/zwgk/zcwj/qjwj/ggz100/202012/t20201208_4673785.html",
+          "snippet": "内容概述： 传染性非典型肺炎是指目前病源尚不明确，近期在我国局部地区发生流行，主要通过近距离空气飞沫传播的一种呼吸道传染病，主要临床表现为肺炎，在家庭和医院有明显 ...",
+          "position": 41
+        },
+        {
+          "title": "中国儿童非典型溶血尿毒综合征临床表型和基因型分析 - 中华肾脏病杂志",
+          "link": "http://www.cjn.org.cn/CN/10.3760/cma.j.cn441217-20231206-01212",
+          "snippet": "非典型溶血尿毒综合征（atypical hemolytic uremic syndrome，aHUS）是一种罕见且易危及生命的疾病，发病率约为（0.25～2.00）/100万人［1-3］，呈散发或家族性发病 ...",
+          "date": "2023年12月6日",
+          "position": 42
+        },
+        {
+          "title": "北京市东城区传染性非典型肺炎疫情分析 - 中国公共卫生",
+          "link": "https://www.zgggws.com/cn/article/id/17342",
+          "snippet": "引用本文: 陈立泉, 张海艳, 黄辉, 王旭红, 马立宪, 崔玲玲, 徐文彩. 北京市东城区传染性非典型肺炎疫情分析[J]. 中国公共卫生, 2003, 19(9): 1036-1037.",
+          "position": 43
+        },
+        {
+          "title": "晋城市人民政府关于印发《晋城市传染性非典型肺炎应急预案》的通知",
+          "link": "https://xxgk.jcgov.gov.cn/jcsrmzf/zc/jszf/202101/t20210121_1343055.shtml",
+          "snippet": "发生非典疫情暴发、流行时，报经上一级人民政府批准，可采取疫区隔离和封锁措施。未发生疫情的县认真做好来自疫区人员的筛查工作，及时在与疫区相通的火车站、汽车站以及各 ...",
+          "position": 44
+        },
+        {
+          "title": "转发省知识产权局关于加强防治传染性非典型肺炎 ... - 广东省人民政府",
+          "link": "http://www.gd.gov.cn/gkml/content/post_137286.html",
+          "snippet": "转发省知识产权局关于加强防治传染性非典型肺炎科研成果知识产权保护意见的通知. 各市、县、自治县人民政府，省府直属有关单位： 省知识产权局《关于 ...",
+          "date": "2003年6月6日",
+          "position": 45
+        },
+        {
+          "title": "非典型性肺炎事件的法学与社会学思考 - 法信",
+          "link": "https://www.faxin.cn/lib/Flwx/FlqkContent.aspx?gid=F138599&libid=040103",
+          "snippet": "在突发事件出现之后，如何使信息受众在第一时间之内获得准确全面的信息，使媒体和商家在伦理与法律的维度之内正常作为，政府能够对公共秩序进行有效控制从而使民众权利不被 ...",
+          "position": 46
+        },
+        {
+          "title": "金华经济技术开发区防治传染性非典型肺炎应急预案",
+          "link": "http://kfq.jinhua.gov.cn/art/2015/7/11/art_1229098091_1673632.html",
+          "snippet": "一、总则. 为科学、规范、有效地预防和控制传染性非典型肺炎疫情，指导各地做到“早发现、早报告、早隔离、早治疗”，把疫情控制在最小范围，尽最大可能 ...",
+          "date": "2015年7月11日",
+          "position": 47
+        },
+        {
+          "title": "非典型性脑膜瘤是什么？非典型性脑膜瘤生存期多久？ - 胶质瘤",
+          "link": "https://m.incsg.com/naoliu/1644.html",
+          "snippet": "大多数（65-80%）为良性生长缓慢病变（WHO I级），治疗后5年无病生存率为80-90%。其余的亚型是非典型（WHO II级）和恶性脑膜瘤（WHO III级），它们具有更具侵袭性的 ...",
+          "date": "2022年4月12日",
+          "position": 48
+        },
+        {
+          "title": "非典型肺炎有一定的传染性，可通过空气飞沫近距离传播",
+          "link": "https://www.crrc.com.cn/Html/News/Articles/10303.html",
+          "snippet": "非典型肺炎没有人们想像的那样可怕，只要及时发现，及早治疗，是可以预防和治愈的。春季本身就是病毒性感冒和其他呼吸系统感染的高发时期，病毒的种类繁多，关键在于预防 ...",
+          "position": 49
+        },
+        {
+          "title": "传染性非典型肺炎-南充市疾病预防控制中心",
+          "link": "https://www.nanchong.gov.cn/jkzx/gzzd/crbdt/201806/t20180622_1681506.html",
+          "snippet": "概述：严重急性呼吸综合征（Severe Acute Respiratory Syndromes），又称传染性非典型肺炎，简称SARS，是一种因感染SARS冠状病毒引起的新的呼吸系统传染性 ...",
+          "date": "2018年6月22日",
+          "position": 50
+        },
+        {
+          "title": "传染性非典型肺炎 - 北京市海淀医院",
+          "link": "https://www.hdhospital.com/Html/Mobile/Diseases/Main/Index_1359.html",
+          "snippet": "传染性非典型肺炎，又称为重症急性呼吸综合征(SARS), 为一种由SARS冠状病毒(SARS-CoV)引起的急性呼吸道传染病，世界卫生组织(WHO)将其命名为重症急性呼吸综合征。",
+          "position": 51
+        },
+        {
+          "title": "对参与染性非典型肺炎防治工作发生疾病、残疾 - 拉萨市卫生健康委员会",
+          "link": "https://jkw.lasa.gov.cn/wswyh/xzjf/202010/7afcfcf8563d4a95b0dc352960c4f274.shtml",
+          "snippet": "职权类型：, 行政给付, 法定期限：, 0. 职权名称：, 对参与染性非典型肺炎防治工作发生疾病、残疾、死亡的人员，给予相应的补助和抚恤, 职权编码：, 22LSWJWJF-4.",
+          "position": 52
+        },
+        {
+          "title": "我馆新闻发言人就非典型性肺炎向沙媒体发表讲话",
+          "link": "http://sa.china-embassy.gov.cn/xwdt/xw2003n12y/200304/t20030403_1993973.htm",
+          "snippet": "2003年4月3日，我馆新闻发言人就中国及一些国家和地区流行非典型性肺炎进行了解释和说明，指出： “今年年初，中国广东省一些地区出现非典型性肺炎。据 ...",
+          "date": "2003年4月3日",
+          "position": 53
+        },
+        {
+          "title": "科技部等部门共同制定了《传染性非典型肺炎病毒研究实验室暂行 ...",
+          "link": "https://www.most.gov.cn/ztzl/ykkjzsfd/yggd/200305/t20030513_10709.html",
+          "snippet": "为加强对从事非典型肺炎病毒研究实验室的管理，防止病毒对环境的污染，保障实验人员的安全和健康，科技部、卫生部、国家食品药品监督管理局和国家环境 ...",
+          "date": "2003年5月13日",
+          "position": 54
+        },
+        {
+          "title": "对违反《传染性非典型肺炎防治管理办法》行为的处罚 - 连山区人民政府",
+          "link": "https://www.lianshan.gov.cn/zwgk/xzqlgk/xzqlqd/xzcf/202006/t20200618_978542.html",
+          "snippet": "【规章】《传染性非典型肺炎防治管理办法》（卫生部令第35号，2003年5月12日颁布） 第三十八条有关单位和人员有下列行为之一的，由县级以上卫生行政部门 ...",
+          "date": "2022年8月23日",
+          "position": 55
+        },
+        {
+          "title": "不完全性(非典型)川崎病- UpToDate",
+          "link": "https://www.uptodate.com/contents/zh-Hans/incomplete-atypical-kawasaki-disease",
+          "snippet": "专题提纲 · 总结 · 引言 · 流行病学 · 典型川崎病与不完全性川崎病的临床表现 · 不完全性川崎病的评估 · 实验室检查 · 超声心动图 · 治疗标准 · 预后 ...",
+          "date": "2022年2月28日",
+          "position": 56
+        },
+        {
+          "title": "广州市人民政府关于加强传染性非典型肺炎防治工作的决定",
+          "link": "https://www.gz.gov.cn/zwgk/fggw/szfwj/content/post_2832968.html",
+          "snippet": "一级收治单位传染性非典型肺炎诊治专家组由7至9人组成，负责对本院和二级收治单位疑似传染性非典型肺炎病人中的疑难病例的会诊及进一步明确诊断；临床确诊 ...",
+          "date": "2003年8月26日",
+          "position": 57
+        },
+        {
+          "title": "（五）非典型性肺炎",
+          "link": "http://www.changzhou.gov.cn/zhuanti/yjsc/mydoc047.htm",
+          "snippet": "非典型性肺炎（SARS）是一种由新型冠状病毒引起的严重急 性呼吸道症候群。主要通过近距离呼吸道飞沫、直接接触病人呼吸道分泌物及密切接触传播。非典型性肺炎的症状是 ...",
+          "position": 58
+        },
+        {
+          "title": "非典型股骨骨折后的死亡率：一项队列研究",
+          "link": "https://onlinelibrary.wiley.com/pb-assets/assets/15234681/Chinese_doi10.1002jbmr.2767.pdf",
+          "snippet": "摘要. 虽然双膦酸盐类药物可以降低骨质疏松性骨折的发生率，但旷日持久的治疗成为非典型股骨骨折的高危因素。普通. 脆性骨折具有高死亡率。我们试图探讨非典型股骨骨折 ...",
+          "position": 59
+        },
+        {
+          "title": "关于发布《防治传染性非典型肺炎药物研究的基本技术要求》的通知",
+          "link": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/fgwj/gzwj/gzwjyp/20030516010101820.html",
+          "snippet": "食药监注函[2003]14号 ... 为促进防治传染性非典型肺炎药物开发研究，规范其临床前和临床研究，切实提高开发研究和审批速度，根据《药品注册管理办法》的有关 ...",
+          "date": "2003年5月16日",
+          "position": 60
+        },
+        {
+          "title": "上海市人民政府关于对从发生传染性非典型肺炎病例地区返沪人员 ...",
+          "link": "https://www.shanghai.gov.cn/nw9724/20200906/0001-9724_672.html",
+          "snippet": "为了防止传染性非典型肺炎（以下简称“非典”）在本市蔓延，控制和阻断“非典”病源，保障公众生命安全和身体健康，根据《中华人民共和国传染病防治法》（以下简称《防治法》 ...",
+          "position": 61
+        },
+        {
+          "title": "非典型痣- 皮肤癌基金会",
+          "link": "https://www.skincancer.org/zh-CN/risk-factors/atypical-moles/",
+          "snippet": "如有疑问，请查看： 您的皮肤科医生将确定您的色素性病变是非典型痣还是黑色素瘤，并为您提供有关后续步骤的详细信息。 图片：要注意什么. 图片非典型痣. 具有不对称 ...",
+          "position": 62
+        },
+        {
+          "title": "一例非典型的快速进展性痴呆",
+          "link": "https://www.alzcn.com/CN/10.3969/j.issn.2096-5516.2022.04.010",
+          "snippet": "... 男性，隐袭起病，病情进行性加重，临床表现为走路不稳、性格改变，后期出现认知功能下降。颅脑MRI 可见双侧基底节、丘脑、额顶叶皮层多发对称性 ... 一例非典型的快速进展性痴呆.",
+          "position": 63
+        },
+        {
+          "title": "非典型性进食障碍_百度百科",
+          "link": "https://baike.baidu.com/item/%E9%9D%9E%E5%85%B8%E5%9E%8B%E6%80%A7%E8%BF%9B%E9%A3%9F%E9%9A%9C%E7%A2%8D/22542927",
+          "snippet": "非典型性进食障碍，是指病情较轻的进食障碍(神经性厌食症)。发病高峰年龄13～20岁，好发于女性。中学生、大学生是高危人群。中国女中学生检出率为1.1l%，女大学生检出 ...",
+          "position": 64
+        },
+        {
+          "title": "对于非典型溶血性尿毒综合征，最有效的治疗方法是什么？ - Cochrane",
+          "link": "https://www.cochrane.org/zh-hans/CD012862/RENAL_dui-yu-fei-dian-xing-rong-xie-xing-niao-du-zong-he-zheng-zui-you-xiao-de-zhi-liao-fang-fa-shi-shi",
+          "snippet": "溶血性尿毒综合征中罕见的一种被称为非典型溶血性尿毒综合征（atypical HUS, aHUS），它是一种更具侵袭性的疾病。一般由遗传或者获得性蛋白质异常引起。这些 ...",
+          "date": "2021年9月3日",
+          "position": 65
+        },
+        {
+          "title": "[PDF] 危机社会的性别反思：香港“非典型肺炎”的经验 - CORE",
+          "link": "https://core.ac.uk/download/61165708.pdf",
+          "snippet": "“危机社会”议题的出现，是源于现代社会的生. 产方式及生活模式，制造了不少社会危机，例如环境. 污染、疾病和失业等。香港近年社会所发生一连串事. 件，包括“非典型肺炎”、 ...",
+          "position": 66
+        },
+        {
+          "title": "继发性和非典型帕金森 - 默沙东诊疗手册",
+          "link": "https://www.msdmanuals.cn/professional/neurologic-disorders/movement-and-cerebellar-disorders/secondary-and-atypical-parkinsonism",
+          "snippet": "继发性和非典型帕金森——默沙东诊疗手册（医学专业人士版）中的病因学、病理生理学、症状、体征、诊断和预后。",
+          "position": 67
+        },
+        {
+          "title": "传染性非典型肺炎防治问答之一-清华大学",
+          "link": "https://www.tsinghua.edu.cn/info/1998/77572.htm",
+          "snippet": "传染性非典型肺炎（本书以下简称为非典型肺炎，atypical pneumonia，AP）是指从2002年11月起，我国局部地区发生的、至今原因不明的、主要以近距离空气飞沫和密切接触传播为主的 ...",
+          "position": 68
+        },
+        {
+          "title": "转发全国防治非典型肺炎指挥部办公室关于加强宣传认真贯彻公众 ...",
+          "link": "http://yjt.shandong.gov.cn/zfgw/201810/t20181025_2259372.html",
+          "snippet": "各省、自治区、直辖市民政府，国务院各部门、各直属机构： 卫生部于4月29日公布了《公众预防传染性非典型肺炎指导原则》、5月7日公布了《公共场所预防传染性 ...",
+          "date": "2003年5月23日",
+          "position": 69
+        },
+        {
+          "title": "新疆自治区关于   强农牧区   染性非典型肺炎防治工作的通知 - AsianLII",
+          "link": "http://www.asianlii.org/chi/cn/legis/xj/laws/68ec9d821bef409a75332cf2742fac506cbd2ad0/",
+          "snippet": "各级党委和政府要把农牧区传染性非典型肺炎防治工作摆在一个十分突出的位置，加强领导，健全组织机构，明确各级责任，落实到人。自治区防非典领导小组已明确一 ...",
+          "date": "2003年5月10日",
+          "position": 70
+        },
+        {
+          "title": "原发性食管非典型纤维黄色瘤的临床病理特征",
+          "link": "https://www.wjgnet.com/1009-3079/full/v18/i28/3020.htm",
+          "snippet": "非典型纤维黄色瘤(atypical fibrous xanthoma, AFX)系指纤维组织细胞发生的良性肿瘤[1], 1963年由Helwig首次报道, 1973年Helwig再次总结了AFX的临床病理学特点, 此后AFX ...",
+          "position": 71
+        },
+        {
+          "title": "非典型性强奸案件的认定与审查标准 - 江苏检察网",
+          "link": "https://jsjc.gov.cn/qingfengyuan/202311/t20231117_1568598.shtml",
+          "snippet": "热恋期的男女朋友，在男性尝试性提出发生性关系时，多数女性一般会先表达拒绝，最终也多是碍于双方之间的情侣关系而与之发生性关系。如果采用肯定性同意标准， ...",
+          "date": "2023年11月17日",
+          "position": 72
+        },
+        {
+          "title": "非典型溶血性尿毒综合征的治疗- Pugh, D - 2021 | Cochrane Library",
+          "link": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012862.pub2/full/zh_HANS",
+          "snippet": "在罹患该病的患者中，几乎有一半人的年龄小于18岁。在过去，aHUS的诊断和预后不良有关，患者通常会恶化发展成为肾功能衰竭以及死亡。近年来，对于这种疾病的 ...",
+          "date": "2021年3月30日",
+          "position": 73
+        },
+        {
+          "title": "“非典型性”上涨冲昏了谁的头脑-债劵 - 广发银行",
+          "link": "https://m.cgbchina.com.cn/bondscontent.gsp?kind=bond!getNews.action?news_id=&bondNewId=6554931",
+          "snippet": "沪深两市的巨额成交量更是将2007年大牛市时的成交量踩在脚下。 这种走势并非“常态”，堪称是一轮“非典型性”上涨行情。行情牛气十足，疯气也十足，让参与其中的 ...",
+          "date": "2014年12月5日",
+          "position": 74
+        },
+        {
+          "title": "乳腺非典型增生- 症状与病因- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/diseases-conditions/atypical-hyperplasia/symptoms-causes/syc-20369773",
+          "snippet": "非典型增生是可导致乳腺细胞非癌性生长的几种状况之一。这些状况有时称为良性乳腺疾病。医务人员已经发现一些良性乳腺疾病的风险因素。其中包括：. 乳腺癌 ...",
+          "date": "2024年5月29日",
+          "position": 75
+        },
+        {
+          "title": "一种非典型性荧光材料琥珀酰亚胺衍生物的制备方法和应用",
+          "link": "https://patents.google.com/patent/CN104860865A/zh",
+          "snippet": "荧光材料凭借其优异的光学性能，被广泛应用于蛋白标记、细菌检测、重金属离子的筛查等科学领域，并提供荧光光物理过程的新见解。一般来说，荧光材料是通过功能化具有共轭结构 ...",
+          "position": 76
+        },
+        {
+          "title": "杭州市人民政府关于进一步加强传染性非典型肺炎防治工作的决定",
+          "link": "https://www.hangzhou.gov.cn/art/2019/7/29/art_1671542_6141.html",
+          "snippet": "为切实加强传染性非典型肺炎的防治工作,根据《中华人民共和国传染病防治法》等有关法律的规定,针对当前我市的疫情,市政府决定采取以下措施: 一、对进 ...",
+          "date": "2019年7月29日",
+          "position": 77
+        },
+        {
+          "title": "标签：“非典型溶血性尿毒症综合征” - 生物谷",
+          "link": "https://www.bioon.com/tags/%E9%9D%9E%E5%85%B8%E5%9E%8B%E6%BA%B6%E8%A1%80%E6%80%A7%E5%B0%BF%E6%AF%92%E7%97%87%E7%BB%BC%E5%90%88%E5%BE%81/",
+          "snippet": "Ultomiris新适应症获欧盟批准：治疗非典型溶血性尿毒综合(aHUS)！ Ultomiris是全球首个也是唯一一个长效C5补体抑制剂，目前正评估治疗新冠肺炎！ 2020-06-29 ...",
+          "position": 78
+        },
+        {
+          "title": "制定了《教育系统预防与控制传染性非典型肺炎工作预案》。",
+          "link": "https://hudong.moe.gov.cn/jyb_xxgk/gk_gbgg/moe_0/moe_9/moe_39/tnull_110.html",
+          "snippet": "传染性非典型肺炎(以下简称非典)是一种由新型变异冠状病毒引起的传染性强的呼吸系统疾病，世界卫生组织称其为严重急性呼吸综合征(Severe Acute Respiratory Syndrome，SARS)， ...",
+          "position": 79
+        },
+        {
+          "title": "卫生部关于加强预防传染性非典型肺炎工作的通知 - 中国改革开放数据库",
+          "link": "http://www.reformdata.org/2003/1028/21942.shtml",
+          "snippet": "党中央、国务院高度重视防治传染性非典型肺炎工作。最近，胡锦涛总书记、温家宝总理又多次强调，要认真制定和落实预防措施，坚决防止非典反复。10月9日， ...",
+          "date": "2003年10月28日",
+          "position": 80
+        },
+        {
+          "title": "非典型肺炎并不可怕----中国科学院",
+          "link": "https://www.cas.cn/zt/kjzt/fdgx/cs/200304/t20030403_1710333.shtml",
+          "snippet": "肺炎按病因可分为细菌性肺炎、病毒性肺炎以及由支原体、衣原体、军团杆菌感染引起的非典型肺炎。其中，人们对非典型肺炎并不是很了解。非典型肺炎是相对于 ...",
+          "date": "2003年4月3日",
+          "position": 81
+        },
+        {
+          "title": "东城区传染性非典型肺炎密切接触者发病情况分析 - 疾病监测",
+          "link": "http://www.jbjc.org/article/doi/10.3784/j.issn.1003-9961.2003.10.371",
+          "snippet": "引用本文: 黄剑辉, 张威威, 陈立泉, 王旭红, 谈春洁, 蒋茗, 余晓辉. 东城区传染性非典型肺炎密切接触者发病情况分析[J]. 疾病监测, 2003, 18(10): 371-373.",
+          "position": 82
+        },
+        {
+          "title": "非典型猴痘是否为性传播疾病? - 中国热带医学",
+          "link": "http://www.cntropmed.com/article/2023/1009-9727-23-1-90.html",
+          "snippet": "非典型猴痘暴发所涉及的大多数病例与性行为相关,但关于猴痘是否为性传播疾病目前无明确共识,我国目前发行的猴痘诊疗指南尚不排除猴痘为性传播疾病。本综述从猴痘的病例定义 ...",
+          "position": 83
+        },
+        {
+          "title": "典型与非典型表现的特应性皮炎- 中华皮肤科杂志",
+          "link": "https://rs.yiigle.com/cmaid/1444884",
+          "snippet": "特应性皮炎（atopic dermatitis，AD）是一种高度异质性的皮肤病，临床表现差异大，除表现为屈侧湿疹样皮炎伴过敏体质的典型表现的AD之外，还有大量需要仔细辨别 ...",
+          "date": "2023年1月15日",
+          "position": 84
+        },
+        {
+          "title": "卫生部部长张文康关于防治非典型肺炎答记者问 - 驻里约热内卢总领事馆",
+          "link": "http://riodejaneiro.china-consulate.gov.cn/chn/zlghd/200304/t20030402_4983596.htm",
+          "snippet": "而典型肺炎是指由肺炎链球菌等常见细菌引起的大叶性肺炎或支气管肺炎。 非典型肺炎主要通过近距离空气飞沫和密切接触传播，是一种呼吸道急性传染病。其临床 ...",
+          "date": "2003年4月2日",
+          "position": 85
+        },
+        {
+          "title": "加强“三联征”识别，实现非典型溶血性尿毒症综合征早诊早治 - 新京报",
+          "link": "https://m.bjnews.com.cn/detail/1727178146168185.html",
+          "snippet": "非典型溶血性尿毒症综合征（aHUS）是一种罕见的补体介导的血栓性微血管病（TMA），起病急骤且危及生命。然而由于疾病的罕见性，临床认知有待提高，导致患者易 ...",
+          "date": "2024年9月24日",
+          "position": 86
+        },
+        {
+          "title": "传染性非典型肺炎 - 黑龙江省疾病预防控制中心",
+          "link": "http://www.hljcdc.org/pc/index.php?c=hdjldetail&a=index&id=3432",
+          "snippet": "传染性非典型肺炎是一种急性的呼吸系统感染，世界卫生组织（WHO）将其名称公布为严重急性呼吸道症候群（SARS）。SARS是由一种新病原引起的，临床主要表现为肺炎， ...",
+          "date": "2018年1月30日",
+          "position": 87
+        },
+        {
+          "title": "传染性非典型肺炎防治管理办法 - 司法部",
+          "link": "https://www.moj.gov.cn/pub/sfbgw/flfggz/flfggzbmgz/200407/t20040715_143660.html",
+          "snippet": "第一条 为了有效预防和控制传染性非典型肺炎（严重急性呼吸综合症）的发生与流行，保障公众的身体健康和生命安全，根据《中华人民共和国传染病防治法》（以下 ...",
+          "date": "2004年7月15日",
+          "position": 88
+        },
+        {
+          "title": "姚辉，李付雷：非典型担保的裁判规则- 学术前沿 - 民商法律网",
+          "link": "https://www.civillaw.com.cn/t/?id=36303",
+          "snippet": "在物权法定主义下，市场主体借由担保制度创造信用、降低授信风险，进而实现融通资金、活跃经济的创新性担保手段只能被称为非典型担保。非典型担保的概念 ...",
+          "date": "2019年12月30日",
+          "position": 89
+        },
+        {
+          "title": "非典型性委托理财的相关问题初探 - 法信",
+          "link": "https://www.faxin.cn/lib/Flwx/FlqkContent.aspx?gid=F67694",
+          "snippet": "这里我们就再使用一次“非典型性”这个词，来诠释一个当下正在流行的概念—“委托理财”。 “非典型性”是相对于“典型性”而言的，由于一种事物缺乏相关的典型特征，无法将其归入现有 ...",
+          "position": 90
+        },
+        {
+          "title": "起底季建业“非典型性”受贿：案发前订立攻守同盟 - 时政",
+          "link": "http://politics.people.com.cn/n/2015/0408/c70731-26815209.html",
+          "snippet": "起底季建业“非典型性”受贿“行政法学博士”订立攻守同盟4月7日,烟台市中级人民法院公开宣判原南京市长季建业受贿一案,季建业被判有期徒刑15年, ...",
+          "date": "2015年4月8日",
+          "position": 91
+        },
+        {
+          "title": "传染性非典型肺炎家庭内传播研究 - 中华疾病控制杂志",
+          "link": "https://zhjbkz.ahmu.edu.cn/article/id/JBKZ200501014",
+          "snippet": "摘要: 通过描述严重急性呼吸综合征(SARS)家庭聚集性病例的流行病学特征,探讨家庭因素在本病传播中的作用,为制定防治措施提供理论依据。",
+          "position": 92
+        },
+        {
+          "title": "非典型性帕金森样病",
+          "link": "https://journal11.magtechjournal.com/cjcnn/CN/lexeme/showArticleByLexeme.do?articleID=169",
+          "snippet": "非典型性帕金森样病. 黄越，陈生弟，Gregor Wenning，等. Atypical parkinsonian disorders. HUANG Yue, CHEN Shengdi, Gregor Wenning, et al. 中国现代神经疾病杂志 ...",
+          "position": 93
+        },
+        {
+          "title": "银幕“侠女”郑佩佩曾被诊断为非典型帕金森，起病隐匿目前尚无特效药",
+          "link": "https://m.yicai.com/news/102198045.html",
+          "snippet": "郑佩佩曾于2019年被诊断患有神经退行性非典型帕金森综合征，这是一种罕见病，也叫做“皮质基底节变性”(CBD)，症状与帕金森病相似，但目前的治疗方法无法减缓病情发展。",
+          "position": 94
+        },
+        {
+          "title": "关于印发《传染性非典型肺炎病毒的毒种保存 - 上海市科学技术委员会",
+          "link": "https://stcsm.sh.gov.cn/zwgk/tzgs/zhtz/20030513/0016-150164.html",
+          "snippet": "为保证传染性非典型肺炎（又称为严重急性呼吸综合征）研究工作的顺利开展，加强从事非典型肺炎病毒研究实验室的管理，防止病毒对环境的污染，保障实验人员的 ...",
+          "date": "2003年5月13日",
+          "position": 95
+        },
+        {
+          "title": "关于在防治传染性非典型肺炎工作中充分发挥共产党员先锋模范作用 ...",
+          "link": "http://www.suda.edu.cn/suda_news/sdyw/200305/D4CC9EEF-46A5-439D-A14E-3A8DF6045BB1.html",
+          "snippet": "各党委（工委）、总支： 为了进一步做好传染性非典型肺炎（以下简称“非典”）的防治工作，积极响应省委、省政府和市委、市政府的号召，各级党组织要从讲政治、讲稳定、讲大局的 ...",
+          "position": 96
+        },
+        {
+          "title": "[PDF] 变性人和非二元性别客户的姓名和性别变更常见问题(FAQ)",
+          "link": "https://www.nyc.gov/assets/hra/downloads/pdf/services/lgbtqi/HRA-138b-SC.pdf",
+          "snippet": "... 性别指的是既非男性也非女性的性别认同。 • “两性人”包含多种情况，指的是人具有对男性或女性来说非典型的生物学特征。 注：并非所有的两性人都认定自己是“非二元”性别。 对 ...",
+          "position": 97
+        },
+        {
+          "title": "关于做好流动性经商务工人员传染性非典型肺炎防治工作的紧急通知",
+          "link": "http://www.jincao.com/fa/feidian/fdfl.087.htm",
+          "snippet": "5月中旬以来，全国传染性非典型肺炎疫情呈平稳下降趋势，各地经商务工人员陆续外出工作，跨地区流动人口数量明显增加。为防止经商务工人员流动引起传染性非典型肺炎的传播 ...",
+          "position": 98
+        },
+        {
+          "title": "非典型性和恶性(WHO 2级和3级)脑膜瘤的治疗- UpToDate",
+          "link": "https://www.uptodate.com/contents/zh-Hans/management-of-atypical-and-malignant-who-grade-2-and-3-meningioma",
+          "snippet": "图表 · 表. - CBTRUS incidence of primary CNS tumors · 图. - Incidence rates of primary brain tumors · 影像. - Right frontal grade 3 (malignant) ...",
+          "date": "2024年8月12日",
+          "position": 99
+        }
+      ],
+      "images": [
+        {
+          "title": "典型和非典型性发育的遗传控制- X-MOL",
+          "imageUrl": "https://xpic.x-mol.com/20230405%2F10.1038_s41585-023-00754-x.PNG",
+          "link": "https://www.x-mol.com/paper/1643644272264359936/t"
+        },
+        {
+          "title": "非典型性脑膜瘤是什么？非典型性脑膜瘤生存期多久？-国际神经外科医生集团",
+          "imageUrl": "https://www.incsg.com/uploads/allimg/220412/1-2204121J1134K.jpg",
+          "link": "https://m.incsg.com/naoliu/1644.html"
+        },
+        {
+          "title": "肺非典型性孤立性纤维性肿瘤伴肺性骨病一例",
+          "imageUrl": "https://rs.yiigle.com/imgcontent.jspx?r=r/cms/jiehe/articleFiles/2014/37/06/images/1001-0939-37-06-019-F001c.png",
+          "link": "https://rs.yiigle.com/Cn112147201406/860051.htm"
+        },
+        {
+          "title": "传染性非典型肺炎病毒的毒种保存、使用和感染动物模型的暂行管理办法",
+          "imageUrl": "x-raw-image:///e84cdb6250c0babdb287be35a54084de2e6e5508c9ede25234550825eddc8261",
+          "link": "https://ivdc.chinacdc.cn/sysgl/swaq/fgbz/201203/P020120322523817274653.pdf"
+        },
+        {
+          "title": "非典型性男人_百度百科",
+          "imageUrl": "https://bkimg.cdn.bcebos.com/smart/cefc1e178a82b90123f47b7b7e8da9773912ef19-bkimg-process,v_1,rw_1,rh_1,pad_1,color_ffffff?x-bce-process=image/format,f_auto",
+          "link": "https://baike.baidu.com/item/%E9%9D%9E%E5%85%B8%E5%9E%8B%E6%80%A7%E7%94%B7%E4%BA%BA/14805082"
+        },
+        {
+          "title": "中国儿童非典型溶血尿毒综合征诊治专家共识(2023版)",
+          "imageUrl": "https://rs.yiigle.com/imgsource.jspx?r=r/cms/zhsyeklczz/articleFiles/2023/38/06/images/2095-428X-38-06-001-F003.png",
+          "link": "https://rs.yiigle.com/CN101070202306/1460313.htm"
+        },
+        {
+          "title": "广州市传染性非典型肺炎流行病学分析",
+          "imageUrl": "https://www.zgggws.com/fileZGGGWS/journal/article/zgggws/2004/2/20040203-T1.jpg",
+          "link": "https://www.zgggws.com/article/id/16897"
+        },
+        {
+          "title": "中国儿童非典型溶血尿毒综合征诊治专家共识(2023版)",
+          "imageUrl": "https://rs.yiigle.com/imgsource.jspx?r=r/cms/zhsyeklczz/articleFiles/2023/38/06/images/2095-428X-38-06-001-T002c.png",
+          "link": "https://rs.yiigle.com/CN101070202306/1460313.htm"
+        },
+        {
+          "title": "非典型性恋爱》以雨_晋江文学城_【原创小说|纯爱小说】",
+          "imageUrl": "https://i9-static.jjwxc.net/novelimage.php?novelid=3375624&coverid=23&ver=678a5d423fc06690b0ec5b426ef85346",
+          "link": "http://www.jjwxc.net/onebook.php?novelid=3375624"
+        }
+      ],
+      "peopleAlsoAsk": [
+        {
+          "question": "非典型是什么意思？",
+          "snippet": "“非典型”是指具有以下特点的一类药物：在抗精神病临床有效剂量下产生的锥体外系副作用(extrapyramidal side effects, EPS)轻微，长期用药引起迟发性运动障碍(tardive dyskinesia, TD)的倾向较小，并且对精神分裂症的阳性和阴性症状及体征均有效[1]。",
+          "title": "第二代(非典型)抗精神病药中毒- UpToDate",
+          "link": "https://www.uptodate.com/contents/zh-Hans/second-generation-atypical-antipsychotic-medication-poisoning/print"
+        },
+        {
+          "question": "非典型淋巴球 是什么？",
+          "snippet": "2.Atypical lymphocyte(非典型淋巴球)在感冒,病毒感染,慢性疾病,甚至正常人體的血液中,都可能存在的;它可能是人體對抗感染所產生的淋巴球增生,導致一些過渡型的淋巴球被看見,也就是非典型淋巴球.",
+          "title": "衛生福利部【台灣e院】-家醫科 常見問題",
+          "link": "https://sp1.hso.mohw.gov.tw/doctor/Often_question/type_detail.php?UrlClass=%AEa%C2%E5%AC%EC&GuestFilter=Hs"
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "非典型性别",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "广州市传染性非典型肺炎流行病学分析 - 中国公共卫生",
+          "link": "https://www.zgggws.com/article/id/16897",
+          "snippet": "Study on epidemiology for SARS in Guangzhou · 摘要: · 广州市严重急性呼吸综合症(SARS, 非典型肺炎) 疫情从2003年1月初报告首例临床确诊本地病例, 到5月上旬最后1例确诊 ...",
+          "position": 1
+        },
+        {
+          "title": "关于围绕防治“传染性非典型肺炎”要求做好计划生育技术服务工作的意见",
+          "link": "https://www.changzhou.gov.cn/gi_news/133993738817368",
+          "snippet": "将药具发放与防治“非典”工作有机结合，各地应提供足够的外用避孕药具，保证满足返乡群众及流动人员的药具需求；对暂不落实长效避孕节育措施的已婚育龄群众，可经“知情选择”选取 ...",
+          "position": 2
+        },
+        {
+          "title": "北方交通大学预防“非典型性肺炎”网络知识竞赛成功举行",
+          "link": "http://news.bjtu.edu.cn/info/1044/12727.htm",
+          "snippet": "防治“非典型肺炎”既是当前举国上下面临的一项重大政治任务，也是新世纪我们在校大学生面临的一个巨大挑战。 · 为了庆祝“五、四”青年节，增加同学们的预防非典型性肺炎（SARS）的 ...",
+          "position": 3
+        },
+        {
+          "title": "公众预防传染性非典型肺炎指导原则 - 湖南省卫生健康委员会",
+          "link": "https://wjw.hunan.gov.cn/wjw/ztzl/knowledge/jkkpzs/crxjb/201601/t20160120_4043736.html",
+          "snippet": "公众预防传染性非典型肺炎指导原则 ... 最有效的预防措施： 生活、工作场所通风；注意个人卫生。 其他有效措施：. 1、不与患者或疑似患者接触；. 2、用肥皂和 ...",
+          "date": "2016年1月20日",
+          "position": 4
+        },
+        {
+          "title": "非典型增生_百度百科",
+          "link": "https://baike.baidu.com/item/%E9%9D%9E%E5%85%B8%E5%9E%8B%E5%A2%9E%E7%94%9F/4058809",
+          "snippet": "非典型性增生（dysplasia，atypical hyperplasia）是病理学的名词，主要指上皮细胞异乎常态的增生，表现为增生的细胞大小不一，形态多样，核大而浓染，核浆比例增大， ...",
+          "position": 5
+        },
+        {
+          "title": "危机社会的性别反思：香港应对非典型肺炎的经验 - 皮书数据库",
+          "link": "https://www.pishu.com.cn/skwx_ps/initDatabaseDetail?contentId=10292876&siteId=14&contentType=literature",
+          "snippet": "下载次数： 100. 下载阅读 在线阅读 原版阅读 生成引文. 摘要. 本文以香港非典型肺炎危机为研究个案，讨论在社会危机下妇女所扮演的角色，并从性别角度检视了当今的社会 ...",
+          "position": 6
+        },
+        {
+          "title": "间性人的自白：“我是一个会来月经的男孩” - BBC News 中文",
+          "link": "https://www.bbc.com/zhongwen/simp/science-54970542",
+          "snippet": "间性人是一些同时拥有不同性征的人，他们很多时小时候就被父母或医生强行决定其性别。三个间性人接受BBC访问，分享了他们的挣扎和寻求自我的故事。",
+          "date": "2020年11月23日",
+          "position": 7
+        },
+        {
+          "title": "[PDF] 非典型队长 - 心血管病学分会",
+          "link": "https://csc.cma.org.cn/attach/0/f229c87d8e9b48b7bd65629dda4dccdc.pdf",
+          "snippet": "... 性的。而在我们队，若不是真. 心认可队长，怎么会不管年龄大小，全队都喊一声“陈队”“柱哥”？ 陈国柱，第11 批援巴布亚新几内亚医疗队队长，这个“非典型”的医疗队. 队长 ...",
+          "position": 8
+        },
+        {
+          "title": "非典型抗精神病药物不良反应的性别差异",
+          "link": "http://www.cadrj.com/CN/Y2008/V10/I2/110",
+          "snippet": "常用的非典型抗精神病药物有：阿立哌唑、氯氮平、奥氮平、奎硫平、利培酮及齐拉西酮。非典型抗精神病药物的药代动力学和不良反应均有性别差异。女性的CYP1A2酶的活性较 ...",
+          "position": 9
+        },
+        {
+          "title": "原发性食管非典型纤维黄色瘤的临床病理特征",
+          "link": "https://www.wjgnet.com/1009-3079/full/v18/i28/WCJD-18-3020-g002.htm",
+          "snippet": "原发性食管非典型纤维黄色瘤的临床病理特征.",
+          "position": 10
+        },
+        {
+          "title": "非典型帕金森综合征你了解吗？ - 福建省卫生健康委员会",
+          "link": "https://wjw.fujian.gov.cn/xxgk/gzdt/mtbd/202408/t20240801_6493292.htm",
+          "snippet": "皮质基底节变性的发病年龄一般为60～80岁，起病隐匿，临床症状多样，且随病情进展不断变化，早期诊断有极大的挑战，以现有的医学手段无法治愈。 在神经退行性 ...",
+          "date": "2024年8月1日",
+          "position": 11
+        },
+        {
+          "title": "关于防治“非典”期间执行医用一次性防护服和医用防护口罩国家标准 ...",
+          "link": "https://www.nmpa.gov.cn/directory/web/nmpa/xxgk/fgwj/gzwj/gzwjylqx/20030523010101212.html",
+          "snippet": "国食药监械[2003]68号 ... 各省、自治区、直辖市药品监督管理局：. 2003年5月11日，全国防治非典型肺炎指挥部后勤保障组发布《关于防治非典型肺炎期间执行医用 ...",
+          "date": "2003年5月23日",
+          "position": 12
+        },
+        {
+          "title": "性別化的傷疤效果？檢視非典型工作經驗對於臺灣受雇者 ... - 月旦知識庫",
+          "link": "http://lawdata.com.tw/tw/detail.aspx?no=443909",
+          "snippet": "何思瑩,柯志哲,非典型工作,陷阱說,傷疤效果,工作史分析,性別差異,nonstandard work,entrapment hypothesis,scar effect,work history,,月旦知識庫-文獻檢索站， ...",
+          "position": 13
+        },
+        {
+          "title": "口服和宫内孕激素用于非典型子宫内膜增生 - Cochrane",
+          "link": "https://www.cochrane.org/zh-hans/CD009458/MENSTR_kou-fu-he-gong-nei-yun-ji-su-yong-yu-fei-dian-xing-zi-gong-nei-mo-zeng-sheng",
+          "snippet": "因此，确定LNG-IUS治疗非典型子宫内膜增生症的疗效和安全性具有重要意义。 研究特征. 本系统综述的证据发现一项随机对照试验（RCT），对比LNG-IUS和口服黄体酮治疗任何类型 ...",
+          "position": 14
+        },
+        {
+          "title": "女主外」 探討廣告中非典型性別角色對廣告效果之影響機制",
+          "link": "https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22109NSYS5691021%22.&searchmode=basic",
+          "snippet": "過去幾年，廣告廠商開始嘗試以非典型性別角色來描繪現今社會樣貌。在廣告中，男生可以被形容為溫柔親切，女生也可以是強勢冷酷的形象，不同類型的性別角色描繪或許能帶給 ...",
+          "position": 15
+        },
+        {
+          "title": "卫生部：中国传染性非典型肺炎流行及防治概况",
+          "link": "https://www.cas.cn/zt/jzt/kpzt/zkywfzfdzgx/fzcs/200306/t20030604_2666671.shtml",
+          "snippet": "本次传染性非典型肺炎流行有以下主要特点： 以肺炎为主要临床表现，部分病人可发展为严重急性呼吸综合征。 传播途径主要以近距离飞沫通过呼吸道传播和密切 ...",
+          "date": "2003年6月4日",
+          "position": 16
+        },
+        {
+          "title": "非典型男生 - 龙源期刊网",
+          "link": "http://www.qikan.com.cn/article/jkjy20231911.html",
+          "snippet": "非典型男生. ——打破刻板印象完成性别认同的心理剧 中小学心理健康教育余畅袁璐璐. 关键词：性别意识；性别认同；自我同一性；阿尼玛；阿尼姆斯. 中图分类号：G44 文献标识 ...",
+          "position": 17
+        },
+        {
+          "title": "传染性非典型肺炎防治管理办法 - 中国改革开放数据库",
+          "link": "http://www.reformdata.org/2003/0512/21941.shtml",
+          "snippet": "为了有效预防和控制传染性非典型肺炎（严重急性呼吸综合征）的发生与流行，保障公众的身体健康和生命安全，根据《中华人民共和国传染病防治法》(以下简称 ...",
+          "date": "2003年5月12日",
+          "position": 18
+        },
+        {
+          "title": "新华网：免费下载《传染性非典型肺炎防治问答》 - 清华大学",
+          "link": "https://www.tsinghua.edu.cn/info/1998/77565.htm",
+          "snippet": "新华网（ 2003-04-25 09:49:36 ）. 中国疾病预防控制中心编写. 中国协和医科大学出版社出版. 《传染性非典型肺炎防治问答》电子书免费赠送全国人民 ...",
+          "position": 19
+        },
+        {
+          "title": "[生活提示]消毒剂使用不当可能诱发非典型性哮喘 - CCTV",
+          "link": "https://tv.cctv.com/v/v1/VIDELXRTKDK9CFOll3Vckv3T200530.html",
+          "snippet": "[生活提示]消毒剂使用不当可能诱发非典型性哮喘. 更新时间：2020-05-30 08:18. 来源：央视网 ...\n时长： 0:23\n发布时间： 2020年5月30日",
+          "date": "2020年5月30日",
+          "position": 20
+        },
+        {
+          "title": "一个非典型直男对性别刻板印象的困扰(2023年4月更新) - 日记- 豆瓣",
+          "link": "https://m.douban.com/note/813772725/",
+          "snippet": "①由于幼年遭到霸凌身体严重受伤，不参与对抗性运动，只一个人跑步、游泳等，此后也没玩过lol等热门网游，从小到大的爱好都相对小众，渴望融入大众但发现和他们 ...",
+          "date": "2021年9月30日",
+          "position": 21
+        },
+        {
+          "title": "非典型性行为的特点- 性教育学 - 天山医学院",
+          "link": "https://www.tsu.tw/edu/14198.html",
+          "snippet": "非典型性行为的特点 ... 非典型性行为以往被称为性变态，主要是他们的性行为方式与常人有较大的差别，一般人认为荒诞或怪异。我们目前称之为非典型性行为，目的是更为客观和公正 ...",
+          "position": 22
+        },
+        {
+          "title": "非典型性別氣質男性教師之建制民族誌研究 - 碩博士論文網",
+          "link": "https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22109NTNT0576017%22.&searchmode=basic",
+          "snippet": "根據近年來的統計數據顯示，校園中因為非典型的性別氣質發生的排擠、歧視、霸凌事件每年都會發生，不僅僅是學生，教師也會是事件當事人的身分。",
+          "position": 23
+        },
+        {
+          "title": "非典型痴呆患者中心理治疗对抑郁和焦虑的有效性-MedSci.cn",
+          "link": "https://www.medsci.cn/article/show_article.do?id=3f6484860ef9",
+          "snippet": "非典型痴呆症患者在接受心理治疗后，抑郁和焦虑症状显著改善，其效果与常规痴呆症患者相似，但低于无痴呆患者。",
+          "date": "2天前",
+          "position": 24
+        },
+        {
+          "title": "轻盈可爱又犀利前卫，《好东西》曝导演特辑 - 紫牛新闻",
+          "link": "https://www.yangtse.com/zncontent/4115444.html",
+          "snippet": "导演表示，影片以觉醒为起点，通过新时代男女和非典型关系样态的白描，对当下我们生活中真实遇到的新问题进行全景式展开，令人十分期待这部犀利有梗、轻巧有趣 ...",
+          "date": "3天前",
+          "position": 25
+        },
+        {
+          "title": "Genetic control of typical and atypical sex development - 科研通",
+          "link": "https://www.ablesci.com/assist/detail?id=OWzDN6",
+          "snippet": "标题. Genetic control of typical and atypical sex development. 典型与非典型性别发育的遗传控制. 相关领域. 性发育障碍 先天性肾上腺增生 睾丸决定 ...",
+          "date": "1天前",
+          "position": 26
+        },
+        {
+          "title": "儿童扩散型内因性脑桥神经胶质瘤(DIPG) - Together by St. Jude",
+          "link": "https://together.stjude.org/zh-cn/about-pediatric-cancer/types/%E8%84%91%E8%84%8A%E9%AB%93%E8%82%BF%E7%98%A4/diffuse-intrinsic-pontine-glioma-dipg.html",
+          "snippet": "伴有I 型神经纤维瘤病 (NF1) 的扩散性脑干肿瘤患者也可能带病存活更长时间。但是，DIPG 的长期生存通常被认为与非典型特征或误诊相关（肿瘤实际上不是DIPG）。 阅读更 ...",
+          "position": 27
+        },
+        {
+          "title": "独特视角探讨都市男女新话题，电影《好东西》下周末京沪点映",
+          "link": "https://tidenews.com.cn/news.html?id=2943546",
+          "snippet": "电影《好东西》以觉醒为起点，通过当下男女非典型关系样态的白描，对我们生活中真实遇到的新问题进行了全景式展开。",
+          "date": "2天前",
+          "position": 28
+        },
+        {
+          "title": "如何利用数据提高论文影响力？三万篇论文揭示数据中的重组理论",
+          "link": "https://hub.baai.ac.cn/view/40716",
+          "snippet": "论文数据集组合的非典型性由Rao-Stirling指数评估得出。Rao-Stirling是一个在生态学、信息科学、科学学等领域广泛应用等非典型性度量方法。在本文中，如果 ...",
+          "date": "2天前",
+          "position": 29
+        },
+        {
+          "title": "女性主義者不是你想的那樣——《非典型女性主義者》 - 關鍵評論網",
+          "link": "https://www.thenewslens.com/article/69343",
+          "snippet": "《非典型女性主義者》是一部標準的傳記紀錄片，它並不打算告訴觀眾什麼是「女性主義」、又究竟何謂「典型女性主義者」。導演所做的，只是將鏡頭安放於 ...",
+          "date": "2017年5月26日",
+          "position": 30
+        },
+        {
+          "title": "非典型巴金森症的運動對策！ 透過肌力訓練提升活動能力 - 健康醫療網",
+          "link": "https://www.healthnews.com.tw/article/63306",
+          "snippet": "肌力體能訓練如何幫助皮質基底核退化症呢？ 肌力體能訓練目的在於增加學員肌力、肌耐力、心肺耐力、平衡、協調性、敏捷性等；合格 ...",
+          "date": "3天前",
+          "position": 31
+        },
+        {
+          "title": "川普2.0進擊白宮非典型狂人總統征途選戰打法升級| 國際 - 中央社",
+          "link": "https://www.cna.com.tw/news/aopl/202411020012.aspx",
+          "snippet": "一向擅長以煽動性言論、挑起種族及移民問題刷仇恨值的他，數天後在共和黨全代會講台上，柔聲呼籲團結，展現將危機轉化為最佳政治舞台的本能。當時正逢民主黨 ...",
+          "date": "2天前",
+          "position": 32
+        },
+        {
+          "title": "氯氮平通过抑制OCT1介导的肝脏5-HT摄取增加血浆5-HT水平 - 论文",
+          "link": "https://paper.sciencenet.cn/htmlpaper/2024/10/20241031151314271123037.shtm",
+          "snippet": "据介绍，服用非典型抗精神病药物(AAP)（尤其是氯氮平）的患者经常伴有高血糖症。 氯氮平作为研究AAP如何诱发高血糖症的代表性药物。在正常小鼠和喂食 ...",
+          "date": "4天前",
+          "position": 33
+        },
+        {
+          "title": "海南省预防和控制传染性非典型肺炎传播的决定_地方性法规",
+          "link": "https://en.hainan.gov.cn/hainan/dfxfg/200306/ca8522565dc74389933f79a3a4fb0feb.shtml?ddtab=true",
+          "snippet": "在全省人民和各级政府的共同努力下，我省预防和控制传染性非典型肺炎（以下简称“非典”）传播工作取得了阶段性胜利。为了巩固防控“非典”的成果，保障人民身体 ...",
+          "date": "2003年6月8日",
+          "position": 34
+        },
+        {
+          "title": "第二届“地球系统数值模拟科学大会” 第三轮会议通知",
+          "link": "https://earthlab.iap.ac.cn/news/387.html",
+          "snippet": "... 性和常数性保持的实现郭润：海洋模式统一动力框架的研制马洁琼：湿大 ... 非典型周期和气候突变的识别与判定崔敏：不同温升水平下温度过冲和稳定 ...",
+          "date": "3天前",
+          "position": 35
+        },
+        {
+          "title": "《好东西》发布导演特辑， 独特视角探讨当下都市男女新话题 - 网易",
+          "link": "https://www.163.com/dy/article/JFTG69AD0514R9KQ.html",
+          "snippet": "就像童话故事的结局，往往终结在“幸福生活”，但后续的生活到底是如何的，觉醒的人又会遇到怎样的新问题？电影《好东西》即以觉醒为起点，通过新时代男女和非典 ...",
+          "date": "3天前",
+          "position": 36
+        },
+        {
+          "title": "非典型",
+          "link": "https://www.seksediversiteit.nl/zh-TW/woordenlijst/atypisch/",
+          "snippet": "每個人的性別多樣性。 現在就支持我們 · 首頁 · 單詞表 · 資料來源 · 信息 · 主題 ... 非典型. Alles的0-9ABCDEFGHIJKLMNOPQRSTUVWXYZ · « 回傳術語表. 沒有 ...",
+          "date": "2024年1月6日",
+          "position": 37
+        },
+        {
+          "title": "非典型狂人總統征途川普2.0進擊白宮- 國際- 工商時報",
+          "link": "https://www.ctee.com.tw/news/20241102700284-430701",
+          "snippet": "一向擅長以煽動性言論、挑起種族及移民問題刷仇恨值的他，數天後在共和黨全代會講台上，柔聲呼籲團結，展現將危機轉化為最佳政治舞台的本能。當時正逢民主黨 ...",
+          "date": "2天前",
+          "position": 38
+        },
+        {
+          "title": "9种罕见病医保新政策落地 - 财经头条",
+          "link": "https://cj.sina.com.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fjjxw%2F2024-11-03%2Fdoc-incuutwu4052339.shtml&finpagefr=w_110",
+          "snippet": "... 性睡眠性血红蛋白尿、非典型溶血性尿毒症、结节性硬化症、发作性睡病、低磷性佝偻病、短肠综合征、大动脉炎、进行性纤维化性间质性肺疾病，共计9种 ...",
+          "date": "15小时前",
+          "position": 39
+        },
+        {
+          "title": "福建：9月共报告甲乙类传染病发病15704例，死亡33人 - 界面新闻",
+          "link": "https://m.jiemian.com/article/11931201.html",
+          "snippet": "... 非典型肺炎、脊髓灰质炎、人感染高致病性禽流感、狂犬病、流行性乙型脑炎、炭疽、白喉、新生儿破伤风、血吸虫病、人感染H7N9流感、猴痘无发病报告外 ...",
+          "date": "7天前",
+          "position": 40
+        },
+        {
+          "title": "非典型性猫猫②_哔哩哔哩 - bilibili",
+          "link": "https://www.bilibili.com/video/BV1k24y1v7LP/?spm_id_from=333.788.recommend_more_video.13",
+          "snippet": "非典型性猫猫②. 月与灯已久. 相关推荐. 查看更多. 非典型性猫猫③. 120 --. 0:21. App. 非典型性猫猫③. 非典型性猫猫（红色版）②. 9 --. 0:13.",
+          "date": "2023年1月2日",
+          "position": 41
+        },
+        {
+          "title": "HiFi碎碎念：“非典型”的山灵S0桌面有源音箱 - 耳机大家坛",
+          "link": "http://www.erji.net/forum.php?mod=viewthread&tid=2350813&extra=",
+          "snippet": "此外S0本身支持左右箱体位置互换，而且内置电源适配器，直接通过梅花头电源线这在摆位时会提供更好的灵活性。不过可能是因为是用来配搭自家的EC Smart CD ...",
+          "date": "13小时前",
+          "position": 42
+        },
+        {
+          "title": "国医大师颜德馨：诊治白血病经验 - 广东省中医药局",
+          "link": "http://szyyj.gd.gov.cn/zyyfw/dyjc/content/post_4516680.html",
+          "snippet": "如为非典型性白细胞，骨髓粒细胞增生，而周围血象较低者，即服滋阴固本汤(生地、首乌、赤白芍、驴皮胶、地骨皮、黄芪、甘草、当归)。上述两方均系自拟 ...",
+          "date": "4天前",
+          "position": 43
+        },
+        {
+          "title": "临床总结：精神分裂症患者的麻醉管理 - 梅斯医学",
+          "link": "https://m.medsci.cn/article/show_article.do?id=737e8488131a",
+          "snippet": "非典型. 抗精神病药. 第 2 代. 抗精神病药. （second-generation ... Schizophrenia：首发精神病患者中超重与认知表现的性别差异. 0 2024-10-25 点击 ...",
+          "date": "2024年10月26日",
+          "position": 44
+        },
+        {
+          "title": "台风“康妮”今日登陆台湾可能创下台风登陆福建或浙江的最晚纪录",
+          "link": "https://www.qzwb.com/gb/content/2024-10/31/content_9080444.htm",
+          "snippet": "台风“康妮”的非典型路径今年第21号台风“康妮”逐渐增强，完成了强度的“三 ... 不排除“康妮”在向东北方向移动过程中登陆福建和浙江沿海的可能性。",
+          "date": "4天前",
+          "position": 45
+        },
+        {
+          "title": "非典型狂人總統征途川普2.0進擊白宮| 聯合新聞網",
+          "link": "https://udn.com/news/story/121777/8332751",
+          "snippet": "一向擅長以煽動性言論、挑起種族及移民問題刷仇恨值的他，數天後在共和黨全代會講台上，柔聲呼籲團結，展現將危機轉化為最佳政治舞台的本能。當時正逢民主黨 ...",
+          "date": "2天前",
+          "position": 46
+        },
+        {
+          "title": "非典型狂人总统征途川普2.0进击白宫 - 加拿大家园",
+          "link": "https://www.iask.ca/news/1029032",
+          "snippet": "一向擅长以煽动性言论、挑起种族及移民问题刷仇恨值的他，数天后在共和党全代会讲台上，柔声呼吁团结，展现将危机转化为最佳政治舞台的本能。当时正逢民主党 ...",
+          "date": "2天前",
+          "position": 47
+        },
+        {
+          "title": "“那些台词简直是我的嘴替”，《年龄是一种感觉》在南京“开盲盒”",
+          "link": "http://www.yzwb.net/zncontent/4117421.html",
+          "snippet": "正如剧中的女孩，没有伟大成功的事业，没有美满幸福的家庭，没有温柔可爱的孩子，过着一种“非典型”的人生。 该剧设置了12个故事，每一场由观众随机选6 ...",
+          "date": "2天前",
+          "position": 48
+        },
+        {
+          "title": "哈佛团队开发类ChatGPT的AI病理模型，诊断19种类型癌症准确率近 ...",
+          "link": "https://www.mittrchina.com/news/detail/13980",
+          "snippet": "此前，余坤兴带领团队开发了全自动算法大规模分析全切片组织病理学图像，揭示肿瘤细胞微观表型 ... 北大陈匡时署名文章：microRNA非典型功能及其在新型RNA药物开发中的潜力.",
+          "position": 49
+        },
+        {
+          "title": "科学家揭示牙本质再生关键机制，牙髓中干细胞系重要来源",
+          "link": "https://bydrug.pharmcube.com/news/detail/6573cd6360363db53b4e6cf7946437d1",
+          "snippet": "特异性Wnt 受体的可用性是决定Wnt 信号下游靶点的特异性和表达强度的关键因素。DPP 刺激通过典型和非典型信号通路促进Wnt5a 与受体信号通路的共定位 ...",
+          "date": "17小时前",
+          "position": 50
+        },
+        {
+          "title": "非典型狂人總統征途川普2.0進擊白宮| 世界新聞網",
+          "link": "https://www.worldjournal.com/wj/story/121148/8333108",
+          "snippet": "一向擅長以煽動性言論、挑起種族及移民問題刷仇恨值的他，數天後在共和黨全代會講台上，柔聲呼籲團結，展現將危機轉化為最佳政治舞台的本能。當時正逢民主黨 ...",
+          "date": "2天前",
+          "position": 51
+        },
+        {
+          "title": "他是总统也是运动达人：定期参加铁人三项，曾在波罗的海游了几英里",
+          "link": "https://www.jfdaily.com/news/detail?id=812551",
+          "snippet": "... 性挑战，推动中芬关系不断取得新发展。 斯图布访华期间 ... 在赵永升看来，斯图布属于专业综合、学识丰富和爱好广泛的欧盟官员，同时是一个“非典型 ...",
+          "date": "5天前",
+          "position": 52
+        },
+        {
+          "title": "9月共报告甲乙类传染病发病15704例，死亡33人 - 新浪财经",
+          "link": "https://finance.sina.com.cn/7x24/2024-11-02/doc-incuskry2043671.shtml",
+          "snippet": "本月除鼠疫、霍乱、传染性非典型肺炎、脊髓灰质炎、人感染高致病性禽流感、狂犬病、流行性乙型脑炎、炭疽、白喉、新生儿破伤风、血吸虫病、人感染H7N9 ...",
+          "date": "2天前",
+          "position": 53
+        },
+        {
+          "title": "成长漫记_杭州网新闻频道",
+          "link": "https://hznews.hangzhou.com.cn/content/2024-11/01/content_8808288.htm",
+          "snippet": "这是一部非典型的人物志，写司马迁的家世、学习和漫游时代、仕宦之路、师 ... 性。如其他媒体、网站或个人从本网下载使用，必须保留本网注明的 ...",
+          "date": "3天前",
+          "position": 54
+        },
+        {
+          "title": "智源社区_没有围墙的人工智能实验室",
+          "link": "https://hub.baai.ac.cn/",
+          "snippet": "... 性，发现使用不常见数据集组合的论文在科学界和公众传播中通常更具影响力，即使这些数据集本身并未带来创新性的主题组合。这表明非典型数据集的组合对提升科研成果的 ...",
+          "position": 55
+        },
+        {
+          "title": "“肺”不好，秋冬如何未病先防 - 中国新闻网",
+          "link": "https://www.chinanews.com.cn/life/2024/10-29/10309810.shtml",
+          "snippet": "... 非典型病原菌、病毒等引起的肺部炎症。老年人群中的发病率达0.5%~15%，明显高于年轻人，且一旦发生，出现病情恶化的几率也明显高于年轻人。 慢性阻塞性 ...",
+          "date": "6天前",
+          "position": 56
+        },
+        {
+          "title": "《非典型性恋爱》以雨 - 晋江文学城",
+          "link": "http://www.jjwxc.net/onebook.php?novelid=3375624",
+          "snippet": "酒吧里灯光流转，一轮一轮的酒精侵蚀麻醉了人心，大脑，手却不控制的接过了新的一杯。曼妙的女郎在舞池摇曳身姿，一圈一圈的裙摆在舞……",
+          "date": "2024年10月10日",
+          "position": 57
+        },
+        {
+          "title": "川普又陷性別歧視爭議與盟友輕蔑女性往例斑斑| 國際 - 中央社",
+          "link": "https://www.cna.com.tw/news/aopl/202411010197.aspx",
+          "snippet": "2016年，在他與當時的民主黨競選對手希拉蕊．柯林頓（Hillary Clinton）對決前數天，出現一支影片顯示川普吹噓自己利用名氣來「抓（女人的）私處」，引發全球諸多 ...",
+          "date": "3天前",
+          "position": 58
+        },
+        {
+          "title": "理想汽车百万辆交付，携手地平线等产业伙伴引领行业高质量发展",
+          "link": "http://auto.cnfol.com/cheshidongtai/20241029/30993998.shtml",
+          "snippet": "孔辉科技为理想汽车提供了关键的技术支持和产品供应，确保了理想L9和L7等车型在悬挂系统上的稳定性和舒适性。 ... 凭借这种“非典型”的合作范式，实现了仅用7个 ...",
+          "date": "6天前",
+          "position": 59
+        },
+        {
+          "title": "心肌梗塞的前兆有哪些？胸悶、心絞痛？快了解心肌梗塞與預防方式！",
+          "link": "https://www.lianan.com.tw/drliananepaper/Article/58",
+          "snippet": "上腹痛:非典型的心肌梗塞症狀。心肌梗塞導致的上腹痛易與一般腸胃不適混淆，因此易被輕忽；若是心肌梗塞高危族群者，若有相關症狀更須謹慎。 5. 冒冷汗 6. 頭暈 7 ...",
+          "position": 60
+        },
+        {
+          "title": "福建：9月共报告甲乙类传染病发病15704例，死亡33人 - 网易",
+          "link": "https://www.163.com/dy/article/JG0JR1CU0534A4SC.html",
+          "snippet": "本月除鼠疫、霍乱、传染性非典型肺炎、脊髓灰质炎、人感染高致病性禽流感、狂犬病、流行性乙型脑炎、炭疽、白喉、新生儿破伤风、血吸虫病、人感染H7N9 ...",
+          "date": "2天前",
+          "position": 61
+        },
+        {
+          "title": "鼻竇炎、夜咳⋯胃食道逆流8大非典型症狀不只火燒心！飯後2件事別做",
+          "link": "https://www.edh.tw/article/36888",
+          "snippet": "「嗝！怎麼中午的東西又都跑到口腔裡了？」、「胸口覺得怪怪的」 這些反應或許是您的日常，但千萬不要習慣性的認為自己只是吃太飽或是消化比較慢，而延誤 ...",
+          "date": "3天前",
+          "position": 62
+        },
+        {
+          "title": "上週新增7例本土登革熱病例，康芮颱風可能襲臺，籲請民眾防颱之際",
+          "link": "https://www.mohw.gov.tw/cp-16-80353-1.html",
+          "snippet": "性別平等專區 · 政府資訊公開 · 法令規章 · 衛生福利法規檢索系統 · 法規通報 · 全國 ... 型，感染該型病毒常有非典型症狀(如腹瀉、噁心嘔吐等腸胃症狀)容易被忽略，且重症 ...",
+          "position": 63
+        },
+        {
+          "title": "川普2.0重返白宮？「非典型狂人」選戰打法全球挫咧等 - TVBS新聞",
+          "link": "https://news.tvbs.com.tw/world/2672252",
+          "snippet": "一向擅長以煽動性言論、挑起種族及移民問題刷仇恨值的他，數天後在共和黨全代會講台上，柔聲呼籲團結，展現將危機轉化為最佳政治舞台的本能。當時正逢民主黨 ...",
+          "date": "2天前",
+          "position": 64
+        },
+        {
+          "title": "非典型巴金森症的運動對策！ 透過肌力訓練提升活動能力| 健康醫療網",
+          "link": "https://today.line.me/tw/v2/article/XY3vlEw",
+          "snippet": "肌力體能訓練如何幫助皮質基底核退化症呢？ ... 肌力體能訓練目的在於增加學員肌力、肌耐力、心肺耐力、平衡、協調性、敏捷性等；合格的教練能在訓練中保護 ...",
+          "date": "3天前",
+          "position": 65
+        },
+        {
+          "title": "借力新药研发再度翻红；华山医院成果转化推介专场上线 - 动脉网",
+          "link": "https://www.vbdata.cn/intelDetail/616509",
+          "snippet": "转载请联系tg@vcbeat.net。 推荐阅读. Alzheimer's & Dementia：非典型痴呆患者中心理治疗对抑郁和焦虑的有效性. 2024-11-02 16:58 Medsci #抑郁 ...",
+          "date": "3天前",
+          "position": 66
+        },
+        {
+          "title": "大发百姓彩票彩神Ⅷ - PPTOK",
+          "link": "http://www.pptok.com/pkjzIpEk/363083.html",
+          "snippet": "非典型性脑膜瘤的CT诊断. 下载 · 儿童韦氏肉芽肿. 下载 · 单神经元PSD在配煤 ...",
+          "date": "14小时前",
+          "position": 67
+        },
+        {
+          "title": "淡水女路4.0成果發表女力解鎖城市解謎四路並進| 大成報Great News",
+          "link": "https://www.greatnews.com.tw/news_pagein.php?iType=1010&n_id=296769",
+          "snippet": "... 女性成為在地導覽員創造非典型就業機會，透過彈性就業模式及準備性就業職場，開創多元友善的就業環境。 圖說：新北市社區旅學關懷協會理事長李琪說 ...",
+          "date": "2天前",
+          "position": 68
+        },
+        {
+          "title": "潘频华教授等：感染中毒症相关ARDS呼吸支持方式的时机？如何结合 ...",
+          "link": "https://view.inews.qq.com/a/20241103A05V0C00",
+          "snippet": "... 性降低。病原体（包括细菌、病毒、真菌及非典型病原体等）引起的感染是导致ARDS的常见原因之一。目前对于ARDS患者肺毛细血管通透性增加和肺泡上皮受损 ...",
+          "date": "13小时前",
+          "position": 69
+        },
+        {
+          "title": "顛覆傳統導覽想像淡水女路4.0成果發表四路並進 - Yahoo奇摩新聞",
+          "link": "https://tw.news.yahoo.com/%E9%A1%9B%E8%A6%86%E5%82%B3%E7%B5%B1%E5%B0%8E%E8%A6%BD%E6%83%B3%E5%83%8F-%E6%B7%A1%E6%B0%B4%E5%A5%B3%E8%B7%AF-4-0%E6%88%90%E6%9E%9C%E7%99%BC%E8%A1%A8%E5%9B%9B%E8%B7%AF%E4%B8%A6%E9%80%B2-082148056.html",
+          "snippet": "... 性別平等和女性賦權方面的努力。透過結合女性力量以及淡水地方文化 ... 非典型就業機會，透過彈性就業模式及準備性就業職場，開創多元友善的就業 ...",
+          "date": "2天前",
+          "position": 70
+        },
+        {
+          "title": "ColleGo!",
+          "link": "https://collego.edu.tw/",
+          "snippet": "每個科系的學生可能都有特定的樣貌，但隨著跨越傳統科際界限的複合性應用日漸頻繁，開始有更多的同學不再滿足於單一學系的學習型態，因此這類同學在進入大學以後，積極尋找各類 ...",
+          "position": 71
+        },
+        {
+          "title": "健康锦囊365 | 秋冬季如何呵护呼吸道健康 - 新华日报",
+          "link": "https://www.xhby.net/content/s67232ae5e4b0458dc38cf123.html",
+          "snippet": "2、肺炎：肺炎是由细菌、真菌、非典型病原菌、病毒等引起的肺部炎症。 ... 4、支气管哮喘：支气管哮喘是一种常见的慢性气道炎症性疾病，表现为气道高 ...",
+          "date": "4天前",
+          "position": 72
+        },
+        {
+          "title": "女生吊著你的五種非典型性表現##情感##女生##感情| TikTok",
+          "link": "https://www.tiktok.com/@yabo1876pzq/video/7431785924448488712",
+          "snippet": "28 Likes, TikTok video from jiali表姐 (@yabo1876pzq): “女生吊著你的五種非典型性表現##情感##女生##感情”. 原聲- jiali表姐 .",
+          "date": "4天前",
+          "position": 73
+        },
+        {
+          "title": "东城中医医院专家徐惠梅主任11月9日首诊，心血管中医诊疗再添名医",
+          "link": "https://life.china.com/2024-11/02/content_375831.html",
+          "snippet": "非典型心绞痛是指临床表现不典型的心绞痛。有的心绞痛发作持续时间较长，含服硝酸甘油效果差，并有可能发生心肌梗死，常见于冠状动脉严重病变的 ...",
+          "date": "1天前",
+          "position": 74
+        },
+        {
+          "title": "非典型巴金森症的運動對策！ 透過肌力訓練提升活動能力 - 奧丁丁新聞",
+          "link": "https://news.owlting.com/articles/850955",
+          "snippet": "肌力體能訓練如何幫助皮質基底核退化症呢？ 肌力體能訓練目的在於增加學員肌力、肌耐力、心肺耐力、平衡、協調性、敏捷性等；合格 ...",
+          "date": "3天前",
+          "position": 75
+        },
+        {
+          "title": "彰化小西商圈新面貌！以「線」串連昔日布業榮景，改造公共空間",
+          "link": "https://www.wowlavie.com/article/240025077",
+          "snippet": "彰化小西商圈新面貌！以「線」串連昔日布業榮景，改造公共空間、小吃老店建立非典型商圈品牌 ... 2025年台灣設計展將落腳彰化，也順勢為彰化火車站週邊最熱鬧的「小西商圈」帶來 ...",
+          "position": 76
+        },
+        {
+          "title": "咪蒙老师到底得的是什么病？ _ 液基细胞技术",
+          "link": "https://www.iivd.net/thread-78096-1-1.html",
+          "snippet": "我们都知道宫颈癌跟高危亚型HPV（人乳头瘤病毒）长期持续感染相关，其中16型和18型病毒占了接近九成，剩下的其他型别病毒，在致病性方面跟HPV16、HPV18不在一个 ...",
+          "date": "14小时前",
+          "position": 77
+        },
+        {
+          "title": "聚美优品“偏瘫”，陈欧呢？ - 联商网",
+          "link": "http://www.linkshop.com/news/2024524743.shtml",
+          "snippet": "更让人羡慕的是，他不是一个只会埋头苦学的“小镇做题家”，而是学、玩兼顾的非典型“学霸”。 ... 性游戏对战平台GGgame。 借助Nobrac在魔兽圈的影响力 ...",
+          "date": "38分钟前",
+          "position": 78
+        },
+        {
+          "title": "非典型巴金森症的運動對策！ 透過肌力訓練提升活動能力 - 四季線上",
+          "link": "https://www.4gtv.tv/article/2024110102000001",
+          "snippet": "肌力體能訓練如何幫助皮質基底核退化症呢？ 肌力體能訓練目的在於增加學員肌力、肌耐力、心肺耐力、平衡、協調性、敏捷性等；合格 ...",
+          "date": "3天前",
+          "position": 79
+        },
+        {
+          "title": "明年9月起國二男「免費」 打HPV疫苗國健署估9萬人受惠 - 元氣網",
+          "link": "https://health.udn.com/health/story/122420/8326100",
+          "snippet": "國健署現行提供HPV公費疫苗可預防9種病毒型別，包含男女都有可能感染的頭頸癌、口咽癌、肛門癌、菜花，以及女性的子宮頸癌、陰道癌、外陰癌等。國健署長 ...",
+          "date": "5天前",
+          "position": 80
+        },
+        {
+          "title": "廚師感染「鉤端螺旋體」呼吸衰竭險致命！ 醫曝罹病原因 - 健康醫療網",
+          "link": "https://www.healthnews.com.tw/article/63339",
+          "snippet": "農夫、漁民、廚師、食品加工工人、污水或垃圾處理廠的工人都是易被感染的族群。嚴重時將有致命的可能性，死亡率高達5-10%。 鉤端螺旋體為細桿狀螺旋型， ...",
+          "date": "3天前",
+          "position": 81
+        },
+        {
+          "title": "亞太裔挺賀錦麗女72%遠超男59% 首見性別因素差距拉大",
+          "link": "https://www.worldjournal.com/wj/story/121468/8332893",
+          "snippet": "這也解釋了為何亞太裔女性較男性多支持賀錦麗。 對於這份民調，川 ... 非典型狂人總統征途川普2.0進擊白宮 · ➤➤➤世界新聞網全新推出「消費頻道 ...",
+          "date": "2天前",
+          "position": 82
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

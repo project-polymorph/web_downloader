@@ -1,0 +1,1068 @@
+{
+  "query": "跨性别 北医三院",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-05T21:02:24.167326",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "跨性别 北医三院",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "北医三院 - MtF.wiki",
+          "link": "https://mtf.wiki/zh-cn/docs/hrt/puth/",
+          "snippet": "北京大学第三医院部分医生一直致力于跨性别医疗事业的发展，创建了一支跨性别序列医疗团队，并设置了跨性别专科门诊。具体而言，如果符合要求，可以在北京大学第三医院获得易性 ...",
+          "position": 1
+        },
+        {
+          "title": "[PDF] 北京大学第三医院- 跨性别序列医疗",
+          "link": "https://cnlgbtdata.com/files/uploads/2023/12/2022%E7%89%88%E8%B7%A8%E6%80%A7%E5%88%AB%E5%8C%BB%E7%96%97%E7%85%A7%E6%8A%A4%E6%89%8B%E5%86%8C_4JGB5o5.pdf",
+          "snippet": "目前,在《性别重置技术临床应用管理规范(2022 版)》中要求,跨性别者进行性别重置手术需要有三级医. 院精神科或心理科医师开具的易性症(性别烦躁,或性别不一致)诊断证明。",
+          "position": 2
+        },
+        {
+          "title": "北医三院“跨性别门诊”医生的内心独白-虎嗅网",
+          "link": "https://m.huxiu.com/article/426094.html",
+          "snippet": "据潘柏林透露，到北医三院跨性别门诊求助的跨性别者，先要持有正规医疗机构开具的“易性病”诊断。随后，他们可以带父母在门诊接受宣讲，再根据个人情况和医生 ...",
+          "date": "2021年5月6日",
+          "position": 3
+        },
+        {
+          "title": "北医三院易性症综合治疗就诊指南-北京整形美容医院",
+          "link": "https://www.sar.com.cn/xinwen/syyydt/13115.html",
+          "snippet": "☆ 跨性别相关内容，如初诊咨询、启动内分泌治疗、激素治疗复诊、性别重置主体手术咨询等服务，均需挂“易性症综合治疗门诊”或“易性症激素治疗门诊”就诊，其他 ...",
+          "date": "2024年2月7日",
+          "position": 4
+        },
+        {
+          "title": "北医三院新开的跨性别门诊· Issue #745 · project-trans/MtF-wiki - GitHub",
+          "link": "https://github.com/project-trans/MtF-wiki/issues/745",
+          "snippet": "常旭医生在北医三院美容成形开了专门的跨性别门诊。时间是周一上午成形科（和潘柏林同一个入口）。 另外常旭在周五下午也会在成形科的普通门诊。普通门诊 ...",
+          "date": "2023年2月15日",
+          "position": 5
+        },
+        {
+          "title": "潘柏林：跨性别治疗很冷门，但TA们需要医学支持 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_8786958",
+          "snippet": "潘柏林是北医三院跨性别医疗团队的负责人，接受采访前他刚结束一例喉结缩小手术，“喉结变大、声音变粗是青春期男孩发育、成长的象征，但对跨性别者来说，却是 ...",
+          "date": "2020年8月19日",
+          "position": 6
+        },
+        {
+          "title": "北医三院 - MtF.wiki",
+          "link": "https://mtf.wiki/zh-cn/docs/srs/china/pku3/",
+          "snippet": "项目, 价格. 睾丸切除术, 1万元. 单纯阴茎阴囊切除术（“零深度”阴道成形）, 4万元. 阴茎阴囊皮瓣翻转阴道成形术, 7-8万元. 带蒂乙状结肠阴道成形术, 5-6万元（未包含阴茎 ...",
+          "position": 7
+        },
+        {
+          "title": "北京易性症整形医院",
+          "link": "https://www.sar.com.cn/huiyin/yxp/",
+          "snippet": "易性症科室是北医三院整形外科优势项目，北医三院聚集做全国知名易性症专家，丰富的易性症临床经验，我们（三甲医院）能够为您提供安全可信赖的整形服务！",
+          "position": 8
+        },
+        {
+          "title": "成形外科(整形外科) - 北医三院 - 好大夫在线",
+          "link": "https://www.haodf.com/hospital/142/keshi/49.html",
+          "snippet": "之后北医三院成形外科完成了首例“寄生性头部连胎的副头切除术”(1979年) ... 跨性别mtf，hrt所需手续已齐全跨性别，6、8岁起至今，本次为启动hrt 分别为：生化 ...",
+          "position": 9
+        },
+        {
+          "title": "中国第一个“跨性别门诊” - 36氪",
+          "link": "https://m.36kr.com/p/2838705615882887",
+          "snippet": "2016年， 他发起了国内第一个“跨性别多学科综合门诊”， 为性别焦虑和性别不认同的来诊者提供专业、全面的序列医疗帮助， 至今已经帮助了超过2500位跨性别者。",
+          "date": "2024年6月27日",
+          "position": 10
+        },
+        {
+          "title": "北京大学第三医院 - FtM.wiki",
+          "link": "https://ftm.wiki/zh-cn/srs/puth/",
+          "snippet": "北京大学第三医院. 北医三院不仅提供Gnrh类似物与HRT治疗，也提供全套srs的医疗资源。 北医三院的各方面手术事项可见该院跨性别医疗序列团队的微信公众号“|本来模样|”.",
+          "position": 11
+        },
+        {
+          "title": "出圈丨专访医生潘柏林：跨性别群体是个隐秘的角落大多纠结痛苦",
+          "link": "https://finance.sina.cn/tech/2021-07-27/detail-ikqciyzk7982304.d.html",
+          "snippet": "国内跨性别者群体长期处于比较隐秘的状态，很难得到正规的医疗帮助，外界对他们没有认知，或有诸多误解。《出圈》专访北医三院跨性别序列医疗门诊负责人潘 ...",
+          "date": "2021年7月27日",
+          "position": 12
+        },
+        {
+          "title": "跨性别医疗照护手册》2022版正式发布- 日记- 豆瓣",
+          "link": "https://m.douban.com/note/841253869/",
+          "snippet": "... 跨性别伙伴面临心理及生理健康风险的重要原因之一。 北同与北京大学社会学系合作发布的《2017中国跨性别 ... 2022年，北同文化在北医三院潘柏林医生团队的 ...",
+          "date": "2022年11月21日",
+          "position": 13
+        },
+        {
+          "title": "[PDF] 北京2019 年跨性别医疗学术研讨会 - WPATH",
+          "link": "https://www.wpath.org/media/cms/Documents/GEI/Global%20Impact/FINAL%20-%20Beijing%20Course%20Summary%20GEI%20Mandarin.pdf",
+          "snippet": "2019 年11 月29 日由北京大学第三医院整形外科医师潘柏林医. 生举办了第三届中国跨性别者医学研讨会，共邀请了来自两岸. 三地共26 位专业人士参加了此次会议。座谈会的 ...",
+          "position": 14
+        },
+        {
+          "title": "[PDF] “我需要家长同意才能做自己”",
+          "link": "https://www.amnesty.org/en/wp-content/uploads/2021/05/ASA1702692019CHINESE.pdf",
+          "snippet": "81 联合国开发计划署，《讨论文件：跨性别健康与人权》，2013 年，第17 页。 82 T. Hammarberg，《人权与性别认同》，第11 页。 83 北京大学第三医院，《北医三院易性症序列医疗 ...",
+          "position": 15
+        },
+        {
+          "title": "常用抗雄激素药物在中国跨性别女性中的有效性和安全性",
+          "link": "https://www.linkresearcher.com/theses/2c7653fc-0b0f-495d-89a4-7200d365295b",
+          "snippet": "方法回顾性收集2012年至2021年北京大学第三医院就诊的变性女性资料。从639名被确定为跨性别女性的人中，151人（80人使用CPA，71人使用SPL，16至40岁 ...",
+          "date": "2024年7月6日",
+          "position": 16
+        },
+        {
+          "title": "不被理解的跨性别医生：被家长投诉“带坏孩子”，诊室时有冲突",
+          "link": "https://view.inews.qq.com/k/20210727A009WZ00?web_channel=wap&openApp=false",
+          "snippet": "每周三早上8点，是北京大学第三医院成形科医生潘柏林的“易性症”门诊开门的时间。潘柏林早早坐进诊室，他面前的办公桌上贴着激素治疗流程单，各种跨性别科普 ...",
+          "date": "2021年7月27日",
+          "position": 17
+        },
+        {
+          "title": "北京大学第三医院成形外科医生团队参加第27届国际美容整形外科 ...",
+          "link": "https://bynews.bjmu.edu.cn/zhxw/2023/1ca0a4a98f014068ac107f1a63f32a56.htm",
+          "snippet": "会议期间，北京大学第三医院成形外科医生团队分别就皮瓣修复重建、鼻整形、面部年轻化、跨性别序列医疗、唇部美容等领域进行大会发言或壁报交流，在 ...",
+          "date": "2023年9月18日",
+          "position": 18
+        },
+        {
+          "title": "变性手术 - 好大夫在线",
+          "link": "https://www.haodf.com/citiao/zhiliao-bianxingshoushu.html",
+          "snippet": "跨性别女性（MTF）面部女性化手术项目. 潘柏林副主任医师北医三院成形外科(整形外科). 1320人已读. 治疗介绍 · 跨性别男性（FTM）生殖器手术须知. 潘柏林副主任医师北医三院 ...",
+          "position": 19
+        },
+        {
+          "title": "不被理解的跨性别医生：被家长投诉带坏孩子 - 新浪",
+          "link": "https://zx.sina.cn/sh/2021-07-27/zx-ikqcfnca9287773.d.html",
+          "snippet": "每周三早上8点，是北京大学第三医院成形科医生潘柏林的“易性症”门诊开门的时间。潘柏林早早坐进诊室，他面前的办公桌上贴着激素治疗流程单，各种跨性别科普 ...",
+          "date": "2021年7月27日",
+          "position": 20
+        },
+        {
+          "title": "[PDF] 2021全国跨性别健康调研报告",
+          "link": "https://cnlgbtdata.com/files/uploads/2023/01/2021%E5%85%A8%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E5%81%A5%E5%BA%B7%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.pdf",
+          "snippet": "2. 样本中包括跨性别男性、跨性别女性、性别酷儿、易装者、性别未确定者和其 ... 北医三院跨性别医疗序列. 成都跨性别小组. 出色伙伴. 酷儿论坛. 跨儿说. 跨儿心理. 跨 ...",
+          "position": 21
+        },
+        {
+          "title": "中国跨性别人群医疗现况的调查及分析",
+          "link": "http://ccj.pku.edu.cn/Article/info?aid=266525351",
+          "snippet": "3 北京同志中心北京大学第三医院成形外科. Classification number：. R195. Cite this article.",
+          "position": 22
+        },
+        {
+          "title": "广州“跨性别序列医疗门诊”正式开诊啦！有需要的朋友们除了可以去 ...",
+          "link": "https://www.reddit.com/r/weibo_read/comments/1e26b7z/%E5%B9%BF%E5%B7%9E%E8%B7%A8%E6%80%A7%E5%88%AB%E5%BA%8F%E5%88%97%E5%8C%BB%E7%96%97%E9%97%A8%E8%AF%8A%E6%AD%A3%E5%BC%8F%E5%BC%80%E8%AF%8A%E5%95%A6%E6%9C%89%E9%9C%80%E8%A6%81%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC%E9%99%A4%E4%BA%86%E5%8F%AF%E4%BB%A5%E5%8E%BB%E5%8C%97%E4%BA%AC%E5%8C%97%E5%8C%BB%E4%B8%89%E9%99%A2%E4%B8%8A%E6%B5%B7%E4%B9%9D%E9%99%A2%E8%BF%98%E5%8F%AF%E4%BB%A5%E5%8E%BB%E5%B9%BF%E5%B7%9E%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E/",
+          "snippet": "有需要的朋友们除了可以去北京北医三院，上海九院，还可以去广州暨南大学附属第一医院噢！",
+          "date": "2024年7月13日",
+          "position": 23
+        },
+        {
+          "title": "让跨性别者不再抑郁 - 腾讯公益",
+          "link": "https://ssl.gongyi.qq.com/m/weixin/detail.htm?et=dtlfx&pid=218649&from=singlemessage&isappinstalled=0",
+          "snippet": "2022年4月，北同文化与北医三院，回龙观医院，上海九院等多家知名医院合作，共同举办2022年全国跨性别友善医疗讲座。此次培训我们共邀请7家医院机构的9位老师为我们进行跨 ...",
+          "position": 24
+        },
+        {
+          "title": "[DOC] 附件：北医三院暑期科研项目介绍.docx",
+          "link": "https://jiaoyuchu.bjmu.edu.cn/docs/2023-06/20230615154013820637.docx",
+          "snippet": "内容包括心理支持、家庭科普、性别肯定内分泌治疗、性别肯定手术治疗、嗓音训练等。 了解跨性别医疗基本内容. 成形外科, 安阳, 智能化整形外科、干细胞与器官组织工程, 1.",
+          "position": 25
+        },
+        {
+          "title": "王恒| 吾栖之肤：跨性别者的性别认同与具身实践——基于在北京市 ...",
+          "link": "http://www.shehui.pku.edu.cn/wap/second/index.aspx?nodeid=2030&page=ContentPage&contentid=10195",
+          "snippet": "在2017年12月，即谢米入学北京市Y大学的第一个学期，她前往北医六院并成功开具了易性症诊断，并于次年1月开始接受激素治疗，包括用以抑制睾酮水平的抗雄激素和雌性激素。在服用 ...",
+          "position": 26
+        },
+        {
+          "title": "转载| 跨性别小伙伴可获取的一站式诊疗指南 - 跨儿心理小组",
+          "link": "https://kuaerxinli.org/%E7%A4%BE%E7%BE%A4%E8%B5%84%E6%BA%90/1113",
+          "snippet": "如果符合我国现行的诊断标准，来诊者可要求医生出具“易性症”诊断证明。 推荐医生：. 北医三院心理咨询科胡佩诚医生每周四下午出诊门诊楼5层. 或北京回龙观 ...",
+          "date": "2022年7月31日",
+          "position": 27
+        },
+        {
+          "title": "北医三院行政班子换届：乔杰卸任付卫履新 - CN-Healthcare",
+          "link": "http://www.cn-healthcare.com/article/20230403/content-577802.html",
+          "snippet": "此外，北医三院在冬奥会、疫情防控等工作中积极作为，彰显公立医院的公益性和担当。 ... 跨学科交叉融合研究，主持科技部重点研发计划项目1项、国家 ...",
+          "date": "2023年4月3日",
+          "position": 28
+        },
+        {
+          "title": "北京大学 - RLE.wiki",
+          "link": "https://rle.wiki/campus/PKU",
+          "snippet": "医疗资源情况​. 去北医三院，六院都很方便。校医院不会歧视，但是反正跨性别相关搞不到医保打折（似乎可以以其他内分泌问题开到转诊单），医生可以开 ...",
+          "date": "2024年9月16日",
+          "position": 29
+        },
+        {
+          "title": "北医三院整形科：2024年隆鼻整形案例与医院信息分享 - 悦整型",
+          "link": "https://www.piannen.com/article/gUQMfJlbzSqsUgzy.html",
+          "snippet": "医生介绍：. 1. 潘柏林医生擅长唇部整形美容，包括上唇人中短缩术、上唇红唇综合整形等。他还创建了国内支跨性别序列医疗 ...",
+          "date": "18小时前",
+          "position": 30
+        },
+        {
+          "title": "学校与北医三院召开跨学科合作工作推进会 - 科技大学",
+          "link": "https://news.ustb.edu.cn/info/1087/63137.htm",
+          "snippet": "为加快推进学校与北京大学第三医院战略合作，国家科学中心与北医三院相关部门科室积极协作落实合作。双方于5月29日在北京大学第三医院组织召开了“跨 ...",
+          "date": "2024年5月30日",
+          "position": 31
+        },
+        {
+          "title": "潘柏林_百度百科",
+          "link": "https://baike.baidu.com/item/%E6%BD%98%E6%9F%8F%E6%9E%97/15907490",
+          "snippet": "北医三院整形外科医师; 陶瓷学会理事; 艺术家; 电视剧《逆缘》中的角色. 收起. 权威. 本 ... 主编学术专著《东方人唇部美容与口周年轻化手术图解》 。 2、跨性别序列医疗.",
+          "position": 32
+        },
+        {
+          "title": "“如果要死，我宁愿死在手术台上”，跨性别者做手术有多难？ - 全知识",
+          "link": "https://m2.allhistory.com/ah/article/5f561d90550c6f000106efcc",
+          "snippet": "纽约西奈山医院跨性别医学和外科手术中心执行主任约书亚·塞弗尔表示，“在 ... 能够提供手术的医院也非常少，2016年，北医三院才正式成立了中国唯一一支可以为跨 ...",
+          "position": 33
+        },
+        {
+          "title": "性别肯定（跨性别）嗓音治疗和手术- 在Mayo Clinic 治疗- 妙佑医疗国际",
+          "link": "https://www.mayoclinic.org/zh-hans/tests-procedures/transgender-voice-therapy-and-surgery/care-at-mayo-clinic/pcc-20470565",
+          "snippet": "妙佑医疗国际的专科医生致力于为跨性别者、多元性别者和间性者提供最新、最全面的治疗方案，所有这些都在一个包容、安全的环境中进行。您的医护团队将基于 ...",
+          "date": "2024年5月14日",
+          "position": 34
+        },
+        {
+          "title": "遭电击治疗，一位跨性别者决定起诉 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_28830401",
+          "snippet": "在一次演讲中，北京大学第三医院跨性别医疗团队的医生潘柏林说，跨性别孩子的父母往往会经历这样的心理过程：否定-怀疑-审视-扭转-绝望-放弃。在他们 ...",
+          "date": "2024年9月24日",
+          "position": 35
+        },
+        {
+          "title": "他在门诊被家长递纸条威胁：凭什么把我儿子变成女的？_潘柏林 - 搜狐",
+          "link": "https://www.sohu.com/a/442279730_120051556",
+          "snippet": "这里，是北医三院整形外科潘柏林医生的诊室，这里，接待一群特殊的「患者」：跨性别者。 医生与「客户」. 毕业于北京大学医学部，潘柏林是北医三院整形外科的一 ...",
+          "date": "2021年1月3日",
+          "position": 36
+        },
+        {
+          "title": "北医三院刘烨跨性别 - 起点中文",
+          "link": "https://m.qidian.com/ask/qurxaamiqgt",
+          "snippet": "刘烨是北京大学第三医院（北医三院）内分泌科的副主任医师，擅长糖尿病、内分泌代谢与生殖健康、跨性别激素医疗。博士就读期间曾...",
+          "position": 37
+        },
+        {
+          "title": "跨性别权益- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E8%B7%A8%E6%80%A7%E5%88%A5%E6%AC%8A%E7%9B%8A",
+          "snippet": "在全球范围内，大多数司法管辖权只承认两种传统的性别身份和社会角色，男人和女人，但往往也会排除任何其他性别认同和表现。但是，有些国家通过法律承认第三性别。现在世界对“ ...",
+          "position": 38
+        },
+        {
+          "title": "北大跨学科的力量｜迎接新生，造福人类 - 北京大学招生网",
+          "link": "https://www.gotopku.cn/index/detail/1081.html",
+          "snippet": "2014年9月19日，世界首例经MALBAC基因组扩增高通量测序同时筛查单基因遗传病和染色体异常的试管婴儿，在北京大学第三医院诞生，这标志着我国胚胎植入前遗传 ...",
+          "date": "2019年2月21日",
+          "position": 39
+        },
+        {
+          "title": "不被理解的跨性别者：与母亲争吵半生，只为一个签名…… - 东方新闻",
+          "link": "https://j.eastday.com/m/1609668979021917",
+          "snippet": "14年间，为了说服自己的母亲，王佳宁找遍所有她能够寻求帮助的人：其他跨性别伙伴、公益律师、关注跨性别领域的医生…… ... 在北医三院整形外科潘柏林医生看来， ...",
+          "date": "2021年1月3日",
+          "position": 40
+        },
+        {
+          "title": "北医三院骨科团队用3D打印技术再破世界性难题 - 健康频道- 央视网",
+          "link": "http://jiankang.cctv.com/2016/12/13/ARTIDfrmzTzUdpNN1Qt7SGkk161213.shtml",
+          "snippet": "央视网消息：2016年11月15日，北京大学第三医院骨科主任刘忠军教授为一位颈椎恶性肿瘤患者实施了世界首例包括枢椎的4节颈椎切除手术，并为患者云女士安装 ...",
+          "date": "2016年12月13日",
+          "position": 41
+        },
+        {
+          "title": "合法HRT 已确认列表 - FtM.wiki",
+          "link": "https://ftm.wiki/zh-cn/hrt/confirmed/",
+          "snippet": "跨性别 多学科联合诊疗(MDT) 门诊. 上海市, 上海交通大学医学院附属瑞金医院, 性腺专病或孙首悦. 深圳市, 香港大学深圳医院. 额外注意事项. 北京GnRH or HRT. 北医三院. 未 ...",
+          "position": 42
+        },
+        {
+          "title": "中国： 跨性别者冒着生命危险自行做高风险手术 - 国际特赦组织",
+          "link": "https://zh.amnesty.org/content-type/more-resources/news/china-transgender-research-report/",
+          "snippet": "目前全中国仅有一家专长于一系列性别确认医疗程序的综合性医疗服务诊所。这个团队于2018年9月在北京大学第三医院成立，是中国首支为跨性别者提供医疗卫生",
+          "date": "2019年5月10日",
+          "position": 43
+        },
+        {
+          "title": "跨性別醫療資源 - 台灣同志諮詢熱線協會|",
+          "link": "https://hotline.org.tw/pagegeneral/3244",
+          "snippet": "關渡醫院. 劉弘仁*、藍彣烜*. 台北市立聯醫昆明院區. 衛漢庭、陳裕雄. 三軍總醫院北投分院（性別友善門診）. 陳泰宇. 台北醫學大學附設醫院. 黃宇銳*. 萬芳醫院. 潘建志.",
+          "position": 44
+        },
+        {
+          "title": "跨性别-相关资讯-虎嗅网",
+          "link": "https://www.huxiu.com/tags/12995.html",
+          "snippet": "北医三院“跨性别门诊”医生的内心独白2021-05-06 19:18; 你是男性大脑，还是女性大脑？2021-04-15 10:27; 在加纳的三天两夜，我体会了一把做“白人”的感觉2020-12-02 20:00 ...",
+          "position": 45
+        },
+        {
+          "title": "中华人民共和国跨性别权益- 维基百科",
+          "link": "https://zh.wikipedia.org/zh-cn/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E6%9D%83%E7%9B%8A",
+          "snippet": "... 性别肯定手术。 截至2017年，上海四一一医院赵烨德医生已经完成了超过1000例性别肯定手术。北京大学第三医院、上海交通大学医学院附属第九人民医院等医疗 ...",
+          "position": 46
+        },
+        {
+          "title": "正面连接｜一个不治病的门诊，与四百万厌恶自己身体的人",
+          "link": "https://chinadigitaltimes.net/chinese/706365.html",
+          "snippet": "2017年，北京大学第三医院整形外科医生潘柏林，成立了国内首个“跨性别综合门诊”。在这里，跨性别者被称为“来诊者”，而不是患者。潘柏林说，他们身上没有任何 ...",
+          "date": "2024年3月30日",
+          "position": 47
+        },
+        {
+          "title": "马茗宝宝     on X: \"跨性别者易性症诊断相关就诊机构名单（北医三院 ...",
+          "link": "https://twitter.com/mtc999999/status/1794775960837120054",
+          "snippet": "跨性别者易性症诊断相关就诊机构名单（北医三院24年春季更新版）",
+          "date": "2024年5月26日",
+          "position": 48
+        },
+        {
+          "title": "跨性别男性：北京大学第三医院就医经历",
+          "link": "https://axolom.cn/%E8%B7%A8%E6%80%A7%E5%88%AB%E7%94%B7%E6%80%A7%EF%BC%9A%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%89%E5%8C%BB%E9%99%A2%E5%B0%B1%E5%8C%BB%E7%BB%8F%E5%8E%86/",
+          "snippet": "在前往医院之前，为了更好地与医生取得交流，我准备了三件事情。首先是取得了三甲医院的易性症诊断证明。其次是收集了过往的体检数据（分别是激素前、激素后 ...",
+          "date": "2024年4月18日",
+          "position": 49
+        },
+        {
+          "title": "性别工程：弥补上帝造人时偶然的疏漏 - 搜狐",
+          "link": "https://www.sohu.com/a/357287006_296660",
+          "snippet": "北京大学第三医院是国内唯一开设跨性别序列医疗程序的医疗机构。 丁香园有幸同北医三院跨性别序列医疗负责人潘柏林、内分泌医生刘烨，聊了聊我国跨 ...",
+          "date": "2019年11月29日",
+          "position": 50
+        },
+        {
+          "title": "需要进步– Telegram",
+          "link": "https://t.me/s/Carrots_Control_Field?before=2291",
+          "snippet": "北医三院SRS手术全过程记录(mtf) https://zhuanlan.zhihu.com/p/464156579 · 知 ... 北某三院作为大陆地区跨性别医疗资源及口碑最好的为数不多的几家医院之一，对于 ...",
+          "position": 51
+        },
+        {
+          "title": "【出圈】跨性别者：我愿用三分之二生命换女性身份Transgender",
+          "link": "https://www.youtube.com/watch?v=YQy7fTYE31c",
+          "snippet": "国内跨性别者群体长期处于比较隐秘的状态，很难得到正规的医疗帮助，外界对他们没有认知，或有诸多误解。《出圈》许研敏专访北医三院跨性别序列医疗门诊 ...",
+          "date": "2023年3月3日",
+          "position": 52
+        },
+        {
+          "title": "Purple Med | 跨性别男性如何变回自己",
+          "link": "https://wdkpurple.lgbt/post/2019-04-05-ftm/",
+          "snippet": "本文是Purple 推送《跨性别女性如何做回自己》的平行篇。 1 资源推荐【转介信息】 北医三院易性症序列医疗团队： ...",
+          "date": "2019年4月5日",
+          "position": 53
+        },
+        {
+          "title": "北医三院程序和罗浩谁最牛 - 起点中文",
+          "link": "https://www.qidian.com/ask/qqbxavxpeqbiq",
+          "snippet": "北医三院是一个医疗机构，罗浩是北医三院的一名副主任医师，他们属于不同的概念范畴， ... 北医三院刘烨跨性别. 刘烨是北京大学第三医院（北医三院）内分泌科的副 ...",
+          "date": "2024年10月25日",
+          "position": 54
+        },
+        {
+          "title": "什么叫跨性别人士 - 抖音",
+          "link": "https://www.douyin.com/search/%E4%BB%80%E4%B9%88%E5%8F%AB%E8%B7%A8%E6%80%A7%E5%88%AB%E4%BA%BA%E5%A3%AB",
+          "snippet": "什么叫跨性别人士 · 大千心世界. 认证徽章. 大千心世界. ·2年前 · 跨性别人群. 百科. 心理学术语. 查看全部 · 咸鸭蛋黄包子. ·9月前 · 北医三院整形外科常旭. 认证徽章 · 北医 ...",
+          "position": 55
+        },
+        {
+          "title": "目前与性别认同相关的医疗资源列表.md - GitHub",
+          "link": "https://github.com/KristallWang/Transgender-lost-years/blob/master/0002_Medical/Medical_Resources/%E7%9B%AE%E5%89%8D%E4%B8%8E%E6%80%A7%E5%88%AB%E8%AE%A4%E5%90%8C%E7%9B%B8%E5%85%B3%E7%9A%84%E5%8C%BB%E7%96%97%E8%B5%84%E6%BA%90%E5%88%97%E8%A1%A8.md",
+          "snippet": "华北 ; 北京大学第三医院, 刘烨, HRT处方，易性症综合门诊 ; 北京大学第六医院, 丛中, 易性症证明 ; 北京大学第六医院, 方明昭, 易性症证明, 已退休 ; 北京大学第六医院, 田成华 ...",
+          "position": 56
+        },
+        {
+          "title": "驻格林纳达大使韦宏添在格媒体发表署名文章《“大金砖”里的中国让全 ...",
+          "link": "https://www.mfa.gov.cn/zwbd_673032/wjzs/202411/t20241104_11520699.shtml",
+          "snippet": "... 跨亚非欧拉，汇聚了丰富多彩的文明。金砖合作机制全球影响力的历史性提升正是全球南方国家群体性崛起的具体体现。2024年初金砖国家成功扩员后，已有30 ...",
+          "date": "4天前",
+          "position": 57
+        },
+        {
+          "title": "重庆市人力资源和社会保障局",
+          "link": "https://rlsbj.cq.gov.cn/",
+          "snippet": "热搜： 职称 三支一扶 遴选 档案 二级建造师. > 首页 | 政务公开 | 渝快办 ... 10-25; 川渝人社合作又有新进展！20项高频社保业务在两地工行实现跨省通办！10-25 ...",
+          "position": 58
+        },
+        {
+          "title": "北医三院简介-北京大学第三医院网上预约挂号",
+          "link": "http://www.sanyuanguahaowan.com/about/about-19.html",
+          "snippet": "北京大学第三医院（简称“北医三院”）始建于1958年，是卫生部部管的集医疗、教学、科研和预防保健为一体的现代化综合性三级甲等医院。现有在职职工2556人，开放床位1498张。",
+          "position": 59
+        },
+        {
+          "title": "本周！北京大学第三医院妇科郭红燕、肿瘤放疗科专家到医院坐诊！",
+          "link": "http://business.bandao.cn/a/1730452278939372.html",
+          "snippet": "北京大学第三医院（简称“北医三院”）建于1958年，国家卫生健康委委管医院，集医疗、教学、科研、预防保健、康复与健康管理为一体的综合性三甲医院。",
+          "date": "4天前",
+          "position": 60
+        },
+        {
+          "title": "LGBT群体内也有歧视和无知文章来源：凤凰网-热追踪 ... - Facebook",
+          "link": "https://www.facebook.com/photo.php?fbid=822307347829059&id=103721063021028&set=a.295089380550861",
+          "snippet": "... 医学界，对跨性别群 体的研究几乎还处于空白。即便是在此领域多有研究的 北医三院潘柏林医生，也只能无可奈何地使用世界数据 对中国变性者人口进行估算。 在性别意识还 ...",
+          "position": 61
+        },
+        {
+          "title": "更新北医三院性别鉴定· 9aa5c05b9f - MtF-wiki - Nya",
+          "link": "https://git.lzc256.com/archive/MtF-wiki/commit/9aa5c05b9f5121f4efed392edc766e8a73a65918",
+          "snippet": "-29,7 +29,8 @@ weight: 600. 省市,机构名称,备注. 上海市,上海妇幼保健院,仅可开具病历，无法开具诊断证明. 上海市,上海九院,跨性别门诊，仅可开具病历，无法开具诊断 ...",
+          "position": 62
+        },
+        {
+          "title": "北京市人民政府办公厅关于印发《北京市推动旅游业高质量发展的 ...",
+          "link": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202410/t20241030_3931191.html",
+          "snippet": "深入推进“演艺之都”建设，推出更具沉浸感、互动性、特色化的旅游演艺产品，塑造“跟着演出去旅行”文旅品牌。开发建党、抗战和新中国成立三大红色文化主题片区 ...",
+          "date": "7天前",
+          "position": 63
+        },
+        {
+          "title": "跨性别门诊医生：被投诉、袭击，也要证明孩子「没病」 - 网易",
+          "link": "https://www.163.com/dy/article/HQKURSDP05455PIA.html",
+          "snippet": "无需向什么人解释自己与常人不同的想法和行为，医生们足够了解这个群体。 这是北京大学第三医院在2017年开设的“跨性别综合门诊”。潘柏林医生，是国内第一支 ...",
+          "date": "2023年1月9日",
+          "position": 64
+        },
+        {
+          "title": "北医六院-北医三院理论最快流程（存疑） - MtF指南针",
+          "link": "https://mtf.party/2020/09/%E5%8C%97%E5%8C%BB%E5%85%AD%E9%99%A2-%E5%8C%97%E5%8C%BB%E4%B8%89%E9%99%A2%E7%90%86%E8%AE%BA%E6%9C%80%E5%BF%AB%E6%B5%81%E7%A8%8B%EF%BC%88%E5%AD%98%E7%96%91%EF%BC%89/",
+          "snippet": "让trans的大家得到自己想要的和应该得到的东西；而被医生认为不是trans而是其它原因的孩子们…也应该感到幸福呢，毕竟…哪怕是女装大佬的社会接受度也比trans ...",
+          "date": "2020年9月5日",
+          "position": 65
+        },
+        {
+          "title": "北医三院易性症序列医疗团队成立 - 天使文库",
+          "link": "http://mtf.aimo.moe/wiki/%E5%8C%97%E5%8C%BB%E4%B8%89%E9%99%A2%E6%98%93%E6%80%A7%E7%97%87%E5%BA%8F%E5%88%97%E5%8C%BB%E7%96%97%E5%9B%A2%E9%98%9F%E6%88%90%E7%AB%8B",
+          "snippet": "“易性症”，其实描述的是“跨性别人群”对自我性别不认同的一种焦虑状态，并非是一种有医学客观病变证据的疾病。然而，“并非疾病，甚于疾病”，该人群由于无法 ...",
+          "date": "2020年7月16日",
+          "position": 66
+        },
+        {
+          "title": "遭遇家长威胁| 跨性别手术医生那些不为人知的事- 日记- 豆瓣",
+          "link": "https://m.douban.com/note/732630741/",
+          "snippet": "... 性别的人。包括：跨性别男性(Transgender Man)：指认同自己是男性的跨性别者，又称女跨男（FTM）。跨性别女性(Transgender ... 潘柏林，北医三院跨性别医疗团队 ...",
+          "date": "2019年9月1日",
+          "position": 67
+        },
+        {
+          "title": "新时代行政检察的奋进之旅 - 最高人民检察院",
+          "link": "https://www.spp.gov.cn/zdgz/202411/t20241105_670939.shtml",
+          "snippet": "在这起行政生效裁判监督案中，检察机关审查发现，某市医疗保障局所依据、法院所适用的地方规范性文件与社会保险法冲突，后者规定的“不纳入基本医疗保险基金 ...",
+          "date": "20小时前",
+          "position": 68
+        },
+        {
+          "title": "微博",
+          "link": "https://m.weibo.cn/status/4856343133949622",
+          "snippet": "跨性别治疗医生看见中国家庭的撕裂# 在北京大学第三医院开设的“跨性别综合门诊”中，医生潘柏林常常陷入陷入左右为难的处境。",
+          "date": "2023年1月9日",
+          "position": 69
+        },
+        {
+          "title": "至今缺少指南共识这群中国医生30年摸石头过河 - 凤凰网",
+          "link": "https://i.ifeng.com/c/8G5jkkqejSl",
+          "snippet": "... 跨性别医疗的医生也十分稀少。 ... 这其中大约有80% 的人提出激素治疗需求，20% 左右有手术需求。 北医三院的潘柏林老师团队.",
+          "date": "2022年5月17日",
+          "position": 70
+        },
+        {
+          "title": "臺北醫學大學",
+          "link": "https://www.tmu.edu.tw/",
+          "snippet": "1960年6月1日，在胡水旺、徐千田兩位醫學博士，以及熱心醫學教育人士的奔走下創辦。從三間鐵皮屋開始，小自書本、玻璃管，大至土地、房舍，皆是由私人捐資而來。",
+          "position": 71
+        },
+        {
+          "title": "“杭州国土空间总体规划”不完全解读",
+          "link": "https://www.hangzhou.gov.cn/art/2024/10/30/art_812269_59104374.html",
+          "snippet": "作为国际性综合交通枢纽城市的杭州，则将进一步增强全球链接能力。航空方面，提升萧山国际机场枢纽能级，建设第三、第四跑道，完善空港集疏运体系，打造长三角 ...",
+          "date": "7天前",
+          "position": 72
+        },
+        {
+          "title": "区长谢东调研教育及民政领域群众身边不正之风和腐败问题集中整治 ...",
+          "link": "https://www.cqyz.gov.cn/zwxx_229/yzyw/202411/t20241101_13764695.html",
+          "snippet": "副区长陈平参加。 重庆大同实验学校食堂采取自主运营模式，通过落实五级同责、严守四道关口、紧盯三环监督 ...",
+          "date": "4天前",
+          "position": 73
+        },
+        {
+          "title": "“推动高质量发展深化全方位转型”系列主题第十场新闻发布会举行",
+          "link": "https://www.dt.gov.cn/dtszf/xwfbh/202411/80a697afa54f4b2ca4d9b0fc8650ae7e.shtml",
+          "snippet": "我们还重点推进了总投资近400亿元的600万千瓦晋北采煤沉陷区新能源基地项目建设，这个项目投产后，每年向京津冀输送清洁电力100亿度。 三是统筹源网荷储协同 ...",
+          "date": "5天前",
+          "position": 74
+        },
+        {
+          "title": "上海市人民政府办公厅关于印发《美丽上海建设三年行动计划（2024 ...",
+          "link": "https://www.shanghai.gov.cn/nw12344/20241030/7f7acf5ae4f3460ab3c406e2567c765d.html",
+          "snippet": "推进杭州湾石化化工挥发性有机物协同治理，修订长三角区域重污染天气预警应急联动方案。落实淀山湖等重点跨界水体联保专项治理及生态建设实施方案，完成太 ...",
+          "date": "7天前",
+          "position": 75
+        },
+        {
+          "title": "国家卫生健康委员会2024年11月5日新闻发布会文字实录",
+          "link": "http://www.nhc.gov.cn/xcs/s3574/202411/6b4cafacc4a14291aabc8b88bc19a16a.shtml",
+          "snippet": "... 跨层级、跨机构医检互认。各医院医生经患者同意，以高清无损的方式 ... 重医附一院作为一所大型综合性的教学医院，我们持续通过加强学科专科建设 ...",
+          "date": "12小时前",
+          "position": 76
+        },
+        {
+          "title": "黑民规〔2024〕9号关于进一步促进残疾孤儿回归家庭的通知 - 省民政厅",
+          "link": "https://mzt.hlj.gov.cn/mzt/c109805/202411/c00_31781491.shtml",
+          "snippet": "（三）依法办理收养登记。各县（市、区）民政部门要依法办理收养登记 ... 跨区域户口迁移的，收养人应当及时重新向迁入地民政部门提出孤儿基本 ...",
+          "date": "5天前",
+          "position": 77
+        },
+        {
+          "title": "跨性别+手术- 抖音",
+          "link": "https://www.douyin.com/search/%E8%B7%A8%E6%80%A7%E5%88%AB%2B%E6%89%8B%E6%9C%AF",
+          "snippet": "00:00/05:19. 北医三院整形外科常旭. 认证徽章 · 北医三院整形外科常旭. ·4月前. 变性手术前的4大流程#整形医生常旭 #健康 #变性手术 #变性 #跨性别.",
+          "date": "2024年9月18日",
+          "position": 78
+        },
+        {
+          "title": "文化赋能绘就“诗和远方”新画卷 - 福建省人民政府",
+          "link": "https://www.fujian.gov.cn/zwgk/ztzl/sxzygwzxsgzx/sdjj/wvjj/202411/t20241104_6557411.htm",
+          "snippet": "在刚刚结束的第十五届海峡两岸（厦门）文化产业博览交易会（下称“文博会”）上，各类文创产品通过跨 ... 三项挑战系列赛等赛事先后落地，助力体育消费持续 ...",
+          "date": "2天前",
+          "position": 79
+        },
+        {
+          "title": "《走出性别困境： “跨性别”与“性别焦虑”的医疗援助》潘柏林【扫描版",
+          "link": "https://yabook.org/post/13488.html",
+          "snippet": "潘柏林，北京大学医学博士，北京大学第三医院成形外科副主任医师，副教授，硕士生导师，跨性别综合医疗负责人，中国整形美容协会性别医学与性器官整形分会副会长 ...",
+          "date": "2023年8月31日",
+          "position": 80
+        },
+        {
+          "title": "《清华城市健康指数2024》成果发布 - 新华网",
+          "link": "http://www.news.cn/health/20241031/b86d2c22146944958804bb79013ac16b/c.html",
+          "snippet": "长三角、珠三角、辽中南三个城市群城市健康水平位列全国前三。从一级 ... 中国工程院院士、清华大学临床医学院院长、北京清华长庚医院院长、清华 ...",
+          "date": "6天前",
+          "position": 81
+        },
+        {
+          "title": "北医三院ldquo易性症rdquo - 北纬通信",
+          "link": "http://www.nirierer.com/bwtxzp/6863.html",
+          "snippet": "初次来诊：适合第一次来诊，或者尚不清楚自己属于哪个阶段的跨性别者。 潘柏林医生门诊. □每周三上午8:00-11: ...",
+          "position": 82
+        },
+        {
+          "title": "易性症专栏】北医三院“易性症”序列治疗就诊服务信息-变性手术-潘柏林",
+          "link": "https://www.meidaifu.com/article-813.html",
+          "snippet": "一、 初次来诊：适合第一次来诊，或者尚不清楚自己属于哪个阶段的跨性别者。 潘柏林医生门诊：. 每周三上午8:00-11:00——北医三院成形科“易性 ...",
+          "position": 83
+        },
+        {
+          "title": "北医三院成立跨区域医联体探路京津冀医疗一体化",
+          "link": "https://www.cn-healthcare.com/article/20140616/content-458151.html",
+          "snippet": "在京津冀区域协同发展的战略背景下，京津冀医疗一体化再迈实质性一步。6月15日，北京大学第三医院（以下简称“北医三院”）与河北省承德市妇幼保健院的协同 ...",
+          "date": "2014年6月16日",
+          "position": 84
+        },
+        {
+          "title": "前三季度江苏经济发展追“新”逐“绿”质效更高",
+          "link": "http://www.sasac.gov.cn/n2588025/n2588129/c32007621/content.html",
+          "snippet": "该院是国家区域医疗中心项目，包含南、北两个院区，南院区属于2024年度省 ... 中铁十四局项目盾构经理介绍，项目全线建成后，将加快推动南京跨江融合高质量发展 ...",
+          "date": "5天前",
+          "position": 85
+        },
+        {
+          "title": "【游记】回龙观｜北三- 脱水菜- Futarino",
+          "link": "https://futarino.online/t/%E3%80%90%E6%B8%B8%E8%AE%B0%E3%80%91%E5%9B%9E%E9%BE%99%E8%A7%82%EF%BD%9C%E5%8C%97%E4%B8%89/1797",
+          "snippet": "因为我精神状态比较正常，所以只开了470的检查，加上有学校报销百分之八十（“你们学校还给你们报销跨 ... 北医三院别进去北医六院了 :pray: 现在在诊室门口候诊 ...",
+          "date": "2023年10月30日",
+          "position": 86
+        },
+        {
+          "title": "镇街和区级部门一把手2024年第四次季度例会发言摘登",
+          "link": "http://cqna.gov.cn/zwxx_254/qxdt/202411/t20241104_13767740.html",
+          "snippet": "三是多跨协同聚力量。信访指标连续三个季度保持A档，为高分平安报表奠定了坚实基础。 区经济信息委、经开区经济运行局. 锚定高质量发展目标科创赋能新 ...",
+          "date": "2天前",
+          "position": 87
+        },
+        {
+          "title": "山海浩荡谱新篇——写在建设“活优富美”新福建十周年之际 - 时政",
+          "link": "http://politics.people.com.cn/n1/2024/1101/c1001-40352295.html",
+          "snippet": "十年来，福建人民想在一起、干在一起、拼在一起，上下齐奏高质量发展时代强音，经济总量连跨3个万亿元台阶，从2． ... 三区”，在旅游设施、业态培育、对台 ...",
+          "date": "4天前",
+          "position": 88
+        },
+        {
+          "title": "2024年10月30日总第1024期 - 上海工程技术大学",
+          "link": "https://www.sues.edu.cn/30/de/c17469a274654/page.htm",
+          "snippet": "他指出，大学是使命性组织，面向未来，大学要充分发挥人才培养、科学研究、社会服务、文化传承创新、国际交流合作等功能，共同塑造人类的美好未来。希望论坛 ...",
+          "date": "7天前",
+          "position": 89
+        },
+        {
+          "title": "河南省人民政府办公厅<br>关于印发河南省进一步优化外商投资环境 ...",
+          "link": "http://www.luohe.gov.cn/sitesources/lhsrmzf/page_pc/zsyz/tzzc/article6a72441988734227b0e15317343016a2.html",
+          "snippet": "... 院所开展技术研发和产业化应用，申报各类科技计划项目，指导帮助符合条件 ... （三）积极承接外商投资企业梯度转移。依托各类开放平台，推动省际 ...",
+          "date": "1天前",
+          "position": 90
+        },
+        {
+          "title": "盐城市人民政府盐城要闻盐城抢抓机遇深度融入长三角",
+          "link": "https://www.yancheng.gov.cn/art/2024/11/5/art_49_4251310.html",
+          "snippet": "其中，沪盐合作园区11家，占上海对外合作园区的三分之一。 “链”上发力. 澎湃向“新”动能. 围绕“5+2”战略性新兴产业和23条重点产业 ...",
+          "date": "19小时前",
+          "position": 91
+        },
+        {
+          "title": "[PDF] Standards of Care for the Health of Transgender and Gender ...",
+          "link": "https://www.wpath.org/media/cms/Documents/SOC%20v8/Translations/SOC-8-Final_Mandarin.pdf",
+          "snippet": "... 北京大学第三医院跨性别序列医疗团队（潘柏林、常旭、赵润蕾、王关卉儿、刘烨、韩萌、王子墨）. 北京回龙观医院过斌. 长春市第六医院吴晓寒. 上海交通大学 ...",
+          "date": "2022年9月15日",
+          "position": 92
+        },
+        {
+          "title": "411跨性别手术排队- 百度",
+          "link": "http://www.baidu.com/from=844b/ssid=0/s?word=411%E8%B7%A8%E6%80%A7%E5%88%AB%E6%89%8B%E6%9C%AF%E6%8E%92%E9%98%9F&sa=re_dl_prs_34689_3&ms=1&rqid=5635728657113769510&params_ssrt=node-san&rq=%E4%B8%8A%E6%B5%B7411%E8%A2%AB%E5%81%9C%E6%AD%A2%E5%8F%98%E6%80%A7&rsf=103631108&asctag=65737",
+          "snippet": "2023年9月2日上海9院刘阳医生在阴道再造、阴茎再造、乳房整形、性别畸形外生殖器 ... 6月28日内地的跨性别医疗,最早可以追溯到1983年,在北京大学第三医院完成了 ...",
+          "position": 93
+        },
+        {
+          "title": "中共广东省委广东省人民政府关于深入实施创新驱动发展战略加快 ...",
+          "link": "http://www.gd.gov.cn/zzzq/gdyw/content/post_4515152.html",
+          "snippet": "（三）夯实科技基础能力。加快建设粤港澳大湾区综合性国家科学中心，推动中国散裂中子源（一期）等设施发挥作用，加快 ...",
+          "date": "8天前",
+          "position": 94
+        },
+        {
+          "title": "新闻8点见丨医生潘柏林：跨性别群体处于隐秘状态大多纠结痛苦",
+          "link": "https://m.bjnews.com.cn/detail/162742763114304.html",
+          "snippet": "潘柏林是北医三院副主任医师，全国首个跨性别序列医疗门诊负责人，团队至今已服务超千名跨性别者。正常人难以获知性别不一致到底是种什么样的体验，潘医生 ...",
+          "date": "2021年7月28日",
+          "position": 95
+        },
+        {
+          "title": "为了一江碧水向东流——武汉探索生态优先绿色发展新路子",
+          "link": "https://www.wuhan.gov.cn/sy/whyw/202411/t20241103_2479262.shtml",
+          "snippet": "2018年4月，习近平总书记在武汉主持召开深入推动长江经济带发展座谈会上强调，必须从中华民族长远利益考虑，把修复长江生态环境摆在压倒性位置，共抓大保护、 ...",
+          "date": "3天前",
+          "position": 96
+        },
+        {
+          "title": "链动合成生物，杭州何以出圈？",
+          "link": "https://www.hangzhou.gov.cn/art/2024/11/5/art_812266_59104567.html",
+          "snippet": "从《三年行动计划》看，杭州将推动更多资源向合成生物领域集聚，加快形成新质生产力。 这当中，尤其值得一提的是，比如依托高水平的科研院所和重点平台，促进跨 ...",
+          "date": "19小时前",
+          "position": 97
+        },
+        {
+          "title": "重庆民政将在六个方面重点着力，加强重庆普惠性基础性兜底性民生 ...",
+          "link": "https://www.cq.gov.cn/ywdt/jrcq/202410/t20241030_13751510.html",
+          "snippet": "为落实积极应对人口老龄化战略，我市将建设十五分钟养老服务城市。完善三级养老服务网络，培育社区养老服务综合体，推进普惠养老社区建设，实施“银龄行动”项目 ...",
+          "date": "7天前",
+          "position": 98
+        },
+        {
+          "title": "公告_中国人民大学人权研究中心",
+          "link": "http://humanrights.ruc.edu.cn/rqdt/gg/c8e75436c9f04272bb1c7a18780d0e72.htm",
+          "snippet": "周老师主要从以下四个方面展开：一、跨性别人群为何需要宪法保障；二、海外跨性别者权利保障的立法；三、我国法院裁判的跨性别者案例；四、宪法平等下跨性别者权利保障。",
+          "position": 99
+        }
+      ],
+      "images": [
+        {
+          "title": "广州“跨性别序列医疗门诊”正式开诊啦！有需要的朋友们除了可以去北京北 ...",
+          "imageUrl": "https://i.redd.it/%E5%B9%BF%E5%B7%9E-%E8%B7%A8%E6%80%A7%E5%88%AB%E5%BA%8F%E5%88%97%E5%8C%BB%E7%96%97%E9%97%A8%E8%AF%8A-%E6%AD%A3%E5%BC%8F%E5%BC%80%E8%AF%8A%E5%95%A6-%E6%9C%89%E9%9C%80%E8%A6%81%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC%E9%99%A4%E4%BA%86%E5%8F%AF%E4%BB%A5%E5%8E%BB%E5%8C%97%E4%BA%AC%E5%8C%97%E5%8C%BB%E4%B8%89%E9%99%A2-%E4%B8%8A%E6%B5%B7%E4%B9%9D%E9%99%A2-%E8%BF%98%E5%8F%AF%E4%BB%A5%E5%8E%BB%E5%B9%BF%E5%B7%9E%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E7%AC%AC%E4%B8%80%E5%8C%BB%E9%99%A2%E5%99%A2-v0-pvwd3mqd89cd1.jpg?width=1120&format=pjpg&auto=webp&s=efee6acb61704f0a9efcc4ae867f6fba04a463ec",
+          "link": "https://www.reddit.com/r/weibo_read/comments/1e26b7z/%E5%B9%BF%E5%B7%9E%E8%B7%A8%E6%80%A7%E5%88%AB%E5%BA%8F%E5%88%97%E5%8C%BB%E7%96%97%E9%97%A8%E8%AF%8A%E6%AD%A3%E5%BC%8F%E5%BC%80%E8%AF%8A%E5%95%A6%E6%9C%89%E9%9C%80%E8%A6%81%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC%E9%99%A4%E4%BA%86%E5%8F%AF%E4%BB%A5%E5%8E%BB%E5%8C%97%E4%BA%AC%E5%8C%97%E5%8C%BB%E4%B8%89%E9%99%A2%E4%B8%8A%E6%B5%B7%E4%B9%9D%E9%99%A2%E8%BF%98%E5%8F%AF%E4%BB%A5%E5%8E%BB%E5%B9%BF%E5%B7%9E%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E/"
+        },
+        {
+          "title": "广州“跨性别序列医疗门诊”正式开诊啦！有需要的朋友们除了可以去北京北 ...",
+          "imageUrl": "https://i.redd.it/%E5%B9%BF%E5%B7%9E-%E8%B7%A8%E6%80%A7%E5%88%AB%E5%BA%8F%E5%88%97%E5%8C%BB%E7%96%97%E9%97%A8%E8%AF%8A-%E6%AD%A3%E5%BC%8F%E5%BC%80%E8%AF%8A%E5%95%A6-%E6%9C%89%E9%9C%80%E8%A6%81%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC%E9%99%A4%E4%BA%86%E5%8F%AF%E4%BB%A5%E5%8E%BB%E5%8C%97%E4%BA%AC%E5%8C%97%E5%8C%BB%E4%B8%89%E9%99%A2-%E4%B8%8A%E6%B5%B7%E4%B9%9D%E9%99%A2-%E8%BF%98%E5%8F%AF%E4%BB%A5%E5%8E%BB%E5%B9%BF%E5%B7%9E%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E7%AC%AC%E4%B8%80%E5%8C%BB%E9%99%A2%E5%99%A2-v0-pgjei8yd89cd1.jpg?width=1240&format=pjpg&auto=webp&s=57551a9fb5dbd757c9cecd2425ac91be60482d55",
+          "link": "https://www.reddit.com/r/weibo_read/comments/1e26b7z/%E5%B9%BF%E5%B7%9E%E8%B7%A8%E6%80%A7%E5%88%AB%E5%BA%8F%E5%88%97%E5%8C%BB%E7%96%97%E9%97%A8%E8%AF%8A%E6%AD%A3%E5%BC%8F%E5%BC%80%E8%AF%8A%E5%95%A6%E6%9C%89%E9%9C%80%E8%A6%81%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC%E9%99%A4%E4%BA%86%E5%8F%AF%E4%BB%A5%E5%8E%BB%E5%8C%97%E4%BA%AC%E5%8C%97%E5%8C%BB%E4%B8%89%E9%99%A2%E4%B8%8A%E6%B5%B7%E4%B9%9D%E9%99%A2%E8%BF%98%E5%8F%AF%E4%BB%A5%E5%8E%BB%E5%B9%BF%E5%B7%9E%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E/"
+        },
+        {
+          "title": "北医三院“跨性别门诊”医生的内心独白-虎嗅网",
+          "imageUrl": "https://img.huxiucdn.com/article/content/202105/06/173009544991.jpg?imageView2/2/w/1000/format/jpg/interlace/1/q/85",
+          "link": "https://m.huxiu.com/article/426094.html"
+        },
+        {
+          "title": "广州“跨性别序列医疗门诊”正式开诊啦！有需要的朋友们除了可以去北京北 ...",
+          "imageUrl": "https://i.redd.it/%E5%B9%BF%E5%B7%9E-%E8%B7%A8%E6%80%A7%E5%88%AB%E5%BA%8F%E5%88%97%E5%8C%BB%E7%96%97%E9%97%A8%E8%AF%8A-%E6%AD%A3%E5%BC%8F%E5%BC%80%E8%AF%8A%E5%95%A6-%E6%9C%89%E9%9C%80%E8%A6%81%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC%E9%99%A4%E4%BA%86%E5%8F%AF%E4%BB%A5%E5%8E%BB%E5%8C%97%E4%BA%AC%E5%8C%97%E5%8C%BB%E4%B8%89%E9%99%A2-%E4%B8%8A%E6%B5%B7%E4%B9%9D%E9%99%A2-%E8%BF%98%E5%8F%AF%E4%BB%A5%E5%8E%BB%E5%B9%BF%E5%B7%9E%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E7%AC%AC%E4%B8%80%E5%8C%BB%E9%99%A2%E5%99%A2-v0-nj47t6ud89cd1.jpg?width=1120&format=pjpg&auto=webp&s=8e8a1d07ed01aa0fa60ac341230467c499014d46",
+          "link": "https://www.reddit.com/r/weibo_read/comments/1e26b7z/%E5%B9%BF%E5%B7%9E%E8%B7%A8%E6%80%A7%E5%88%AB%E5%BA%8F%E5%88%97%E5%8C%BB%E7%96%97%E9%97%A8%E8%AF%8A%E6%AD%A3%E5%BC%8F%E5%BC%80%E8%AF%8A%E5%95%A6%E6%9C%89%E9%9C%80%E8%A6%81%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC%E9%99%A4%E4%BA%86%E5%8F%AF%E4%BB%A5%E5%8E%BB%E5%8C%97%E4%BA%AC%E5%8C%97%E5%8C%BB%E4%B8%89%E9%99%A2%E4%B8%8A%E6%B5%B7%E4%B9%9D%E9%99%A2%E8%BF%98%E5%8F%AF%E4%BB%A5%E5%8E%BB%E5%B9%BF%E5%B7%9E%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E/"
+        },
+        {
+          "title": "北京｜胡佩诚– MtF.wiki",
+          "imageUrl": "https://mtf.wiki/zh-cn/docs/psyco/beijing/hu-peicheng/proof.jpg",
+          "link": "https://mtf.wiki/zh-cn/docs/psyco/beijing/hu-peicheng/"
+        },
+        {
+          "title": "刘烨– MtF.wiki",
+          "imageUrl": "https://mtf.wiki/zh-cn/docs/hrt/puth/liu-ye/prescription.jpg",
+          "link": "https://mtf.wiki/zh-cn/docs/hrt/puth/liu-ye/"
+        },
+        {
+          "title": "广州“跨性别序列医疗门诊”正式开诊啦！有需要的朋友们除了可以去北京北 ...",
+          "imageUrl": "https://i.redd.it/%E5%B9%BF%E5%B7%9E-%E8%B7%A8%E6%80%A7%E5%88%AB%E5%BA%8F%E5%88%97%E5%8C%BB%E7%96%97%E9%97%A8%E8%AF%8A-%E6%AD%A3%E5%BC%8F%E5%BC%80%E8%AF%8A%E5%95%A6-%E6%9C%89%E9%9C%80%E8%A6%81%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC%E9%99%A4%E4%BA%86%E5%8F%AF%E4%BB%A5%E5%8E%BB%E5%8C%97%E4%BA%AC%E5%8C%97%E5%8C%BB%E4%B8%89%E9%99%A2-%E4%B8%8A%E6%B5%B7%E4%B9%9D%E9%99%A2-%E8%BF%98%E5%8F%AF%E4%BB%A5%E5%8E%BB%E5%B9%BF%E5%B7%9E%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E7%AC%AC%E4%B8%80%E5%8C%BB%E9%99%A2%E5%99%A2-v0-tnkjwlwd89cd1.jpg?width=1240&format=pjpg&auto=webp&s=7128974a8e4c21a979c62656c0783d0c1571e4f8",
+          "link": "https://www.reddit.com/r/weibo_read/comments/1e26b7z/%E5%B9%BF%E5%B7%9E%E8%B7%A8%E6%80%A7%E5%88%AB%E5%BA%8F%E5%88%97%E5%8C%BB%E7%96%97%E9%97%A8%E8%AF%8A%E6%AD%A3%E5%BC%8F%E5%BC%80%E8%AF%8A%E5%95%A6%E6%9C%89%E9%9C%80%E8%A6%81%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC%E9%99%A4%E4%BA%86%E5%8F%AF%E4%BB%A5%E5%8E%BB%E5%8C%97%E4%BA%AC%E5%8C%97%E5%8C%BB%E4%B8%89%E9%99%A2%E4%B8%8A%E6%B5%B7%E4%B9%9D%E9%99%A2%E8%BF%98%E5%8F%AF%E4%BB%A5%E5%8E%BB%E5%B9%BF%E5%B7%9E%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E/"
+        },
+        {
+          "title": "北医三院“跨性别门诊”医生的内心独白-虎嗅网",
+          "imageUrl": "https://img.huxiucdn.com/article/content/202105/06/173012352863.jpg?imageView2/2/w/1000/format/jpg/interlace/1/q/85",
+          "link": "https://m.huxiu.com/article/426094.html"
+        },
+        {
+          "title": "Untitled",
+          "imageUrl": "x-raw-image:///a4e68cfcc2f3568955e62ea42ea4faf52f939f0adf0443420ef92213b5504e1a",
+          "link": "https://cnlgbtdata.com/files/uploads/2023/12/2022%E7%89%88%E8%B7%A8%E6%80%A7%E5%88%AB%E5%8C%BB%E7%96%97%E7%85%A7%E6%8A%A4%E6%89%8B%E5%86%8C_4JGB5o5.pdf"
+        }
+      ],
+      "peopleAlsoAsk": [
+        {
+          "question": "北医三院什么时候放号？",
+          "snippet": "北医三院微信每天早上7:10放号。",
+          "title": "北医三院开通微信就诊全流程线上服务",
+          "link": "https://bynews.bjmu.edu.cn/yyzs/2016yy/186022.htm"
+        },
+        {
+          "question": "北医三院 如何挂号？",
+          "snippet": "一、预约挂号方式：\n1\n电话预约：4006-120-115（8:00-21:00）\n2\n网络预约：www.guahaoe.com（24小时）\n3\n门诊挂号现场预约：（周一～周五8:00-11:30，13:30-17:00，节假日除外） ...\n4\n诊间预约：医生工作站",
+          "title": "北医三院六种预约挂号方式服务患者 - 北京市卫生健康委员会",
+          "link": "http://wjw.beijing.gov.cn/xwzx_20031/jcdt/201912/t20191215_1231046.html"
+        },
+        {
+          "question": "北京第三医院怎么样？",
+          "snippet": "北京大学第三医院蝉联北京市医疗联合体综合评价第一名 5月23日，北京市卫健委公布了2022年度医疗联合体综合评价结果，北京大学第三医院在全市参评的62家综合医联体核心医院中位列第一。 这是北京大学第三医院继去年后再次获得综合评价第一名。",
+          "title": "北京大学第三医院蝉联北京市医疗联合体综合评价第一名 - 北京大学新闻网",
+          "link": "https://news.pku.edu.cn/xwzh/b4af70c00a1c4d49bae5866eae442790.htm"
+        }
+      ],
+      "relatedSearches": [
+        {
+          "query": "北京 回龙观 医院官网"
+        },
+        {
+          "query": "诺 坤 复"
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "跨性别 北医三院",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "驻比利时大使费胜潮在《外交世界》发表署名文章《完善高水平对外 ...",
+          "link": "https://www.mfa.gov.cn/zwbd_673032/wjzs/202411/t20241104_11520737.shtml",
+          "snippet": "推动货物贸易优化升级，推动外贸产品标准与合格评定国际合作。全面实施跨境服务贸易负面清单，推进服务业扩大开放综合试点示范。 三是深化外商投资管理体制 ...",
+          "date": "6天前",
+          "position": 1
+        },
+        {
+          "title": "UltraViolet 紫外｜转载：跨性别者的中国历史",
+          "link": "https://chinadigitaltimes.net/chinese/707243.html",
+          "snippet": "... 跨性别者的本土历史经验，存留一份边缘者的记忆，或许能为此地的跨性别 ... 1982年，跨性别女性张克莎在北医三院进行了中国首例公开的性别重置手术。",
+          "date": "2024年4月24日",
+          "position": 2
+        },
+        {
+          "title": "【本科教育教学巡礼】草地农业科技学院：聚焦新农科培育卓越农林 ...",
+          "link": "https://news.lzu.edu.cn/c/202411/116452.html",
+          "snippet": "... 三轮、第四轮全国学科评估中，兰州大学草学位列全国第一和A+；2011 ... 医师培训中心”落户兰大一院; 11-01重庆大学弘深学院到萃英学院调研; 11-01 ...",
+          "date": "4天前",
+          "position": 3
+        },
+        {
+          "title": "更新北医三院· 20c15512e7 - MtF-wiki - Nya",
+          "link": "https://git.lzc256.com/archive/MtF-wiki/commit/20c15512e725066f428c38dd826d075715f72cd8",
+          "snippet": "跨性别相关内容如跨性别初诊咨询、启动内分泌治疗、激素治疗复诊、性别重置主体手术咨询等服务，均需挂“易性症门诊”就诊，其他门诊时段不接诊上述医疗咨询和复诊。",
+          "position": 4
+        },
+        {
+          "title": "快来为长宁这些文旅活动及线路投票吧！ - 上海市人民政府",
+          "link": "https://www.shanghai.gov.cn/nw17239/20241104/e296a4bdeb1e412ba40ed814cf1d0737.html",
+          "snippet": "... 跨界改编，创新性感受自然和艺术的无限魅力。本场活动首创在动物园内举办 ... 北商圈。交通工具：双层巴士+徒步. 科技之“光”. 推荐游览时间：每年 ...",
+          "date": "1天前",
+          "position": 5
+        },
+        {
+          "title": "漳州非遗：努力俘获年轻人的心_ 文旅经济 - 福建省人民政府",
+          "link": "https://www.fujian.gov.cn/zwgk/ztzl/sxzygwzxsgzx/sdjj/wvjj/202411/t20241105_6557988.htm",
+          "snippet": "漳州窑素三彩瓷传承人陈嫣说。 文创引领国潮风. 作为国家级文化生态 ... 漳浦剪纸省级非遗代表性传承人卢淑蓉的做法是玩跨界、走混搭。她尝试着 ...",
+          "date": "21小时前",
+          "position": 6
+        },
+        {
+          "title": "[PDF] 全球跨性别健康与幸福指数议题",
+          "link": "https://transrespect.org/wp-content/uploads/2018/12/TvT-PS-Vol20-2018_CN.pdf",
+          "snippet": "在南非和博. 茨瓦纳，跨性别者可获得医学监督的荷尔蒙替代治疗但是需要精神病学的诊. 断。南非只有两处医疗设备能够进行性别转换相关的手术。在东非国家，如卢旺. 达，乌干达， ...",
+          "position": 7
+        },
+        {
+          "title": "产品专员招聘_大连医诺生物股份有限公司 - 应届生求职网",
+          "link": "https://www.yingjiesheng.com/job-007-265-695.html",
+          "snippet": "（3）外向积极，擅长人际沟通及跨部门协作；. （4）能够接受一定 ... · [北京]北医三院医学工程处工程岗位|计量岗位; · [广州]广州医科大学附属 ...",
+          "date": "15小时前",
+          "position": 8
+        },
+        {
+          "title": "上海“中心效应”凸显重构全球航运版图 - 光明网",
+          "link": "https://economy.gmw.cn/2024-10/30/content_37645695.htm",
+          "snippet": "要素集聚看“枢纽功能”提升金秋时节的上海，北外滩世界会客厅高朋满座，2024北外滩国际航运论坛10月22日至24日在这里举行，线下参会人数约4000人次， ...",
+          "date": "7天前",
+          "position": 9
+        },
+        {
+          "title": "前三季度江苏经济发展数据观察②看成色，追“新”逐“绿”质效更高",
+          "link": "http://district.ce.cn/newarea/roll/202410/29/t20241029_39184769.shtml",
+          "snippet": "今年6月27日,江苏省人民医院宿迁医院正式开工,目前正在进行桩基施工。该院是国家区域医疗中心项目,包含南、北两个院区,南院区属于2024年度省重大项目,主要 ...",
+          "date": "8天前",
+          "position": 10
+        },
+        {
+          "title": "重庆市渝中区知识产权工作领导小组办公室关于印发《重庆市渝中区 ...",
+          "link": "https://www.cqyz.gov.cn/zwxx_229/gggs/202411/t20241105_13772402.html",
+          "snippet": "... 跨区域、跨部门知识产权协同保护；开展川渝地理标志产品和商标品牌联合执法专项行动；加强川渝地区知识产权司法保护协作，促进川渝两地知识产权保护 ...",
+          "date": "12小时前",
+          "position": 11
+        },
+        {
+          "title": "易性症怎么治疗 - 有来医生",
+          "link": "https://youlai.cn/video/article/94D8F0UUOf.html",
+          "snippet": "易性症是根据国际疾病名称分类ICD-10标准，针对此类跨性别人群在精神科领域中的诊断。当然，直... 潘柏林│北京大学第三医院. 2023/04/01播放(80114) ...",
+          "date": "2023年8月13日",
+          "position": 12
+        },
+        {
+          "title": "不断书写中华民族治水安邦、兴水利民新篇章 - 时政- 人民网",
+          "link": "http://politics.people.com.cn/n1/2024/1030/c1001-40349937.html",
+          "snippet": "要牢固树立绿水青山就是金山银山理念，切实保护好地球第三极生态。重中之重是把三江源这个“中华水塔”守护好，保护生物多样性，提升水源涵养能力。要划出硬 ...",
+          "date": "7天前",
+          "position": 13
+        },
+        {
+          "title": "党的十八大以来社会工作成就综述 - 国家林业和草原局",
+          "link": "http://www.forestry.gov.cn/c/www/szxx/593030.jhtml",
+          "snippet": "三北局 · 规划院 · 发展院 · 干部学院 · 防控中心 · 华东院 · 中南院 · 西北院 · 西南院 ... 社会工作体制机制持续健全。2023年12月，中央党的建设工作领导 ...",
+          "date": "20小时前",
+          "position": 14
+        },
+        {
+          "title": "【粤政一周】广东任命一批市厅级干部 - 南方网",
+          "link": "https://news.southcn.com/node_54a44f01a2/6714773df2.shtml",
+          "snippet": "区块三东至新塘社，南至华博水产种苗养殖场，西至茶塘路，北至白坭水。 ○至此，广东省共有8个国家级经济技术开发区（广州、南沙、增城、花都、珠海、惠州大亚湾 ...",
+          "date": "2天前",
+          "position": 15
+        },
+        {
+          "title": "新疆生产建设兵团成立70周年！铸剑为犁，“十三连”让人感动泪目",
+          "link": "https://www.jfdaily.com/news/detail?id=814634",
+          "snippet": "塔克拉玛干沙漠北缘，第一师十二团五连的棉花地旁，种植户陈春飞小心地叠起地膜下的滴灌带。 “这玩意，原来只在报纸上见过。现在，咱兵团的田里到处都是。相比 ...",
+          "date": "2天前",
+          "position": 16
+        },
+        {
+          "title": "资源型城市转型路径探索之鹤岗篇——煤城蜕变| 旗舰报告 - 第一财经",
+          "link": "https://m.yicai.com/news/102336953.html",
+          "snippet": "作者：李晔▫ 第一财经研究院 责编：马绍之. 引言. 网络日益发达，在反“内卷”的浪潮中 ...",
+          "position": 17
+        },
+        {
+          "title": "智谱AI概念牛股赫然在列！近一个月接待机构调研次数居前热门股名单 ...",
+          "link": "https://wap.eastmoney.com/a/202411023227166014.html",
+          "snippet": "据Choice数据统计，截至发稿，沪深京三市近一个月（10.1-11.2）共1152家上市公司接受机构调研。具体来看，接待机构调研次数最多的上市公司为北特科技达8次， ...",
+          "date": "3天前",
+          "position": 18
+        },
+        {
+          "title": "一个大学驻村工作队的教育帮扶实践： “咱们，一起向未来！”",
+          "link": "http://h5.hljnews.cn/h5/detail/normal/6043096761205760",
+          "snippet": "2023年5月，工作队交接前一个月，他们在走户调研时了解到，新立村共有20多个在校大学生，其中高职高专院校居多。 ... “举办一次活动如果只来三四个人，那意义不大 ...",
+          "date": "3天前",
+          "position": 19
+        },
+        {
+          "title": "淮安清江浦：打造数字产业集群厚植经济社会发展动力 - 新华网江苏频道",
+          "link": "http://js.news.cn/20241031/5e8569542db24efdb578e7ba23e44f75/c.html",
+          "snippet": "... 北安全运营中心、浪潮云淮科技、顺丰速运、顺沃人力资源中心等一批行业头部企业相继入驻，12万平方米的园区集聚了44家数字经济相关联企业，今年前三 ...",
+          "date": "5天前",
+          "position": 20
+        },
+        {
+          "title": "汉沽管理区：聚焦重点领域协同创新发展 - 唐山",
+          "link": "https://tangshan.huanbohainews.com.cn/2024-11/04/content_50380720.html",
+          "snippet": "... 北淮淀小学等8所学校先后签订友好学校协议。医疗保障方面，与天津多家医院建立医联体、医共体关系，医保报销实现京津冀平台医院联网结算。公积金福利 ...",
+          "date": "2天前",
+          "position": 21
+        },
+        {
+          "title": "北医三院简介",
+          "link": "http://www.guahaooaa.com/about/about-19.html",
+          "snippet": "在几代人的共同努力下，北医三院已发展成为国内高水平的大型综合性医院。骨科、药剂科（临床药学）、病理科、专科护理、检验科、消化科、妇科、产科、职业病科、耳鼻喉 ...",
+          "position": 22
+        },
+        {
+          "title": "弘扬“和合”传统文化，共建家庭文明新形态 - 台州频道",
+          "link": "https://tz.zjol.com.cn/tzxw/202411/t20241104_30622718.shtml",
+          "snippet": "天朗意和、秋色正浓。11月2日，在全面贯彻落实党的二十届三中全会精神的金秋良辰，2024和合文化全球论坛之“和睦和美，弘扬中华家庭传统美德”家庭文明建设 ...",
+          "date": "2天前",
+          "position": 23
+        },
+        {
+          "title": "前三季度交通运输主要指标实现增长 - 光明网",
+          "link": "https://economy.gmw.cn/2024-11/01/content_37651005.htm",
+          "snippet": "完成营业性货运量416.3亿吨，同比增长3.3%；完成跨区域人员流动量490.9亿人次，保持快速增长……10月31日，交通运输部举行新闻发布会，介绍前三季度交通 ...",
+          "date": "5天前",
+          "position": 24
+        },
+        {
+          "title": "进博会倒计时：欧莱雅三馆联动，10余款首发新品如7而至 - 美通社",
+          "link": "https://www.prnasia.com/story/467008-1.shtml",
+          "snippet": "... 跨境电商发售。品牌独创的ANTIFADE COMPLEXTM配方，成就护发、锁色、呵护 ... 全新院线级至浓玻色因原液护理方案，搭配专业离子深导护理仪 ...",
+          "date": "4天前",
+          "position": 25
+        },
+        {
+          "title": "2024年美国大选的今日发展：民调势均力敌，哈里斯和特朗普冲击 ...",
+          "link": "https://chinese.aljazeera.net/news/liveblog/2024/10/27/2024%E5%B9%B4%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89%E7%9A%84%E4%BB%8A%E6%97%A5%E5%8F%91%E5%B1%95%E6%B0%91%E8%B0%83%E5%8A%BF%E5%9D%87%E5%8A%9B%E6%95%8C%E5%93%88%E9%87%8C%E6%96%AF%E5%92%8C%E7%89%B9",
+          "snippet": "万斯随后指责拜登-哈里斯政府允许跨性别女性参加女子运动队，这是他反对的。 ... 近三分之二的美国人没有大学学位，这一事实往往导致收入较低 ...",
+          "date": "2024年10月27日",
+          "position": 26
+        },
+        {
+          "title": "跨性别者性别认同的法律承认—中国相关法律和政策评估报告",
+          "link": "https://www.undp.org/zh/china/publications/kuaxingbiezhexingbierentongdefaluchengren-zhongguoxiangguanfaluhezhengcepinggubaogao",
+          "snippet": "这些建议一旦实现，将为跨性别人群获得教育、就业、医疗和其它公共服务提供有利环境。该报告还强调通过跨性别者社群的努力和倡导，提供新的平台以促进跨性别 ...",
+          "date": "2018年8月5日",
+          "position": 27
+        },
+        {
+          "title": "罗氏携智慧医疗创新实践成果亮相进博会 - 广州日报大洋网",
+          "link": "https://news.dayoo.com/finance/202411/05/171077_54742259.htm",
+          "snippet": "“更多5G、人工智能等数字化技术将促使医疗服务走向真正意义的智能化和个体化。”中国科学院院士、复旦大学附属中山医院名誉院长、上海国际医学科创中心 ...",
+          "date": "6小时前",
+          "position": 28
+        },
+        {
+          "title": "孙昊：全力以赴，让南疆颌面外科展“新颜” - 新疆- 中国新闻网",
+          "link": "http://www.xj.chinanews.com.cn/dizhou/2024-11-05/detail-iheiszsm5299066.shtml",
+          "snippet": "孙昊来自上海交通大学医学院附属第九人民医院（以下简称“上海九院”），面 ... 孙昊说，他接续师承，对培养本地医生采取“三步走”的方法。第一步要 ...",
+          "date": "11小时前",
+          "position": 29
+        },
+        {
+          "title": "鄂非创新合作实现互利共赢 - 经济日报",
+          "link": "https://proapi.jingjiribao.cn/detail.html?id=553609",
+          "snippet": "武汉大学口腔医院帮助刚果（金）金沙萨大学附属医院建立了非洲口腔区域医疗中心；华中科技大学同济医学院附属协和医院与南非合作开展血吸虫研究，助力非洲人民 ...",
+          "date": "1天前",
+          "position": 30
+        },
+        {
+          "title": "三张名片的含“金”量——上海普陀区夯实人民城市经济基石新实践",
+          "link": "https://www.jfdaily.com/sgh/detail?id=1455015",
+          "snippet": "从长寿路左转，向北进入武宁路，2300米的道路两侧，辐射集聚了高校、科研院所、科技企业等近千家科技创新主体，这便是普陀区“中华武数”中科创基础最 ...",
+          "date": "17小时前",
+          "position": 31
+        },
+        {
+          "title": "江西织密农村养老服务网解决养老三项难题 - 地方经济",
+          "link": "http://district.ce.cn/newarea/roll/202411/01/t20241101_39189016.shtml",
+          "snippet": "截至2023年底，江西省老龄化率达到18.76%。相较于城市，农村养老面临一些特有困难：留守老人多，老人居住分散、居家养老观念重，养老服务市场不够成熟……为破解 ...",
+          "date": "5天前",
+          "position": 32
+        },
+        {
+          "title": "北医三院医疗美容科专业实力解析：医生团队与费用详情参考",
+          "link": "https://www.whzallfc.cn/price/44855.html",
+          "snippet": "男，副主任医师，副教授，作为北京大学医学博士，当前还担任着**美容外科协会以及**跨性别健康专业协会的会员。作为国内在跨性别序列医疗领域的技术 ...",
+          "date": "2024年10月16日",
+          "position": 33
+        },
+        {
+          "title": "北京大学临床医学高等研究院2024年博士后招聘启事 - 高校人才网",
+          "link": "https://www.gaoxiaojob.com/announcement/detail/265478.html",
+          "snippet": "... 院院长助理、北京大学第三医院研究员，国自然优秀青年基金获得者，中国生物物理学会肠道菌群分会理事、中国医疗保健国际交流促进会妇产微生态医学分会常委。",
+          "date": "12小时前",
+          "position": 34
+        },
+        {
+          "title": "“固执一点去追求你真正喜欢的东西” - 上海科技报",
+          "link": "https://www.shkjb.com/content.html?id=235981",
+          "snippet": "在印度长大、在美国接受高等教育的马克斯·普朗克数学研究所莉泽·迈特纳课题组负责人阿鲁妮玛·拉伊表示，在科学能力方面，男女之间并不存在性别带来的很大 ...",
+          "date": "2024年10月27日",
+          "position": 35
+        },
+        {
+          "title": "3亿元，台州这一海洋生态保护项目获中央财政奖补",
+          "link": "https://tz.zjol.com.cn/tzxw/202411/t20241103_30620199.shtml",
+          "snippet": "此次申报的项目囊括浙北浙中浙南三个区域，涉及海岛、海湾、河口等典型 ... 会上，浙江省肿瘤医院台州院区作为温岭市肿瘤防治办公室、温岭市肿瘤 ...",
+          "date": "3天前",
+          "position": 36
+        },
+        {
+          "title": "[PDF] 跨性别者 - ohchr",
+          "link": "https://www.ohchr.org/sites/default/files/Documents/Issues/Discrimination/LGBT/FactSheets/UNFE_FactSheet_Transgender_CH.pdf",
+          "snippet": "跨性别者可能自我认同为男人、女人、跨性. 别男人、跨性别女人和非二元性别的人，在. 世界各地的不同文化中，他们还有hijra、第. 三性、双灵、travesti、fa'afafine、 ...",
+          "position": 37
+        },
+        {
+          "title": "2024年美国大选的今日发展：特朗普和哈里斯在北卡罗来纳州和 ...",
+          "link": "https://chinese.aljazeera.net/news/liveblog/2024/11/3/2024%E5%B9%B4%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89%E7%9A%84%E4%BB%8A%E6%97%A5%E5%8F%91%E5%B1%95%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E5%93%88%E9%87%8C%E6%96%AF%E5%9C%A8%E5%8C%97%E5%8D%A1%E7%BD%97",
+          "snippet": "距离2024年选举日仅剩三天，共和党总统候选人唐纳德·特朗普和民主党人卡玛拉·哈里斯都在前往美国南部，继续向选民发表最后陈述。",
+          "date": "3天前",
+          "position": 38
+        },
+        {
+          "title": "有骗徒涉冒充东华三院莫德瑜护理安老院职员进行电话诈骗- RTHK",
+          "link": "https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/ch/component/k2/1777636-20241105.htm",
+          "snippet": "林定国：本港定位跨地区法律和经济合作重要枢纽. contains audio ... 医管局：北大屿山医院运作不受停水事故影响. 2024-11-03 HKT 21:06. 有离岛 ...",
+          "date": "14小时前",
+          "position": 39
+        },
+        {
+          "title": "广州专家操控机器人成功为福建患者“远程切肝”！手术刀横跨700公里",
+          "link": "https://news.dayoo.com/guangzhou/202411/05/139995_54741681.htm",
+          "snippet": "... 院肝胆外科二区主任赵明在三明一院手术室进行现场配合，全程保障手术顺利进行。 在匡铭手术操作，以及两院医疗团队的密切配合下，患者肝脏肿瘤被完整 ...",
+          "date": "21小时前",
+          "position": 40
+        },
+        {
+          "title": "传播推广|北京，跨性别者医疗需求全攻略！ | 自由微信| FreeWeChat",
+          "link": "https://freewechat.com/a/MzkzNzE4OTY5NA==/2247483986/1",
+          "snippet": "... 医院-北京大学第三医院（简称：北医三院）。 由于我们兄弟盟仅关注跨性别兄弟群体，对内我们希望给大家推荐各种更快捷方便的途径以及有益资讯，对外 ...",
+          "date": "2021年6月13日",
+          "position": 41
+        },
+        {
+          "title": "阿根廷LGBTQ大遊行抗議總統歧視性政策| 國際| 中央社CNA",
+          "link": "https://www.cna.com.tw/news/aopl/202411030069.aspx",
+          "snippet": "LGBTQ（同性戀、雙性戀、跨性別及酷兒）活動人士古提瑞茲（Lucas Gutierrez）在遊行開始前不久表示，米雷伊政府「一再侮辱多元人士」。 司法部長利巴羅納（ ...",
+          "date": "3天前",
+          "position": 42
+        },
+        {
+          "title": "攀登数字化医疗“智”高点《中国数字医疗发展蓝皮书》编撰正式启动",
+          "link": "https://m.takefoto.cn/news/2024/11/04/10957750.shtml",
+          "snippet": "... 北京大学第三医院药学部主任赵荣生，南京鼓楼医院党委副书记、中国医院 ... 2023年，为进一步推进数字医疗领域的跨学科研究，武田与复旦大学智能 ...",
+          "date": "2天前",
+          "position": 43
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

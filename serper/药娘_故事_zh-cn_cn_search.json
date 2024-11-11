@@ -1,0 +1,995 @@
+{
+  "query": "药娘 故事",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-03T23:37:11.189361",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "药娘 故事",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "药娘的全面战争：被困在男性躯壳里的女人 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_6806238",
+          "snippet": "阿诚是一名药娘，依靠服用激素类药物，改变自己作为男性的原生性别。毫无疑问，她拥有着一切男性生理体征，但在性别认知层面却是完完全全的女性。 作为一个跨 ...",
+          "date": "2020年4月3日",
+          "position": 1
+        },
+        {
+          "title": "药娘：在学校被人欺负的娘娘腔，长大后选择卖身｜真实故事 - 网易",
+          "link": "https://www.163.com/dy/article/DI2V6HCA05188DPA.html",
+          "snippet": "男孩小芹服用了一年雌激素，药物在他身上的作用非常明显，细腻的面部轮廓，光滑白嫩的大腿，近乎女孩的声音，以及一头乌黑长发，从外表上已经很难判断他 ...",
+          "date": "2018年5月18日",
+          "position": 2
+        },
+        {
+          "title": "跨性别者故事：从药娘到变性人，步步维艰 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_3113918",
+          "snippet": "薇薇安是从12岁开始知道变性人这三个字的，此后她开始了解相关询息，慢慢开始服药，一直到现在，她每天都要吃十几颗药：一颗色普龙、两颗补佳乐、八颗螺内酯、 ...",
+          "date": "2019年3月21日",
+          "position": 3
+        },
+        {
+          "title": "伊瀬知夏🏳️‍⚧️ on X: \"讲个药娘故事（原型为本人）：一位叫做 ...",
+          "link": "https://twitter.com/koinoesutoron/status/1619985060601692161",
+          "snippet": "讲个药娘故事（原型为本人）：一位叫做千花的同学在学校的时候，经常被骂像女性，ta确实很弱，在2014年的时候接触了几位跨性别者，然后ta自我觉醒成为了药娘， ...",
+          "date": "2023年1月30日",
+          "position": 4
+        },
+        {
+          "title": "我不是药神的故事，每天都在药娘圈里上演 - 观察者",
+          "link": "https://user.guancha.cn/wap/content?id=351481",
+          "snippet": "国内进行HRT的群体被称为“药娘”，这轻描淡写的两个字之下隐藏着常人难以企及的另外一个世界。中国跨性别者的变性之路可谓是过五关斩六将，难上加难。",
+          "date": "2020年7月21日",
+          "position": 5
+        },
+        {
+          "title": "药娘的血泪：为了钱半年灌肠100次 - 网易",
+          "link": "https://www.163.com/dy/article/FTEH6VA10521IQEE.html",
+          "snippet": "像她这样的药娘，有许多都不能被家庭所接受，从而独自一人生活，但是她们往往没有钱，为了生计更为了“吃糖”的费用以及未来做变性手术那高昂的手术费用，许多人 ...",
+          "date": "2020年12月9日",
+          "position": 6
+        },
+        {
+          "title": "E092.我是药娘，我只是想变成一个女孩–故事FM - Apple Podcasts",
+          "link": "https://podcasts.apple.com/de/podcast/e092-%E6%88%91%E6%98%AF%E8%8D%AF%E5%A8%98-%E6%88%91%E5%8F%AA%E6%98%AF%E6%83%B3%E5%8F%98%E6%88%90%E4%B8%80%E4%B8%AA%E5%A5%B3%E5%AD%A9/id1256399960?i=1000415467300&l=en-GB",
+          "snippet": "「药娘」是近几年出现的网络词汇，主要指心理性别为女，生理性别为男的人群，他们通过激素、药物改变内分泌，从而让自己的身体特征逐渐接近女性。 其实「 ...",
+          "date": "2018年7月9日",
+          "position": 7
+        },
+        {
+          "title": "我的丈夫是“药娘” - 网易",
+          "link": "https://m.163.com/dy/article/IBGDTSMP055619BO.html",
+          "snippet": "我是个深受传统思想影响的女孩子，在我的认知里，女孩子的第一次就应该在新婚夜，留给那个和自己共度余生的人。",
+          "position": 8
+        },
+        {
+          "title": "19岁跨性别者的三次“逃亡” - 新浪新闻",
+          "link": "https://news.sina.cn/sh/2020-06-30/detail-iircuyvk1278763.d.html",
+          "snippet": "16岁那一年，黄小迪在网上看到一篇文章，讲一个男子的药娘故事。她如同迷途羔羊找到了方向和归宿，既惶恐又踏实。 在决定吃药之前，黄小迪一个人考虑了很久。",
+          "date": "2020年6月30日",
+          "position": 9
+        },
+        {
+          "title": "药娘的人生 - 起点中文",
+          "link": "https://www.qidian.com/ask/tqbwziqgtkg",
+          "snippet": "吴问源药娘 “药娘”通常指通过服用抗雄激素、雌激素与孕激素药物，将男性性征女性化的群体，他们中有的是患有性别认知障碍，有的是因生活环境压力等因素渴望以女人身份生活 ...",
+          "position": 10
+        },
+        {
+          "title": "15岁儿子加“药娘QQ群”，聊天内容不堪入目！妈妈情绪失控",
+          "link": "https://www.cn-healthcare.com/articlewm/20210813/wap-content-1252565.html",
+          "snippet": "谁曾想，几个月过去了，刘女士发现自己的儿子不但没有扔掉那些东西，反倒是变本加厉，还在柜子里藏了裙子和口红，甚至直接告诉她：我从小就想做一个女孩，我想 ...",
+          "date": "2021年8月13日",
+          "position": 11
+        },
+        {
+          "title": "“药娘”是个怎样的群体？ 我们能为他们做些什么？ - 温州新闻网",
+          "link": "https://news.66wz.com/system/2021/12/21/105426896.shtml",
+          "snippet": "记者调查发现，对于跨性别者来说，他们隐藏身份生存在舆论夹缝之中，难被社会接纳。随着“药娘圈”逐渐低龄化、无序化、半公开化，吸引了不少涉世未深的青少年。",
+          "date": "2021年12月21日",
+          "position": 12
+        },
+        {
+          "title": "药娘的天空",
+          "link": "https://transky.mtf.wiki/",
+          "snippet": "药娘的天空 别名：想要变成鹰的鱼. 一个2000 年代的跨性别者的故事。 千篇一律的景，时长时短的影。无人相伴的路，惝恍迷离的舞。 开始阅读.",
+          "position": 13
+        },
+        {
+          "title": "#伪娘#药娘记一位特殊的“女孩” - xuezhaoの小説- pixiv",
+          "link": "https://www.pixiv.net/novel/show.php?id=13303009",
+          "snippet": "经过护士小姐姐的耐心劝导，她终于打消了想自杀的念头。护士小姐姐成功地扭转了她的消极情绪，让她重新变得乐观开朗了起来。一开始她也想不通，抗拒成为一个 ...",
+          "date": "2020年7月11日",
+          "position": 14
+        },
+        {
+          "title": "药娘的故事小说 - 起点中文",
+          "link": "https://www.qidian.com/ask/tqbbprhlwzfos",
+          "snippet": "《天家药娘》是一部前期为种田文，后期为宫廷文的小说，书中两人感情细水长流。 电视剧《莫染》原著小说为希行的《名门医女》，原著剧情同样精彩，大家可以点击下方链接 ...",
+          "position": 15
+        },
+        {
+          "title": "19岁跨性别者吃药“变性”",
+          "link": "http://szb.wxrb.com/jnwb/pc/content/202007/02/content_48265.html",
+          "snippet": "但黄小迪内心却很孤独、迷茫，觉得自己既不是男孩，又不像女孩。直到16岁那年，黄小迪在网上看到一个“药娘”通过吃药“改变”自己的故事，才恍然大悟，觉得 ...",
+          "date": "2020年7月2日",
+          "position": 16
+        },
+        {
+          "title": "药娘去势- 百度",
+          "link": "https://www.baidu.com/from=844b/ssid=0/s?word=%E8%8D%AF%E5%A8%98%E5%8E%BB%E5%8A%BF&sa=re_dl_prs_34689_2&ms=1&rqid=10120937516952290385&rq=%E5%88%86%E4%BA%AB%E6%88%91%E7%9A%84%E6%89%8B%E6%9C%AF%E5%8E%BB%E5%8A%BF&rsf=1630008&asctag=80330",
+          "snippet": "2020年8月12日2018年4月,18岁的郑斌在杭州的一家旅馆里切除了两侧睾丸,给ta做手术的是药娘群里一名自称“帮很多人做过变性手术,经验丰富”的... 网易新闻.",
+          "position": 17
+        },
+        {
+          "title": "一篇药娘日记，记录了数万药娘的悲惨命运 - 凤凰网",
+          "link": "https://i.ifeng.com/c/800QZCxzAzL",
+          "snippet": "对药娘来说，药是扭转自己性别的前期工具。 · 由此，我开始小心翼翼地认识她们。 · 一千个人心中有一千个哈姆雷特，一千个药娘心中有一千个成为药娘的理由。",
+          "date": "2020年9月23日",
+          "position": 18
+        },
+        {
+          "title": "6&7&8 小可的故事 - BiliBili",
+          "link": "https://www.bilibili.com/read/cv6593682/",
+          "snippet": "6 小可的故事（上）（叉刀：写一篇关于南宫易同学韩岳可的故事。他是一位药娘，所谓药娘，便是指性别认知为女的男孩，通过吃“药”的手段来改变自己的身体， ...",
+          "date": "2020年6月30日",
+          "position": 19
+        },
+        {
+          "title": "药娘日记节选_百度百科",
+          "link": "https://baike.baidu.com/item/%E8%8D%AF%E5%A8%98%E6%97%A5%E8%AE%B0%E8%8A%82%E9%80%89/50477191",
+          "snippet": "《药娘日记节选》是连载中的一部校园类轻小说，作者是LazySheep，连载于SF轻小说，全文共76027字。故事围绕一位年轻女孩的生活展开，她因医疗原因开始服用药物， ...",
+          "position": 20
+        },
+        {
+          "title": "《药娘的天空》 读后推荐",
+          "link": "https://blog.yazawaniko.com/index.php/archives/223/",
+          "snippet": "药娘，我不用解释，其实就是长着女孩子内心的男孩子，她们身为男孩子，但内心却认为自己是女性。这种对性别的认知与实际身体的冲突是带动她们吃药的根本原因。",
+          "date": "2020年4月7日",
+          "position": 21
+        },
+        {
+          "title": "动漫标签-药娘 - SF轻小说",
+          "link": "https://book.sfacg.com/tag/%E8%8D%AF%E5%A8%98",
+          "snippet": "综合信息：9.3(1477人评分) / 24280人收藏/ 4520446人看过/ 都市 / 连载中/ 2018-04-11 / 2281102字——不愿意承认自己是男孩子的事实，而使用药物让自己变得更像女孩子一些的 ...",
+          "position": 22
+        },
+        {
+          "title": "淞隐漫录·药娘_应天故事汇",
+          "link": "http://gsh.yzqz.cn/gdwx/xs/bj/syml/032.htm",
+          "snippet": "药娘谓素曰：“妹与姊缘尽矣！他日姊如相念，就妹没处掘土三尺余，有琥珀一方，即妹精诚之所结。置之佛前，香花供奉，三十年后，可得往生净土。姊幸勿忘。”玉娘在旁，呜咽弗能成声，曰 ...",
+          "position": 23
+        },
+        {
+          "title": "556 · 去势手术（中） - 药娘的天空",
+          "link": "https://transky.mtf.wiki/04/556",
+          "snippet": "但是她不后悔，她已经做出了她的决定，她很坚定地走进手术室里，坦然地躺在了床上。 “真的确定了吗？在做之前，我先给你讲个故事吧。” “嗯……” 孔雀 ...",
+          "date": "2024年3月26日",
+          "position": 24
+        },
+        {
+          "title": "小药娘的bad end 178",
+          "link": "https://nga.178.com/read.php?tid=37757879&page=4",
+          "snippet": "人家是正正经经变性了。 说白了，大部分药娘就是没有本事，只有卖卖药娘这个设定过活，这个群体的学历平均水平怕 ...",
+          "date": "2023年9月18日",
+          "position": 25
+        },
+        {
+          "title": "推特上，中国“药娘”在靠卖援交X视频谋生 - 网易新闻",
+          "link": "https://c.m.163.com/news/a/ICBMQR9H0552C19D.html",
+          "snippet": "顾名思义，药娘嘛，需要靠吃药抑制体内的雄性激素，增加雌激素，目的是让自己的男性特征消失，女性特征凸显。 比较毁三观的是，药娘群体里，未成年人占了很大 ...",
+          "date": "2023年8月18日",
+          "position": 26
+        },
+        {
+          "title": "wizpqter on X: \"我与男娘故事2-1：在跟第一个断了联系半年以后 ...",
+          "link": "https://twitter.com/wizpqter/status/1758704606782324885",
+          "snippet": "我与男娘故事2-1：在跟第一个断了联系半年以后，认识了第二个药娘，成为了主奴关系。这个心理上略好，但是过于青涩，有个控制欲极强的母亲。同样也有 ...",
+          "date": "2024年2月17日",
+          "position": 27
+        },
+        {
+          "title": "Novels - 药娘 - Pixiv",
+          "link": "https://www.pixiv.net/en/tags/%E8%8D%AF%E5%A8%98/novels",
+          "snippet": "药娘. 30 novels on pixiv. Find more Japanese works related to #bondage ... 故事- 雨生烟の小説- pixiv. 碎碎念 · #6 槿时的近期故事 · 雨生烟 · OriginalMtF药娘碎 ...",
+          "position": 28
+        },
+        {
+          "title": "[地理中国]佤族神药“娘布洛” - 央视网",
+          "link": "https://tv.cctv.com/v/v1/VIDE4iQdBJk5fbDBVlx1yaJG190705.html",
+          "snippet": "视频百科 · 祖国美 · 微故事 · ai美食 · 剧推荐 · 首页 · 直播 · 听音 · 央视 ...\n时长： 0:36\n发布时间： 2019年7月5日",
+          "date": "2019年7月5日",
+          "position": 29
+        },
+        {
+          "title": "药娘_标签_网易出品",
+          "link": "https://news.163.com/keywords/8/6/836f5a18/1.html",
+          "snippet": "药娘_标签_网易出品.",
+          "position": 30
+        },
+        {
+          "title": "trans-archive/transky: 药娘的天空 - GitHub",
+          "link": "https://github.com/trans-archive/transky",
+          "snippet": "药娘的天空别名：想要变成鹰的鱼. 一个2000 年代的跨性别者的故事。 千篇一律的景，时长时短的影。无人相伴的路，惝恍迷离的舞。 开始阅读. 欢迎找茬. 发现内容中的 ...",
+          "position": 31
+        },
+        {
+          "title": "我是药娘，我只是想变成一个女孩",
+          "link": "https://gezhong.vip/read-1272.html",
+          "snippet": "不要让别人看到我和别人的不同。 你好，欢迎收听故事fm，我是艾哲。 一个收集故事的人，在这里，我们用你的声音讲述 ...",
+          "date": "2022年11月29日",
+          "position": 32
+        },
+        {
+          "title": "皇家小药娘 - 喜马拉雅",
+          "link": "https://m.ximalaya.com/ask/t99704",
+          "snippet": "但是白娘娘解释了自己的做法，并且让这位神仙品尝了仙草的神奇效果，最终感动了这位神仙，他决定原谅白娘娘，并且让她把仙草带回人间，让更多的人受益。 白娘娘偷走仙草的故事 ...",
+          "position": 33
+        },
+        {
+          "title": "这个故事告诉我们，珍爱生命不要吃糖NGA玩家社区",
+          "link": "https://bbs.nga.cn/read.php?tid=40862629",
+          "snippet": "破绽有两处，其一是老大妈为什么会知道“药娘”这种互联网词汇？ 其二是突然出现的魔理沙点明了全文的主旨其实是“寿命论”。",
+          "date": "2024年7月12日",
+          "position": 34
+        },
+        {
+          "title": "药娘的天空 - 抖音百科",
+          "link": "https://m.baike.com/wikiid/8912307060323869694",
+          "snippet": "... 《药娘的天空》是一部关于跨性别者的小说，主人公药娘为了实现自己的梦想， ... 番外在故事之外的故事（一）. • VIP林夕晨（一）. • VIP林夕晨（二）. • VIP苏雨晴 ...",
+          "position": 35
+        },
+        {
+          "title": "深圳市市场稽查局组织召开2023年度稽查工作会议暨第二届新时代 ...",
+          "link": "http://amr.sz.gov.cn/gkmlpt/content/10/10477/post_10477714.html",
+          "snippet": "深圳市市场稽查局组织召开2023年度稽查工作会议暨第二届新时代稽查故事会 ... 药娘”、 相声“疯狂的石头”以及脱口秀串烧、情景剧表演和诗朗诵等六个 ...",
+          "date": "2023年3月13日",
+          "position": 36
+        },
+        {
+          "title": "【有片】内地「药娘」：变性无门有人网购荷尔蒙有人挥刀自残",
+          "link": "https://zh.hk01.com/%E5%8D%B3%E6%97%B6%E4%B8%AD%E5%9B%BD/222519/%E6%9C%89%E7%89%87-%E5%86%85%E5%9C%B0-%E8%8D%AF%E5%A8%98-%E5%8F%98%E6%80%A7%E6%97%A0%E9%97%A8-%E6%9C%89%E4%BA%BA%E7%BD%91%E8%B4%AD%E8%8D%B7%E5%B0%94%E8%92%99%E6%9C%89%E4%BA%BA%E6%8C%A5%E5%88%80%E8%87%AA%E6%AE%8B",
+          "snippet": "所谓「药娘」，属于LGBT群体中的跨性别者transsexual。在内地进行性别重置手术（即变性手术）有诸多规定，如需以内心认同的性别规范方式生活一年以上，经过精神 ...",
+          "date": "2018年8月14日",
+          "position": 37
+        },
+        {
+          "title": "便携式MP3-CD 播放器EXP2368/93 | Philips -飞利浦",
+          "link": "https://www.philips.com.cn/c-p/EXP2368_93/portable-mp3-cd-player",
+          "snippet": "EXP2368 MP3-CD 播放器带给您无与伦比的曼妙体验，这是一个能够10 小时无跳跃播放音乐的MP3-CD。经典设计，配有液晶显示屏，是您随时欣赏音乐的轻松便捷之选.",
+          "position": 38
+        },
+        {
+          "title": "GitLab-10万企业使用的一站式DevOps平台_GitLab中文官网",
+          "link": "https://gitlab.cn/",
+          "snippet": "极狐GitLab中文官网，提供企业级源代码管理，GitLab CI/CD，CodeReview，研发效能管理，GitLab DevSecOps等产品及服务。GitLab一站式DevOps平台，加速和优化软件开发全生命 ...",
+          "position": 39
+        },
+        {
+          "title": "淘寶小藥娘（1） - 博客來",
+          "link": "https://www.books.com.tw/products/0010926503?srsltid=AfmBOooBLUiJjp5IvA43zEz7gusQFrkhdxWRMftvBOCjg0h0NuJswyia",
+          "snippet": "身為風水大師的她，卻算不透自己的命， 如今一朝魂穿到古代，竟成了淘寶濟世的小藥娘？！ 堂堂風水大師竟被設局 ...",
+          "position": 40
+        },
+        {
+          "title": "猫大可on X: \"牙仙的故事竟然有人没听过，就是药娘吃糖之前，会找来 ...",
+          "link": "https://x.com/B_cat38324/status/1832055017597219251",
+          "snippet": "牙仙的故事竟然有人没听过，就是药娘吃糖之前，会找来社区最有资历的老药娘，给第一颗补子祈福，吹一口仙气。然后含着补子入睡，第二天睡醒，小药娘就有D ...",
+          "date": "2024年9月6日",
+          "position": 41
+        },
+        {
+          "title": "你组废物药娘真是把巨婴两个字演绎得惟妙惟肖- 小组讨论 - 豆瓣",
+          "link": "https://m.douban.com/group/topic/305185634/",
+          "snippet": "你推废物药娘真是把巨婴两个字演绎得惟妙惟肖，二十多岁既不上学也不工作，每天就是编故事卖惨蹭吃蹭喝蹭住，线上乞讨线下一样乞讨，说话“咱”开头“喵” ...",
+          "date": "2024年4月28日",
+          "position": 42
+        },
+        {
+          "title": "男娘锁- 一篇药娘日记，记录了数万药娘的悲惨命运_澎湃号",
+          "link": "https://sagarstudio.co.in/tr/mtngdwpzxbec/",
+          "snippet": "，男孩子女装出门系列逛超市+买菜，要被戳死了（我说目光），小男娘带锁走夜路第二集，男娘在豪华游轮上拍私房有多刺激！ ，妻管严引发惨案？ 男子戴困龙锁被妻子频繁电击.",
+          "position": 43
+        },
+        {
+          "title": "[聊斋故事][中国文苑][08][药娘][B] - Flickr",
+          "link": "https://www.flickr.com/photos/yujiaolong/albums/72157655141564939/",
+          "snippet": "[聊斋故事][中国文苑][08][药娘][B] ... Connecting people through photography.",
+          "position": 44
+        },
+        {
+          "title": "药娘：我用20年跨越性别 - 博海拾贝",
+          "link": "https://www.bohaishibei.com/post/34786/",
+          "snippet": "流了些血后，小羊自己把它包扎了起来，想着哪天和妈妈去看牙医的时候，搞点利多卡因再做尝试。可是当利多卡因到手之后，她又发现没有注射器也无法做麻醉，这 ...",
+          "date": "2018年3月21日",
+          "position": 45
+        },
+        {
+          "title": "席琳·迪翁/ravu·故事[CD]索尼音乐市场调查 - BicCamera.com",
+          "link": "https://www.biccamera.com.c.lj.hpcn.transer-cn.com/bc/item/4799264/",
+          "snippet": "席琳·迪翁/ravu·故事[CD] · 席琳·迪翁爱情故事 · 索尼音乐市场调查|Sony Music Marketing · 4799264.",
+          "currency": "¥",
+          "price": 1980,
+          "position": 46
+        },
+        {
+          "title": "药女 - 抖音",
+          "link": "https://www.douyin.com/search/%E8%8D%AF%E5%A5%B3",
+          "snippet": "儋州药女. ·17小时前. 10.22号闲着闲着 · 儋州药女. ·9小时前. 儋州药女出来了 · 南梁女帝柳如烟. ·4月前. 小药娘又来北京漂泊了，有收留合租的嘛？ · 草莓熊熊. ·1年前. #超爆 ...",
+          "position": 47
+        },
+        {
+          "title": "药娘类（有刀，慎入） - 妖神记漫画",
+          "link": "https://p.sfacg.com/p/13677846/",
+          "snippet": "药娘就该被歧视吗？ 就不能拥有爱情吗？ 这是讲述一个想做女孩子的男孩子的故事。也是一个药娘的故事。",
+          "position": 48
+        },
+        {
+          "title": "故事一位药娘的自白我成为药娘9个月的感受",
+          "link": "http://bbs.dangyaoa.com/showtopic.aspx?forumid=24&forumpage=1&topicid=2591&go=prev",
+          "snippet": "刚开始吃药一段时间后出现硬块，碰到会有点疼但不像很多人说的那样受不了。初期胸部增大的速度还是很快的，记得2月份穿衬衣外面套上毛衣，照镜子还能看见乳头 ...",
+          "date": "2020年11月19日",
+          "position": 49
+        },
+        {
+          "title": "赛尔号第100季动画片",
+          "link": "https://www.zhongguojie.org/?/20241023024559/AGIFIQAj_124172649.html",
+          "snippet": "中国结为您提供最新职场片『药娘维多利亚的秘密是真人故事吗』电影在线观看,药娘维多利亚的秘密是真人故事吗剧情为:我点了点头，转向王静， ...",
+          "date": "2024年10月23日",
+          "position": 50
+        },
+        {
+          "title": "药娘的天空",
+          "link": "https://transky.mtf.lgbt.arasaka.ltd/",
+          "snippet": "一个2000 年代的跨性别者的故事。",
+          "position": 51
+        },
+        {
+          "title": "跨性别女性- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E8%97%A5%E5%A8%98?oldformat=true",
+          "snippet": "跨性别女性这个术语并不可以与变性人女性或者药娘通用，尽管这两种词汇通常存在交互使用。“跨性别”是一个伞式术语，包括各种与指定性别不相同的族群 ...",
+          "position": 52
+        },
+        {
+          "title": "小药娘的bad end 178",
+          "link": "https://nga.178.com/read.php?tid=37757879&page=3",
+          "snippet": "... 最后战胜激素影响从身到心都成功转变为女性，和喜欢的人白头偕老，我要看这样的故事啊！ 56. UID:62972918 声望云间儒生 · 威望学徒. #442023-09-18 19:56.",
+          "date": "2023年9月18日",
+          "position": 53
+        },
+        {
+          "title": "田园记之药娘当家下载 - 喜马拉雅",
+          "link": "https://m.ximalaya.com/ask/t1326797",
+          "snippet": "重生娘子在种田全书设定新颖、故事流畅、文笔凝炼，情至深处，总能令读者情难自禁地跟着或欢喜或落泪；各个配角也独有特色，比如女主的爹娘和弟弟、男主的兄嫂，作者都写得 ...",
+          "position": 54
+        },
+        {
+          "title": "祸害下一代的毒瘤，药娘群 - Bilibili",
+          "link": "https://www.bilibili.com/video/BV1vV411u7uA/",
+          "snippet": "... 故事全流程！】高甜慎入！！！！！，520小药娘长得太丑了拿外卖吓晕外卖小哥，曾经的小药娘，现在巳是老么么了，战地顶级Pro指女装药娘，难怪有这么多 ...",
+          "date": "2023年6月23日",
+          "position": 55
+        },
+        {
+          "title": "萌妹、伪娘、药娘和绅士的cos援交群：单次援交低则数百多则上万",
+          "link": "https://www.guancha.cn/society/2017_02_24_395857.shtml?web?web",
+          "snippet": "而“药娘”则不同，简单来说就是心理性别为女，生理性别为男的跨性别者，他们通常是依靠激素药物改变内分泌，从而让自己身体特征逐渐接近女性。这个群体的人数 ...",
+          "date": "2017年2月24日",
+          "position": 56
+        },
+        {
+          "title": "农家小药娘(宝哥)最新章节在线阅读 - 书旗小说",
+          "link": "https://t.shuqi.com/book/7945391.html",
+          "snippet": "二十一世纪美女妇产科大夫陶绾一朝穿越，成了一名脸带胎记、父母双亡、未婚夫还上门退亲的孤女，上天是来玩她的吧？只是，她这个眼睛是怎么回事？为什么可以看见孕妇肚子里 ...",
+          "position": 57
+        },
+        {
+          "title": "[地理中国]佤族神药娘布洛有“不死草”之称 - 央视网",
+          "link": "https://tv.cctv.com/2017/11/14/VIDE3MJ9GQMHvbWw5OX3tkAM171114.shtml",
+          "snippet": "视频百科 · 祖国美 · 微故事 · ai美食 · 剧推荐 · 首页 · 直播 · 听音 · 央视 ...\n时长： 0:52\n发布时间： 2017年11月14日",
+          "date": "2017年11月14日",
+          "position": 58
+        },
+        {
+          "title": "A：为什么很多药娘自称“猫猫” B：寿命相似   | 机组 - 机核GCORES",
+          "link": "https://www.gcores.com/talks/922748",
+          "snippet": "我们坚信游戏不止是游戏，游戏中包含的科学，文化，历史等各个层面的知识和故事，它们同时也会辐射到二次元甚至电影的领域，这些内容非常值得分享给热爱游戏的您。 知 ...",
+          "position": 59
+        },
+        {
+          "title": "[讨论] 把人变成爱上自己的男娘，然后又不要他，算不算负心汉？",
+          "link": "https://g.nga.cn/read.php?tid=39966141",
+          "snippet": "改动. 在2024-04-24 06:13修改. 男娘 女主 折寿 药娘 问题 吃药 讨论. 热点 ... 二次元和男娘感觉关联很深… 很早很早以前我就在bbs论坛看男娘故事了 ...",
+          "date": "2024年4月24日",
+          "position": 60
+        },
+        {
+          "title": "深度揭秘：成为一名药娘的代价 - 浪迹情感",
+          "link": "http://www.langji520.com/lianai/qita/21122.html",
+          "snippet": "抗雄激素药物，雌激素，以及孕激素。 深度揭秘：成为一名药娘的代价第17张. (药娘需要的药物) ... 正如姜文所言，每个LSP的故事都会发生在夏天。 因为炎热的气候 ...",
+          "date": "2021年4月8日",
+          "position": 61
+        },
+        {
+          "title": "另类小说药娘_最新章节全文免费在线阅读 - QQ阅读",
+          "link": "https://ubook.reader.qq.com/book-search/%E5%8F%A6%E7%B1%BB%E5%B0%8F%E8%AF%B4%E8%8D%AF%E5%A8%98",
+          "snippet": "农门小药娘：将军，我当家！ ... 一朝穿越，成了老陈家万千宠爱于一身的药罐子幺女。爹娘把她含在嘴里怕化了，哥哥嫂子们把她捧在手心怕摔了，侄子们各个听她指挥。极品亲戚欺负？",
+          "position": 62
+        },
+        {
+          "title": "药娘什么时候开始吃药最好 - TikTok",
+          "link": "https://www.tiktok.com/discover/%E8%8D%AF%E5%A8%98%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%BC%80%E5%A7%8B%E5%90%83%E8%8D%AF%E6%9C%80%E5%A5%BD",
+          "snippet": "... M posts. Discover videos related to 药娘什么时候开始吃药最好on TikTok ... 故事600的心情 · 原聲汽車改裝分享- 車（表示）. 1430Likes. 145Comments. 58 ...",
+          "date": "2024年9月16日",
+          "position": 63
+        },
+        {
+          "title": "ts药娘：医疗魔法世界中的可爱冒险故事_免费人成在观看",
+          "link": "https://investing.hlmspain.com/",
+          "snippet": "《ts药娘》是一部以药娘为主题的日本轻小说，故事发生在一个以医疗魔法为核心的幻想世界中。作品讲述了主人公与一群可爱的药娘们的冒险故事。",
+          "date": "2024年8月3日",
+          "position": 64
+        },
+        {
+          "title": "DevOps_DevOps 解决方案_一站式DevOps_开发者工具| 腾讯云 ...",
+          "link": "https://coding.net/",
+          "snippet": "管理源码编译后的构建产物，支持漏洞扫描等特性；与上下游CI/CD 结合，形成自动化工作流。 ... 通过故事点和工时估算资源投入. 各阶段研发活动公开透明. 需求、代码、文档等项目 ...",
+          "position": 65
+        },
+        {
+          "title": "妙娘熬药美成仙完结 - 抖音",
+          "link": "https://www.douyin.com/search/%E5%A6%99%E5%A8%98%E7%86%AC%E8%8D%AF%E7%BE%8E%E6%88%90%E4%BB%99%E5%AE%8C%E7%BB%93",
+          "snippet": "您在查找妙娘熬药美成仙完结吗？抖音综合搜索帮你找到更多相关视频、图文、直播内容，支持在线观看。更有海量高清视频、相关直播、用户，满足您的在线 ...",
+          "date": "2024年3月18日",
+          "position": 66
+        },
+        {
+          "title": "年度征文｜2021 年，拥抱一个关于女孩的梦 - 少数派",
+          "link": "https://sspai.com/post/71349",
+          "snippet": "而那些迫切希望改变自己的人，便有不少走上了非法购药的道路，成为了「药娘」。 ... 故事写下来的想法。 世界上本不应该有「柜子」. 如果把「出柜」定义 ...",
+          "date": "2022年2月9日",
+          "position": 67
+        },
+        {
+          "title": "命运航班第一季在哪个APP上能看 - 江安",
+          "link": "https://www.jacxw.com/?/20241024202928/BGZTd1Nw_163048421.html",
+          "snippet": "江安橙乡网为您提供最新冒险片『药娘的情爱故事』电影在线观看,药娘的情爱故事剧情为:“切。”几人离去后，江达不屑的呸了一声。“呵呵，这样啊，很抱歉没有 ...",
+          "date": "2024年10月24日",
+          "position": 68
+        },
+        {
+          "title": "E092.我是药娘，我只是想变成一个女孩 - YouTube",
+          "link": "https://www.youtube.com/watch?v=UokiT9UaB2A",
+          "snippet": "其实「药娘」群体是跨性别者中的MtF ( Male to Female ) 一类，即生理男性却将自己认同为女性的性别认知者。 今天的故事讲述者淡淡然就是「药娘」群体 ...",
+          "date": "2024年3月3日",
+          "position": 69
+        },
+        {
+          "title": "青少年变性、嗑药、援交……毒教材还没完，日本亚文化入侵又来 - 搜狐",
+          "link": "https://www.sohu.com/a/575836524_121119270",
+          "snippet": "在直播间众人的围观中，她来到十几层楼的楼顶，用椅子和书本垫着爬上护栏，翻身一跃而下。警方很快赶到，确认了她的死亡。在现场搜查到的一封遗书中，人们找到 ...",
+          "date": "2022年8月11日",
+          "position": 70
+        },
+        {
+          "title": "佳佳唱片行",
+          "link": "https://www.ccr.com.tw/",
+          "snippet": ") CD · TWICE／트와이스. 第十四張迷你專輯:STRATEGY (Step 1 Ver.)／14th Mini Album:STRATEGY (Step 1 Ver.) CD · 蘇打綠／sodagreen. 《秋：故事（蘇打綠版）》預購版. CD.",
+          "position": 71
+        },
+        {
+          "title": "小雞妙妙幸福旅程：最喜歡你了！【超值附贈CD和QR Code故事】",
+          "link": "https://www.books.com.tw/products/0010971878?srsltid=AfmBOor7MrMNhP1CAYejTK2AnNoTSQASbo2qEYQlEzuP1j1cVq93QwXA",
+          "snippet": "書名：小雞妙妙幸福旅程：最喜歡你了！【超值附贈CD和QR Code故事】，語言：繁體中文，ISBN：9789862438794，頁數：36，出版社：幼福，作者：甘薇，出版日期：2023/11/01， ...",
+          "position": 72
+        },
+        {
+          "title": "药娘，是什么鬼？ - 网易新闻",
+          "link": "https://c.m.163.com/news/a/I7N26M4K05524KLP.html",
+          "snippet": "糖的故事 ; 有成为药娘的决心只是第一步，想要成为药娘，药是必不可少的一环。 ; 雌激素、抗雄激素、孕激素。 ; 有时可以遇到变性前的药娘卖药，“挖洞”即指变性 ...",
+          "date": "2023年6月20日",
+          "position": 73
+        },
+        {
+          "title": "DNF药娘是什么意思药娘是什么梗 - 8090网页游戏",
+          "link": "https://www.8090.com/news/gonglue/article_217118.html",
+          "snippet": "药娘有一个专属贴吧，大家有兴趣的话可以组团去观光哦~这样就一目了然啦~有逛过的小伙伴表示药娘吧去过一次，差点弯了~世界观崩塌了~男的吃药(糖)变成女的， ...",
+          "date": "2016年4月13日",
+          "position": 74
+        },
+        {
+          "title": "淘寶小藥娘3 (完) | 誠品線上",
+          "link": "https://www.eslite.com/product/1001132792682182187007?srsltid=AfmBOoqZIwc4pOLgzrUATwjuLF7VfyUOrxlX2HYvxurq9kGEP8HMxv0t",
+          "snippet": "依然月 · 知遠文化事業有限公司 · 淘寶小藥娘3 (完)：文創風1072《淘寶小藥娘》3（完）＋封查案歸來的秦傑再上梁山村，讓宋影好生歡喜，不過村裡村外的怪事也越來越多，煞氣流竄害 ...",
+          "position": 75
+        },
+        {
+          "title": "聊斋故事(中国文苑版)08 药娘",
+          "link": "http://www.mfcb.net/37233.html",
+          "snippet": "聊斋故事(中国文苑版)08 药娘 ... 内容提要：郑生的二位小妾貌美且才气纵横,引得花仙化身登门,作诗联对,姐妹情深,好不快活,若是为人亦可作世姐妹。可惜天降大 ...",
+          "date": "2020年5月27日",
+          "position": 76
+        },
+        {
+          "title": "药娘文章列表 - 仙女楼变装",
+          "link": "https://www.xiannvlou.cn/cdts/yaoniang",
+          "snippet": "夫妻变姐妹:玉娘的故事-5.错投男胎扮女孩 ... 转过年来，胡宽的正室文氏一病不起。虽经胡宽和玉娘悉心照料，遍访名Y，却不曾见效，终于抛下一双儿女去了。文氏弥留之际，握住玉娘 ...",
+          "position": 77
+        },
+        {
+          "title": "我娘制的药能让女人丰乳细腰，只不过那药初闻勾魂 - 抖音",
+          "link": "https://www.douyin.com/video/7306805062532107530",
+          "snippet": "我娘制的药能让女人丰乳细腰，只不过那药初闻勾魂，闻久了却要命！#小说#超级好看的小说#关注我每天更新故事- 是星星✨呀于20231129发布在抖音，已经收获了282个喜欢， ...",
+          "position": 78
+        },
+        {
+          "title": "无敌毒女变药娘 - QQ阅读",
+          "link": "https://ubook.reader.qq.com/ask/keyword/amskiqycjd",
+          "snippet": "以下为您介绍几部与“田园药香农门小医娘”相关的小说： - 《农门药香：捡个相公种包子》：小说中她是美艳的包子美人，他是冷峻的玉面郎中，两人在种种经历中感情逐渐升温。 - 《 ...",
+          "position": 79
+        },
+        {
+          "title": "FTM 懂得进- 直面人生 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/12687685/",
+          "snippet": "较为稀有的性别与性取向的故事，跨性别gay， ... 需要激素维持，这个人群中有比如“药娘”等专门的称呼，再多我也 ...",
+          "date": "2020年6月27日",
+          "position": 80
+        },
+        {
+          "title": "药娘群像：与身体斗争的这些年 - 凤凰网",
+          "link": "http://inews.ifeng.com/51900796/news.shtml",
+          "snippet": "性别焦虑、认知觉醒、开始吃药、向家人或密友出柜、就医确认、开始吃药……药娘所经过的路看上去大致是相似的。然而，由于成长环境、接触人群、个人性格的 ...",
+          "date": "2017年9月7日",
+          "position": 81
+        },
+        {
+          "title": "成为一名药娘的代价 - 北美生活引擎",
+          "link": "https://posts.careerengine.us/p/5b07fbce9181b13c57716226",
+          "snippet": "那一刻，程杰宁愿立刻死掉一了百了，耳边的笑声越来越多，程杰将书本都捡起来后，收拾书包，在笑声里离开了教室。 全民故事计划的第267个故事.",
+          "date": "2018年5月25日",
+          "position": 82
+        },
+        {
+          "title": "「药娘」的跨性别辛酸血泪史-菲律宾论坛",
+          "link": "https://bbs.boniu123.cc/thread-886313-1-1.html",
+          "snippet": "药娘深知吃「糖」的代价，但在痛苦的当下和凶险的未来外，「她们」大多没有第三个选项，只能铤而走险在灰色地带寻找药物。而贴吧被封禁前的一大功能就是提供药物交易。 2015年 ...",
+          "position": 83
+        },
+        {
+          "title": "“捡”个药娘当女友（码农暖男和软萌伪娘的真实爱情故事）连载1 本文 ...",
+          "link": "https://www.tumblr.com/kittycd96/171005048213/lhacj-%E6%8D%A1%E4%B8%AA%E8%8D%AF%E5%A8%98%E5%BD%93%E5%A5%B3%E5%8F%8B-%E7%A0%81%E5%86%9C%E6%9A%96%E7%94%B7%E5%92%8C%E8%BD%AF%E8%90%8C%E4%BC%AA%E5%A8%98%E7%9A%84%E7%9C%9F%E5%AE%9E%E7%88%B1%E6%83%85%E6%95%85%E4%BA%8B%E8%BF%9E%E8%BD%BD1",
+          "snippet": "捡”个药娘当女友（码农暖男和软萌伪娘的真实爱情故事）连载1 本文作者：知乎匿名用户 编辑加工：老虎爱吃鸡（lhacj.tumblr.com） 序看完原po写的东西，我的感触是非常大的， ...",
+          "position": 84
+        },
+        {
+          "title": "番外· 假如一切都还在 - 药娘的天空",
+          "link": "https://transky.mtf.lgbt.arasaka.ltd/08/",
+          "snippet": "一个2000 年代的跨性别者的故事。",
+          "date": "2024年3月18日",
+          "position": 85
+        },
+        {
+          "title": "【有片】內地「藥娘」：變性無門有人網購荷爾蒙有人揮刀自殘",
+          "link": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/222519/%E6%9C%89%E7%89%87-%E5%85%A7%E5%9C%B0-%E8%97%A5%E5%A8%98-%E8%AE%8A%E6%80%A7%E7%84%A1%E9%96%80-%E6%9C%89%E4%BA%BA%E7%B6%B2%E8%B3%BC%E8%8D%B7%E7%88%BE%E8%92%99%E6%9C%89%E4%BA%BA%E6%8F%AE%E5%88%80%E8%87%AA%E6%AE%98",
+          "snippet": "所謂「藥娘」，屬於LGBT群體中的跨性別者transsexual。在內地進行性別重置手術（即變性手術）有諸多規定，如需以內心認同的性別規範方式生活一年以上， ...",
+          "date": "2018年8月14日",
+          "position": 86
+        },
+        {
+          "title": "对话药娘：原谅我成为不了讨喜的人| 围炉· CityU - Matters",
+          "link": "https://matters.town/a/pfklaxr0z50o",
+          "snippet": "药娘，指通过服用或注射药物（包括但不限于雌性激素、抗雄性激素）等手段，使其生理状态（主要为体貌特征）接近女性的男性或双性别者，通常属于跨性别群体， ...",
+          "date": "2020年12月29日",
+          "position": 87
+        },
+        {
+          "title": "《药娘被上喷水白浆》伦理片-标清在线播放-思源阅读",
+          "link": "http://www.siyuanedu.com/teacher/bookdetail/666398737.html",
+          "snippet": "药娘被上喷水白浆. 导演：王士杰. 主演：贲紫夏,允小胖,穆紫宝. 类型：歌舞地区 ... 毒枭第一季故事情节. 连续剧热播榜. bigbang小清新歌曲. 类型：军旅地区：摩尔多瓦.",
+          "position": 88
+        },
+        {
+          "title": "没钱吃药就援交这些“药娘”成了福利姬 - 网络消费网",
+          "link": "http://www.sosol.com.cn/keji/2022/0312/29634.html",
+          "snippet": "小雷介绍一下，药娘是指通过服用或注射药物等手段（不包括物理疗法如整形），让男性性征女性化的群体，而且未成年人在其中占了大头。",
+          "date": "2022年3月12日",
+          "position": 89
+        },
+        {
+          "title": "我要变成萌妹子！：序",
+          "link": "https://xfox.me/post/56/",
+          "snippet": "看到过药娘们的嗑药体验，也动心过，但发现药的种种副作用之后也很失望。 有时人的心理会超出力量。 本着满足幻想（笑）的想法，姑且写一个故事，纯属瞎编。",
+          "date": "2016年4月21日",
+          "position": 90
+        },
+        {
+          "title": "致郁小说《想要变成鹰的鱼》原名《药娘的天空》 - 书籍推荐- 书友社区",
+          "link": "https://sq.wgrid.cn/t-6452-1-1.ss",
+          "snippet": "看起来是在逃避现实，但是不是离彩色的天空更近了一步，离灰暗的大海远了一步呢？ 药娘这一群体其实很不易，就因为想改变天生的性别就要遭受别人的冷眼，要遮遮掩掩，东 ...",
+          "position": 91
+        },
+        {
+          "title": "【报道】加拿大作曲家克里斯蒂安·托马斯创作的琵琶协奏曲《龙》",
+          "link": "https://ici.radio-canada.ca/rci/zh-hans/%E6%96%B0%E9%97%BB/2117083/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%BD%9C%E6%9B%B2%E5%AE%B6-%E5%85%8B%E9%87%8C%E6%96%AF%E8%92%82%E5%AE%89-%E6%89%98%E9%A9%AC%E6%96%AF-%E7%90%B5%E7%90%B6%E5%8D%8F%E5%A5%8F%E6%9B%B2-%E9%BE%99",
+          "snippet": "关于第一乐章，托马斯在CD的乐曲叙述中这样写道： 龙妈妈把小龙带到她的羽翼下，向他介绍生活在这个美丽无比的地方的众多物种。然而，它还不会飞。因此，它笨拙 ...",
+          "date": "1天前",
+          "position": 92
+        },
+        {
+          "title": "佤山民间故事佤族“长生不老”神药娘布落的传说 - 搜狐",
+          "link": "https://www.sohu.com/a/159162613_99930712",
+          "snippet": "佤山民间故事佤族“长生不老”神药娘布落的传说 ... 很古很古的时候，在佤山有个名叫达太的佤族最高部落酋长过着神仙般的生活，年过六旬后，他对死产生了恐惧，常 ...",
+          "date": "2017年7月22日",
+          "position": 93
+        },
+        {
+          "title": "武汉蔡甸形象LOGO征集大赛入围作品 - 设计竞赛网",
+          "link": "https://www.shejijingsai.com/2024/11/1214866.html",
+          "snippet": "CD是蔡甸的拼音简写字母，标志以几条断裂的琴弦把伯牙盘膝弹琴、钟子期倾心聆听的“高山流水遇知音”的故事巧妙勾勒起来，充分体现了“知音故里、蔡甸等你”的文 ...",
+          "date": "24小时前",
+          "position": 94
+        },
+        {
+          "title": "药娘什么梗 - 鲸吼",
+          "link": "https://www.jinghooo.com/definition/28810",
+          "snippet": "药娘这个梗的起源可追溯到2015年，由中国知名网络作家莫小奈所创造的网络小说《魔法学院's 幽魂药师》中。故事设定在一个充满魔法与幽灵的世界，男主角药径 ...",
+          "date": "2023年7月6日",
+          "position": 95
+        },
+        {
+          "title": "跟着总书记探寻中华文明·非遗篇｜一针一线绣出精彩 - 广州日报大洋网",
+          "link": "https://news.dayoo.com/china/202411/02/139997_54740867.htm",
+          "snippet": "总书记为特色苗绣点赞，让化屋村的绣娘们激动不已。 传统与时尚相 ... 药、回流药以及药品被串换销售的可能。 2024-11-02 13:08. 乘客讲述K7034 ...",
+          "date": "2天前",
+          "position": 96
+        },
+        {
+          "title": "新刊推介｜游戏音乐是怎样诞生的 - 三联生活周刊",
+          "link": "https://www.lifeweek.com.cn/h5/article/detail.do?artId=237972",
+          "snippet": "一般来说，1、2技能的CD较短，3技能的CD最久。 ... 除了音效，那些被玩家听到并记住的旋律音乐也很重要，尤其是对于剧情走向、有故事背景的游戏更是如此。",
+          "date": "1天前",
+          "position": 97
+        },
+        {
+          "title": "14岁男童患抑郁后吃药，变性成”女孩“上外网拍片卖身？价目表太骇人...",
+          "link": "https://redian.news/wxnews/493005",
+          "snippet": "可能是家教的原因，也可能是学校里的欺凌，那些“药娘们”，单纯地觉得自己应该是个女孩子。 每个故事的开头，都有一道深深的伤痕。就算你要问他们为什么，他们也支 ...",
+          "position": 98
+        },
+        {
+          "title": "五大唱片",
+          "link": "https://www.5music.com.tw/",
+          "snippet": "ITZY. [GOLD-POP-UP STORE]-迷你CD鑰匙圈(韓國進口) MINI CD KEYRING · ITZY. 第二代官方手燈環 · 蘇打綠. 秋：故事（蘇打綠版）預購版 · 林俊傑JJ Lin. 《Start Track》全球 ...",
+          "position": 99
+        }
+      ],
+      "images": [
+        {
+          "title": "跨性别者故事：从药娘到变性人，步步维艰",
+          "imageUrl": "http://image.thepaper.cn/www/image/16/862/400.jpg",
+          "link": "https://m.thepaper.cn/newsDetail_forward_3113918"
+        },
+        {
+          "title": "一篇药娘日记，记录了数万药娘的悲惨命运",
+          "imageUrl": "https://imagepphcloud.thepaper.cn/pph/image/90/257/295.jpg",
+          "link": "https://m.thepaper.cn/newsDetail_forward_9307060"
+        },
+        {
+          "title": "祸害下一代的毒瘤，药娘群_哔哩哔哩_bilibili",
+          "imageUrl": "https://i0.hdslb.com/bfs/archive/4da5dc06c0e26b63f74ffbe7d08624fdc1cfc292.jpg@600w_600h_1c.png",
+          "link": "https://www.bilibili.com/video/BV1vV411u7uA/"
+        },
+        {
+          "title": "药娘的全面战争：被困在男性躯壳里的女人",
+          "imageUrl": "https://imagepphcloud.thepaper.cn/pph/image/60/433/412.jpg",
+          "link": "https://m.thepaper.cn/newsDetail_forward_6806238"
+        },
+        {
+          "title": "一篇药娘日记，记录了数万药娘的悲惨命运",
+          "imageUrl": "https://imagepphcloud.thepaper.cn/pph/image/90/257/344.jpg",
+          "link": "https://m.thepaper.cn/newsDetail_forward_9307060"
+        },
+        {
+          "title": "有片】内地「药娘」：变性无门有人网购荷尔蒙有人挥刀自残",
+          "imageUrl": "https://cdn.hk01.com/video-farm/thumbnail/92/92eeb920f961b471f8d3b6149fba088e.jpg",
+          "link": "https://zh.hk01.com/%E5%8D%B3%E6%97%B6%E4%B8%AD%E5%9B%BD/222519/%E6%9C%89%E7%89%87-%E5%86%85%E5%9C%B0-%E8%8D%AF%E5%A8%98-%E5%8F%98%E6%80%A7%E6%97%A0%E9%97%A8-%E6%9C%89%E4%BA%BA%E7%BD%91%E8%B4%AD%E8%8D%B7%E5%B0%94%E8%92%99%E6%9C%89%E4%BA%BA%E6%8C%A5%E5%88%80%E8%87%AA%E6%AE%8B"
+        },
+        {
+          "title": "跨性别者故事：从药娘到变性人，步步维艰",
+          "imageUrl": "http://image.thepaper.cn/www/image/16/862/397.jpg",
+          "link": "https://m.thepaper.cn/newsDetail_forward_3113918"
+        },
+        {
+          "title": "药娘的天空",
+          "imageUrl": "https://transky.mtf.wiki/progynova.png",
+          "link": "https://transky.mtf.wiki/"
+        },
+        {
+          "title": "药娘_百度百科",
+          "imageUrl": "https://bkimg.cdn.bcebos.com/smart/a08b87d6277f9e2ff6bc34d01530e924b999f359-bkimg-process,v_1,rw_1,rh_1,pad_1,color_ffffff?x-bce-process=image/format,f_auto",
+          "link": "https://baike.baidu.com/item/%E8%8D%AF%E5%A8%98/19956523"
+        }
+      ],
+      "relatedSearches": [
+        {
+          "query": "药娘自杀"
+        },
+        {
+          "query": "药娘寿命"
+        },
+        {
+          "query": "药娘吃的什么药"
+        },
+        {
+          "query": "药娘身体变化"
+        },
+        {
+          "query": "药娘停药"
+        },
+        {
+          "query": "药娘wiki"
+        },
+        {
+          "query": "药娘知乎"
+        },
+        {
+          "query": "药娘糖"
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "药娘 故事",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "我是药娘，我只是想变成一个女孩| 故事FM - 自由微信",
+          "link": "https://freewechat.com/a/MzI5NzY4MzkzOA==/2247485081/1",
+          "snippet": "我是药娘，我只是想变成一个女孩| 故事FM ... 「药娘」是近几年出现的网络词汇，主要指心理性别为女，生理性别为男的人群，他们通过激素、药物改变内分泌，从而让 ...",
+          "date": "2019年7月10日",
+          "position": 1
+        },
+        {
+          "title": "[人間觀察系列] 什麼是藥娘? 來說說關於藥娘的故事  #朝比奈小春 ...",
+          "link": "https://www.youtube.com/watch?v=KuXsd4HQ8pU",
+          "snippet": "台灣vtuber #新人Vtuber #中文vtuber #vtuber #twvtuber #asmr #asmrvideo #梵天#3dio #asmrsounds #雜談#音聲#劇情向#音フェチ#音ゲー#whispering ...",
+          "date": "2024年1月14日",
+          "position": 2
+        },
+        {
+          "title": "Disney's Listen&Learn故事書CD-蟲蟲特工隊 - Carousell",
+          "link": "https://www.carousell.com.hk/p/disney-s-listen-learn%E6%95%85%E4%BA%8B%E6%9B%B8cd-%E8%9F%B2%E8%9F%B2%E7%89%B9%E5%B7%A5%E9%9A%8A-1334284476/?srsltid=AfmBOorYOHS0eUJiqpLosOerPK2z-Xh7GAuLsuPpIVhyU6XIJDqcW4S1",
+          "snippet": "故事書和CD良好，膠套有些破損。中英文故事書和粵語及英語故事CD，適合小朋友語言學習，原裝正版。 交易方式. 面交: MTR Tsing Yi Station (港鐵青衣站), ...",
+          "date": "5天前",
+          "currency": "$",
+          "price": 30,
+          "position": 3
+        },
+        {
+          "title": "调查报道| 中国跨性别女性的困境：买不到药的\"药娘\"",
+          "link": "https://www.rfa.org/mandarin/yataibaodao/shehui/mz-04262023144931.html",
+          "snippet": "2021年中国媒体报道了一个母亲发现自己的15岁孩子偷偷购买并注射荷尔蒙药物进行性别转换，她认为这是因为孩子被“药娘”qq群里的“坏人诱骗”。 在这位母亲报案 ...",
+          "date": "2023年4月26日",
+          "position": 4
+        },
+        {
+          "title": "龙岩侨中的鸡(龙岩侨中的鸡航向远方。青年文摘：感受青春的飞翔。)",
+          "link": "http://ivyrt.npx.ac.cn/news/609e91698474.html",
+          "snippet": "龙岩侨中的这只鸡，航向远方，它的故事也是我们每个人的故事。不论 ... 加入药娘QQ群(药娘QQ群加入指南) · 上海少妇按摩精油：舒缓身心，尽享放松 ...",
+          "date": "1天前",
+          "position": 5
+        },
+        {
+          "title": "藥師少女的獨語 - 維基百科",
+          "link": "https://zh.wikipedia.org/wiki/%E8%97%A5%E5%B8%AB%E5%B0%91%E5%A5%B3%E7%9A%84%E7%8D%A8%E8%AA%9E",
+          "snippet": "漫畫：藥屋少女的呢喃～貓貓的後宮解謎手帳～. 原作, 日向夏（原作） 筱冬子 ... 故事大綱. 編輯. 出身煙花巷的貓貓是善於推理和具豐富藥理知識的少女，原本在煙花巷 ...",
+          "position": 6
+        },
+        {
+          "title": "主线- 烟雨江湖WIKI_BWIKI",
+          "link": "https://wiki.biligame.com/yanyu/%E4%B8%BB%E7%BA%BF",
+          "snippet": "... 药】，获得【毒龙帮信物】: 南阳渡(14, 0)：进入洛阳: 洛阳-周镖师家(27,18)：周镖 ... 洛阳-九儿家(28,34)：对话九儿娘，民居，搜索，选择【木柜】，选择【出手相 ...",
+          "position": 7
+        },
+        {
+          "title": "据调查,最近一个月内资金净流入最多的上市指数基金(ETF)前三位是 ...",
+          "link": "https://www.mk.co.kr/cn/stock/11153740",
+          "snippet": "排在第二位的是净流入4641亿韩元的\"TIGER CD利率投资KIS(合成)\"。 该 ... 故事抗衡。在画报拍摄结束后进行的采访中,赵宇镇吐露了即.. 组合ATEEZ ...",
+          "date": "6天前",
+          "position": 8
+        },
+        {
+          "title": "导致寨子一夜之间被屠杀，后来我上京，为让当年欺辱娘亲 - YouTube",
+          "link": "https://www.youtube.com/watch?v=XC_y2HOpunE",
+          "snippet": "《不逢春》娘亲是有名的药娘，被皇帝请去上京，却因得药娘者得长生之法的荒唐话，导致寨子一夜之间被屠杀，后来我上京，为让当年欺辱娘亲、屠戮族人的人付出 ...",
+          "date": "2024年10月11日",
+          "position": 9
+        },
+        {
+          "title": "冒险岛怀旧歌曲cd怪在哪 - 西瓜视频",
+          "link": "https://m.ixigua.com/zhuanti/7432756965761255464",
+          "snippet": "... 故事. 29:46. 国外玩家票选冒险岛十佳BGM ，你最喜欢的10首故事音乐，来听听. 393次播放 2019-11-21 · 冒险岛4代第六关，最后一关，每天更新~#. 11:06. 冒险 ...",
+          "date": "2天前",
+          "position": 10
+        },
+        {
+          "title": "偶像大师百万现场/CD列表 - 萌娘百科",
+          "link": "https://zh.moegirl.org.cn/%E5%81%B6%E5%83%8F%E5%A4%A7%E5%B8%88_%E7%99%BE%E4%B8%87%E7%8E%B0%E5%9C%BA/CD%E5%88%97%E8%A1%A8",
+          "snippet": "2018年12月起，延续TA的第三弹，投票对象为765pro52名偶像全员。主题分别是：童话国度的故事，近未来Outsider，孤岛悬疑恐怖。 序号, 封面, 发售日 ...",
+          "date": "3天前",
+          "position": 11
+        },
+        {
+          "title": "偶遇城中村等客100块：一个人生观的故事",
+          "link": "http://ekmnc.dzcjb.cn/html/7408e1199248.html",
+          "snippet": "... ：一个人生观的故事100块钱，在当今这个物价飞涨的社会里， ... 加入药娘QQ群：与药娘们一起探讨医药知识. 友情链接. 如何在陌生的城市找 ...",
+          "date": "21小时前",
+          "position": 12
+        },
+        {
+          "title": "【每日一图】治脑残的两种特效药| 新唐人电视台",
+          "link": "https://www.ntdtv.com/gb/2024/10/28/a103925077.html",
+          "snippet": "百姓故事 · 新闻拍案惊奇 · 探索时分 · 漫谈党文化 · 修炼故事 · 横河观点 · 新闻看点 ... 厨娘香Q秀 · 我的音乐想想 · 环球体育 · 你好日本 · 你好韩国 ...",
+          "date": "4天前",
+          "position": 13
+        },
+        {
+          "title": "黑河相中个刚才外面回来200元的 - 悉听尊便网",
+          "link": "http://ivyrt.npx.ac.cn/news/1447e19499661.html",
+          "snippet": "小明听了这话，觉得很有趣，于是他也跟着中年男子一起走了一段路。在这段路程中，巴西学生妹包养他听到了很多关于黑河的故事，也看到了很多美丽的景色。最后， ...",
+          "date": "1天前",
+          "position": 14
+        },
+        {
+          "title": "林子祥George Lam ~ 愛情故事CD（ T113 01 - 1990 年版） - Carousell",
+          "link": "https://www.carousell.com.hk/p/%E6%9E%97%E5%AD%90%E7%A5%A5-george-lam-%E6%84%9B%E6%83%85%E6%95%85%E4%BA%8B-cd%EF%BC%88-t113-01-1990-%E5%B9%B4%E7%89%88-%EF%BC%89-1334244036/?srsltid=AfmBOoo4YsbnB0AercZDom7wBpnPqtxG_KjZ0a3QcMa_8u0t0EGMBOM1",
+          "snippet": "喺Hong Kong,Hong Kong 買林子祥George Lam ~ 愛情故事CD（ T113 01 - 1990 年版）. 喺音樂與媒體- CD 及DVD 度買嘢，傾偈買嘢！",
+          "currency": "$",
+          "price": 1000,
+          "position": 15
+        },
+        {
+          "title": "【攻略】故事第二章南有乔木（主线番外支线完结） - TapTap",
+          "link": "https://www.taptap.cn/moment/387935945480997382",
+          "snippet": "... 药*1（鸡蛋*1 甘蔗*6），海棠香丸*1（鸡蛋*1 甘蔗*1）. √ （28/43）城门 ... √ （30/43）南市-钿娘：益心丸*1（鸡蛋*1 面粉*1），红色薄纱*1 ...",
+          "date": "2023年5月30日",
+          "position": 16
+        },
+        {
+          "title": "游戏支线- 烟雨江湖WIKI_BWIKI",
+          "link": "https://wiki.biligame.com/yanyu/%E6%B8%B8%E6%88%8F%E6%94%AF%E7%BA%BF",
+          "snippet": "... 药王谷 成都 敦煌 幽州 十方集 塞北. 山川河海. 嵩山 青城山 衡山 太乙山 明月峰 ... 娘，选择【鲫鱼冬瓜汤】（【冬瓜】在忘忧村支线已经获得或者去找农夫(12,4) ...",
+          "position": 17
+        },
+        {
+          "title": "實體的復興：CD銷量開始止跌回升| 聯合新聞網",
+          "link": "https://udn.com/news/story/11184/8331683",
+          "snippet": "「等得夠久就是你的」，繼黑膠與卡帶的「實體復興」之後，CD的買氣似乎也止跌回升。美國唱片業協會（Recording Industry Association of America，RIAA） ...",
+          "date": "24小时前",
+          "position": 18
+        },
+        {
+          "title": "出色抗日剧《黄金猎影》05 | 中共情报员伪装药商潜入险山，在多方 ...",
+          "link": "https://www.youtube.com/watch?v=7aHf5j57pV0",
+          "snippet": "出色抗日剧《黄金猎影》05 | 中共情报员伪装药商潜入险山，在多方势力追杀下，凭智勇寻找黄金矿脉的惊险故事. 1.5K views · 7 days ago ...more. 出色 ...",
+          "date": "8天前",
+          "position": 19
+        },
+        {
+          "title": "11.0尾王第几个cd获得全球首通 - 西瓜视频",
+          "link": "https://m.ixigua.com/zhuanti/7433140067247622163",
+          "snippet": "您在查找“11.0尾王第几个cd获得全球首通”吗？西瓜视频为您提供海量优质视频信息，帮您找到更多精彩的视频内容！西瓜视频是一个开眼界、涨知识的视频平台， ...",
+          "date": "12小时前",
+          "position": 20
+        },
+        {
+          "title": "BanG Dream! Episode of Roselia - 萌娘百科万物皆可萌的百科全书",
+          "link": "https://zh.moegirl.org.cn/zh-cn/BanG_Dream!_Episode_of_Roselia",
+          "snippet": "关于以Poppin'Party为故事中心的BanG Dream!企划正篇剧场版动画，详见「BanG ... CD. 曲目列表. 曲序, 曲目, 作词, 作曲, 编曲, 备注. 1. Keep Heart, 織田あすか(Elements ...",
+          "position": 21
+        },
+        {
+          "title": "烟台三十里堡有服务吗(Yān tái sān shí lǐ bǎo yǒu fú wù ma.)",
+          "link": "http://www.i-scm.cn/news/501f62698872.html",
+          "snippet": "... 药娘QQ群(加入药娘QQ群)北京上门400元4个小时：夜间家政服务新选择. 免责声明：本站所有信息均来源于互联网搜集，并不代表本站观点，本站不对其真实 ...",
+          "date": "13小时前",
+          "position": 22
+        },
+        {
+          "title": "我妈却疯了，要把他的根儿缝回去......#故事#一口气看完系列#完结文 ...",
+          "link": "https://www.youtube.com/watch?v=VCTROmSeLtU",
+          "snippet": "【悬疑 完结】我娘是最有名的接生婆，可我姐姐却依旧嘎在了婆家 ... 侄子天生吃药无极限, 从咳嗽水到聪明药, 最后直接扑街了| #小说#一口气看 ...",
+          "date": "3天前",
+          "position": 23
+        },
+        {
+          "title": "“药娘QQ群”一步步诱骗15岁儿子打针吃药“变性” - 温州新闻网",
+          "link": "https://news.66wz.com/system/2021/04/08/105358825.shtml",
+          "snippet": "“那就是个'药娘'群，一些别有用心的人，在里面诱骗十几岁的男孩，先用女性用品刺激孩子，再一步步诱导孩子吃药变性。”刘女士说，这个群里会分享一些挑战生理与 ...",
+          "date": "2021年4月8日",
+          "position": 24
+        },
+        {
+          "title": "蘇打綠sodagreen【說了再見以後After the Farewell ... - YouTube",
+          "link": "https://www.youtube.com/watch?v=6R78rzxbu7M",
+          "snippet": "愁到底是什麼？ 蘇打綠韋瓦第復刻計畫《秋：故事（蘇打綠版）》雙CD CD 1 全新錄製原有專輯完整曲目CD ...\n时长： 4:39\n发布时间： 4天前",
+          "date": "4天前",
+          "position": 25
+        },
+        {
+          "title": "【警局收到了一张奇怪的采访CD...】伪纪录片：蚍蜉神 - YouTube",
+          "link": "https://www.youtube.com/watch?v=tUwUI94hJXE",
+          "snippet": "这是系列的最后一集啦，一开始想的是和之前一样的视频风格，但是碍于技术力无法实现更好的展现，直到上周六直播的时候突然想到：为什么不把蚍蜉神的故事做 ...",
+          "date": "2024年10月25日",
+          "position": 26
+        },
+        {
+          "title": "瘾君子、药娘与普雷西亚多 - 艺术论坛ARTFORUM",
+          "link": "https://www.artforum.com.cn/books/12711",
+          "snippet": "[6] 药娘是中国男跨女（M2F）群体在网络上对自己的昵称，来源于国内最早建立的变性人信息网站夏士莲站（简称夏站）。 [7] 对于西方国家有关性工作的各种法律及 ...",
+          "date": "2020年3月23日",
+          "position": 27
+        },
+        {
+          "title": "都市圣手医圣高能合集：恶少不仅捣毁药田，还将人打成重伤",
+          "link": "https://www.youtube.com/watch?v=tgBtKQXFa_I",
+          "snippet": "... 故事。 独树一帜的原创沙雕二次元动画，让你在欢笑中发现生活的不同面貌 精心制作的剧情，每一个转折都充满惊喜，带给你前所未有的观看体验 ...",
+          "date": "4天前",
+          "position": 28
+        },
+        {
+          "title": "小药娘拆弹经验体会分享（个人经验） - YouTube",
+          "link": "https://www.youtube.com/watch?v=_cO3pNJMhwY",
+          "snippet": "小药娘拆弹经验体会分享（个人经验）. 1.1K views · 1 year ago ... 故事的發展超出了所有人的預料丨溫情故事. 灰色未知世界 New 423K views · 21:25.",
+          "date": "2023年2月20日",
+          "position": 29
+        },
+        {
+          "title": "阉割、变性……被困在男人躯壳中的「药娘」 - CN-Healthcare",
+          "link": "https://www.cn-healthcare.com/articlewm/20210904/content-1260591.html",
+          "snippet": "为了让自己更接近真正的女性，她们中大部分人会通过服用或注射药物等手段，改变自己的生理状态（主要为体貌特征），因此也被称为“药娘”。 ... 吃药之后，药娘们的 ...",
+          "date": "2021年9月6日",
+          "position": 30
+        },
+        {
+          "title": "阉割、变性……被困在男人躯壳中的「药娘」 - 科普中国",
+          "link": "https://cloud.kepuchina.cn/newSearch/imgText?from=1&id=6833160811292504064&is_self=2",
+          "snippet": "为了让自己更接近真正的女性，她们中大部分人会通过服用或注射药物等手段，改变自己的生理状态（主要为体貌特征），因此也被称为“药娘”。 ... 吃药之后，药娘们的 ...",
+          "date": "2021年9月3日",
+          "position": 31
+        },
+        {
+          "title": "LGBT药娘的圣地hahah - - YouTube",
+          "link": "https://m.youtube.com/post/UgkxFfhabj-utm6Aq4N9LmZH_G6J6vvLqOJG",
+          "snippet": "Share your videos with friends, family, and the world.",
+          "position": 32
+        },
+        {
+          "title": "这个19岁男孩，偷吃雌激素已经545天｜小南特稿 - 南方+",
+          "link": "http://static.nfapp.southcn.com/content/201812/02/c1717081.html?group_id=1",
+          "snippet": "醒来后，19岁的张薛哭了一整天，说不清是为了比衣柜的“糖”藏得还深的隐秘过往，还是为了“药娘”这个见不得光的身份。 隐蔽的“药娘吧”. 张薛意识到自己“性别 ...",
+          "date": "2018年12月2日",
+          "position": 33
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

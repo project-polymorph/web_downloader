@@ -1,0 +1,833 @@
+{
+  "query": "性别错置感",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-04T00:37:19.869061",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "性别错置感",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "性别不一致- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E6%80%A7%E5%88%A5%E4%B8%8D%E4%B8%80%E8%87%B4",
+          "snippet": "性别不一致（英语：gender incongruence）的特点是个人认同的性别与天生的性别之间存在显著且持续的不一致。其在DSM-5中对应为性别不安（英语：gender dysphoria）。",
+          "position": 1
+        },
+        {
+          "title": "性别不一致和性别焦虑症 - 默沙东诊疗手册",
+          "link": "https://www.msdmanuals.cn/home/mental-health-disorders/gender-incongruence-and-gender-dysphoria/gender-incongruence-and-gender-dysphoria",
+          "snippet": "性别不一致是指一个人的性身份与基于出生时性别所期望性身份不一致的明显而持续的经历。当性别不一致的人经历与性别不一致相关的严重心理痛苦（如抑郁或焦虑）或功能损害 ...",
+          "position": 2
+        },
+        {
+          "title": "性别错位症_百度百科",
+          "link": "https://baike.baidu.com/item/%E6%80%A7%E5%88%AB%E9%94%99%E4%BD%8D%E7%97%87/3956658",
+          "snippet": "性别错位症，指一个人在心理上无法认同自己的生理性别，并为此产生的一系列错位症状。性别认同是一个人对自己的生理性别的自然认知，如果孩子在幼儿期不能及时完成性别 ...",
+          "position": 3
+        },
+        {
+          "title": "男生性别感错位三大成因:成长中男性角色缺失 - 新闻- 搜狐",
+          "link": "http://news.sohu.com/20110623/n311437010.shtml",
+          "snippet": "因为社会观念里，处于弱势群体的女性，被期望值没有男性大，工作和生活上做得不够完美也容易获得谅解，因此承担不了压力的男性，会出现一些女性化生活迹象。",
+          "date": "2011年6月23日",
+          "position": 4
+        },
+        {
+          "title": "跨性别恐惧- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E8%B7%A8%E6%80%A7%E5%88%A5%E6%81%90%E6%87%BC",
+          "snippet": "跨性别恐惧，也称恐跨、反跨（英语：Transphobia），是一系列对跨性别者、变性人或对性别转换的负面态度，感受或行为。指称对于不符合社会性别期望的人的恐惧、无知、误解、厌恶 ...",
+          "position": 5
+        },
+        {
+          "title": "跨性别女性：我的灵魂与我格格不入丨镜相 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_22457629",
+          "snippet": "性别感受的错位带来的焦虑是持久和慢性的，缓慢的情绪积累最终在高二的一个晚自习上爆发。写作业的时候，水水突然感到“内心被什么击中了”，接着便再也无法 ...",
+          "date": "2023年3月31日",
+          "position": 6
+        },
+        {
+          "title": "性别错位症 - 525心理网",
+          "link": "https://m.psy525.cn/ask/360484.html",
+          "snippet": "性别错位或性别认同障碍,是一种性心理障碍,患者会觉得自己身处异性身体中,并表现出强烈的跨性别认同感和对自己被分配给的性别的不适感。治疗通常包括 ...",
+          "date": "2024年9月12日",
+          "position": 7
+        },
+        {
+          "title": "王恒| 吾栖之肤：跨性别者的性别认同与具身实践——基于在北京市 ...",
+          "link": "http://www.shehui.pku.edu.cn/wap/second/index.aspx?nodeid=2030&page=ContentPage&contentid=10195",
+          "snippet": "许多跨性别女性的“男性声音”和她们的女性“外身”间发生断裂，这种断裂体现在社会互动中便是“性别错认”（misgender，指的是跨性别者被他人错认为与其性别认同不符的性别，例 ...",
+          "position": 8
+        },
+        {
+          "title": "青少年心理咨询- 打破性别刻板，接纳性格偏格-腾讯新闻 - QQ News",
+          "link": "https://news.qq.com/rain/a/20240813A075KT00",
+          "snippet": "（1）具有异性特征的性格偏格，（像个小女生、跟个男孩子一样等）；. （2）缺少同性特征的性别偏格，（没点男/女孩子的样子）。 有少数研究表明，人们对两种类型性别偏 ...",
+          "date": "2024年8月13日",
+          "position": 9
+        },
+        {
+          "title": "莫让花美男中性女误导孩子-京东健康",
+          "link": "https://www.jd.com/pccontent/1006991",
+          "snippet": "首先，我们需要了解什么是性别错位。性别错位是指孩子的性别认同与生物学性别不符，表现为穿着、行为等与性别角色不符。例如，一些男孩喜欢穿裙子，女孩喜欢玩洋娃娃等。",
+          "position": 10
+        },
+        {
+          "title": "间性人的自白：“我是一个会来月经的男孩” - BBC News 中文",
+          "link": "https://www.bbc.com/zhongwen/simp/science-54970542",
+          "snippet": "间性人（Intersex，又称双性人、阴阳人）是一个概括性的词语，包含了超过40种不同的男女性别特征。有一些是荷尔蒙的变化，有些则是身体上的不同，例如有些人的 ...",
+          "date": "2020年11月23日",
+          "position": 11
+        },
+        {
+          "title": "从精神分析到性别理论 - 光明网",
+          "link": "https://www.gmw.cn/xueshu/2024-01/26/content_37113074.htm",
+          "snippet": "女性主义的核心问题之一是女人之所以为女人的特质是什么？这也是弗洛伊德非常感兴趣的话题，他曾俏皮且不无偏见地说：“纵观整个历史，人们都 ...",
+          "date": "2024年1月26日",
+          "position": 12
+        },
+        {
+          "title": "[PDF] 跨性别者性别认同的法律承认",
+          "link": "https://www.undp.org/sites/g/files/zskgke326/files/migration/asia_pacific_rbap/81e35c0bbe5b80d746519d11bb00d20cb33c8990b529c6664137bf2127ce73cd.pdf",
+          "snippet": "... 错性别了?”这个时候，何嫱总是. 告诉他们，“我目前性别是男的没错，但 ... 4. 经过省级卫生计生行政部门指定的培训基地关于性别重置技术相关系统培训，具备开展性别重置.",
+          "position": 13
+        },
+        {
+          "title": "跨性别者自杀意念的影响因素探析 - 汉斯出版社",
+          "link": "https://www.hanspub.org/journal/paperinformation?paperid=60667",
+          "snippet": "即在这两方面与其在出生时生理上的性别不一致，由此衍生的社会期待不一致。简单来说，就是生物学性别和自我认同的性别发生了错位。跨性别者清楚地知道自己的生物学性别。但 ...",
+          "position": 14
+        },
+        {
+          "title": "[PDF] 住錯性別身體的靈魂-跨性別與人權保護",
+          "link": "https://www.taisugar.com.tw/Upload/UserFiles/%E6%B8%85%E6%B5%81%E6%9C%88%E5%88%8A106%E5%B9%B411%E6%9C%88%E4%BD%8F%E9%8C%AF%E6%80%A7%E5%88%A5%E8%BA%AB%E9%AB%94%E7%9A%84%E9%9D%88%E9%AD%82-%E8%B7%A8%E6%80%A7%E5%88%A5%E8%88%87%E4%BA%BA%E6%AC%8A%E4%BF%9D%E8%AD%B7.pdf",
+          "snippet": "解決心理性別與生理性別衝突的問題。 過去心理學認為跨性別是一種性別錯置的精神疾病，而加以「治. 療」。但歷史經驗顯示這些性別矯治對跨性別者的傷害遠大於幫助。",
+          "position": 15
+        },
+        {
+          "title": "妙佑医疗国际- 跨性别和性别多样化青少年使用的青春期阻滞剂",
+          "link": "https://www.mayoclinic.org/zh-hans/diseases-conditions/gender-dysphoria/in-depth/pubertal-blockers/art-20459075",
+          "snippet": "长期存在性别错位或性别焦虑。 进入青春期后开始出现性别焦虑或症状恶化 ... 在整个治疗过程中，父母和家庭的支持和鼓励也是促进心理健康和幸福感的重要部分 ...",
+          "date": "2023年9月9日",
+          "position": 16
+        },
+        {
+          "title": "至今缺少指南共识，这群中国医生30 年摸石头过河_性别 - 搜狐",
+          "link": "https://www.sohu.com/a/547964638_296660",
+          "snippet": "跨性别者（Trans/Transgender）：指的是性别认同或性别表达不同于其出生时被指派的生理性别的人。这种性别的「错位感」，常常给他们带来巨大的心理 ...",
+          "date": "2022年5月17日",
+          "position": 17
+        },
+        {
+          "title": "跨性别者C先生：一个灵魂放错了身体的“爷儿” - 新浪新闻",
+          "link": "https://news.sina.cn/sa/2017-08-19/detail-ikmyaawa7426248.d.html",
+          "snippet": "在大多数对跨性别的定义中，有一个普遍上更容易被人接受和理解的定义为：一个人在心理上无法认同自己与生俱来的生理性别（以生殖器官判定），而相信自己应该 ...",
+          "date": "2017年8月19日",
+          "position": 18
+        },
+        {
+          "title": "孩子的性别认知需正确引导出现偏差怎么做 - 人民网健康",
+          "link": "http://health.people.com.cn/n/2015/1024/c21471-27735062.html",
+          "snippet": "南方医科大学第三附属医院心理科副主任医师吴媚表示，这位母亲是对孩子的性别认知产生了担忧。实际上，所谓的性别认同是个体意识到自己的性别，以及这个性别 ...",
+          "date": "2015年10月24日",
+          "position": 19
+        },
+        {
+          "title": "性别焦虑症- 症状与病因- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/diseases-conditions/gender-dysphoria/symptoms-causes/syc-20475255",
+          "snippet": "性别焦虑是指因个人的性别认同与其出生时被赋予的性别或身体性别特征不同而感到不适或困扰。 跨性别者或多元性别者可能会在人生中的某个时期出现性别焦虑 ...",
+          "date": "2024年5月14日",
+          "position": 20
+        },
+        {
+          "title": "还是上女厕？跨性别者的厕所争议-腾讯新闻 - QQ News",
+          "link": "https://news.qq.com/rain/a/20201112A04DT300",
+          "snippet": "视频发出后，迅速在互联网上引发一场关于跨性别者的争议。 很多女性网友在视频底下留言称，不愿意与未经过性别重置手术、依然保留着男性生理性征的跨 ...",
+          "date": "2020年11月12日",
+          "position": 21
+        },
+        {
+          "title": "[PDF] 性/别手册学生版 - 中央大学",
+          "link": "https://www.chuo-u.ac.jp/uploads/2024/03/campuslife_diversity_gs_book_06.pdf?1711756800105",
+          "snippet": "这种情感上的错位有时会导致出柜后的人际关系中出现冲突。 在这样的情况下，如果意识到出柜是建立人际关系过程中的一个重要环节的话，可能会. 有 ...",
+          "position": 22
+        },
+        {
+          "title": "别让“裤子”赢了“裙子”，避免孩子性别认同错位，家长要这样做 - 网易",
+          "link": "https://www.163.com/dy/article/F8Q4MPLR0517MPNQ.html",
+          "snippet": "当孩子三岁左右的时候就可以识别出自己的性别，喜欢和同性的伙伴玩，会遵从自己内心的性角色要求，表现出行为上的性别差异。男孩会表现出男性的行为，女孩会 ...",
+          "date": "2020年3月28日",
+          "position": 23
+        },
+        {
+          "title": "[PDF] “我需要家长同意才能做自己”",
+          "link": "https://www.amnesty.org/en/wp-content/uploads/2021/05/ASA1702692019CHINESE.pdf",
+          "snippet": "《性别重置技术管理规范（2017 年版）》是中国唯一一份关于为跨性别者提供卫生保 ... 解自己强烈的性别不一致感。当萍*的父母在2014 年发现她在服用激素药物时 ...",
+          "position": 24
+        },
+        {
+          "title": "性别- 法律，允许人变性吗？|重置 - CN-Healthcare",
+          "link": "https://www.cn-healthcare.com/articlewm/20220408/content-1335946.html",
+          "snippet": "... 感及不相称感，希望通过激素治疗和外科手术以使自己的身体尽可能的与所 ... 相关推荐. 医疗AI软件合规6问. 打开APP 律师维钦 ·1.9万阅读 ·2024-03-19. 错误.",
+          "date": "2022年4月8日",
+          "position": 25
+        },
+        {
+          "title": "不再恐惧之后 - 清新传媒- 清华大学",
+          "link": "https://qxcm.tsjc.tsinghua.edu.cn/pc/folder120/folder127/2021-09-30/dfeNUDgTAdhdUeJI.html",
+          "snippet": "... 错位感。 不过，对LGBTQ群体来说，“隔靴搔痒”的讨论毕竟有其积极意义。在无数次 ... 紫荆公寓一览无余、没有隔板的淋浴间，只有在这时才能让作为MtF（male-to-female，即生理性别 ...",
+          "position": 26
+        },
+        {
+          "title": "不論你的性別為何，都應該用自己最感舒服的樣子生活 - 陳耕醫師",
+          "link": "https://www.chenkeng.tw/perspective/GL7aeqSmimeum5bh",
+          "snippet": "由於周遭的不理解、不友善，跨性別者時常得偽裝自己，來服膺社會對不同性別角色的期待。明明認同是女性，卻必須上男廁，被錯稱性別爲「先生」；明明喜歡留長髮， ...",
+          "position": 27
+        },
+        {
+          "title": "为什么中国学校需要性别平等教育？ - 奥一网",
+          "link": "https://m.mp.oeeee.com/a/BAAFRD000020210103408263.html",
+          "snippet": "很多女孩在成长过程中会遇到「月经」带来的困扰。当月经到来，她们不仅要承受身体的不适，还要面对社会文化对月经的隐晦和污名，女孩们不敢直呼「月经」，而是 ...",
+          "date": "2021年1月3日",
+          "position": 28
+        },
+        {
+          "title": "性别认同- 《默沙东诊疗手册大众版》",
+          "link": "https://www.msdmanuals.cn/home/mental-health-disorders/gender-incongruence-and-gender-dysphoria/gender-identity",
+          "snippet": "跨性别者是一个通用术语，它指代性身份或性别表达与出生时所指定性别相关典型性身份或性别表达不同的人。（变性人是一个过时的术语，不再被性身份专家使用。） 性别错位指性 ...",
+          "position": 29
+        },
+        {
+          "title": "[PDF] 個案報告：性別重置手術前心理評估的定位與程序探討",
+          "link": "https://toaj.stpi.narl.org.tw/file/article/download/4b1141f98fd9146c01901c7ee0ff14bf",
+          "snippet": "心理測驗的部份，該個案接受了瑞文氏標. 準圖形推理測驗、賴氏人格測驗、畫人測驗、簡式症狀量表、貝氏絕望感量表和柯. 氏性格量表。 3. 精神科門診複診：. 醫師根據自身判斷 ...",
+          "position": 30
+        },
+        {
+          "title": "啥事不懂的“小屁孩”也会有性意识？ - 浙江大学医学院附属儿童医院",
+          "link": "http://www.zjuch.cn/news/default/id/3224/cid/100",
+          "snippet": "如果在早期的发展中，父母即以异性打扮孩子，以性别错位的知觉去鼓励强化孩子异性的行为和游戏活动，容易使孩子性别认定错位，性别一致性获得障碍，而使其成长 ...",
+          "date": "2012年4月26日",
+          "position": 31
+        },
+        {
+          "title": "我们也是雌雄同体吗？ - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_9490421",
+          "snippet": "在那个内分泌学误入歧途的年代，被诊断为雌雄同体并接受了治疗的孩子们都一度面临着这份混杂着羞耻与不解的错位感。有人终身抑郁，有人在得知自己的雌雄同体 ...",
+          "date": "2020年10月9日",
+          "position": 32
+        },
+        {
+          "title": "[PDF] 跨性别者、间性人和酷儿（LGBTIQ+）融入劳动世界",
+          "link": "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@asia/@ro-bangkok/@ilo-beijing/documents/publication/wcms_856152.pdf",
+          "snippet": "性别重置手术（sex reassignment surgery）和变性手术（sex change ... 工作自豪感：印度尼西亚基于性倾向和性别认同的工作歧视研究。工作文件2016. 年3月 ...",
+          "position": 33
+        },
+        {
+          "title": "为什么跨性别者如此符合我们对男女的刻板印象？ - 小组讨论- 豆瓣",
+          "link": "https://m.douban.com/group/topic/253345407/",
+          "snippet": "关于我提问的问题，播客中似乎有所回答。我对此的理解是：生理性别和社会性别需要分开讨论。生理性别的“错位”感知是本原性的，成为 ...",
+          "date": "2021年11月20日",
+          "position": 34
+        },
+        {
+          "title": "不被理解的跨性别者：与母亲争吵半生，只为一个签名…… - 东方新闻",
+          "link": "https://j.eastday.com/m/1609668979021917",
+          "snippet": "作为一名跨性别者，生理性别和心理性别的不一致，让王佳宁时刻生活在焦虑、自我厌弃以及外界压力之中。在她看来，结束痛苦的办法只有一个：做手术重置性别。",
+          "date": "2021年1月3日",
+          "position": 35
+        },
+        {
+          "title": "[PDF] 亚太跨性别健康蓝图",
+          "link": "https://www.undp.org/sites/g/files/zskgke326/files/migration/asia_pacific_rbap/06134fe5d74f2f84023c5de3ee99656ba412f33aa87d6a66c24e6a3da2f6de19.pdf",
+          "snippet": "... 性别健康分类置于精神障碍的类别之外提供了机会。目前的建. 议包括将“性别认同障碍 ... 性别认同的自豪感，被证实能有效对抗污名和歧视给跨性别者心理健康所带来的 ...",
+          "position": 36
+        },
+        {
+          "title": "中国跨性别者非自杀倾向自残行为研究——流行率和风险 ... - 汉斯出版社",
+          "link": "https://image.hanspub.org/Html/38-1132645_48438.htm",
+          "snippet": "结果：结果表明，63%的被试报告NSSI经历，且NSSI在跨性别女性中更为普遍，比起男性，她们的焦虑水平较高，身体满意度、社区归属感和自尊水平较低。有NSSI经历的 ...",
+          "date": "2022年1月28日",
+          "position": 37
+        },
+        {
+          "title": "[PDF] 北京大学第三医院- 跨性别序列医疗",
+          "link": "https://cnlgbtdata.com/files/uploads/2023/12/2022%E7%89%88%E8%B7%A8%E6%80%A7%E5%88%AB%E5%8C%BB%E7%96%97%E7%85%A7%E6%8A%A4%E6%89%8B%E5%86%8C_4JGB5o5.pdf",
+          "snippet": "如,将过去的诊断标准错念成“性别认知障碍”,即将跨性别者错误理解为对自己的 ... 性别肯定手术旧称“变性手术”或“性别重置手术”,指通过外科手段使生理性别与其性别 ...",
+          "position": 38
+        },
+        {
+          "title": "性别教育和性教育哪个重要？ - 育儿- 新浪",
+          "link": "https://baby.sina.cn/baike/2015-03-09/detail-icczmvun7030254.d.html",
+          "snippet": "男生的女性化本质上是性别感错位。造成这种现象的原因是多方面的。目前中小学女教师过多也是造成男生女性化的原因之一，过于突出的女性氛围当然对学生 ...",
+          "date": "2015年3月9日",
+          "position": 39
+        },
+        {
+          "title": "【精選書摘】我不是想當女人、而是渴望活出自己    日本第一位跨 ...",
+          "link": "https://www.twreporter.org/a/bookreivew-kamikawa-aya-the-courage-to-change-my-gender-dysphoria",
+          "snippet": "我花了很長的時間思考，究竟該不該動性別重置手術。從個人感官上來看，我對自己的性器官很不適應，真的要我選擇其中一方，我會毫不猶豫選擇女性 ...",
+          "date": "2021年9月29日",
+          "position": 40
+        },
+        {
+          "title": "性别政治、酷儿政治——二十世纪80年代以来的中国女性艺术经验史",
+          "link": "http://www.art-woman.com/HongViewDetail.aspx?id=1804",
+          "snippet": "针对艺术史上男性艺术家建立的女性身体的政治模式、不公正模式和压迫模式，女艺术家通过身体错置文本以及身体寓言文本建立的反抗模式与文化质疑方式，还原 ...",
+          "date": "2016年12月16日",
+          "position": 41
+        },
+        {
+          "title": "[PDF] 跨性別社福醫護手冊",
+          "link": "https://genderempowerment.org/wp-content/uploads/2017/03/booklet_%E7%A4%BE%E7%A6%8F%E9%86%AB%E8%AD%B7%E6%89%8B%E5%86%8A.pdf",
+          "snippet": "因應不同跨性別者外貌特徵上的. 差異,有些跨性別者在外貌未能予人符合其性別認同之感時,多會選擇使用中性/無 ... 在香港要接受性別重置手術,須要先通過一位精神科醫生 ...",
+          "position": 42
+        },
+        {
+          "title": "間性人的自白：「我是一個會來月經的男孩」 - BBC News 中文",
+          "link": "https://www.bbc.com/zhongwen/trad/science-54970542",
+          "snippet": "例如一個女嬰性器官，外觀上可能像男性，有機會是因為她陰蒂過大，那時候就要把她切除，重回一般女性外表的生殖器官。這不是關乎性命的事，不過可能引發社交 ...",
+          "date": "2020年11月23日",
+          "position": 43
+        },
+        {
+          "title": "【跨性别科普】我们为何痛苦？ - Bilibili",
+          "link": "https://www.bilibili.com/read/cv6002007/",
+          "snippet": "解读：这种痛之切在于，时时刻刻——只要知觉在，这种错位感就一直存在，他人很难感同身受。因为无法共情，导致很多人不理解为什么非要手术（当然也有些跨性别者不 ...",
+          "date": "2020年5月10日",
+          "position": 44
+        },
+        {
+          "title": "高校纷纷开设微专业，“香”在哪 - 新华网",
+          "link": "http://www.news.cn/politics/20241104/41805ea7e6cd44aab6748f1805397bba/c.html",
+          "snippet": "... 置的培养需求；学生选择微专业时，重点聚焦科技前沿技术领域、与战略性新兴产业紧密连接以及面向就业市场的新兴学科等。 记者还查询到，黑龙江大学 ...",
+          "date": "1小时前",
+          "position": 45
+        },
+        {
+          "title": "性别角色双性化_百度百科",
+          "link": "https://baike.baidu.com/item/%E6%80%A7%E5%88%AB%E8%A7%92%E8%89%B2%E5%8F%8C%E6%80%A7%E5%8C%96/8030720",
+          "snippet": "性别角色双性化男人就该像个男人，女人就该像个女人，在性别角色的评判上这似乎是天经地义的。男人不像男人，女人不像女人，则被认为是性别角色的一种错位。那么，一个人既像 ...",
+          "position": 46
+        },
+        {
+          "title": "国际跨性别现身日，做一点关于跨性别的科普吧- 小组讨论 - 豆瓣",
+          "link": "https://m.douban.com/group/topic/169706428/",
+          "snippet": "一个人是跨性别者的同时，也可以有各种各样的性取向，而对于跨性别者的性取向，一般应该以其自我认同的性别为基准加以衡量。比如一个取向为男性的MtF是（女） ...",
+          "date": "2020年3月31日",
+          "position": 47
+        },
+        {
+          "title": "调查指台约40万人想变性女性比例是男性2.5倍 - 新闻- 搜狐",
+          "link": "http://news.sohu.com/20090222/n262386667.shtml",
+          "snippet": "至于真正“性别认同障碍”，除想变性的“念头”，个案大多有更具体的行为表现，例如在衣着打扮上与一般人不同(男穿女装或女穿男装)，或因强烈的灵魂错置感而须就医 ...",
+          "date": "2009年2月22日",
+          "position": 48
+        },
+        {
+          "title": "滨江为民办食事 - 杭州市人民政府",
+          "link": "https://www.hangzhou.gov.cn/art/2024/11/1/art_812264_59104455.html",
+          "snippet": "... 性，也提升助餐服务点位的积极性。”滨江区民政局社会福利科科长陶晓青说，下一步，该区将坚持以提升老人获得感作为政策发力方向，适时优化相关补助 ...",
+          "date": "3天前",
+          "position": 49
+        },
+        {
+          "title": "为国有企业改革发展提供坚强组织保证 - 求是",
+          "link": "http://www.qstheory.cn/dukan/qs/2024-11/01/c_1130214623.htm",
+          "snippet": "... 性创造性充分调动起来。 让“有为者有位、无为者让位”。当干好干坏一个样，干与不干一个样的时候，人就没有了危机感和成长的动力，企业发展也就会失去活力。",
+          "date": "3天前",
+          "position": 50
+        },
+        {
+          "title": "促进高质量充分就业的行动指南 - 广州市政府",
+          "link": "https://www.gz.gov.cn/zwfw/zxfw/jyfw/content/post_9947447.html",
+          "snippet": "... 感幸福感安全感”的目标使命。 《意见》从宏观和微观角度提出的“5+4”的高 ... 置于“量的合理增长”之前。既是符合经济社会整体进入高质量发展阶段 ...",
+          "date": "6天前",
+          "position": 51
+        },
+        {
+          "title": "难以破解的AI“黑匣子” - 国际科技创新中心",
+          "link": "https://www.ncsti.gov.cn/kjdt/kjrd/rgzn_kjrd/202410/t20241029_183821.html",
+          "snippet": "机器学习系统这3个部分中，任何一个都可能被隐藏起来，即被置于黑匣子中。 ... 系统不透明性让纠正偏见变得更难，也加剧了不信任感。目前，AI领域的 ...",
+          "date": "6天前",
+          "position": 52
+        },
+        {
+          "title": "国务院台办新闻发布会辑录（2024-10-30）",
+          "link": "http://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202410/t20241030_12659811.htm",
+          "snippet": "其间就如何在两岸事务性商谈中表述坚持一个中国原则的态度，双方各自提出表述方案。其中台湾海基会的第八种（口头）表述方案内容为：“在海峡两岸共同努力谋求 ...",
+          "date": "5天前",
+          "position": 53
+        },
+        {
+          "title": "连烧两次！“双十一”这些“坑”千万别踩 - 广西壮族自治区应急管理厅",
+          "link": "http://yjglt.gxzf.gov.cn/yjkp/t19209243.shtml",
+          "snippet": "如果消防设施没有定时进行安全检查和维护保养，烟感系统、自动喷水灭火 ... 纠错 · 党政机关.",
+          "date": "5天前",
+          "position": 54
+        },
+        {
+          "title": "“天然摄影棚”恩平魅力何在？人文建筑和自然生态之美吸引众多剧组前 ...",
+          "link": "http://www.jiangmen.gov.cn/home/sqdt/epzx/content/post_3190062.html",
+          "snippet": "“大钟楼”始建于民国十九年（1930年），中西合璧建筑风格，极具建筑特色和年代感，经过一番简单布置，摇身一变就成为剧中的“东区警署”。 类似这样的特色古建筑，恩 ...",
+          "date": "6天前",
+          "position": 55
+        },
+        {
+          "title": "我县召开10月长合区建设大会战（一区一园 - 郎溪县人民政府",
+          "link": "https://www.ahlx.gov.cn/News/show/1591349.html",
+          "snippet": "县领导陈良龙、谢如龙、柯鸣、姚来顺、王鹏，相关县直部门及乡镇主要负责人参加会议。 洪琳强调，必须深刻理解开发区考核工作的重大意义与紧迫性，确保各项 ...",
+          "date": "5天前",
+          "position": 56
+        },
+        {
+          "title": "人类首张剪接体结构图谱绘出，为理解复杂精密分子机器提供新视角",
+          "link": "https://www.stdaily.com/web/gjxw/2024-11/01/content_251187.html",
+          "snippet": "我们很高兴地看到，纠正剪接错误的药物，正在改善脊髓性肌萎缩症等罕见疾病的治疗。如今有了这份新图谱，新疗法将有望应用到对其他疾病的治疗中。 责任编辑： ...",
+          "date": "3天前",
+          "position": 57
+        },
+        {
+          "title": "跨性别者的心理健康问题是什么？ - Kamol Cosmetic Hospital",
+          "link": "https://www.kamolhospital.com/zh/blog/1501/what-are-transgender-mental-health-concerns",
+          "snippet": "性别焦虑是指当个体的性别认同与其出生时被指定的生理性别不一致时所产生的痛苦或不适感。这可能表现为对自己身体的不满意，社交上的不适感，或与性别角色和期望相关的困扰。",
+          "position": 58
+        },
+        {
+          "title": "习近平在中共中央政治局第十七次集体学习时强调 - 杭州市人民政府",
+          "link": "https://www.hangzhou.gov.cn/art/2024/10/29/art_1229677611_59104328.html",
+          "snippet": "着眼满足人民群众多样化、多层次、多方面的精神文化需求，提升文化服务和文化产品供给能力，增强人民群众文化获得感、幸福感。 ... 重置; 声音; 语速 ...",
+          "date": "6天前",
+          "position": 59
+        },
+        {
+          "title": "中共麻栗坡县人民政府外事办公室党组关于巡察整改进展情况的通报",
+          "link": "https://www.ynmlp.gov.cn/index/tzgg/51627.html",
+          "snippet": "重置.: 声音.: 语速.: 连读.: 配色.: 放大.: 缩小.: 大鼠标 ... 感，以主动认领的政治自觉、敢于担当的精神，扎实抓好问题整改落实，确保 ...",
+          "date": "4天前",
+          "position": 60
+        },
+        {
+          "title": "国际观察丨美国大选“月月惊奇” 美国民众“步步惊心” - 新闻频道- 央视网",
+          "link": "https://news.cctv.com/2024/11/03/ARTIJCuHWK65kIUS9L2XyMwB241103.shtml",
+          "snippet": "这波国会山“退群潮”，在很大程度上反映出处在美国政治顶端的人也开始对美国政治体制产生幻灭感。 ... 哈里斯顶替拜登对阵特朗普“重置并重塑”了今年美国总统 ...",
+          "date": "22小时前",
+          "position": 61
+        },
+        {
+          "title": "为国有企业改革发展提供坚强组织保证 - 党建- 人民网",
+          "link": "http://dangjian.people.com.cn/n1/2024/1101/c117092-40351972.html",
+          "snippet": "... 性创造性充分调动起来。 让“有为者有位、无为者让位”。当干好干坏一个样，干与不干一个样的时候，人就没有了危机感和成长的动力，企业发展也就会失去活力。",
+          "date": "3天前",
+          "position": 62
+        },
+        {
+          "title": "强化基层组织建设共筑残疾人幸福家园 - 新城区",
+          "link": "http://www.xinchengqu.gov.cn/zwdt/xczx/202410/t20241031_1797373.html",
+          "snippet": "... 感、幸福感、安全感。 初审：刘慧. 终审：云晓军. 编辑：李嘉琪. 附件 ... 政府找错.",
+          "date": "4天前",
+          "position": 63
+        },
+        {
+          "title": "国台办2024年10月30日新闻发布会文字实录 - 中国军网",
+          "link": "http://www.81.cn/fyr/16348363.html",
+          "snippet": "其间就如何在两岸事务性商谈中表述坚持一个中国原则的态度，双方各自提出表述方案。其中台湾海基会的第八种（口头）表述方案内容为：“在海峡两岸共同努力谋求 ...",
+          "date": "5天前",
+          "position": 64
+        },
+        {
+          "title": "《求是》杂志发表习近平总书记重要文章《促进高质量充分就业》",
+          "link": "http://ynswsjkw.yn.gov.cn/html/2024/shizhengyaowen_1031/4021908.html",
+          "snippet": "... 感幸福感安全感，为以中国式现代化全面推进强国建设、民族复兴伟业提供 ... 纠错. 网站地图 | 网站声明 | 关于我们 主办单位：云南省卫生健康 ...",
+          "date": "4天前",
+          "position": 65
+        },
+        {
+          "title": "关于九届回民区委第五轮巡察回民区统计局党组反馈意见整改进展 ...",
+          "link": "http://www.huiminqu.gov.cn/zwdt/bmdt/202410/t20241029_1795241.html",
+          "snippet": "每月按照区机关党工委下发的主题党日活动推送通知，结合党纪学习教育、“感 ... 重置; 声音; 语速; 阅读方式; 配色; 放大; 缩小; 大鼠标 ...",
+          "date": "6天前",
+          "position": 66
+        },
+        {
+          "title": "外企在中国丨生物技术领导者安进的“向新”与“加速” - 新华网",
+          "link": "http://www.news.cn/20241031/3d6d0c67cd564398b194a2ad820f3e19/c.html",
+          "snippet": "... 置于首要位置，为新兴产业和未来产业提供广阔的发展空间，创新药作为其中 ... 安进副总裁兼中国总经理许蔼龄曾表示，安进一直有一种紧迫感，希望能够尽快把创新 ...",
+          "date": "4天前",
+          "position": 67
+        },
+        {
+          "title": "[PDF] 天津智能车联网示范应用数据获批银行数据资产质押融资",
+          "link": "http://epaper.tianjinwe.com/tjrb/resfile/2024-11-04/02/02.pdf",
+          "snippet": "念，营造儿童参与感、幸福感强的良好社. 会环境。”和平区妇儿办主任赵妍说 ... 近两年，力生制药始终把研发和. 创新能力建设放在公司发展的首要位. 置。",
+          "date": "2小时前",
+          "position": 68
+        },
+        {
+          "title": "明确优先序与把握时度效（人民论坛） - 西藏头条",
+          "link": "https://toutiao.xzdw.gov.cn/pl/202410/t20241029_521104.html",
+          "snippet": "在安徽凤阳小岗村,顺应发展现代农业的趋势和农民保留承包权、流转经营权的意愿,承包地“三权分置”改革水到渠成。 ... 感作为评价标准,扭住关键、精准 ...",
+          "date": "6天前",
+          "position": 69
+        },
+        {
+          "title": "深入学习贯彻党的二十届三中全会精神凝心聚力推动改革行稳致远",
+          "link": "https://www.yanjin.gov.cn/newsinfo/21176.html",
+          "snippet": "要处理好部署和落实的关系，改革方案的设计必须把握客观规律，注重各项改革举措的协调配套，增强改革取向的一致性 ... 政府网站找错. 重置. 声音开关. 语速.",
+          "date": "5天前",
+          "position": 70
+        },
+        {
+          "title": "推动退役军人工作高质量发展",
+          "link": "http://gjw.gxzf.gov.cn/xwdt/gzdt/t19243447.shtml",
+          "snippet": "坚持以人民为中心，努力让退役军人获得感成色更足。 ... 习近平总书记强调：“我们从事的是前无古人的伟大事业，守正才能不迷失方向、不犯颠覆性错误，创新才能 ...",
+          "date": "2天前",
+          "position": 71
+        },
+        {
+          "title": "Google Translate帮助",
+          "link": "https://support.google.com/translate/?hl=zh-Hans",
+          "snippet": "浏览帮助主题 ; 开始使用Google 翻译. 下载和使用谷歌翻译 · 下载语言包以供离线使用 · 获得针对不同性别的翻译 · 提示和技巧 ; 翻译文字、图片、手写内容或语音内容. 翻译 ...",
+          "position": 72
+        },
+        {
+          "title": "上海郊区这家社区护理中心解决居民小问题带来“大便利” - 上观新闻",
+          "link": "https://www.jfdaily.com/news/detail?id=813228",
+          "snippet": "女婿的糖尿病一直不规律用药、暴饮暴食，经糖尿病专科护士建档指导后，扭转了错误观念，认识到规律饮食、规范用药的重要性，女婿也成为了“糖葫芦”控糖俱乐部的 ...",
+          "date": "4天前",
+          "position": 73
+        },
+        {
+          "title": "人类首张剪接体结构图谱绘出为理解复杂精密分子机器提供新视角",
+          "link": "https://www.stdaily.com/web/gdxw/2024-11/01/content_251275.html",
+          "snippet": "我们很高兴地看到，纠正剪接错误的药物，正在改善脊髓性肌萎缩症等罕见疾病的治疗。如今有了这份新图谱，新疗法将有望应用到对其他疾病的治疗中。 责任编辑： ...",
+          "date": "3天前",
+          "position": 74
+        },
+        {
+          "title": "金标体验爱不将就售价26.99万元起，别克全新GL8陆尊豪华上市 - 汽车",
+          "link": "http://auto.ce.cn/auto/gundong/202411/01/t20241101_39189206.shtml",
+          "snippet": "... 感航空座椅，座椅型面与人体曲线完美贴合；座垫与靠背业内首次采用Surflex慢回弹舒适层，配合高密度发泡材料，提供更佳的包裹感和支撑性，满足用户对 ...",
+          "date": "3天前",
+          "position": 75
+        },
+        {
+          "title": "北约：挑动阵营对抗的“冷战遗孽” - 中国青年网",
+          "link": "https://news.youth.cn/js/202410/t20241031_15616590.htm",
+          "snippet": "10月中旬，北约防长会在布鲁塞尔举行。此次会议前后，北约对外政策呈现“三加”特点，即加大对乌援助、加强对俄施压、加速东进亚太。",
+          "date": "4天前",
+          "position": 76
+        },
+        {
+          "title": "中国科技创新能力稳步增长 - 新闻频道- 央视网",
+          "link": "https://news.cctv.com/2024/10/28/ARTItqKraFKD0P3OP0w3m6i4241028.shtml",
+          "snippet": "新加坡《联合早报》网站报道称，视频中的机械狗行动灵敏，平衡感极强 ... 美国“有趣工程”网站的报道指出，中国政府将科学、技术、工程和数学教育置 ...",
+          "date": "7天前",
+          "position": 77
+        },
+        {
+          "title": "错位的角色肯定：网络游戏中的青年女性身份认同[*]——次个案的观察 ...",
+          "link": "http://www.semiotics.net.cn/index.php/view/index/theory/3300",
+          "snippet": "... 感，是一个自我生命意识确认的过程。”[④]斯图亚特•霍尔也说，“主体 ... 因为当人们提到性别（gender）的时候，表达的是一种非此即彼的严格区分 ...",
+          "date": "2009年12月13日",
+          "position": 78
+        },
+        {
+          "title": "深入学习贯彻党的二十届三中全会精神凝心聚力推动改革行稳致远",
+          "link": "http://ynswsjkw.yn.gov.cn/html/2024/shizhengyaowen_1030/4021898.html",
+          "snippet": "要增强政治责任感、历史使命感，以攻坚克难、迎难而上的政治勇气，直面 ... 纠错. 网站地图 | 网站声明 | 关于我们 主办单位：云南省卫生健康 ...",
+          "date": "5天前",
+          "position": 79
+        },
+        {
+          "title": "期待！四尊圆明园兽首铜像原件今日亮相澳门 - 广州日报大洋网",
+          "link": "https://news.dayoo.com/society/202411/02/140000_54740779.htm",
+          "snippet": "为保证安全舒适的参观环境，该展览每小时最多容纳300人参观。感兴趣的朋友千万不要错过。 [ 编辑： 陈廷仁]. 免责声明：文中图片如 ...",
+          "date": "2天前",
+          "position": 80
+        },
+        {
+          "title": "[PDF] 第三章認識跨性別者（T）及其處境",
+          "link": "https://www.boca.gov.tw/dl-2331-7e983e47d7e043f3b9c6d19c66e9d68a.html",
+          "snippet": "也有變性者因為所處地區缺乏完整變. 性醫療資源，因此從精神評估、賀爾蒙治療、到性別重置手術，一切由自己尋. 找適當的醫生，在多家醫院之間來回奔波。 男性變為女性的手術， ...",
+          "position": 81
+        },
+        {
+          "title": "周波：是美国叫嚣要在台湾海峡使用核武器，而不是中国大陆 - 观察者",
+          "link": "https://www.guancha.cn/ZhouBo/2024_11_02_753920.shtml",
+          "snippet": "今天能与各位帕格沃什成员交流我深感荣幸。我要特别感谢我在剑桥 ... 如果所有国家都承诺不首先使用核武器，实际上，你将自己置于全世界人民的 ...",
+          "date": "2天前",
+          "position": 82
+        },
+        {
+          "title": "长城灵魂摩托车首定告罄售价区间21.88-28.88万元_新车上市 - 汽车",
+          "link": "http://auto.cnfol.com/xincheshangshi/20241101/31000103.shtml",
+          "snippet": "... 置八缸大巡航—长城灵魂正式上市售价区间21 88 28 88 ... 在舒适性方面，新车宽大的座椅如同移动的沙发，为骑手和乘客提供了极佳的支撑和包裹感。",
+          "date": "3天前",
+          "position": 83
+        },
+        {
+          "title": "好料做好餐，初哥也不慌：春风150SC拆解后一探究竟 - 车家号",
+          "link": "https://chejiahao.autohome.com.cn/info/17915176",
+          "snippet": "如果把座桶放上你会发现使用钢管编织加强的部分刚好位于驾驶座下方，所以150SC那份突出的稳定感就是来源于此。 ... 我要纠错. 本内容来自汽车之家创作者，不 ...",
+          "date": "15小时前",
+          "position": 84
+        },
+        {
+          "title": "司法能动与司法谦抑如何平衡 - 评论理论频道",
+          "link": "http://views.ce.cn/view/ent/202411/04/t20241104_39190990.shtml",
+          "snippet": "司法能动主义和司法克制主义是现代司法活动中的两种指向。在最初的意义上，前者强调司法机关可以不拘泥于成文法和先例来进行创造性、补充性解释，从而 ...",
+          "date": "1小时前",
+          "position": 85
+        },
+        {
+          "title": "我们究竟从《哈利•波特》里看到什么？ - 文化- 南方网",
+          "link": "https://culture.southcn.com/node_5e8a31b032/558e825b2f.shtml",
+          "snippet": "动物首先是巫师界的研究对象，有些也是合作伙伴，有人就非常喜欢动物，例如海格，当然也有人厌恶神奇动物，欲置之死地。 ... 错羽毛笔，活点地图……所以 ...",
+          "date": "5天前",
+          "position": 86
+        },
+        {
+          "title": "“主题写作”：旧题与新论--理论评论 - 中国作家网",
+          "link": "http://www.chinawriter.com.cn/n1/2024/1103/c404030-40352981.html",
+          "snippet": "比如付秀莹的《野望》和乔叶的《宝水》，都是采取把乡土居民的矛盾或命运起伏置于四时时序的往复中展现，使我们真正感受到人与自然时序之间的对应错动 ...",
+          "date": "10小时前",
+          "position": 87
+        },
+        {
+          "title": "《山花烂漫时》：嶙峋的理想与现实中，微小的勇气最动人 - 证券",
+          "link": "https://wap.stockstar.com/detail/IG2024103100012225",
+          "snippet": "... 性就束手束脚、放低对故事性的追求，“这剧这么好看啊”，正是观众追看时的纯粹想法。因为这部剧选择塑造具体生活着的张桂梅等人，将他们置于职业、理想 ...",
+          "date": "4天前",
+          "position": 88
+        },
+        {
+          "title": "跨儿心理工作手册 - 跨性别在线·文档库",
+          "link": "https://docs.transonline.org.cn/kexl-work",
+          "snippet": "在媒体中，跨儿常常被描述为“变性、人妖、不男不女、伪娘、药娘、阉人”等。在《变态心理学》教课书中，跨儿则常常与“性心理疾病、性身份障碍、异性病、性别认同 ...",
+          "position": 89
+        },
+        {
+          "title": "人工客服“不解人意”成摆设律师：商家的电话难接通或停摆可投诉",
+          "link": "http://www.zgnt.net/content/2024-11/03/content_3244196.htm",
+          "snippet": "用户需要通过冗长的语音播报和多次输入确认等前置程序 ... 感往往不佳。不少客服系统需要多次输入手机号确认，稍有不慎就会误触输错，浪费时间‌。",
+          "date": "22小时前",
+          "position": 90
+        },
+        {
+          "title": "江北奋力建设中国式现代化重庆先行示范区·重庆日报数字报",
+          "link": "https://epaper.cqrb.cn/cqrb/2024-10/29/008/content_rb_338584.htm",
+          "snippet": "江北区司法局相关负责人表示，江北区推动街道从“行政末梢”转向“执法前哨”，将力量下沉、资源下倾、工作前置，推动改革工作向纵深入。 ... 错率为零。",
+          "date": "6天前",
+          "position": 91
+        },
+        {
+          "title": "11月新车扎堆上市，阿维塔/BMW等车型亮相，哪款是你的菜？ - 车家号",
+          "link": "https://chejiahao.autohome.com.cn/info/17911761",
+          "snippet": "相对于当前的状况，许多汽车制造大公司都在紧张地筹划推出新的车型，希望在未来的市场竞争中获得一席之地。11月，备受关注的2024广州车展将在这个时候举行，而 ...",
+          "date": "1天前",
+          "position": 92
+        },
+        {
+          "title": "异装：关于身体的政治学 - 清新传媒",
+          "link": "https://qxcm.tsjc.tsinghua.edu.cn/folder150/folder151/folder153/folder571/2019-05-27/1502.html",
+          "snippet": "就像有的人特别害怕虫子，有的人见到血就会晕一样，异装者的恐惧，来源于对自己性别的不认同。普通的恐惧症可以通过暴露疗法，校正病人对恐怖、焦虑刺激的错误 ...",
+          "date": "2019年5月27日",
+          "position": 93
+        },
+        {
+          "title": "4000字硬核干货！货币符号视觉设计指南 - 优设",
+          "link": "https://www.uisdc.com/visual-design-of-currency-symbol",
+          "snippet": "一方面，标准化确保了全球用户的识别度和信任感；另一方面，多样性则为不同文化背景下的用户提供了更加个性化和贴近的体验。设计师在开发全球产品时，可以通过 ...",
+          "date": "3天前",
+          "position": 94
+        },
+        {
+          "title": "祝贺！中国游泳队再进3金2银 - 广州日报大洋网",
+          "link": "https://news.dayoo.com/sports/202411/02/140001_54740667.htm",
+          "snippet": "... 感不足，建议禁行电动自行车并规划非机动车道。 2024-11-01 13:01. 理响 ... 重置 重置页面功能. 刷新 刷新页面功能. 页面100%. 放大页面. 缩小页面 ...",
+          "date": "2天前",
+          "position": 95
+        },
+        {
+          "title": "从Face ID 到ARKit，苹果收购了多少公司才认清你的脸？-36氪",
+          "link": "https://m.36kr.com/p/3001762458139008",
+          "snippet": "再来说说Face ID 的结构以及安全性。Face ID 在硬件上，依赖于iPhone X 前置留海区的「TrueDepth Camera」，刘海内一共藏了八个传感器。其中 ...",
+          "date": "2024年10月21日",
+          "position": 96
+        },
+        {
+          "title": "跨性别者：灵魂装错了身体 - 参考网",
+          "link": "https://m.fx361.com/news/2017/1214/2570482.html",
+          "snippet": "据上海交通大学附属精神卫生中心科主任陆峥教授介绍，在《中国精神障碍分类与诊断标准第3版》（CCMD-3）中，易性症被归于性心理障碍，其主要特点为心理上对自身 ...",
+          "date": "2017年12月14日",
+          "position": 97
+        },
+        {
+          "title": "零跑全新C11对比宋PLUS DM-i，买谁更划算？ - BitAuto",
+          "link": "https://www.bitauto.com/zh-au/news/100395563794.html",
+          "snippet": "上扬的车身腰线以及保留的机械车门把手增添了肌肉感，另外比亚迪品牌标志性的贯穿式尾灯也有出现，增强了时尚感。 ... 错。但仔细对比下来后就会发现 ...",
+          "date": "7天前",
+          "position": 98
+        },
+        {
+          "title": "九州风神CH170+华硕ROG X870-I+索泰RTX 4080 SUPER 桌面立式 ...",
+          "link": "https://www.bilibili.com/read/cv39651418/",
+          "snippet": "这一设计不仅提升了机箱的实用性，还为玩家带来了科技感十足的全新装机体验。 CPU AMD RYZEN9 9900X. 散热器 九州风神阿萨辛4. 主板华硕ROG STRIX X870 ...",
+          "date": "1天前",
+          "position": 99
+        }
+      ],
+      "images": [
+        {
+          "title": "跨性别者活在一个自己不喜欢的身体里，这是一种什么样的痛苦？｜潘柏林 ...",
+          "imageUrl": "http://inews.gtimg.com/newsapp_bt/0/13899564926/641",
+          "link": "https://new.qq.com/rain/a/20210819A0COQC00"
+        },
+        {
+          "title": "跨性别者活在一个自己不喜欢的身体里，这是一种什么样的痛苦？｜潘柏林 ...",
+          "imageUrl": "http://inews.gtimg.com/newsapp_bt/0/13899565021/641",
+          "link": "https://new.qq.com/rain/a/20210819A0COQC00"
+        },
+        {
+          "title": "跨性别女性：我的灵魂与我格格不入丨镜相",
+          "imageUrl": "https://imagepphcloud.thepaper.cn/pph/image/245/337/110.jpeg",
+          "link": "https://m.thepaper.cn/newsDetail_forward_22457629"
+        },
+        {
+          "title": "我们也是雌雄同体吗？",
+          "imageUrl": "https://imagepphcloud.thepaper.cn/pph/image/92/704/838.jpg",
+          "link": "https://m.thepaper.cn/newsDetail_forward_9490421"
+        },
+        {
+          "title": "生而无罪，你不需要抱歉”|性别认同：“顺”或“跨”都不该被轻易定义-心理 ...",
+          "imageUrl": "https://xinli.swjtu.edu.cn/__local/2/79/1D/03DA3D7EA92AA9EED5C0ABF7F8D_FC51A513_7D32E.png",
+          "link": "https://xinli.swjtu.edu.cn/info/1065/5833.htm"
+        },
+        {
+          "title": "性别扭转治疗：一个跨性别女孩的残酷“成年礼”",
+          "imageUrl": "http://inews.gtimg.com/newsapp_bt/0/12130375792/641",
+          "link": "https://news.qq.com/rain/a/20200722A057D800"
+        },
+        {
+          "title": "跨性别者C先生：一个灵魂放错了身体的“爷儿”_手机新浪网",
+          "imageUrl": "https://k.sinaimg.cn/n/translate/20170819/pJXD-fykcppx9491750.jpg/w700d1q75cms.jpg?by=cms_fixed_width",
+          "link": "https://news.sina.cn/sa/2017-08-19/detail-ikmyaawa7426248.d.html"
+        },
+        {
+          "title": "跨性别者活在一个自己不喜欢的身体里，这是一种什么样的痛苦？｜潘柏林 ...",
+          "imageUrl": "http://inews.gtimg.com/newsapp_bt/0/13899565502/641",
+          "link": "https://new.qq.com/rain/a/20210819A0COQC00"
+        },
+        {
+          "title": "生而无罪，你不需要抱歉”|性别认同：“顺”或“跨”都不该被轻易定义-心理 ...",
+          "imageUrl": "https://xinli.swjtu.edu.cn/__local/8/75/AE/C5429A36F019E348A9279DBAAE4_80CF8179_C7B66.png",
+          "link": "https://xinli.swjtu.edu.cn/info/1065/5833.htm"
+        }
+      ],
+      "relatedSearches": [
+        {
+          "query": "gender dysphoria中文"
+        },
+        {
+          "query": "dsm 5中文"
+        },
+        {
+          "query": "Gender dysphoria"
+        },
+        {
+          "query": "酷儿"
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "性别错置感",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "关于儿童与性别的研究会告诉我们什么 - 世界经济论坛",
+          "link": "https://cn.weforum.org/agenda/2021/06/guan-yu-er-tong-yu-xing-bie-de-yan-jiu-hui-gao-su-wo-men-shen-me/",
+          "snippet": "按照这个逻辑，如果你是“顺性别”（对自己性别的认知与出生证明上的性别一致），你就知道自己的性别，但你如果是跨性别者或性别错位者，那么就不能知道自己的性别 ...",
+          "date": "2021年6月2日",
+          "position": 1
+        },
+        {
+          "title": "iQOO 13正式发布：售价3999元起首发京东方2K Q10珠峰屏",
+          "link": "https://m.cnbeta.com.tw/view/1451278.htm",
+          "snippet": "实验数据表明，长时间使用iQOO 13的屏幕后，用户的眼红程度显著降低，眨眼频率减少，眼部调节的微波动降低，泪膜稳定性提升，主观疲劳感也大大降低。",
+          "date": "5天前",
+          "position": 2
+        },
+        {
+          "title": "“生而无罪，你不需要抱歉”|性别认同：“顺”或“跨”都不该被轻易定义",
+          "link": "https://xinli.swjtu.edu.cn/info/1065/5833.htm",
+          "snippet": "性别认同和性倾向是两个完全不同的概念。性别认同是一种人的内在的意识，也就是对自己是男性、女性或者非二元性别者的认同感。而 ...",
+          "date": "2021年10月13日",
+          "position": 3
+        },
+        {
+          "title": "AI 技能挑戰",
+          "link": "https://learn.microsoft.com/zh-tw/training/topics/event-challenges",
+          "snippet": "透過GitHub Copilot，建置您開始在雲端撰寫程式碼所需的所有技能！ GitHub Copilot 可協助您了解其他人的程式碼、建立文件、偵錯問題，以及提升新技術的技能。 立即 ...",
+          "position": 4
+        },
+        {
+          "title": "咖蒙医院的跨性别心理健康照护",
+          "link": "https://www.kamolhospital.com/zh/service/1115/mental-healthcare",
+          "snippet": "当个人的性别认同与出生时指定的性别不一致时，可能会产生不安或不适感。这可能表现为对自己身体的不满意、社会不适或与性别角色和期望相关的困扰。 沮丧.",
+          "position": 5
+        },
+        {
+          "title": "基于Spring Boot的信息学科平台系统开发与优化原创 - CSDN博客",
+          "link": "https://blog.csdn.net/2401_85812026/article/details/143448907",
+          "snippet": "如果它与“期望结果”不想符合，便说明程序中存在错误，需要用纠错来改正。 ... （1）本系统用的移置性和针对性都比较高，因为针对性高可以提供更好的 ...",
+          "date": "2天前",
+          "position": 6
+        },
+        {
+          "title": "国外游戏出大Bug：非二元性别角色引社区不满 - 中关村在线",
+          "link": "https://news.zol.com.cn/914/9145406.html",
+          "snippet": "近日，《上古卷轴Online》在U44更新中引入了第一个非二元性别角色坦洛林，然而这一决定引发了社区玩家们的不满，他们认为坦洛林的存在会破坏游戏的沉浸感，并 ...",
+          "date": "19小时前",
+          "position": 7
+        },
+        {
+          "title": "跨性别者和多元性别者的斗争 - ohchr",
+          "link": "https://www.ohchr.org/zh/special-procedures/ie-sexual-orientation-and-gender-identity/struggle-trans-and-gender-diverse-persons",
+          "snippet": "... 性别认知置于男性／女性的性别二元对立中；更具体的术语“跨性别者”是指性别认同与其出生时被指派性别不同的人。 陷入受排斥和被边缘化的漩涡世界各地的多元性别者和跨 ...",
+          "position": 8
+        },
+        {
+          "title": "[WML] 关于跨性别的调查和研究 - 轻小说文库",
+          "link": "https://www.wenku8.net/wap/article/reviewshow.php?rid=282086",
+          "snippet": "“多元性别”一词是性别认同（包括性别表达）不符合某一特定时间和背景下的性别规范，包括不将自己的性别认知置 ... 感兴趣可以读一下 https://www.bilibili.com/read ...",
+          "position": 9
+        },
+        {
+          "title": "[PDF] 中国跨性别群体- 生存现状调查报告",
+          "link": "https://cnlgbtdata.com/files/uploads/2019/03/2017_%E4%B8%AD%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E7%BE%A4%E4%BD%93%E7%94%9F%E5%AD%98%E7%8E%B0%E7%8A%B6%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A-%E5%8F%AF%E8%A7%86%E5%8C%96.pdf",
+          "snippet": "51%的跨性别者有性别重置手术的需求，其中跨性别女性. 和跨性别男性的手术需求达 ... 7.4 公共空间不适感。 在街道、商店、饭馆/咖啡厅、更衣室/公共浴室、公共 ...",
+          "position": 10
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

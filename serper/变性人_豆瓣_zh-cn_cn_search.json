@@ -1,0 +1,932 @@
+{
+  "query": "变性人 豆瓣",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-02T21:43:51.138411",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "变性人 豆瓣",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "变性人- 电影- 豆瓣",
+          "link": "https://m.douban.com/movie/subject/34982235/",
+          "snippet": "变性人简介：本片深入了解四位居住在纽约的男性转变为女性的变性人复杂又迷人的生活。从模特到音乐家，从时尚总监到心理咨询师，甚至三陪，每位变性人都面临着各种各样的 ...",
+          "position": 1
+        },
+        {
+          "title": "关于变性人的电影 - 豆瓣",
+          "link": "https://m.douban.com/tag/%E5%8F%98%E6%80%A7%E4%BA%BA/movie",
+          "snippet": "变性人 · 迷恋荷尔蒙Soldier's Girl. 8.6 · 蒂蕾茜亚Tiresia. 6.9 · 海吉拉. 7.0 · 翠丝翠絲. 6.9 · 南方的安慰Southern Comfort. 7.9 · 普林歇莎Princesa. 6.8 · 晓迪.",
+          "position": 2
+        },
+        {
+          "title": "变性人- 电影- 豆瓣",
+          "link": "https://m.douban.com/movie/subject/30379586/",
+          "snippet": "变性人. Transformer（2017）. 加拿大/ 纪录片/ 2017-10-28(奥斯汀电影节)上映/ 片长78分钟. 想看 看过. 即将可播 在豆瓣App打开上架提醒. 剧情简介. In the summer of 2015 ...",
+          "position": 3
+        },
+        {
+          "title": "「变性人」不完全图鉴- 女孩- 豆瓣",
+          "link": "https://m.douban.com/movie/review/9996567/",
+          "snippet": "《女孩》是一部非常典型的欧洲电影，长镜头，较稳定的手持摄影，同一场景内的不连续剪辑，视觉重复，片段式情节拼贴，以及往往不把一段情节拍“完”，必要的信息 ...",
+          "date": "2019年2月22日",
+          "position": 4
+        },
+        {
+          "title": "中国最著名的十大变性美女 - 豆瓣",
+          "link": "https://m.douban.com/doulist/29138888/",
+          "snippet": "中国最著名的十大变性美女 · 评语：“环球小姐”历史上参赛的第一个变性美女——陈莉莉陈莉莉原名陈勇军，1980年1月8日生于四川省南充市的仪陇县一个农民家庭。 · 评语：中国第一位 ...",
+          "position": 5
+        },
+        {
+          "title": "变性人自述- 图书- 豆瓣",
+          "link": "https://m.douban.com/book/subject/2238690/",
+          "snippet": "变性人自述豆瓣评分：7.2 简介：一位英国作家，自幼即认为自己应为女子而错生为男身，这念头使他在正常人的生活之外多了一重追求，后在45岁终于做了变为女性的手术。",
+          "position": 6
+        },
+        {
+          "title": "关于变性的电影 - 豆瓣",
+          "link": "https://m.douban.com/tag/%E5%8F%98%E6%80%A7/movie",
+          "snippet": "丹麦女孩The Danish Girl · 迷恋荷尔蒙Soldier's Girl · 穿越美国Transamerica · 高跟鞋하이힐 · 我的路 · 变性双面杀手Hit & Miss · 双面罗密欧Romeos · 三代人3 Generations.",
+          "position": 7
+        },
+        {
+          "title": "这部泰国人妖纪录片，绝对颠覆你对变性人的认知 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/9403412/",
+          "snippet": "泰国的芭提雅被称为“人妖之都”，这里有许多炫目的人妖夜总会，是全世界男人最迷恋的旅游地之一。 在芭提雅，很多人妖能进入高档的夜总会表演，赚取相当可观的 ...",
+          "date": "2018年5月30日",
+          "position": 8
+        },
+        {
+          "title": "看完至少对变性人有了一点点理解，变性人也有其尊严与权利 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/9974601/",
+          "snippet": "故事发生在智利圣地亚哥，老头子奥兰多与女子马丽娜同居，意外猝死，留给马丽娜一个不好收拾的滥局。片子不长，看完觉得没什么特别的事，国内类似事也有。也没 ...",
+          "date": "2019年2月13日",
+          "position": 9
+        },
+        {
+          "title": "关于变性的日记和相册 - 豆瓣",
+          "link": "https://m.douban.com/tag/%E5%8F%98%E6%80%A7/article",
+          "snippet": "豆瓣用户贡献的关于变性的日记和相册，帮你知道更多有关变性的信息。「乐土」，一个「悲情三角」, 变性人之命, 老挝最美变性模特容貌艳丽！多少女生都比不过？, 吉米, ...",
+          "position": 10
+        },
+        {
+          "title": "变性人居然不知道自己就是当年的情人？ - 关于前目的地的问答 - 豆瓣",
+          "link": "https://m.douban.com/movie/subject/20278505/questions/29455",
+          "snippet": "你看电影时，有上帝视角，知道影片的设定是已经可以穿越时空，你当然会明白。但变性人当时根本不知道。在影片42分46秒时，变性人曾经说过：“很奇怪，每次看到 ...",
+          "date": "2014年11月26日",
+          "position": 11
+        },
+        {
+          "title": "变性人的日常- 穿越美国 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/15627712/",
+          "snippet": "穿越美国的影评。亲爸变性，继父性侵，亲妈自杀，自己当男妓（可能还是同性恋），在不知情时差点爱上亲爹跟他/她上床……我只能说口味挺重的。",
+          "date": "2023年12月18日",
+          "position": 12
+        },
+        {
+          "title": "这部豆瓣评分8.4讲述“变性人”生活的电影，不丧不虐反而很治愈 - 搜狐",
+          "link": "https://www.sohu.com/a/199367696_212874",
+          "snippet": "这部豆瓣评分8.4讲述“变性人”生活的电影，不丧不虐反而很治愈 ... 最近终于看了一部期待已久的新片《人生密密缝》。早就听闻它是今年北京电影节最早售罄的 ...",
+          "date": "2017年10月21日",
+          "position": 13
+        },
+        {
+          "title": "良医—《变性人》 - 良医第一季- 豆瓣",
+          "link": "https://m.douban.com/movie/review/12428667/",
+          "snippet": "良医第一季的剧评。良医S1-14 《变性人》 先说说这集的主线，关于HE OR SHE的问题，生理上是boy，心理上认为自己是girl，从小被同学欺负、嘲笑，自己变得越 ...",
+          "date": "2020年3月23日",
+          "position": 14
+        },
+        {
+          "title": "世界上第一个变性人远比小雀斑妩媚- 丹麦女孩 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/9766871/",
+          "snippet": "丹麦女孩的影评。今天要说的影片是两个丹麦女孩的故事。他们来自丹麦，起初他们是夫妻，两个人都是小有名气的画家，丈夫还算英俊，妻子貌美如花， ...",
+          "date": "2018年11月17日",
+          "position": 15
+        },
+        {
+          "title": "第一部“变性人”题材的华语片，拿奖到手软- 豆瓣电影 - 崇真艺客",
+          "link": "https://www.trueart.com/news/188967.html",
+          "snippet": "《翠丝》是华语影坛第一部讨论“跨性别”题材的电影，涉足了更加复杂的议题，被称作港版的《丹麦女孩》，从选题来说《翠丝》具有重要的意义。 但是《翠丝》是有 ...",
+          "date": "2019年4月15日",
+          "position": 16
+        },
+        {
+          "title": "豆瓣8.5的禁片能上映，真不容易！ - 腾讯新闻",
+          "link": "https://news.qq.com/rain/a/20230318A07GPC00",
+          "snippet": "在豆瓣，也获得了8.4的不俗评分。 图片. 本片的故事噱头十足：. 一个已婚男人，出轨了一个变性人。 在巴基斯坦这样的伊斯兰国家，能上映这样的电影，令人咋舌。",
+          "date": "2023年3月18日",
+          "position": 17
+        },
+        {
+          "title": "有些把变性人的题材浪费了- 迷失安狄 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/14455998/",
+          "snippet": "他成为了这些角色也说明安狄过去一直在掩藏自己的内心，没有Lucy的坚定，否则难以想象他会娶妻生子。“男性”的角色迎合久了也变成自己的一部分了。变性的代价 ...",
+          "date": "2022年6月14日",
+          "position": 18
+        },
+        {
+          "title": "5部反串泰剧推荐！假扮变性人猛过女主角？ - Bilibili",
+          "link": "https://www.bilibili.com/read/cv24691758/",
+          "snippet": "式特色的伪装变性人《卡巴莱天使》，看见泰国小编整理了以下5部作品，来看看你能认出几个反串角色？《爱在旅途》（豆瓣8.0）：经典女扮男装这是一部 ...",
+          "date": "2023年6月30日",
+          "position": 19
+        },
+        {
+          "title": "豆瓣评分9.2的神剧！这对变性导演在第二季更重口味了 - 搜狐",
+          "link": "https://www.sohu.com/a/143850240_783640",
+          "snippet": "下班以后#. 躺好，来点儿轻松的. 打开「超感猎杀」城市风光纪录片一般的平静片头，T酱完全没猜中接下来会出现LGBT、群P、变性人等大尺度重口味剧情。",
+          "date": "2017年5月26日",
+          "position": 20
+        },
+        {
+          "title": "这部纪录片，呈现了中国LGBT族群的抗争 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_7931257",
+          "snippet": "纪录片《李二毛的双重人生》，是男性导演贾玉川，女性制片人余天琦合作完成，关注在中国的变性人群体。 ... 微博|豆瓣|知乎：@凹凸镜DOC. 投稿 ...",
+          "date": "2020年6月21日",
+          "position": 21
+        },
+        {
+          "title": "最美变性女孩，别只因为挑战禁忌而看到她 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/12623926/",
+          "snippet": "女孩的影评。男扮女装，常常被戏称为“女装大佬”。 但不认同自己的生理性别，大概是这个世界上最痛苦的事之一。 这类人不仅长期处在自我否定之中， ...",
+          "date": "2020年5月27日",
+          "position": 22
+        },
+        {
+          "title": "整容、变性、造假：最仙华语女演员被黑惨的一生- 豆瓣电影",
+          "link": "https://www.trueart.com/news/362954.html",
+          "snippet": "把这些标签摘掉之后，刘亦菲到底是一个怎样的人？ 今天，我们请来豆友@破词儿 为我们仔细聊聊“神仙姐姐 ...",
+          "date": "2019年12月29日",
+          "position": 23
+        },
+        {
+          "title": "豆瓣评分9.4，国剧要崛起，《山海情》给出了几条真理 - 网易",
+          "link": "https://www.163.com/dy/article/G1DQP9ON0517TQKR.html",
+          "snippet": "... 豆瓣已达9.4的高分， ... 泰国知名变性人演员，参加活动美的犯规，只要不张口她就是. 广东一空姐嫁 ...",
+          "date": "2021年1月29日",
+          "position": 24
+        },
+        {
+          "title": "变性人演变性电影，但别把他们当成「怪物」 - 普通女人- 豆瓣",
+          "link": "https://m.douban.com/movie/review/9276360/",
+          "snippet": "经过检查，他们在死者的身上发现了多出外伤，而且都是新伤。 而且两个人有着巨大的年龄差距，看上去不像情侣。 所以他们立刻怀疑，玛丽娜可能是个性从业者。",
+          "date": "2018年4月6日",
+          "position": 25
+        },
+        {
+          "title": "泰国“人妖”有多惨?过来人透露变性全过程,看后让人心酸触...",
+          "link": "http://www.bcmgd.com/sdtqgky0e8kmg/20241016.aspx",
+          "snippet": "过来人透露变性全过程,看后让人心酸触...》剧情介绍：1.外观时尚大气 ... 豆瓣:7.3分. 午后情事·后窗. 毛利语. 豆瓣:8.3分. 龙门驿站之旱天雷. 捷克语.",
+          "date": "2024年10月16日",
+          "position": 26
+        },
+        {
+          "title": "向女装大佬低头！第二集惊现日本最美变性人- 女子的生活 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/9053728/",
+          "snippet": "toma和junjun俩人饰演的角色都是跨性别者，但又有很大的不同，toma更多是想全身心变成女孩子，和男人相爱，而junjun扮演的美纪则想变成女孩子搞拉拉。两部作品 ...",
+          "date": "2018年1月8日",
+          "position": 27
+        },
+        {
+          "title": "豆瓣8.4分，我想让这个变性人做我的妈妈！几分钟看完日本高分电影 ...",
+          "link": "https://www.bilibili.com/video/BV16b411a7YG/",
+          "snippet": "豆瓣8.4分，我想让这个变性人做我的妈妈！几分钟看完日本高分电影《人生密密缝》. 灭绝失态了. 相关推荐. 查看更多. 女子误闯食人族，被噶掉手脚当晚餐， ...",
+          "date": "2019年2月18日",
+          "position": 28
+        },
+        {
+          "title": "泰国人妖- 电影- 豆瓣",
+          "link": "https://m.douban.com/movie/subject/33434962/",
+          "snippet": "泰国人妖豆瓣评分：7.3 简介：在泰国，有这样一个特殊的群体。她们有着女人的外表，却曾经是男人。咪咪曾经是个男孩，是个僧侣，但她最终决定做回真正的自己，变成女人。",
+          "position": 29
+        },
+        {
+          "title": "神仙打架！这波影迷爽翻了",
+          "link": "https://user.guancha.cn/main/content?id=1325053&comments-container",
+          "snippet": "虽然影片的演员阵容超级强大：刘德华+白宇+莫文蔚+谢君豪...... 但，导演潘耀明的履历，还是让人有些担心：. 豆瓣4.8的《别叫我“赌神”》+豆瓣6.2 ...",
+          "date": "2天前",
+          "position": 30
+        },
+        {
+          "title": "老妓女、变性人、抢劫犯——来自底层群体的人性- 来日方长- 豆瓣",
+          "link": "https://m.douban.com/movie/review/15273090/",
+          "snippet": "来日方长的影评。老妓女、变性人、抢劫犯、贩毒分子一一在意大利电影《来日方长》中传统意义上的“好人”似乎并不多。 因为这里是一个难民聚居地， ...",
+          "date": "2023年7月4日",
+          "position": 31
+        },
+        {
+          "title": "变性，改变生理的错误。寄语，会更好的。 - 豆瓣",
+          "link": "https://m.douban.com/doulist/43596256/",
+          "snippet": "评语：小雀斑，你、你、你，血槽空了：http://www.bilibili.com/video/av2848884/。1931年，艾纳-韦格纳在格丽塔的鼓励之下进行了变性手术，成为历史上首位变性人，震惊世界。",
+          "position": 32
+        },
+        {
+          "title": "美剧猛加同志线之时，英剧在变性人探索的道路上越走越远 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/7629097/",
+          "snippet": "男孩遇见女孩第一季的剧评。So you were born in the wrong body. 首集18 分，编辑就一针见血地说出了变性人群体探索之路的基本。",
+          "date": "2015年10月17日",
+          "position": 33
+        },
+        {
+          "title": "跨性别女性与泛性恋男性- 迷恋荷尔蒙 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/3001942/",
+          "snippet": "33537人评价. 查看豆瓣评价>. 查看更多豆瓣高分电影电视剧. 美国 · 爱情 · LeePace · 变性 · 美国电影 · 变性人 · 剧情 · 纽约. 评论 34条. 豆瓣网友2010- ...",
+          "date": "2010年2月20日",
+          "position": 34
+        },
+        {
+          "title": "曾经帮大忙的避雷贴，如今活成了网友最讨厌的样子 - 虎嗅",
+          "link": "https://m.huxiu.com/article/3626323.html",
+          "snippet": "何况，我觉得那种多样性，多变性，不确定性，用一百种方式体现一种情绪的能力，才是中式表达的美感所在。 网络流行梗简单、有趣，但它不美。 在豆瓣上有个小组， ...",
+          "date": "5天前",
+          "position": 35
+        },
+        {
+          "title": "生殖器- 禁闻网",
+          "link": "https://www.bannedbook.org/bnews/tag/%E7%94%9F%E6%AE%96%E5%99%A8/",
+          "snippet": "作者： 豆瓣网友※楼主整理本帖的初衷是为了让不知情的姐妹知道真相，不希望本帖成为攻击她人的工具。 本来并不想[…].",
+          "position": 36
+        },
+        {
+          "title": "豆瓣9分爽剧回归，普通人复仇成功了吗？ - Redian News",
+          "link": "https://redian.news/wxnews/305781",
+          "snippet": "本文为「三联生活周刊」原创内容 文 | metro以下内容涉及剧透，请谨慎阅读隔壁的韩国影视圈，从去年开始，就一直忙着“复仇”。《财阀家的小儿子》，996打工人宋仲基， ...",
+          "position": 37
+        },
+        {
+          "title": "豆瓣8.5高分日本伦理电影，生田斗真神演技演绎变性人 - 每日頭條",
+          "link": "https://kknews.cc/zh-cn/entertainment/xb98jjo.html",
+          "snippet": "《人生密密缝》是荻上直子导演的带有LGBT色彩的电影，用日式温情的细腻镜头，讲述了一位跨性别者与三个家庭之间的情感联结。",
+          "date": "2021年6月30日",
+          "position": 38
+        },
+        {
+          "title": "Vanessa Bruno Official Online Store: Women's Clothing, Cabas ...",
+          "link": "https://www.vanessabruno.com/",
+          "snippet": "Discover the Vanessa Bruno official online store and shop our latest Clothing, Bags, Cabas tote Bags, Shoes, Jewellery and others accessories collections ...",
+          "position": 39
+        },
+        {
+          "title": "远古朱雀小说- 起点中文网手机端",
+          "link": "https://www.qidian.com/ask/tqbdyfowziqpe",
+          "snippet": "关于朱雀相关小说的豆瓣评分情况如下： - 葛亮的《朱雀》豆瓣评分有6.9 分。 - ... 百合小说变性人女女主 · 病娇短片重生小说推荐 · 变成征服者康小说 · 被困墓室的小说叫 ...",
+          "position": 40
+        },
+        {
+          "title": "中国\"变性人\"现象- 图书- 豆瓣",
+          "link": "https://m.douban.com/book/subject/1274954/",
+          "snippet": "中国\"变性人\"现象. 广州出版社/ 1996-11出版. 想读 在读 读过. 短评 打开App写短评. 豆瓣阅读热门小说. 1 这里没有善男信女 · 2 何处归家 · 3 得返自在 ...",
+          "position": 41
+        },
+        {
+          "title": "维基志异/人物- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/wiki/Wikipedia:%E7%BB%B4%E5%9F%BA%E5%BF%97%E5%BC%82/%E4%BA%BA%E7%89%A9",
+          "snippet": "莉莉·艾尔伯——世界上最早接受变性手术的人。 活塞男事件——……怎么卡住啦？ 權龍褒 ... 也不过是豆瓣评分最低的电影罢了。 ，他却不反省自己，而是告发影评平台侵害 ...",
+          "position": 42
+        },
+        {
+          "title": "《公交车售票员用b检票》网盘在线观看-伦理片-AutoIt",
+          "link": "https://autoitx.com/?/20241101230002/AmBVcVBz_99046699.html",
+          "snippet": "... 人，你杀还是不杀？”一道巨大金剑虚影瞬息而至， ... 变性变身 疯狂自慰. HD · 【堕入深渊的美艳熟妇. 名模喂母乳,龙腾少妇系列 ...",
+          "date": "1天前",
+          "position": 43
+        },
+        {
+          "title": "跨性别者：巴基斯坦的公开秘密- 电视剧- 豆瓣",
+          "link": "https://m.douban.com/movie/subject/35335959/",
+          "snippet": "跨性别者：巴基斯坦的公开秘密简介：在巴基斯坦经济首都卡拉奇的街头，许多变性人通过跳舞、唱歌、乞讨和卖淫谋生。他们被家人抛弃，聚在一起建立地下社区或“家庭”。",
+          "position": 44
+        },
+        {
+          "title": "叙利亚小孩子怎么都知道清长虫 - 西瓜视频",
+          "link": "https://m.ixigua.com/zhuanti/7432389849346410536",
+          "snippet": "豆瓣评分高达9.1分的纪录片，讲述了叙利亚一群孩子的生存现状. 03:29 ... 外国人知道东北人吗 · 巴基斯坦在修路吗 · 紐約下大雨 · 叙利亚小孩子怎么都 ...",
+          "date": "1天前",
+          "position": 45
+        },
+        {
+          "title": "娇女谋略txt微盘下载 - 起点中文",
+          "link": "https://www.qidian.com/ask/tqbvxwzfoychv",
+          "snippet": "21 你推荐一下女主角要强、现代黑道为主题的小说吧，比如女特工题材的，但剧情不能太狗血。 22 有没有关于主角变性的玄幻小说或动漫推荐？ ... 爱上有钱人的女朋友小说在线阅读 ...",
+          "position": 46
+        },
+        {
+          "title": "《摇滚芭比》高分电影 - 蘑菇吧影院",
+          "link": "https://www.moguba.net/Mushroom/42172.html",
+          "snippet": "为了追寻自己的梦想，汉塞尔毅然进行了变性手术，虽然手术给他带来 ... 机器管家豆瓣评分: 8.6又名：铁甲再生人(港) / 铁人浮生记/ 跨世纪机器人 ...",
+          "date": "1天前",
+          "position": 47
+        },
+        {
+          "title": "他是变性人，他这样面对自己- 人生密密缝 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/8229358/",
+          "snippet": "人生密密缝的影评。看完预告，第一个感触就是，生田斗真的戏路又宽了，文学经典演过之后又演刑警和杀人狂，如今已经可以演反串了，很好，的确是杰尼斯事务所 ...",
+          "date": "2016年12月15日",
+          "position": 48
+        },
+        {
+          "title": "约炮的qq群(QQ约炮群大全)",
+          "link": "http://warsw.imaponline.com.cn/news/75d45699468.html",
+          "snippet": "豆瓣网; 搜狐微博; 百度新首页; QQ好友; 和讯微博; 更多... 百度分享 ... 性取向类：包括同性恋、约炮约炮异性恋、双性恋、变性人等各种不同取向的群组。",
+          "date": "1天前",
+          "position": 49
+        },
+        {
+          "title": "如何看待花少6有剧本 - 西瓜视频",
+          "link": "https://m.ixigua.com/zhuanti/7432009420588140559",
+          "snippet": "大家都在说花少6的人不正常，可他们才是正常人啊. 2024-10-31 · 花少6豆瓣开分4.8跌至3.9，创历史新低，这. 03:26. 花少6豆瓣 ... 李觅寻做了几次变性手术 ...",
+          "date": "2天前",
+          "position": 50
+        },
+        {
+          "title": "姥姥不同意我变性，要我当蕾丝边- 三代人 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/8886975/",
+          "snippet": "电影其实还有一个译名，叫做《关于雷》。看到这里，便觉这一译名的不准确。影片虽是从雷想要变性的想法单刀直入，但这其实只是余下故事的生发点，通过这一枝丫 ...",
+          "date": "2017年10月26日",
+          "position": 51
+        },
+        {
+          "title": "美国约有140万名变性人夏威夷与加州变性人比例最高 - 新华网",
+          "link": "http://www.xinhuanet.com/world/2016-07/04/c_129113555.htm",
+          "snippet": "加利福尼亚大学洛杉矶分校法学院智库威廉斯研究所专注于研究影响女同性恋、男同性恋、双性恋和变性人的问题。其中一位专家，人口统计学家加里·盖茨，在2011 ...",
+          "date": "2016年7月4日",
+          "position": 52
+        },
+        {
+          "title": "变性亦凡人- 电影- 豆瓣",
+          "link": "https://m.douban.com/movie/subject/26868373/",
+          "snippet": "变性亦凡人简介：22年前，同卵双胞胎姐妹伊莎贝尔和丹妮丝诞生于世。但是，从童年开始，伊莎贝尔就明白她和其他女孩不一样。伊莎贝尔从心底清楚自己是个被生在女孩身体里的 ...",
+          "position": 53
+        },
+        {
+          "title": "[BT下载][1公升的泪][全11集][WEB-MKV/14.72G][中文字幕][1080P][流 ...",
+          "link": "https://www.investigasindo.com/2048/read.php?tid=16244790",
+          "snippet": "◎豆瓣评分9.0/10 (93596人评价) ◎豆瓣链接https://movie.douban ... 拒绝VIP，拒绝割韭菜，搜集全网资源免费分享，人人为我，我为人人！ PS ...",
+          "date": "35分钟前",
+          "position": 54
+        },
+        {
+          "title": "偏见有，但玛丽娜真不是因为是变性人惨遭歧视- 普通女人 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/9013197/",
+          "snippet": "普通女人的影评。智利导演塞巴斯蒂安·莱里奥的《普通女人》，从年头的柏林电影节编剧银熊奖，到年底的金球奖最佳外语片提名，目前处于奥斯卡外语片9强 ...",
+          "date": "2017年12月24日",
+          "position": 55
+        },
+        {
+          "title": "人妖的爱情故事- 会更好的 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/5582250/",
+          "snippet": "会更好的的影评。泰国的片一向都是保持着重口味小清新的风格这部片挂着禁忌之恋的标题实际上就是一部关于人妖的恋爱故事ไม่ได้ขอให้มารัก 有人译为“未曾 ...",
+          "date": "2012年9月13日",
+          "position": 56
+        },
+        {
+          "title": "江苏性息：探寻当地的性文化现状 - 琴瑟和好网",
+          "link": "http://htjy168.com.cn/html/4388d18399378.html",
+          "snippet": "此外，跨性别者和双性人的权益也得不到应有的重视和保护，而浙江嘉兴市针对变性 ... ·卖婬最多是哪里人东北人(东北卖婬最猖獗？) ·杭州下沙学生品茶Qq; ·50元 ...",
+          "date": "8小时前",
+          "position": 57
+        },
+        {
+          "title": "让变性成为新的normal - 三代人- 豆瓣",
+          "link": "https://m.douban.com/movie/review/8305741/",
+          "snippet": "三代人的影评。在西方当婚姻平权取得胜利，同性恋已成为normal的一部分时，处于LGBT边缘的变性是最近两年影视界的关注，精致的丹麦女孩和轻喜剧风格的本 ...",
+          "date": "2017年1月22日",
+          "position": 58
+        },
+        {
+          "title": "女性、变性、同性- 乐土- 豆瓣",
+          "link": "https://m.douban.com/movie/review/14854852/",
+          "snippet": "家中的父亲、哥哥、弟弟，儿子、剧院的男老板、男伴舞，他们凝视女性、变性人、同性恋。紧身的衣服在他们眼中是美丽的象征，是否已经悄悄勒住了她的 ...",
+          "date": "2022年12月31日",
+          "position": 59
+        },
+        {
+          "title": "一次真正意义上的重生- 她他 - 豆瓣",
+          "link": "https://m.douban.com/book/review/8138345/",
+          "snippet": "而近年，国内变性手术也进行了几例，人们已逐渐的理解了变性人的痛苦与渴望，接受了他们的追求和欢乐。 中国变性舞蹈家金星和韩国变性艺人河莉秀的成功，多少 ...",
+          "date": "2016年10月21日",
+          "position": 60
+        },
+        {
+          "title": "人生密密缝- 全部影评 - 豆瓣",
+          "link": "https://m.douban.com/movie/subject/26754513/reviews",
+          "snippet": "影片的主角，对性别认知障碍但实施了变形手术，原名是Rintaro的Rinko，户籍上还是个男性。Rinko说烦恼的时候就... 8 有用 · 他是变性人，他这样面对自己.",
+          "position": 61
+        },
+        {
+          "title": "变性吧- 丹麦女孩 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/7786355/",
+          "snippet": "丹麦女孩的影评。 你可以定格影片中的任何一个时刻，给你的感觉都是没得像一副油画。 Sometimes I think you're going to slip through the surface of ...",
+          "date": "2016年2月23日",
+          "position": 62
+        },
+        {
+          "title": "番木瓜-番木瓜漫画官网-番木瓜漫画免费阅读,番木瓜漫画app下载安装",
+          "link": "http://www.fmgm.cc/",
+          "snippet": "变性人男变女动画片 · 英语宫崎骏动漫介绍ppt, 安田陆矢志田雪绪宇田幸：宇田幸矢 ... 豆瓣评分最高电3d动画片有哪些 保护海洋主题画介绍从我做起宣传保护海洋从我 ...",
+          "position": 63
+        },
+        {
+          "title": "如果不属于大多数，光是活着就很累了- 二毛- 豆瓣",
+          "link": "https://m.douban.com/movie/review/14826877/",
+          "snippet": "二毛的影评。今晚看了《二毛》，一部从简介就开始吸引我的片子。 看之前，我设想的二毛是一个非常张扬的变性人，我以为这部片子也是着重描述他灯红酒绿的 ...",
+          "date": "2022年11月28日",
+          "position": 64
+        },
+        {
+          "title": "飞翔- 丹麦女孩- 豆瓣",
+          "link": "https://m.douban.com/movie/review/12193317/",
+          "snippet": "变性 · 传记 · 文艺 · 剧情 · 爱情 · 美国 · 2015 · 英国. 评论 0条. 添加回应. 丹麦女孩的 ... 这部影片的题材是关于首位变性人的故事，听起来艰辛痛苦，但是 ...",
+          "date": "2020年1月28日",
+          "position": 65
+        },
+        {
+          "title": "不谈变性，我们来谈谈Gerda - 丹麦女孩- 豆瓣",
+          "link": "https://m.douban.com/movie/review/7839369/",
+          "snippet": "丹麦女孩的影评。本片的主题真是做到了百分之两百的突出，为了凸显当时社会对于变性人的不认可以及变性人advocate自己的身份，片子牺牲了Gerda。",
+          "date": "2016年4月4日",
+          "position": 66
+        },
+        {
+          "title": "这部讲述变性人生活的电影，却把我看哭了 - 豆瓣",
+          "link": "https://m.douban.com/page/eyr500l",
+          "snippet": "藤原龙也、伊藤英明主演，改编自韩国电影《我是杀人犯》，故事讲述一宗未了的杀人案发生22年后，嫌疑犯通过自传书坦白自己杀人，与此同时警察也在持续追查真相，二人展开猫鼠 ...",
+          "position": 67
+        },
+        {
+          "title": "我完成了变性手术｜KY访谈：一个出生在错误身体里的女孩- 日记- 豆瓣",
+          "link": "https://m.douban.com/note/584347664/",
+          "snippet": "她感到作为一个幸运的人，有必要说出自己的经历，希望能帮到和自己一样的人。 于是，我们对Jessica进行了访谈，也希望能借此机会，通过讲述Jessica的经历，能为 ...",
+          "date": "2016年9月30日",
+          "position": 68
+        },
+        {
+          "title": "变性人是亮点- 扫毒 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/6718348/",
+          "snippet": "扫毒的影评。这故事编排的很电视剧啊.到了后期就变成了超级英雄了,3个人干掉几百人.很多细节真是惨不忍睹,如果只是为了消磨时间是完全ok的, ...",
+          "date": "2014年6月27日",
+          "position": 69
+        },
+        {
+          "title": "妻子亲自送丈夫去做变性手术，这是爱吗？ - 丹麦女孩- 豆瓣",
+          "link": "https://m.douban.com/movie/review/10058893/",
+          "snippet": "丹麦女孩的影评。推荐电影微米是认真的昨天讲了《荒野猎人》。 推送里面提到，这部片子让小李子终于如愿以偿，获得了奥斯卡影帝。",
+          "date": "2019年3月22日",
+          "position": 70
+        },
+        {
+          "title": "此纪录片的正确翻译：变性世代- 跨代人 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/9903214/",
+          "snippet": "跨代人的影评。这8集纪录片应该翻译成：变性世代。讲几位青年变性的经历。“记录了四位美国大学生的04至05学年，此间他/她们不仅努力平衡课堂内外的生活， ...",
+          "date": "2019年1月18日",
+          "position": 71
+        },
+        {
+          "title": "《穿越美国》 变性人的公路电影《Transamerica》 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/5424473/",
+          "snippet": "穿越美国的影评。公路电影一般都走在社会敏感话题的先锋就像《天生杀人狂》是讲一对杀人犯的公路旅程《末路狂花》是讲一对女权好友的公路旅程《雨人》 ...",
+          "date": "2012年5月12日",
+          "position": 72
+        },
+        {
+          "title": "片中的人妖妓女演员都真的是人妖吗？ - 关于橘色的问答 - 豆瓣",
+          "link": "https://m.douban.com/movie/subject/26275494/questions/62409",
+          "snippet": "Murray-sg：这个已经不能用简单的同性恋和异性恋二分法去理解，应该是一种性癖好，在性上同时对乳房和阴茎的迷恋。",
+          "date": "2015年11月12日",
+          "position": 73
+        },
+        {
+          "title": "追逐真实自我直至粉身碎骨- 丹麦女孩 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/7749623/",
+          "snippet": "丹麦女孩的影评。 1920年代的丹麦，距离我们现在将近100年的时间，哪怕现在我们对于金星之类的变换性别的人有了更多的包容，也对泰国人妖见怪不怪， ...",
+          "date": "2016年1月25日",
+          "position": 74
+        },
+        {
+          "title": "(22659) 次元派-次元派漫画入口-次元派韩漫虫虫漫画,次元派官网",
+          "link": "http://www.ciyp.art/",
+          "snippet": "糖豆人怎么汉化糖豆人终极淘汰赛汉化版手游下载- 糖豆人怎么汉化. 4分钟前. fgo黑呆 ... 狐妖小红娘动漫大结局了吗|狐妖小红娘|豆瓣 · 阴阳师 ...",
+          "position": 75
+        },
+        {
+          "title": "这个女孩叫Lily - 丹麦女孩- 豆瓣",
+          "link": "https://m.douban.com/movie/review/7850313/",
+          "snippet": "变性人到底是一个怎样的群体？一方面可以说他们可怜，带着一身被自己讨厌的肉身，天生的。一个人怎么会讨厌自己的身体呢，难道不是一体的吗。是的 ...",
+          "date": "2016年4月12日",
+          "position": 76
+        },
+        {
+          "title": "往期内容 - 91吃瓜",
+          "link": "https://www.91cg1.com/archives.html",
+          "snippet": "亚裔人妖Asian Alison爆操学生妹奶子与鸡巴一起玩！ 10-27 潜藏校园的淫秽山西晋中学院情侣李帆陈静出售自拍性爱视频全校疯传！",
+          "position": 77
+        },
+        {
+          "title": "其实，我们都一样。 - 会更好的- 豆瓣",
+          "link": "https://m.douban.com/movie/review/5601033/",
+          "snippet": "会更好的的影评。双休日宅在家里看了泰国电影\"It gets better\"，影片用三个故事讲述了一个变性人的一生。 变性人或者说人妖在泰国是受到严重歧视的， ...",
+          "date": "2012年9月29日",
+          "position": 78
+        },
+        {
+          "title": "变性边缘人的一天生活日记- 橘色 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/7964852/",
+          "snippet": "橘色的影评。如果只是因为在第31届圣丹斯电影节上赢得满堂彩的话，这部电影并不会达到它更深的影响，恰恰相反的是，那届的圣丹斯正是因为《橘色》的独特 ...",
+          "date": "2016年7月5日",
+          "position": 79
+        },
+        {
+          "title": "《前目的地》 变性人居然不知道自己就是当年的情人？ - 豆瓣电影",
+          "link": "https://movie.douban.com/subject/20278505/questions/29455/answers/102014/",
+          "snippet": "这女孩在变性了成为男人的若干年后，在酒吧和整容特工穿越的时间吧，他照照镜子就应该明白了，他自己的样子和穿着不就是少女时代遇到的情人吗（或者之前更 ...",
+          "date": "2014年11月26日",
+          "position": 80
+        },
+        {
+          "title": "在时空旅行中塑造自己的命运- 前目的地 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/15464520/",
+          "snippet": "而偷走孩子的正是双性人在穿越时空追寻炸弹杀手后被毁容做了整容手术的变性人自己。这个时空穿梭者一直在接近简和约翰，是他带走了孩子，并且把孩子送到孤儿 ...",
+          "date": "2023年9月22日",
+          "position": 81
+        },
+        {
+          "title": "变性人大师也不容易- 木星上行 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/7400035/",
+          "snippet": "木星上行的影评。看完木星我秒懂，真的，云图票房我记得是大亏吧？所以变性人必须先给投资人赚一笔钱才能再玩艺术。就像老谋子必须要拍三枪，十三钗， ...",
+          "date": "2015年3月8日",
+          "position": 82
+        },
+        {
+          "title": "虽然设定上比较政治正确，但是却没有太多刻板印象- 紧急呼救：孤星 ...",
+          "link": "https://m.douban.com/movie/review/13968389/",
+          "snippet": "... ：孤星第二季的剧评。126的成员看似比较追求diversity，TK同性恋，Paul变性人 ... 查看更多豆瓣高分电影电视剧. 美剧 · 消防 · 美国 · 温情 · 剧情 · FOX ...",
+          "date": "2021年11月2日",
+          "position": 83
+        },
+        {
+          "title": "就像和变性人做爱- 歪曲的枢纽 - 豆瓣",
+          "link": "https://m.douban.com/book/review/4571524/",
+          "snippet": "歪曲的枢纽的书评。就像和变性人做爱——很生很硬，但最后还是能'通'下去。 卡尔的系列小说，总是给人这样的整体印象——预先琢磨出一个'不可能死法'的情景， ...",
+          "date": "2011年1月9日",
+          "position": 84
+        },
+        {
+          "title": "女子监狱第三季的讨论- 变性人sophia被关禁闭 - 豆瓣",
+          "link": "https://m.douban.com/movie/discussion/61203326",
+          "snippet": "sophia被关禁闭是因为说她惹了一个大人物是什么意思啊她被关和整个监狱...",
+          "position": 85
+        },
+        {
+          "title": "疼吗- 会更好的 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/5612730/",
+          "snippet": "会更好的的影评。 变性人或者说人妖在泰国是受到严重歧视的，导演通过这部电影真实的揭露了变性人生活的尖酸与内心世界的挣扎。故事的结局很好，Din获得 ...",
+          "date": "2012年10月10日",
+          "position": 86
+        },
+        {
+          "title": "爸爸是女人- 爸爸喜欢女人 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/6510166/",
+          "snippet": "爸爸喜欢女人的影评。第一次看变性人体裁的电影，而且还是韩国人拍的。片名叫《爸爸喜欢女人》。一开始，我以为只是普通的外遇片，没想到是变性人的电影 ...",
+          "date": "2014年1月15日",
+          "position": 87
+        },
+        {
+          "title": "假如生活欺骗了你，你还可以看看这部电影- 普通女人 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/8965398/",
+          "snippet": "普通女人的影评。日本电影《人生密密缝》拍摄的太好了，曾让小北一度非常理解变性人的苦与乐。加之影片中的女主角由男演员生田斗真饰演，更是为此片带来 ...",
+          "date": "2017年12月5日",
+          "position": 88
+        },
+        {
+          "title": "母亲，孩子，变性人，和子宫- 不良教育 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/1466153/",
+          "snippet": "不良教育的影评。毫无疑问，阿莫多瓦是尊重和爱女性的。虽然他本人是个同性恋，但正因如此他对女性的爱排出了性的意味，是另一种由衷的，赞叹的， ...",
+          "date": "2008年8月9日",
+          "position": 89
+        },
+        {
+          "title": "这拍的是变性人吧- 小组讨论 - 豆瓣",
+          "link": "https://m.douban.com/group/topic/282749866/",
+          "snippet": "这拍的是变性人吧. avatar 举重妖精崔秀彬 2023-02-05 13:31:48. 我在看电影我妈：“哦这个我听说过拍的是变性人吧”. 妈，这是变种人。。。。。。。 点赞.",
+          "position": 90
+        },
+        {
+          "title": "2007年度毫无争议的烂片之王- 明明- 豆瓣",
+          "link": "https://m.douban.com/movie/review/1488230/",
+          "snippet": "最后你以为明白了，因为看到了张信哲，觉得它是个MTV。 可是你最后还是没想到，张信哲演的却是一个变性人。 《明明》这部电影就是这样一步步地 ...",
+          "date": "2008年9月4日",
+          "position": 91
+        },
+        {
+          "title": "那片花那片海的讨论- 女主角好像变性人啊 - 豆瓣",
+          "link": "https://m.douban.com/movie/discussion/616477786",
+          "snippet": "女主角好像变性人啊. liyuzuo2022-08-25 20:24:25. 回应(1)只看楼主. momo2022-08-25 20:24:25. 哈哈哈哈哈. 0. 豆瓣. 免费下载Android 客户端. 添加回应.",
+          "position": 92
+        },
+        {
+          "title": "变性人的论坛 - 豆瓣电影",
+          "link": "https://movie.douban.com/subject/34982235/discussion/",
+          "snippet": "讨论区不欢迎 · · · · · · · 广告、侵犯他人隐私的行为； · 未经授权的下载资源； · 恶意引导用户，影响该作品评分公正性、客观性的内容； · 事实性错误或过于偏激的主观判断； ...",
+          "position": 93
+        },
+        {
+          "title": "错位：亚洲跨性别者- 电影- 豆瓣",
+          "link": "https://m.douban.com/movie/subject/26899034/",
+          "snippet": "错位：亚洲跨性别者豆瓣评分：8.2 简介：曾经，香港人Bobbie Huthart是一名成功的商人、花花公子和父亲，她去泰国做了变性手术，向女性过渡。与Bobbie的旅程交织在一起的， ...",
+          "position": 94
+        },
+        {
+          "title": "跨性别Transgender电影和记录片 - 豆瓣",
+          "link": "https://m.douban.com/doulist/110223504/",
+          "snippet": "艳倒群雌To Wong Foo, Thanks for Everything! Julie Newmar，阿莉芙，跨性别名单The Trans List，人妖杀千刀Ticked-Off Trannies with Knives。",
+          "position": 95
+        },
+        {
+          "title": "变性记- 电影- 豆瓣",
+          "link": "https://m.douban.com/movie/subject/26615646/",
+          "snippet": "剧情简介 · 演职员 · 剧照. 打开App查看全部预告片 · 短评 打开App写短评 · 喜欢这部电影的人也喜欢.",
+          "position": 96
+        },
+        {
+          "title": "丹麦女孩- 电影- 豆瓣",
+          "link": "https://m.douban.com/movie/subject/3071604/",
+          "snippet": "our lily is beautiful. 只看画面听音乐也是享受， 难怪人人向往欧洲。 1046 ... 这部影片的题材是关于首位变性人的故事，听起来艰辛痛苦，但是导演：汤姆.霍伯 ...",
+          "position": 97
+        },
+        {
+          "title": "变性人Transformer 剧照 - 豆瓣电影",
+          "link": "https://movie.douban.com/subject/30379586/photos?type=S",
+          "snippet": "变性人Transformer的剧照. 按喜欢排序· 按尺寸排序 · 按时间排序 · + 上传剧照&海报&壁纸. > 全部图片. 剧照(0). 海报(1) · 壁纸(0). > 去变性人的页面. © 2005－2024 ...",
+          "position": 98
+        },
+        {
+          "title": "“变性“心理- 日记- 豆瓣",
+          "link": "https://m.douban.com/note/514235729/",
+          "snippet": "变性“心理近日报道：道德模范刘霆接受了变性手术，恢复女儿身，并且改名为“刘婷”。这个事情也引发了社会对变性人的再次关注。如果你身边有很亲密的家人 ...",
+          "date": "2015年8月25日",
+          "position": 99
+        },
+        {
+          "title": "普通女人- 全部影评 - 豆瓣",
+          "link": "https://m.douban.com/movie/subject/26627754/reviews",
+          "snippet": "变性女演员为艺术献身，年度最佳LGBT，能看的不止有肉体. 《普通女人》（ A ... 在中国根本体会不到变性人所处的到底是什么样的环境，因为在这里，弱势群体是很难 ...",
+          "position": 100
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "变性人 豆瓣",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "人妖打排球- 电影- 豆瓣",
+          "link": "https://m.douban.com/movie/subject/1294084/",
+          "snippet": "人妖打排球豆瓣评分：6.7 简介：泰国一支男子排球队于1996年比赛中取得冠军，观众对于队员的精湛球技并无质疑，令人议论纷纷的却是队员的身份性别：因为他们不是同性恋者便 ...",
+          "position": 1
+        },
+        {
+          "title": "丹麦女孩 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/15092128/",
+          "snippet": "丹麦女孩的影评。本喵｜小雀斑这部剧讲述了第一个变性人的故事，在这个童话一般的地方，艾纳一直以来心中都住着一个女孩“莉莉”，她（出于对莉莉的尊重我 ...",
+          "date": "2023年4月8日",
+          "position": 2
+        },
+        {
+          "title": "普罗米修斯的讨论- 维克斯不是机器人也不是变性人，丫就是一贱货",
+          "link": "https://m.douban.com/movie/discussion/49029240",
+          "snippet": "有人是不是看悬疑片看多了，竟然说维克斯是变性人，最直接的理由是手术...",
+          "date": "2023年7月9日",
+          "position": 3
+        },
+        {
+          "title": "普通女人- 电影- 豆瓣",
+          "link": "https://m.douban.com/movie/subject/26627754/",
+          "snippet": "2018-02-01 18:40:10. 奥斯卡最佳外语片提名的第一名，又一部涉及变性人尊严与权利的影片。 ... 在中国根本体会不到变性人所处的到底是什么样的环境，因为在这里，弱势 ...",
+          "position": 4
+        },
+        {
+          "title": "变性双面杀手的全部演职员 - 豆瓣电影",
+          "link": "https://movie.douban.com/subject/10750643/celebrities",
+          "snippet": "变性双面杀手的全部演职员. 导演Director. 希提·麦克唐纳Hettie MacDonald 导演Director 代表作： 正常人 美好事物 神秘博士第三季 · 谢雷·福克森Sheree Folkson 导演 ...",
+          "position": 5
+        },
+        {
+          "title": "迷失的不是安狄是人性 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/14122149/",
+          "snippet": "迷失安狄的影评。电影想要展现和揭露社会边缘人的压抑生活，主角evon是变性人，苏荷算是黑户，阿德是残障人士，都是底层人士，却各有各的不幸经历。 evon ...",
+          "date": "2022年1月6日",
+          "position": 6
+        },
+        {
+          "title": "美丽拳王- 全部影评 - 豆瓣",
+          "link": "https://m.douban.com/movie/subject/1337290/reviews",
+          "snippet": "*写于05年2月【美丽拳王】，是我看过电影中，关于变性人的，最最温情，最最平和的。 几年前放得如火如荼的【人妖打排球】，纵然搞笑开心，但对于变性人来... 4 有用 ...",
+          "position": 7
+        },
+        {
+          "title": "蝶变- 电影- 豆瓣",
+          "link": "https://m.douban.com/movie/subject/6522349/",
+          "snippet": "蝶变简介：这是一部关于变化的影片，一部表现今天以疾风骤雨之势进行“极端变化”的影片。 一条线索是人的变化：2004年春天，三个男青年歆儿、秀儿和莎莎在长春要通过变性 ...",
+          "position": 8
+        },
+        {
+          "title": "迷失安狄- 电影- 豆瓣",
+          "link": "https://m.douban.com/movie/subject/30334960/",
+          "snippet": "... 性别议题、非法移工等话题展开。这是林心如首次担任电影监制，李李仁则大胆挑战跨性别人士，剧照中可看到他造型多变，忧郁又妖娇的气质令人眼睛一亮。电影讲述跨越性别人.",
+          "position": 9
+        },
+        {
+          "title": "《女孩》影评：一部关于变性舞者的聪明、勇敢的戏剧 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/15368330/",
+          "snippet": "这部电影描绘了痛苦和选择，不仅是一种淡淡的美，而且对一些人来说，是一种错误的艺术视觉失败。 “叽阿!他们抱怨说，男主角维克多·波尔斯特饰演从男孩变成女孩 ...",
+          "date": "2023年8月9日",
+          "position": 10
+        },
+        {
+          "title": "阿莉芙- 全部影评 - 豆瓣",
+          "link": "https://m.douban.com/movie/subject/27048402/reviews",
+          "snippet": "影片涉及男同、变性、拉拉、变装等多种性少数群体，片名更是直接以主角变性人阿莉芙的名字命名，但其实属于群戏。涉及了多种类型的性少数群体，难免每个群体的内容，都 ...",
+          "position": 11
+        },
+        {
+          "title": "变性双面杀手- 电视剧- 豆瓣",
+          "link": "https://m.douban.com/movie/subject/10750643/",
+          "snippet": "我靠这故事未免也太帅气了！！！ 25. 喜欢这部电影的人也喜欢 ...",
+          "position": 12
+        },
+        {
+          "title": "想看的书 - 豆瓣",
+          "link": "https://m.douban.com/doulist/45378310/",
+          "snippet": "... ，认识电影：全彩插图第12版，无人生还，我不知道该如何像正常人 ... 变性人是一个并不新鲜的话题。十几年前，人们对于变性可以说根本不能接受，每当从 ...",
+          "position": 13
+        },
+        {
+          "title": "变性双面杀手Hit & Miss (2012) - 豆瓣电影",
+          "link": "https://movie.douban.com/subject/10750643//",
+          "snippet": "变性人！是男人？还是女人？ 男人身，女人心？女人身，男人心？ 欣赏琢磨导演想要 ... 506人在看 / 4496人看过 / 4962人想看. 订阅变性双面杀手的影评: feed: rss ...",
+          "position": 14
+        },
+        {
+          "title": "那个变性人（就是和邓超在一起的那个）到底是干什么的？ - 豆瓣",
+          "link": "https://m.douban.com/movie/subject/3230459/questions/736378",
+          "snippet": "变性人？ 谁说她是变性人？ ... 注意车上的时间啊，邓超其实是接应王宝强的人，这座桥这里邓超下车让女的开，邓超就上桥接应毒贩子，给他们飞机票到广州。菲菲实际 ...",
+          "date": "2017年1月7日",
+          "position": 15
+        },
+        {
+          "title": "迷失安狄——失落的双性人 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/14496369/",
+          "snippet": "警局里，面对警察的讯问，西装革履的、在某机构担任教师的男人说： “是这个死人妖故意勾引我的，还要抢劫我！” 看向一身狼狈的变性人安狄，警察相信了男人的话。",
+          "date": "2022年7月5日",
+          "position": 16
+        },
+        {
+          "title": "哈里夫是变性人吗- 小组讨论 - 豆瓣",
+          "link": "https://m.douban.com/group/topic/309515976/",
+          "snippet": "哈里夫是变性人吗来自微博的分析http://m.weibo.cn/status/5063570356177725? 1.意大利选手事后道歉，是自己梦碎了2...",
+          "date": "2024年8月4日",
+          "position": 17
+        },
+        {
+          "title": "揭开面纱：好莱坞的跨性别人生- 电影- 豆瓣",
+          "link": "https://m.douban.com/movie/subject/34907415/",
+          "snippet": "揭开面纱：好莱坞的跨性别人生豆瓣评分：8.2 简介：《揭开面纱：好莱坞的跨性别人生》以前所未有、令人大开眼界的方式探讨了电影和电视剧中对跨性别者的描绘，揭示了好莱坞 ...",
+          "position": 18
+        },
+        {
+          "title": "高跟鞋-接纳与自己不一样的人，才是对人最高的赞美 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/9805397/",
+          "snippet": "他与另一个变性人在教堂的一段对话说出了一个性别错置的人整个心路历程。从忍耐、到忍不住，开始装扮成女人、到自我怀疑、厌恶、到刻意的证明自己很有 ...",
+          "date": "2018年12月6日",
+          "position": 19
+        },
+        {
+          "title": "只是我自己的思考- 丹麦女孩 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/10292566/",
+          "snippet": "丹麦女孩的影评。（pose以来我看的第二部变性人故事）开篇几个镜头实在太好看了，以至于内定五颗星。俊男美女，神仙摄影，震撼演技。",
+          "date": "2019年7月7日",
+          "position": 20
+        },
+        {
+          "title": "纠正上帝的错误- 图书- 豆瓣",
+          "link": "https://m.douban.com/book/subject/1426716/",
+          "snippet": "纠正上帝的错误豆瓣评分：8.1 简介：杂文家吴兴人涉足变性人的世界，历时15年，写成《纠正了上帝的差错》，现由上海文艺出版社出版，参加近日在上海举办的书展，颇受广大读者 ...",
+          "position": 21
+        },
+        {
+          "title": "整容室第一季- 全部影评 - 豆瓣",
+          "link": "https://m.douban.com/movie/subject/1401375/reviews",
+          "snippet": "... 进一家门. 呃……关于这个片子，我想先总结一下关键词：同性恋，婚外情，变性人，变性人变成同性恋，双性恋，乱伦（双胞胎3P，母女3P，医生和病人的婚外情），自杀，性虐待，...",
+          "position": 22
+        },
+        {
+          "title": "一- 变性人- 张朝陽| 豆瓣阅读",
+          "link": "https://read.douban.com/reader/column/8428458/chapter/55109137/",
+          "snippet": "在线阅读《一》。在以貌取人的社会里，长得丑是原罪。梁夏银长得非但不丑，还很好看。然而作为一个男孩子，他的好看不能用英俊来形容，反倒是一种秀气、偏中性的美。",
+          "position": 23
+        },
+        {
+          "title": "丑人- 电影- 豆瓣",
+          "link": "https://m.douban.com/movie/subject/35213069/",
+          "snippet": "丑人豆瓣评分：4.7 简介：在一个16 岁就必须接受整容手术的未来世界里，塔利迫切希望长大然后加入其中。但当一位朋友逃跑后，塔利踏上拯救朋友旅途，也因此颠覆了自己曾经的 ...",
+          "position": 24
+        },
+        {
+          "title": "ian和变性人是怎么分手的？ - 小组讨论- 豆瓣",
+          "link": "https://m.douban.com/group/topic/308749161/",
+          "snippet": "ian和变性人是怎么分手的？ 看的时候没注意。。。",
+          "date": "2024年7月17日",
+          "position": 25
+        },
+        {
+          "title": "中国这么大，却没有我的容身之处- 二毛- 豆瓣",
+          "link": "https://m.douban.com/movie/review/15928356/",
+          "snippet": "她一直以来的梦想都是赚够钱去做全套的变性手术，在2017年，她万念俱灰拿掉胸部的硅胶，重新“做回男性”。2019年她一个人孤独死在了老家的出租屋里。 导演贾 ...",
+          "date": "2024年5月8日",
+          "position": 26
+        },
+        {
+          "title": "变性人、杀人犯和数不清的妓女，都是他电影中的主角 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/9317760/",
+          "snippet": "关于我母亲的一切的影评。明艳如万花筒的色彩、毁三观的人物关系、关于情欲的狗血故事，主角们离不开变性、妓女、乱伦…… 这就是西班牙电影大师佩德罗· ...",
+          "date": "2018年4月25日",
+          "position": 27
+        },
+        {
+          "title": "大胆的假设，假如一个变性人进入团中- 小组讨论 - 豆瓣",
+          "link": "https://m.douban.com/group/topic/309075665/",
+          "snippet": "按道来讲，全身上下器官都变成女的，就是女了吧. 投诉. 句号 2024-07-25 13:47:23 0人赞· 回复. 不知道，但芭会 一把.",
+          "date": "2024年7月25日",
+          "position": 28
+        },
+        {
+          "title": "108个标签- 人生密密缝 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/8809610?count=-25&start=22&from=subject",
+          "snippet": "人生密密缝的影评。这不仅仅是一个关于变性人的故事，是关于几类人的。 故事里不同的母亲在自己儿女的生活中产生着不同的影响:不负责任和男人私奔让小 ...",
+          "date": "2017年9月12日",
+          "position": 29
+        },
+        {
+          "title": "成为女孩有多痛，这部电影告诉你 - 豆瓣",
+          "link": "https://m.douban.com/movie/review/9988160/",
+          "snippet": "女孩的更多影评 · 【春天的放牛班】观影团周限定观影之——《女孩》 · 2018大银幕最美的“女孩” · 「变性人」不完全图鉴 · 请不要用胸和下体来定义我的性别 · 不是 ...",
+          "date": "2019年2月18日",
+          "position": 30
+        }
+      ],
+      "images": [
+        {
+          "title": "变性人居然不知道自己就是当年的情人？ - 关于前目的地的问答- 豆瓣",
+          "imageUrl": "https://qnmob3.doubanio.com/view/photo/large/public/p2219662154.jpg?imageView2/1/q/60/w/300/h/300/format/jpg",
+          "link": "https://m.douban.com/movie/subject/20278505/questions/29455"
+        },
+        {
+          "title": "丹麦女孩- 电影- 豆瓣",
+          "imageUrl": "https://qnmob3.doubanio.com/view/photo/large/public/p2264778990.jpg?imageView2/1/q/60/w/300/h/300/format/jpg",
+          "link": "https://m.douban.com/movie/subject/3071604/"
+        },
+        {
+          "title": "那个变性人（就是和邓超在一起的那个）到底是干什么的？ - 关于李米的 ...",
+          "imageUrl": "https://qnmob3.doubanio.com/view/photo/large/public/p499462449.jpg?imageView2/1/q/60/w/300/h/300/format/jpg",
+          "link": "https://m.douban.com/movie/subject/3230459/questions/736378"
+        },
+        {
+          "title": "推荐变性的片单",
+          "imageUrl": "https://img9.doubanio.com/dae/merged_cover/img_handler/doulist_cover/round_rec/159057978-20240731113704",
+          "link": "https://movie.douban.com/subject/5083741/doulists"
+        },
+        {
+          "title": "野蛮人- 电影- 豆瓣",
+          "imageUrl": "https://qnmob3.doubanio.com/view/photo/large/public/p2875034079.jpg?imageView2/1/q/60/w/300/h/300/format/jpg",
+          "link": "https://m.douban.com/movie/subject/35730910/"
+        },
+        {
+          "title": "变性记- 电影- 豆瓣",
+          "imageUrl": "https://qnmob3.doubanio.com/view/photo/large/public/p2686995697.jpg?imageView2/1/q/60/w/300/h/300/format/jpg",
+          "link": "https://m.douban.com/movie/subject/26615646/"
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

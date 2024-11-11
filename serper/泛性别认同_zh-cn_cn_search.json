@@ -1,0 +1,745 @@
+{
+  "query": "泛性别认同",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-04T00:35:55.254538",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "泛性别认同",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "answerBox": {
+        "snippet": "泛性恋、泛性向（法语：Pansexualité | 英语：Pansexuality）是一种无论对象的生理性别或性别认同为何，皆可能对其产生身体吸引或爱慕情绪的性倾向。 泛性恋可能会表示自己是性别盲，认为生理性别与社会性别不是自己对他人产生恋爱感情或性吸引力的决定因素。",
+        "snippetHighlighted": [
+          "一种无论对象的生理性别或性别认同为何，皆可能对其产生身体吸引或爱慕情绪的性倾向"
+        ],
+        "title": "泛性恋- 维基百科，自由的百科全书",
+        "link": "https://zh.wikipedia.org/zh-cn/%E6%B3%9B%E6%80%A7%E6%88%80"
+      },
+      "organic": [
+        {
+          "title": "非二元性别- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%A5",
+          "snippet": "非二元性别者可能介于传统定义上男性和女性表现之间（中性），认同在男女之外的第三性别，认同多于一个性别（双性别、三性别、泛性别），认为自己没有性别（无性别）或在两者或以上 ...",
+          "position": 1
+        },
+        {
+          "title": "的定义泛性别| 性别认同用語 - Seeking",
+          "link": "https://www.seeking.com/zh/%E6%9C%AF%E8%AF%AD/%E6%80%A7%E5%88%AB%E8%AE%A4%E5%90%8C/%E6%B3%9B%E6%80%A7%E5%88%AB?srsltid=AfmBOopbKT2W1vQJvRQ-M5jvZVAWmaO9yj10rvzhb7GfYBKTM_6WG7_B",
+          "snippet": "定义. Pangender的人不符合标准的性别二进制文件。他们不认为是男性或女性，而是认为他们属于第三性别。 Pangender与其他性别取向不同，大多数其他性别取向将在标准性别 ...",
+          "position": 2
+        },
+        {
+          "title": "[PDF] 2021全国跨性别健康调研报告",
+          "link": "https://cnlgbtdata.com/files/uploads/2023/01/2021%E5%85%A8%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E5%81%A5%E5%BA%B7%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.pdf",
+          "snippet": "性别认同（Gender Identity）. 指一个人的内在自我认知中自己所属的性别。 性别表达（Gender Expression）. 指一个人通过衣着打扮、言行举止等外显方式来表. 达自己的 ...",
+          "position": 3
+        },
+        {
+          "title": "泛性恋_百度百科",
+          "link": "https://baike.baidu.com/item/%E6%B3%9B%E6%80%A7%E6%81%8B/8446400",
+          "snippet": "泛性恋（Pansexuality）是一种性倾向，通常指一个人能够对多种性别的人感到浪漫情感或性吸引。许多自我认同为非二元性别者的人、性对象或依恋对象为非二元性别者的人和进行 ...",
+          "position": 4
+        },
+        {
+          "title": "或许有谁可以更好地解释泛性恋与全性恋的区别吗？ - 小组讨论- 豆瓣",
+          "link": "https://m.douban.com/group/topic/205043959/",
+          "snippet": "性别无关紧要。 我觉得泛性恋的gender-blind仅局限于性取向。比如说我认识的一个女pan。我对自己的gender-blind源于genderqueer的性别认同。 蹲一个 ...",
+          "date": "2020年12月17日",
+          "position": 5
+        },
+        {
+          "title": "的定义泛性| 性取向术语| Seeking用語集",
+          "link": "https://www.seeking.com/zh/%E6%9C%AF%E8%AF%AD/%E6%80%A7%E5%8F%96%E5%90%91/%E6%B3%9B%E6%80%A7?srsltid=AfmBOorrkmwcHiyd3kSRucgoW8_sCBWzCBfebLEDeXJrHXEbt9LGXdhP",
+          "snippet": "定义. 性取向，其中一个人被性吸引到其他人，无论他们的性别认同。 一个泛性的人会被传统的性别认同所吸引，例如男性和女性，以及识别变性人，双性人，雌雄同体和其他一切的 ...",
+          "position": 6
+        },
+        {
+          "title": "泛性恋 - 百度百科",
+          "link": "https://baike.baidu.com/item/%E6%B3%9B%E6%80%A7%E6%88%80/8446400?noadapt=1",
+          "snippet": "泛性恋（Pansexuality），是一种性倾向，通常指一个人能够对不止两种性别的人产生性幻想、性欲望或感受到浪漫爱的吸引。 对于泛性恋者来说，他们对性对象或依恋对象的选择不受 ...",
+          "position": 7
+        },
+        {
+          "title": "[PDF] 中国跨性别群体- 生存现状调查报告",
+          "link": "https://cnlgbtdata.com/files/uploads/2019/03/2017_%E4%B8%AD%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E7%BE%A4%E4%BD%93%E7%94%9F%E5%AD%98%E7%8E%B0%E7%8A%B6%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A-%E5%8F%AF%E8%A7%86%E5%8C%96.pdf",
+          "snippet": "性别认同（Gender Identity）. 指一个人在情感上和心理上认为自己属于某个性别。 2.1 您出生时被登记的生理性别是 a.男 b.女 c.其他情况.",
+          "position": 8
+        },
+        {
+          "title": "【GQ科普】什麼是順性別、跨性別、LGBTQ+？人的「性別認同 ...",
+          "link": "https://www.gq.com.tw/bettermen/article/%E6%80%A7%E5%88%A5%E8%AA%8D%E5%90%8C-%E6%80%A7%E5%88%A5%E5%B9%B3%E6%AC%8A-lgbtq",
+          "snippet": "所謂的「順性別Cisgender」指的是「性別認同與出生時指定性別相同的人」的一個術語；相對的，「性別認同或性別表現與他們出生時指定性別不同的人」即稱之為 ...",
+          "date": "2024年6月24日",
+          "position": 9
+        },
+        {
+          "title": "性别认同- 《默沙东诊疗手册大众版》",
+          "link": "https://www.msdmanuals.cn/home/mental-health-disorders/gender-incongruence-and-gender-dysphoria/gender-identity",
+          "snippet": "性别认同 · 性别是指用来将一个人分类为男性或女性的生物学特征（如生殖器、染色体和激素）。 · 对于大多数人来说，性身份与他们的解剖学（出生）性别和性别表达是一致的（例如， ...",
+          "position": 10
+        },
+        {
+          "title": "[PDF] 性/别手册学生版 - 中央大学",
+          "link": "https://www.chuo-u.ac.jp/uploads/2024/03/campuslife_diversity_gs_book_06.pdf?1711756800105",
+          "snippet": "此外，在性取向方面，还有其他词汇如泛性恋者（Pansexual）、无性恋者（Asexual ... 性/别方面：我们拥有专业的咨询人员，可以应对性别、性别认同、性取向等相关问题。",
+          "position": 11
+        },
+        {
+          "title": "性存在与社会性别 - Tokyo Sexual Health",
+          "link": "http://www.tsh.ncgm.go.jp/chs/about_sexual_health/Sexuality_and_Gender.html",
+          "snippet": "（2）性别认同（GI：Gender Identity） ... 自我识别的性别。又称性别同一性、心理性别。 除了男性和女性外，还有未知（性别存疑＝Questioning）、医学上被指派的既非男性又非女性的 ...",
+          "position": 12
+        },
+        {
+          "title": "泛性恋—比双性恋更热爱灵魂的性向特质 - 网易",
+          "link": "https://www.163.com/dy/article/DH0FDPMN0523TAAN.html",
+          "snippet": "泛性恋者就是能被另一个个体吸引，并且不会因对方的生理性别与性别认同而产生隔阂，也就是他们可以跟任何生理性别与性别认同的人谈恋爱，比如说：生理性别上的 ...",
+          "date": "2018年5月4日",
+          "position": 13
+        },
+        {
+          "title": "【性向分类】24种性取向自查一览表。 - 小组讨论- 豆瓣",
+          "link": "https://m.douban.com/group/topic/222055270/",
+          "snippet": "对任何性别都会产生爱情与性欲望的人，包括男女两种性别之外的性少数群体。泛性恋者完全不在乎对方的性别，包括生理或心理性别，他们都会喜欢。 与双性恋的 ...",
+          "date": "2021年4月21日",
+          "position": 14
+        },
+        {
+          "title": "泛性恋 - 全知识",
+          "link": "https://m.allhistory.com/detail/59244fd355b54278ac02c4af",
+          "snippet": "泛性恋（英语：Pansexuality）或全性恋（英语：Omnisexuality）是一种无论对象的生理性别或性别认同为何，皆可能对其产生身体吸引或爱慕情绪的性倾向。 ... 泛性恋可能会表示自己是 ...",
+          "position": 15
+        },
+        {
+          "title": "性别流动者：这样的双重身份是时候放下了",
+          "link": "https://m.thepaper.cn/baijiahao_7441148",
+          "snippet": "在一次互助小组的线上会议上，主持人邀请大家进行自我介绍，包括愿意被称呼的姓名，自我认同的性别、性向等。 我的介绍是：“我是诺一，性别流体，性向泛性恋。",
+          "date": "2020年5月18日",
+          "position": 16
+        },
+        {
+          "title": "[PDF] 跨性别者、间性人和酷儿（LGBTIQ+）融入劳动世界",
+          "link": "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@asia/@ro-bangkok/@ilo-beijing/documents/publication/wcms_856152.pdf",
+          "snippet": "... 性别认同如何，该术语用于泛指指派性. 别为男性、与同样指派性别为男性者进行性活动的人。这一类别包括与跨性别女性发生性关系或与指. 派性别为男性的非二元性别者发生性 ...",
+          "position": 17
+        },
+        {
+          "title": "[PDF] 美国心理学会性少数人群心理实践指南",
+          "link": "https://www.apa.org/pi/lgbt/resources/practice-sexual-minority-chinese.pdf",
+          "snippet": "我认同为双性恋、泛性恋、流动性. 向或者酷儿的个体。在美国，双泛. 女性的数量比女 ... 顺性别是指性别认同和性别表达与其被指派性. 别一致的个体。 COMING OUT. 出 ...",
+          "position": 18
+        },
+        {
+          "title": "你了解性别吗？ - PULP",
+          "link": "https://www.pulp-usu.com/multilingual/2021/6/20",
+          "snippet": "通俗来说，就是你是否认为你的社会性别与生理性别匹配。常见的性别认同有顺性别（Cis-gender）, 跨性别（Transgender）, 非二元性别（Non-binary gender）, ...",
+          "date": "2021年6月19日",
+          "position": 19
+        },
+        {
+          "title": "[PDF] UNDP-CH-PEG-Being-LGBT-in-China_CH.pdf",
+          "link": "https://www.undp.org/sites/g/files/zskgke326/files/migration/cn/UNDP-CH-PEG-Being-LGBT-in-China_CH.pdf",
+          "snippet": "表2 显示的是非少数样本和性少数样本的出生性别、性别认同与性别表达以及性倾向的构成情况。 ... 在性倾向的少数群体内部，不. 仅有同性恋，还有双性恋、泛性恋、无性 ...",
+          "position": 20
+        },
+        {
+          "title": "[PDF] 跨性別是泛指「任何人的性別認同及/或其性別表達",
+          "link": "https://www.eoc.org.hk/eoc/upload/20141120161458391903.pdf",
+          "snippet": "當中包括各種把自己認同為男性、女性或男女以外的性別的人，例如認同自己為. 兼具男女兩性元素的人。 1.2 哪些人是變性人？ 變性慾/易性症在醫學上有特別含義，有別於泛稱「跨 ...",
+          "position": 21
+        },
+        {
+          "title": "[PDF] A/HRC/50/27 大会",
+          "link": "https://documents.un.org/access.nsf/get?OpenAgent&DS=A/HRC/50/27&Lang=C",
+          "snippet": "64. 正如独立专家和人权维护者处境特别报告员所确认的，在世界许多地方，致. 力于性取向和性别认同问题的人权维护者以及性权利和生殖权利维护者是最受广. 泛 ...",
+          "date": "2022年11月22日",
+          "position": 22
+        },
+        {
+          "title": "美国流行音乐歌星格兰德新的性别认同：“我喜欢女人和男人” - BBC",
+          "link": "https://www.bbc.com/zhongwen/simp/world-47855620",
+          "snippet": "美国歌手亚莉安娜·格兰德（Ariana Grande）上周在歌词上暗示自己是双性恋在网上引发热议。但事实上，真正吸睛的是当下乐坛的性別界线已经开始模糊了。",
+          "date": "2019年4月9日",
+          "position": 23
+        },
+        {
+          "title": "工作手册第3篇| 什么是多元性别？ - 跨儿心理小组",
+          "link": "https://kuaerxinli.org/%E5%B7%A5%E4%BD%9C%E6%89%8B%E5%86%8C/1724",
+          "snippet": "泛性别（Pangender）：拥有多种性别; 流性别（Genderfluid）：在 ... 性倾向与性别认同和性别表达又相互关联。一方面，在描述一个人的性倾向时 ...",
+          "date": "2022年8月1日",
+          "position": 24
+        },
+        {
+          "title": "[PDF] LIST OF TERMS – SEXUAL ORIENTATION, GENDER IDENTITY ...",
+          "link": "https://irb.gc.ca/en/interpreters/Documents/SOGIESC_Glossaries/SOGIESC_List_of_Terms_Mandarin.pdf",
+          "snippet": "术语表– 性取向、性别认同与表达以及性别特征. ENGLISH. FRENCH. MANDARIN. A. Ace. Ace ... 泛性别. Pansexual. Pansexuel(le). 泛性恋. Passing. Usurpation de genre.",
+          "position": 25
+        },
+        {
+          "title": "[PDF] 亚太跨性别健康蓝图",
+          "link": "https://www.undp.org/sites/g/files/zskgke326/files/migration/asia_pacific_rbap/06134fe5d74f2f84023c5de3ee99656ba412f33aa87d6a66c24e6a3da2f6de19.pdf",
+          "snippet": "Sexual orientation，gender identity，and（gender）expression 性倾向、性别认同与（性别） 表达 ... 泛性恋）的个体在情绪上、情感上及性欲上产生深刻吸引并建立亲密的和 ...",
+          "position": 26
+        },
+        {
+          "title": "[PDF] “我需要家长同意才能做自己”",
+          "link": "https://www.amnesty.org/en/wp-content/uploads/2021/05/ASA1702692019CHINESE.pdf",
+          "snippet": "等某些性别确认医疗程序的标准。8. 国际疾病分类表. 国际疾病分类表是有关死亡率及发病率数据的全球性卫生信息标准。9. 非二元. 泛指性别认同未能归入“男性”或“女性”分类的 ...",
+          "position": 27
+        },
+        {
+          "title": "保护女同性恋、男同性恋、双性恋、变性人、间性人和酷儿(LGBTIQ+)",
+          "link": "https://emergency.unhcr.org/zh-hans/protection/%E5%A4%84%E5%A2%83%E5%8D%B1%E9%99%A9%E7%9A%84%E4%BA%BA/%E4%BF%9D%E6%8A%A4%E5%A5%B3%E5%90%8C%E6%80%A7%E6%81%8B%E3%80%81%E7%94%B7%E5%90%8C%E6%80%A7%E6%81%8B%E3%80%81%E5%8F%8C%E6%80%A7%E6%81%8B%E3%80%81%E5%8F%98%E6%80%A7%E4%BA%BA%E3%80%81%E9%97%B4%E6%80%A7%E4%BA%BA%E5%92%8C%E9%85%B7%E5%84%BFlgbtiq",
+          "snippet": "目前各界在使用各种术语来称呼和谈论不同性取向、性别认同、性别表达和/或性特征的人员（SOGIESC）（见下文）。联合国难民署承认语言在不断演变，并在同时使用 ...",
+          "date": "2024年1月29日",
+          "position": 28
+        },
+        {
+          "title": "结束LGBTQ+ 社区中的虐待行为- PCADV",
+          "link": "https://www.pcadv.org/zh-CN/%E9%A1%B9%E7%9B%AE/LGBTQ/",
+          "snippet": "性别与性正义核心小组是一个会员制核心小组，由PCADV 工作人员和宾夕法尼亚州当地家庭暴力项目的倡导者组成。 他们致力于对抗基于感知/实际性或性别认同和/或表达的所有形式 ...",
+          "position": 29
+        },
+        {
+          "title": "[PDF] 防止性取向和性别认同的暴力和歧视问题独立专家的任务 - ohchr",
+          "link": "https://www.ohchr.org/Documents/Issues/SexualOrientation/Call_for_Inputs_CH_markup.pdf",
+          "snippet": "... 性. 恋、跨性别者和双性人(统称为LGBTI) 的暴力和歧视, 2015 年。 泛美卫生组织还发表了一份声明，指出旨在. 改变性取向的所谓疗法在伦理上是不可接受的 ...",
+          "date": "2019年12月21日",
+          "position": 30
+        },
+        {
+          "title": "What is Sexuality | Tokyo Sexual Health",
+          "link": "http://www.tsh.ncgm.go.jp/cht/about_sexual_health/Sexuality_and_Gender.html",
+          "snippet": "與性傾向、性別認同有關的詞彙很多，其中最耳熟能詳的有「LGBTQ」。「L」表示女同性戀者、「G」表示男同性戀者、「B」表示雙性戀者、「T」表示跨 ...",
+          "position": 31
+        },
+        {
+          "title": "[PDF] 防止基于性取向和性别认同的暴力和歧视问题独立专家的报告",
+          "link": "https://documents.un.org/access.nsf/get?OpenAgent&DS=A/HRC/35/36&Lang=C",
+          "snippet": "(实物和非实物)、信息与监测、教育与能力建设、问责与补救、参与式进程、广. 泛调动、联络民间社会等，同时为对话与改革创造空间。 (d) 促请各国就人权 ...",
+          "date": "2017年4月19日",
+          "position": 32
+        },
+        {
+          "title": "泛戀者、雙性戀、跨性別：性別小辭典盤點 - 女人迷",
+          "link": "https://womany.net/read/article/25054",
+          "snippet": "指完全沒有性別認同的人。他或她的生理性別並不重要，性格也不分明顯的男性或女性。 中性Androgyne. 指外表 ...",
+          "date": "2020年8月24日",
+          "position": 33
+        },
+        {
+          "title": "[PDF] 中文包容性语言指南 - WIPO",
+          "link": "https://www.wipo.int/documents/d/gender/wipo-guidelines-inclusive-language.pdf-5",
+          "snippet": "性别中立的语言不提及性别、性别认同或性取向。在行文中，. 使用性别中立的语言是 ... 包括异性恋、同性恋、双性恋、泛性恋和无性恋，还包括其他. 广泛的性取向表现 ...",
+          "position": 34
+        },
+        {
+          "title": "21世紀性別意識須知：泛性戀、無性戀、紙性戀、偽娘是什麼？",
+          "link": "https://www.thenewslens.com/article/196118",
+          "snippet": "例如不以性別為條件的「泛性戀」、感受不到性吸引的「無性戀」、對虛構人物感到性吸引力的「紙性戀」、以及生理與性別認同上是男性，但喜歡做女性裝扮的「 ...",
+          "date": "2023年12月26日",
+          "position": 35
+        },
+        {
+          "title": "[多元性別認同旗幟] 泛性戀旗 - GisneyLand風城部屋",
+          "link": "https://www.gisneyland.org/column/column/detail/?id=6",
+          "snippet": "[多元性別認同旗幟] 泛性戀旗. Sept. 22, 2021, 5:13 p.m.. 泛性戀、泛性向（Pansexuality）是一種無論對象的生理性別或性別認同為何，. 皆可能對其產生身體吸引或愛慕 ...",
+          "position": 36
+        },
+        {
+          "title": "Intersex People | 间性人",
+          "link": "https://www.unfe.org/zh/know-the-facts/challenges-solutions/intersex",
+          "snippet": "间性是什么意思？ ... 间性是一个泛指出生时的生理性别特征（例如性解剖结构、生殖器官、荷尔蒙模式和/或染色体模式）不符合男性或女性身体典型定义的人的总称。这些特征可能是 ...",
+          "position": 37
+        },
+        {
+          "title": "所言即是！泛性戀者的身份認同與社會實踐",
+          "link": "https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22112KMC00739001%22.&searchmode=basic",
+          "snippet": "本研究旨在從身份政治的視角切入，藉由十六位泛性戀者的生命經驗，探討台灣脈絡下的泛性戀者如何建構「泛性戀」認同，及其如何區辨自己與其他性別認同的差異，而運用其認同 ...",
+          "position": 38
+        },
+        {
+          "title": "LGBTQI+中的“+”代表什么？",
+          "link": "https://archive-share.america.gov/zh-hans/what-does-the-mean-in-lgbtqi-zh/index.html",
+          "snippet": "“LGBTQI”这个名称可能并不陌生，但你可能还见过“LGBTQI+”，却并不清楚它末尾的“+”代表什么。语言不断发展变化，这个符号寻求代表并彰显性取向、性别认同 ...",
+          "date": "2022年6月5日",
+          "position": 39
+        },
+        {
+          "title": "“基友”称谓认同与泛化：网络时代性别文化变迁研究 - 思想战线",
+          "link": "http://www.sxzx.ynu.edu.cn/CN/abstract/abstract107.shtml",
+          "snippet": "在虚拟的网络社交互动平台，网友对“基友”称呼的泛用，不仅是同性恋群体不断抗争而被逐渐“去污名化”的结果，也是新兴网络亚文化群体获取身份认同的需要。对互联网资料的梳理和 ...",
+          "position": 40
+        },
+        {
+          "title": "LGBTQIA+ 支持| 密歇根大学弗林特性别与性中心",
+          "link": "https://www.umflint.edu/zh-CN/cgs/lgbtqia-support/",
+          "snippet": "校园气候问题可能包括基于身份（例如种族和民族、性别和性别认同、性取向、社会经济地位、语言、文化、国籍、宗教信仰、年龄、（残疾）能力状况、政治观点和其他与生活经历 ...",
+          "position": 41
+        },
+        {
+          "title": "男泛性恋：男性泛性恋的性别认同和性取向 - 心理之家",
+          "link": "https://www.vapesay.com/zhishi/jiating/2023-10-23/63895.html",
+          "snippet": "男泛性恋者在性别认同方面也呈现出多元化的特征，有些认为自己是男性，但是对于其他性别的人也能够产生吸引力，而另一些则认为自己的性别较为模糊或不愿意被 ...",
+          "date": "2023年5月13日",
+          "position": 42
+        },
+        {
+          "title": "[PDF] 全球跨性别健康与幸福指数议题",
+          "link": "https://transrespect.org/wp-content/uploads/2018/12/TvT-PS-Vol20-2018_CN.pdf",
+          "snippet": "尽管如此，这些岛屿上的跨性别. 社群蓬勃发展，但汤加，图瓦卢，库克群岛和基里巴斯仍然存在基于性别认同和. 性取向的歧视性法律。 ... 该项目使泛美卫生组织能够系统化信息 ...",
+          "position": 43
+        },
+        {
+          "title": "国际不再恐同日：3.5亿LGBTQ群体，让世界充满爱",
+          "link": "https://m.medsci.cn/article/show_article.do?id=a4bd211463b2",
+          "snippet": "LGBTQ人群不佳的健康状况可能是由所经历的独特社会心理压力所驱动的。其中包括因性取向和性别认同而导致的个人压力（如自耻感、害怕被拒绝以及刻意隐瞒性 ...",
+          "date": "2021年5月17日",
+          "position": 44
+        },
+        {
+          "title": "[PDF] 性取向和性别认同(SOGI): 给家长和监护人的信息",
+          "link": "https://sd38.bc.ca/sites/default/files/2024-09/SOGI%20-%20Information%20for%20Parents%20and%20Guardians%20-%20Simplified%20Chinese.pdf",
+          "snippet": "... 性取向和性别认同。关于SOGI 的对话重点是理解和支持学校、更广. 泛的社区以及加拿大社会和世界中存在的多样性。 什么是SOGI 包容性教育？ SOGI包容性教育不是一门单独 ...",
+          "position": 45
+        },
+        {
+          "title": "臺大學生會性別工作坊- 【親密關係系列活動｜雙 - Facebook",
+          "link": "https://www.facebook.com/ntugenderequality/posts/%E8%A6%AA%E5%AF%86%E9%97%9C%E4%BF%82%E7%B3%BB%E5%88%97%E6%B4%BB%E5%8B%95%E9%9B%99%E6%B3%9B%E6%80%A7%E6%88%80%E7%9A%84%E5%9B%B0%E5%A2%83-im-switching-my-preference-like-an-on-and-off-switch-%E4%B8%AD%E8%AD%AF%E6%88%91%E5%83%8F%E6%8C%89%E9%96%8B%E9%97%9C%E4%B8%80%E6%A8%A3%E8%BD%89%E6%8F%9B/846006620897025/",
+          "snippet": "·不是同性戀也不是異性戀——難以說明的身份認同 我們習慣以單一框架理解事情，所以很多人傾向認定人 們只擁有單一性向：異／同性戀。雙／泛性戀者可能會 對男性 ...",
+          "date": "2024年6月5日",
+          "position": 46
+        },
+        {
+          "title": "年终报道：2017年中国LGBT人群现况与展望 - 美国之音",
+          "link": "https://www.voachinese.com/a/year-ender-china-lgbt-20171229/4184970.html",
+          "snippet": "性别包括出生时被指定的性别(sex assigned at birth)与性别认同(gender identity) 。多数人觉得出生时被认定的性别能代表自己的性别，这些人称为“顺性别”( ...",
+          "date": "2017年12月30日",
+          "position": 47
+        },
+        {
+          "title": "性別字典 - SexualityHUB HK",
+          "link": "https://sexualityhub.hk/2022/03/%E6%80%A7%E5%88%A5%E5%AD%97%E5%85%B8/",
+          "snippet": "性傾向(Sex Orientation) · 性別認同(Gender Identity) · 順性別者(Cisgender) · 跨性別者(Transgender) · 性別焦慮症(Gender Dysphoria) · 性/別小眾(Sexual/ ...",
+          "date": "2022年3月29日",
+          "position": 48
+        },
+        {
+          "title": "[PDF] 男同性恋、双性恋、变性人、间性人和酷儿(LGBTIQ+)",
+          "link": "https://emergency.unhcr.org/zh-hans/print/pdf/node/578",
+          "snippet": "术语说明。 目前各界在使用各种术语来称呼和谈论不同性取向、性别认同、性别表达和/或性特征的人员 ... 它包括异. 性恋、同性恋、双性恋、泛性恋和 ...",
+          "date": "2024年1月29日",
+          "position": 49
+        },
+        {
+          "title": "新世紀性別意識-淺談泛性戀、無性戀、紙性戀、偽娘| 妙哉心理師的沙龍",
+          "link": "https://vocus.cc/article/657a4e8dfd89780001873acf",
+          "snippet": "泛性戀是一種無論對象的生理性別或性別認同為何，都可能產生身體吸引或愛慕情緒的性傾向。泛性戀認為生理性別與心理性別不是自己對他人產生戀愛感情或性 ...",
+          "date": "2023年12月13日",
+          "position": 50
+        },
+        {
+          "title": "后同性恋时代的“跨性别主义者” - 纽约时报中文网",
+          "link": "https://cn.nytimes.com/lifestyle/20130826/c26lgbt/",
+          "snippet": "如果说如今的同性权利运动围绕着同性婚姻权利进行，那么这一代人追求的似乎是更激进的东西：超越男女两分法的性别角色颠覆。核心问题不是“他们爱谁”，而是“ ...",
+          "date": "2013年8月26日",
+          "position": 51
+        },
+        {
+          "title": "跨性别同性恋- 抖音百科",
+          "link": "https://m.baike.com/wikiid/1322238724079723300",
+          "snippet": "“同性”和“异性”只是相对于我们自己性别认同与其他性别的相同或不同，由于一些跨性别者无法明确地表述自己的性别，也无法明确地表述被哪种性别的人吸引，或者本身就不认同二元 ...",
+          "position": 52
+        },
+        {
+          "title": "性别认同 - 微博",
+          "link": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%80%A7%E5%88%AB%E8%AE%A4%E5%90%8C%23&isnewpage=1&luicode=20000174&featurecode=10000085",
+          "snippet": "#性别认同# 这是第一次在公开场合说我的性别认同问题，借着我是女生，我来月经这个话题，正好来和大家分享一下。 简单来说，我的社会性别是男，性取向是泛偏男。 这个群体数量并 ...",
+          "position": 53
+        },
+        {
+          "title": "泛性恋与双性恋、酷儿、跨性别恋、无性恋的区别是什么? - 搜狐",
+          "link": "https://www.sohu.com/a/335000571_100137343",
+          "snippet": "这是指\"不明确地对一种性别产生吸引力的身份认同，并对多种性取向或性别（例如，双性恋、泛性恋、酷儿和性别流动性）也会产生吸引力的身份认同\"(Galupo， ...",
+          "date": "2019年8月20日",
+          "position": 54
+        },
+        {
+          "title": "性取向是沃尔玛塑料袋，能当《守望先锋》新英雄吗？ - 游研社",
+          "link": "https://www.yystv.cn/p/10721",
+          "snippet": "... 性少数标签被滥用的不满。 这次的新英雄生命之梭，是个少见的泛性恋人士。这种性别认同可以笼统地概括为“性别盲”，与双性恋不同，是个超越了性别 ...",
+          "date": "2023年4月19日",
+          "position": 55
+        },
+        {
+          "title": "性別的多樣性- 伴盟跨性別資訊平台 - 台灣伴侶權益推動聯盟",
+          "link": "https://transgender.tapcpr.org/what-is-gender",
+          "snippet": "（四）性別認同（Gender Identity）：指個人依據自身身體與社會的性別經驗，發展出對於自身性別的認定，如男、女或非二元性別等。 （五）性傾向（Sexual Orientation）：指感受浪漫愛或 ...",
+          "position": 56
+        },
+        {
+          "title": "同雙性戀者的壓力來源與身心健康- 協會通訊",
+          "link": "https://www.depression.org.tw/communication/info.asp?/9.html",
+          "snippet": "但其實廣義的同志不止於此，陰陽人（intersex，或稱中性人）、無性戀（asexual）、泛性戀（pansexual）、性別認同/ 性傾向疑問者（questioned）……都包含在其中。這篇 ...",
+          "position": 57
+        },
+        {
+          "title": "马来西亚：卫生部推广有害反LGBT迷思 - Human Rights Watch",
+          "link": "https://www.hrw.org/zh-hans/news/2017/06/07/304696",
+          "snippet": "其他联合国机构也谴责专门改变性倾向和性别认同的所谓矫正治疗，指其既不合伦理又有害健康。世界精神医学会表示，“没有明确的科学证据能证明先天性倾向可被 ...",
+          "date": "2017年6月7日",
+          "position": 58
+        },
+        {
+          "title": "[PDF] 双性恋",
+          "link": "https://www.unfe.org/sites/default/files/download/Bisexuality%20factsheet%202023%2C%20CH.pdf",
+          "snippet": "有些被不止一种性别吸引的人会使用其他自称，. 例如泛性恋、多 ... 双性恋者可能会因年龄、移民身份、. 残疾、HIV感染状况、性取向、性. 别、性别认同、宗教、种族或其他.",
+          "position": 59
+        },
+        {
+          "title": "泛性论视角下的性别认同与性别表达 - 心理派",
+          "link": "https://www.xinlipai.cn/article/health/2fba21a2d477c1e24431ad924327a82b.html",
+          "snippet": "在当前社会中，性别认同和性别表达已经成为一个非常重要的话题。在传统的思维模式下，性别常常被视为一个二元对立的概念，即男性和女性。然而，在泛性论 ...",
+          "date": "2024年1月12日",
+          "position": 60
+        },
+        {
+          "title": "为什么会有越来越多的人不认同自己的性别？ - 网易",
+          "link": "https://www.163.com/tech/article/C9UCR5HG00097U81.html",
+          "snippet": "随着议题的开放，美国的跨性别人数迅速增加。短短十年内，成年跨性别者人数增加一倍。与此同时性别认同障碍人数也在增多，这是上一代人 ...",
+          "date": "2017年1月4日",
+          "position": 61
+        },
+        {
+          "title": "父母该如何与孩子谈论性取向- - Dr. Yi Yang",
+          "link": "https://www.dryiyang.com/how-should-parents-talk-to-their-children-about-sexual-orientation/",
+          "snippet": "性别认同是指孩子在心理上对自己性别的判断，与实际的生理性别无关。多数情况下，性别认同在孩子3岁时已经形成，孩子们从他人（特别是家庭成员）的行为观察中认识到 ...",
+          "position": 62
+        },
+        {
+          "title": "[PDF] 前言- 多元性別權益保障篇",
+          "link": "https://gec.ey.gov.tw/File/DA622159EAD3CBA?A=C",
+          "snippet": "... 泛性戀（pansexual）、無性戀. （asexual）等其他各種可能性。 Page 3. 003. 前言. 性別認同（Gender Identity）：. 性別認同反映了個人對自身性別的深刻感受和體驗，一個人的性別.",
+          "position": 63
+        },
+        {
+          "title": "对话德国“非二元性别”演员：也许我是个偶然的外星人 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_11630604",
+          "snippet": "将自己定义为“非二元性别”的人可能有但不限于以下的性别认同：两种性别认知兼具或两者以上，比如泛性别；在两者或以上的性别认同之间流动(genderfluid)；两者 ...",
+          "date": "2021年3月11日",
+          "position": 64
+        },
+        {
+          "title": "[PDF] 媒体手册",
+          "link": "https://justiceforsisters.wordpress.com/wp-content/uploads/2016/03/2016-03-media-guide-thilaga-chi-v3-40pg-web.pdf",
+          "snippet": "泛性恋. 自我性别认同是女性／男性，对任何性别都可产. 生情愫的人。 无性恋. 不会对自己伴侣产生任何性趣的人。 同性恋. 临床用语，泛指在情欲上 ...",
+          "position": 65
+        },
+        {
+          "title": "什麼是跨性別?... | By Red Ribbon Centre - Facebook",
+          "link": "https://www.facebook.com/hkrrc/videos/%E4%BB%80%E9%BA%BC%E6%98%AF%E8%B7%A8%E6%80%A7%E5%88%A5-%E6%80%A7%E5%88%A5%E8%AA%8D%E5%90%8C%E6%98%AF%E6%8C%87%E4%B8%80%E5%80%8B%E4%BA%BA%E8%87%AA%E5%B7%B1%E8%AA%8D%E5%90%8C%E7%9A%84%E6%80%A7%E5%88%A5%E6%A0%B9%E6%93%9A%E4%B8%96%E7%95%8C%E8%A1%9B%E7%94%9F%E7%B5%84%E7%B9%94%E8%B7%A8%E6%80%A7%E5%88%A5%E4%BA%BA%E5%A3%ABtransgender%E6%98%AF%E6%B3%9B%E6%8C%87%E9%A0%86%E6%80%A7%E5%88%A5cisgender%E4%BA%BA%E5%A3%AB%E4%B9%8B%E5%A4%96%E7%9A%84%E5%85%B6%E4%BB%96%E6%80%A7%E5%88%A5%E8%AA%8D%E5%90%8C%E9%A0%86%E6%80%A7%E5%88%A5%E4%BA%BA%E5%A3%AB%E7%9A%84%E6%80%A7/1052201228878431/?locale=hi_IN",
+          "snippet": "什麼是跨性別? 性別認同是指一個人自己認同的性別。根據世界衛生組 織，跨性別人士 ...\n时长： 0:09\n发布时间： 2021年11月19日",
+          "date": "2021年11月19日",
+          "position": 66
+        },
+        {
+          "title": "泛性恋与双性恋、酷儿、跨性别恋、无性恋的区别是什么? - 性取向问题",
+          "link": "http://www.gzylyt.com/xm/show/286.html",
+          "snippet": "你可能会在最近几年注意到这个词，多性恋。这是指\"不明确地对一种性别产生吸引力的身份认同，并对多种性取向或性别（例如，双 ...",
+          "date": "2019年8月20日",
+          "position": 67
+        },
+        {
+          "title": "皆可能对其产生身体吸引或爱慕情绪的性倾向。5月24日被定为看见泛 ...",
+          "link": "https://www.reddit.com/r/weibo_read/comments/1d03wu2/%E6%B3%9B%E6%80%A7%E6%81%8Bpansexuality%E6%98%AF%E4%B8%80%E7%A7%8D%E6%97%A0%E8%AE%BA%E5%AF%B9%E8%B1%A1%E7%9A%84%E7%94%9F%E7%90%86%E6%80%A7%E5%88%AB%E6%88%96%E6%80%A7%E5%88%AB%E8%AE%A4%E5%90%8C%E4%B8%BA%E4%BD%95%E7%9A%86%E5%8F%AF%E8%83%BD%E5%AF%B9%E5%85%B6%E4%BA%A7%E7%94%9F%E8%BA%AB%E4%BD%93%E5%90%B8%E5%BC%95%E6%88%96%E7%88%B1%E6%85%95%E6%83%85%E7%BB%AA/",
+          "snippet": "泛性恋（Pansexuality）是一种无论对象的生理性别或性别认同为何，皆可能对其产生身体吸引或爱慕情绪的性倾向。5月24日被定为看见泛性恋日（Pansexual ...",
+          "date": "2024年5月25日",
+          "position": 68
+        },
+        {
+          "title": "- YouTube",
+          "link": "https://m.youtube.com/post/UgwOsb6Sa8YNvX5L4_V4AaABCQ",
+          "snippet": "... 认同到全盘否认，态度各异。 真 ... 更何况，人的性取向并非只有「同」和「异」两种，不同的分类体系都算上，还有双性恋、无性恋、跨性别同、跨性别异、泛性恋、泛爱恋……",
+          "position": 69
+        },
+        {
+          "title": "你的性取向是什么？性取向知识全科普 - 英国红领巾",
+          "link": "https://www.honglingjin.co.uk/470250.html",
+          "snippet": "男性恋（Androsexual）：不依赖性别认同和先天性别，只是对男性的特质感兴趣，不喜欢“伪娘”或者变装皇后这个群体。 • 女性恋（Gynosexual）：和男性恋者相反，只对 ...",
+          "date": "2021年1月31日",
+          "position": 70
+        },
+        {
+          "title": "泛性戀- 维基词典，自由的多语言词典",
+          "link": "https://zh.wiktionary.org/wiki/%E6%B3%9B%E6%80%A7%E6%88%80",
+          "snippet": "泛性戀. 一種無論對象的生理性別或性別認同為何，皆可能對其產生身體吸引或愛慕情緒的性取向. 同類詞彙. 编辑. (性取向 (xìngqǔxiàng)) 同性戀／同性恋 (tóngxìngliàn)、 ...",
+          "position": 71
+        },
+        {
+          "title": "J·K·罗琳遭抵制，关于性别我们还可以讨论什么？ - 领研网",
+          "link": "https://www.linkresearcher.com/information/6209b1b2-ced5-45a1-a5a2-de5955680de8",
+          "snippet": "这种对“gender”本质的理解，对那些在某种意义上将自己的性别认同感视为是发自内心、与生俱来、而不是完全由社会化构建成、也不是外部强加的人来说，有些 ...",
+          "date": "2020年7月31日",
+          "position": 72
+        },
+        {
+          "title": "男人、女人、异性、同性的界限在消失 - Swissinfo",
+          "link": "https://www.swissinfo.ch/chi/society/%E5%BD%A9%E8%99%B9%E7%BE%A4%E4%BD%93_%E7%94%B7%E4%BA%BA-%E5%A5%B3%E4%BA%BA-%E5%BC%82%E6%80%A7-%E5%90%8C%E6%80%A7%E7%9A%84%E7%95%8C%E9%99%90%E5%9C%A8%E6%B6%88%E5%A4%B1/43388420",
+          "snippet": "女同性恋、男同性恋、双性恋和跨性别者构成了被称作LGBT的这一群体。许多拥有这类性取向和性别认定的人成为暴力、歧视与孤立的牺牲品，女性问题 ...",
+          "date": "2017年8月10日",
+          "position": 73
+        },
+        {
+          "title": "联合国专家称，“矫正治疗”可构成酷刑，应予禁止 - ohchr",
+          "link": "https://www.ohchr.org/zh/stories/2020/07/conversion-therapy-can-amount-torture-and-should-be-banned-says-un-expert",
+          "snippet": "... 性取向和性别认同问题专家维克托·马德里加尔-博尔洛斯（Victor Madrigal-Borloz）向人权理事会表示，性 ... 2012年，泛美卫生组织指出，“矫正治疗 ...",
+          "date": "2020年7月13日",
+          "position": 74
+        },
+        {
+          "title": "認識泛性戀旗",
+          "link": "https://www.pridelab.hk/2023/projects/infodesign/3728/",
+          "snippet": "泛性戀指無論對象的生理性別或性別認同為何，皆可能對其產生身體吸引或愛慕情緒的性傾向。 作為英語Prefix，Pan-：指全部，”all”嘅意思。 泛性戀社群 ...",
+          "date": "2023年1月28日",
+          "position": 75
+        },
+        {
+          "title": "性別流動、順性別…世界在改變，7個你該重新認識的性別關鍵字",
+          "link": "https://www.vogue.com.tw/entertainment/article/7-keywords-for-lgbtq",
+          "snippet": "曖昧且不確定，不單純屬於男性或女性的自我性別認同。性別認同非男非女、亦男亦女，或者不完全是其中一種，也可能是動態變化，沒有一個固定的性別 ...",
+          "date": "2021年5月30日",
+          "position": 76
+        },
+        {
+          "title": "自我認同：摸索、思考自己是不是同志時，你可以做的事",
+          "link": "https://www.gdi.org.tw/archives/17134",
+          "snippet": "性別認同：是指一個人在心裡主觀認定自己是何種性別，有可能一個人心裡主觀認定的性別認同和他出生時的性別，兩者並不相同。而所謂的順性別，就是指一個人的性別認同和他出生時 ...",
+          "position": 77
+        },
+        {
+          "title": "性別認同vs. 性傾向 - 好日子心理治療所",
+          "link": "https://www.gooddaysclinic.com/l/%E6%80%A7%E5%88%A5%E8%AA%8D%E5%90%8C-vs-%E6%80%A7%E5%82%BE%E5%90%91/",
+          "snippet": "... 男性、女性，或是跳脫二分框架的非二元性別等；性傾向乃指對某性別產生持久情感、愛戀或性吸引的感受，而根據對方與自身性別認同 ... 性戀、泛性戀、無性戀等。",
+          "date": "2023年6月14日",
+          "position": 78
+        },
+        {
+          "title": "關於生理性別、社會性別、性別認同和性傾向，你搞清楚了嗎 ... - 泛科學",
+          "link": "https://pansci.asia/archives/128613",
+          "snippet": "性別光譜與LGBT. 到目前為止，我們談論了生理性別、社會性別、性別認同和性傾向。這四者都屬於性別的不同向度，並無絕對的連帶關係。傳統性別刻板印象認為，生理性別男性的人， ...",
+          "position": 79
+        },
+        {
+          "title": "泛性戀——喜歡你是因為你是誰，而不是你的性別 - Wazaiii",
+          "link": "https://www.wazaiii.com/articles?id=lifestyle-pansexuality-lesbian",
+          "snippet": "一直到近十年，隨著世界各地對性別議題的討論越來越深入，泛性戀（Pansexuality）有了新的、更完整定義，亦即一種無論對象的生理性別與自我性別認同，都有可能受 ...",
+          "date": "2021年6月9日",
+          "position": 80
+        },
+        {
+          "title": "56种新性别，当哪个？-观察者网",
+          "link": "https://www.guancha.cn/america/2014_02_16_206292.shtml",
+          "snippet": "周四，脸书宣布用户将会在脸书网站的“custom gender”一栏中对自己的性别进行选择，这一下拉栏中提供了其他选项，包括“Gender Fluid”“FTM”（用来指称从女性跨越 ...",
+          "date": "2014年2月16日",
+          "position": 81
+        },
+        {
+          "title": "泛性恋",
+          "link": "https://www.seksediversiteit.nl/zh-CN/woordenlijst/panseksualiteit/",
+          "snippet": "泛性恋在泛性恋中，一个人在情感上或身体上被另一个人所吸引，无论性别特征如何， gender身份和/或gender ... 认可。 然而，正如关于gender随着多样性的增加，对 ...",
+          "date": "2024年1月5日",
+          "position": 82
+        },
+        {
+          "title": "美国大学开始认可“他”与“她”之外的性别 - 纽约时报",
+          "link": "https://cn.nytimes.com/education/20150319/t19gender/",
+          "snippet": "不同于那些对自己的生理性别和心理性别表现出认知差异，并极力想要将两者统一起来的男性和女性，吉梭曼接受自己拥有一具女性躯体的事实，并使用“跨性别者”这 ...",
+          "date": "2015年3月19日",
+          "position": 83
+        },
+        {
+          "title": "泛性戀、無性戀、紙性戀是什麼？是病嗎？別再有錯誤概念！",
+          "link": "https://bsccpsy.com/pansexuality-asexuality-fictosexuality/?srsltid=AfmBOoobf2j1CWLTrCdksEHXQ6M48lxXqRT_ZFVvVWKXJGUFrEQpAzMm",
+          "snippet": "泛性戀是一種無論對象的生理性別或性別認同為何，都可能產生身體吸引或愛慕情緒的性傾向。 泛性戀認為生理性別與心理性別不是自己對他人產生戀愛感情或性 ...",
+          "date": "2024年6月5日",
+          "position": 84
+        },
+        {
+          "title": "泛性戀－比雙性戀更熱愛靈魂的性向特質 - LGBTQ.tw 台灣酷家",
+          "link": "https://lgbtq.tw/pansexual-introduction/",
+          "snippet": "泛性戀者就是能被另一個個體吸引，並且不會因對方的生理性別與性別認同而產生隔閡，也就是他們可以跟任何生理性別與性別認同的人談戀愛，比如說：生理性別上的 ...",
+          "date": "2017年7月16日",
+          "position": 85
+        },
+        {
+          "title": "跨儿心理工作手册 - 跨性别在线·文档库",
+          "link": "https://docs.transonline.org.cn/kexl-work",
+          "snippet": "跨儿（Trans people / Transgender and gender nonconforming people），即广义的跨性别者与非性别常规者，是指性别认同和/或性别表达与其出生分配性别的社会常规不一致的人，是 ...",
+          "position": 86
+        },
+        {
+          "title": "性别流动者：这样的双重身份是时候放下了 - 科技- 新浪",
+          "link": "https://tech.sina.cn/2020-05-18/detail-iirczymk2174558.d.html",
+          "snippet": "在一次互助小组的线上会议上，主持人邀请大家进行自我介绍，包括愿意被称呼的姓名，自我认同的性别、性向等。 我的介绍是：“我是诺一，性别流体，性向泛性恋。",
+          "date": "2020年5月18日",
+          "position": 87
+        },
+        {
+          "title": "性別多樣化的認識與尊重 - 教育部家庭教育資源網",
+          "link": "https://familyedu.moe.gov.tw/reDocDetail.aspx?uid=8918&pid=8906&rt=5&docid=295047",
+          "snippet": "性別多樣化又稱為「多元性別」，兩者名稱常常混用，基本上是一個包容的概念，也是一個術語，用以代表人們的社會性別特徵，性傾向和性別認同的所有多元性，而不需 ...",
+          "date": "2023年1月5日",
+          "position": 88
+        },
+        {
+          "title": "[PDF] 什么是学生普查? 它会需要多长时间以及我怎样回答问题? 我必须参加 ...",
+          "link": "https://www.hdsb.ca/our-board/PublishingImages/Pages/Student-Census/Student-Census-Final-Version-For-Parent-Guardian-View-Chinese.pdf",
+          "snippet": "性别酷儿（Queer）: 吸引力或性别认同与其. 他人某些方面有所不同的人。 性别 ... 泛性别者（Pansexual）: 对所有性别都有吸. 引力的人。 Page 8. 8. 能力障碍. 什么是 ...",
+          "position": 89
+        },
+        {
+          "title": "最新研究证明！全球9%的成年人认为自己是LGBT（性少数群体）！",
+          "link": "https://www.sohu.com/a/745283036_527250",
+          "snippet": "当被问及他们的性别认同时，全球平均有1%的人将自己描述为跨性别者，1%的人认为自己是非二元、性别不合或性别不稳定者。自我认同的LGBT+成年人在不同 ...",
+          "date": "2023年12月19日",
+          "position": 90
+        },
+        {
+          "title": "18 种性行为及其含义",
+          "link": "https://www.bonobology.com/zh-CN/%E7%B1%BB%E5%9E%8B-%E6%80%A7%E5%88%AB-%E5%90%AB%E4%B9%89/",
+          "snippet": "你不用出柜， 曾经。但你确实需要意识到一个人的性取向和性别认同之间的区别。性别包括男性、女性或任何其他性别认同的 ...",
+          "date": "2021年9月9日",
+          "position": 91
+        },
+        {
+          "title": "泛性别_搜狗百科",
+          "link": "https://baike.sogou.com/v8256700.htm",
+          "snippet": "从中可以看出21世纪对于要求个性、另类、突破传统的年轻一代，语言已经不该再轻易地被打上性别的标签，也许不用多久成年人感叹的“男孩不像男孩，女孩不像女孩”的泛性别现象会 ...",
+          "position": 92
+        },
+        {
+          "title": "包容与多样性- 美国泛达 - Panduit",
+          "link": "https://www.panduit.com/apac/zh/about/company-profile/environmental-social-and-governance/diversity-and-inclusion.html",
+          "snippet": "泛达认为，一种充满了包容与多样性的文化，对于我们向互联世界交付行业领先的基础设施解决方案的能力来说，具有至关重要的作用。通过重新构想我们的文化、计划、倡议、政策与 ...",
+          "position": 93
+        },
+        {
+          "title": "和心理咨询从业者谈“性多元” - 爱白网",
+          "link": "https://www.aibai.cn/read/129/",
+          "snippet": "例如，当咨询师接触中年男性时，他们可能会咨询关于性生活的问题，但如果是学生，特别是中学生或大学生，他们可能会关注自己的性别认同或性倾向等问题。因此，在进行咨询时，咨询 ...",
+          "position": 94
+        },
+        {
+          "title": "CRN大講堂：身為雙性戀/泛性戀是什麼樣的體驗？",
+          "link": "https://www.crn.ngo/blog/jbx4mq24ckzcc9lsevgw9zvohnykx9",
+          "snippet": "剛朵琳（Gangduo Lin），Bi the Way·拜坊共同創辦人，負責團體教育宣導事宜，現任Bi the Way· 拜坊副總召。雙性戀，也有女同性戀的認同，同時還在無性戀小組和 ...",
+          "date": "2020年8月7日",
+          "position": 95
+        },
+        {
+          "title": "什么是泛性恋 - 抖音",
+          "link": "https://www.douyin.com/shipin/7341343467320363047",
+          "snippet": "... 泛性恋#泛性恋#性倾向说说范性恋，应该很多朋友听到过范性恋，范性恋指的是一些人，他们在恋爱的时候，对方的性别 ... 性别或者是性别认同的限制。 也就是说呢， ...",
+          "date": "2024年3月1日",
+          "position": 96
+        },
+        {
+          "title": "双性恋(性取向分类) - 百科",
+          "link": "https://baike.weixin.qq.com/v219720.htm",
+          "snippet": "“双性恋”概念最早出现于19世纪，发展到1970年代和1980年代，双性恋开始在西方社会中发展成为明显的集体和政治认同身份。目前，双性恋者因性倾向遭暴力伤害、歧视比例较高，生存 ...",
+          "position": 97
+        },
+        {
+          "title": "泛性戀是什麼？－Bi the Way．拜坊— 看見臺灣雙性戀與泛性戀",
+          "link": "https://bitheway.pixnet.net/blog/post/49698086",
+          "snippet": "簡單說，泛性戀是不受性別限制，雙性戀是不只喜歡一個性別。泛性戀與雙性戀並非截然二分的兩種人，而更像是關注焦點不同的兩種認同身份。這兩 ...",
+          "date": "2021年5月24日",
+          "position": 98
+        }
+      ],
+      "images": [
+        {
+          "title": "国际不再恐同日：3.5亿LGBTQ群体，让世界充满爱@MedSci",
+          "imageUrl": "https://img.medsci.cn/2021517/1621243458289_5433779.png",
+          "link": "https://m.medsci.cn/article/show_article.do?id=a4bd211463b2"
+        },
+        {
+          "title": "泛性戀- 維基百科，自由的百科全書",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Pansexuality_Pride_Flag.svg/1200px-Pansexuality_Pride_Flag.svg.png",
+          "link": "https://zh.wikipedia.org/zh-tw/%E6%B3%9B%E6%80%A7%E6%88%80"
+        },
+        {
+          "title": "What is Sexuality | Tokyo Sexual Health",
+          "imageUrl": "https://www.tsh.ncgm.go.jp/page_images/img_sexualitygender.png",
+          "link": "http://www.tsh.ncgm.go.jp/chs/about_sexual_health/Sexuality_and_Gender.html"
+        },
+        {
+          "title": "性取向- 维基百科，自由的百科全书",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Gender_symbols_%284_colors%29.svg/1200px-Gender_symbols_%284_colors%29.svg.png",
+          "link": "https://zh.wikipedia.org/zh-cn/%E6%80%A7%E5%8F%96%E5%90%91"
+        },
+        {
+          "title": "泛性恋_百度百科",
+          "imageUrl": "https://bkimg.cdn.bcebos.com/pic/ac4bd11373f082028081b75b49fbfbedab641b46?x-bce-process=image/resize,m_lfit,w_536,limit_1/quality,Q_70",
+          "link": "https://baike.baidu.com/item/%E6%B3%9B%E6%80%A7%E6%88%80/8446400?noadapt=1"
+        },
+        {
+          "title": "性别认同- Healthy Horizons",
+          "imageUrl": "https://healthyhorizons.org.au/wp-content/uploads/resized/2022/09/gender-1-920x0-c-default.jpg",
+          "link": "https://healthyhorizons.org.au/zh-hans/general-health-information/gender-identity/"
+        },
+        {
+          "title": "全国跨性别健康调研报告",
+          "imageUrl": "x-raw-image:///b15f1e019f3006c0538ee15aeb102c28e5c3bc4c7e21f4204395dcbe564219bb",
+          "link": "https://cnlgbtdata.com/files/uploads/2023/01/2021%E5%85%A8%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E5%81%A5%E5%BA%B7%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.pdf"
+        },
+        {
+          "title": "Untitled",
+          "imageUrl": "x-raw-image:///ad32b07c2041d9dc108a366875a07614ea7062b98d098737064bf15da506fca6",
+          "link": "https://www.undp.org/sites/g/files/zskgke326/files/migration/cn/UNDP-CH-PEG-Being-LGBT-in-China_CH.pdf"
+        },
+        {
+          "title": "跨性别- 维基百科，自由的百科全书",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Transgender_Pride_flag.svg/280px-Transgender_Pride_flag.svg.png",
+          "link": "https://zh.wikipedia.org/zh-cn/%E8%B7%A8%E6%80%A7%E5%88%A5"
+        }
+      ],
+      "relatedSearches": [
+        {
+          "query": "非二元人"
+        },
+        {
+          "query": "酷儿"
+        },
+        {
+          "query": "Pansexuality"
+        },
+        {
+          "query": "non binary gender中文"
+        },
+        {
+          "query": "asexual中文"
+        },
+        {
+          "query": "non-binary是什么意思"
+        },
+        {
+          "query": "queer中文"
+        },
+        {
+          "query": "Nonbinary"
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

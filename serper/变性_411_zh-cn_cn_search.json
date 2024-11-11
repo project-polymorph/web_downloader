@@ -1,0 +1,1357 @@
+{
+  "query": "变性 411",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-05T21:02:12.415491",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "变性 411",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "上海411被停止变性- 百度",
+          "link": "http://www.baidu.com/from=844b/ssid=0/s?word=%E4%B8%8A%E6%B5%B7411%E8%A2%AB%E5%81%9C%E6%AD%A2%E5%8F%98%E6%80%A7&sa=re_dl_prs_34689_6&ms=1&rqid=11479578352169135967&rq=%E5%8F%98%E6%80%A7%E5%89%8D%E4%B8%80%E5%B9%B4%E5%87%86%E5%A4%87%E8%BF%87%E7%A8%8B&rsf=1630001&asctag=20990",
+          "snippet": "8月14日一般情况下,上海411医院变性手术价格表在2000元-20万元左右,其中上海411医院变性手术男变女费用在15万元起,上海411医院变性手术女变... 颜熙整形网.",
+          "position": 1
+        },
+        {
+          "title": "上海四一一医院 - FtM.wiki",
+          "link": "https://ftm.wiki/zh-cn/srs/411/",
+          "snippet": "术后用药 · 出院流程 · 411平胸手术 · 411双侧阴股沟皮管成形术 · 411阴茎再造术 · 411阴茎成形术（Phalloplasty）. © 2024 FtM.wiki, CC BY-SA 4.0. 更新时间：2024 年11 月1 ...",
+          "position": 2
+        },
+        {
+          "title": "411跨性别手术排队- 百度",
+          "link": "http://www.baidu.com/from=844b/ssid=0/s?word=411%E8%B7%A8%E6%80%A7%E5%88%AB%E6%89%8B%E6%9C%AF%E6%8E%92%E9%98%9F&sa=re_dl_prs_34689_3&ms=1&rqid=5635728657113769510&params_ssrt=node-san&rq=%E4%B8%8A%E6%B5%B7411%E8%A2%AB%E5%81%9C%E6%AD%A2%E5%8F%98%E6%80%A7&rsf=103631108&asctag=65737",
+          "snippet": "8月14日一般情况下,上海411医院变性手术价格表在2000元-20万元左右,其中上海411医院变性手术男变女费用在15万元起,上海411医院变性手术女变... 颜熙整形网.",
+          "position": 3
+        },
+        {
+          "title": "上海四一一医院- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E4%B8%8A%E6%B5%B7%E5%9B%9B%E4%B8%80%E4%B8%80%E5%8C%BB%E9%99%A2",
+          "snippet": "变性手术. 编辑. 四一一医院是中华人民共和国为数不多开展性别重置手术（俗称“变性手术”）的医院之一，主刀医生为赵烨德博士。自1998年起该医院已完成超过1000例此类手术 ...",
+          "position": 4
+        },
+        {
+          "title": "做了24年上千例变性手术医生的心与术：术前先好好聊一次 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/wifiKey_detail.jsp?contid=1617301&from=wifiKey",
+          "snippet": "也有争议的声音存在，在411医院进行“女变男”手术，必须对卵巢完全去除，这被担心会加剧衰老的速度。 但这是赵烨德一直坚持的手术前提之一，他告诉北青报记者，这是在 ...",
+          "position": 5
+        },
+        {
+          "title": "跨越之路上的同行者——上海411医院整形外科主任赵烨德博士访谈",
+          "link": "https://m.douban.com/note/857834871/",
+          "snippet": "包括原来2009年的时候，是叫“变性手术管理规范”，对不对？后来叫“性别重置手术管理规范”，我们国家层面的机构，它也是尽量地在文字上面更加科学合理 ...",
+          "date": "2023年12月30日",
+          "position": 6
+        },
+        {
+          "title": "变性手术医生的“心”与“术” - 中国新闻网",
+          "link": "https://www.chinanews.com.cn/m/gn/2017/02-13/8148021.shtml",
+          "snippet": "也有争议的声音存在，在411医院进行“女变男”手术，必须对卵巢完全去除，这被担心会加剧衰老的速度。 但这是赵烨德一直坚持的手术前提之一，他告诉北青 ...",
+          "date": "2017年2月13日",
+          "position": 7
+        },
+        {
+          "title": "一直劝婴宁放弃变性 - 新浪新闻",
+          "link": "https://news.sina.cn/sa/2007-06-30/detail-ikftssap2910001.d.html",
+          "snippet": "变性手术既不是首选也不是唯一的治疗途径，有些患者并不是易性病，只是因为迫于成长环境、工作压力而产生了想变性的想法，特别是由于未成年人的心智尚未成熟， ...",
+          "date": "2007年6月30日",
+          "position": 8
+        },
+        {
+          "title": "后疫情时代MtF 在411 进行SRS 流程参考· Issue #789 - GitHub",
+          "link": "https://github.com/project-trans/MtF-wiki/issues/789",
+          "snippet": "关于“手术前需要停止HRT 一个月”，北医三院的刘烨医生称“未去势的只停雌不停抗雄即可”（基于血栓风险），411另一已去势数年的医学生病友反馈“针剂HRT者应停用 ...",
+          "date": "2023年4月21日",
+          "position": 9
+        },
+        {
+          "title": "411医院变性手术好吗(图)_呆狐整形 - 医生在线",
+          "link": "https://m.51daifu.com/mr/hs/r527800.shtml",
+          "snippet": "411医院变性手术好吗 · 1、阴茎和睾丸切除、尿道移位、人工阴道及外阴成形术：患者取膀胱截石位，全麻或硬膜外麻醉下进行手术。 · 2、隆乳，硅胶假体植入术：男— ...",
+          "date": "2017年3月22日",
+          "position": 10
+        },
+        {
+          "title": "跨性别人士的真实生态 - 新民周刊",
+          "link": "https://m.xinminweekly.com.cn/content/973.html",
+          "snippet": "而镜头背后，他们真实的内心世界，还是让人感到神秘异常。近日，《新民周刊》记者就变性人群这一话题，走进上海中国人民解放军第411医院的整形外科，与十几 ...",
+          "date": "2018年11月30日",
+          "position": 11
+        },
+        {
+          "title": "研究生变性后找不到工作落魄时夜总会陪酒 - 新浪新闻",
+          "link": "https://news.sina.cn/sa/2012-03-22/detail-ikmyaawa3747750.d.html",
+          "snippet": "解放军第411医院整形外科主任、主任医师、博士后赵烨德曾接待过近千名病人，他透露说，很多男变女变性人会找个老公嫁了，生存压力会小些。但女变男则相对比较 ...",
+          "date": "2012年3月22日",
+          "position": 12
+        },
+        {
+          "title": "性别的挣扎 - 中国青年报",
+          "link": "http://zqb.cyol.com/content/2002-07/24/content_497432.htm",
+          "snippet": "在上海411医院，何教授给我看了一些有关变性手术的材料，但每次看时他都要用手捏着，绝不交给我，他说这里有些牵扯到病人隐私，不能拿给你们。他的这 ...",
+          "date": "2002年7月24日",
+          "position": 13
+        },
+        {
+          "title": "变性人犯罪关押过程中相关权利特殊保护探究 - 法律资讯网",
+          "link": "http://www.dyzxw.org/html/article/201304/02/126115.shtml",
+          "snippet": "... 411医院，整形外科主任、主任医师赵烨德自述，光他个人从1992年“操刀”开始，就已在全国范围内做了700多例变性手术，其中上海有30多例。由此可见，变性 ...",
+          "date": "2013年4月2日",
+          "position": 14
+        },
+        {
+          "title": "汪欣蕾是变性人吗变性和人妖是两码事",
+          "link": "https://m.huanqiu.com/article/9CaKrnKf3FO",
+          "snippet": "汪欣蕾的手术是在上海411医院做的变性手术，主刀医生何教授。变性成功后，汪磊将自己名字改为汪欣蕾，希望有一个新的开始。 变性成功的汪欣蕾不再有那些烦恼 ...",
+          "date": "2018年11月20日",
+          "position": 15
+        },
+        {
+          "title": "上海411变性手术多少钱 - 抖音",
+          "link": "https://www.douyin.com/search/%E4%B8%8A%E6%B5%B7411%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF%E5%A4%9A%E5%B0%91%E9%92%B1",
+          "snippet": "您在查找上海411变性手术多少钱吗？抖音综合搜索帮你找到更多相关视频、图文、直播内容，支持在线观看。更有海量高清视频、相关直播、用户，满足您的在线 ...",
+          "date": "2024年10月16日",
+          "position": 16
+        },
+        {
+          "title": "RHEOBYK-411 - 流变助剂，溶剂型与无溶剂体系",
+          "link": "https://www.byk.com/zh/products/additive-guide/rheobyk-411",
+          "snippet": "液体流变助剂，用于溶剂型与无溶剂体系: RHEOBYK-411.",
+          "position": 17
+        },
+        {
+          "title": "胜利郑411区块超稠油单相渗流特征试验研究 - 石油钻探技术",
+          "link": "https://www.syzt.com.cn/cn/article/doi/10.3969/j.issn.1001-0890.2011.06.020?viewType=citedby-info",
+          "snippet": "... 临界温度时表现为达西渗流特征。 . 关键词: 超稠油流变性单相渗流启动压力梯度郑411区块. HTML全文. 参考文献 (1). [1]. 相关文章. 施引文献. 资源附件 (0). 智能预览 下载 ...",
+          "position": 18
+        },
+        {
+          "title": "凝溶胶蛋白型淀粉样变性 - 肾脏病与透析肾移植杂志",
+          "link": "http://www.njcndt.com/CN/10.3969/j.issn.1006-298X.2020.02.019",
+          "snippet": "摘要： 中年女性，病程7个月，临床表现为中等量蛋白尿和高血压，无低蛋白血症和肾功能损害，外院肾活检提示淀粉样变性 ... 肾脏病与透析肾移植杂志, 2018, 27(5): 407-411. [5] ...",
+          "position": 19
+        },
+        {
+          "title": "林珂| 信息| 西安电子科技大学个人主页",
+          "link": "https://web.xidian.edu.cn/klin/",
+          "snippet": "办公室：西大楼III区411房间 邮箱：klin@xidian.edu.cn 电话：18402902609 ... 这些疾病和蛋白质变性，蛋白质纤维化病变,. G-四联体结构等有直接关系。 b) 生物小 ...",
+          "position": 20
+        },
+        {
+          "title": "关于肝豆状核变性、普拉德—威利综合征和原发性生长激素缺乏症 ...",
+          "link": "https://www.nanchong.gov.cn/ylbzj/zfxx/zcjd/202005/t20200529_1653043.html",
+          "snippet": "近日，南充市医疗保障局印发了《关于肝豆状核变性、普拉德—威利综合征和原发性生长 ... 411. 政策解读. 新闻稿. 医药服务监管与经办指导科. 2020-05-29.",
+          "date": "2020年5月29日",
+          "position": 21
+        },
+        {
+          "title": "获得性肝脑变性1例报道 - 临床肝胆病杂志",
+          "link": "https://www.lcgdbzz.org/article/id/LCGD201203024",
+          "snippet": "Neurol Sci, 2011, 32 (3) :411-415. 相关文章. 施引文献. 资源附件 (0). 访问统计. 加载中. PDF下载 ( 1197 KB) XML下载 导出引用. Turn off MathJax. WeChat 本文二维 ...",
+          "position": 22
+        },
+        {
+          "title": "再生细骨料混凝土流变性及其对强度和耐久性的影响",
+          "link": "http://www.jzjgxb.com/CN/lexeme/showArticleByLexeme.do?articleID=6013",
+          "snippet": "2020, (S2): 411 -419 . DOI: 10.14006/j.jzjgxb.2020.S2.0047. 总访问量： 480016 今日访问： 616 在线人数： 4. 版权所有© 《建筑结构学报》 杂志社有限公司 地址 ...",
+          "position": 23
+        },
+        {
+          "title": "抗VEGF治疗湿性年龄相关性黄斑变性的回顾与展望",
+          "link": "https://xuebao.shsmu.edu.cn/CN/10.3969/j.issn.1674-8115.2021.04.019",
+          "snippet": "... 变性的相关性研究[J]. 上海交通大学学报（医学版）, 2016, 36(03): 411-. [9], 李晓钰，杜晶，杨仕平，等. 携抗HER2抗体和抗VEGFR2抗体聚乳酸羟基乙酸双靶向纳米高分子 ...",
+          "position": 24
+        },
+        {
+          "title": "年龄相关性黄斑变性玻璃膜疣的F-10共焦激光扫描检眼镜retro-mode ...",
+          "link": "http://gjyk.ijournals.cn/gjykcn/article/html/201709030?st=article_issue",
+          "snippet": "... ：探讨F-10共焦激光扫描检眼镜(cSLO)retro-mode成像在年龄相关性黄斑变性(AMD) ... Acta Ophthalmol 2011; 89(5):e404-411: 15 Song IS,Cho HY,Lee BR,et al. The ...",
+          "position": 25
+        },
+        {
+          "title": "CN101033204A - 用于流变性控制的缩二脲化合物- Google Patents",
+          "link": "https://patents.google.com/patent/CN101033204A/zh",
+          "snippet": "... 变性控制和赋予涂料体系触变性 ... BYK 411：来自BYK-Chemie的液体流变性添加剂。 Claims (11). 1.具有如下典型通式的 ...",
+          "position": 26
+        },
+        {
+          "title": "ICS报告：重工业部门预计将主导全球氢需求 - 氢能促进会",
+          "link": "https://cn-heipa.com/newsinfo/7507016.html",
+          "snippet": "报告强调，为了满足全球每年3000万吨的绿色氢需求，全球将需要411艘新 ... 本报告的主要内容之一是潜在需求的高度可变性。 工业将主导氢需求 ...",
+          "date": "2024年8月22日",
+          "position": 27
+        },
+        {
+          "title": "成人原位肝移植后肝动脉血栓的诊断与治疗 - 中华医学期刊网",
+          "link": "https://rs.yiigle.com/CN115610202110/1341102.htm",
+          "snippet": "收集2011年12月至2018年7月西安交通大学第一附属医院收治的411例行原位肝 ... 变性各1例。11例病人ABO血型相容，供肝冷缺血时间为（316±89）min ...",
+          "date": "2021年10月20日",
+          "position": 28
+        },
+        {
+          "title": "上海411变性手术双性人费用- 抖音",
+          "link": "https://www.douyin.com/search/%E4%B8%8A%E6%B5%B7411%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF%E5%8F%8C%E6%80%A7%E4%BA%BA%E8%B4%B9%E7%94%A8",
+          "snippet": "您在查找上海411变性手术双性人费用吗？抖音综合搜索帮你找到更多相关视频、图文、直播内容，支持在线观看。更有海量高清视频、相关直播、用户，满足您的在线观看 ...",
+          "position": 29
+        },
+        {
+          "title": "基于秘密共享和高阶谱的仿射不变性水印算法",
+          "link": "http://manu46.magtech.com.cn/Jweb_prai/CN/abstract/abstract10532.shtml",
+          "snippet": "Neural Networks, 2000, 13(4/5): 411 430 [8] Zhang Li, Wei Gang, Zhang Jihong. A New Adaptive Closed Loop Robust Blind Image Digital Watermarking in Wavelet ...",
+          "position": 30
+        },
+        {
+          "title": "全网中文高等量子力学田光善2752 - 北京大学",
+          "link": "https://resource.pku.edu.cn/index.php?r=course/detail&id=411",
+          "snippet": "主要介绍Klein-Gordon方程，Dirac方程和它的相对论协变性，Dirac粒子的自旋，自由电子的平面波解，以及反电子概念的引入。同时介绍电磁场中Dirac方程的非相对论近似 ...",
+          "position": 31
+        },
+        {
+          "title": "产品速递| 复宏汉霖贝伐珠单抗眼科适应症国际多中心III期临床研究于 ...",
+          "link": "https://www.henlius.com/NewsDetails-3533-26.html",
+          "snippet": "年龄相关性黄斑变性（AMD）是造成老年人视力损害和不可逆失明的主要原因 ... 2012 Jul;119(7):1399-411. [8] Kodjikian L, Souied EH, Mimoun G ...",
+          "date": "2022年4月8日",
+          "position": 32
+        },
+        {
+          "title": "肝豆状核变性的临床表现、诊断和自然病程- UpToDate",
+          "link": "https://www.uptodate.com/contents/zh-Hans/wilson-disease-clinical-manifestations-diagnosis-and-natural-history",
+          "snippet": "肝豆状核变性常导致肝脂肪变性，可能在接受脂肪性肝病评估的患者中得到 ... Clinics (Sao Paulo) 2011; 66:411. Gollan JL, Gollan TJ. Wilson ...",
+          "date": "2023年7月31日",
+          "position": 33
+        },
+        {
+          "title": "如下是第1-10 项(搜索用时0.037秒) - 中国社会科学网统一检索服务平台",
+          "link": "http://iea.cssn.cn/was5/web/search?page=411&channelid=243977&token=64.1524709962364.88&perpage=10&outlinepage=10",
+          "snippet": "研究发现，境内外人民币外汇市场的一体化联系具有较强的时变性，且境内外即期市场 ... 首页 上一页 407 408 409 410 411 412 413 414 415 416 下一页尾页. 跳转到 ...",
+          "position": 34
+        },
+        {
+          "title": "[PDF] 变性者、跨性别者、 和非性别常规者的健康照护准则 - AWS",
+          "link": "https://amo_hub_content.s3.amazonaws.com/Association140/files/Standards%20-%20Simplified%20Chinese%20FINAL.pdf",
+          "snippet": "34(4), 411–421. doi:10.1007/s10508–005–. 4341-x. McNeill, E. J. M. (2006). Management of the transgender voice. The Journal of. Laryngology & Otology, 120(07) ...",
+          "position": 35
+        },
+        {
+          "title": "高触变性高密度凝胶碳氢燃料的制备及性能 - 含能材料",
+          "link": "http://www.energetic-materials.org.cn/hncl/Article/html/CJEM2018206",
+          "snippet": "含能材料,2007,15(4): 411-415. ZOUJi‑jun, ZHANGXiang‑wen, WANGLi, et al. Progress on the synthesis and application of high‑density hydrocarbon fuels[J] ...",
+          "position": 36
+        },
+        {
+          "title": "变性棋坛高手天生像女孩能结婚却无法生育(图) - 中国新闻网",
+          "link": "https://www.chinanews.com.cn/ty/kong/news/2009/04-14/1644347.shtml",
+          "snippet": "4年下来，高宁林挣足了手术费用，并在上海411医院全国著名专家何教授的主刀下，顺利完成了变性手术。而高家父母也终于接受了自己的独子变成独女的现实。“当时 ...",
+          "date": "2009年4月14日",
+          "position": 37
+        },
+        {
+          "title": "年龄相关性黄斑变性患者人工晶状体的选择",
+          "link": "http://ebhyxbwk.njournal.sdu.edu.cn/fileup/1673-3770/HTML/2017-4-36.htm",
+          "snippet": "全球有约2.85亿人群视力障碍，0.39亿致盲人群中白内障患者占总盲人数的51%，年龄相关性黄斑变性 ... Am J Ophthalmol, 1988, 105(4): 408–411. DOI:10.1016/0002-9394(88)90307 ...",
+          "position": 38
+        },
+        {
+          "title": "肥东县中医医院多系统变性推荐专家",
+          "link": "https://www.jd.com/hospital/disease/16211839607_6573",
+          "snippet": "医院现有职工411人，其中卫生专业技术人员384人，中高级职称165人，硕士研究生12人。医院占地面积22000㎡，建筑面积28100㎡，开放床位400张，设有21个一二级临床科室和 ...",
+          "position": 39
+        },
+        {
+          "title": "半固态AZ91D镁合金的触变性 - 金属学报",
+          "link": "https://www.ams.org.cn/CN/Y2005/V41/I2/191",
+          "snippet": "半固态AZ91D镁合金的触变性[J]. 金属学报, 2005, 41(2): 191-195 . 摘要 ... 金属学报, 2022, 58(4): 400-411. [9], 罗旋, 韩芳, 黄天林, 吴桂林, 黄晓旭. 层状 ...",
+          "position": 40
+        },
+        {
+          "title": "孙世仁教授：2023年轻链型淀粉样变性诊疗进展 - QQ News",
+          "link": "https://news.qq.com/rain/a/20240210A046HG00",
+          "snippet": "由于心肌活检难度较大，寻求无创检查明确心肌淀粉样变性的存在也变的尤为重要。 ... British journal of haematology， 2023. 203(3): p. 411-415. [16] ...",
+          "date": "2024年2月10日",
+          "position": 41
+        },
+        {
+          "title": "[PDF] EMS诱发小麦京411突变群体构建及Wx⁃A1基因突变体鉴定",
+          "link": "https://www.hnxb.org.cn/EN/article/downloadArticleFile.do?attachType=PDF&id=12246",
+          "snippet": "PCR扩增程序：95℃预变性5 min；94℃变性30 s，69℃. 退火30 s ... 表2 EMS 诱变处理京411 的田间出苗率、苗高及损伤率. Table 2 Field emergence ...",
+          "position": 42
+        },
+        {
+          "title": "Loctite 汉高乐泰411 瞬干胶高粘度耐热性缝隙填充快干固定剥离强度 ...",
+          "link": "https://mobile-phone.taobao.com/detail/2d4a3b714ba26b8f3ba6ec0fb1e81450.html",
+          "snippet": "Loctite 汉高乐泰411 瞬干胶高粘度耐热性缝隙填充快干固定剥离强度高粘接金属 ... 变性内燃机碗型塞密封厌氧型. ￥575. Loctite 汉高乐泰9497 环氧结构胶粘剂灰色耐 ...",
+          "currency": "¥",
+          "price": 135,
+          "position": 43
+        },
+        {
+          "title": "脑实质间变性室管膜瘤的MRI表现 - 放射学实践杂志",
+          "link": "http://www.fsxsj.net/ch/reader/view_abstract.aspx?file_no=20121205",
+          "snippet": "... MRI对脑实质间变性室管膜瘤的诊断价值。方法:15例经手术病理证实的脑实质间变性 ... 医学影像学杂志,2015(3):411-413. [14], CT及MRI在幕上脑实质室管膜瘤中的诊断价值 ...",
+          "position": 44
+        },
+        {
+          "title": "金子兵教授入选2017年国家百千万人才工程 - 温州医科大学新闻中心",
+          "link": "https://news.wmu.edu.cn/show/2/21903.html",
+          "snippet": "金子兵教授长期从事遗传性眼病发病机制及其诊治研究，原创性地发现视网膜色素变性和近视的新致病基因，在国际上首次建立了视网膜色素变性患者IPS细胞 ...",
+          "date": "2017年11月3日",
+          "position": 45
+        },
+        {
+          "title": "登陆我国热带气旋变性加强与减弱的对比分析",
+          "link": "https://rdqxxb.itmm.org.cn/article/id/20130307",
+          "snippet": "引用本文: 李侃, 徐海明. 登陆我国热带气旋变性加强与减弱的对比分析[J]. 热带气象学报, 2013, 29(3): 411-420.",
+          "position": 46
+        },
+        {
+          "title": "再生细骨料混凝土流变性及其对强度和耐久性的影响 - 建筑结构学报",
+          "link": "http://www.jzjgxb.com/CN/10.14006/j.jzjgxb.2020.S2.0047",
+          "snippet": "... 变性能进行有效调控，当取代率高于50%时，减水剂对混凝土流变性 ... 建筑结构学报, 2020, 41(S2): 411-419. https://doi.org/10.14006/j ...",
+          "date": "2020年12月4日",
+          "position": 47
+        },
+        {
+          "title": "microRNA对细胞自噬调节 - 中国生物化学与分子生物学报",
+          "link": "http://cjbmb.bjmu.edu.cn/CN/Y2013/V29/I5/404",
+          "snippet": ": 404-411. 综述. microRNA对细胞自噬调节. 贺强1), 漆正堂2 ... 细胞自噬是细胞内高度保守的细胞自我消化和分解代谢过程，细胞内变性蛋白 ...",
+          "date": "2013年6月4日",
+          "position": 48
+        },
+        {
+          "title": "解放军第411医院- 名院展示- 中国好军医",
+          "link": "http://www.81.cn/zghjy/2011-07/14/content_5584637.htm",
+          "snippet": "解放军第411医院. 来源：上海411医院责任编辑：高晓莲2011-07-14 11 ... 变性手术、介入放射治疗、眼科的人工晶体置入和眼科激光治疗、激光治疗 ...",
+          "date": "2011年7月14日",
+          "position": 49
+        },
+        {
+          "title": "[PDF] 前交叉韧带黏液样变性的MRI表现和伴随征象",
+          "link": "https://www.med-sci.cn/cgzcx/article/cjmri-201402/1674-8034-14-02-007s.pdf",
+          "snippet": "2011, 19(3): 408-411. [3] Bergin D, Morrison WB, Carrino JA, et al. Anterior cruciate ligament ganglia and mucoid degeneration: coexistence and clinical ...",
+          "position": 50
+        },
+        {
+          "title": "[PDF] 网络测验中可靠性控制变量的完全因素不变性检验 - 教育科学学院",
+          "link": "https://edu.ahnu.edu.cn/__local/3/51/B0/90083A7114C725A530B59C96303_EA1DA94C_45FDD.pdf?e=.pdf",
+          "snippet": "关键词：完全因素不变性；测量不变性；结构不变性；主观健康量表. 中图分类号 ... Structural Equation Modeling A Multidisciplinary Journal，2004，11（1）． 411.",
+          "position": 51
+        },
+        {
+          "title": "[PDF] 利用变性高效液相色谱(dHPLC)进行小麦等位基因差异表达分析＊",
+          "link": "https://www.nsfc.gov.cn/csc/20345/22468/pdf/2008/%E5%88%A9%E7%94%A8%E5%8F%98%E6%80%A7%E9%AB%98%E6%95%88%E6%B6%B2%E7%9B%B8%E8%89%B2%E8%B0%B1(dHPLC)%E8%BF%9B%E8%A1%8C%E5%B0%8F%E9%BA%A6%E7%AD%89%E4%BD%8D%E5%9F%BA%E5%9B%A0%E5%B7%AE%E5%BC%82%E8%A1%A8%E8%BE%BE%E5%88%86%E6%9E%90.pdf",
+          "snippet": "变性高效液相色谱(dHPLC)技术, 对等位基因的表. 达水平进行分析.为了保证表达结果的可靠性, 首 ... Physiology , 2007, 145:411—425. 1263. 第18 卷第11 期2008 年11 月.",
+          "position": 52
+        },
+        {
+          "title": "基于加权局部复杂不变性的时间序列分类算法 - 系统仿真学报",
+          "link": "https://www.china-simulation.com/CN/10.16182/j.issn1004731x.joss.21-0456",
+          "snippet": "... 411-420. 21, Calegari G R, Carlino E, Peroni D, et al. Filtering and Windowing Mobile Traffic Time Series for Territorial Land Use Classification[J] ...",
+          "position": 53
+        },
+        {
+          "title": "[PDF] 芳香化酶基因中相连多态性位点的频率分布 - 中国CPH",
+          "link": "https://www.zgggws.com/cn/article/pdf/preview/15642.pdf",
+          "snippet": "中国女性$3( TTTA) n 重. 复片断数[ 10 的频率为451 45% , 高于高加索( 411 6% ) 和日本女性(301 8% ) 。 ... 变性2 min, 然后于94 e 变性. 1 min, 60 e 退火1 min, 70 e ...",
+          "position": 54
+        },
+        {
+          "title": "Region-Specific Double Denaturation of Human Serum Albumin",
+          "link": "https://www.x-mol.com/paper/800512",
+          "snippet": "在这项工作中，我们使用圆二色性（CD）光谱法研究了变性剂，盐酸胍 ... 411。-硝基苯基香豆素酯，用于此目的。CD光谱学研究揭示了蛋白质的整体 ...",
+          "date": "2018年8月31日",
+          "position": 55
+        },
+        {
+          "title": "长链非编码RNA-MALAT1对前列腺癌细胞增殖及凋亡的影响",
+          "link": "http://www.zlfzyj.com/cn/article/id/9391",
+          "snippet": "... 411-416. > DOI: 10.3971/j.issn.1000-8578.2019.18.1198. 宋鹏, 龙彤, 梁培育, 欧善际. 长链非编码RNA-MALAT1对前列腺癌细胞增殖及凋亡的影响[J]. 肿瘤防治研究, 2019 ...",
+          "position": 56
+        },
+        {
+          "title": "获得性肝脑变性1例报道 - 临床肝胆病杂志",
+          "link": "https://www.lcgdbzz.com/article/id/LCGD201203024",
+          "snippet": "获得性肝脑变性1例报道. 何芳慧 ,; 牛俊奇 ,; 高润平. 吉林大学第一医院肝胆胰 ... Neurol Sci, 2011, 32 (3) :411-415. 相关文章. 施引文献. 资源附件 (0). 访问统计.",
+          "position": 57
+        },
+        {
+          "title": "流平剂EDAPLAN® LA 411-颜钛云商",
+          "link": "https://m.yclmall.com/product/20161115.html",
+          "snippet": "EDAPLAN® LA 411 粉末涂料和水稀释性树脂体系用流平剂. 化性与物性：. 组成：特殊变性硅氧烷-乙二醇共聚物. 外观：液体. 颜色：无色或微黄色（25℃以下轻微混浊）. 一般性质.",
+          "position": 58
+        },
+        {
+          "title": "[PDF] 基因治疗视网膜色素变性的机遇与挑战 - SciEngine",
+          "link": "https://www.sciengine.com/doi/pdfView/078022EEC5F5400A8559B8CB83036729",
+          "snippet": "... 411正处于研发阶段. 采用类似的策略, ProQR Therapeutics开发了针对. CEP290 IVS26突变(c.2991+1655A>G)的反义寡核苷. 酸QR-110. Ⅰ/Ⅱ期临床研究显示, 12位患者中的10位.",
+          "position": 59
+        },
+        {
+          "title": "CN101033204B - 用于流变性控制的缩二脲化合物",
+          "link": "https://patents.google.com/patent/CN101033204B/zh",
+          "snippet": "... 变性控制和赋予涂料体系触变性 ... BYK 411：来自BYK-Chemie的液体流变性添加剂. Claims (26). 1.具有如下典型通式的缩 ...",
+          "position": 60
+        },
+        {
+          "title": "[PDF] (12) 发明专利申请",
+          "link": "https://patentimages.storage.googleapis.com/01/38/a8/31877c1a5cc846/CN103436533A.pdf",
+          "snippet": "... 变性7 min;94℃变性30 ... 4. 根据权利要求2所述的与小麦穗粒重主效基因位点QKws.cas-64 紧密连锁的分子标. 记的获取方法,其特征在于所述小麦品种京411 的DNA 是指对小麦品种 ...",
+          "position": 61
+        },
+        {
+          "title": "[A pathological report of three COVID-19 cases by minimal invasive ...",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/32172546/",
+          "snippet": "2020 May 8;49(5):411-417. doi: 10.3760/cma.j.cn112151-20200312-00193. ... 脾脏淋巴细胞减少，可见变性、坏死。其他器官组织病变包括不同程度的实质细胞变性、坏死、小血管内透明血栓形成，并见慢性基础疾病 ...",
+          "position": 62
+        },
+        {
+          "title": "[PDF] 模拟饮酒干预与肝脂肪变性：一项大型队列的纵向研究*",
+          "link": "https://ykxb.scu.edu.cn/cn/article/pdf/preview/10.12182/20240560503.pdf",
+          "snippet": "18: 411–438. doi: 10.1146/annurev-pathmechdis-031521-030435. [6]. ABDELMALEK M F. Nonalcoholic fatty liver disease: another leap forward. Nat Rev ...",
+          "position": 63
+        },
+        {
+          "title": "相关文章| 半求·房地内参为房地产服务！",
+          "link": "http://www.banq.cn/ShowAbout.aspx?Aid=24729&page=411",
+          "snippet": "自变性最强豪宅片区，财富人居的香蜜湖藏本. 2015-06-19 · 蛇口国际教育联盟将成立 ... 411 · 412 · 413 · 下一页 · 末页 · 设为首页 | 地图直达 | 招聘岗位 | 网站地图 | ...",
+          "position": 64
+        },
+        {
+          "title": "\"海上皇宫\"又是一座\"红楼\"?会所文化或致社会对立",
+          "link": "http://www.rp-china.org/redirect.php?tid=411&goto=lastpost",
+          "snippet": "视网膜色素变性论坛国内最大的视网膜色素变性公益论坛RP之家最近深圳“海上皇宫”事件在社会上闹得沸沸扬扬：为了供自己享乐，一个房地产企业老板在公共 ...",
+          "date": "2010年2月6日",
+          "position": 65
+        },
+        {
+          "title": "马斯克儿子变性后公开抨击父亲_手机网易网",
+          "link": "https://www.163.com/dy/article/J82J8I660546N0BW.html",
+          "snippet": "... 变性后公开抨击父亲“女儿”公开抨击父亲马斯克： ... 互联网思维 411跟贴. 他，扛起茅台，站在暴风雨中央！ 华商韬略 20跟贴 ...",
+          "date": "2024年7月27日",
+          "position": 66
+        },
+        {
+          "title": "[PDF] 年龄相关性黄斑变性的玻璃体黄斑牵引综合症的手术疗效倡",
+          "link": "https://journal.dmu.edu.cn/data/article/dlykdxxb/preview/pdf/20100219.pdf",
+          "snippet": "Am J Ophthalmol 2002，134（3）：411－431． ［7］ Donoso LA，Kim D，Frost A，et al．The role of inflammation in the ...",
+          "date": "2010年4月2日",
+          "position": 67
+        },
+        {
+          "title": "2019－2020年塞拉利昂弗里敦市旱季冈比亚按蚊复合体的分子鉴定和 ...",
+          "link": "http://www.jbjc.org/article/doi/10.3784/jbjc.202102200082",
+          "snippet": "... 411-416. > DOI: 10.3784/jbjc.202102200082. 赵宁, 赵嘉欣, 宋秀平, 王君 ... 反应条件：94 ℃预变性5 min；94 ℃变性30 s，50 ℃退火30 s，72 ℃延长30 s，共35个 ...",
+          "position": 68
+        },
+        {
+          "title": "联邦保守党投票反对对变性儿童进行手术和药物治疗 - 加拿大时讯",
+          "link": "https://h.ehouse411.com/news/15719.html",
+          "snippet": "保守党代表周六投票决定，作为未来的政府，应该禁止对性别多样化和跨性别儿童进行“药物或手术干预”。",
+          "date": "2023年9月10日",
+          "position": 69
+        },
+        {
+          "title": "抗血管内皮生长因子联合光动力疗法治疗黄斑变性的系统分析",
+          "link": "https://xuebao.shsmu.edu.cn/CN/10.3969/j.issn.1674-8115.2012.12.021",
+          "snippet": "目的探讨抗血管内皮生长因子(VEGF)联合光动力疗法(PDT)治疗黄斑变性的效果与安全性，并作系统评价。 ... 上海交通大学学报（医学版）, 2016, 36(03): 411-. [8], 王宁，姚敏，方勇 ...",
+          "position": 70
+        },
+        {
+          "title": "李根林 - 首都医科大学研究生院",
+          "link": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/sdykdxfsbjtryy/ykx3/c5b3f26215d34f77a50834ba8bd8b6ce.htm",
+          "snippet": "408－411.无. 46. 李程，刘月月，李根林＊.BDNF促进新生期视网膜神经细胞MAP－1B ... 快速退变性视网膜变性感光细胞超微结构变化分析.眼科新近展.2007.27（8）.568 ...",
+          "position": 71
+        },
+        {
+          "title": "上海411医院推荐专家",
+          "link": "https://z.xywy.com/yiyuanjibing-411nanke-gandouzhuanghebianxing.htm",
+          "snippet": "... 411医院 > 肝豆状核变性 > 推荐专家. 上海411医院 三级甲等 综合医院. 医院首页 · 科室列表 · 门诊时间表 · 推荐专家 · 咨询专家 · 专家文章. 82分. 上海411医院肝豆状核 ...",
+          "position": 72
+        },
+        {
+          "title": "徐格致 - 复旦大学脑科学研究院",
+          "link": "https://iobs.fudan.edu.cn/99/06/c17295a170246/page.htm",
+          "snippet": "... 变性中的作用研究 上海市优秀学科带头人计划（2009.7.1~2011.6.30）. 招生专业 眼 ... 411. Qin YW，Xu GZ*，Wang WJ (2006). Dendritic abnormalities in retinal ...",
+          "position": 73
+        },
+        {
+          "title": "上海长海医院(虹口院区) - 名医汇",
+          "link": "https://m.mingyihui.net/hospital_16436/ks2_70.html",
+          "snippet": "... 411医院)神经内科预约挂号入口， ... 擅长:擅长脑卒中的诊治、脑血管病的介入治疗（DSA）、神经系统变性疾病的诊治等。",
+          "position": 74
+        },
+        {
+          "title": "实验动物与比较医学",
+          "link": "https://www.slarc.org.cn/dwyx/",
+          "snippet": "... 变性和蛋白尿，真皮层出现淤血、血管壁变薄以及不同程度的角化不全和角化不良等 ... 411篇。从RSA动物模型构建方法及要素、RSA动物模型的造模过程及结果评定、RSA ...",
+          "position": 75
+        },
+        {
+          "title": "[PDF] 肝豆状核变性患者共情缺陷及其影响因素",
+          "link": "http://www.wilson-disease.org/Editor/eWebeditor/uploadfile/20150113152012670.pdf",
+          "snippet": "肝豆状核变性的诊断标准［1］：（ 1） 家族遗传史：父母. 系近亲婚配，同胞 ... 408-411． ［4］ 胡盼盼，陈先文，周珊珊，等． 帕金森病患者的社会认知功能损. 害 ...",
+          "position": 76
+        },
+        {
+          "title": "[PDF] 6 例皮质基底节变性综合征患者的临床及影像学分析",
+          "link": "http://www.hbyxzzs.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=3043",
+          "snippet": "Craniofac Surgꎬ2020ꎬ31(4):411－413. 【文章编号】 1006－6233(2022)07－1229－04. 6 例皮质基底节变性综合征患者的临床及影像学分析. 李婛. 1 ꎬ 于淼2 ꎬ 黄燕兰1 ꎬ ...",
+          "position": 77
+        },
+        {
+          "title": "复宏汉霖贝伐珠单抗新应用，眼科适应症获澳大利亚临床批准",
+          "link": "https://henlius.com/NewsDetails-2973-26.html",
+          "snippet": "AMD致盲患者中，以脉络膜新生血管（CNV）为特征的湿性年龄相关性黄斑变性（wAMD）比例高达90%。 ... 2012 Jul;119(7):1399-411. [8] Kodjikian L, Souied ...",
+          "date": "2021年1月29日",
+          "position": 78
+        },
+        {
+          "title": "双胞胎姐妹做变性手术变兄弟据称为全世界首例 - 新闻- 搜狐",
+          "link": "http://news.sohu.com/20120327/n339044726.shtml",
+          "snippet": "昨天，记者在解放军411医院见到了刚刚动完手术的哥哥姚文。据主治医生介绍，双胞胎双双变性，这在全世界也相当罕见。 本报记者范彦萍. 成长经历. 病房里，姚 ...",
+          "date": "2012年3月27日",
+          "position": 79
+        },
+        {
+          "title": "牙龈和舌组织活检在淀粉样变性病诊断中的应用和比较 - 协和医学杂志",
+          "link": "https://xhyxzz.pumch.cn/cn/article/Y2014/I4/441",
+          "snippet": "December将淀粉样变性分为局限性变性和系统性变性。局限性变性其病变仅 ... 2024(07): 411-414 . 百度学术. 其他类型引用(0). 资源附件 (0). 在线预览 下载(5.9 ...",
+          "position": 80
+        },
+        {
+          "title": "[PDF] 电刺激促进周围神经再生的研究进展∗",
+          "link": "https://lceh.whuhzzs.com/data/article/lceh/preview/pdf/lcebyhtjwkzz-38-5-411.pdf",
+          "snippet": "临床耳鼻咽喉头颈外科杂志,2024,38(5):. 411-415,420.DOI:10.13201/j.issn.2096 ... rian)变性、髓鞘崩解、轴突骨架变性[14],这通常发. 生于损伤后24~48h。损伤后期 ...",
+          "position": 81
+        },
+        {
+          "title": "多元总体最小二乘问题的牛顿解法 - 测绘学报",
+          "link": "http://xb.chinasmp.com/CN/10.11947/j.AGCS.2016.20150246",
+          "snippet": "测绘学报, 2016, 45(4): 411-417. WANG Leyang, ZHAO Yingwen, CHEN Xiaoyong ... 一种具有仿射不变性的倾斜影像快速匹配方法[J]. 测绘学报, 2015, 44(4): 414 ...",
+          "position": 82
+        },
+        {
+          "title": "眼底相机_仪器设备 - 复旦大学附属金山医院",
+          "link": "https://www.jinshanhos.org.cn/list/411/3229.html",
+          "snippet": "... 变性的诊断手段。 VISUCAM 500具有彩色、无赤光、红光（脉络膜成像）、蓝光（视网膜神经纤维层成像）、眼前节照相、眼底血光荧光造影（FFA）和黄斑 ...",
+          "date": "2014年3月4日",
+          "position": 83
+        },
+        {
+          "title": "亿胜生物集团 - Essex-Bio",
+          "link": "http://www.essexbio.com/info-detail/i-483.html?lang=cn",
+          "snippet": "年龄相关性黄斑变性（AMD）是导致老年人视力损害和不可逆失明的主要原因之一 ...",
+          "position": 84
+        },
+        {
+          "title": "圆形或卵圆形，较大，可见小核仁，胞浆丰富（H & E×400）",
+          "link": "http://www.cjco.cn/supplement/bb1650b2-fba0-4358-9bdf-354d777a0f86",
+          "snippet": "2023, 50(8): 411-417. DOI: 10.12354/j.issn.1000-8179.2023.20221050 ... 2008, 35(15): 845-847. 间变性大细胞淋巴瘤的形态学及免疫表型与诊断预后的相关 ...",
+          "position": 85
+        },
+        {
+          "title": "[PDF] 白云母、电气石、磷灰石对白钨矿浮选过程中矿浆流变性的影响",
+          "link": "http://www.imu.cgs.gov.cn/kcbhyly/202305/W020230506610163309304.pdf",
+          "snippet": "Engineering Aspects, 2012, 411: 24−26. ［3］. ZHOU Z, SCALES P J, BOGER D V. Chemical and physical control of the rheology of concentrated metal oxide ...",
+          "position": 86
+        },
+        {
+          "title": "亚马逊最新新闻- Page 240 of 411 - Jungle Scout中国官网",
+          "link": "https://www.junglescout.cn/blog/page/240/",
+          "snippet": "亚马逊算法和市场的复杂性及多变性决定了销量预估是一项技术含量非常高的 ... 411 →. 热门文章. 亚马逊官方各邮箱汇总！快快收藏 · @亚马逊日本站 ...",
+          "date": "2021年11月13日",
+          "position": 87
+        },
+        {
+          "title": "肾病免疫科 - 长沙市中心医院",
+          "link": "https://www.csszxyy.com/index/keshi/detail/id/411/type/news",
+          "snippet": "引起老年人视力下降的常见原因有老花、老年性白内障、青光眼、糖尿病性视网膜病变、年龄相关性黄斑变性、缺血性视神经病变以及各种原因引起的玻璃体积 ...",
+          "date": "2023年8月26日",
+          "position": 88
+        },
+        {
+          "title": "做了24年上千例变性手术医生的心与术：术前先好好聊一次(组图) - 搜狐",
+          "link": "https://www.sohu.com/a/126104887_260616",
+          "snippet": "当完成1000多例变性手术之后，赵烨德的手法精进，为了满足性别的 ... 411医院整形外科主任办公室探头进来个小伙子。病人们习惯以学位称呼赵烨 ...",
+          "date": "2017年2月13日",
+          "position": 89
+        },
+        {
+          "title": "2016西医综合考研章节习题强化(219) - 文都考研网",
+          "link": "https://kaoyan.wendu.com/2015/0821/91748.shtml",
+          "snippet": "... 变性的神经细胞内. D.淋巴细胞围绕小血管浸润. 411.淋巴细胞套是指. 412.噬神经细胞现象是指. 413.神经细胞卫星现象是指. 答案：. 411.D. 412.C. 413.A ① ...",
+          "date": "2019年12月11日",
+          "position": 90
+        },
+        {
+          "title": "事件空间中Birkhoff系统的Mei对称性与守恒量",
+          "link": "http://www.yndxxb.ynu.edu.cn/yndxxbzrkxb/cn/article/doi/10.7540/j.ynu.20150641",
+          "snippet": "文章导航 > 云南大学学报(自然科学版) > 2016 > 38(3) : 406-411. 张晔, 张毅 ... 变性,给出事件空间中Birkhoff系统Mei对称性的定义和确定方程;最后,得到由Mei ...",
+          "position": 91
+        },
+        {
+          "title": "20位楚王定都411年纪南故城设保护特区? - 凤凰网",
+          "link": "https://news.ifeng.com/history/3/wenhua/200810/1010_2667_825424.shtml",
+          "snippet": "荆州纪南故城有20位楚王曾在此定都411年，能否效法武当山特区模式 ... \"变性靓女\"大赛热辣秀性感 · 韩变性艺人张彩媛浴室自尽 · 陈水扁曾在天安门前 ...",
+          "date": "2008年10月10日",
+          "position": 92
+        },
+        {
+          "title": "焦点视界丨当妊娠遇到子宫肌瘤变性、附件扭转、子宫破裂 - 梅斯医学",
+          "link": "https://m.medsci.cn/article/show_article.do?id=7587e76490a1",
+          "snippet": "近年来，在妊娠急腹症的病因中，妊娠合并子宫肌瘤发病率逐渐增加，该病各种退行性变中以红色变性最常见。 ... 中国实用妇科与产科杂志, 2023, 39(4): 406-411.",
+          "date": "2023年6月13日",
+          "position": 93
+        },
+        {
+          "title": "新型冠状病毒肺炎（COVID-19）三例遗体多部位穿刺组织病理学研究",
+          "link": "https://rs.yiigle.com/CN112151202005/1194563.htm",
+          "snippet": "中华病理学杂志,2020, 49 (05): 411-417. 目的. 研究新型冠状病毒 ... 变性、坏死，散在炎性细胞浸润高倍放大；B：透射电镜显示部分心肌纤维 ...",
+          "date": "2020年5月8日",
+          "position": 94
+        },
+        {
+          "title": "[PDF] 用基因枪将除草剂Basta 抗性基因 - 华北农学报",
+          "link": "http://www.hbnxb.net/CN/article/downloadArticleFile.do?attachType=PDF&id=3817",
+          "snippet": "... 变性。在一小离心管中加. 入下列试剂: 1Lg 变性DNA;2Ll10x 六核苷酸随机引物 ... 1 号, 京411) 的叶片明显变黄( Basta, 20m g/ L ) , 试验的16 棵转基因植株表现为 ...",
+          "position": 95
+        },
+        {
+          "title": "姚献平- 高级会员- 中国化学会",
+          "link": "https://www.chemsoc.org.cn/member/senior/163222.html",
+          "snippet": "... 411； 8、郑丽萍、姚献平，纸用变性淀粉的新发展，《国际造纸》，1999。 代表性发明专利： 1、姚献平、杨仁党、张志礼、朱沙莎，一种适用于再生法制备植物纤维素石墨烯 ...",
+          "position": 96
+        },
+        {
+          "title": "Xueying Qin - 北京大学公共卫生学院",
+          "link": "https://sph.pku.edu.cn/info/1323/4053.htm",
+          "snippet": "高密度脂蛋白胆固醇与年龄相关性黄斑变性关联关系的孟德尔随机化研究. 北京大学学报（医学版）, 2012, 44(3): 407-411. 7.Hu Y, Huang Y, Ding J, Liu Y, Fan D, Li T ...",
+          "position": 97
+        },
+        {
+          "title": "「性別重置術前評估」的內涵與方式之探討",
+          "link": "https://www.airitilibrary.com/Publication/alDetailedMesh?DocID=16846478-201909-201909170012-201909170012-51-57",
+          "snippet": "變性慾症患者變性手術後的身心社會適應。高雄醫學大學，行為科學研究所碩士論文 ... 諮商與輔導，(411)，48-52+3。https://www.airitilibrary.com/Article/Detail ...",
+          "position": 98
+        },
+        {
+          "title": "视网膜色素变性治疗研究进展",
+          "link": "http://ies.ijo.cn/cn_publish/2018/9/201809011.pdf",
+          "snippet": "变性模型中发现,他莫昔芬可阻止光感受器细胞凋亡和. 萎缩的发生并 ... 2010;128(4):403-411. 34 Ma L,Lin XM. Effects of lutein and zeaxanthin ...",
+          "date": "2018年7月24日",
+          "position": 99
+        }
+      ],
+      "images": [
+        {
+          "title": "汪欣蕾是变性人吗变性和人妖是两码事",
+          "imageUrl": "https://himg2.huanqiucdn.cn/attachment2010/2018/1121/20181121012255927.jpeg",
+          "link": "https://m.huanqiu.com/article/9CaKrnKf3FO"
+        },
+        {
+          "title": "中泰双语| 泰八卦】泰国第三性别都短命？都是谣言？|今天唠唠新生代 ...",
+          "imageUrl": "https://i.ytimg.com/vi/KHlNBdZGRSw/maxresdefault.jpg",
+          "link": "https://m.youtube.com/watch?v=KHlNBdZGRSw"
+        },
+        {
+          "title": "做了24年上千例变性手术医生的心与术：术前先好好聊一次_绿政公署_澎湃 ...",
+          "imageUrl": "http://image.thepaper.cn/www/image/5/478/880.jpg",
+          "link": "https://m.thepaper.cn/wifiKey_detail.jsp?contid=1617301&from=wifiKey"
+        },
+        {
+          "title": "上海四一一医院- 维基百科，自由的百科全书",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/%E4%B8%8A%E6%B5%B7%E5%9B%9B%E4%B8%80%E4%B8%80%E5%8C%BB%E9%99%A2%EF%BC%8C202307.jpg",
+          "link": "https://zh.wikipedia.org/zh-cn/%E4%B8%8A%E6%B5%B7%E5%9B%9B%E4%B8%80%E4%B8%80%E5%8C%BB%E9%99%A2"
+        },
+        {
+          "title": "Loctite 汉高乐泰411 瞬干胶高粘度耐热性缝隙填充快干固定剥离强度高粘 ...",
+          "imageUrl": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i1/2212935204890/O1CN01s53OQr1lzfhEMSKe6_!!0-item_pic.jpg_360x360q90.jpg_.webp",
+          "link": "https://mobile-phone.taobao.com/detail/2d4a3b714ba26b8f3ba6ec0fb1e81450.html"
+        },
+        {
+          "title": "后疫情时代MtF 在411 进行SRS 流程参考· Issue #789 · project-trans ...",
+          "imageUrl": "https://opengraph.githubassets.com/f2ba4cfd2c5ea97872eebda3f631b85d91c5103304f7cb0f1c49143bdae9254d/project-trans/MtF-wiki/issues/789",
+          "link": "https://github.com/project-trans/MtF-wiki/issues/789"
+        },
+        {
+          "title": "广东铝酸酯偶联剂DL-411-B_pvc材料网手机版",
+          "imageUrl": "http://www.pvccl.com/file/upload/202104/20/172621774382.jpg",
+          "link": "http://www.pvccl.com/mobile/sell/show-19710.html"
+        },
+        {
+          "title": "做了24年上千例变性手术医生的心与术：术前先好好聊一次_绿政公署_澎湃 ...",
+          "imageUrl": "http://image.thepaper.cn/www/image/5/478/879.jpg",
+          "link": "https://m.thepaper.cn/wifiKey_detail.jsp?contid=1617301&from=wifiKey"
+        },
+        {
+          "title": "变性棋坛高手天生像女孩能结婚却无法生育(图)——中新网",
+          "imageUrl": "https://www.chinanews.com.cn/ty/kong/news/2009/04-14/U186P4T8D1644347F107DT20090414083819.jpg",
+          "link": "https://www.chinanews.com.cn/ty/kong/news/2009/04-14/1644347.shtml"
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "变性 411",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "双胞胎姐妹做变性手术变兄弟据称为全世界首例 - 新闻- 搜狐",
+          "link": "http://news.sohu.com/20120327/n339044726.shtml",
+          "snippet": "昨天，记者在解放军411医院见到了刚刚动完手术的哥哥姚文。据主治医生介绍，双胞胎双双变性，这在全世界也相当罕见。 本报记者范彦萍. 成长经历. 病房里，姚 ...",
+          "date": "2012年3月27日",
+          "position": 1
+        },
+        {
+          "title": "牙龈和舌组织活检在淀粉样变性病诊断中的应用和比较 - 协和医学杂志",
+          "link": "https://xhyxzz.pumch.cn/cn/article/Y2014/I4/441",
+          "snippet": "December将淀粉样变性分为局限性变性和系统性变性。局限性变性其病变仅 ... 2024(07): 411-414 . 百度学术. 其他类型引用(0). 资源附件 (0). 在线预览 下载(5.9 ...",
+          "position": 2
+        },
+        {
+          "title": "[PDF] 电刺激促进周围神经再生的研究进展∗",
+          "link": "https://lceh.whuhzzs.com/data/article/lceh/preview/pdf/lcebyhtjwkzz-38-5-411.pdf",
+          "snippet": "临床耳鼻咽喉头颈外科杂志,2024,38(5):. 411-415,420.DOI:10.13201/j.issn.2096 ... rian)变性、髓鞘崩解、轴突骨架变性[14],这通常发. 生于损伤后24~48h。损伤后期 ...",
+          "position": 3
+        },
+        {
+          "title": "多元总体最小二乘问题的牛顿解法 - 测绘学报",
+          "link": "http://xb.chinasmp.com/CN/10.11947/j.AGCS.2016.20150246",
+          "snippet": "测绘学报, 2016, 45(4): 411-417. WANG Leyang, ZHAO Yingwen, CHEN Xiaoyong ... 一种具有仿射不变性的倾斜影像快速匹配方法[J]. 测绘学报, 2015, 44(4): 414 ...",
+          "position": 4
+        },
+        {
+          "title": "眼底相机_仪器设备 - 复旦大学附属金山医院",
+          "link": "https://www.jinshanhos.org.cn/list/411/3229.html",
+          "snippet": "... 变性的诊断手段。 VISUCAM 500具有彩色、无赤光、红光（脉络膜成像）、蓝光（视网膜神经纤维层成像）、眼前节照相、眼底血光荧光造影（FFA）和黄斑 ...",
+          "date": "2014年3月4日",
+          "position": 5
+        },
+        {
+          "title": "亿胜生物集团 - Essex-Bio",
+          "link": "http://www.essexbio.com/info-detail/i-483.html?lang=cn",
+          "snippet": "年龄相关性黄斑变性（AMD）是导致老年人视力损害和不可逆失明的主要原因之一 ...",
+          "position": 6
+        },
+        {
+          "title": "圆形或卵圆形，较大，可见小核仁，胞浆丰富（H & E×400）",
+          "link": "http://www.cjco.cn/supplement/bb1650b2-fba0-4358-9bdf-354d777a0f86",
+          "snippet": "2023, 50(8): 411-417. DOI: 10.12354/j.issn.1000-8179.2023.20221050 ... 2008, 35(15): 845-847. 间变性大细胞淋巴瘤的形态学及免疫表型与诊断预后的相关 ...",
+          "position": 7
+        },
+        {
+          "title": "[PDF] 白云母、电气石、磷灰石对白钨矿浮选过程中矿浆流变性的影响",
+          "link": "http://www.imu.cgs.gov.cn/kcbhyly/202305/W020230506610163309304.pdf",
+          "snippet": "Engineering Aspects, 2012, 411: 24−26. ［3］. ZHOU Z, SCALES P J, BOGER D V. Chemical and physical control of the rheology of concentrated metal oxide ...",
+          "position": 8
+        },
+        {
+          "title": "亚马逊最新新闻- Page 240 of 411 - Jungle Scout中国官网",
+          "link": "https://www.junglescout.cn/blog/page/240/",
+          "snippet": "亚马逊算法和市场的复杂性及多变性决定了销量预估是一项技术含量非常高的 ... 411 →. 热门文章. 亚马逊官方各邮箱汇总！快快收藏 · @亚马逊日本站 ...",
+          "date": "2021年11月13日",
+          "position": 9
+        },
+        {
+          "title": "肾病免疫科 - 长沙市中心医院",
+          "link": "https://www.csszxyy.com/index/keshi/detail/id/411/type/news",
+          "snippet": "引起老年人视力下降的常见原因有老花、老年性白内障、青光眼、糖尿病性视网膜病变、年龄相关性黄斑变性、缺血性视神经病变以及各种原因引起的玻璃体积 ...",
+          "date": "2023年8月26日",
+          "position": 10
+        },
+        {
+          "title": "做了24年上千例变性手术医生的心与术：术前先好好聊一次(组图) - 搜狐",
+          "link": "https://www.sohu.com/a/126104887_260616",
+          "snippet": "当完成1000多例变性手术之后，赵烨德的手法精进，为了满足性别的 ... 411医院整形外科主任办公室探头进来个小伙子。病人们习惯以学位称呼赵烨 ...",
+          "date": "2017年2月13日",
+          "position": 11
+        },
+        {
+          "title": "2016西医综合考研章节习题强化(219) - 文都考研网",
+          "link": "https://kaoyan.wendu.com/2015/0821/91748.shtml",
+          "snippet": "... 变性的神经细胞内. D.淋巴细胞围绕小血管浸润. 411.淋巴细胞套是指. 412.噬神经细胞现象是指. 413.神经细胞卫星现象是指. 答案：. 411.D. 412.C. 413.A ① ...",
+          "date": "2019年12月11日",
+          "position": 12
+        },
+        {
+          "title": "事件空间中Birkhoff系统的Mei对称性与守恒量",
+          "link": "http://www.yndxxb.ynu.edu.cn/yndxxbzrkxb/cn/article/doi/10.7540/j.ynu.20150641",
+          "snippet": "文章导航 > 云南大学学报(自然科学版) > 2016 > 38(3) : 406-411. 张晔, 张毅 ... 变性,给出事件空间中Birkhoff系统Mei对称性的定义和确定方程;最后,得到由Mei ...",
+          "position": 13
+        },
+        {
+          "title": "20位楚王定都411年纪南故城设保护特区? - 凤凰网",
+          "link": "https://news.ifeng.com/history/3/wenhua/200810/1010_2667_825424.shtml",
+          "snippet": "荆州纪南故城有20位楚王曾在此定都411年，能否效法武当山特区模式 ... \"变性靓女\"大赛热辣秀性感 · 韩变性艺人张彩媛浴室自尽 · 陈水扁曾在天安门前 ...",
+          "date": "2008年10月10日",
+          "position": 14
+        },
+        {
+          "title": "焦点视界丨当妊娠遇到子宫肌瘤变性、附件扭转、子宫破裂 - 梅斯医学",
+          "link": "https://m.medsci.cn/article/show_article.do?id=7587e76490a1",
+          "snippet": "近年来，在妊娠急腹症的病因中，妊娠合并子宫肌瘤发病率逐渐增加，该病各种退行性变中以红色变性最常见。 ... 中国实用妇科与产科杂志, 2023, 39(4): 406-411.",
+          "date": "2023年6月13日",
+          "position": 15
+        },
+        {
+          "title": "[PDF] 用基因枪将除草剂Basta 抗性基因 - 华北农学报",
+          "link": "http://www.hbnxb.net/CN/article/downloadArticleFile.do?attachType=PDF&id=3817",
+          "snippet": "... 变性。在一小离心管中加. 入下列试剂: 1Lg 变性DNA;2Ll10x 六核苷酸随机引物 ... 1 号, 京411) 的叶片明显变黄( Basta, 20m g/ L ) , 试验的16 棵转基因植株表现为 ...",
+          "position": 16
+        },
+        {
+          "title": "姚献平- 高级会员- 中国化学会",
+          "link": "https://www.chemsoc.org.cn/member/senior/163222.html",
+          "snippet": "... 411； 8、郑丽萍、姚献平，纸用变性淀粉的新发展，《国际造纸》，1999。 代表性发明专利： 1、姚献平、杨仁党、张志礼、朱沙莎，一种适用于再生法制备植物纤维素石墨烯 ...",
+          "position": 17
+        },
+        {
+          "title": "Xueying Qin - 北京大学公共卫生学院",
+          "link": "https://sph.pku.edu.cn/info/1323/4053.htm",
+          "snippet": "高密度脂蛋白胆固醇与年龄相关性黄斑变性关联关系的孟德尔随机化研究. 北京大学学报（医学版）, 2012, 44(3): 407-411. 7.Hu Y, Huang Y, Ding J, Liu Y, Fan D, Li T ...",
+          "position": 18
+        },
+        {
+          "title": "「性別重置術前評估」的內涵與方式之探討",
+          "link": "https://www.airitilibrary.com/Publication/alDetailedMesh?DocID=16846478-201909-201909170012-201909170012-51-57",
+          "snippet": "變性慾症患者變性手術後的身心社會適應。高雄醫學大學，行為科學研究所碩士論文 ... 諮商與輔導，(411)，48-52+3。https://www.airitilibrary.com/Article/Detail ...",
+          "position": 19
+        },
+        {
+          "title": "视网膜色素变性治疗研究进展",
+          "link": "http://ies.ijo.cn/cn_publish/2018/9/201809011.pdf",
+          "snippet": "变性模型中发现,他莫昔芬可阻止光感受器细胞凋亡和. 萎缩的发生并 ... 2010;128(4):403-411. 34 Ma L,Lin XM. Effects of lutein and zeaxanthin ...",
+          "date": "2018年7月24日",
+          "position": 20
+        },
+        {
+          "title": "热处理过程中界面固相反应控制锰硅类氧化物变性的机理研究 - 金属学报",
+          "link": "https://www.ams.org.cn/CN/10.11900/0412.1961.2016.00120",
+          "snippet": "热处理过程中界面固相反应控制锰硅类氧化物变性的机理研究[J]. 金属学报, 2017 ... 金属学报, 2022, 58(4): 400-411. [11], 袁波, 郭明星, 韩少杰, 张济山, 庄林忠 ...",
+          "position": 21
+        },
+        {
+          "title": "411 調色用水性水泥漆（紅色） - 虹牌油漆",
+          "link": "https://www.rainbowpaint.com.tw/products/architecture-coatings/45af865e-68f2-4d11-9ded-574002fa9aa4/411",
+          "snippet": "... 變性塗料 1007(EP-01) 永保新紅丹底漆 1016(EP-11) 永保新無溶劑柏油漆 ... 411 調色用水性水泥漆（紅色）. 產品資訊. 型別, 由耐水、耐鹼性非常優異之水性壓克力 ...",
+          "position": 22
+        },
+        {
+          "title": "英力士411乙烯基树脂防腐蚀工程， - 产品库- 九正建材网手机版",
+          "link": "http://m.jc001.cn/goods/5674848.html",
+          "snippet": "乙烯基酯树脂是由双酚型或酚醛型环氧树脂与甲基丙烯酸反应得到的一类变性环氧树脂，通常被称为乙烯基酯树脂（VE）,别名环氧丙烯酸树脂，为热固性树脂。",
+          "date": "2022年5月20日",
+          "position": 23
+        },
+        {
+          "title": "2000年第22卷第3期 - 电子与信息学报",
+          "link": "https://jeit.ac.cn/article/2000/3",
+          "snippet": "... 变性的特点,而后,基于这稳定的时频特征,给出了目标识别方法。对三种飞机模型 ... 2000, 22(3): 411-415. [摘要](2299) [PDF 1214KB](493) [施引文献] (). 摘要: 在 ...",
+          "position": 24
+        },
+        {
+          "title": "2021年第38卷第4期 - 钻井液与完井液",
+          "link": "http://www.zjyywjy.com.cn/article/2021/4",
+          "snippet": "姜超, 李超, 刘雪婧, 杜娜, 侯万国. 2021, 38(4): 404-411. doi: 10.12358/j.issn ... 变性，提高劣质固相容量限，塑性黏度由... 明显森，陶怀志，陈俊斌，等. 高 ...",
+          "position": 25
+        },
+        {
+          "title": "一对孪生姐妹相约变性成为孪生兄弟 - 长江网",
+          "link": "http://news.cjn.cn/shxw/201203/t1724205.htm",
+          "snippet": "... 变性手术了。专家：双胞胎双双变性有资料可查的病例全世界仅一例“来之前我就听说，有对双胞胎要动变性手术了，原来是你啊？”应本报记者的要求，解放军411 ...",
+          "date": "2012年3月27日",
+          "position": 26
+        },
+        {
+          "title": "变装伪娘价格_报价_促销_图片_多少钱-苏宁易购手机版",
+          "link": "https://search.suning.com/18eq3s.html",
+          "snippet": "久爱(JIUAI)男用穿戴器具穿戴皮 ... 自营海尔(Haier)411升多门冰箱母婴三档变温黑金净化一级双变频超薄嵌入BCD ...",
+          "position": 27
+        },
+        {
+          "title": "Page 30 - 中国全科医学2022-04",
+          "link": "https://www.chinagp.net/ebook/qk202204/files/basic-html/page30.html",
+          "snippet": "... 411） 法学质量为“很好”。4 项［16-17，22，24］ 研究在进行量阅读文题和摘要初筛 ... 变性，但未具体图1 文献筛选流程说明除性别、年龄外其他特征变量的分布情况 ...",
+          "position": 28
+        },
+        {
+          "title": "新时代加强党外知识分子思想政治引导工作研究 - 统战部",
+          "link": "https://tzhb.sxnu.edu.cn/info/1004/1794.htm",
+          "snippet": "进入新时代，党外知识分子呈现出许多新变化和新特点，构成更加多样，分布的行业和领域更加宽泛，思想更加活跃，自主性、选择性、多变性和差异性明显增强。",
+          "date": "2020年1月6日",
+          "position": 29
+        },
+        {
+          "title": "雙語詞彙-農業部全球資訊網",
+          "link": "https://www.moa.gov.tw/theme_list.php?theme=dictionary&keyword=N&page=411",
+          "snippet": "卵巢之脂肪變性. Ovaries petrifaction, 卵巢石化. Over-wintering ground ... 411 · 412 ... 580 · 下一頁. 共11587筆，每頁顯示20筆. 回上一頁; : :::頁尾網站資訊. 點 ...",
+          "position": 30
+        },
+        {
+          "title": "Proteome-wide survey of phosphorylation patterns affected ... - X-MOL",
+          "link": "https://www.x-mol.com/paper/1212962355288023046?adv",
+          "snippet": "10.1186/1471-2164-11-411. Diego Mauricio Riaño-Pachón 1 , Sabrina ... 变性。阐明受nsSNP 影响的磷酸化位点对适应性反应的影响代表了未来令人兴奋的研究 ...",
+          "position": 31
+        },
+        {
+          "title": "[PDF] 长江中游通江湖泊洪泛湿地生态环境问题与研究展望*",
+          "link": "https://www.nsfc.gov.cn/csc/20345/20348/pdf/2022/202203-406-411.pdf",
+          "snippet": "态过程间的易变性及高度耦合性等特点,当前洪泛. 湿地水文水动力过程、水化学过程与 ... 411. [19] Geng MM,WangKL,YangN,etal.Spatiotemporalwater quality ...",
+          "position": 32
+        },
+        {
+          "title": "即使法官呈堂的案情也注明他是男性。... - China Press (中國報)",
+          "link": "https://www.facebook.com/ChinaPressMY/posts/%E8%A2%AB%E5%91%8A%E5%9C%A82017%E5%B9%B4%E5%88%9D%E5%8F%98%E6%80%A7%E8%BA%AB%E5%88%86%E8%AF%81%E7%9A%84%E6%80%A7%E5%88%AB%E6%98%AF%E7%94%B7%E6%80%A7%E5%8D%B3%E4%BD%BF%E6%B3%95%E5%AE%98%E5%91%88%E5%A0%82%E7%9A%84%E6%A1%88%E6%83%85%E4%B9%9F%E6%B3%A8%E6%98%8E%E4%BB%96%E6%98%AF%E7%94%B7%E6%80%A7httpwwwchinapresscommyp1508548%E7%9C%8B%E8%BF%87%E6%9D%A5whatsapp%E4%B8%AD%E5%9B%BD%E6%8A%A5/2159808620778238/",
+          "snippet": "... 变性，身分证的性别是男性， ... 马哥打补选｜对手办活动抽奖 国盟青报警促查 https://www.chinapress.com.my/?p=411...",
+          "date": "2019年2月14日",
+          "position": 33
+        },
+        {
+          "title": "羟氯喹联合外用糖皮质激素治疗儿童泛发型环状肉芽肿一例并文献复习",
+          "link": "http://www.zgmfskin.com/CN/10.12144/zgmfskin201907409",
+          "snippet": "组织病理检查：真皮内见上皮样肉芽肿，中央胶原纤维变性、坏死，肉芽肿周围组织 ... 中国麻风皮肤病杂志, 2019, 35(7): 409-411. ZHANG Hao, FU Xi'an, LIU ...",
+          "position": 34
+        },
+        {
+          "title": "上海411医院口腔科 - 牙科网",
+          "link": "https://www.yadashi.com/Hospital/aboutus.asp?id=976",
+          "snippet": "... 变性手术、介入放射治疗、眼科的人工晶体置入和眼科激光治疗、激光治疗前列腺增生症、肿瘤靶向治疗等多项先进技术。 解放军第四一一医院担负着体系部队数万名官兵的 ...",
+          "position": 35
+        },
+        {
+          "title": "整容社区_整形论坛- 美佳网",
+          "link": "https://www.236z.com/article/list-catid-246-page-10",
+          "snippet": "上海411医院变性手术价格表|咨询电话公开,411赵烨德SRS性别重置手术好但很难预约 医院变性手术价格表提供了不同 ...",
+          "position": 36
+        },
+        {
+          "title": "张俊芝 - 浙江工业大学教师个人主页",
+          "link": "https://homepage.zjut.edu.cn/zjz1/",
+          "snippet": "科研项目. 主持与参与的主要项目：. 【1】（在研）国家自然科学基金（52079124）“基于滨海环境下原位监测的混凝土侵蚀介质传输性能的时变性互评价及机理”；.",
+          "date": "2024年8月21日",
+          "position": 37
+        },
+        {
+          "title": "[PDF] 酒精性肝病的临床无创诊断研究现状 - 肝脏",
+          "link": "http://www.hepatoday.org/CN/article/downloadArticleFile.do?attachType=PDF&id=411",
+          "snippet": "ALD有一系列肝损伤表现，从单纯肝脂肪变性到脂肪性. 肝炎、进展性肝纤维化，再到肝硬化及其并发症。几乎所有大. 量饮酒者都会出现肝脂肪变，其中10％～20％最后发展成肝.",
+          "position": 38
+        },
+        {
+          "title": "醫療新知-色素異常性皮膚澱粉樣變性症之最新相關致病基因發現",
+          "link": "https://enews.tsgh.ndmctsgh.edu.tw/edm/content_detail.aspx?eid=411",
+          "snippet": "... 變性症是由於GPNMB蛋白缺失所導致的自體隱性遺傳疾病，本研究成果已於2018年2月1 ... 色素異常性皮膚澱粉樣變性症(Amyloidosis cutis dyschromica; ACD)是原發性皮膚澱粉樣 ...",
+          "position": 39
+        },
+        {
+          "title": "[PDF] 奥氮平治疗肝豆状核变性精神障碍近期临床疗效观察",
+          "link": "http://www.wilson-disease.org/Editor/eWebeditor/uploadfile/20150113144805796.pdf",
+          "snippet": "411. qd，根据病情需要适当增加剂量，最大剂量为15 mg qd，. 治疗剂量为（4．76＋＿2．72）mg／d，治疗期间不加用其他抗精. 神剂，少数病例町适量加 ...",
+          "position": 40
+        },
+        {
+          "title": "【人物故事】婚姻能否经受住性别转变的考验？这些夫妻 ... - 加拿大时讯",
+          "link": "https://h.ehouse411.com/news/18245.html",
+          "snippet": "“尽管他是变性人，但我感觉我也在经历自己的变性过程，”拉索夫-桑托斯说。“我猜，很难不给人留下自私的印象，因为我经历了所有这些情绪，而他也在经历 ...",
+          "date": "2024年6月20日",
+          "position": 41
+        },
+        {
+          "title": "2013年第29卷第3期 - 热带气象学报",
+          "link": "https://rdqxxb.itmm.org.cn/article/2013/3",
+          "snippet": "登陆我国热带气旋变性加强与减弱的对比分析. 李侃, 徐海明. 2013, 29(3): 411-420. [摘要](1507) [PDF 3873KB](1110) [施引文献] (2). 摘要: 利用日本气象厅1979—2008年的 ...",
+          "position": 42
+        },
+        {
+          "title": "铝酸酯偶联剂DL-411-B_产品 - 世界工厂网",
+          "link": "https://qiye.gongchang.com/fshbmy/sell/itemid-906239397.html",
+          "snippet": "... DL-411-B一、产品适用范围： ... 5、是防霉变性塑料制品的偶联剂。 6、偶联剂生产的填充母料、色母料 ...",
+          "date": "2021年11月2日",
+          "currency": "¥",
+          "price": 14,
+          "position": 43
+        },
+        {
+          "title": "BYK-405 410 E410 411 420 425_供应_中国领先B2B电子商务网站",
+          "link": "https://intl.tulaoge.com/wap/index.php?moduleid=5&itemid=105945",
+          "snippet": "... 变性，并可增进含气相二氧化硅涂料的光泽、透明度和防潮性。若后添加BYK-405, 触变性树脂体系也能表现出更好的触变性。 化学组成: 聚羟基羧酸酰胺溶液 ...",
+          "date": "2018年3月2日",
+          "position": 44
+        },
+        {
+          "title": "PLGF 靶点蛋白|抗体药物 - 百普赛斯",
+          "link": "https://www.acrobiosystems.cn/letterlist-429.html",
+          "snippet": "糖尿病并发症, 变性近视, 糖尿病视网膜病变, 黄斑水肿, 视网膜静脉阻塞, Viatris Ltd ... SCD-411, 临床三期, 参天堂制药株式会社, 湿性黄斑变性, 年龄相关性黄斑变性, 详情.",
+          "position": 45
+        },
+        {
+          "title": "变性手术泛滥成灾中国变性首倡者呼吁刹车| 大纪元",
+          "link": "https://www.epochtimes.com/gb/1/2/20/n49136.htm",
+          "snippet": "上海海军411医院整形外科赵烨德博士在接受采访时说，这些事实表明，我国的变性手术确实到了非整治不可的地步。几位正在这家医院等着接受变性手术的病人闻讯 ...",
+          "date": "2001年2月20日",
+          "position": 46
+        },
+        {
+          "title": "焦点视界丨当妊娠遇到子宫肌瘤变性、附件扭转 - 梅斯医学",
+          "link": "https://www.medsci.cn/article/show_article.do?id=7587e76490a1",
+          "snippet": "近年来，在妊娠急腹症的病因中，妊娠合并子宫肌瘤发病率逐渐增加，该病各种退行性变中以红色变性最常见。 ... 中国实用妇科与产科杂志, 2023, 39(4): 406-411.",
+          "date": "2023年6月13日",
+          "position": 47
+        },
+        {
+          "title": "上海411医院神经内科按疾病推荐专家",
+          "link": "https://z.xywy.com/yiyuankeshituijian-411nanke-shenjingneike.htm",
+          "snippet": "根据患者投票得出的上海411医院神经内科专家排行榜，汇总了患者上海411医院神经内科的投票。 ... 脊髓小脑变性症(2人): · 单林彪 · 汪艳 · 更多>> · 神经皮肤综合征(2人):.",
+          "position": 48
+        },
+        {
+          "title": "乳腺浸润性导管癌P120胞膜阳性(S-P法×100) - 中国肿瘤临床",
+          "link": "http://www.cjco.cn/cn/supplement/559fb28d-b263-420a-8e9c-5c9321a79a69",
+          "snippet": "2023, 50(8): 411-417. DOI: 10.12354/j.issn.1000-8179.2023.20221050 ... 2008, 35(15): 845-847. 间变性大细胞淋巴瘤的形态学及免疫表型与诊断预后的相关 ...",
+          "position": 49
+        },
+        {
+          "title": "广东铝酸酯偶联剂DL-411 - 跨国采购网",
+          "link": "https://www.globalimporter.net/cdetail_8496_8242827.html",
+          "snippet": "同时具有良好的水解稳定性。 5、是防霉变性塑料制品的偶联剂。 6、偶联剂生产的填充母料、色母料、 ...",
+          "currency": "¥",
+          "price": 11.5,
+          "position": 50
+        },
+        {
+          "title": "全部短评- 图书:纠正上帝的错误 - 豆瓣",
+          "link": "https://m.douban.com/book/subject/1426716/comments",
+          "snippet": "2023-02-20 07:27:36. 在411看完了这本书（. 1. 非虛構. 2023-05-04 12 ... momo. 2024-08-23 07:48:18 …奇了怪了，明明就是整形手术+阉割手术罢了，怎么能说是变性 ...",
+          "position": 51
+        },
+        {
+          "title": "反白貓on X: \"朋友问我：按照小说里描述，唐僧长得极美",
+          "link": "https://x.com/B_cat38324/status/1810981354814984649",
+          "snippet": "朋友问我：按照小说里描述，唐僧长得极美，如果他在现代会不会做变性手术。 我：不知道，但如果他做手术，赵博五百年之后还在411 做手术。",
+          "date": "2024年7月10日",
+          "position": 52
+        },
+        {
+          "title": "Medline ® Abstract for Reference 61 of '肝豆状核变性的临床表现 ...",
+          "link": "https://www.uptodate.com/contents/zh-Hans/wilson-disease-clinical-manifestations-diagnosis-and-natural-history/abstract/61",
+          "snippet": "2011;66(3):411. BACKGROUND Long-term data on the clinical follow-up and the treatment effectiveness of Wilson's disease are limited because of the low ...",
+          "position": 53
+        },
+        {
+          "title": "UC-II 关节健康，含未变性II 型胶原蛋白，60 粒胶囊 - iHerb",
+          "link": "https://cn.iherb.com/pr/now-foods-uc-ii-joint-health-with-undenatured-type-ii-collagen-60-veg-capsules/16572",
+          "snippet": "... 变性（天然）II 型胶原蛋白，与机体抵抗系统一起工作， ... 排名#411 在 骨骼、关节与软骨. 效期. 2027 年08 月01 日. 2027 年03 月01 日. 2026 ...",
+          "rating": 4.8,
+          "ratingCount": 14931,
+          "currency": "¥",
+          "price": 186,
+          "position": 54
+        },
+        {
+          "title": "我不是药神的故事，每天都在药娘圈里上演",
+          "link": "https://user.guancha.cn/wap/content?id=351481",
+          "snippet": "拿着这份证明，跨性别者才可以畅通无阻的开药，进行HRT或变性手术。 在这 ... 早年有人通过伪造证明最后完成了手术，但最后家属却闹到了411医院。",
+          "date": "2020年7月21日",
+          "position": 55
+        },
+        {
+          "title": "苯乙烯和苯乙烯磺酸钠的共聚反应式 - 功能高分子学报",
+          "link": "https://gngfzxb.ecust.edu.cn/supplement/33b66a35-23b5-4635-be02-78d7a0ee00ae",
+          "snippet": "2001, 14(1): 105-108. EVA／PP共混体流变性研究. 1994, 7(4): 411-415. PBT／PC共混体系流变性能与形态结构研究. 1994, 7(3): 260-264. 生物可降解聚酯熔体的流变性质.",
+          "position": 56
+        },
+        {
+          "title": "[PDF] 蛇毒蛋白原核表达包涵体复性研究进展",
+          "link": "https://manu60.magtech.com.cn/biotech/CN/article/downloadArticleFile.do?attachType=PDF&id=3677",
+          "snippet": "低蛋白质变性溶解液中变性剂的浓度来消除变性剂对. 蛋白质的影响，同时使蛋白质 ... 生物技术通报，2007，. 18（3）：409 411. HuangJL，LiZF，DaiH m，etal.BiotechnologyBulletin，.",
+          "position": 57
+        },
+        {
+          "title": "男变女变性手术要多少钱？要多久可以完全康复？ - 喜马拉雅",
+          "link": "https://m.ximalaya.com/ask/q1565066",
+          "snippet": "国内1-5W 泰国5-10W。。。国内去411。。不过国内要一大堆证明，这个需要1-3年时间才能完成。康复时间大概要半年。。 相关问答. 康复技术和康复治疗技术 ...",
+          "date": "2022年7月14日",
+          "position": 58
+        },
+        {
+          "title": "Untitled - Googleapis.com",
+          "link": "https://patentimages.storage.googleapis.com/10/8a/b9/e892b136d3aa7a/CN1556218A.pdf",
+          "snippet": "变性1分钟、35℃退火1分钟、72℃延伸2分钟、4个循环,94 ... 靠性,我们对Brock京411的F2分离群体抗感个体进行了分析。 ... 变性3min,64℃退火2min,72℃延伸2min,30个循环 ...",
+          "position": 59
+        },
+        {
+          "title": "CSDN博客-专业IT技术发表平台",
+          "link": "https://blog.csdn.net/",
+          "snippet": "... 】: 691阅读· 0评论. 大新新大浩浩 · 物理服务器-内存损坏导致的操作系统启动异常问题的处理: 411阅读· 0评论. 御风_21 · Linux——Ubuntu环境C编程: 882阅读· 3评论. 订阅.",
+          "position": 60
+        },
+        {
+          "title": "变性手术到底要多少钱？普通人到底能不能做的起？ - 哔哩哔哩 - Bilibili",
+          "link": "http://www.bilibili.com/read/cv36279319/",
+          "snippet": "以下均以上海411医院为例。(中国融通上海四一一医院原海军军医大学附属长海医院虹口院区 原中国人民解放军第411 医院 ). 先说跨性别女性皮瓣法的费用 ...",
+          "date": "2024年7月23日",
+          "position": 61
+        },
+        {
+          "title": "广东铝酸酯偶联剂DL-411-B_产品 - 世界工厂网",
+          "link": "https://mobile.gongchang.com/5-0-906239392-1.html",
+          "snippet": "... DL-411-B一、产品适用范围： ... 5、是防霉变性塑料制品的偶联剂。 6、偶联剂生产的填充母料、色母料 ...",
+          "date": "2021年11月2日",
+          "currency": "¥",
+          "price": 14,
+          "position": 62
+        },
+        {
+          "title": "无机粉体表面活性剂DL-411 - 供应- 中猪商务网手机版",
+          "link": "https://shengtenghg.com/custom/b4a240a8/tarjs/sell/x1294452.html",
+          "snippet": "... DL-411】铝酸酯偶联剂一、产品适用范围： ... 5、是防霉变性塑料制品的偶联剂。 6、偶联剂生产的填充母料、色母料 ...",
+          "date": "2020年6月12日",
+          "currency": "¥",
+          "price": 12,
+          "position": 63
+        },
+        {
+          "title": "社会报道：霍山县变性人程琳的幸福人生 - 新闻- 搜狐",
+          "link": "http://news.sohu.com/20060803/n244608755.shtml",
+          "snippet": "后来他去了上海海军411医院，因为他听说那里变性手术最权威，有后来他称“何爸”的何清廉医生，但是医生告诉他说从来没有见过农村来的收入不高的人要求做变性 ...",
+          "date": "2006年8月3日",
+          "position": 64
+        },
+        {
+          "title": "一把特殊手术刀上的心与术(组图) - 搜狐",
+          "link": "https://www.sohu.com/a/126786146_160800",
+          "snippet": "器官重建是整形外科的本源之一，但赵烨德像个孩子一样，被凭空要求“建起一栋房子”，却无从下手。 当完成1000多例变性手术之后，赵烨德的手法精进，为了满足性别 ...",
+          "date": "2017年2月21日",
+          "position": 65
+        },
+        {
+          "title": "广东铝酸酯偶联剂DL-411-B",
+          "link": "https://m.globalimporter.net/cdetail_8518_8421006.html",
+          "snippet": "王洪河电话： 0757-29813681. 铝酸酯偶联剂DL-411-B 一、产品适用范围： 适用于 ... 5、是防霉变性塑料制品的偶联剂。 6、偶联剂生产的填充母料、色母料、透明母料 ...",
+          "currency": "¥",
+          "price": 14.5,
+          "position": 66
+        },
+        {
+          "title": "泰国变性手术免费:411***068也可线上直接-整形资讯 - 灵伊网",
+          "link": "https://m.01zxmr.com/zixun/7362.html",
+          "snippet": "想了解泰国变性手术的相关信息？立即拨打泰国变性手术免费411***068，或，为您提供正规的服务。",
+          "date": "2024年1月15日",
+          "position": 67
+        },
+        {
+          "title": "变性手术（SRS）",
+          "link": "https://www.bangkokplasticsurgery.com/?page_id=865&lang=zh-hans",
+          "snippet": "变性手术是一种经过外科手术的方法来改变外观上的性别特征。它包括两种手术类型。 一种是生殖外科性再分配类型：该类型手术主要对生殖器官/或乳房的形态 ...",
+          "position": 68
+        },
+        {
+          "title": "毕克byk410流变助剂-增加触变性/抗流挂/防沉降 - 上海卜丁化工",
+          "link": "https://www.boochem.com/liubianji/byk410.html",
+          "snippet": "BYK-411 适用于非极性体系，BYK-420 适用于高极性和水性体系。 PVC 塑料溶胶加入方法可以后加入到PVC 塑料溶胶，边搅拌边缓慢加入。根据配方不同，最高4小时后可以开始 ...",
+          "position": 69
+        },
+        {
+          "title": "\"我发现了很多帖子都是泰国啊, 或者是411医院有关#变性手术#SRS ...",
+          "link": "https://x.com/aliciahan007/status/1711865367222444093",
+          "snippet": "不需要使用任何抗菌药物。 • 完全愈合的时间因人而异，通常需要6周到6个月甚至更长时间。不需要取出缝线，它们会自行吸收。 • 在某些罕见的情况下，手术后几 ...",
+          "date": "2023年10月10日",
+          "position": 70
+        },
+        {
+          "title": "【411】bright给我糊，呕呕，真的恶心，rh不能忍，国家面前无偶像！",
+          "link": "https://www.bilibili.com/video/BV1qz411b7bU/",
+          "snippet": "... 变性女演员亲过之后，有好几个星期都迷失了……， ... 【411】犯我中华者，虽远必诛！这是一段超级超级爽的视频，，探访 ...",
+          "date": "2020年4月13日",
+          "position": 71
+        },
+        {
+          "title": "自金星后又一变性明星，手术后疼到满地爬，长相清纯神似杨颖！",
+          "link": "https://www.youtube.com/watch?v=OI_G0s2ckbY",
+          "snippet": "This content isn't available. 自金星后又一变性明星，手术后疼到满地爬，长相清纯神似杨颖！ 411 views · 5 years ago ...more ...",
+          "date": "2019年6月23日",
+          "position": 72
+        },
+        {
+          "title": "其他语言的维基百科典范条目/希伯來語版",
+          "link": "https://zh.wikipedia.org/wiki/Wikipedia:%E5%85%B6%E4%BB%96%E8%AF%AD%E8%A8%80%E7%9A%84%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E5%85%B8%E8%8C%83%E6%9D%A1%E7%9B%AE/%E5%B8%8C%E4%BC%AF%E4%BE%86%E8%AA%9E%E7%89%88",
+          "snippet": "✓ 視網膜色素變性, 36. 358, IWW, 工會、国际组织, ✓ 世界产业工人联盟, 35. 359 ... 411, פיליבסטר, 議事程序、杯葛主義, ✓ 冗長辯論, 28. 412, חלוקה מנהלית של האימפריה ...",
+          "position": 73
+        },
+        {
+          "title": "比變性還要痛！體驗生小孩｜ft. Kiwebaby - YouTube",
+          "link": "https://www.youtube.com/watch?v=vdI-rxTCKhQ",
+          "snippet": "Comments411 · 我有女兒了 當媽媽一日帶小孩｜小A辣 · 分娩體驗！ · 【TNT时代少年团宋亚轩】分娩阵痛体验vlog！ · KID、禾浩辰體驗分娩「痛到狂飆髒話」 熊熊跪 ...",
+          "date": "2021年5月20日",
+          "position": 74
+        },
+        {
+          "title": "上海411医院整形外科怎么样？来看详细的医院介绍 ... - 整形之家社区",
+          "link": "https://ask.zhengxingzhijia.com/paiming/202210205007/",
+          "snippet": "上海411医院整形外科怎么样？来看详细的医院介绍！(上海411整形外科变性手术) ... 一个医院的技术好坏也直接决定和影响了术后的果是否成功和理想，不管是日常的 ...",
+          "date": "2022年10月27日",
+          "position": 75
+        },
+        {
+          "title": "虹牌油漆: 首頁",
+          "link": "https://www.rainbowpaint.com.tw/",
+          "snippet": "411 調色用水性水泥漆（紅色） · 410-1 水性水泥底漆 · YWT-501 水性木器二液型平光面 ... T-200V 永特龍透明漆(矽變性壓克力樹脂漆) · 101 深色調合漆 · 5302F 永氟龍 ...",
+          "position": 76
+        },
+        {
+          "title": "我必须立刻押注Rust 之七  ：Option、Result 强大且优雅的流控制",
+          "link": "https://juejin.cn/post/7433323685023137826",
+          "snippet": "... 变性在TypeScript 中，变量默认是可变的（用let 定义），而常量使用 ... 411. 面试 前端. 友情链接：. 我想当咸鱼可实力不允许 · 万劫殿 · 灵气复苏：我 ...",
+          "date": "1天前",
+          "position": 77
+        },
+        {
+          "title": "最新文章| 聯合新聞網",
+          "link": "https://udn.com/rank/newest/1/411",
+          "snippet": "變性舞蹈家金星蘇州演出被取消疑與彩虹旗有關. 中國大陸知名變性主持人、舞蹈家金星，原定12月在蘇州的舞蹈演出被取消。這已是連續在第3個城市被叫停演出，外界認為與她 ...",
+          "position": 78
+        },
+        {
+          "title": "411、男人都是善变的_木叶：我体内有个卡卡罗特 - 笔趣阁",
+          "link": "http://www.lwxs.vip/xiaoshuo/145989/105424.html",
+          "snippet": "411、男人都是善变的(第1/7页) 灵魂契约，契合灵魂，只要自己不解除，哪怕对方手段通天，都无法化解。 就好像不死帝君小黄鸡，之前只是神王，他是帝君，同样没办法解决这种 ...",
+          "position": 79
+        },
+        {
+          "title": "第803章赤子之心稚始稚终最新章节 - 奇妙小说网",
+          "link": "https://miao.qimao.com/shuku/1733586-17308192210803/",
+          "snippet": "第411章奇才 · 第412章大喜事 · 第413章坏的预感 · 第414章熟悉的背影 · 第415章跟风的下场 · 第416章奇妙的缘分 · 第417章拒绝道歉 · 第418章麻烦来临 ...",
+          "date": "6小时前",
+          "position": 80
+        },
+        {
+          "title": "《穿越荒年：我成极品恶媳妇》最新章节",
+          "link": "https://www.daweixs.com/570_570142/",
+          "snippet": "第411章唐奇文落水 · 第412章不见万柒柒踪迹 · 第413章意外之人 · 第414章不 ... 第462章陈老太太变性 · 第463章万柒柒带苗回来 · 第464章来帮忙的人 · 第 ...",
+          "date": "2小时前",
+          "position": 81
+        },
+        {
+          "title": "变性人与歧视：“在非洲，他们不承认我的性别身份” - BBC News 中文",
+          "link": "https://www.bbc.com/zhongwen/simp/world-54661363",
+          "snippet": "她们都因为自己的性别身份认同，多年受其他人歧视，最后被迫到外国寻求庇护，但心里仍然惦记着家乡。",
+          "date": "2020年10月26日",
+          "position": 82
+        },
+        {
+          "title": "波浪理论台湾 - TikTok",
+          "link": "https://www.tiktok.com/discover/%E6%B3%A2%E6%B5%AA%E7%90%86%E8%AE%BA-%E5%8F%B0%E6%B9%BE",
+          "snippet": "是最大的祝福. 208 個讚，411 則評論。來自京兆都督(@muyangquandebaba) ... 台湾变性人 · 台湾. 1891獲讚數. 1957評論. 330分享. 312 個讚，107 則評論 ...",
+          "date": "2024年10月28日",
+          "position": 83
+        },
+        {
+          "title": "《开天辟地见苍凉》最新章节 - 笔趣阁",
+          "link": "https://www.daweixs.com/126_126754/",
+          "snippet": "第411章卷二31 犹豫就会败北 · 第412章卷二32 熬过来的 · 第413章卷二33 连 ... 第436章卷二56 这角色还可以变性 · 第437章卷二57 明美若月必死无疑 · 第 ...",
+          "date": "1天前",
+          "position": 84
+        },
+        {
+          "title": "時事台- 香港高登討論區",
+          "link": "https://forumd.hkgolden.com/topics.aspx?type=CA",
+          "snippet": "德國「性別自決」法案生效一年可「變性」一次 · 阿魯卡(休息), 6/11/2024 0:12 ... 411, 412, 413, 414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 424, 425, 426, 427 ...",
+          "position": 85
+        },
+        {
+          "title": "不限內容題材的吹水台論盡天下事| 自由講場 - 親子王國",
+          "link": "https://www.baby-kingdom.com/forum.php?mod=forumdisplay&fid=162&page=2",
+          "snippet": "... 411, 412, 413, 414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 424, 425, 426, 427, 428, 429 ... 德國「性別自決」法案生效一年可「變性」一次 heatlevel ...23 ...",
+          "position": 86
+        },
+        {
+          "title": "海贼：开局绑定签到加点系统 - 笔趣阁",
+          "link": "https://www.dafengdagengren.com/641_641151/",
+          "snippet": "第313章贝加庞克变性了? 第314章贝加庞克本体 · 第315章贝加庞克的 ... 第411章黑胡子，猝! 第412章法则之力!海贼世界还是玄幻世界? 第413章神秘 ...",
+          "date": "2天前",
+          "position": 87
+        },
+        {
+          "title": "嫦娥规则怪谈，千万不要看月亮 - YouTube",
+          "link": "https://www.youtube.com/watch?v=mWmtrf1SbGs",
+          "snippet": "... 变性狂魔丨 夜幕下的恐怖新篇 胆小者慎入 . 詭語怪談丶民間靈異故事 ... 龍貓小説屋 New 411 views · 1:12:14 · Go to channel. 老公 ...",
+          "date": "2024年10月23日",
+          "position": 88
+        },
+        {
+          "title": "变性手术 - 好大夫在线",
+          "link": "https://www.haodf.com/citiao/zhiliao-bianxingshoushu.html",
+          "snippet": "变性手术，是一系列的整形外科手术的统称。需要多次手术才能最终完成变性。可以细分为男变女手术和女变男手术两种。好大夫在线为您精选了22篇医生发布的关于变性手术的 ...",
+          "position": 89
+        },
+        {
+          "title": "超级小姐《变性人》路易- 番号本",
+          "link": "https://fh.tor01.com/zh-cn/videos/gun-411/",
+          "snippet": "系列：超嬢≪ニューハーフ≫; 女优：; 编号：GUN-411; 制作公司：レイディックス; 商标：抜群; 时长：97分; 发行：9月25, 2008; 人气：. gun-411剧照预览 ...",
+          "position": 90
+        },
+        {
+          "title": "炮机与裸女们的免费性爱直播",
+          "link": "https://zh.stripchat.com/girls/fuck-machine",
+          "snippet": "女主播情侣男主播变性人 · 女主播情侣男主播变性人 · 女主播情侣男主播变性人. 更多. 更 ... 411下流話3823颅内高潮132角色扮演 644性玩具3730Emo130脱衣舞4192瑜伽823 ...",
+          "position": 91
+        },
+        {
+          "title": "[PDF] 变性人和非二元性别客户的姓名和性别变更常见问题(FAQ)",
+          "link": "https://www.nyc.gov/assets/hra/downloads/pdf/services/lgbtqi/HRA-138b-SC.pdf",
+          "snippet": "性别标记有哪些选择？ 社会服务局(DSS)/人力资源管理局(HRA) 客户可以要求将其性别标记为F（女性）、. M（男性）或X（非男性或女性）。 “X”对于性别标记意味着什么？",
+          "position": 92
+        },
+        {
+          "title": "最美变性人 - 微博",
+          "link": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%9C%80%E7%BE%8E%E5%8F%98%E6%80%A7%E4%BA%BA%23&luicode=10000011&lfid=1005055992841723&featurecode=newtitle%0A%E4%B8%80%E5%8A%A07+Pro%E5%B0%86%E9%85%8D%E5%A4%87%E5%AE%89%E5%8D%93%E6%9C%BA%E4%B8%AD%E5%B0%BA%E5%AF%B8%E6%9C%80%E5%A4%A7%E6%A8%AA%E5%90%91%E7%BA%BF%E6%80%A7%E9%A9%AC%E8%BE%BE",
+          "snippet": "雯雯-cd宝贝ladyboy · 2023-7-14 来自杭州TS雯HarmonyOS设备 · 2 · 评论 · 5 ...",
+          "position": 93
+        },
+        {
+          "title": "[PDF] 肥大性下橄榄核变性 - 神经损伤与功能重建",
+          "link": "http://sjssygncj.chmed.net/ch/reader/download_pdf_file.aspx?journal_id=sjssgncj&file_name=B3147901C258E49046B36968F8B57C4EC1ABDD1C2BCC1E84BB381DC945A20ADD8C4D0C39386835FDAD094D499392CDC33753F4DE44D7673937FC3F8086458958FEA0CFBBD12432B2B1B8656D9BB60F2413E6DC5FF617124FFBB090D05ED44C7E&open_type=self&file_no=106-20211198-%E6%9D%8E%E9%9B%A8%E6%99%AF%E7%BB%BC%E8%BF%B0",
+          "snippet": "肥大性下橄榄核变性（hypertrophic inferior olivary degeneration，HOD）是一种少见的涉及齿状. 核-红核-橄榄核环路的特殊跨神经突触变性。临床. 上通常表现 ...",
+          "date": "2021年11月21日",
+          "position": 94
+        },
+        {
+          "title": "拉丁人与裸女们的免费性爱直播",
+          "link": "https://zh.stripchat.com/girls/latin",
+          "snippet": "少女18+1808鲜嫩青年22+3591熟女862成熟411老奶奶35. 种族. 阿拉伯人139亚洲人525黑 ... 女主播情侣男主播变性人 · 女主播 · 女主播情侣男主播变性人. 更多. 更多. 分类.",
+          "position": 95
+        },
+        {
+          "title": "3种泰国变性手术 - RubikHealth",
+          "link": "https://rubikhealth.com/zh/articles/3-techniques-male-to-a-female-sex-reassignment-surgery-in-thailand",
+          "snippet": "当社会对跨性别群体开放时（跨性别者）导致性别重新分配手术是一项受到关注且当前很热门的服务， 尤其是泰国的性别重置手术受到了全世界的关注。由于泰国医生的技能， ...",
+          "position": 96
+        },
+        {
+          "title": "变性 - 微博",
+          "link": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E5%8F%98%E6%80%A7%23&isnewpage=1&luicode=10000011&lfid=231522type%3D1%26t%3D10%26q%3D%23%E5%85%AB%E9%9B%B2%23&featurecode=20000180%23",
+          "snippet": "这位印度男子被好友骗到医院做了变性手术，因为好友希望跟他在一起，现在该事件闹的很大，已经上了印度热搜，手术医生也已被捕调查#印度##变性# · 南归孤夷的微博视频.",
+          "position": 97
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

@@ -1,0 +1,1446 @@
+{
+  "query": "雌激素",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-04T04:50:54.174130",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "雌激素",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "雌激素- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E9%9B%8C%E6%BF%80%E7%B4%A0",
+          "snippet": "雌激素（英语：oestrogen（英式）/estrogen（美式）），又称动情素，是一类主要的女性荷尔蒙，包括雌酮、雌二醇等，当中雌二醇是最重要的雌激素。 雌激素之中最重要的雌二醇.",
+          "position": 1
+        },
+        {
+          "title": "雌激素_百度百科",
+          "link": "https://baike.baidu.com/item/%E9%9B%8C%E6%BF%80%E7%B4%A0/1182252",
+          "snippet": "雌激素（Estrogen）是促进雌性动物第二性征发育及性器官成熟的物质，由雌性动物卵巢和胎盘分泌产生。雌激素的受体分布在子宫、阴道、乳房、盆腔以及皮肤、膀胱、尿道、 ...",
+          "position": 2
+        },
+        {
+          "title": "女性激素- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E5%A5%B3%E6%80%A7%E8%8D%B7%E7%88%BE%E8%92%99",
+          "snippet": "卵巢分泌两大类女性荷尔蒙：雌激素（英语：estrogen，又称动情素）和孕激素（progestagen）。其中雌激素之中最重要的是雌二醇（estradiol）；助孕素之中最重要的是黄体素（ ...",
+          "position": 3
+        },
+        {
+          "title": "妇产科普|雌激素、孕激素傻傻分不清楚？今日助你一文读懂",
+          "link": "http://wjw.beijing.gov.cn/bmfw_20143/jkzs/jksh/202103/t20210316_2308651.html",
+          "snippet": "雌激素：刺激血管紧张素原、凝血因子、C反应蛋白等的合成；可以刺激肝脏胆固醇代谢酶的合成，降低低密度脂蛋白胆固醇水平，并有抗血小板和抗氧化的作用，但不能 ...",
+          "date": "2021年3月16日",
+          "position": 4
+        },
+        {
+          "title": "更年期健康管理之雌激素的重要性 - 雅培",
+          "link": "https://www.abbott.com.cn/corpnewsroom/nutrition-health-and-wellness/geng-nian-qi-jian-kang-guan-li-zhi-ci-ji-su-de-zho.html",
+          "snippet": "雌激素是女性的软猬甲，与更年期也有极其密切的关系，了解雌激素的作用原理，有利于更年期女性进行更加合理的健康管理。雌激素的\"生产工厂\"是卵巢，卵巢在 ...",
+          "date": "2020年1月18日",
+          "position": 5
+        },
+        {
+          "title": "激素与更年期：症状、失衡和治疗 - Samitivej",
+          "link": "https://www.samitivejhospitals.com/zh/article/detail/female-hormones-menopause-guide",
+          "snippet": "雌激素是一种关键的激素，主要负责调节女性的生殖系统。它主要在卵巢中产生，此外，肾上腺和脂肪细胞也能分泌一小部分雌激素。雌激素对性成熟、女性第 ...",
+          "position": 6
+        },
+        {
+          "title": "中华医学会科普图文雌激素和孕激素，一对相爱相杀的“CP”",
+          "link": "https://www.cma.org.cn/art/2022/7/28/art_4584_46696.html",
+          "snippet": "它们就是雌激素和孕激素。 雌激素就像个包工头，不断指挥子宫内膜生长。在雌激素的指挥下子宫内膜就像垒墙一样，变得越来越厚。 孕激素则恰恰相反，它更像是 ...",
+          "date": "2022年7月28日",
+          "position": 7
+        },
+        {
+          "title": "儿童性早熟与牛奶雌激素相关问答 - 国家卫生健康委员会",
+          "link": "http://www.nhc.gov.cn/wjw/spaqyyy/201304/75d0e577d40845d9853299504f628cee.shtml",
+          "snippet": "第一个是新生儿生后1周内，可见乳房肿大，触之质地稍硬，甚至有少量乳汁溢出；此状态是母体的雌激素经胎盘进入儿体所致，出生后来自母体的雌激素很快被孩子自身 ...",
+          "date": "2010年8月16日",
+          "position": 8
+        },
+        {
+          "title": "女性生殖健康的“晴雨表”！性激素六项不会看？超全解读",
+          "link": "https://www.hangzhou.gov.cn/art/2023/1/28/art_1228974667_59072753.html",
+          "snippet": "性激素六项检测是一项血液化验检查，用来评估女性的卵巢功能、内分泌功能及有无发生生殖系疾病。通常包括以下六项指标：促黄体生成素（LH）：是由腺垂体分泌的 ...",
+          "date": "2023年1月28日",
+          "position": 9
+        },
+        {
+          "title": "女人雌激素偏低, 身体会有这8种表现 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_14585589",
+          "snippet": "“雌激素”这一名词我们并不陌生，它主要产生于卵巢中，作用很多，包括：刺激女性第二性征的发育、促进子宫生长和子宫内膜增殖、促进骨骼的生长和骨钙沉积、 ...",
+          "date": "2021年9月30日",
+          "position": 10
+        },
+        {
+          "title": "女性绝经，你该知道的身体变化- BBC News 中文",
+          "link": "https://www.bbc.com/zhongwen/simp/science-48429245",
+          "snippet": "激素（又称荷尔蒙），特别是雌激素（oestrogen）都对绝经有影响。雌激素对于整个月的生殖周期至关重要；每个月卵巢发育和释放卵子，以进行受精。",
+          "date": "2019年5月28日",
+          "position": 11
+        },
+        {
+          "title": "激素治疗：适合您吗？ - 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/diseases-conditions/menopause/in-depth/hormone-therapy/art-20046372",
+          "snippet": "您服用药物，以替代您的身体在绝经期停止产生的雌激素。激素治疗最常用于治疗常见的绝经症状，包括潮热和阴道不适。 经证明激素治疗可预防绝经后女性的骨 ...",
+          "position": 12
+        },
+        {
+          "title": "雌激素作用的分子生物学和生理学- UpToDate",
+          "link": "https://www.uptodate.com/contents/zh-Hans/molecular-biology-and-physiology-of-estrogen-action",
+          "snippet": "专题提纲 · 雌激素不敏感的临床实例 · 基因打靶模型 · - 雌性生殖系统 · 卵巢 · 子宫 · 乳腺组织 · 交配行为 · - 雄性生殖 · - 雌激素受体-α及β双缺陷 · - ...",
+          "date": "2023年9月29日",
+          "position": 13
+        },
+        {
+          "title": "雌激素,是友不是敌 - 上海市卫生健康委员会",
+          "link": "https://wsjkw.sh.gov.cn/jtyx/20211014/d50c3c9d1b2a44908d008ba37797cf73.html",
+          "snippet": "雌激素能延缓皮肤衰老，帮助美容养颜。临床研究发现，雌激素可以直接影响人体表皮的生发层。在雌激素的作用下，人体表皮的生发层分裂活跃，从而保证了表皮的 ...",
+          "date": "2021年10月14日",
+          "position": 14
+        },
+        {
+          "title": "雌激素对中枢能量代谢的影响及其机制的研究进展",
+          "link": "https://rs.yiigle.com/CN311282201803/1034686.htm",
+          "snippet": "进入青春期之后，女性体内雌激素水平开始升高，尤其是到了育龄期，体内雌激素水平达到女性一生中最高水平。此时雌激素通过作用于大脑的不同区域，调控食欲、 ...",
+          "date": "2018年3月25日",
+          "position": 15
+        },
+        {
+          "title": "别把雌激素当“防老药” 乱吃或致癌 - 央视网",
+          "link": "http://news.cctv.com/2019/08/27/ARTIbBmMWsh4O1Bzyub17B3x190827.shtml",
+          "snippet": "临床认为，绝经后的更年期症状，一般与骨质疏松症并存。如果采用雌激素药物治疗，不要漏服，尤其是不能骤然停药。因为药物骤停会使体内雌激素骤降，可能导致原 ...",
+          "date": "2019年8月27日",
+          "position": 16
+        },
+        {
+          "title": "如何看懂性激素六项检查结果？-武汉大学医院",
+          "link": "https://hospital.whu.edu.cn/info/1281/1756.htm",
+          "snippet": "... 激素(FSH)、促黄体生成素(LH)、雌二醇(E2)、孕酮(P)、催乳素(PRL)、睾酮(T)，这六项检查基本满足了临床医生对生殖内分泌失调与否的筛查和对女性生理功能的一般性了解。",
+          "position": 17
+        },
+        {
+          "title": "雌激素与睾酮",
+          "link": "https://www.gleneagles.com.sg/zh/health-plus/article/testosterone-oestrogen",
+          "snippet": "虽然饮食和生活方式的改变会有所帮助，但你可能需要激素替代疗法来有效治疗激素失衡的根本原因。在某些情况下，它们可能与糖尿病、甲状腺功能减退或甲亢等 ...",
+          "date": "2021年12月1日",
+          "position": 18
+        },
+        {
+          "title": "雌激素经常用，这10 种用法你都掌握了吗？ - 丁香园",
+          "link": "https://e.dxy.cn/wisdom/front/zhihuihao/6285",
+          "snippet": "阴道局部用药：主要有结合雌激素软膏、天然雌三醇软膏，主要缓解由于绝经后老年女性阴道炎等所致的阴道局部不适及阴道手术术前准备。具体用法：经阴道给药，每 ...",
+          "date": "2019年3月11日",
+          "position": 19
+        },
+        {
+          "title": "实话石说|关于雌激素，你了解多少？ - 中国食品药品网",
+          "link": "https://m.cnpharm.com/c/2021-12-22/812878.shtml",
+          "snippet": "在正常人体内，不管是男性还是女性，都存在雌激素和雄激素。正常情况下应保持相对平衡，如果缺乏会引起相应的症状，如女性生殖系统变化、骨质疏松等。然而，雌 ...",
+          "date": "2021年12月22日",
+          "position": 20
+        },
+        {
+          "title": "雌激素下降后很多疾病找上门，看看这些防治知识 - 科普中国- 人民网",
+          "link": "http://kpzg.people.com.cn/n1/2023/0330/c404214-32654032.html",
+          "snippet": "绝经以后的女性之所以会出现更年期症状以及衰老表现的根源，是因为缺少了女性健康之本——女性激素。那女性激素从哪里来的呢？主要来自于卵巢的分泌。",
+          "date": "2023年3月30日",
+          "position": 21
+        },
+        {
+          "title": "[PDF] 更年期和激素 - FDA",
+          "link": "https://www.fda.gov/media/153301/download",
+          "snippet": "更年期是女性生命周期终止后正常的自然变化。 这就是. 为什么有人将更年期称为“生活的改变”或“改变”。 在更. 年期，女人的身体会缓慢产生更少的雌激素和孕激素。",
+          "position": 22
+        },
+        {
+          "title": "结合雌激素片说明书 - 标准来源",
+          "link": "https://www.nmpa.gov.cn/wwwroot/hy5/035.htm",
+          "snippet": "口服后，天然雌激素及其酯被广泛代谢（首过效应），循环中主要为硫酸雌酮形式，其他结合和非结合型雌激素的量较少。使得口服制剂作用受到限制。相反，合成雌激素，如炔雌醇和非甾 ...",
+          "position": 23
+        },
+        {
+          "title": "經期不穩、頭痛、易掉髮?! 別讓雌激素佔優勢",
+          "link": "https://www.lianan.com.tw/drliananepaper/Article/320",
+          "snippet": "其中一個近年來醫學常常討論的是當雌激素分泌過多明顯多過黃體酮，就會造成｢雌激素相對優勢(Estrogen Dominance)｣。經期不規律、乳房有硬塊、脹痛、受孕困難、頭痛、失眠等 ...",
+          "position": 24
+        },
+        {
+          "title": "雌激素對女性的重要性及如何平衡體內雌激素？ - 信諾",
+          "link": "https://www.cigna.com.hk/zh-hant/smarthealth/eat/importance-of-estrogen-for-women",
+          "snippet": "雌激素對女性的重要性 · 掉髮 · 過敏、氣喘、自體免疫性疾病 · 代謝率緩慢、低血糖 · 乳房纖維囊腫、子宮肌瘤、子宮頸發育不良、不孕、經期不穩定、多囊性 ...",
+          "date": "2021年12月7日",
+          "position": 25
+        },
+        {
+          "title": "雌激素治疗经前综合症 - Cochrane",
+          "link": "https://www.cochrane.org/zh-hans/CD010503/MENSTR_ci-ji-su-zhi-liao-jing-qian-zong-he-zheng",
+          "snippet": "我们发现极低质量的证据表明，在月经周期的黄体期口服无拮抗雌激素可能无法有效控制经前综合症的症状，甚至可能使其恶化。我们发现极低质量的证据支持连续雌激素（透皮贴剂或 ...",
+          "position": 26
+        },
+        {
+          "title": "[PDF] 雌激素对情绪的影响: 心理、神经、内分泌研究 - SciEngine",
+          "link": "https://www.sciengine.com/doi/pdf/d88d1bd177ab428e89cb0c72a5459994",
+          "snippet": "女性在青春期后到. 绝经期前, 伴随着雌激素分泌的周期性波动, 更易发. 生情绪障碍[18]. 有研究发现, 抑郁症妇女的血浆雌二. 醇浓度明显偏低[19], 雌二醇降低会增加妇女情绪 ...",
+          "position": 27
+        },
+        {
+          "title": "中华医学会科普图文男性体内不能缺少雌激素",
+          "link": "https://www.cma.org.cn/art/2022/8/10/art_4584_46998.html",
+          "snippet": "你知道是什么造就了男女的差异吗？答案是人体内的“荷尔蒙”，也就是激素，而对性别产生直接影响的主要是性激素。 ... 虽然两性所具有的性激素只是量和比例的不同 ...",
+          "date": "2022年8月10日",
+          "position": 28
+        },
+        {
+          "title": "蜂王浆含有大量雌激素吗？ - 福建省农业农村厅",
+          "link": "https://nynct.fujian.gov.cn/jdhy/hygq/202401/t20240125_6386201.htm",
+          "snippet": "所有的动物类食品中都可能含有雌激素，而内源性激素是动物性食品中的天然成分。研究表明，蜂王浆中几乎不含雌激素。虽然在少数蜂王浆样品中检出痕量的雌激素 ...",
+          "date": "2024年1月25日",
+          "position": 29
+        },
+        {
+          "title": "女性化激素治疗- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/tests-procedures/feminizing-hormone-therapy/about/pac-20385096",
+          "snippet": "概述. 女性化激素治疗通常面向跨性别女性和非二元性别者，可产生青春期内由雌性激素引起的身体变化。这些变化称为第二性征。这种激素治疗可促进身体与性别 ...",
+          "date": "2024年7月12日",
+          "position": 30
+        },
+        {
+          "title": "雌激素水平低，要补吗",
+          "link": "https://www.fckyy.org.cn/mobile/news/content/id/422/pid/26665",
+          "snippet": "如果雌激素过低，即便是生理性原因，也会带来一定影响。一般来说，不管哪个时期，如果雌二醇水平低于110皮摩尔/升，则会出现潮热、出汗等血管舒缩症状，如果雌二 ...",
+          "date": "2022年7月5日",
+          "position": 31
+        },
+        {
+          "title": "雌激素与大脑健康 - 中国数字科技馆",
+          "link": "https://www.cdstm.cn/gallery/media/mkjx/kxhb/201504/t20150421_323474.html",
+          "snippet": "科学家发现，切除雌性大鼠的卵巢（雌性的性腺）和雄性大鼠的睾丸（雄性的性腺）将导致其认知能力和记忆能力严重下降，与此同时，它们的大脑会产生更多的雌激素来 ...",
+          "date": "2015年4月21日",
+          "position": 32
+        },
+        {
+          "title": "植物雌激素_百度百科",
+          "link": "https://baike.baidu.com/item/%E6%A4%8D%E7%89%A9%E9%9B%8C%E6%BF%80%E7%B4%A0/10877596",
+          "snippet": "植物雌激素是植物中具有弱雌激素作用的化合物。其通过与甾体雌激素受体以低亲和度结合而发挥弱的雌激素样效应。植物雌激素的分子结构与哺乳动物雌激素结构相似， ...",
+          "position": 33
+        },
+        {
+          "title": "雌激素，女性一生的伴侣健康科普 - 沧州市人民医院",
+          "link": "https://www.czrmyy.com/Html/News/Articles/104802.html",
+          "snippet": "大脑：女性患老年痴呆远高于男性。雌激素还会影响大脑的结构，小时候读书，女孩子的成绩一般都比男孩优秀，因为女孩子比较细心。而到了老年，女性的老年痴呆发病率远高于男性， ...",
+          "position": 34
+        },
+        {
+          "title": "雌激素、孕激素傻傻分不清楚？今日助你一文读懂 - 新浪财经",
+          "link": "https://finance.sina.cn/insurance/bxzx/2021-03-20/detail-ikkntiam3018519.d.html",
+          "snippet": "新浪财经 ... 我们都知道，女性体内的雌激素和孕激素这两种重要的激素主要是由卵巢合成与分泌。 在排卵前的雌激素主要来源于卵泡膜细胞，排卵后的雌激素和孕 ...",
+          "date": "2021年3月20日",
+          "position": 35
+        },
+        {
+          "title": "什么是女性荷尔蒙?孕期的变化和作用【医生监督】 - ヒロクリニック",
+          "link": "https://www.hiro-clinic.or.jp/nipt/pregnancy-female-hormones/?lang=zh-hans",
+          "snippet": "了解女性激素的基本作用，它们在妊娠期间的动态变化以及对身体的影响。了解雌激素和孕激素的作用，以及激素平衡对健康妊娠的重要性。",
+          "date": "2024年7月22日",
+          "position": 36
+        },
+        {
+          "title": "女性雌性激素低有哪些症状？这6种情况要小心 - 人民网－江苏频道",
+          "link": "http://js.people.com.cn/n2/2020/0229/c360306-33838930.html",
+          "snippet": "在绝经期血液中雌性激素下降，易出现骨质疏松，骨骼变得轻软、易骨折，同时伴有身高缩短、驼背以及腰酸背痛。45岁之后，因为身体中雌性激素分泌减少，可出现一 ...",
+          "date": "2020年2月29日",
+          "position": 37
+        },
+        {
+          "title": "雌激素过低的6个症状，您占几个？",
+          "link": "http://www.ccsfuchan.com/mobile/news/show/id/2087.html",
+          "snippet": "如果雌激素持续低下，会逐渐出现泌尿生殖道萎缩症状，如：阴道干涩、性交困难、反复阴道感染、排尿困难、尿急、尿痛等。",
+          "position": 38
+        },
+        {
+          "title": "雌激素越高越好吗？ - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_19934830",
+          "snippet": "雌激素参与月经周期的形成。卵泡期，雌激素水平升高，促使子宫内膜增厚。如果月经来潮前雌激素过高，会影响子宫内膜正常剥落，月经也不会来潮。",
+          "date": "2022年9月20日",
+          "position": 39
+        },
+        {
+          "title": "女性缺乏雌激素可食疗，常吃这10种食物可补充！ - 芝罘区",
+          "link": "https://www.zhifu.gov.cn/art/2020/7/16/art_15564_2782649.html",
+          "snippet": "微信扫一扫：分享 · 1、亚麻籽. 亚麻籽被认为是雌激素的最佳来源之一，植物雌激素含量比很多食物都高。 · 2、芝麻. 芝麻的木脂素含量很高，这是一种有助于 ...",
+          "date": "2020年7月16日",
+          "position": 40
+        },
+        {
+          "title": "性激素六项，你懂了吗 - 中山大学附属第七医院",
+          "link": "https://www.sysush.com/content/560f920a-6c7f-4fb6-b523-dff814f4c337",
+          "snippet": "黄体生成激素（LH）：是由腺垂体分泌的一种糖蛋白激素。生理作用主要是促进女性排卵和黄体生成，促进黄体分泌孕激素和雌激素。 ○ 催乳素 ...",
+          "date": "2018年6月1日",
+          "position": 41
+        },
+        {
+          "title": "雌激素是友不是敌！（一） - 科普讲坛",
+          "link": "https://www.zjhsb.com/kp_01.html?id=743",
+          "snippet": "雌激素能够促进生殖系统发育、维持第二性征。我们女性发育到一定程度，卵巢开始分泌雌激素，分泌的雌激素又是女性发育必不可少的条件，乳房的发育、女性生殖 ...",
+          "date": "2022年3月18日",
+          "position": 42
+        },
+        {
+          "title": "绝经激素治疗的是与非-武汉大学医院",
+          "link": "https://hospital.whu.edu.cn/info/1281/1752.htm",
+          "snippet": "目前我国大城市女性预期寿命已经超过80岁，但健康预期寿命仅65岁左右，意味着生命中最后的15年以上时间处于疾病困扰的状态。提升老年女性健康，迫在眉睫。围绝经期是女性很 ...",
+          "position": 43
+        },
+        {
+          "title": "天使爱混蛋 - 中国青年报- 中青在线",
+          "link": "https://zqb.cyol.com/content/2010-08/11/content_3368351.htm",
+          "snippet": "... 雌激素受体表达水平偏低有关。 通常来说，人的理智和情感与雌激素水平有很大关系。雌激素是一种女性激素，由卵巢和胎盘产生，肾上腺皮质也能产生少量雌激素。",
+          "date": "2010年8月11日",
+          "position": 44
+        },
+        {
+          "title": "女性需要补充雌激素吗？缺乏雌激素的3个表现 - 医学动态--医学短讯",
+          "link": "https://www.xqhospital.com.cn/news/news0301.asp?filename=200226997",
+          "snippet": "绝经之后容易出现跌倒和骨折，脊柱容易变形，身体会变得越来越矮，甚至会引起腰部疼痛，腰椎下段疼痛和驼背。 温馨提示 女性是否需要补充雌激素，应该根据自身的情况来选择，并且 ...",
+          "position": 45
+        },
+        {
+          "title": "【健康科普】女性雌激素越少老得越快？不想早衰，注意这5 点",
+          "link": "http://www.ganxian.gov.cn/gxzf/c103629/202405/489d2e2b483f4eb782096434ee322d09.shtml",
+          "snippet": "30岁之后雌激素水平开始下降，松弛、干燥、皱纹随之而来。雌激素降低除了跟皮肤衰老有关，也跟体重增加尤其是腹部脂肪增加相关，因为雌激素可以抑制脂肪的 ...",
+          "date": "2024年5月28日",
+          "position": 46
+        },
+        {
+          "title": "[PDF] 低剂量阴道雌激素治疗患者指南",
+          "link": "https://www.yourpelvicfloor.org/media/low-dose-vaginal-estrogen-therapy-chinese.pdf",
+          "snippet": "女性有阴道萎缩性改变的人，会表现为不适或者性交疼痛，. 阴道分泌物的增加和刺痛，或会感到灼烧感。 低剂量的阴道雌激素目的是缓解这些症状。 阴道黏膜发生的改变也会发生在 ...",
+          "position": 47
+        },
+        {
+          "title": "实话石说丨神奇的雌激素，让人欢喜让人忧！（下） 中国非公立医疗 ...",
+          "link": "http://www.cnmia.org/DynamicDetail_F69CF201350C453181D1BFD9E3BA6DE6.html",
+          "snippet": "实话石说丨神奇的雌激素，让人欢喜让人忧！（下） · 临床上用的雌激素类药物多为天然雌激素雌二醇的衍生物，如苯甲酸雌二醇、戊酸雌二醇、环戊丙酸雌二醇等。",
+          "date": "2021年9月17日",
+          "position": 48
+        },
+        {
+          "title": "如何轻松度过更年期，雌孕激素治疗安全吗？ - 新华网客户端",
+          "link": "https://app.xinhuanet.com/news/article.html?articleId=d8820e63b14599a3f39c4f7f43f1c60b",
+          "snippet": "绝经综合征的症状绝大多数都可以通过雌孕激素治疗得到缓解。目前的治疗指南未限定停药时间。但是，使用激素治疗只是补充卵巢功能，卵巢功能衰竭是不可逆转的 ...",
+          "date": "2023年2月15日",
+          "position": 49
+        },
+        {
+          "title": "荷爾蒙，決定妳是否早衰 - 奇美醫院生殖醫學中心",
+          "link": "http://labbaby.idv.tw/qa-detail.php?ca_id=16&id=242",
+          "snippet": "幾乎所有女性都希望留住在雙十年華時的粉嫩肌膚、豐腴勻稱的身材及如少女般的活力，而這一切，都與荷爾蒙中的女性荷爾蒙息息相關。 ... 人體內的荷爾蒙包括雄激素、雌激素與孕 ...",
+          "position": 50
+        },
+        {
+          "title": "月经周期- 《默沙东诊疗手册大众版》",
+          "link": "https://www.msdmanuals.cn/home/women-s-health-issues/biology-of-the-female-reproductive-system/menstrual-cycle",
+          "snippet": "月经周期‭是由黄体生成素、促卵泡激素和女性激素（雌激素‬和孕酮‭‬）复杂的相互作用调节的。 月经周期分为三个阶段：. 卵泡期（排卵前）. 排卵期（ ...",
+          "position": 51
+        },
+        {
+          "title": "如何轻松度过更年期，雌孕激素治疗安全吗？ - 新华网",
+          "link": "http://www.news.cn/health/2023-02/15/c_1211729033.htm",
+          "snippet": "绝经综合征的症状绝大多数都可以通过雌孕激素治疗得到缓解。目前的治疗指南未限定停药时间。但是，使用激素治疗只是补充卵巢功能，卵巢功能衰竭是不可逆转的 ...",
+          "date": "2023年2月15日",
+          "position": 52
+        },
+        {
+          "title": "雌激素- 维基词典，自由的多语言词典",
+          "link": "https://zh.wiktionary.org/wiki/%E9%9B%8C%E6%BF%80%E7%B4%A0",
+          "snippet": "雌激素 ... 雌激素（estrogen，又称动情素）是一类主要的女性荷尔蒙，包括雌酮、雌二醇等。雌二醇（estradiol）是最重要的雌激素。雌激素主要由卵巢分泌，少量由肝，肾上腺皮质，乳房 ...",
+          "position": 53
+        },
+        {
+          "title": "雌激素过多或过少，都可能引发病症 - 长沙晚报",
+          "link": "https://www.icswb.com/h/204/20230312/805205.html",
+          "snippet": "贺冰介绍，在妇检中，女性最常见的疾病有阴道炎、宫颈炎、子宫肌瘤、卵巢肿瘤等。雌激素分泌过多，可能引发子宫肌瘤、子宫内膜癌、乳腺癌等；雌激素分泌过少， ...",
+          "date": "2023年3月12日",
+          "position": 54
+        },
+        {
+          "title": "女人有这四个症状，说明雌激素低！常吃这4种食物 - 凤凰网",
+          "link": "https://i.ifeng.com/c/8P3IMln2LE4",
+          "snippet": "女人有这四个症状，说明雌激素低！常吃这4种食物，补充雌激素 · 1、腰背酸痛. 雌激素低会引起腰酸背痛，并且会沿脊椎方向往两侧扩散，久站后疼痛会加剧，弯腰、 ...",
+          "date": "2023年4月17日",
+          "position": 55
+        },
+        {
+          "title": "HORMONES 都是荷尔蒙惹的祸",
+          "link": "https://www.rafflesmedicalgroup.com/health-resources/health-articles/hormones-%E9%83%BD%E6%98%AF%E8%8D%B7%E5%B0%94%E8%92%99%E6%83%B9%E7%9A%84%E7%A5%B8/",
+          "snippet": "人体产生的各种内分泌荷尔蒙的数量是极小的，但对人体却产生巨大的影响。 举例说明，雌激素是最主要的女性性激素，若雌激素不足会引起月经不调，不孕，更年期提前 ...",
+          "position": 56
+        },
+        {
+          "title": "女性健康科普连载（106） - 北京协和医院",
+          "link": "https://www.pumch.cn/detail/13199.html",
+          "snippet": "荷尔蒙“的神通 “荷尔蒙”是英语'激素'（hormone）的译音。荷尔蒙兴则人兴，荷尔蒙衰则人衰…… 医学知识速读 女性荷尔蒙包括雌激素、孕激素和部分雄激素。雌激素和孕激素主要 ...",
+          "position": 57
+        },
+        {
+          "title": "雌激素功能研究进展 - 中华医学期刊网",
+          "link": "https://rs.yiigle.com/CN101441201904/1130256.htm",
+          "snippet": "雌激素通过两种受体：经典的核受体[雌激素受体(ER)a和ERb]和新的细胞膜表面受体[G蛋白耦联受体(GPR)30和ER-X]发挥作用。两种类型的雌性激素受体在外周组织 ...",
+          "date": "2019年4月25日",
+          "position": 58
+        },
+        {
+          "title": "雌激素是永葆青春的「神药」，还是致癌的「洪水猛兽」？ - 丁香医生",
+          "link": "https://m.dxy.com/article/4615",
+          "snippet": "主席总结 · 一般情况下，雌激素无需额外补充，不要擅自购买含雌激素的保健品和护肤品； · 在围绝经期遵医嘱补充雌激素有助于缓解更年期症状，平稳度过这一时期； · 在适当的时间 ...",
+          "position": 59
+        },
+        {
+          "title": "雌激素、孕激素傻傻分不清楚？今日助你一文读懂 - 新浪",
+          "link": "https://interface.sina.cn/pc_to_wap.d.html?ref=http%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Finsurance%2Fhealth%2F2021-03-20%2Fdoc-ikkntiam3018519.shtml",
+          "snippet": "新浪财经 ... 我们都知道，女性体内的雌激素和孕激素这两种重要的激素主要是由卵巢合成与分泌。 在排卵前的雌激素主要来源于卵泡膜细胞，排卵后的雌激素和孕 ...",
+          "date": "2021年3月20日",
+          "position": 60
+        },
+        {
+          "title": "女性荷爾蒙檢查 - 啟新健康世界-專業健康檢查/醫學健康促進",
+          "link": "https://www.ch.com.tw/index.aspx?chapter=ACH000008",
+          "snippet": "有些女性未哺乳，卻也有很高的泌乳激素分泌，結果造成了乳房膨脹、溢乳及月經失週的現象，這種情形常出現在不孕症的病人、不排卵的病人中。過高的典型症狀包括雌激素過低、繼 ...",
+          "position": 61
+        },
+        {
+          "title": "雌激素，造就女性的美-MedSci.cn",
+          "link": "https://www.medsci.cn/article/show_article.do?id=6888e5705339",
+          "snippet": "雌激素作用在女性正常生理活动的每一个环节，不仅维持了女性的特有的生物学特征，还保证了女性的身体健康，保持着女性的年轻态，这就是为什么雌激素造就了 ...",
+          "date": "2023年1月23日",
+          "position": 62
+        },
+        {
+          "title": "更年期妇女如何补充雌性激素？ - 天山网",
+          "link": "https://www.ts.cn/zxpd/dz/201901/t20190104_5749571.shtml",
+          "snippet": "总的来说，如果您还是一个有子宫的更年期妇女，在使用激素替代是一定要在补充雌激素的同时应用孕激素来保护子宫内膜，有了孕激素的保护，几乎不会有得内膜癌的 ...",
+          "date": "2019年1月4日",
+          "position": 63
+        },
+        {
+          "title": "激素避孕方法- 《默沙东诊疗手册大众版》",
+          "link": "https://www.msdmanuals.cn/home/women-s-health-issues/family-planning/hormonal-methods-of-contraception",
+          "snippet": "医生会询问女性的医疗、社交和家庭历史，以确认其是否有服用这些避孕药会带来风险的任何健康问题。医生会测量女性血压。如果血压高，则不应开复方口服避孕药（雌激素加孕激素 ...",
+          "position": 64
+        },
+        {
+          "title": "豆类制品里的激素到底是什么？ - 新华网",
+          "link": "http://www.xinhuanet.com/politics/2020-12/25/c_1126904496.htm",
+          "snippet": "临床实验表明，大豆异黄酮摄入对围绝经期和绝经后女性的性激素水平无影响，对男性性激素水平也没有明显影响。所以大豆异黄酮不是激素，仅起到雌激素调节作用 ...",
+          "date": "2020年12月25日",
+          "position": 65
+        },
+        {
+          "title": "【科学看食安】豆浆含有“雌激素”常喝对健康有影响吗",
+          "link": "http://www.haishu.gov.cn/art/2021/11/19/art_1229116338_58953553.html",
+          "snippet": "【科学看食安】豆浆含有“雌激素”常喝对健康有影响吗. 豆浆富含丰富的植物蛋白质、磷脂、维生素、铁、钙等营养元素，是老少皆宜的营养饮品。但有人说豆浆中 ...",
+          "date": "2021年11月19日",
+          "position": 66
+        },
+        {
+          "title": "「雌激素」醫療新聞 - 中國醫藥大學附設醫院",
+          "link": "https://www.cmuh.cmu.edu.tw/NewsInfo/Search?type=%E9%86%AB%E7%99%82%E6%96%B0%E8%81%9E&s=%E9%9B%8C%E6%BF%80%E7%B4%A0",
+          "snippet": "女性接近停經時，偶爾會感覺由前胸或後背往上遍及頭面的陣發性烘熱感，還經常伴隨心悸、冒汗等表現，這就是「更年期潮熱」。潮熱的發作頻率少則一天一至兩次，嚴重者甚至五至十 ...",
+          "position": 67
+        },
+        {
+          "title": "雌激素过多或过少，都可能引发病症 - 长沙晚报",
+          "link": "https://www.icswb.com/newspaper_article-detail-1785702.html",
+          "snippet": "肾上腺素使人脾气急躁、易激动；血清素能抑制情绪的急躁，使人显得和气、温顺。而血清素和雌激素在大脑中相互反馈影响，两者紧密相连，当一方水平升高时，另 ...",
+          "date": "2023年3月12日",
+          "position": 68
+        },
+        {
+          "title": "女性绝经，你该知道的身体变化- BBC 英伦网",
+          "link": "https://www.bbc.com/ukchina/simp/48465161",
+          "snippet": "雌激素对于整个月的生殖周期至关重要；每个月卵巢发育和释放卵子，以进行受精。子宫内壁会增厚，准备接收受精卵。 但随着女性年龄的增长和卵子储存量之 ...",
+          "date": "2019年5月30日",
+          "position": 69
+        },
+        {
+          "title": "雌激素治疗安全吗？选对方法，助您轻松度过更年期",
+          "link": "https://wsjkw.sc.gov.cn/scwsjkw/fybj/2023/2/17/cbdedaa43994454d82740eff1bb18ed8.shtml",
+          "snippet": "但是，我们使用激素治疗只是补充卵巢功能，卵巢功能衰竭是不可逆转的。一旦停药，体内的雌孕激素又重新回到缺少状态，绝经综合征的大多数症状可能又要重新出现 ...",
+          "date": "2023年2月17日",
+          "position": 70
+        },
+        {
+          "title": "[PDF] 女性荷爾蒙-深入淺談",
+          "link": "https://www.ucl.com.tw/uploadinfo/knowledge/%E8%8D%B7%E7%88%BE%E8%92%99%E6%B7%B1%E5%85%A5%E6%B7%BA%E8%AB%871.pdf",
+          "snippet": "※ 在下視丘促性腺激素釋. 放激素的控制下，腦垂體. 前葉分泌濾泡刺激素(FSH）. 和少量黃體生成素（LH）. 促使卵巢內卵泡發育成熟，. 並開始分泌雌激素。在雌. 激素的作用下，子宮 ...",
+          "position": 71
+        },
+        {
+          "title": "女士荷尔蒙失调的13 个迹象",
+          "link": "https://www.mountelizabeth.com.sg/zh/health-plus/article/common-signs-hormonal-imbalance-women",
+          "snippet": "更常见的情况是，这些失衡是由雌激素和孕酮水平的波动刺激的，而雌激素和孕酮是负责女士性发育和生殖发育的激素。它们对女性的健康起着重要作用，即使是轻微 ...",
+          "date": "2021年8月10日",
+          "position": 72
+        },
+        {
+          "title": "长期使用激素疗法对于围绝经期和绝经后期女性。 - Cochrane Library",
+          "link": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004143.pub5/full/zh_HANS",
+          "snippet": "长期使用激素疗法对于围绝经期和绝经后期女性。 ... 对于围绝经期与绝经后期女性，使用1年或更长时间激素疗法（HT）的临床疗效是什么？ 背景. 激素疗法被用来 ...",
+          "date": "2017年1月17日",
+          "position": 73
+        },
+        {
+          "title": "致癌的雌激素 - 臺北榮民總醫院婦女醫學部-",
+          "link": "https://wd.vghtpe.gov.tw/obgy/Fpage.action?fid=3697",
+          "snippet": "生殖細胞腫瘤的產生與乳房及子宮內膜癌不同，它並沒有因細胞的增生而迅速的變為腫瘤；相反的，雌激素是導致胎兒的生殖細胞停頓在青春期前不去進一步發育的 ...",
+          "date": "2016年1月25日",
+          "position": 74
+        },
+        {
+          "title": "大豆含雌激素？到底还能不能吃？ - 天津市疾病预防控制中心",
+          "link": "https://www.cdctj.com.cn/system/2020/09/27/030032863.shtml",
+          "snippet": "大豆异黄酮就是大家担心的那种“雌激素”，不过它并不是真的雌激素，而是因为与人体内的雌激素结构相似，可以和人体细胞中的雌激素受体结合，发挥雌激素样效应， ...",
+          "date": "2020年9月27日",
+          "position": 75
+        },
+        {
+          "title": "雌激素- PI CN",
+          "link": "https://patients.uroweb.org/cn/glossary/%E9%9B%8C%E6%BF%80%E7%B4%A0/",
+          "snippet": "雌激素. Home » 雌激素. 控制女性特征的主要女性激素，对生殖周期和月经周期很重要。 本网站仅包含一般信息，并未考虑到您的个人病情。如果您对自己的健康有任何的疑问或 ...",
+          "position": 76
+        },
+        {
+          "title": "雌激素开始枯竭时，这些部位会出现变化",
+          "link": "https://www.jd.com/pccontent/241369",
+          "snippet": "雌激素过高可能引起的疾病 · 1、皮肤变差. 皮肤有许多雌性激素受体，缺乏雌性激素皮肤就会缺少弹性和光泽，出现变干、变皱、色素沉着等等问题，毛发也会变得干枯、灰白。 · 2 ...",
+          "position": 77
+        },
+        {
+          "title": "关于激素治疗：你需要了解的内容| Bangkok Hospital",
+          "link": "https://www.bangkokhospital.com/zh/content/know-the-truth-before-taking-hormones",
+          "snippet": "每个人体内都有男性和女性激素。女性化激素，如雌激素，会导致乳房组织生长，臀部变宽，体脂重新分布以形成女性体型，皮肤变得 ...",
+          "position": 78
+        },
+        {
+          "title": "补充雌激素会得乳腺癌？ - 科普中国-科学辟谣",
+          "link": "https://piyao.kepuchina.cn/h5/rumordetail?id=DLYJ",
+          "snippet": "乳腺是雌激素和孕激素的靶器官，因此现患或既往患有乳腺癌的女性是不能使用雌、孕激素的。对于患有病理证实的乳腺良性疾病，包括脂肪坏死、乳腺纤维瘤乳管乳头状瘤等的患者， ...",
+          "position": 79
+        },
+        {
+          "title": "雌激素 - 热心肠",
+          "link": "https://www.chinagut.cn/discovery/recommend/1154158088",
+          "snippet": "① 在两种小鼠CRC模型中，发现麦芽香肉杆菌干预以雌性特异性方式减少肠道肿瘤形成；② 雌激素通过增加与该细菌的DD-CPase结合的SLC3A2结肠表达，促进麦芽香肉杆菌附着和定植；③ ...",
+          "position": 80
+        },
+        {
+          "title": "認識「雌激素」！4個延緩「雌激素不足」的方法 - Women's Health",
+          "link": "https://www.womenshealthmag.com/tw/healthhealth/womenhealth/g40536386/estrogen/",
+          "snippet": "「雌激素」是女性身體裡的重要荷爾蒙之一，月經來會頭痛、失眠，或是更年期的身心不適，都可能是「雌激素不足」引發的症狀，不過別擔心，荷爾蒙作怪是可以 ...",
+          "date": "2022年7月13日",
+          "position": 81
+        },
+        {
+          "title": "卵巢囊腫、子宮肌瘤...「雌激素強勢」威脅女性健康？ - 美兆診所",
+          "link": "https://www.mjclinic.com.tw/?action=blog&id=84",
+          "snippet": "當體內雌激素過多但黃體素相對不足時，就會導致「雌激素強勢」（雌激素相對優勢，Estrogen Dominance），並隨之出現各種警訊，例如掉髮、胸部脹痛、經期不規律、 ...",
+          "date": "2023年5月11日",
+          "position": 82
+        },
+        {
+          "title": "[PDF] 特別企劃",
+          "link": "https://www.vghtc.gov.tw/UploadFiles/WebFiles/NewsFile/Files/70ffa120-76a3-458a-87ed-c33c9e9b75e7/%E9%9B%8C%E6%BF%80%E7%B4%A0%E5%A4%AA%E5%A4%9A%E9%81%8E%E5%B0%91%E9%83%BD%E4%B8%8D%E8%A1%8C.pdf",
+          "snippet": "我想原本熱絡的氣氛可能一下子. 就鴉雀無聲了。 其實女人與生俱來的卵巢最能左右肌膚的. 透亮，因為卵巢所分泌的雌激素可以平衡皮膚.",
+          "position": 83
+        },
+        {
+          "title": "女性激素：平衡才是王道 - 中国妇女",
+          "link": "http://www.womenofchina.com/sh/2020/1109/1913.html",
+          "snippet": "当一个女人处于恋爱状态时，体内的女性激素浓度会升高，在其刺激下，皮肤会收缩，使大量的水分子停留在皮肤基底胶原蛋白中，此时皮肤显得光滑、细腻、充满弹性 ...",
+          "date": "2014年11月20日",
+          "position": 84
+        },
+        {
+          "title": "警惕！外源性雌激素—— 男性的又一个“隐藏杀手” - 央广网",
+          "link": "http://www.cnr.cn/zhmyh/zhwz/20220620/t20220620_525874023.shtml",
+          "snippet": "而睾酮对于男性来说，不但与第二性征、性欲和性能力相关，还广泛影响情绪和智能、红细胞生成、骨代谢、蛋白质和肌肉合成以及脂肪分布。血睾酮水平的降低除了 ...",
+          "date": "2022年6月20日",
+          "position": 85
+        },
+        {
+          "title": "親密好朋友–女性荷爾蒙（懶人包）",
+          "link": "https://www.careonline.com.tw/2018/11/hormone.html",
+          "snippet": "在女性青春期之後，卵巢開始大量分泌雌激素。雌激素屬於類固醇類荷爾蒙，可以傳遞給子宮、乳房、骨骼等處。雌激素傳遞到子宮的訊息會讓子宮增大 ...",
+          "date": "2018年11月8日",
+          "position": 86
+        },
+        {
+          "title": "生理學-雌激素與孕激素生理作用 - 高點醫護網",
+          "link": "https://doctor.get.com.tw/m/journal/detail.aspx?no=402309",
+          "snippet": "對乳腺影響, 特促進乳腺發育，出現並維持第二性徵（刺激乳腺導管增生，促使脂肪沈積於乳腺）, 在雌激素作用的基礎上，主要是促進乳腺腺泡發育 ; 對子宮影響, 子宮內膜, 呈增生期 ...",
+          "position": 87
+        },
+        {
+          "title": "女性需要补充雌激素吗？缺乏雌激素的3个表现",
+          "link": "http://wjj.trs.gov.cn/ztzl/jkzs/201901/t20190108_2362640.html",
+          "snippet": "当患者雌激素减少时应该适当的补充，如果患者没症状时应该和医生一起讨论是否需要补充。 有一部分女性在补充雌激素时会有一定的恐惧感，能够接受通过服用 ...",
+          "date": "2019年1月8日",
+          "position": 88
+        },
+        {
+          "title": "补充雌激素无法远离衰老擅自服用难以激活卵巢会增加患病风险",
+          "link": "http://m.cnpharm.com/c/2019-04-16/657294.shtml",
+          "snippet": "盲目补充雌激素以期延迟绝经年龄延缓衰老的做法是错误的。绝经是卵巢功能衰竭的表现，卵巢功能的衰竭与雌激素的多少无关，而与卵巢内储备的原始卵泡数量相关 ...",
+          "date": "2019年4月16日",
+          "position": 89
+        },
+        {
+          "title": "研究发现补充雌激素可预防骨质疏松 - 中国康复研究中心",
+          "link": "https://www.crrc.com.cn/Html/News/Articles/19238.html",
+          "snippet": "中华预防医学会日本科学家发现，雌激素可调节专门分解骨组织的破骨细胞的寿命，从而达到维持骨钙含量、避免骨质疏松的效果。 肌体中存在分解骨组织的破骨细胞和形成骨骼 ...",
+          "position": 90
+        },
+        {
+          "title": "「停經前婦女」與「停經後婦女」之賀爾蒙補充一樣嗎？ - 長庚婦產科",
+          "link": "https://www1.cgmh.org.tw/intr/intr2/c4710/contents/m/20-4.htm",
+          "snippet": "正常女人的一生中，從「初經」（menarche，約發生於11~14歲時）到「停經」（menopause，約發生於45~55歲時），這三、四十年間，體內都有相當高濃度的雌激素（estrogens，女性賀爾蒙）， ...",
+          "position": 91
+        },
+        {
+          "title": "豆浆不能天天喝？喝豆浆前必看的7个真相 - 深圳市卫生健康委员会",
+          "link": "https://wjw.sz.gov.cn/gzcy/ywzs/jbyf/content/post_3192630.html",
+          "snippet": "传言：认为豆浆含有植物雌激素大豆异黄酮，会促进乳腺增生，对乳腺癌也不好。 真相：豆浆对乳腺增生的女性不仅没害，还有益。 大豆异黄酮的雌激素样作用比较 ...",
+          "date": "2019年6月25日",
+          "position": 92
+        },
+        {
+          "title": "選擇最適合自己的停經後荷爾蒙補充 - 奇美醫院136期醫訊",
+          "link": "https://www.chimei.org.tw/main/cmh_department/59012/magazin/vol136/05-2.html",
+          "snippet": "女性隨著年紀增長雌激素會逐漸變少，逐漸進入更年期，進而停經，一般說來婦女平均停經年齡約為50歲左右，停經之後因為缺乏雌激素，生理與心理會出現諸多不適，比如：潮紅 ...",
+          "position": 93
+        },
+        {
+          "title": "选择性雌激素受体调节剂(SERM) | 梯希爱(上海)化成工业发展有限公司",
+          "link": "https://www.tcichemicals.com/CN/zh/c/10342",
+          "snippet": "选择性雌激素受体调节剂(SERM) ; 产品编码, L0336 ; CAS RN, 190791-29-8 ; 纯度/分析方法, >98.0%(HPLC) ...",
+          "position": 94
+        },
+        {
+          "title": "荷爾蒙過多、過少，都不好！「2原因」荷爾蒙失衡提早來報到",
+          "link": "https://topic.moenv.gov.tw/edcs/cp-362-10001-e5801-6.html",
+          "snippet": "中醫師康涵菁說明，以雌激素來說，若分泌過多，經前症候群會相對比較明顯，例如：頭痛、乳房脹痛，還有腹部疼痛的症狀，都會比正常女性月經來潮前還要更嚴重。如果雌激素持續處於 ...",
+          "position": 95
+        },
+        {
+          "title": "吃大豆会让儿童性早熟？不同人群该如何对待大豆及其制品 - 中山市政府",
+          "link": "http://www.zs.gov.cn/bfz/zdlygk/syaq/content/post_2407528.html",
+          "snippet": "大豆异黄酮这种双向调节的作用，一方面可降低雌激素过高导致的乳腺癌发病率，另一方面对于雌激素水平较低的女性来说，可以缓解更年期的不适症状。 二、那么， ...",
+          "date": "2024年6月9日",
+          "position": 96
+        },
+        {
+          "title": "跨性别女性激素治疗期间的抗雄激素或雌二醇或两者结合治疗",
+          "link": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013138.pub2/full/zh_HANS",
+          "snippet": "目前的指南建议使用激素和手术干预（如需要）来帮助跨性别女性（即目标为从男性过渡到女性的人）的转换。在成人中，激素疗法旨在逆转身体的男性属性并促进女性 ...",
+          "date": "2020年11月28日",
+          "position": 97
+        },
+        {
+          "title": "植物性雌激素 - 馬偕紀念醫院",
+          "link": "https://www.mmh.org.tw/know_health_view.php?docid=205",
+          "snippet": "副作用：目前在人體並無報告顯示，從正常飲食中攝取植物性雌激素造成不良的影響，即使嬰兒整天均食用大豆配方奶粉也沒有不良報告，但在其他動物身上卻有發生過 ...",
+          "date": "2020年12月9日",
+          "position": 98
+        },
+        {
+          "title": "雌激素定量检测价格 - 丁香通",
+          "link": "https://www.biomart.cn/infosupply/40675294.htm",
+          "snippet": "人体内雌激素中活性最强的激素，主要来源于卵泡黄体和胎盘，男性主要来自睾丸。其生理作用为：①促使女性生殖器官的生长发育。②维持女性副性征作用、增强阴道对细菌的抵抗能力 ...",
+          "position": 99
+        }
+      ],
+      "images": [
+        {
+          "title": "实话石说丨神奇的雌激素，让人欢喜让人忧！（下） 中国非公立医疗机构 ...",
+          "imageUrl": "https://cdn.doc-exam.com/cms/cnmia/Upload/Content/2021-09-17/9bcee359-c439-4036-b057-ec2a9aacec87.jpg",
+          "link": "http://www.cnmia.org/DynamicDetail_F69CF201350C453181D1BFD9E3BA6DE6.html"
+        },
+        {
+          "title": "雌激素太低对身体有什么影响吗？",
+          "imageUrl": "https://imagepphcloud.thepaper.cn/pph/image/265/335/729.jpg",
+          "link": "https://m.thepaper.cn/newsDetail_forward_24200598"
+        },
+        {
+          "title": "女性更年期如何用雌激素- YouTube",
+          "imageUrl": "https://i.ytimg.com/vi/8GvL3NBGPvQ/maxresdefault.jpg",
+          "link": "https://m.youtube.com/watch?v=8GvL3NBGPvQ"
+        },
+        {
+          "title": "雌激素受体_百度百科",
+          "imageUrl": "https://bkimg.cdn.bcebos.com/smart/359b033b5bb5c9ea72dbd06bdf39b6003af3b30a-bkimg-process,v_1,rw_1,rh_1,pad_1,color_ffffff?x-bce-process=image/format,f_auto",
+          "link": "https://baike.baidu.com/item/%E9%9B%8C%E6%BF%80%E7%B4%A0%E5%8F%97%E4%BD%93/3081412"
+        },
+        {
+          "title": "雌激素经常用，这10 种用法你都掌握了吗？",
+          "imageUrl": "https://img1.dxycdn.com/2018/0208/396/3260029243140545477-10.jpg!w640",
+          "link": "https://e.dxy.cn/wisdom/front/zhihuihao/6285"
+        },
+        {
+          "title": "雌激素过多，会怎么样？",
+          "imageUrl": "https://imagepphcloud.thepaper.cn/pph/image/182/809/559.jpg",
+          "link": "https://m.thepaper.cn/newsDetail_forward_16995825"
+        },
+        {
+          "title": "雌激素- 维基百科，自由的百科全书",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Estradiol.png/1200px-Estradiol.png",
+          "link": "https://zh.wikipedia.org/zh-cn/%E9%9B%8C%E6%BF%80%E7%B4%A0"
+        },
+        {
+          "title": "中华医学会科普图文雌激素和孕激素，一对相爱相杀的“CP”",
+          "imageUrl": "http://www.cma.org.cn/picture/0/362c7cbef6a8461f997c168175da9361.jpg",
+          "link": "https://www.cma.org.cn/art/2022/7/28/art_4584_46696.html"
+        },
+        {
+          "title": "雌性激素“旺盛”的女人，身体会有哪些表现？不妨了解下_手机搜狐网",
+          "imageUrl": "https://p0.itc.cn/q_70/images03/20230502/67ca97c0acad4ca8b6b6f53c4899186a.jpeg",
+          "link": "https://www.sohu.com/a/672093876_121687414"
+        }
+      ],
+      "relatedSearches": [
+        {
+          "query": "怎样补充雌激素"
+        },
+        {
+          "query": "雌激素不足的症状"
+        },
+        {
+          "query": "雌激素食物"
+        },
+        {
+          "query": "雌激素高的症状"
+        },
+        {
+          "query": "雌激素高的食物"
+        },
+        {
+          "query": "雌激素副作用"
+        },
+        {
+          "query": "雌激素是荷尔蒙吗"
+        },
+        {
+          "query": "雌激素药物"
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "雌激素",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "关于男性骨骼的雄激素及雌激素受体调节的新见解",
+          "link": "https://onlinelibrary.wiley.com/pb-assets/assets/15234681/Chinese_doi10.1002jbmr.2529.pdf",
+          "snippet": "从那开始，已经有相当多的观察性和. 干预性实验证据(由Khosla等总结[2])表明，雌激素是. 男性骨代谢的主要调节因素。事实上，一种较为合理. 的理论是，睾酮是骨的一种激素前体， ...",
+          "position": 1
+        },
+        {
+          "title": "更年期",
+          "link": "https://www.who.int/zh/news-room/fact-sheets/detail/menopause",
+          "snippet": "更年期是由卵巢卵泡功能的丧失和循环血液中雌激素水平的下降引起的。 更年期的过渡可以是渐进的，通常从月经周期的变化开始。“围绝经期”是指从首次 ...",
+          "date": "2024年10月16日",
+          "position": 2
+        },
+        {
+          "title": "雌激素是友不是敌！（二） - 科普讲坛- 浙江省妇幼和生殖保健中心",
+          "link": "https://www.zjhsb.com/article/kp_01.html?id=745",
+          "snippet": "上期讲到雌激素是我们女性的好朋友，对皮肤血管骨骼都有益处；经过岁月的变幻，卵巢功能的衰退，雌激素分泌会越来越少，女性很多功能急速下降。衰老 ...",
+          "date": "2022年3月24日",
+          "position": 3
+        },
+        {
+          "title": "女性荷爾蒙失調的跡象| 友邦保險 - AIA",
+          "link": "https://www.aia.com/zh-hk/health-wellness/healthy-living/healthy-body/Hormonal-imbalance-in-women",
+          "snippet": "影響女性健康的荷尔蒙 · 雌激素：負責女性生殖器官的發育和維護。 · 孕酮：為子宮做好懷孕的準備，並促進胚胎的生長發育。 · 促卵泡激素：刺激卵泡的生長和成熟。 · 黃體成長激素： ...",
+          "position": 4
+        },
+        {
+          "title": "雌激素：無所不在的荷爾蒙，影響女性一生健康",
+          "link": "https://www.edh.tw/article/15809",
+          "snippet": "是誰在調控雌激素？ 女性進入青春期時，大腦的下視丘及腦下垂體受到刺激，就會下達指示給卵巢，使卵巢開始分泌雌激素，形成第二性徵及月經循環，為懷孕做好準備。 ... 腦部：刺激腦 ...",
+          "position": 5
+        },
+        {
+          "title": "雌激素与神经保护的研究进展 - 国际眼科杂志社（IJO Press）",
+          "link": "http://gjyk.ijournals.cn/gjykcn/article/html/20100347",
+          "snippet": "特别是雌激素在中风、老年性痴呆、帕金森病等中枢神经系统退行性疾病以及脊髓、坐骨神经损伤、急性脑出血、脑缺血、神经外伤等方面备受关注。但是关于雌激素在神经干细胞 ...",
+          "position": 6
+        },
+        {
+          "title": "美麗荷爾蒙30歲後每10年少15％！5個好習慣調養雌激素 - 美兆診所",
+          "link": "https://www.mjclinic.com.tw/cmp/?action=news&id=26",
+          "snippet": "雌激素為女性荷爾蒙之一，多由卵巢分泌，能促進膠原蛋白和彈性蛋白增生，幫助維持皮膚、頭髮、血管健康，抑制蝕骨細胞作用，有益腦部、中樞神經系統、膽固醇代謝、保護陰道及 ...",
+          "position": 7
+        },
+        {
+          "title": "雌激素能促进肺癌的生长 - 吉林省肿瘤医院",
+          "link": "https://www.jlszlyy.com/baojian/10815",
+          "snippet": "雌激素能促进肺癌的生长 ... 雌激素不但对乳腺癌的发展有影响。新的研究发现，雌激素还影响非小细胞肺癌的发展。匹兹堡大学Jill Siegfried博士指出，同正常肺 ...",
+          "date": "2016年12月15日",
+          "position": 8
+        },
+        {
+          "title": "化粧品成分安全檢查-雌激素篇 - SGS安心資訊平台",
+          "link": "https://msn.sgs.com/Knowledge/HIS/6228",
+          "snippet": "政府如何把關? 衛生福利部部授食字第1051600975號公告訂定「化粧品中禁止使用Estradiol、Estrone及Ethinyl estradiol成分」，凡含有此類成分之化粧品，自105 ...",
+          "date": "2022年10月31日",
+          "position": 9
+        },
+        {
+          "title": "克罗米芬和其他抗雌激素治疗与无排卵相关的生育力低下 - Cochrane",
+          "link": "https://www.cochrane.org/zh-hans/CD002249/MENSTR_ke-luo-mi-fen-he-qi-ta-kang-ci-ji-su-zhi-liao-yu-wu-pai-luan-xiang-guan-de-sheng-yu-li-di-xia",
+          "snippet": "很少有研究报告早孕之外的情况；鉴于报告的克罗米芬治疗有流产风险，因此无法得出关于有效治疗的明确结论。我们发现有证据表明，与5天方案相比，10天的克罗米芬柠檬酸盐方案可 ...",
+          "position": 10
+        },
+        {
+          "title": "胰岛素和FSH对体外培养猪卵泡颗粒细胞雌激素的影响",
+          "link": "http://html.rhhz.net/XMSYXB/html/2017/11/20171109.htm",
+          "snippet": "在卵泡发育阶段，卵泡GCs开始生成FSH和LH的受体。GCs通过“双细胞-双促性腺激素模式”促进E2的合成，E2的形成能促进LH受体的分化和芳香化酶的合成，从而能促进E2进一步的合成。",
+          "position": 11
+        },
+        {
+          "title": "[PDF] 雌激素缺乏与女性认知障碍关系的研究进展",
+          "link": "https://www.chinagp.net/CN/article/downloadArticleFile.do?attachType=PDF&id=3465",
+          "snippet": "【摘要】 雌激素是女性体内主要的性激素，循环中的雌激素能够维持女性生殖、正常性欲及女性第二性征，大. 脑中的雌激素能够帮助维持中枢神经系统稳态。",
+          "position": 12
+        },
+        {
+          "title": "“环境雌激素检测用化学发光免疫分析仪的研制”项目通过验收",
+          "link": "https://www.cas.cn/ky/kyzb/kyyq/201106/t20110623_3292818.shtml",
+          "snippet": "6月21日，计划财务局组织专家对生态环境研究中心承担的“环境雌激素检测用化学发光免疫分析仪的研制”项目进行现场验收。验收专家组认为，该仪器的技术 ...",
+          "date": "2011年6月23日",
+          "position": 13
+        },
+        {
+          "title": "[健康之路]雌激素的是与非传言二：补充雌激素会发胖",
+          "link": "https://tv.cctv.com/v/v1/VIDEBPlTosB1Piz5BSDJSmFz220520.html",
+          "snippet": "[健康之路]雌激素的是与非传言四：食物补充雌激素效果更好 · [健康中国]与卵巢功能下降 ...\n时长： 1:00\n发布时间： 2022年5月20日",
+          "date": "2022年5月20日",
+          "position": 14
+        },
+        {
+          "title": "雌激素入侵蒙特利尔河流 - 新闻- 科学网",
+          "link": "https://news.sciencenet.cn/htmlpaper/200810211039339153823.html",
+          "snippet": "结果发现，圣劳伦斯河中含有雌二醇，这是一种天然激素。同时发现，即便处理后的水，其每升水里面仍然含有的90纳克。而每升水1纳克的类固醇就会扰乱鱼类内分泌 ...",
+          "date": "2008年10月21日",
+          "position": 15
+        },
+        {
+          "title": "CN101036660A - 一种雌激素凝胶药物及其制备方法 - Google Patents",
+          "link": "https://patents.google.com/patent/CN101036660A/zh",
+          "snippet": "CN101036660A · 1、在室温下，将雌二醇溶于乙醇中，然后加入丙二醇、月桂氮 酮，搅拌1小时，使雌二醇完全溶解成溶液相，待用。 · 2、将卡波姆放入水中溶胀48小时后，加入三乙醇胺 ...",
+          "position": 16
+        },
+        {
+          "title": "短讯评价东方草药的雌激素和抗增殖活性 - ResearchGate",
+          "link": "https://www.researchgate.net/publication/344893858_duanxun_pingjiadongfangcaoyaodecijisuhekangzengzhihuoxing",
+          "snippet": "葛根（花）有最高的雌激素相对强度（相对强度，17-雌二醇=1.00）(7.8e-3)(相对强度：阳性对照)，接着是黄豆属（1.3e-3）,甘草，姜，大黄棕榈，芳香莪术，日本楷杷属，淡 ...",
+          "date": "2020年10月28日",
+          "position": 17
+        },
+        {
+          "title": "1066 雌激素代谢健康评估 - 瀚仕",
+          "link": "http://www.redoxfm.com/CN/laboratorydetail.asp?LaboratoryID=34&ClassID=2&DetailClassID=1",
+          "snippet": "雌激素的代谢主要由肝脏负责，分成二个阶段，第一阶段为羟化反应(Hydroxylation)，第二阶段为键结反应，包含甲基化(Methylation)、醛糖酸化(Glucuronidation)、硫酸盐化( ...",
+          "position": 18
+        },
+        {
+          "title": "環境雌激素與乳癌關係- 長安全方位乳房中心 - 長安醫院",
+          "link": "http://www.everanhospital.com.tw/breastcenter/news/item/234.html",
+          "snippet": "乳癌是一種和荷爾蒙息息相關的癌症，體內雌激素過高會增加罹患乳癌風險，這之間的關聯受到國際公認。據英國癌症研究指出：雌激素有助於某些類型的乳癌通過 ...",
+          "date": "2019年1月8日",
+          "position": 19
+        },
+        {
+          "title": "研究发现雌激素诱导血小板形成 - 生物通",
+          "link": "https://m.ebiotrade.com/newsf/2003-12/L2003122175454.htm",
+          "snippet": "Yuka Nagata 和Kazuo Todokoro博士在12月1日期的《基因与发育》杂志上报道，人体内含量最丰富的天然形式雌激素－－雌二醇，诱导血小板细胞的形成。这一发现对于血小板数量改变 ...",
+          "position": 20
+        },
+        {
+          "title": "植物性雌激素(賀爾蒙)對改善婦女更年期症狀是否有效益",
+          "link": "https://wd.vghtpe.gov.tw/ctm/Fpage.action?muid=13364&fid=12401",
+          "snippet": "可利用鍵盤Ctrl + (+)放大(-)縮小來改變字型大小』之文字說明. 植物性雌激素(賀爾蒙)對改善婦女更年期症狀是否有效益？ ... 屆臨更年期的婦女由於卵巢功能 ...",
+          "date": "2020年10月23日",
+          "position": 21
+        },
+        {
+          "title": "ar敲除对斑马鱼肝脏中的雌激素信号通路和性激素水平的影响",
+          "link": "http://ssswxb.ihb.ac.cn/cn/supplement/634a21eb-c2d6-46e8-8cf1-8fc3cf6412e7",
+          "snippet": "ar敲除对斑马鱼肝脏中的雌激素信号通路和性激素水平的影响. 2022, 46(9): 1277-1284. 雄激素受体缺乏抑制肝脏Vtg合成导致卵巢发育障碍.",
+          "position": 22
+        },
+        {
+          "title": "牛奶能喝吗？含雌激素食物能不能吃？这份肿瘤营养专家饮食 ... - 杭州网",
+          "link": "https://hznews.hangzhou.com.cn/kejiao/content/2021-07/07/content_8002491.htm",
+          "snippet": "姚庆华：牛奶确实含有胰岛素样生长因子（IGF-1），但含量很低，其本身是一段蛋白质，喝下去后就被消化道中的消化酶分解；同时，牛奶出厂前的加工过程也会导致 ...",
+          "date": "2021年7月7日",
+          "position": 23
+        },
+        {
+          "title": "子宫内膜异位症",
+          "link": "https://www.who.int/zh/news-room/fact-sheets/detail/endometriosis",
+          "snippet": "例如，已知子宫内膜异位症是雌激素依赖性疾病，雌激素会增加与此病相关的炎症、生长和疼痛。然而，雌激素和子宫内膜异位症之间的关系较为复杂，因为缺乏雌激素 ...",
+          "date": "2023年3月24日",
+          "position": 24
+        },
+        {
+          "title": "雌激素受体阳性乳腺癌预后的相关因素分析",
+          "link": "http://manu65.magtech.com.cn/Jwk3_lczlxzz/CN/abstract/abstract1744.shtml",
+          "snippet": "摘要： 目的探讨影响雌激素受体（ER）阳性乳腺癌患者预后的因素。 方法收集2006年1月至2009年11月诊治的229例ER阳性乳腺癌患者的临床和随访资料，分析其临床病理参数中与 ...",
+          "position": 25
+        },
+        {
+          "title": "神經部- 女性賀爾蒙與認知功能的關係 - 台大醫院",
+          "link": "https://www.ntuh.gov.tw/neur/Fpage.action?fid=945",
+          "snippet": "雌激素 (Estrogen)在動物實驗模式已證實有維持及保護神經系統的功能。雖然其實際機轉仍有許多爭議，但整體而言，人類，尤其是女性對中樞神經的認知功能，它可能扮演 ...",
+          "position": 26
+        },
+        {
+          "title": "雌性激素“旺盛”的女人，身体会有哪些表现？不妨了解下 - 搜狐",
+          "link": "https://www.sohu.com/a/672093876_121687414",
+          "snippet": "雌性激素属于是女性身体当中的一项激素物质一般会通过卵巢进行分泌，同时雌激素还可以帮助女性维持身体特征，使皮肤变得更加细腻，也能够使气色变得红润 ...",
+          "date": "2023年4月26日",
+          "position": 27
+        },
+        {
+          "title": "香港将禁奶制品含雌激素 - RFI",
+          "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20110609-%E9%A6%99%E6%B8%AF%E5%B0%86%E7%A6%81%E5%A5%B6%E5%88%B6%E5%93%81%E5%90%AB%E9%9B%8C%E6%BF%80%E7%B4%A0",
+          "snippet": "虽然截至目前为止，香港食物安全中心并未在市售奶粉中检测出有毒物质，但在中国内地传出奶制品含有雌激素后，香港食物安全中心建议修例，把雌激素包括在 ...",
+          "date": "2011年6月9日",
+          "position": 28
+        },
+        {
+          "title": "面對更年期免驚！善用雌激素性福在敲門！【家有許事許書華】feat ...",
+          "link": "https://www.youtube.com/watch?v=glzfkJ7ahXw",
+          "snippet": "成為《健康2.0》Youtube頻道會員並獲得獎勵▷https://bit.ly/30Jyoc3 逆轉失眠不吃藥 ...\n时长： 6:09\n发布时间： 2022年3月10日",
+          "date": "2022年3月10日",
+          "position": 29
+        },
+        {
+          "title": "讓戀愛荷爾蒙源源不絕的小技巧",
+          "link": "https://www.lianan.com.tw/drliananepaper/Article/219",
+          "snippet": "讓戀愛荷爾蒙源源不絕的小技巧，女性荷爾蒙可稱為雌激素或動情素，不僅在體內促進和維持女性生殖器官的發育與成熟，同時也是輔助神經系統、心血管系統、骨骼、泌尿系統…",
+          "position": 30
+        },
+        {
+          "title": "雌激素受体及其与乳腺癌相关性研究进展",
+          "link": "https://pps.cpu.edu.cn/cn/article/id/edd95421-715b-4d9a-97cc-6e0ea39961c9",
+          "snippet": "摘要: 乳腺癌作为一种激素依赖性肿瘤，其发生、发展与雌激素受体的表达密切相关。雌激素可调节多种生理过程，例如细胞生长、增殖、发育和分化。而雌激素受体与雌激素结合 ...",
+          "position": 31
+        },
+        {
+          "title": "【荷尔蒙失调】月经乱？生暗疮？7大特徵及解决方法",
+          "link": "https://www.heal-medical.com/sc/tips-and-knowledges/hormonal-imbalance-7-major-symptoms-and-solutions/",
+          "snippet": "首先，荷尔蒙是人体内调节生理功能的重要物质，不同的荷尔蒙有不同的作用，例如甲状腺素负责调节身体的新陈代谢；女性荷尔蒙如雌激素、黄体素则负责调节月经、排卵等。",
+          "position": 32
+        },
+        {
+          "title": "喝豆浆会使雌激素过高吗-文摘报-光明网",
+          "link": "https://epaper.gmw.cn/wzb/html/2015-08/22/nw.D110000wzb_20150822_4-04.htm",
+          "snippet": "另外，豆浆中的大豆异黄酮含量并不高，喝一杯200毫升的豆浆摄入的大豆异黄酮才不过20毫克，这个剂量水平不可能使男性出现女性化的特征。而且，正常男性每天 ...",
+          "date": "2015年8月22日",
+          "position": 33
+        },
+        {
+          "title": "雌激素和孕激素作为HRT 成分的主要选择：临床药理学观点 - X-MOL",
+          "link": "https://www.x-mol.com/paper/1531698582462230528/t",
+          "snippet": "在雌激素方面，决定主要是使用雌二醇（E2）还是结合马雌激素（CEE）。这些是有效治疗更年期症状或/和预防骨质疏松症所需的成分，这是目前唯一标记的适应症。关于 ...",
+          "date": "2022年5月31日",
+          "position": 34
+        },
+        {
+          "title": "更年期與荷爾蒙治療",
+          "link": "https://www1.cgmh.org.tw/intr/intr4/c8710/C3/Content/Content3/C3_3_210.htm",
+          "snippet": "婦女到更年期，卵巢機能漸漸退化，到停經就既不排卵又不分泌荷爾蒙，雌激素(女性荷爾蒙)的降低就是主要構成種種更年期、停經後問題的原因。這些包括：熱潮紅、盜汗、心悸、不安 ...",
+          "position": 35
+        },
+        {
+          "title": "CN1169116A - 抑制环境雌激素的方法 - Google Patents",
+          "link": "https://patents.google.com/patent/CN1169116A/zh",
+          "snippet": "抑制环境雌激素作用的方法，包括给与需要的人或其它动物有效量的式(I)化合物或者其溶剂化物的药用盐，其中R 1 和R 3 单独为氢，-CH 3 ，(a)或(b)，其中Ar为任选取代苯基；R 2 ...",
+          "position": 36
+        },
+        {
+          "title": "雌激素相关受体γ（ESRRG）基因- Gene - MCE",
+          "link": "https://www.medchemexpress.cn/gene/2104.html",
+          "snippet": "雌激素相关受体γ： 该基因编码雌激素受体相关受体(ESRR) 家族的成员，该家族属于核激素受体超家族。 ESRR 家族的所有成员共享一个几乎相同的DNA 结合域，该域由两个C4 型 ...",
+          "position": 37
+        },
+        {
+          "title": "雌激素很重要！: 把握關鍵10年，改善更年期不適，遠離乳癌、心臟病",
+          "link": "https://www.amazon.com/%E9%9B%8C%E6%BF%80%E7%B4%A0%E5%BE%88%E9%87%8D%E8%A6%81%EF%BC%81-%E6%8A%8A%E6%8F%A1%E9%97%9C%E9%8D%B510%E5%B9%B4%EF%BC%8C%E6%94%B9%E5%96%84%E6%9B%B4%E5%B9%B4%E6%9C%9F%E4%B8%8D%E9%81%A9%EF%BC%8C%E9%81%A0%E9%9B%A2%E4%B9%B3%E7%99%8C%E3%80%81%E5%BF%83%E8%87%9F%E7%97%85%E3%80%81%E9%AA%A8%E8%B3%AA%E7%96%8F%E9%AC%86%E5%92%8C%E5%A4%B1%E6%99%BA-%E9%98%BF%E5%A4%AB%E9%AD%AF%E5%A7%86-%E5%B8%83%E7%9B%A7%E6%98%8E-Avrum-Bluming-ebook/dp/B0CW5ZKBBT",
+          "snippet": "雌激素很重要！: 把握關鍵10年，改善更年期不適，遠離乳癌、心臟病、骨質疏鬆和失智(Traditional Chinese Edition) - Kindle edition by 阿夫魯姆.布盧明(Avrum Bluming), ...",
+          "currency": "US$",
+          "price": 9.99,
+          "position": 38
+        },
+        {
+          "title": "【医聊】小叶增生大部分女性都有～雌激素来告诉你原因 - QQ News",
+          "link": "https://news.qq.com/rain/a/20210515A0A84M00",
+          "snippet": "你好，我是人类的雌激素，主要来源于卵巢，是女性特征的主要激素。因为我，女性才拥有了孕育人类幼崽的可能性。小贴士：男性也有雌激素，肾上腺皮质会分泌 ...",
+          "date": "2021年5月15日",
+          "position": 39
+        },
+        {
+          "title": "女性進入更年期，身體發生變化，器官功能減退 - 東元綜合醫院",
+          "link": "https://www.tyh.com.tw/b_news_s.php?new_id=1388",
+          "snippet": "大概45歲開始，有些女性可能早在35歲就開始，卵巢分泌雌激素和黃體素逐漸減少，排卵和月經變得不規則，生育能力下降。此期通常持續4-5年或更久，在後期的1-2年，由於激素分泌加速 ...",
+          "position": 40
+        },
+        {
+          "title": "博客來-雌激素很重要！：把握關鍵10年，改善更年期不適，遠離乳癌",
+          "link": "https://www.books.com.tw/products/0010979518?srsltid=AfmBOorT1_C_QzGJjClzq7_0onlCPMosaRB-9YoFrXVpiRTlZB1UA8jf",
+          "snippet": "書名：雌激素很重要！：把握關鍵10年，改善更年期不適，遠離乳癌、心臟病、骨質疏鬆和失智，原文名稱：Estrogen Matters：Why Taking Hormones in Menopause Can Improve ...",
+          "position": 41
+        },
+        {
+          "title": "為什麼少了雌激素的更年期，會出現這麼多症狀？ - Heho健康",
+          "link": "https://heho.com.tw/archives/40870",
+          "snippet": "為什麼少了雌激素的更年期，會出現這麼多症狀？ ... 當慢慢步入更年期，身體會開始出現大大小小的症狀，其實就是因為缺乏雌激素造成的。不過雌激素是刺激子宮內 ...",
+          "date": "2019年3月7日",
+          "position": 42
+        },
+        {
+          "title": "因排卵问题引起的不孕症 - 默沙东诊疗手册",
+          "link": "https://www.msdmanuals.cn/home/women-s-health-issues/infertility-and-recurrent-miscarriage/infertility-problems-with-ovulation",
+          "snippet": "卵巢产生雌性激素雌激素和孕酮，最终控制月经。 当该系统的某一部分无法正常运作时，就会出现排卵（卵子释放）问题。如果上述任何步骤或激素不正常，排卵可能会受到影响。",
+          "position": 43
+        },
+        {
+          "title": "为什么成年人也要补钙？_云南省卫健委",
+          "link": "http://ynswsjkw.yn.gov.cn/html/2024/xuanchuankejiao_1101/4021909.html",
+          "snippet": "... 女性由于绝经后雌激素减少，骨量丢失更严重，因此女性发病率高于男性。所以说，在人生的各年龄段，始终给予充足的钙摄入，是维护骨骼健康的重要措施之 ...",
+          "date": "3天前",
+          "position": 44
+        },
+        {
+          "title": "雌激素不足中年男缺性致| 最新消息 - 中國醫藥大學附設醫院",
+          "link": "https://www.cmuh.cmu.edu.tw/NewsInfo/NewsArticle?no=2219",
+          "snippet": "雌激素不足中年男缺性致. 研究發現，男性也需要雌激素，若是雌激素不足，會導致某些「男性更年期」症狀出現。麻州綜合醫院（MGH）的芬克斯坦（Joel Finkelstein） ...",
+          "date": "2013年9月13日",
+          "position": 45
+        },
+        {
+          "title": "重庆长江流域水体中8种典型环境雌激素污染特征 - E方知库",
+          "link": "http://eekw.rcees.ac.cn/article/id/1068546b-9846-4a2f-8d38-83b9c5e3e068",
+          "snippet": "重庆长江流域水体中8种典型环境雌激素污染特征 · 1. 重庆市固体废物管理中心, 重庆400020; · 2. 生态环境部华南环境科学研究所, 国家环境保护环境污染健康风险评价重点实验室 ...",
+          "position": 46
+        },
+        {
+          "title": "雌激素在非小细胞肺癌中的研究进展-期刊-万方数据知识服务平台",
+          "link": "https://d.wanfangdata.com.cn/periodical/zgfazz201707013",
+          "snippet": "本文就雌激素系统及抗雌激素治疗在NSCLC中的作用作一综述. 关键词：. 肺肿瘤雌激素雌激素受体抗雌激素治疗表皮生长因子受体酪氨酸激酶抑制剂. 机标分类 ...",
+          "date": "2017年8月3日",
+          "position": 47
+        },
+        {
+          "title": "醫揭雌激素過多的「9大原因」！癌症、憂鬱、失眠都是因為「它」在 ...",
+          "link": "https://health.tvbs.com.tw/medical/337201",
+          "snippet": "在「黃體素過少」或是「雌激素過多」而造成的「相對雌激素過高」時，身體會出現很多問題，像是水腫、子宮內膜異位、經痛、脾氣煩躁、憂鬱、失眠、性慾低、 ...",
+          "date": "2023年1月3日",
+          "position": 48
+        },
+        {
+          "title": "雌激素是什么 - 亲子百科",
+          "link": "https://baike.pcbaby.com.cn/qzbd/12625.html",
+          "snippet": "雌激素是什么？雌激素是由卵巢产生的女性激素，能维持和促进女性生殖器官和第二性征，过低或过高都可诱发妇科疾病。",
+          "position": 49
+        },
+        {
+          "title": "停經女性補充荷爾蒙不能只服用雌激素避免子宮內膜增生或癌化",
+          "link": "https://www.commonhealth.com.tw/blog/2976",
+          "snippet": "義大利摩德納大學研究團隊所追蹤的女性，有些因為遭遇更年期症狀的困擾必須服用荷爾蒙，其中，子宮已經切除的女性只補充雌激素，有子宮的女性則同時給予雌激素 ...",
+          "date": "2018年10月12日",
+          "position": 50
+        },
+        {
+          "title": "[互联网联合辟谣平台]今日辟谣（2024年10月28日）",
+          "link": "https://weda.wuhu.gov.cn/xwzx/mtjj/18451975.html",
+          "snippet": "①月经初潮年龄≤12岁；②绝经年龄≥55岁；③有乳腺活检史或乳腺良性疾病手术史，或病理证实的乳腺（小叶或导管）不典型增生病史；④使用“雌孕激素联合”的激素 ...",
+          "date": "6天前",
+          "position": 51
+        },
+        {
+          "title": "缓解更年期不适家人关怀是“良方” - 中国经济网",
+          "link": "http://m.ce.cn/xjk/jk/202410/28/t20241028_39183869.shtml",
+          "snippet": "女性更年期是指绝经前后的一段时期，包含了围绝经期和绝经过渡期，是女性必须经历的一个生理阶段。更年期综合征是指妇女绝经前后出现雌激素波动或减少所致的 ...",
+          "date": "7天前",
+          "position": 52
+        },
+        {
+          "title": "你关心的乳腺癌防治问题看这里 - 科技日报",
+          "link": "https://www.stdaily.com/web/gdxw/2024-10/28/content_248976.html",
+          "snippet": "乳腺癌是全球高发的恶性肿瘤，其发病率居女性恶性肿瘤首位，被称为“红颜杀手”。 ... 长期服用含有雌激素的药物或保健品，也可能增加患病几率，如长期口服避孕 ...",
+          "date": "7天前",
+          "position": 53
+        },
+        {
+          "title": "大豆異黃酮是植物雌激素！4大好處養出好膚質健康2.0@tvbshealth20",
+          "link": "https://www.youtube.com/watch?v=RtDc02VHupY",
+          "snippet": "現在訂閱《健康2.0》➔https://bit.ly/2IBSoRr 失眠引爆重病危機 最新助眠解方 https://bit ...\n时长： 12:47\n发布时间： 2024年4月14日",
+          "date": "2024年4月14日",
+          "position": 54
+        },
+        {
+          "title": "【查症狀】雌性激素不足 - 華人健康網",
+          "link": "https://www.top1health.com/Article/25094",
+          "snippet": "假若雌性激素分泌失調，或各種雌性激素之間比例失衡，就可能出現生殖生理和主觀感覺方面的異常反應。雌性激素偏低能影響卵子發育；各種雌性激素比例失衡會引起月經前 ...",
+          "position": 55
+        },
+        {
+          "title": "男子记下妻子例假，最怕那几天...",
+          "link": "http://wsjkw.hangzhou.gov.cn/art/2024/11/4/art_1229113704_58939305.html",
+          "snippet": "多种内分泌因素 最相关的激素有雌激素和孕激素水平波动，或其反应异常敏感，如低血糖、高泌乳素血症、醛固酮或抗利尿激素过多等。 镁、钙不足 钙补剂 ...",
+          "date": "4小时前",
+          "position": 56
+        },
+        {
+          "title": "红斑狼疮是绝症吗？常规体检能否发现？你想了解的都在这里",
+          "link": "https://www.fuzhou.gov.cn/zgfzzt/swjw/fzwj/jkkp/202410/t20241029_4916616.htm",
+          "snippet": "该病更常见于育龄女性，女性患者的比例是男性的9倍。 红斑狼疮是一种 ... 其他诱因包括病毒感染、服用某些药物、接触某些化学物质及雌激素的异常等。",
+          "date": "6天前",
+          "position": 57
+        },
+        {
+          "title": "女性“雌激素”充足，身体往往有这3个表现，若你也有，值得恭喜 - 网易",
+          "link": "https://www.163.com/dy/article/J02294K30514RH8K.html",
+          "snippet": "雌激素对于女性的健康来说是非常重要的，女性的内分泌系统、新陈代谢、以及骨骼的发育都离不开雌激素。当体内的雌激素充足时，女性的皮肤能够保持良好的 ...",
+          "date": "2024年4月18日",
+          "position": 58
+        },
+        {
+          "title": "警惕身上长的这些小红点，可能是身体亮出的“红灯”！",
+          "link": "https://wsjk.tj.gov.cn/JKJY5233/JKZS7782/202112/t20211206_5742518.html",
+          "snippet": "常见于面部、颈部、上胸部、肩部及上肢等部位。 蜘蛛痣多和内分泌相关，尤其和雌激素的水平变化密切相关。因此，皮肤出现蜘蛛痣并不 ...",
+          "date": "2021年12月6日",
+          "position": 59
+        },
+        {
+          "title": "雌激素太多會導致癌症嗎？配合黃體素服用幾乎不會！ - Heho健康",
+          "link": "https://heho.com.tw/archives/20565",
+          "snippet": "雌激素太多會導致癌症嗎？配合黃體素服用幾乎不會！ ... 許多更年期婦女會藉由荷爾蒙療法來減緩更年期症狀，但有許多研究指出，雌激素過高會導致子宮內膜癌、 ...",
+          "date": "2018年8月22日",
+          "position": 60
+        },
+        {
+          "title": "今日辟谣（2024年10月28日） - 新华日报",
+          "link": "https://www.xhby.net/content/s671f5cf7e4b00cab55ab11f8.html",
+          "snippet": "①月经初潮年龄≤12岁；②绝经年龄≥55岁；③有乳腺活检史或乳腺良性疾病手术史，或病理证实的乳腺（小叶或导管）不典型增生病史；④使用“雌孕激素联合”的激素替代 ...",
+          "position": 61
+        },
+        {
+          "title": "今日辟谣（2024年10月28日） - 中国雄安官网",
+          "link": "http://www.xiongan.gov.cn/2024-10/28/c_1212406125.htm",
+          "snippet": "①月经初潮年龄≤12岁；②绝经年龄≥55岁；③有乳腺活检史或乳腺良性疾病手术史，或病理证实的乳腺（小叶或导管）不典型增生病史；④使用“雌孕激素联合”的激素 ...",
+          "date": "7天前",
+          "position": 62
+        },
+        {
+          "title": "诺雷得10.8mg剂型乳腺癌适应症获批 - 广东新闻",
+          "link": "http://www.gd.chinanews.com.cn/2024/2024-10-28/437712.shtml",
+          "snippet": "醋酸戈舍瑞林是一种合成的促性腺激素释放激素类似物，长期使用可抑制脑垂体促性腺激素的分泌，从而降低女性血清中的雌二醇水平和抑制雌激素敏感的肿瘤生长。",
+          "date": "7天前",
+          "position": 63
+        },
+        {
+          "title": "雌激素恐提高乳癌風險但多吃「這個」可防癌防復發 - Yahoo奇摩新聞",
+          "link": "https://tw.news.yahoo.com/%E9%9B%8C%E6%BF%80%E7%B4%A0%E6%81%90%E6%8F%90%E9%AB%98%E4%B9%B3%E7%99%8C%E9%A2%A8%E9%9A%AA-%E4%BD%86%E5%A4%9A%E5%90%83-%E9%80%99%E5%80%8B-%E5%8F%AF%E9%98%B2%E7%99%8C%E9%98%B2%E5%BE%A9%E7%99%BC-065217079.html",
+          "snippet": "關於這些訴求，有很多爭議。其中最令人誤解的就是植物雌激素了，因為國人常吃的黃豆製品，例如豆漿、豆腐就含有大量的植物雌激素—異黃酮(isoflavone)。一些較 ...",
+          "date": "2024年9月30日",
+          "position": 64
+        },
+        {
+          "title": "【清华长庚科普】高血脂如何正确用药及注意事项",
+          "link": "https://wjw.beijing.gov.cn/bmfw_20143/jkzs/jbzs/202410/t20241029_3930173.html",
+          "snippet": "值得注意的是雌激素缺乏也可导致高脂血症的发生。 高脂血症一般没有明显不适的症状，大多数都是在因其他疾病就诊或常规体检时发现，也有部分患者 ...",
+          "date": "6天前",
+          "position": 65
+        },
+        {
+          "title": "昌邑市人民医院妇科：带您了解“更年期” - 养生保健- 潍坊新闻网",
+          "link": "http://m.wfnews.com.cn/content/2024-10/28/content_2622730.htm",
+          "snippet": "昌邑市人民医院妇科的专家表示，围绝经期女性雌激素处于较低水平，雌激素对身体的保护作用下降。这一时期，也正是许多疾病（骨质疏松，糖尿病，心脑 ...",
+          "date": "7天前",
+          "position": 66
+        },
+        {
+          "title": "今日辟谣（2024年10月28日） - 南海网",
+          "link": "http://www.hinews.cn/piyao/system/2024/10/28/033220660.shtml",
+          "snippet": "①月经初潮年龄≤12岁；②绝经年龄≥55岁；③有乳腺活检史或乳腺良性疾病手术史，或病理证实的乳腺（小叶或导管）不典型增生病史；④使用“雌孕激素联合”的激素 ...",
+          "date": "7天前",
+          "position": 67
+        },
+        {
+          "title": "今日辟谣（2024年10月28日） - 淮北新闻网",
+          "link": "http://www.hbnews.net/X9k6zAkO/D77abIYD/wqkNnk6W/content_dqo2wc4N.html",
+          "snippet": "①月经初潮年龄≤12岁；②绝经年龄≥55岁；③有乳腺活检史或乳腺良性疾病手术史，或病理证实的乳腺（小叶或导管）不典型增生病史；④使用“雌孕激素联合”的激素 ...",
+          "date": "7天前",
+          "position": 68
+        },
+        {
+          "title": "今日辟谣（2024年10月28日） - 新闻- 温州网",
+          "link": "https://news.66wz.com/system/2024/10/28/105658979.shtml",
+          "snippet": "①月经初潮年龄≤12岁；②绝经年龄≥55岁；③有乳腺活检史或乳腺良性疾病手术史，或病理证实的乳腺（小叶或导管）不典型增生病史；④使用“雌孕激素联合”的激素 ...",
+          "date": "7天前",
+          "position": 69
+        },
+        {
+          "title": "Nature | EZH2/AKT抑制剂联合疗法或可用于治疗三阴性乳腺癌",
+          "link": "https://bydrug.pharmcube.com/news/detail/6636e2272641c406cec4f2d828752aa8",
+          "snippet": "ByDrug医药新闻摘要⌋ 2024-11-04 09:00，BioArt：三阴性乳腺癌（Triple-Negative Breast Cancer, TNBC ） 是一种乳腺癌的亚型，三阴性指的是的雌激素受体（ER ）、孕激素受 ...",
+          "position": 70
+        },
+        {
+          "title": "你关心的乳腺癌防治问题看这里 - 新华网",
+          "link": "http://www.news.cn/politics/20241027/96416fc48d40497c846d9fa0a708ffb7/c.html",
+          "snippet": "乳腺癌是全球高发的恶性肿瘤，其发病率居女性恶性肿瘤首位，被称为“红颜杀手”。 ... 长期服用含有雌激素的药物或保健品，也可能增加患病几率，如长期口服避孕 ...",
+          "date": "8天前",
+          "position": 71
+        },
+        {
+          "title": "应对更年期雌激素到底能不能补？怎么补？20220309 - YouTube",
+          "link": "https://www.youtube.com/watch?v=o5tw--tp83E",
+          "snippet": "本期节目主要内容：女性到了50岁上下，卵巢功能就会逐渐衰退乃至衰竭，体内的雌激素水平会出现断崖式下降，身体的多个器官会出现一系列功能障碍， ...",
+          "date": "2022年3月9日",
+          "position": 72
+        },
+        {
+          "title": "更年期保健食品怎麼挑？一天要吃多少？藥師推薦補充「6大營養素」",
+          "link": "https://www.uho.com.tw/article-64899.html",
+          "snippet": "鈣. 首先是鈣，一旦身體裡面的雌激素分泌下降，骨密度也會因此受到影響，人到了中年以後鈣 ...",
+          "date": "3天前",
+          "position": 73
+        },
+        {
+          "title": "“自带”黄体酮的6种食物，雌激素丰富，女性需常吃，建议了解下 - 搜狐",
+          "link": "https://www.sohu.com/a/621025203_121119378",
+          "snippet": "黄体酮是女性卵巢分泌的一种物质，可以有效促调整女性的雌性激素水平，但是若出现了如黄体功能不足的情况，则可能会导致月经血量明显减少，还可能会引起 ...",
+          "date": "2022年12月25日",
+          "position": 74
+        },
+        {
+          "title": "更年期失眠原因，雌激素、黃體素、褪黑激素減少是3大元凶！4對策 ...",
+          "link": "https://www.fiftyplus.com.tw/articles/29744",
+          "snippet": "更年期困擾不少，失眠、易怒會讓原本的生活改變，甚至會影響人際關係。功能醫學營養師呂美寶指出更年期失眠與3大荷爾蒙雌激素、黃體素、褪黑激素有關， ...",
+          "date": "2024年1月10日",
+          "position": 75
+        },
+        {
+          "title": "鹤发童颜！夫妻同行，丈夫被误认为是“恋童癖” - 梅斯医学",
+          "link": "https://m.medsci.cn/article/show_article.do?id=177684969511",
+          "snippet": "但是不幸的是，Lyndsey的垂体失去了分泌生长激素和雌激素等大量重要功能，这个损失无法修复。也就是说，Lyndsey一辈子都将无法长大。 横纹肌肉瘤 ...",
+          "date": "14小时前",
+          "position": 76
+        },
+        {
+          "title": "今日辟谣（2024年10月28日） - 忻州日报",
+          "link": "http://www.xzrbw.com/info/1168/390487.htm",
+          "snippet": "①无哺乳史或哺乳时间<4个月；②无活产史（含从未生育、流产、死胎）或初次活产年龄≥30岁；③仅使用“雌激素”的激素替代治疗不少于半年；④流产（含自然流产和人工流产）≥2次。",
+          "position": 77
+        },
+        {
+          "title": "你关心的乳腺癌防治问题看这里- 社会（即时新闻） - 东南网",
+          "link": "http://news.fjsen.com/2024-10/28/content_31765250.htm",
+          "snippet": "乳腺癌是全球高发的恶性肿瘤，其发病率居女性恶性肿瘤首位，被称为“红颜杀手”。 ... 长期服用含有雌激素的药物或保健品，也可能增加患病几率，如长期口服避孕 ...",
+          "date": "7天前",
+          "position": 78
+        },
+        {
+          "title": "辟谣（2024年10月28日） - 新闻- 北国网",
+          "link": "https://news.lnd.com.cn/system/2024/10/31/030488811.shtml",
+          "snippet": "①月经初潮年龄≤12岁；②绝经年龄≥55岁；③有乳腺活检史或乳腺良性疾病手术史，或病理证实的乳腺（小叶或导管）不典型增生病史；④使用“雌孕激素联合”的激素 ...",
+          "date": "4天前",
+          "position": 79
+        },
+        {
+          "title": "今日辟谣（2024年10月28日） - 华山网",
+          "link": "https://www.hshan.com/folder1156/2024-10-29/930173.html",
+          "snippet": "①月经初潮年龄≤12岁；②绝经年龄≥55岁；③有乳腺活检史或乳腺良性疾病手术史，或病理证实的乳腺（小叶或导管）不典型增生病史；④使用“雌孕激素联合”的激素 ...",
+          "date": "6天前",
+          "position": 80
+        },
+        {
+          "title": "今日辟谣（2024年10月28日） - 半岛网",
+          "link": "http://news.bandao.cn/a/1730110240372217.html",
+          "snippet": "（来源：央视新闻客户端、四川互联网举报辟谣平台）乳腺癌是我国女性最常见的恶性肿瘤之一，发病率位居我国女性 ... 雌孕激素联合”的激素替代治疗不少于半年；⑤45岁后乳腺X线检查 ...",
+          "position": 81
+        },
+        {
+          "title": "乳腺癌防治月：你关心的乳腺癌防治问题看这里 - 中国经济网",
+          "link": "http://m.ce.cn/lv/gd/202410/28/t20241028_39182722.shtml",
+          "snippet": "乳腺癌是全球高发的恶性肿瘤，其发病率居女性恶性肿瘤首位，被称为“红颜杀手”。 ... 长期服用含有雌激素的药物或保健品，也可能增加患病几率，如长期口服避孕 ...",
+          "date": "7天前",
+          "position": 82
+        },
+        {
+          "title": "今日辟谣（2024年10月28日） - 紫牛新闻",
+          "link": "http://www.yzwb.net/zncontent/4106430.html",
+          "snippet": "①月经初潮年龄≤12岁；②绝经年龄≥55岁；③有乳腺活检史或乳腺良性疾病手术史，或病理证实的乳腺（小叶或导管）不典型增生病史；④使用“雌孕激素联合”的激素 ...",
+          "date": "7天前",
+          "position": 83
+        },
+        {
+          "title": "乳腺癌防治月：你关心的乳腺癌防治问题看这里",
+          "link": "http://news.china.com.cn/2024-10/28/content_117510082.shtml",
+          "snippet": "乳腺癌是全球高发的恶性肿瘤，其发病率居女性恶性肿瘤首位，被称为“红颜杀手”。 ... 长期服用含有雌激素的药物或保健品，也可能增加患病几率，如长期口服避孕 ...",
+          "date": "7天前",
+          "position": 84
+        },
+        {
+          "title": "只吃荤菜，一点蔬菜都不碰！11岁小姑娘长了乳腺纤维瘤 - 杭州网",
+          "link": "https://hznews.hangzhou.com.cn/kejiao/content/2024-11/04/content_8808829.htm",
+          "snippet": "对于健康发育中的女孩子，要均衡膳食，荤素结合，少吃养殖的动物蛋白和养殖的水产品，避免体内过量雌激素对乳房的刺激，减少乳腺幼年性纤维腺瘤的发生。",
+          "date": "3小时前",
+          "position": 85
+        },
+        {
+          "title": "今日辟谣（2024年10月28日） - 中国台州网",
+          "link": "http://www.taizhou.com.cn/zhuanti/2024-10/28/content_6958364.htm",
+          "snippet": "①月经初潮年龄≤12岁；②绝经年龄≥55岁；③有乳腺活检史或乳腺良性疾病手术史，或病理证实的乳腺（小叶或导管）不典型增生病史；④使用“雌孕激素联合”的激素 ...",
+          "date": "7天前",
+          "position": 86
+        },
+        {
+          "title": "今日辟谣（10月28日） - 黄河新闻网",
+          "link": "https://www.sxgov.cn/yaowen/content/2024-10/28/content_13326599.htm",
+          "snippet": "①月经初潮年龄≤12岁；②绝经年龄≥55岁；③有乳腺活检史或乳腺良性疾病手术史，或病理证实的乳腺（小叶或导管）不典型增生病史；④使用“雌孕激素联合”的激素 ...",
+          "date": "7天前",
+          "position": 87
+        },
+        {
+          "title": "3大婦癌與女性荷爾蒙有關雌激素過高恐致癌? 健康2.0 - YouTube",
+          "link": "https://m.youtube.com/watch?v=l2uhac9dBIQ",
+          "snippet": "現在訂閱《健康2.0》➔https://bit.ly/2IBSoRr 搞定高血糖 遠離糖尿病併發症 https://bit ...\n时长： 7:07\n发布时间： 2023年11月28日",
+          "date": "2023年11月28日",
+          "position": 88
+        },
+        {
+          "title": "今日辟谣（2024年10月28日） - 六安新闻网",
+          "link": "https://www.luaninfo.com/laxw/wlpy/content_207484",
+          "snippet": "①月经初潮年龄≤12岁；②绝经年龄≥55岁；③有乳腺活检史或乳腺良性疾病手术史，或病理证实的乳腺（小叶或导管）不典型增生病史；④使用“雌孕激素联合”的激素 ...",
+          "date": "7天前",
+          "position": 89
+        },
+        {
+          "title": "辅助生殖赛道获政策加码金城医药女性健康科技助力生育友好型社会 ...",
+          "link": "https://stock.stockstar.com/IG2024103000029617.shtml",
+          "snippet": "公司在女性健康科技领域拥有丰富的产品线，涵盖了妇科抗感染类和雌激素类等多个品种，包括硝呋太尔制霉素阴道软胶囊、硝呋太尔胶囊、普罗雌烯乳膏 ...",
+          "date": "5天前",
+          "position": 90
+        },
+        {
+          "title": "消委會濕紙巾｜1款濕紙巾含菌量超標500倍2款檢出類雌 ... - TOPick",
+          "link": "https://topick.hket.com/article/3851392/%E6%B6%88%E5%A7%94%E6%9C%83%E6%BF%95%E7%B4%99%E5%B7%BE%EF%BD%9C1%E6%AC%BE%E6%BF%95%E7%B4%99%E5%B7%BE%E5%90%AB%E8%8F%8C%E9%87%8F%E8%B6%85%E6%A8%99500%E5%80%8D2%E6%AC%BE%E6%AA%A2%E5%87%BA%E9%A1%9E%E9%9B%8C%E6%BF%80%E7%B4%A0%E3%80%80%E6%B6%88%E5%A7%94%E6%9C%83%E5%8F%8A%E6%B0%B4%E4%B8%AD%E9%8A%80%E6%8E%A8%E8%96%A615%E6%AC%BE%E5%AE%89%E5%85%A8%E6%BF%95%E7%B4%99%E5%B7%BE",
+          "snippet": "消委會濕紙巾2024／水中銀／消毒濕紙巾／類雌激素】消費者委員會及水中銀生物科技（國際）有限公司（下稱水中銀）曾分別檢測20款及14款市面上的濕紙巾，TOPick ...",
+          "date": "2天前",
+          "position": 91
+        },
+        {
+          "title": "Normal Testosterone and Estrogen Levels in Women - WebMD",
+          "link": "https://www.webmd.com/women/normal-testosterone-and-estrogen-levels-in-women",
+          "snippet": "WebMD explains normal estrogen and testosterone levels in women -- and how they affect health and mood -- before and after menopause.",
+          "date": "2024年7月23日",
+          "position": 92
+        },
+        {
+          "title": "每天一杯蜂蜜水能养颜、通便？千万别乱喝！",
+          "link": "https://www.piyao.org.cn/20241025/3dc174c12ef1441b9dcf1a5fde07044e/c.html",
+          "snippet": "豆浆的蛋白质含量（3g/100g）比不上牛奶，但胜在脂肪含量（1.6g/100g）很低，而且其中含有大豆异黄酮，对于双向调节人体雌激素水平有所帮助。 想要 ...",
+          "date": "2024年10月25日",
+          "position": 93
+        },
+        {
+          "title": "地球公民金建国｜评科普文章《女性生孩子的四大好处》",
+          "link": "https://chinadigitaltimes.net/chinese/712682.html",
+          "snippet": "... 激素（如催产素和雌激素）水平会显著变化，这些激素也会影响大脑的功能和结构。特别是被称为“爱的激素”的催产素，能够促进母子之间的情感纽带，增强 ...",
+          "date": "2天前",
+          "position": 94
+        },
+        {
+          "title": "怀孕会对女性大脑产生怎样的影响？",
+          "link": "https://user.guancha.cn/main/content?id=1323571",
+          "snippet": "撰文丨徐斯佳“一孕傻三年”这句俗语相信大家都听过，妊娠期间，女性会经历显著的激素波动和各种生理变化。但也会“变傻”吗？最近，科学家对此进行了研究， ...",
+          "date": "6天前",
+          "position": 95
+        },
+        {
+          "title": "专家：红斑狼疮不是“豺狼猛兽” | 极目新闻",
+          "link": "https://www.ctdsb.net/c1659_202411/2295995.html",
+          "snippet": "... 雌激素水平会一定程度影响红斑狼疮的发病，所以在临床上会看到育龄期和部分妊娠期的女性患者，在体内雌激素水平变动的时候，发病率增加或病情加重 ...",
+          "date": "49分钟前",
+          "position": 96
+        },
+        {
+          "title": "雌激素和孕激素摄影图片 - 千库网",
+          "link": "https://588ku.com/photogram/110251369.html",
+          "snippet": "千库摄影为您找到932张雌激素和孕激素高清图片，其中包括雌激素和孕激素全景图、雌激素和孕激素壁纸图、雌激素和孕激素实物图等多种风格供您选用。",
+          "position": 97
+        },
+        {
+          "title": "雌激素是什么 - 亲子百科",
+          "link": "https://baike.pcbaby.com.cn/long/40538.html",
+          "snippet": "雌激素是什么？雌激素是女性激素，主要是卵巢和胎盘产生，少部分是由肾上腺皮质产生。雌激素能维持和促进女性生殖器官和第二性征，雌激素低或者高都可能会诱发一些妇科疾病 ...",
+          "position": 98
+        },
+        {
+          "title": "手麻的真正原因找到了！醫曝：更年期荷爾蒙失衡引發快試這些天然 ...",
+          "link": "https://tw.news.yahoo.com/%E6%89%8B%E9%BA%BB%E7%9A%84%E7%9C%9F%E6%AD%A3%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86-%E9%86%AB%E6%9B%9D-%E6%9B%B4%E5%B9%B4%E6%9C%9F%E8%8D%B7%E7%88%BE%E8%92%99%E5%A4%B1%E8%A1%A1%E5%BC%95%E7%99%BC-%E5%BF%AB%E8%A9%A6%E9%80%99%E4%BA%9B%E5%A4%A9%E7%84%B6%E8%A7%A3%E6%96%B9-030018909.html",
+          "snippet": "... 女性荷爾蒙「雌激素」的變化密切相關！ 為什麼雌激素會影響關節健康？ 隨著更年期的到來，雌激素的減少會讓我們的關節開始出現退化現象。雌激素不僅能 ...",
+          "date": "2024年10月24日",
+          "position": 99
+        },
+        {
+          "title": "今日辟谣（2024年10月28日） - 中安在线",
+          "link": "http://news.anhuinews.com/xwgn/202410/t20241028_7956525.html",
+          "snippet": "①月经初潮年龄≤12岁；②绝经年龄≥55岁；③有乳腺活检史或乳腺良性疾病手术史，或病理证实的乳腺（小叶或导管）不典型增生病史；④使用“雌孕激素联合”的激素 ...",
+          "date": "7天前",
+          "position": 100
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "雌激素",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 3,
+        "engine": "google"
+      },
+      "organic": [],
+      "credits": 2
+    }
+  ]
+}

@@ -1,0 +1,723 @@
+{
+  "query": "性别赋权",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-04T00:32:19.148442",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "性别赋权",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "answerBox": {
+        "snippet": "在2014年出台的《教科文组织性别平等优先事项行动计划（2014—2021年）》中，教科文组织明确表达了性别平等领域中的赋权，是指女性和男性能够掌控各自的生活、确定自己的议程、掌握技能、建立自信、解决问题和实现自力更生的集体和个人过程。",
+        "snippetHighlighted": [
+          "女性和男性能够掌控各自的生活、确定自己的议程、掌握技能、建立自信、解决问题和实现自力更生的集体和个人过程"
+        ],
+        "title": "从女性赋权到性别协商：《保护非物质文化遗产公约》发展史上的 ...",
+        "link": "https://www.cssn.cn/ztzl/ztzl_skwzg/ggfy/zcgy/202401/t20240117_5729255.shtml",
+        "date": "2024年1月17日"
+      },
+      "organic": [
+        {
+          "title": "全球仅有不到1%的妇女和女孩所处的环境达到高度女性赋权和性别平等",
+          "link": "https://news.un.org/zh/story/2023/07/1119872",
+          "snippet": "根据两大联合国机构——妇女署和开发计划署今天发布的一份全球报告，世界上没有一个国家实现了完全的性别平等，只有不到1%的妇女和女孩生活在一个妇女赋权 ...",
+          "date": "2023年7月18日",
+          "position": 1
+        },
+        {
+          "title": "性别平等和妇女赋权",
+          "link": "https://www.fao.org/gender/learning-center/thematic-areas/gender-equality-and-women's-empowerment/zh",
+          "snippet": "妇女赋权是支持提高和增强妇女的权力和能动性，以加强她们对自己生活的控制能力的过程。",
+          "position": 2
+        },
+        {
+          "title": "赋权予妇女原则(WEPs) | UN Women – Asia-Pacific",
+          "link": "https://asiapacific.unwomen.org/en/countries/china/chinese/weps",
+          "snippet": "赋权予妇女原则(WEPs)是一系列适用于企业的原则，指导企业如何在工作场所、市场及社区赋权女性。它是联合国妇女署和联合国全球契约网络共同合作的成果。该原则是对卡尔弗特 ...",
+          "position": 3
+        },
+        {
+          "title": "联合国可持续发展集团| 性别平等和妇女赋权全球问责框架",
+          "link": "https://unsdg.un.org/zh/resources/xingbiepingdenghefunufuquanquanqiuwenzekuangjia",
+          "snippet": "性别平等、妇女权利和妇女赋权是为所有人创造更公平公正的世界的必不可少的条件。2030年议程重申，性别平等是可持续发展的必要条件，也是可持续发展不可缺少的成果。",
+          "position": 4
+        },
+        {
+          "title": "中国常驻联合国副代表刘振民大使在第61届联大关于“性别平等与女性 ...",
+          "link": "http://un.china-mission.gov.cn/zgylhg/shhrq/fndw/200703/t20070306_8369919.htm",
+          "snippet": "女性仍未拥有与男性平等的社会地位，不能平等享有经济和社会的各项权利。实现性别平等与女性赋权，国际社会仍任重而道远。 主席女士，. 中国政府一贯主张男女 ...",
+          "date": "2007年3月6日",
+          "position": 5
+        },
+        {
+          "title": "女性领导力和集体行动：推动性别平等与赋权变革 - World Bank Blogs",
+          "link": "https://blogs.worldbank.org/zh/voices/womens-leadership-and-collective-action-driving-change-toward-gender-equality-and-empowerment",
+          "snippet": "女性赋权有助于各国克服危机，释放数万亿美元的经济潜力，改善社区的福祉。然而，在全球范围，女性教育的进步并未能转化为更好的工作、更多的资产或更强的 ...",
+          "date": "2023年2月23日",
+          "position": 6
+        },
+        {
+          "title": "从诺贝尔经济学奖说起，为什么时至今日我们仍需讨论为女性赋权？",
+          "link": "https://econ.fudan.edu.cn/info/1024/21761.htm",
+          "snippet": "联合国将实现性别平等视为“一项基本人权，同时也是世界和平、繁荣和可持续发展的必要基础。”赋予女性公平的就业机会、提高女性在家庭和社会中的地位不仅仅 ...",
+          "date": "2023年10月16日",
+          "position": 7
+        },
+        {
+          "title": "[PDF] 赋权于妇女是明智的经济学",
+          "link": "https://www.imf.org/external/chinese/pubs/ft/fandd/2012/03/pdf/revenga.pdf",
+          "snippet": "为了实现性别平等，政策制定者需要将他们的行 动聚焦于五个优先事项：减少女孩和成年女性过多的 死亡；消除教育中依旧存在的性别歧视；使妇女能获 取更多的经济机会, 并以 ...",
+          "position": 8
+        },
+        {
+          "title": "简报：美国-非洲在性别平等和妇女赋权方面的伙伴关系",
+          "link": "https://china.usembassy-china.org.cn/zh/fact-sheet-u-s-africa-partnerships-in-gender-equality-and-womens-empowerment/",
+          "snippet": "促进性别公平和平等是美国在非洲和世界各地外交政策的基石。提高妇女和女童的地位不仅是人权、正义和公平的问题，也是一项减少贫困和促进可持续经济增长、 ...",
+          "date": "2022年12月20日",
+          "position": 9
+        },
+        {
+          "title": "妇女赋权 - Better Cotton",
+          "link": "https://bettercotton.org/zh-CN/field-level-results-impact/key-sustainability-issues/working-conditions-decent-work/womens-empowerment/",
+          "snippet": "女性赋权仍然是全球面临的紧迫挑战。 在Better Cotton，我们知道，只有当所有性别都享有平等的权利和机会时，才能实现更可持续的未来，这就是 ...",
+          "position": 10
+        },
+        {
+          "title": "[PDF] “赋权予妇女原则”首席执行官支持声明 - WEPs",
+          "link": "https://www.weps.org/sites/default/files/2021-10/CEO%20Statement%20of%20Support%20-%20Chinese.pdf",
+          "snippet": "因此，我们支持联合国妇女署与联合国全球契约组织共同发起的“赋权予妇女原则——性别平等带来经济发. 展”行动倡议。这些原则提出了企业和其他部门可以采取的七个步骤，来 ...",
+          "position": 11
+        },
+        {
+          "title": "男女平等与女性赋权| 长达150年的坚持与守候（五） - 半岛电视台",
+          "link": "https://chinese.aljazeera.net/opinions/2022/1/25/%E7%94%B7%E5%A5%B3%E5%B9%B3%E7%AD%89%E4%B8%8E%E5%A5%B3%E6%80%A7%E8%B5%8B%E6%9D%83%E9%95%BF%E8%BE%BE150%E5%B9%B4%E7%9A%84%E5%9D%9A%E6%8C%81%E4%B8%8E%E5%AE%88%E5%80%99-%E4%BA%94",
+          "snippet": "5. 联合国的诞生与两性平等原则的巩固：1945年，在经过二战的蹂躏之后，联合国宣告成立，旨在促进国际合作。该组织在其宪章中规定了男女平等的原则：“我们确信 ...",
+          "date": "2022年1月25日",
+          "position": 12
+        },
+        {
+          "title": "专访：中国为推动全球性别平等与妇女赋权作出贡献——访联合国 ...",
+          "link": "https://www.gov.cn/xinwen/2020-09/30/content_5548568.htm",
+          "snippet": "联合国妇女署执行主任菲姆齐莱·姆兰博-努卡日前在接受新华社记者书面专访时表示，中国妇女事业快速发展，中国为推动全球性别平等与妇女赋权作出贡献。",
+          "date": "2020年9月30日",
+          "position": 13
+        },
+        {
+          "title": "“性别平等和妇女赋权：推动妇女走在时代前列”主题活动在日内瓦举行",
+          "link": "http://www.news.cn/world/2023-05/11/c_1129606063.htm",
+          "snippet": "性别平等和妇女赋权：推动妇女走在时代前列”主题活动在日内瓦举行---中国常驻联合国日内瓦办事处和瑞士其他国际组织代表团与墨西哥、丹麦、肯尼亚等 ...",
+          "date": "2023年5月11日",
+          "position": 14
+        },
+        {
+          "title": "[PDF] 妇女经济赋权",
+          "link": "https://www.carecprogram.org/uploads/RGEG_2022_7_UN-Women-Speaker_CN.pdf",
+          "snippet": "具有性别敏感性的采购政策和监管改革. 能力建设、技术援助和咨询服务. 1.培养公共和私营部门对劳动市场性别平等和妇女赋权(GEWE)的意识. 2.与女性所有企业合作（帮助它们 ...",
+          "position": 15
+        },
+        {
+          "title": "美国：立法推动女性经济赋权 - 二十国集团创业研究中心",
+          "link": "https://www.g20e.tsinghua.edu.cn/contents/112/81.html",
+          "snippet": "该法案指示美国国际开发署应努力增加女性创业者获得资金的机会, 缩小性别差距，消除基于性别的暴力, 支持女性的财产权和土地权, 改善教育等。该法案指出, 美国国际开发署署 ...",
+          "position": 16
+        },
+        {
+          "title": "女性赋权和性别平等",
+          "link": "https://www.cn.emb-japan.go.jp/major_policies/women/index.html",
+          "snippet": "女性的“能力”是蕴藏在日本社会中还未被充分发挥的最大潜力。因此，让她们的能力得到最大程度的发挥，这对于整个社会的活力与发展至关重要。",
+          "position": 17
+        },
+        {
+          "title": "平权主义，性别意识主流化与中国女性赋权：从女权转向到精神转向",
+          "link": "https://xianxiao.ssap.com.cn/catalog/6029652.html",
+          "snippet": "平权主义，性别意识主流化与中国女性赋权：从女权转向到精神转向论文姚玲玲地理批评理论世界文学流散文学后殖民批评1990年5月联合国决议召开第四次世界妇女大会，1991年1 ...",
+          "currency": "¥",
+          "price": 14,
+          "position": 18
+        },
+        {
+          "title": "[PDF] “赋权予妇女原则”首席执行官支持声明 - WEPs",
+          "link": "https://www.weps.org/sites/default/files/2020-12/CEO_Statement_of_Support_Chinese.pdf",
+          "snippet": "作为商界的领导者，我们在此表达对推动性别平等的承诺，以：. • 为公司带来更多人才；. • 进一步提高企业竞争力；. • 履行企业社会责任和可持续 ...",
+          "position": 19
+        },
+        {
+          "title": "综述：联合国呼吁妇女经济赋权肯定中国所作努力-新华网",
+          "link": "http://news.xinhuanet.com/world/2017-03/07/c_1120586206.htm",
+          "snippet": "“三八”国际妇女节前夕，联合国妇女署副署长拉克什米·普里接受新华社记者专访时指出，女性经济赋权是早日实现性别平等的关键途径，各国政府及私营企业应采取 ...",
+          "date": "2017年3月7日",
+          "position": 20
+        },
+        {
+          "title": "《新城市议程》倡导性别平等和妇女赋权 - UN-Habitat",
+          "link": "https://unhabitat.org/cn/xinchengshiyichengchangdaoxingbiepingdenghefunufuquan",
+          "snippet": "按性别和年龄划分的分解数据使我们加深了对这一议题的认识。他还提醒与会者“性别平等关乎男女，关乎平等权利。我们需要改变男性的思维方式，这是实现性别平等必需的根本性 ...",
+          "position": 21
+        },
+        {
+          "title": "基础设施如何才能赋权女性？联合国权威指南给出解答 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_16495850",
+          "snippet": "通过保障妇女和女童平等地获得基础设施服务，可以为个人、社会、国家带来很多正面效益。将性别视角纳入基础设施项目可以改善和提升妇女和女童的生活条件和 ...",
+          "date": "2022年1月28日",
+          "position": 22
+        },
+        {
+          "title": "白海娜，世界银行性别事务局全球局长",
+          "link": "https://www.shihang.org/zh/about/people/h/hana-brixi",
+          "snippet": "作为性别事务局全球局长，白海娜带领其团队在全球范围内努力促进性别平等和女性赋权。她负责确定世界银行集团性别知识议程的总体方向，推动全世行努力在弥合性别差距方面 ...",
+          "position": 23
+        },
+        {
+          "title": "[PDF] Untitled - UN Women Asia and the Pacific",
+          "link": "https://asiapacific.unwomen.org/sites/default/files/2022-08/Reporting%20on%20Progress%20Towards%20Gender%20Equality%20A%20Guideline%20%28cn%29.pdf",
+          "snippet": "联合国妇女署是促进性别平等和妇女赋权的联合国专属机构。作为. 妇女和女童的全球倡导者，联合国妇女署的成立旨在加快满足世界. 各地妇女和女童的需求。",
+          "position": 24
+        },
+        {
+          "title": "性别平等与女性赋权：耀眼的成就还是可怕的前奏？(四) - 半岛电视台",
+          "link": "https://chinese.aljazeera.net/opinions/2022/1/12/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89%E4%B8%8E%E5%A5%B3%E6%80%A7%E8%B5%8B%E6%9D%83%E8%80%80%E7%9C%BC%E7%9A%84%E6%88%90%E5%B0%B1%E8%BF%98%E6%98%AF%E5%8F%AF%E6%80%95%E7%9A%84%E5%89%8D%E5%A5%8F-%E5%9B%9B",
+          "snippet": "玛丽亚·雷沙（与德米特里·穆拉托夫一起）获得了2021年的诺贝尔和平奖，以表彰她在保护言论自由方面所做的工作，以及她作为记者和作家，在揭露菲律宾滥用权力 ...",
+          "date": "2022年1月12日",
+          "position": 25
+        },
+        {
+          "title": "为女性企业家赋权，我们必须向性别规范发起挑战 - 世界经济论坛",
+          "link": "https://cn.weforum.org/agenda/2022/11/wei-nv-xing-qi-ye-jia-fu-quan-wo-men-bi-xu-xiang-xing-bie-gui-fan-fa-qi-tiao-zhan/",
+          "snippet": "社会规范常常规定女性必须承担家庭主要照料者的角色，这种社会规范对世界各地的女性企业家都造成了制约；新研究表明，事业成功的女性可能会面临家庭的 ...",
+          "date": "2022年11月30日",
+          "position": 26
+        },
+        {
+          "title": "[PDF] 联合国全系统性别平等和妇女赋权行动计划 - WFP Executive Board",
+          "link": "https://executiveboard.wfp.org/es/document_download/WFP-0000149519",
+          "snippet": "联合国所有实体每年对照《联合国全系统性别平等和妇女赋权行动计划》（UN-SWAP 2.0）绩效的17. 项指标，报告在将性别观点纳入工作主流方面取得的进展1。2022 年，世界粮食 ...",
+          "position": 27
+        },
+        {
+          "title": "[PDF] 生殖健康领域中的妇女赋权 - 人口与劳动经济研究所",
+          "link": "http://iple.cssn.cn/webpic/web/iple/upload/2012/04/d20120410160746013.pdf",
+          "snippet": "妇女赋权与生殖健康问题通过有组织的. 活动和社会倡导，被有机地结合起来，并逐渐对具有社会性别视角的生殖健康形成共识，妇. 女生殖健康问题不再局限于妇幼保健和计划生育中， ...",
+          "position": 28
+        },
+        {
+          "title": "目标6: 确保两性平等和对妇女赋权 - Make The Right Real",
+          "link": "https://www.maketherightreal.net/incheon-strategy/zh/%E7%9B%AE%E6%A0%876%C2%A0%E7%A1%AE%E4%BF%9D%E4%B8%A4%E6%80%A7%E5%B9%B3%E7%AD%89%E5%92%8C%E5%AF%B9%E5%A6%87%E5%A5%B3%E8%B5%8B%E6%9D%83",
+          "snippet": "被孤立、加上对照顾者的依赖，使她们极易受到多种形式的剥削、暴力和虐待，而且还面临着随之而来的其他风险，包括感染艾滋病毒、怀孕和孕产妇死亡和婴儿死亡等。残疾女孩和 ...",
+          "position": 29
+        },
+        {
+          "title": "赋权妇女推动国家发展 - 世界银行",
+          "link": "https://www.shihang.org/zh/news/opinion/2011/09/19/op-ed-empowering-women-powers-nations",
+          "snippet": "解决人力资本问题，如女童和妇女死亡率过高的问题，主要通过有针对性的计划投资建设清洁水源、提供孕产妇护理，消除教育领域长期存在的不平等现象； · 缩小男女 ...",
+          "date": "2011年9月19日",
+          "position": 30
+        },
+        {
+          "title": "国际妇女节：amfori签署联合国妇女赋权原则，开展性别平等战略",
+          "link": "https://cn.amfori.org/zh-hans/content/%E5%9B%BD%E9%99%85%E5%A6%87%E5%A5%B3%E8%8A%82%EF%BC%9Aamfori%E7%AD%BE%E7%BD%B2%E8%81%94%E5%90%88%E5%9B%BD%E5%A6%87%E5%A5%B3%E8%B5%8B%E6%9D%83%E5%8E%9F%E5%88%99%EF%BC%8C%E5%BC%80%E5%B1%95%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89%E6%88%98%E7%95%A5",
+          "snippet": "国际妇女节：amfori签署联合国妇女赋权原则，开展性别平等战略. 国际妇女节当天，全球各界为妇女庆祝。这天以外的日子，我们朝着性别平等的目标迈进。amfori 很荣幸与联合国 ...",
+          "position": 31
+        },
+        {
+          "title": "[PDF] 孟加拉国的妇女赋权：认知及实践 - 云南省社会科学院",
+          "link": "http://www.sky.yn.gov.cn/UpLoadFiles/File/2022-02-14/W6KMYKGGH27_%E3%80%90%E9%99%88%E6%9D%BE%E6%B6%9B%E3%80%91%E5%AD%9F%E5%8A%A0%E6%8B%89%E5%9B%BD%E7%9A%84%E5%A6%87%E5%A5%B3%E8%B5%8B%E6%9D%83%EF%BC%9A%E8%AE%A4%E7%9F%A5%E5%8F%8A%E5%AE%9E%E8%B7%B5.pdf",
+          "snippet": "在实现路径方面，妇女赋权理论强调转变性别歧视、改变社会不平等的制度与. 结构性因素。受国际舆论与国内发展进程的共同影响，孟加拉国不同行为体（主要政党 ...",
+          "date": "2022年2月14日",
+          "position": 32
+        },
+        {
+          "title": "[PDF] 粮食安全和营养背景下性别平等和妇女及女童赋权自愿准则",
+          "link": "https://www.fao.org/fileadmin/templates/cfs/Docs2021/gender/CFS_GEWE_Zero_Draft_final_ZH.pdf",
+          "snippet": "1. 促进性别平等和为妇女及女童赋权至关重要，事关实现粮安委的消除饥饿和. 确保所有人获得粮食安全和营养的愿景，以及在国家粮食安全背景下逐步实现充足. 食物权。 2. 为将 ...",
+          "position": 33
+        },
+        {
+          "title": "[PDF] 挑战差别：女性赋权——学习、劳动、领导地位",
+          "link": "https://www.imf.org/-/media/Websites/IMF/Imported/external/chinese/np/speeches/2014/051914cpdf.ashx",
+          "snippet": "我还想对今天得到表彰的名为“妇女的声音”（Aswat Nisaa）的杰出组织及其主席伊. 克拉姆·本·赛德表示赞赏。在促进性别平等和提升女性领导地位方面，这个 ...",
+          "date": "2014年5月19日",
+          "position": 34
+        },
+        {
+          "title": "性别平等_联合国全球契约组织|United Nations Global Compact",
+          "link": "https://cn.unglobalcompact.org/detail/132.html",
+          "snippet": "赋权予妇女和女童有助于扩大经济增长，促进社会发展，并建立更加稳定和公正的社会。妇女的经济赋权对妇女和儿童都十分有利。这对家庭、社区和国家的健康与社会发展至关重要。",
+          "position": 35
+        },
+        {
+          "title": "女性的劳动收入空间：赋权的乌托邦与空间性别效益的异化",
+          "link": "http://cidrn.cau.edu.cn/art/2020/10/25/art_38604_713129.html",
+          "snippet": "H村妇女从事的家务劳动从之前的“文化空间”转换为妇女独立的“经济空间”，从而形成了一个基于原有分工模式的妇女经济创收路径。经过实际调查发现，以妇女为 ...",
+          "date": "2020年10月25日",
+          "position": 36
+        },
+        {
+          "title": "公共外交与赋权女性 - 察哈尔学会",
+          "link": "http://www.charhar.org.cn/newsinfo.aspx?newsid=5254",
+          "snippet": "近年来，越来越多的来自世界银行、联合国、经济合作与发展组织（OECD）和一些私人机构的证据显示：性别平等有助于社会发展，提高生产效率，改善机构管理。而只有 ...",
+          "date": "2013年1月8日",
+          "position": 37
+        },
+        {
+          "title": "联合国妇女地位委员会第66届会议聚焦性别平等和妇女赋权 - 新华网",
+          "link": "http://www.xinhuanet.com/2022-03/15/c_1128470464.htm",
+          "snippet": "联合国妇女地位委员会第66届会议聚焦性别平等和妇女赋权---联合国妇女地位委员会第66届会议14日在纽约联合国总部开幕，本届会议主题为“在气候变化、 ...",
+          "date": "2022年3月15日",
+          "position": 38
+        },
+        {
+          "title": "技术何以“赋权”？——人类的技术与社会性别实践 - 学术期刊",
+          "link": "http://journal.bit.edu.cn/sk/article/doi/10.15918/j.jbitss1009-3370.2020.4890",
+          "snippet": "摘要: 在性别研究中，人类发展中的技术并不是性别中立的，而是具有典型的男性特质，女性被安排为技术边缘群体。这种固有的技术与性别的关系认知具有深厚的传统并成为刻板共识 ...",
+          "position": 39
+        },
+        {
+          "title": "ABB签署联合国《赋权予妇女原则》，进一步致力于推动性别平等",
+          "link": "https://new.abb.com/news/zh-chs/detail/88679/abb-to-further-strengthen-commitment-to-gender-equality-in-signing-un-womens-empowerment-principles",
+          "snippet": "ABB签署联合国《赋权予妇女原则》，进一步致力于推动性别平等 ... 在国际妇女节到来之际，ABB在加强性别多元化的道路上又迈出重要一步，进一步推进2030年全球 ...",
+          "date": "2022年3月8日",
+          "position": 40
+        },
+        {
+          "title": "[康丽]从女性赋权到性别协商：《保护非物质文化遗产公约》发展史上 ...",
+          "link": "https://www.chinesefolklore.org.cn/web/index.php?NewsID=21813",
+          "snippet": "作为日本最知名的传统戏剧形式，歌舞伎表演中有一类男性演员专门扮演女性角色，称为“女形”(onnagata)。在这些表演者的歌舞伎实践中，表现出的是社会性别的模糊性和超越社会 ...",
+          "position": 41
+        },
+        {
+          "title": "全球仅不到1%的妇女和女孩所处环境达到高度女性赋权与性别平等",
+          "link": "https://m.jiemian.com/article/9772108.html",
+          "snippet": "根据女性赋权指数的衡量，在全球范围内，女性平均只能实现其全部潜力的60%。根据全球性别平等指数的衡量，相对于男性在关键人类发展维度上的成就， ...",
+          "date": "2023年7月19日",
+          "position": 42
+        },
+        {
+          "title": "华熙生物成为联合国妇女署《赋权予妇女原则》全球签署企业",
+          "link": "https://www.bloomagebioactive.com/News/Info/14205",
+          "snippet": "性别平等不仅是社会进步的体现，更是企业可持续发展的关键。她强调，无论男女，每个人都应在自己的位置上发挥能量与光热，为国家和社会的发展做出贡献 ...",
+          "date": "2024年5月23日",
+          "position": 43
+        },
+        {
+          "title": "女性赋能 - Kering",
+          "link": "https://www.kering.com/cn/group/kering-for-women/empowering-women/",
+          "snippet": "2019年，开云集团在汤森路透全球7,000家公司的“多元化和包容性指数”中排名第十。 长期承诺. 2010年，开云集团率先采纳了《女性赋权原则》（WEP），这是联合国妇女署和 ...",
+          "position": 44
+        },
+        {
+          "title": "女性赋权的新测量方法——时间使用能动性",
+          "link": "https://cn.ifpri.org/archives/7026",
+          "snippet": "在无偿家务和家庭照料上花费时间的巨大性别差距在世界每个地区都存在，且在新冠期间，这种性别差距有所扩大。这在很大程度上是由于严格的性别规范，这些规范 ...",
+          "date": "2021年8月9日",
+          "position": 45
+        },
+        {
+          "title": "性别平等和妇女经济赋权 - China - Hanns-Seidel-Stiftung",
+          "link": "https://china.hss.de/zh/%E6%96%B0%E9%97%BB/detail/translate-to-chinese-geschlechtergleichstellung-und-staerkung-der-wirtschaftlichen-stellung-von-frauen-news4966/",
+          "snippet": "为此政府制定了保障幼儿园位置、相当于每月净工资65%，不超过1800欧元的父母补贴金等一系列帮助妇女就业和经济赋权的措施。委员会通过组织女孩未来日活动为 ...",
+          "date": "2018年9月30日",
+          "position": 46
+        },
+        {
+          "title": "[PDF] 主体性赋权策略下的少数民族地区妇女扶贫研究",
+          "link": "http://swc.jxufe.edu.cn/uploadfile/101/Attachment/35914d54e5.pdf",
+          "snippet": "女权主义者批. 判新自由主义者窃取了赋权的激进特质，淡化了性别议程，降低了对经济、政治和社会关系进行集体. 变革的要求，从而让赋权丧失抵抗性。她们呼吁学者们围绕赋权 ...",
+          "position": 47
+        },
+        {
+          "title": "[PDF] 关于《国际劳工组织2022-2025 年性别平等行动计划》执行情况的 ...",
+          "link": "https://www.ilo.org/zh-hans/media/479066/download",
+          "snippet": "值得一提的是，劳工组织已实现. 并超额实现了人力资源政策和计划中与性别平等和妇女赋权相关的目标。在本报告所述期内，. 大约43%的P5 及以上职位由女性 ...",
+          "date": "2024年2月9日",
+          "position": 48
+        },
+        {
+          "title": "[PDF] 女性赋权抑或传统意识强化： 有条件现金转移计划能否解决性别脆弱 ...",
+          "link": "https://repositorio.ipea.gov.br/bitstream/11058/15280/5/zh-hans_IPCOnePager115.pdf",
+          "snippet": "均以女性为首选的现金转移接收者。通常情况下，这位女. 性是家庭中孩子的母亲，或者在对这些孩子负责。政策的有选择. 性主要是考虑到女性更倾向于把钱花在孩子身上，购买 ...",
+          "position": 49
+        },
+        {
+          "title": "了解联合国_联合国/国际组织采购信息与能力建设平台（上海）",
+          "link": "https://unpicbp-sh.com/elegant.php?cid=2",
+          "snippet": "联合国妇女赋权的介绍. Presentations by United Nations participants. 联合国秘书长安东尼奥·古特雷斯在2019年“三·八国际妇女节”发表致辞： 古特雷斯指出，性别平等和妇女 ...",
+          "position": 50
+        },
+        {
+          "title": "会外活动，被赋权妇女的力量 - ohchr",
+          "link": "https://www.ohchr.org/zh/statements/2014/06/side-event-power-empowered-women",
+          "snippet": "但我们也需要更广泛的社会对话——不仅与女性，也要与成年男子和男孩开展。我们需要创造机会来让所有人认识到，确保妇女的人权不会威胁或剥夺男性的人权。性别 ...",
+          "date": "2014年6月12日",
+          "position": 51
+        },
+        {
+          "title": "我们常听别人谈到“女权主义”，可真的了解国际女性赋权吗？ - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_6421835",
+          "snippet": "指男女有平等享有具有社会价值的商品、机会、资源和报酬的权利；性别平等并不意味着男女完全相同，其关注的是机会的获得并不依赖于或者受限于一个人的生物 ...",
+          "date": "2020年3月12日",
+          "position": 52
+        },
+        {
+          "title": "能链智电签署联合国《赋权予妇女原则》 推动性别平等和女性赋权",
+          "link": "https://www.sohu.com/a/771140614_436021",
+          "snippet": "《赋权予妇女原则》(WEPs)是联合国全球契约组织和联合国妇女署的一项联合倡议，包含七大原则，涵盖领导层推动性别平等、尊重人权与无歧视、保障员工健康 ...",
+          "date": "2024年4月12日",
+          "position": 53
+        },
+        {
+          "title": "联合国秘书长：妇女赋权是2030年可持续发展议程的核心 - 新闻",
+          "link": "http://news.china.com.cn/live/2018-03/08/content_39133539.htm",
+          "snippet": "古特雷斯指出，性别平等是一个人权问题，实现性别平等和赋予妇女和女童权利是人类“未竟的事业”，也是“世界面临最大的人权挑战”。",
+          "date": "2018年3月8日",
+          "position": 54
+        },
+        {
+          "title": "性别平等的衡量标准- 维基百科",
+          "link": "https://zh.wikipedia.org/zh-cn/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89%E7%9A%84%E8%A1%A1%E9%87%8F%E6%A0%87%E5%87%86",
+          "snippet": "有超过三百种不同的指标用于衡量性别平等，还有一些突出的指数。 ... 最突出的性别平等指数包括联合国开发计划署的性别相关发展指数（GDI）和1995 年推出的性别赋权措施（GEM）。",
+          "position": 55
+        },
+        {
+          "title": "促进性别平等，推动女性职业发展第二届“中国女性赋权奖”揭晓",
+          "link": "https://news.sina.cn/sx/2022-06-30/detail-imizirav1304843.d.html",
+          "snippet": "围绕健康、教育、经济等八个领域,妇女纲要提出了75项主要目标和93项策略措施。中国女性赋权奖的所有获奖者都在尽力指导和激励年轻女性心怀远大梦想，大胆 ...",
+          "date": "2022年6月30日",
+          "position": 56
+        },
+        {
+          "title": "[PDF] 加速前进， 推进性别平等行动指南 - AWS",
+          "link": "https://ungc-communications-assets.s3.amazonaws.com/docs/publications/Chinese-Moving%20Gender%20Equality%20Forward%20Faster%20Guide.pdf",
+          "snippet": "性别平等是一项基本人权，增强对妇女和女童的赋权不仅对于实现目标5：性别平等，而且对于实现所有. 17个可持续发展目标（SDG）都至关重要，包括促进消除贫困、减缓和适应气候 ...",
+          "position": 57
+        },
+        {
+          "title": "消除贫困，加大投资，加速推进性别平等和妇女赋权",
+          "link": "https://www.ungeneva.org/zh/news-media/news/2024/03/91578/xiaochupinkunjiadatouzijiasutuijinxingbiepingdenghefunufuquan",
+          "snippet": "大会汇集了过去五十年中旨在保障妇女平等地位的法律和实践成果，设定了妇女地位推进的战略目标，提出了性别平等的12个关键领域，包括：妇女与贫困、妇女教育和 ...",
+          "date": "2024年3月15日",
+          "position": 58
+        },
+        {
+          "title": "欧盟驻华代表团举办“赋权女性积极作用”的讲座 - EEAS",
+          "link": "https://www.eeas.europa.eu/delegations/china/%E6%AC%A7%E7%9B%9F%E9%A9%BB%E5%8D%8E%E4%BB%A3%E8%A1%A8%E5%9B%A2%E4%B8%BE%E5%8A%9E%E2%80%9C%E8%B5%8B%E6%9D%83%E5%A5%B3%E6%80%A7%E7%A7%AF%E6%9E%81%E4%BD%9C%E7%94%A8%E2%80%9D%E7%9A%84%E8%AE%B2%E5%BA%A7_zh-hans",
+          "snippet": "雷默思（Mattias Lentz）副团长概述了欧盟在妇女包容和赋权方面采取的行动，并指出“妇女和女童，无论其多样性，都是促进变革和创新以及提高复原力的关键力量。",
+          "date": "2024年3月20日",
+          "position": 59
+        },
+        {
+          "title": "[PDF] 赋权式金融教育：基于性别与发展的视角 - 社会工作与管理",
+          "link": "https://shgzygl.gdut.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=3674",
+          "snippet": "摘要：为助力基层社会治理创新和实现共同富裕，社会工作者和基层社会组织成为开展居民. 金融教育的有生力量。性别与发展视角下的金融教育遵循赋权原则，注重情境性和服.",
+          "position": 60
+        },
+        {
+          "title": "性别平等",
+          "link": "https://www.undp.org/zh/china/xingbiepingdeng",
+          "snippet": "未来，中国性别平等与女性赋权工作仍面临着诸多挑战，关键领域包括：实现男女同工同酬、就业机会平等，提高女性在绿色经济和科技领域的参与度，缓解新冠疫情对女性造成的经济 ...",
+          "position": 61
+        },
+        {
+          "title": "赋权式金融教育：基于性别与发展的视角",
+          "link": "http://www.xml-data.org/shgzygl/html/1673335153600-40068953.htm",
+          "snippet": "行为金融学研究认为女性比男性更厌恶风险，且风险偏好可以有力解释金融素养的性别差异。而风险态度差异也未必是天生的，应放置在社会经济情境中考察。一方面，女性群体的平均 ...",
+          "position": 62
+        },
+        {
+          "title": "[PDF] 性别平等带来经济发展",
+          "link": "https://www.endvawnow.org/uploads/browser/files/Womens%20Empowerment%20Principles_ch.pdf",
+          "snippet": "本着携手合作的精神，联合国妇女. 发展基金会与联合国全球契约共同. 发起了赋权予妇女原则行动倡议，. 希望本原则成为一面有针对性. 的“性别透镜”，激励并且进一. 步加强让 ...",
+          "position": 63
+        },
+        {
+          "title": "[PDF] 赋权或平权——从WE 术语翻译之辨析看翻译的文化创新功能 - GOV.UK",
+          "link": "https://assets.publishing.service.gov.uk/media/57a08b3ae5274a31e0000a4e/HuangYan_Culturaltranslation.pdf",
+          "snippet": "摘要：Women's Empowerment 是社会性别与发展理论中涉及的重要术语，因empower. 本身的多义性而产生了多种译文，其中以“赋权妇女”和“增强妇女能力”使用频率最高。",
+          "position": 64
+        },
+        {
+          "title": "2023年WE女性发展会议和中国女性赋权奖颁奖典礼",
+          "link": "https://womenempowermentcouncil.com/zh/2023%E5%B9%B4we%E5%A5%B3%E6%80%A7%E5%8F%91%E5%B1%95%E4%BC%9A%E8%AE%AE%E5%92%8C%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%80%A7%E8%B5%8B%E6%9D%83%E5%A5%96%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC/",
+          "snippet": "2023WE女性发展会议和中国女性赋权奖颁奖典礼向我们展示了促进性别平等的重要性，并强调了个人、组织和整个社会可实践的行动措施。我们可以通过应对女性在平衡工作和家庭 ...",
+          "position": 65
+        },
+        {
+          "title": "中国代表团在联合国妇女署执行局2023年一常会上的发言",
+          "link": "http://un.china-mission.gov.cn/zgylhg/shhrq/liandawanwei1/202306/t20230620_11100406.htm",
+          "snippet": "中国一贯积极支持性别平等和妇女赋权，重视妇女署筹资问题。习近平主席分别于2015年和2020年两次承诺为妇女署提供5年期1000万美元捐款，总计2000万 ...",
+          "date": "2023年6月19日",
+          "position": 66
+        },
+        {
+          "title": "性别平等和妇女赋权：为实现可持续发展目标而动员女权 - X-MOL",
+          "link": "https://www.x-mol.com/paper/1360705476011266048/t?recommendPaper=1402381840176103424",
+          "snippet": "性别平等和妇女赋权：为实现可持续发展目标而动员女权 ... 本文分析了女权主义动员在制定可持续发展目标(SDG) 性别平等议程中的作用：目标(5) “实现性别平等并 ...",
+          "date": "2019年1月1日",
+          "position": 67
+        },
+        {
+          "title": "知识产权为女性赋能 - WIPO",
+          "link": "https://www.wipo.int/about-wipo/zh/offices/china/news/2022/news_0009.html",
+          "snippet": "... 权益、促进男女平等的宗旨，积极发挥自身优势，通过推动政策支持、搭建发展平台和做好引领服务致力于推动女性赋权赋能，创业创新，助力女性实现出彩人生。",
+          "date": "2022年3月16日",
+          "position": 68
+        },
+        {
+          "title": "教育与性别平等 - UNESCO",
+          "link": "https://www.unesco.org/zh/gender-equality/education",
+          "snippet": "性别平等与教育. 从入读到赋权. 性别平等是教科文组织的全球优先事项之一。虽然我们 ...",
+          "position": 69
+        },
+        {
+          "title": "什么促进了发展中国家的性别平等？ by Bobbi Gray - Project Syndicate",
+          "link": "https://www.project-syndicate.org/commentary/womens-day-equality-in-developing-countries-by-bobbi-gray-2018-03/chinese",
+          "snippet": "不论在什么地区（尤其是发展中世界），妇女赋权最有效的方法之一是促进财务独立。在很多地区，这意味着支持“非正式储蓄组织”，即由意气相投的妇女组成 ...",
+          "date": "2018年3月6日",
+          "position": 70
+        },
+        {
+          "title": "科技女性：我们重视性别平等| Schneider Electric - 施耐德电气",
+          "link": "https://www.schneider-electric.cn/zh/about-us/careers/women-in-tech.jsp",
+          "snippet": "我们认为，男女对实现两性平等和促进妇女赋权至关重要。我们承诺充当“变革的推动者”，建立一个真正实现性别多样性和平等的美好世界。",
+          "position": 71
+        },
+        {
+          "title": "女性跨国婚姻移民家空间的性别、资源与权力——粤西乡村案例",
+          "link": "https://www.progressingeography.com/CN/lexeme/showArticleByLexeme.do?articleID=48787",
+          "snippet": "已有研究大多从“社会问题化”视角出发,强调女性跨国婚姻移民在宏观社会背景下的无权或弱权状态,但在微观的家庭层面,她们能否自我赋权?伴随着人文地理学的“文化转向”,特别是 ...",
+          "position": 72
+        },
+        {
+          "title": "责扬天下荣膺2020年联合国妇女署赋权予妇女原则奖项",
+          "link": "https://www.csr-china.net/a/guandian/yuanchuang/2020/1119/5030.html",
+          "snippet": "赋权予妇女原则（WEPs）是联合国妇女署和联合国全球契约组织在2010年制定的一套原则，为企业提供有关在工作场所、市场和社区推动性别平等的指导。恰逢WEPs ...",
+          "date": "2020年11月19日",
+          "position": 73
+        },
+        {
+          "title": "新闻- IO实习｜联合国妇女署招募传播和行政实习生",
+          "link": "https://goglobal.tsinghua.edu.cn/news/news.cn/25ocLBnzqR1",
+          "snippet": "联合国妇女署的北京办事处支持并进行有关增强妇女经济赋权、结束对妇女的暴力、创新性地解决中国的性别问题、为中国的性别平等和妇女赋权作出贡献以及利用媒体促进性别平等 ...",
+          "position": 74
+        },
+        {
+          "title": "乡村女性的媒介使用与自我赋权 - 中国农村研究网",
+          "link": "https://ccrs.ccnu.edu.cn/List/Details.aspx?tid=19348",
+          "snippet": "以往学术研究也较多地关注性别权力的不平等和女性的“抗争”。其中，媒介使用——从传统的“知书达理”到泛媒介的“琴棋书画”学习，被看作是女性的主体 ...",
+          "date": "2021年8月17日",
+          "position": 75
+        },
+        {
+          "title": "释放中国性别平等的力量 - UNFPA China",
+          "link": "https://china.unfpa.org/zh-Hans/news/23071101",
+          "snippet": "... 性别平等，并赋能妇女自由践行自身的权利。 “ ... “我们要进一步赋权女性，充分挖掘性别红利，推动人口高质量发展。作为人口 ...",
+          "position": 76
+        },
+        {
+          "title": "国际原子能机构的性别问题| IAEA",
+          "link": "https://www.iaea.org/zh/guan-yu-wo-men/guo-ji-yuan-zi-neng-ji-gou-de-xing-bie-wen-ti",
+          "snippet": "为此，原子能机构努力在秘书处实现性别均衡并在其计划和活动中落实性别主流化。 “性别平等和妇女赋权是可持续发展目标的核心，对于充分实现每个人的权利和潜力至关重要 ...",
+          "position": 77
+        },
+        {
+          "title": "社会性别、赋权及中国农村妇女发展路径 - 皮书网",
+          "link": "https://www.pishu.cn/pssjkxw/482431.shtml",
+          "snippet": "从性别视角看，无论对流动男性还是女性都有些负面影响，而传统家庭角色与流动负面影响的交织，则更多体现在妇女身上。 农村妇女自作出流动决策起，特别是已婚 ...",
+          "date": "2017年10月12日",
+          "position": 78
+        },
+        {
+          "title": "性别平等| World Food Programme - 世界粮食计划署",
+          "link": "https://zh.wfp.org/gender-equality",
+          "snippet": "性别平等是实现全球零饥饿的先决条件；不论男女老幼都应该能够自由行使人权，包括获得充足粮食的权利。 因此，联合国世界粮食计划署（WFP）把追求性别平等和妇女赋权（可持续 ...",
+          "position": 79
+        },
+        {
+          "title": "“巾帼”勇担当｜晶澳科技签署联合国妇女署《赋权予妇女原则》(WEPs)",
+          "link": "https://www.jasolar.com/index.php?m=content&c=index&a=show&catid=419&id=660",
+          "snippet": "... 《赋权予妇女原则》(WEPs) ... WEPs由联合国妇女署（UN Women）和联合国全球契约（UNGC）组织建立，以国际劳工和人权标准为依据，并以承认企业在性别平等和妇女赋权 ...",
+          "date": "2024年6月19日",
+          "position": 80
+        },
+        {
+          "title": "[PDF] 海关合作理事会1 关于海关性别平等与多样性的宣言草案",
+          "link": "https://www.wcoomd.org/-/media/wco/public/ch/about-us/legal-instruments/declarations/wco-gender-equality-declaration_zh.pdf?la=en",
+          "snippet": "现性别平等，增强所有妇女和女童的权能，及世界贸易组. 织《关于贸易与妇女的经济赋权的联合宣言》（2017）。 该宣言承认包容性贸易政策对性别平等和妇女经济赋权的.",
+          "position": 81
+        },
+        {
+          "title": "2022年度联合国妇女署亚太区WEPs奖项",
+          "link": "https://www.asiapacificwepsawards.org/weps-awards-2022-chinese-form",
+          "snippet": "WEPs，即“赋权予妇女原则”，是联合国妇女署和 ...",
+          "position": 82
+        },
+        {
+          "title": "[PDF] 将妇女和女童置于发展的重心",
+          "link": "https://gcgh.grandchallenges.org/sites/default/files/files/WGCD_RFP_Chinese.pdf",
+          "snippet": "性别平等和女性赋权是我们需要为之奋斗的关键目标，这对其他所有的发展目标的实现都. 起着至关重要的作用。此外，性别不平等以及妇女和女童在需求、角色和发展潜力方面 ...",
+          "position": 83
+        },
+        {
+          "title": "我们的观点- 高盛赋权女性的里程碑 - Goldman Sachs",
+          "link": "https://www.goldmansachs.com/worldwide/greater-china/insights/empowering-women.html",
+          "snippet": "高盛相信，女力崛起时，一切都有改变。 在过去20年来，高盛致力推动性别平等。我们从教育、慈善、商业及文化四大方面出发，在公司内部及对外实行了一系列 ...",
+          "date": "2019年3月8日",
+          "position": 84
+        },
+        {
+          "title": "[PDF] 武装冲突与妇女赋权 - Chong Chen Tsinghua",
+          "link": "https://cc458.github.io/files/chen_ISS_2021.pdf",
+          "snippet": "【内容提要】近年来，学界开始关注武装冲突对性别平等和妇女赋权的影响。 既有研究发现，武装冲突对女性造成了远超男性的伤害，但也为女性政治赋权创.",
+          "date": "2020年10月1日",
+          "position": 85
+        },
+        {
+          "title": "日本为推动性别平等与女性赋权而付出的努力 - YouTube",
+          "link": "https://www.youtube.com/watch?v=07KtR0Uxf6E",
+          "snippet": "国际女性会议“WAW！”由日本政府于2014年发起，旨在推动实现性别平等与女性赋权。在WAW ...\n时长： 2:01\n发布时间： 2022年11月28日",
+          "date": "2022年11月28日",
+          "position": 86
+        },
+        {
+          "title": "性别迷思女性主义与女性赋权 - 青海大学财经学院",
+          "link": "https://cjxy.qhu.edu.cn/xsyd/5076.htm",
+          "snippet": "认为女性主义是一种观察与看待问题的视角，所以男女两性之间的差异是存在的，但不能夸大，二者在生理上的差别不应当被固化，并以此定性性别角色，更不应该成为 ...",
+          "date": "2015年6月18日",
+          "position": 87
+        },
+        {
+          "title": "性别平等项目",
+          "link": "https://www.ethicalsupplychain.org/zh/suppliers/gender-equality-program",
+          "snippet": "ESCP 已建立一个适用于任何行业的供应商性别平等项目，目的是促进企业良好的发展、赋权予女性工人、协助企业达到联合国可持续发展目标（SDGs）的第5项目标：实现性别平等，增强 ...",
+          "position": 88
+        },
+        {
+          "title": "她经济”时代中国女性赋权广告研究-学位-万方数据知识服务平台",
+          "link": "https://d.wanfangdata.com.cn/thesis/D02794755",
+          "snippet": "研究结果表明： 国内女性赋权广告具有在产品类别上逐步打破性别角色定型，在本质上逐渐摆脱对女性身体的物化，在角色上表现出现代女性的多元角色，在女性议题上以强调脱离传统 ...",
+          "position": 89
+        },
+        {
+          "title": "埃克森美孚为女性赋权，致力于包容性和多元化",
+          "link": "https://www.zizhupark.com/news/view/4242",
+          "snippet": "埃克森美孚（中国）投资有限公司董事长万立帆先生在本届峰会上作了题为“性别平等关乎每个人：为女性赋权的男性盟友”的发言。同时，埃克森美孚中国的李娜女士入围“年度创新年轻 ...",
+          "position": 90
+        },
+        {
+          "title": "全球女性赋权与发展报告（2023） - 中国发展研究基金会",
+          "link": "https://www.cdrf.org.cn/zxcg/7347.htm",
+          "snippet": "中国发展研究基金会在国际研究比较基础上，设计一个新的女性赋权与发展评价框架，坚持全生命周期视角，聚焦时代性的女性发展问题，兼顾规范性和实证性，强调评价逻辑的一致性 ...",
+          "position": 91
+        },
+        {
+          "title": "性别平等| 宝洁",
+          "link": "https://www.pg.com.cn/gender-equality/",
+          "snippet": "在宝洁，我们专注于三个能够发挥我们最大影响力的领域。首先，我们利用在广告和媒体领域的强大话语权解决性别偏见问题。我们还通过企业和品牌项目以及政策宣传，消除 ...",
+          "position": 92
+        },
+        {
+          "title": "解读《联合国妇女署全球年报（2016~2017）》 - 全国妇联",
+          "link": "http://www.women.org.cn/art/2017/7/18/art_25_151541.html",
+          "snippet": "促进性别平等和妇女赋权早已是国际共识，联合国与各国政府、各国际组织一道为此做出了不懈的努力。然而，国际承诺与现实之间仍存在着一定差距，妇女和女童 ...",
+          "date": "2017年7月18日",
+          "position": 93
+        },
+        {
+          "title": "缔约方将在今年决定联合国气候变化进程中性别议程的未来 - UNFCCC",
+          "link": "https://unfccc.int/zh/news/diyuefangjiangzaijinnianjuedinglianheguoqihoubianhuajinchengzhongxingbieyichengdeweilai",
+          "snippet": "五年后，缔约方进行了第一次审查，确认了该工作方案在联合国气候变化进程中推进性别平等和妇女赋权的重要作用，并指出促进性别平等的气候政策、行动和执行手段能够使缔约方 ...",
+          "position": 94
+        },
+        {
+          "title": "[DOC] 消除对妇女歧视委员会 - 外交部",
+          "link": "https://www.mfa.gov.cn/web/ziliao_674904/tytj_674911/tyfg_674913/202311/P020231122576916820970.docx",
+          "snippet": "... 男女平等和妇女赋权：从承诺到行动”的全球妇女峰会。国家主席习近平发表了“促进妇女全面发展共建共享美好世界”的讲话，旗帜鲜明地表达了中国政府对性别平等和妇女发展 ...",
+          "position": 95
+        },
+        {
+          "title": "从诺贝尔经济学奖说起，为什么时至今日我们仍需讨论为女性赋权？",
+          "link": "https://news.qq.com/rain/a/20231015A01OXD00",
+          "snippet": "那为什么，时至近日，我们仍需讨论为女性赋权？ ... 联合国将实现性别平等视为“一项基本人权，同时也是世界和平、繁荣和可持续发展的必要基础。”赋予女性公平的 ...",
+          "date": "2023年10月15日",
+          "position": 96
+        },
+        {
+          "title": "[PDF] 使性别平等成为现实: 联合国开发计划署与性别",
+          "link": "https://www.undp.org/sites/g/files/zskgke326/files/migration/cn/UNDP-CH-Gender-and-UNDP.pdf",
+          "snippet": "尽管中央政府. 和各级地方政府都已做出郑重承. 诺，但性别差距依然存在。 一般来说，性别平等主要指妇女. 享有的权利和赋权妇女，但有时. 这个概念忽略了男女 ...",
+          "position": 97
+        },
+        {
+          "title": "赋权之路| 亚洲开发银行",
+          "link": "https://www.adb.org/zh/results/empowering-women-yunnan-province-peoples-republic-china",
+          "snippet": "但陈凤香只有1亩耕地（666.7平方米），刚够种一家人吃的蔬菜。她需要养路工作带来的额外收入。 创造就业机会. 亚洲开发银行（亚行）性别和发展合作基金，德 ...",
+          "position": 98
+        }
+      ],
+      "images": [
+        {
+          "title": "社会性别、赋权及中国农村妇女发展路径_热点聚焦_皮书数据库",
+          "imageUrl": "https://www.pishu.cn/upload/resources/image/2017/10/15/365324.jpg",
+          "link": "https://www.pishu.cn/pssjkxw/482431.shtml"
+        },
+        {
+          "title": "国际女性会议“WAW！”——日本为推动性别平等与女性赋权而付出的努力- YouTube",
+          "imageUrl": "https://i.ytimg.com/vi/07KtR0Uxf6E/maxresdefault.jpg",
+          "link": "https://m.youtube.com/watch?v=07KtR0Uxf6E"
+        },
+        {
+          "title": "男女平等与女性赋权| 长达150年的坚持与守候（五） | 政治| 半岛电视台",
+          "imageUrl": "https://chinese.aljazeera.net/wp-content/uploads/2022/01/87d6b63b-2dd7-4455-84cf-18a3e4da2a1a-1.jpeg?resize=770%2C513&quality=80",
+          "link": "https://chinese.aljazeera.net/opinions/2022/1/25/%E7%94%B7%E5%A5%B3%E5%B9%B3%E7%AD%89%E4%B8%8E%E5%A5%B3%E6%80%A7%E8%B5%8B%E6%9D%83%E9%95%BF%E8%BE%BE150%E5%B9%B4%E7%9A%84%E5%9D%9A%E6%8C%81%E4%B8%8E%E5%AE%88%E5%80%99-%E4%BA%94"
+        },
+        {
+          "title": "社会性别、赋权及中国农村妇女发展路径_热点聚焦_皮书数据库",
+          "imageUrl": "https://www.pishu.cn/upload/resources/image/2017/10/10/362966.png",
+          "link": "https://www.pishu.cn/pssjkxw/482431.shtml"
+        },
+        {
+          "title": "消除贫困，加大投资，加速推进性别平等和妇女赋权——联合国妇女地位 ...",
+          "imageUrl": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/07-03-2024-UN-Women-Bangladesh-01.jpg/image1440x560cropped.jpg",
+          "link": "https://news.un.org/zh/story/2024/03/1127376"
+        },
+        {
+          "title": "Better Cotton 如何采取行动促进女性赋权",
+          "imageUrl": "https://bettercotton.org/wp-content/uploads/2021/04/Better-Cotton-Initiative_SDG-5_Gender-Discrimination-819x1024.png.webp",
+          "link": "https://bettercotton.org/zh-CN/field-level-results-impact/key-sustainability-issues/working-conditions-decent-work/womens-empowerment/"
+        },
+        {
+          "title": "社会性别、赋权及中国农村妇女发展路径_热点聚焦_皮书数据库",
+          "imageUrl": "https://www.pishu.cn/upload/resources/image/2017/10/10/362964.png",
+          "link": "https://www.pishu.cn/pssjkxw/482431.shtml"
+        },
+        {
+          "title": "女性赋权和性别平等",
+          "imageUrl": "https://www.cn.emb-japan.go.jp/major_policies/women/images/title.jpg",
+          "link": "https://www.cn.emb-japan.go.jp/major_policies/women/index.html"
+        },
+        {
+          "title": "全球仅有不到1%的妇女和女孩所处的环境达到高度女性赋权和性别平等 ...",
+          "imageUrl": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/01-03-2023-UNICEF-Digital-Skills-Jordan.jpg/image1170x530cropped.jpg",
+          "link": "https://news.un.org/zh/story/2023/07/1119872"
+        }
+      ],
+      "relatedSearches": [
+        {
+          "query": "赋权意思"
+        },
+        {
+          "query": "WEPs"
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

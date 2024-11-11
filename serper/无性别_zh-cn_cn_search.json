@@ -1,0 +1,792 @@
+{
+  "query": "无性别",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-04T00:32:08.735166",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "无性别",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "answerBox": {
+        "snippet": "无性别（英语：agender）者没有性别或性别认同。 该类别包括许多不符合传统性别规范的身份，但学者费恩·恩克（Finn Enke）称，认同这些身份的人士并不一定同样自我认同为跨性别者。 无性别在2014年2月被添加为社交网站Facebook中50个性别选项之一，并于2014年11月再被添加到约会网站OkCupid上。",
+        "snippetHighlighted": [
+          "没有性别或性别认同"
+        ],
+        "title": "非二元性别- 维基百科，自由的百科全书",
+        "link": "https://zh.wikipedia.org/zh-cn/%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%A5"
+      },
+      "organic": [
+        {
+          "title": "无性别_百度百科",
+          "link": "https://baike.baidu.com/item/%E6%97%A0%E6%80%A7%E5%88%AB/17660814",
+          "snippet": "无性别（英语：Agender），亦称精神无性别者、精神无性别人，是一种性别酷儿或性别认同。无性别人认为他们没有性别或无关性别、没有感觉到自己有任何强烈性别归属的人 ...",
+          "position": 1
+        },
+        {
+          "title": "无性别 - 萌娘百科",
+          "link": "https://zh.moegirl.org.cn/zh-cn/%E6%97%A0%E6%80%A7%E5%88%AB",
+          "snippet": "无性别是对一类角色的性别的描述，这样一类角色由于疾病、外伤、先天缺陷、群体特质（如角色属于特殊种族或造物）等种种原因，完全或部分缺少人类或者其他生物 ...",
+          "date": "2024年9月12日",
+          "position": 2
+        },
+        {
+          "title": "【科普】什么是无性别（Agender） - Bilibili",
+          "link": "https://www.bilibili.com/read/cv7194593/",
+          "snippet": "跨性别者包括FtM(跨性别男性，女身男心) 和MtF（跨性别女性，男身女心）。 但是估计很少很少有人知道，这个世界上还存在一种性别，叫“无性别（Agender）”.",
+          "date": "2020年8月17日",
+          "position": 3
+        },
+        {
+          "title": "无性别主义下一个流行风向标 - 搜狐",
+          "link": "https://www.sohu.com/a/694529322_116311",
+          "snippet": "“无性别”（unisex），即不再将男性和女性放置在二元性别对立中。在时装界，这个概念最早出现于1968年的《纽约时报》，当时百货公司的商品目录增设了一个“his' ...",
+          "date": "2023年7月4日",
+          "position": 4
+        },
+        {
+          "title": "日本的“无性别男孩”：男女的概念过时了？ - 纽约时报中文网",
+          "link": "https://cn.nytimes.com/culture/20170106/with-manicures-and-makeup-japans-genderless-blur-line-between-pink-and-blue/",
+          "snippet": "日本涌现出一群“无性别男孩”，他们化妆、做美甲、着装风格女性化，并演变为时尚潮流。学者认为这模糊了传统的两性界限，也有人认为年轻人正用服装挑战 ...",
+          "date": "2017年1月6日",
+          "position": 5
+        },
+        {
+          "title": "bosie：做中国的无性别服饰品牌｜BrandStar专访",
+          "link": "https://www.brandstar.com.cn/in-depth/2427",
+          "snippet": "在bosie 看来，「无性别」让bosie 像一个虚无的外星人，它不属于地球，不属于大家熟知的领域之内，它不被定义，没有局限。它拥有太多种可能性，这些可能性不仅在 ...",
+          "date": "2021年7月17日",
+          "position": 6
+        },
+        {
+          "title": "无性别着装到底是一种怎样的美 - 新华网",
+          "link": "http://m.news.cn/fashion/2017-11/30/c_1122028101.htm",
+          "snippet": "A:很多人把“中性风”默认为将女性男性化,把“无性别”指向男性“娘”的表现,在我看来,穿衣和性别无关、和定位无关,是表达自己的一种方式,就像早已跨越性别藩篱 ...",
+          "date": "2017年11月30日",
+          "position": 7
+        },
+        {
+          "title": "衣服越来越“不分男女”，无性别服装正占据年轻人的衣柜 - CBNData",
+          "link": "https://m.cbndata.com/information/188223",
+          "snippet": "服装中的无性别概念，是由英文“unisex”而来，可译为“男女皆宜的”。美国《纽约时报》在1968年一篇关于“厚底怪物鞋”的故事中首次使用了这个词。",
+          "date": "2021年7月28日",
+          "position": 8
+        },
+        {
+          "title": "UNISEX无性别——从潮流到选择 - 36氪",
+          "link": "https://m.36kr.com/p/1721955024897",
+          "snippet": "“无性别”并不完全等同于“中性”，后者表述的是介于两者之间、没有明显性别特征的设计风格，前者则还多了各种设计师玩不腻的“雌雄同体”和“性别转换”。在这里， ...",
+          "date": "2017年10月28日",
+          "position": 9
+        },
+        {
+          "title": "商业洞察｜“无性别”席卷全球，时尚流行风如何捕捉年轻人？ - 腾讯新闻",
+          "link": "https://news.qq.com/rain/a/20220805A01ME700",
+          "snippet": "在无性别中，男士可以戴项链、穿裙子，女生可以穿工装，没有固化的性别之分，全凭自己喜好。 随着女性主义、性别平权话题在公共领域的声量渐大，以“ Z世代”为 ...",
+          "date": "2022年8月5日",
+          "position": 10
+        },
+        {
+          "title": "听说品牌在进行一场无性别实验 - 数英网",
+          "link": "https://www.digitaling.com/articles/377272.html",
+          "snippet": "但这并非什么新兴思潮，早在上世纪，「无性别主义」的种子已然开始大肆生长了。 听说品牌在进行一场无性别实验. Coco Chanel喇叭裤，图/百度. 20世纪早期， ...",
+          "date": "2020年12月4日",
+          "position": 11
+        },
+        {
+          "title": "无性别，会成为品牌下一趋势吗？",
+          "link": "http://www.vmarketing.cn/index.php/index/NewsDetail/nid/42864",
+          "snippet": "除了服饰外，无性别还可以体现在化妆品当中。今年4月，日本大型连锁药妆店“SUGI药局”推出了无性别的化妆品新品牌“Prieclat U”。该品牌包括化妆水、乳液在内 ...",
+          "date": "2022年4月26日",
+          "position": 12
+        },
+        {
+          "title": "关于跨性别的事实- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/healthy-lifestyle/adult-health/in-depth/transgender-facts/art-20266812",
+          "snippet": "... 无吸引力。跨性别或性别多样化与特定性取向无关。不能基于性别认同或性别表达来假设一个人的性取向。 了解性别焦虑症. 性别焦虑是指因性别认同与出生时 ...",
+          "date": "2023年4月21日",
+          "position": 13
+        },
+        {
+          "title": "若时装不再区分性别，你能接受吗？",
+          "link": "https://nowre.com/editorial/406684/ruoshizhuangbuzaiqufenxingbieninengjieshouma/",
+          "snippet": "“无性别时尚” 到底是什么？ 一个名为《Gender Bending Fashion》的时装展将在下周的波士顿美术博物馆与世人 ...",
+          "date": "2019年3月13日",
+          "position": 14
+        },
+        {
+          "title": "无性别风来袭，美国女性购买男性服装超30亿！ - 数派跨境",
+          "link": "https://www.isellerpal.com/article/3076",
+          "snippet": "调查指出，在过去的几年里，积极健康的运动风正在扩大无性别化的趋势。而有些人则认为，购买无性别商品，是一个打破性别刻板印象的呼声。虽然现在这个群体看起来很小，但是这一 ...",
+          "position": 15
+        },
+        {
+          "title": "年少成名，无性别服饰品牌bosie的喜与忧 - 数英网",
+          "link": "https://www.digitaling.com/articles/892912.html",
+          "snippet": "在40年后的今天，成立于2018年的bosie同样用服装模糊了男女着装的界限，以无性别主义设计对这一反问，表示了赞同。 而商业市场，同样用数据表明了态度：. 1年 ...",
+          "date": "2023年2月16日",
+          "position": 16
+        },
+        {
+          "title": "Z Trend｜无性别，冉冉上升的未来时装风向-腾讯新闻 - QQ News",
+          "link": "https://news.qq.com/rain/a/20220625A02B5700",
+          "snippet": "当时，男性弄潮儿们拥抱皮草外套、印花衬衫和披肩斗篷等单品、热爱鲜艳的衣着配色，甚至体型审美逐渐纤细化，以此挑战现代工业社会对于男性阳刚特质的刻板 ...",
+          "date": "2022年6月25日",
+          "position": 17
+        },
+        {
+          "title": "北上广的年轻人偏爱无性别 - 新浪财经",
+          "link": "https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fchanjing%2Fcyxw%2F2021-07-28%2Fdoc-ikqcfnca9451190.shtml&from=redirect",
+          "snippet": "其中，被贴上“不被束缚无性别感girl”标签的选手伍昕，也是“性别友好型”国货设计师彩妆品牌SEVEN·JULY的模特，一身本难博彩的黑白穿搭惊艳了评审，裙子和西装被 ...",
+          "date": "2021年7月28日",
+          "position": 18
+        },
+        {
+          "title": "跨越世纪的无性别服饰，正在成为95后的衣柜新欢 - CBNData",
+          "link": "https://m.cbndata.com/information/161006",
+          "snippet": "Gucci、Paul Smith等众多品牌在时装周上将男女装合并发布，刺绣、蕾丝、缎面等曾被判定为女性化的元素，更是被Gucci运用在了男装上。2018年，秋冬纽约时装 ...",
+          "date": "2021年4月30日",
+          "position": 19
+        },
+        {
+          "title": "无性别系列-中性款-男女同款丨Emporio Armani®中国官网",
+          "link": "https://www.armani.cn/ea7/collection/unisex.html",
+          "snippet": "Emporio Armani®无性别系列，风格中性易搭配，适合打造运动或休闲装束。Armani®中国官网已升级上线，欢迎点击进入阿玛尼的世界，选购官方正品Giorgio Armani、Emporio ...",
+          "position": 20
+        },
+        {
+          "title": "无性别男孩_百度百科",
+          "link": "https://baike.baidu.com/item/%E6%97%A0%E6%80%A7%E5%88%AB%E7%94%B7%E5%AD%A9/20392116",
+          "snippet": "无性别男孩，来自日本的一种打扮方式，指内心是个男人，但打扮的时候没有性别界限，穿一些女性的衣服，脸部化女性妆容。",
+          "position": 21
+        },
+        {
+          "title": "跨性别话题：英国保障单一性别厕所引发争议- BBC News 中文",
+          "link": "https://www.bbc.com/zhongwen/simp/uk-62050253",
+          "snippet": "细微差异. 政府官员在宣布上述政策时也特别强调性别中立厕所和无性别厕所的差别，前者是数个隔间 ...",
+          "date": "2022年7月9日",
+          "position": 22
+        },
+        {
+          "title": "什麼是無性別？這個性取向您不能不知 - Hello 醫師",
+          "link": "https://helloyishi.com.tw/mental-health/asexual-and-agender-is-not-the-same/",
+          "snippet": "台灣於今年5月17日將同性婚姻合法化，成為第一個承認同性戀結婚的亞洲國家，但除了這幾年備受關注的男同性戀)或女同性戀群體外，同志族群(LGBTQ)還包含了 ...",
+          "date": "2020年5月11日",
+          "position": 23
+        },
+        {
+          "title": "日流行“无性别男孩” 着女装挑战非男即女观念 - 新华网",
+          "link": "http://www.xinhuanet.com/world/2017-01/10/c_129438960.htm",
+          "snippet": "日流行“无性别男孩” 着女装挑战非男即女观念---据《纽约时报》报道，“无性别男孩”正在引领日本的时尚，他们染头发、戴彩色隐形眼镜、涂口红、美甲…",
+          "date": "2017年1月10日",
+          "position": 24
+        },
+        {
+          "title": "多地现“无性别厕所”引争议该废还是立？ - 新闻频道- 央视网",
+          "link": "http://news.cctv.com/2016/11/10/ARTIw3uCOrwPasvRF5zbIupI161110.shtml",
+          "snippet": "中新网北京11月10日电(吕春荣)日前，上海建市内首座无性别公厕，预计将于11月下旬投入使用，此举也让“无性别厕所”话题再度受到关注。中新网(微信公众号： ...",
+          "date": "2016年11月10日",
+          "position": 25
+        },
+        {
+          "title": "无性别男孩热恋中。 - 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E7%84%A1%E6%80%A7%E5%88%A5%E7%94%B7%E5%AD%A9%E7%86%B1%E6%88%80%E4%B8%AD%E3%80%82",
+          "snippet": "演员列表 · 町田和子：吉川爱 · 相马周：板垣李光人 · 绮罗（キラ）：桐山涟 · 三轮玲：中川大辅 · 渡边春菜：五岛百花 · 甘地大和：远藤健慎 · 山崎爱：寒川绫奈 · 境正美：欢迎小田 ...",
+          "position": 26
+        },
+        {
+          "title": "Top 1万件无性别- 2024年10月更新- Taobao",
+          "link": "https://www.taobao.com/list/product/%E6%97%A0%E6%80%A7%E5%88%AB.htm",
+          "snippet": "花灰色无性别纯棉卫衣男生初季穿搭少年感加绒外套美式重磅连帽衫. 卫衣版型，穿着舒适自在。 ￥. 125. 已售100+件. 收藏. 31评价 · hetinghome花火！",
+          "position": 27
+        },
+        {
+          "title": "跨性别者和多元性别者的斗争 - ohchr",
+          "link": "https://www.ohchr.org/zh/special-procedures/ie-sexual-orientation-and-gender-identity/struggle-trans-and-gender-diverse-persons",
+          "snippet": "这些暴力和歧视行为的根本原因是基于预设的二元性别认知（男性或女性）而对性别认同不符合的受害者施加惩罚。这些行为无一例外地表现出根深蒂固的成见和偏见、非理性仇恨和 ...",
+          "position": 28
+        },
+        {
+          "title": "“无性别”服装，到底给谁穿？ - 36氪",
+          "link": "https://m.36kr.com/p/1438034922405509",
+          "snippet": "无性别服饰最难以摆脱的就是“大”。“大”能够包容一切，但在实际生活中，多数无性别服装的剪裁和版型针对的仍是“标准身材人群”，对于小个子尤其不友好。这就 ...",
+          "date": "2021年10月12日",
+          "position": 29
+        },
+        {
+          "title": "无性别-翻译为英语-例句中文 - Reverso Context",
+          "link": "https://context.reverso.net/%E7%BF%BB%E8%AF%91/%E4%B8%AD%E6%96%87-%E8%8B%B1%E8%AF%AD/%E6%97%A0%E6%80%A7%E5%88%AB",
+          "snippet": "使用Reverso Context: 发掘大胆前卫、五彩缤纷、无性别差异的色调。，在中文-英语情境中翻译\"无性别\"",
+          "position": 30
+        },
+        {
+          "title": "全球报道不足500例天生“无性别”幼童术后成男孩 - 中国新闻网",
+          "link": "https://www.chinanews.com.cn/sh/2021/12-15/9630000.shtml",
+          "snippet": "2 手术成为男孩半年后肾脏又发现肿瘤真真需要进行手术治疗，尽管存在很大的风险，家长还是决定试一试。“因为基因突变只针对性腺和肾脏的肿瘤， ...",
+          "date": "2021年12月15日",
+          "position": 31
+        },
+        {
+          "title": "无性别主义-三联生活网",
+          "link": "https://www.lifeweek.com.cn/article/535",
+          "snippet": "男模们穿上阔腿裤的西服套装、大型斗篷、超短裤或者薄纱的芭蕾舞裙，阔步而行。“我们热衷于无性别主义，这听起来有点扯，实际上它是随心所欲造型方式。”韦斯特伍德对《洛杉矶 ...",
+          "position": 32
+        },
+        {
+          "title": "异性家长带娃游泳更衣遇尴尬 无性别更衣室还是太少了",
+          "link": "http://fj.people.com.cn/n2/2020/0622/c181466-34105253.html",
+          "snippet": "记者来到位于厦门工人体育馆内的游泳馆，在场馆二楼，找到了两间“无性别更衣室”，里面分别设有6个独立小隔间，内有淋浴设施，可供家长为小朋友淋浴、更换衣物。",
+          "date": "2020年6月22日",
+          "position": 33
+        },
+        {
+          "title": "联合国报告：没有投资，实现全面性别平等将需要近300 年",
+          "link": "https://www.un.org/zh/desa/achieving-full-gender-equality-still-centuries-away-warns-un-new-report",
+          "snippet": "根据联合国妇女署和联合国经济和社会事务部周三发布的一份报告，如果以目前的进展速度继续下去，实现17 项可持续发展目标(SDG) 之一“性别平等”可能需要近300 年的时间。",
+          "position": 34
+        },
+        {
+          "title": "冬季男装时尚– 重塑无性别之美 - promostyl",
+          "link": "https://promostyl.com/hot-boy-winter-le-naked-dressing-na-plus-de-genre/?lang=zh-hans",
+          "snippet": "冬季男装时尚- 重塑无性别之美 · Loewe · Songzio.",
+          "position": 35
+        },
+        {
+          "title": "UR首发丹宁无性别系列 - 美通社",
+          "link": "https://www.prnasia.com/story/328985-1.shtml",
+          "snippet": "广州2021年8月12日/美通社/ -- 时尚的边界在不断拓展，无性别着装已成为当下潮流。极具先锋精神的快奢时尚品牌URBAN REVIVO（以下简称UR）首发丹宁无性别 ...",
+          "date": "2021年8月12日",
+          "position": 36
+        },
+        {
+          "title": "“无性别厕所”渐成规模你敢上吗？ - 新华网",
+          "link": "http://www.xinhuanet.com/politics/2016-10/26/c_129338402.htm",
+          "snippet": "2015年，重庆新增设“无性别公厕”，该类公厕同样以移动式环保公厕为主，建筑设计采用了“单体隔间式”结构形式，在每个厕所门的右上方，都有一盏红色的小灯。一旦 ...",
+          "date": "2016年10月26日",
+          "position": 37
+        },
+        {
+          "title": "分享丨“无性别化”成新风尚，品牌该如何跟进？",
+          "link": "https://www.5iidea.com/contents/37159",
+          "snippet": "丨以下文章来源于公关狂人（ID：PR-MEN），作者狂人品牌无印良品计划最早于2022年春季实现一半服饰男女通穿，也就是说，实现一半服饰为“无性别”。",
+          "date": "2021年10月12日",
+          "position": 38
+        },
+        {
+          "title": "“无性别”品牌撩起潮流新风向：未来一家人只需要一件衣服了？ | 界面",
+          "link": "https://m.jiemian.com/article/813269.html",
+          "snippet": "Jo Malone 祖·马龙是一家位于伦敦的营销高档护肤和香水产品的公司，1999年由雅诗兰黛集团购得。它的特色是个性化、高品质和与众不同的香水。而祖·马龙被我们广为所知的则是 ...",
+          "position": 39
+        },
+        {
+          "title": "上海首个无性别公厕未发挥初衷:9成为男性使用",
+          "link": "http://news.china.com.cn/2017-05/18/content_40838474.htm",
+          "snippet": "在浦东张家浜滨河绿地里的一个公厕为本市首个无性别公厕，设置的初衷是为了解决男女厕位不合理、导致女性如厕排队的问题。这名负责人表示，“无性别公厕” ...",
+          "date": "2017年5月18日",
+          "position": 40
+        },
+        {
+          "title": "25年前圣罗兰就流行“无性别”？跟舒淇玩转中性穿搭！ - 新浪",
+          "link": "https://interface.sina.cn/pc_to_wap.d.html?ref=https%3A%2F%2Ffashion.sina.com.cn%2Fs%2Ftr%2F2021-07-22%2F1047%2Fdoc-ikqciyzk6923183.shtml",
+          "snippet": "其实早在1910年，Coco Chanel就设计了第一条女士运动裤，之后又设计了添加男性元素的宽松上衣，女性不再是脆弱柔美的象征，也可以是自由且拥有自我的。Coco ...",
+          "date": "2021年7月21日",
+          "position": 41
+        },
+        {
+          "title": "“无性别”理念最早落地时尚界，如今成为新风潮吹进美妆行业 - 搜狐",
+          "link": "https://www.sohu.com/a/239496119_146342",
+          "snippet": "“无性别”理念最早落地时尚界，如今成为新风潮吹进美妆行业 ... 美国、英国、韩国都已经出现强调“无性别”认同的美妆品牌。 “无性别”，是指不去强调、鉴别性别上 ...",
+          "date": "2018年7月5日",
+          "position": 42
+        },
+        {
+          "title": "雌雄同体的进化G e n d e r l e s s 无性别 - 南洋商报",
+          "link": "https://www.enanyang.my/%E5%89%AF%E5%88%8A/%E9%9B%8C%E9%9B%84%E5%90%8C%E4%BD%93%E7%9A%84%E8%BF%9B%E5%8C%96-g-e-n-d-e-r-l-e-s-s-%E6%97%A0%E6%80%A7%E5%88%AB",
+          "snippet": "雌雄同体的进化. G e n d e r l e s s 无性别 ... 您，属于哪种性别？ 无性别（Genderless）正在流行中！ 由上季开始，男装的无性别成了新的流行趋势，来到2016春夏 ...",
+          "date": "2016年1月13日",
+          "position": 43
+        },
+        {
+          "title": "ANNA.Z.：纽约无性别主义华裔设计师，用家族故事讲述中国文化",
+          "link": "https://www.ellechina.com/fashion/news/a44101273/1686030325/",
+          "snippet": "纽约华裔设计师Anna Zhang的个人品牌ANNA.Z.于去年九月在纽约时装周首次亮相,这是一个无性别主义高定品牌,受到了全球媒体的广泛关注。今年,在陆续参加了纽约soho的快闪 ...",
+          "position": 44
+        },
+        {
+          "title": "无性别风扫荡而来，吃定年轻人，品牌只是在玩概念吗？ - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_14625137",
+          "snippet": "此后，“无性别风”成为欧洲人反抗第二次世界大战后的性别刻板意识的武器，女性们开始放弃传统衣着打扮，在穿衣中追寻自由，男性们则在“孔雀革命”（Peacock ...",
+          "date": "2021年9月24日",
+          "position": 45
+        },
+        {
+          "title": "性别平等是正确的事，是有益的事，也是为了人类生存必须要做的事",
+          "link": "https://www.ilo.org/zh-hans/resource/statement/xing-bie-ping-deng-shi-zheng-que-de-shi-shi-you-yi-de-shi-ye-shi-wei-le-ren",
+          "snippet": "企业要建立性别包容的文化，就必须在管理层、高级领导层和董事会中拥有足够数量的女性--至少达到30%。遗憾的是，目前大多数企业都没有达到这一性别多元化 ...",
+          "date": "2024年3月8日",
+          "position": 46
+        },
+        {
+          "title": "无性别时尚的兴起| The Style Sheet | 太古广场 - Pacific Place",
+          "link": "https://www.pacificplace.com.hk/zh-cn/entertainment/thestylesheet/genderless-fashion-q2-2022",
+          "snippet": "然而，时尚界打破性别界限的趋势历史悠久。该运动始于20世纪20年代，当时Coco Chanel开始在自己的设计加入男性单品，她自身的穿著亦然。美女演员Marlene ...",
+          "date": "2022年5月27日",
+          "position": 47
+        },
+        {
+          "title": "构建一个更公平的未来需要更多女性投身科技领域",
+          "link": "https://www.undp.org/zh/china/blog/goujianyigegenggongpingdeweilaixuyaogengduonuxingtoushenkejilingyu",
+          "snippet": "科技本无性别之分。但一个不争的事实是，女性科技工作者严重缺位。科技已渗透到生活的方方面面，未来只会更甚，在如此重要的领域，性别差距的存在令人忧虑 ...",
+          "date": "2021年5月27日",
+          "position": 48
+        },
+        {
+          "title": "谈一谈无性别感- 日记- 豆瓣",
+          "link": "https://m.douban.com/note/853968707/",
+          "snippet": "谈一谈无性别感早上在穿一件衬衫的时候，突然就感觉很喜欢。 感觉自己非常喜欢这种不太凸显女性身材的衣服。 追其原因，想了下是自己非常喜欢追求一种无 ...",
+          "date": "2023年9月15日",
+          "position": 49
+        },
+        {
+          "title": "[PDF] 性/别手册学生版 - 中央大学",
+          "link": "https://www.chuo-u.ac.jp/uploads/2024/03/campuslife_diversity_gs_book_06.pdf?1711756800105",
+          "snippet": "我们无权也不应该擅自评断他人的性取向或性别. 认同。而且，这种传言本身可能会造成替别人出柜／被出柜（参考第5 页）的结果，所. 以 ...",
+          "position": 50
+        },
+        {
+          "title": "去你的吧！无性别设计的神话",
+          "link": "https://www.simpleux.cn/blog/sharing/the-genderless-design-myth/",
+          "snippet": "通用设计（universal design)最早起源于建筑领域，它强调环境对于个体生活的无障碍性，无论这个人的社会地位如何，身体健康如何。在平面设计领域中，由于通用 ...",
+          "date": "2022年10月27日",
+          "position": 51
+        },
+        {
+          "title": "上海首座无性别公厕一年使用7万多人次 - 中国政府网",
+          "link": "https://www.gov.cn/xinwen/2017-12/06/content_5244818.htm",
+          "snippet": "上海首座无性别公厕近日运行满一年，累计使用超过7.3万人次。“第三卫生间”等为特殊人群提供便利的厕所，有望在上海的医院、景区、客运场所 ...",
+          "date": "2017年12月6日",
+          "position": 52
+        },
+        {
+          "title": "如何看待当下的无性别服装？ - 领英",
+          "link": "https://cn.linkedin.com/pulse/%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%BD%93%E4%B8%8B%E7%9A%84%E6%97%A0%E6%80%A7%E5%88%AB%E6%9C%8D%E8%A3%85-%E8%8A%B8-%E5%86%B7",
+          "snippet": "而圣罗兰先生用一套吸烟装颠覆了大家对女性的认识，并且形成了潮流。这不是昙花一现，而是真正的风格永存。这一形象也成为鼓励女性走出家门的力量，同时更多 ...",
+          "date": "2021年1月29日",
+          "position": 53
+        },
+        {
+          "title": "不只是雌雄：性别的起源和流动 - 浙江大学生命演化研究中心",
+          "link": "https://evolution.zju.edu.cn/science/detail55.html",
+          "snippet": "然而，动物中同样存在“无性别者”，即一个个体内同时拥有雄性和雌性的生殖器官的雌雄同体。事实上，雌雄异体的昆虫在动物中占有很大比例，而除去昆虫后，大约三 ...",
+          "date": "2023年8月6日",
+          "position": 54
+        },
+        {
+          "title": "从精神分析到性别理论 - 中国社会科学网",
+          "link": "https://www.cssn.cn/skgz/bwyc/202401/t20240124_5730410.shtml",
+          "snippet": "首先，弗洛伊德认为无意识是混乱无序的，充满着被压抑的欲望。拉康则认为无意识有着语言一样的结构，只是完全由能指构成，但能指并不指向所指，而指向另 ...",
+          "date": "2024年1月24日",
+          "position": 55
+        },
+        {
+          "title": "雌雄莫辩？无性别时代来临 - 日经中文网",
+          "link": "https://cn.nikkei.com/industry/tradingretail/17760-20160304.html",
+          "snippet": "无性别潮流产生的原因有二。一为设计师成熟地创造性，二为消费者求新的消费意志，以此为导向的业界和市场发生了变化。设计师对时尚的把握和敏感已高度成熟， ...",
+          "date": "2016年3月4日",
+          "position": 56
+        },
+        {
+          "title": "“无性别化”的生意为什么正在受到欢迎？ - 第一财经",
+          "link": "https://m.yicai.com/news/100719699.html",
+          "snippet": "该品牌由四名获得2015年世界杯女足冠军的美国运动员——Christen Press、Megan Rapinoe、Tobin Heath和Meghan Klingenber创立，创始团队表示选取“Re”作为logo ...",
+          "date": "2020年7月31日",
+          "position": 57
+        },
+        {
+          "title": "[PDF] 2021全国跨性别健康调研报告",
+          "link": "https://cnlgbtdata.com/files/uploads/2023/01/2021%E5%85%A8%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E5%81%A5%E5%BA%B7%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.pdf",
+          "snippet": "学术上指试图通过心理学、医学或宗教仪式的方法以. 改变一个人的性倾向或性别认同的行为，目前尚无充. 分的循证医学证据支持此类疗法。在国内实践中，扭.",
+          "position": 58
+        },
+        {
+          "title": "无性别服饰火了，你爱吗",
+          "link": "http://www.hb.chinanews.com.cn/news/2021/1012/364684.html",
+          "snippet": "极目新闻记者走访发现，近来，武汉也多了不少主打无性别风的服饰店，销量不俗，究竟是哪些人在买？又是什么打动了他们？ 无性别服饰销量不俗. 昨日，在汉口汉正街 ...",
+          "date": "2021年10月12日",
+          "position": 59
+        },
+        {
+          "title": "从服装到彩妆，“无性别”暗流涌动 - Morketing",
+          "link": "https://www.morketing.com/detail/19629",
+          "snippet": "而经过近一个世纪的演变，21世纪的“无性别”已经不能用“男人穿裙子，女人穿裤子”来简单粗暴的定义了，它意味着穿衣时不再具有性别限制，同时也意味着二合一的 ...",
+          "date": "2021年7月7日",
+          "position": 60
+        },
+        {
+          "title": "无性别风服饰今年火了正成为杭城年轻人的穿搭新时尚 - 杭州网",
+          "link": "https://wap.hangzhou.com.cn/article.php?id=412996",
+          "snippet": "都市快报讯发现没？今年杭州的街头，无性别服饰正成为年轻人的穿搭新时尚。说起这种风格，你可能会想到“男穿女装、女穿男装”的服饰风格，或者是以黑白灰为 ...",
+          "date": "2021年10月10日",
+          "position": 61
+        },
+        {
+          "title": "年龄、性别和多样性(AGD) | UNHCR",
+          "link": "https://emergency.unhcr.org/zh-hans/%E4%BF%9D%E6%8A%A4/%E4%BF%9D%E6%8A%A4%E5%8E%9F%E5%88%99/%E5%B9%B4%E9%BE%84%E3%80%81%E6%80%A7%E5%88%AB%E5%92%8C%E5%A4%9A%E6%A0%B7%E6%80%A7agd",
+          "snippet": "在强迫流离失所和无国籍状态下，少数民族和土著人民面临的这些障碍成倍增加，并增加了保护风险。 难民署关于AGD的政策(2018) 2018年，联合国难民署修改了其 ...",
+          "date": "2024年1月29日",
+          "position": 62
+        },
+        {
+          "title": "无性别服饰品牌bosie 的野心，是想成为「时尚平权」推动者",
+          "link": "https://socialbeta.com/t/interview-brand-bosie-2020-12",
+          "snippet": "bosie 创立于2018 年，是国内首个切入「无性别时尚」品类的新锐品牌，因其复古风趣、鬼马别致的服装风格而受到众多年轻消费者欢迎。通过版型、剪裁和设计 ...",
+          "date": "2020年12月4日",
+          "position": 63
+        },
+        {
+          "title": "黄埔首座无性别公厕现身 - 央广网",
+          "link": "http://www.cnr.cn/shanghai/shzx/ms/20171122/t20171122_524036063.shtml",
+          "snippet": "为缓解如厕排队现象，位于黄浦区大林路93号的一座公厕今年4月起改为男女通用的无性别公厕，成为黄浦区首座、申城第二座无性别公厕。据悉，公厕运行8个月 ...",
+          "date": "2017年11月22日",
+          "position": 64
+        },
+        {
+          "title": "无性别服饰是怎么火起来的？-虎嗅网",
+          "link": "https://m.huxiu.com/article/412447.html",
+          "snippet": "服装该不该有性别界限？女生买走80%的西装，随着社会文化日趋包容，跨性别的消费逐渐流行。天猫消费洞察显示，无性别服饰正在成为时尚行业的新趋势，超六成消费 ...",
+          "date": "2021年3月2日",
+          "position": 65
+        },
+        {
+          "title": "艺术无性别，女性如何才能更显性的存在？ - 99艺术网",
+          "link": "http://www.99ys.com/home/2022/12/27/09/214858.html",
+          "snippet": "艺术无性别，女性如何才能更显性的存在？ · John William Waterhouse 《将杯子献给尤利西斯的喀耳刻》1891年 · Jeanne Mamen 《男人和美杜莎》1910-1914年.",
+          "date": "2022年12月27日",
+          "position": 66
+        },
+        {
+          "title": "“我不是想让女孩看起来像男孩，反之亦然”，无性别理念品牌避坑指南",
+          "link": "https://pangjing.cn/genderless-brand-trend-2020/",
+          "snippet": "CUCCI以辛辣的概念展示（大秀第一部分）揭示了传统社会用强权规范人的外表、身体、偏好以及行为举止。在第二部分的服装展示中，黑色皮鞭、塑胶项圈、锁链眼镜 ...",
+          "date": "2020年6月30日",
+          "position": 67
+        },
+        {
+          "title": "无性别穿搭=女装大佬？？？误会大了吧",
+          "link": "https://www.ellemen.com/fnc/a37110443/wuxingbie-210723/",
+          "snippet": "男女在体型上的差异主要在胸部、肩膀和腰臀胯上，因此一般店铺的情侣装旨在凸显男生的肌肉和女生的曲线，宣扬男子的阳刚之气和女子的阴柔之美。所以，大部分 ...",
+          "date": "2021年7月23日",
+          "position": 68
+        },
+        {
+          "title": "无性别主义",
+          "link": "https://www.luisaviaroma.com/zh-cn/lvr-magazine/trends/genderless",
+          "snippet": "而如今，无性别主义在时尚圈大行其道，让这样的日子一去不复返。如果你需要更多的灵感，是时候重温伍迪·艾伦的《安妮·霍尔》。同时，从Raglan United、Fendi、 ...",
+          "date": "2019年3月6日",
+          "position": 69
+        },
+        {
+          "title": "浅谈火热的「无性别穿搭」 - 网易",
+          "link": "https://www.163.com/dy/article/H4P1P0E70538RRQ0.html",
+          "snippet": "浅谈火热的「无性别穿搭」 · 「无性别穿搭」不是说男生穿了就很娘炮，女生穿了就很硬汉。 · 真正的无性别不需要通过挑战任何一方，以激烈、矛盾、冲突收场， ...",
+          "date": "2022年4月12日",
+          "position": 70
+        },
+        {
+          "title": "无性别之美是新规范 - Industries Cosmétiques",
+          "link": "https://www.industries-cosmetiques.fr/zh/%E9%9D%93%E5%A5%B3-%E6%97%A0%E6%80%A7%E5%88%AB-%E6%98%AF%E6%96%B0%E7%9A%84%E6%A0%87%E5%87%86/",
+          "snippet": "无性别之美是新规范 ... 现在是谈论趋势的时候了，意识到在美容产品方面，性别中立的美已经成为常态。名人、影响者和普通大众，特别是年轻一代，正越来越多地 ...",
+          "date": "2022年8月25日",
+          "position": 71
+        },
+        {
+          "title": "JNYLON-24SS极简松弛感石灰白绑带装饰无性别长款风衣 - Taobao",
+          "link": "https://www.taobao.com/list/item/767514798337.htm",
+          "snippet": "欢迎来到淘宝Jnylon studios，选购JNYLON-24SS极简松弛感石灰白绑带装饰无性别长款风衣，好评率91%，56用户购后写下真实评论，其中3人说它上身版型很好，2人说它颜色很喜欢 ...",
+          "rating": 4.8,
+          "ratingCount": 56,
+          "currency": "¥",
+          "price": 558,
+          "position": 72
+        },
+        {
+          "title": "公园改造将引入无性别厕所 - 北京市人民政府",
+          "link": "https://www.beijing.gov.cn/zhengce/zcjd/201905/t20190523_78405.html",
+          "snippet": "公园改造将引入无性别厕所 ... 市园林绿化局发布了《北京市老旧公园改造提升导则》，该导则首次提出，公园公厕在改扩建时，要引入无性别厕所。 无性别厕所也称 ...",
+          "date": "2018年3月27日",
+          "position": 73
+        },
+        {
+          "title": "无性别的神(豆瓣)",
+          "link": "https://book.douban.com/subject/1433475//",
+          "snippet": "图书无性别的神介绍、书评、论坛及推荐.",
+          "position": 74
+        },
+        {
+          "title": "时尚圈推崇的“无性别主义”是什么？“无性别主义”产品营销的背后 - Bilibili",
+          "link": "https://www.bilibili.com/read/cv3014369/",
+          "snippet": "无性别是一种定义的方式，至少性别不再只有男性和女性这两个选项。 J.kenny-广州-男装设计师: 第三性别？有时候填表的应该有男、女与其他 ...",
+          "date": "2019年7月6日",
+          "position": 75
+        },
+        {
+          "title": "如何设计性别中立卫生间？ - ArchDaily",
+          "link": "https://www.archdaily.cn/cn/985213/zheng-yi-zhong-de-she-ji-xing-bie-zhong-li-wei-sheng-jian",
+          "snippet": "基于性别群体不同需求的空间设计，也没有被太多考虑到。这些问题和担忧塑造了性别中立厕所的设计概要，即旨在为所有人创造合乎道德和舒适的厕所体验。",
+          "date": "2022年7月27日",
+          "position": 76
+        },
+        {
+          "title": "性别选择与跨性别者_财经网- CAIJING.COM.CN",
+          "link": "https://m.caijing.com.cn/api/show?contentid=4231893",
+          "snippet": "但是，舒普没有在性别栏给出的两个选项上打钩，而是在性别一栏写上了“无性别”（抛开人体构造不谈，有些人会感觉自己是“男人”和“女人”的混合体，这些人通常用“无 ...",
+          "date": "2017年2月8日",
+          "position": 77
+        },
+        {
+          "title": "BAGSMART——无性别美学与箱包设计的融合-欣维发实业有限公司",
+          "link": "https://www.worthfind.com/newsinfo/4949988.html",
+          "snippet": "BAGSMART是一个无性别美学设计箱包品牌，由国内资本运营，成长于欧美，拥有产品设计研发能力以及完善的供应链体系，产品远销美国、英国、德国、日本等150多个 ...",
+          "date": "2023年1月19日",
+          "position": 78
+        },
+        {
+          "title": "中性风流行！6成美国家长愿买“无性别”化玩具 - Shoptop",
+          "link": "https://www.shoptop.com/blog/Market-Trends-toy-trend",
+          "snippet": "“theybies”的父母不会使用“he/she（他/她）”来代称孩子，也不会让孩子穿着特定性别的衣服或玩特定性别的玩具。他们的想法不是消除性别，而是打破性别刻板印象 ...",
+          "date": "2023年8月22日",
+          "position": 79
+        },
+        {
+          "title": "Unisex Clothing | Genderless Fashion | alexanderwang® US",
+          "link": "https://www.alexanderwang.com/ph-zh/women-unisex",
+          "snippet": "无性别 · 儿童. 男士. 精选. 新品. 类别. 上装 · 毛衣 · 下装 · 外套 · 鞋履 · 配饰 · gift guide. gift guide. GIFTS. find one & done presents. NEEDS. get back to the ...",
+          "position": 80
+        },
+        {
+          "title": "MUJI：50%服装男女通穿，无性别消费主义到底是什么？ - 广告狂人",
+          "link": "https://m.mad-men.com/articldetails/15957",
+          "snippet": "今年，珠宝品牌Mikimoto就与川久保玲的Comme des Garçons 合作推出一系列男士珍珠首饰入局男性珠宝市场，主题也鲜明的选择了“无性别（Genderless）”，希望男士们放下对珍珠的“ ...",
+          "position": 81
+        },
+        {
+          "title": "滴滴和美团里的女性：派单无性别，她们却赚得更少 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_23728174",
+          "snippet": "美姐下车时没关滴滴，由于不手动拒绝系统便会自动接单，她回来就发现有一单过了接客时间。乘客投诉，她因此被扣了12分服务分，原因是“长时间滞留未前往停车点 ...",
+          "date": "2023年7月5日",
+          "position": 82
+        },
+        {
+          "title": "日媒：日本连锁药妆店推出PB无性别化妆品 - 中国国际贸易促进委员会",
+          "link": "https://www.ccpit.org/japan/a/20220419/2022041983st.html",
+          "snippet": "微信扫一扫：分享 ... 【共同社4月18日电】日本大型连锁药妆店“SUGI药局”（爱知县大府市）本月推出了无性别的化妆品新品牌。作为自有品牌（PB）销售。在打破男女 ...",
+          "date": "2022年4月19日",
+          "position": 83
+        },
+        {
+          "title": "《无性别的神》--书汇 - 中国作家网",
+          "link": "http://www.chinawriter.com.cn/n1/2018/1218/c405073-30473731.html",
+          "snippet": "作家央珍以诗一般的文字，讲述了一个贵族小女孩颠沛流离、寄居篱下，希望得到人之爱、人与人之间普通之爱的故事，惹人心疼，催人泪下。",
+          "date": "2018年12月18日",
+          "position": 84
+        },
+        {
+          "title": "深度｜“无性别”品牌：时尚产业又一个细分赛道浮出水面",
+          "link": "https://cn.fashionnetwork.com/news/shen-du---wu-xing-bie---pin-pai---shi-shang-chan-ye-you-yi-ge-xi-fen-sai-dao-fu-chu-shui-mian,1217477.html",
+          "snippet": "深度｜“无性别”品牌：时尚产业又一个细分赛道浮出水面 ... 今年，美国运动品牌Converse 推出了史上第一个“无性别”服装系列SHAPES。在中国，本土独立设计师王天墨 ...",
+          "date": "2020年5月21日",
+          "position": 85
+        },
+        {
+          "title": "我推动了字节无性别卫生间的诞生| 《她在宇宙大厂这5年》 - 小宇宙",
+          "link": "https://www.xiaoyuzhoufm.com/episode/64bc03935680f4d4a8747460",
+          "snippet": "听《这班就上到这儿！》上小宇宙。 「这班就上到这儿！」是当代人的一声呐喊。本节目尝试探究呐喊者的心声，他们如何逃避工作，如何面对工作，如何在工作之 ...",
+          "date": "2023年7月22日",
+          "position": 86
+        },
+        {
+          "title": "大家谈中国：城市无性别公厕彰显社会进步 - BBC",
+          "link": "https://www.bbc.com/zhongwen/simp/comments_on_china/2015/04/150417_coc_nogender_toilet",
+          "snippet": "“无性别公厕”一个占地三、四平方米的独立卫生间，男女都能使用。这种公厕可以为残疾人和老年人提供方便，残疾人、老人和幼儿可以在异性家属的陪同下一起进入 ...",
+          "date": "2015年4月17日",
+          "position": 87
+        },
+        {
+          "title": "跨越世纪的无性别服饰，正在成为95后的衣柜新欢| 新消费观察 - 雪球",
+          "link": "https://xueqiu.com/4077564538/178692181",
+          "snippet": "跨越世纪的无性别服饰，正在成为95后的衣柜新欢| 新消费观察 ... “是谁决定了男人和女人的着装应该不一样？” 这是日本时装设计大师山本耀司在1983年对时尚界抛 ...",
+          "date": "2021年4月29日",
+          "position": 88
+        },
+        {
+          "title": "可盐可甜的无性别工装图鉴 - Farfetch",
+          "link": "https://www.farfetch.com/cn/style-guide/trends-subcultures/cargo-pants/",
+          "snippet": "这种无性别的设计手法将女性优雅独立和英姿飒爽体现尽致。遵循工装辣妹上紧下松的穿搭公式，高腰的裙型刚好能展露出身材的优势，搭配一双复古老爹鞋 ...",
+          "date": "2023年3月24日",
+          "position": 89
+        },
+        {
+          "title": "“无性别”品牌：时尚产业又一个细分赛道浮出水面 - 界面新闻",
+          "link": "https://www.jiemian.com/article/4410030_foxit.html",
+          "snippet": "“无性别”品牌：时尚产业又一个细分赛道浮出水面 ... 今年，美国运动品牌Converse 推出了史上第一个“无性别”服装系列SHAPES。在中国，本土独立设计师王天墨、 ...",
+          "date": "2020年5月20日",
+          "position": 90
+        },
+        {
+          "title": "[PDF] 跨性别者性别认同的法律承认",
+          "link": "https://www.undp.org/sites/g/files/zskgke326/files/migration/asia_pacific_rbap/81e35c0bbe5b80d746519d11bb00d20cb33c8990b529c6664137bf2127ce73cd.pdf",
+          "snippet": "此类规定曾导致渴望变性者由于无. 力支付巨额手术费、直系亲属不同意等无法满足此条件而无奈选择自残却仍然不能改变性别的悲剧。这. 是包容性发展的根本障碍，因为它触及了 ...",
+          "position": 91
+        },
+        {
+          "title": "时尚多元，性别无差",
+          "link": "https://maimai.cn/article/detail?fid=1751516156&efid=Ijzfv5bpX1sGsOfi9z5Y5w",
+          "snippet": "其实早在20世纪20年代，无性别主义便在时尚界有所表达，Chanel将极具男性化色彩符号的长裤与女性元素结合，推出了挑战传统观念的海军制服长裤女装，这是无性别 ...",
+          "date": "2022年9月20日",
+          "position": 92
+        },
+        {
+          "title": "拆解无性别时尚风- FAHK",
+          "link": "https://www.fashionasiahk.com/zh/podcast/unravel-the-genderless-dresscode/",
+          "snippet": "DEMO 由香港时装设计师Derek Chan 于2014年创立。品牌风格打破性别界限，混合男女装的元素，以诗意与哲学创造独有品味，散发的美感与态度。细致的设计，例如手工装饰，刺绣和粗 ...",
+          "position": 93
+        },
+        {
+          "title": "无性别穿搭 - 微博",
+          "link": "https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E6%97%A0%E6%80%A7%E5%88%AB%E7%A9%BF%E6%90%AD%23&luicode=10000011&lfid=1005057883275170&featurecode=newtitle%3F",
+          "snippet": "所以实际上的“无性别”，或者说“人装”，是什么样，其实基本盘心里也门儿清。 所谓“女装”“女性化”，实际上就是“第二性”的意思。是“以第二性替代女性 ...",
+          "position": 94
+        },
+        {
+          "title": "上海火了一个月的无性别公厕，他们这样说……",
+          "link": "https://www.jfdaily.com/wx/detail.do?id=37553&userAuth=1&t=1537401620000",
+          "snippet": "从10月下旬到11月19号的“世界厕所日”期间，一间公共厕所“火”了将近一个月。 这间公厕位于浦东张家浜滨河绿地内，是上海首座男女通用的无性别公厕，其“无 ...",
+          "date": "2016年11月27日",
+          "position": 95
+        },
+        {
+          "title": "美人无性别，这位男色能让东西方女生全都为他腿软 - 凤凰网",
+          "link": "https://i.ifeng.com/c/8A9AoIK92OR",
+          "snippet": "美人无性别，这位男色能让东西方女生全都为他腿软 ... “他对我来说，就像沙漠里平静的绿洲”。 科幻巨制《沙丘》的导演丹尼斯·纽伦维瓦，这样评价张震。 ... 平静 ...",
+          "date": "2021年10月8日",
+          "position": 96
+        },
+        {
+          "title": "无性别时装是什么？ - 全球纺织网",
+          "link": "https://m.tnc.com.cn/ask/451734.html",
+          "snippet": "男性和女性的区别，其本质区别就在于生理层面上的「性」。性别，则是男女之间的一种特性。无性别（unisex），其实就是将性别的界限模糊掉，两性之间可以互相渗透 ...",
+          "date": "2021年1月27日",
+          "position": 97
+        },
+        {
+          "title": "孔雀革命，一场从未结束的无性别审美 - 财联社",
+          "link": "https://m.cls.cn/detail/768617",
+          "snippet": "然而，孔雀现象并没有从历史上消失，男装风格在20世纪60年代再次迎来转向，标准版型的西装为更加绚丽的风格让道。这次变革不再是为了向女性炫耀华丽的“羽毛”，而是关乎创造力与 ...",
+          "position": 98
+        }
+      ],
+      "images": [
+        {
+          "title": "分享丨“无性别化”成新风尚，品牌该如何跟进？",
+          "imageUrl": "https://cdn.5iidea.com/cms/asset/blog/6a7a8d464a963177e484972d689d6ce8.jpg",
+          "link": "https://www.5iidea.com/contents/37159"
+        },
+        {
+          "title": "无性别化”的生意为什么正在受到欢迎？",
+          "imageUrl": "https://imgcdn.yicai.com/uppics/images/2020/07/1719875a0f5084ba6280437c628dfaa3.jpg",
+          "link": "https://m.yicai.com/news/100719699.html"
+        },
+        {
+          "title": "无性别主义下一个流行风向标_手机搜狐网",
+          "imageUrl": "https://p1.itc.cn/q_70/images03/20230704/bc201be06ac4472984b19df1fd8b85c5.png",
+          "link": "https://www.sohu.com/a/694529322_116311"
+        },
+        {
+          "title": "UNISEX无性别——从潮流到选择-36氪",
+          "imageUrl": "https://img.36krcdn.com/20200409/v2_6f1144b6f025454f949748d3e58fe5d8_img_000?x-oss-process=image/format,jpg/format,jpg/interlace,1",
+          "link": "https://m.36kr.com/p/1721955024897"
+        },
+        {
+          "title": "UR首发丹宁无性别系列-美通社PR-Newswire",
+          "imageUrl": "https://mma.prnasia.com/media2/1593366/image_4.jpg?p=medium600",
+          "link": "https://www.prnasia.com/story/328985-1.shtml"
+        },
+        {
+          "title": "无性别男孩热恋中_百度百科",
+          "imageUrl": "https://bkimg.cdn.bcebos.com/smart/4afbfbedab64034f78f05635948e6e310a55b319b7f9-bkimg-process,v_1,rw_1,rh_1,pad_1,color_ffffff?x-bce-process=image/format,f_auto",
+          "link": "https://baike.baidu.com/item/%E6%97%A0%E6%80%A7%E5%88%AB%E7%94%B7%E5%AD%A9%E7%83%AD%E6%81%8B%E4%B8%AD/57074232"
+        },
+        {
+          "title": "无性别穿搭可不是简单的中性时尚-腾讯新闻",
+          "imageUrl": "http://inews.gtimg.com/newsapp_bt/0/15157661334/641",
+          "link": "https://news.qq.com/rain/a/20220810A0453Z00"
+        },
+        {
+          "title": "日本的“无性别男孩” - The New York Times",
+          "imageUrl": "https://static01.nyt.com/images/2017/01/05/international-home/GENDERLESS-vid/GENDERLESS-vid-superJumbo.jpg",
+          "link": "https://www.nytimes.com/video/universal/100000004895126/riben-wuxingbie-nanhai.html"
+        },
+        {
+          "title": "分享丨“无性别化”成新风尚，品牌该如何跟进？",
+          "imageUrl": "https://cdn.5iidea.com/cms/asset/blog/d9a521d297c3e00940a567572390ef62.jpg",
+          "link": "https://www.5iidea.com/contents/37159"
+        }
+      ],
+      "peopleAlsoAsk": [
+        {
+          "question": "Gender有几种？",
+          "snippet": "其实，性别的定义有很多方式，严格一点说，一个个体起码具备六种性别模式，这六种性别模式都统一，才能确定其真正意义上的雄性或者雌性，否则就会出现性别模糊或性征模糊。 生物的六种性别模式包括染色体性别、基因性别、性腺性别、生殖器性别、心理性别和社会性别。",
+          "title": "六种性别_百度百科",
+          "link": "https://baike.baidu.com/item/%E5%85%AD%E7%A7%8D%E6%80%A7%E5%88%AB/11023723"
+        },
+        {
+          "question": "Nonbinary是什么意思？",
+          "snippet": "这是被一些L.G.B.T.Q. 群体成员认为是一大进步的最新例子。” Nonbinary在这里指“非二元性别的”，也被广泛称作Genderqueer（性别酷儿），用来指称那些超越传统意义上对男性或女性的二元划分、不单纯属于男性或女性的自我性别认同。",
+          "title": "Nonbinary：男女之外，性别的第三个选项 - 纽约时报",
+          "link": "https://cn.nytimes.com/culture/20181127/wod-nonbinary/"
+        },
+        {
+          "question": "Gender queer是什么意思？",
+          "snippet": "性别酷儿（genderqueer）是一种性别认同，或对性别的体验或表达方式。 不同于主流的男女性别二元观念（认为仅存在男性和女性两种性别），性别酷儿可能觉得自己的性别处在男性和女性之间，觉得自己既非男性也非女性，或者既是男性也是女性，或者完全拒绝任何“性别”。",
+          "title": "性别酷儿_百度百科",
+          "link": "https://baike.baidu.com/item/%E6%80%A7%E5%88%AB%E9%85%B7%E5%84%BF/55793875"
+        }
+      ],
+      "relatedSearches": [
+        {
+          "query": "Nonbinary"
+        },
+        {
+          "query": "非二元人"
+        },
+        {
+          "query": "非二元论"
+        },
+        {
+          "query": "non-binary是什么意思"
+        },
+        {
+          "query": "non binary gender中文"
+        },
+        {
+          "query": "bigender意思"
+        },
+        {
+          "query": "non binary中文"
+        },
+        {
+          "query": "genderqueer意思"
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

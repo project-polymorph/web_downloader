@@ -1,0 +1,1562 @@
+{
+  "query": "性激素 药物",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-04T04:51:09.708287",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "性激素 药物",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "激素类药物_百度百科",
+          "link": "https://baike.baidu.com/item/%E6%BF%80%E7%B4%A0%E7%B1%BB%E8%8D%AF%E7%89%A9/189980",
+          "snippet": "激素类药物可以分为：糖皮质激素、肾上腺皮质激素、去甲肾上腺激素、孕激素、雌激素、雄激素等。该类药物常见使用方式：静脉使用、口服、外用及其他。常见剂型：注射粉针、水 ...",
+          "position": 1
+        },
+        {
+          "title": "性激素类药物有哪些？ - 分析测试百科网",
+          "link": "https://m.antpedia.com/news/2735998.html",
+          "snippet": "天然的雌激素有雌二醇、雌酮和雌三醇，临床常用品可口服或长效，如炔雌醇、炔雌醚、戊酸雌二醇。尼尔雌醇、己烯雌酚、己烷雌酚、氯烯雌醚等。",
+          "date": "2022年4月20日",
+          "position": 2
+        },
+        {
+          "title": "性激素- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E6%80%A7%E6%BF%80%E7%B4%A0",
+          "snippet": "性激素包括有雄性激素、雌性激素和孕激素，性激素借助通过核受体的减缓基因组 ... 药物种类. Estradiol, 是一种重要的雌激素性激素，不仅存在于女性，也存在于男性 ...",
+          "position": 3
+        },
+        {
+          "title": "雌激素经常用，这10 种用法你都掌握了吗？ - 丁香园",
+          "link": "https://e.dxy.cn/wisdom/front/zhihuihao/6285",
+          "snippet": "雌激素针剂：分别有苯甲酸雌二醇、戊酸雌二醇、结合雌激素针剂等，国内常用的苯甲酸雌二醇是雌二醇的苯甲酸酯。 因口服药物使用方便，现临床已经基本不用 ...",
+          "date": "2019年3月11日",
+          "position": 4
+        },
+        {
+          "title": "激素治疗：适合您吗？ - 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/diseases-conditions/menopause/in-depth/hormone-therapy/art-20046372",
+          "snippet": "然而，医生常会推荐一种叫做双磷酸盐的药物来治疗骨质疏松症。但如果您不能耐受其他疗法或其他疗法对您无效，雌激素疗法可能会有所帮助。 早期绝经或雌激素 ...",
+          "position": 5
+        },
+        {
+          "title": "调查报道| 中国跨性别女性的困境：买不到药的\"药娘\"",
+          "link": "https://www.rfa.org/mandarin/ytbdzhuantixilie/diaocha-baodao/mz-04262023144931.html",
+          "snippet": "去年十二月，中国政府禁止了醋酸环丙孕酮（一种常用的抗雄激素）和雌二醇（一种常用的雌激素）的网络销售。 这两种药物被应用于荷尔蒙疗法中，例如治疗前列腺癌 ...",
+          "date": "2023年4月26日",
+          "position": 6
+        },
+        {
+          "title": "雌激素类药物_百度百科",
+          "link": "https://baike.baidu.com/item/%E9%9B%8C%E6%BF%80%E7%B4%A0%E7%B1%BB%E8%8D%AF%E7%89%A9/54164935",
+          "snippet": "分天然和人工合成两类:前者包括雌二醇、雌三醇和雌酮,口服效果远较注射差;后者包括炔雌醇、炔雌醚及戊酸雌二醇等,口服效果好,作用持久。能促进女性性器官及乳腺的发育 ...",
+          "position": 7
+        },
+        {
+          "title": "女性化激素治疗- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/tests-procedures/feminizing-hormone-therapy/about/pac-20385096",
+          "snippet": "女性化激素治疗通常先采用螺内酯（Aldactone）。这种药物可以阻断男性性激素受体（雄激素受体），从而减少身体产生的睾酮量。 在服用螺内酯约4 到8 周 ...",
+          "date": "2024年7月12日",
+          "position": 8
+        },
+        {
+          "title": "分清常见的激素药 - 鄱阳县人民政府",
+          "link": "https://www.poyang.gov.cn/pyxylbzjj/zhengwudongtai4aueux/201702/8852299053d947e2a114ec0bdcf70844.shtml",
+          "snippet": "带“松”的常见药：地塞米松、倍他米松、氢化可的松、强的松、泼尼松、强的松龙、醋酸泼尼松、去炎松、氟轻松、派瑞松、地塞米松、强的松、氟轻松，这些药的名字最后一个字 ...",
+          "position": 9
+        },
+        {
+          "title": "不可与糖皮质激素合用的八大类药物",
+          "link": "http://heliyongyao.org/yongyao/125.html",
+          "snippet": "糖皮质激素类主要有氢化可的松、泼尼松、泼尼松龙、地塞米松、甲泼尼龙、曲安奈德、倍他米松等。此类药物具有抗炎、抗免疫、抗毒素、抗休克等作用， ...",
+          "date": "2011年12月28日",
+          "position": 10
+        },
+        {
+          "title": "雌激素药物 - MtF.wiki",
+          "link": "https://mtf.wiki/zh-cn/docs/medicine/estrogen/",
+          "snippet": "雌激素药物 ... 外用雌二醇凝胶，经皮吸收。 ... 雌二醇片一般是半水合雌二醇，不同于戊酸雌二醇。 ... 外用雌二醇贴片，经皮吸收。 ... 戊酸雌二醇（Estradiol valerate）是一种人工 ...",
+          "position": 11
+        },
+        {
+          "title": "服用激素类药物需要注意这些方面 - 乐享健康- 人民网",
+          "link": "http://lxjk.people.cn/n1/2019/0731/c404177-31266411.html",
+          "snippet": "什么是激素类药物？糖皮质激素一般简称为激素，具有抗炎、抗过敏、抗风湿、免疫抑制的作用。糖皮质激素会引发水肿，长期大量应用糖皮质激素类药物如泼尼松、 ...",
+          "date": "2019年7月31日",
+          "position": 12
+        },
+        {
+          "title": "女性化激素疗法- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E5%A5%B3%E6%80%A7%E5%8C%96%E6%BF%80%E7%B4%A0%E7%96%97%E6%B3%95",
+          "snippet": "它无法消除自然青春期产生的许多变化，这可能需要手术和其他治疗来逆转（见下文）。用于女性化激素疗法的药物包括雌激素、抗雄激素、孕激素和促性腺素释素（GnRH调节剂）。",
+          "position": 13
+        },
+        {
+          "title": "结合雌激素片说明书 - 标准来源",
+          "link": "https://www.nmpa.gov.cn/wwwroot/hy5/035.htm",
+          "snippet": "与基础值相比有显著差异（P≤0.05）. 【药代动力学】. 吸收. 治疗用的结合雌激素为水溶性，药物释放后胃肠道吸收良好。口服后4-10 小时内各种结合及非结合型雌激素达最大血 ...",
+          "position": 14
+        },
+        {
+          "title": "女性性激素类药物：你所不知道的用处（上接第23版） - 医师报",
+          "link": "https://www.mdweekly.com.cn/m/article/detail?id=6060",
+          "snippet": "COC中含有雌、孕激素，很多人对“激素”谈虎色变，但是此“激素”非彼“激素”。民众分不清“女性激素”与“肾上腺激素”之间的区别。邓教授指出，口服避孕药中的雌激素 ...",
+          "date": "2017年8月16日",
+          "position": 15
+        },
+        {
+          "title": "性激素六项，你懂了吗 - 中山大学附属第七医院",
+          "link": "https://www.sysush.com/content/560f920a-6c7f-4fb6-b523-dff814f4c337",
+          "snippet": "检查性激素前至少一个月不能用性激素类药物（包括黄体酮、雌激素类 ... 月经第2、3天的激素水平为基础性激素水平，基础LH和FSH正常值为5～10IU/L ...",
+          "date": "2018年6月1日",
+          "position": 16
+        },
+        {
+          "title": "变胖是激素药无一例外的副作用吗？ - 中国江苏网",
+          "link": "https://jsnews.jschina.com.cn/piyao/zjsj/202105/t20210531_2790818.shtml",
+          "snippet": "人体可以分泌的激素有很多种，相对应的，常用的激素类药物也分很多种，包括肾上腺皮质激素类药物、性激素类药物、甲状腺激素和胰岛素制剂等。其中，甲状腺激素 ...",
+          "date": "2021年5月31日",
+          "position": 17
+        },
+        {
+          "title": "类性激素及激素类复方制剂 - 湖南药事服务网",
+          "link": "https://www.hnysfww.com/category.php?id=162",
+          "snippet": "搜药，哪儿有? 药学服务 · 用药咨询须知 · 用药指导服务 · 药物治疗管理 · 临床药师会诊 · 处方管理 · 临床路径 · 医师处方 · 药师 ...",
+          "position": 18
+        },
+        {
+          "title": "雌激素是永葆青春的「神药」，还是致癌的「洪水猛兽」？ - 丁香医生",
+          "link": "https://m.dxy.com/article/4615",
+          "snippet": "主席总结 · 一般情况下，雌激素无需额外补充，不要擅自购买含雌激素的保健品和护肤品； · 在围绝经期遵医嘱补充雌激素有助于缓解更年期症状，平稳度过这一时期； · 在适当的时间 ...",
+          "position": 19
+        },
+        {
+          "title": "激素避孕方法- 《默沙东诊疗手册大众版》",
+          "link": "https://www.msdmanuals.cn/home/women-s-health-issues/family-planning/hormonal-methods-of-contraception",
+          "snippet": "避孕激素可以. 口服（口服避孕药）. 插入阴道（阴道环）. 应用于皮肤（贴片）. 皮下植入. 注入肌肉. 用于避孕的激素包括雌激素和孕激素（与激素黄体酮类似的药物）。雌激素和孕 ...",
+          "position": 20
+        },
+        {
+          "title": "促性激素类药 - ChemicalBook",
+          "link": "https://m.chemicalbook.com/ChemicalProductsList_138.htm",
+          "snippet": "性激素包括雌激素、孕激素、雄激素、促性激素。蛋白同化激素常与雄激素有类似作用，所以通常也把它列于性激素中介绍。性激素类药物主要用于更年期综合征、子宫内膜异位 ...",
+          "position": 21
+        },
+        {
+          "title": "如何看懂性激素六项检查结果？-武汉大学医院",
+          "link": "https://hospital.whu.edu.cn/info/1281/1756.htm",
+          "snippet": "倘若是时间方面的特殊情况，也可以随时进行性激素六项检查，但必须注明月经周期的具体时间。 当然闭经者随时都可以检查。需注意在性激素六项检查之前不可服用性激素类的药物 ...",
+          "position": 22
+        },
+        {
+          "title": "女性生殖健康的“晴雨表”！性激素六项不会看？超全解读",
+          "link": "https://www.hangzhou.gov.cn/art/2023/1/28/art_1228974667_59072753.html",
+          "snippet": "生理作用主要是促进女性排卵和黄体生成，促进黄体分泌孕激素和雌激素。 ... 禁药物：检查基础性激素前，应至少一个月不用性激素类药物（包括黄体酮 ...",
+          "date": "2023年1月28日",
+          "position": 23
+        },
+        {
+          "title": "雄激素药物 - FtM.wiki",
+          "link": "https://ftm.wiki/zh-cn/hrt/androgen/",
+          "snippet": "常见的睾酮剂型# · 口服药物：. 主要包括 十一酸睾酮(TU) 的口服胶丸。辅料为胶丸、溶剂油。 · 舌下/颊：. 舌下和颊含睾酮治疗可以避免“首过效应”。在大陆暂不可用。 · 肌内 ...",
+          "position": 24
+        },
+        {
+          "title": "四张表搞定，临床常用雌激素类药物的用法用量 - 中华医学期刊网",
+          "link": "https://www.medjournals.cn/news/getNewInfo.do?newId=14284",
+          "snippet": "孕激素亦分为天然和人工合成两类：天然孕激素为黄体酮（即孕酮）；合成孕激素包括：地屈孕酮；黄体酮衍生物，如醋酸甲羟孕酮（即安宫黄体酮）、甲地孕酮、氯地孕酮 ...",
+          "date": "2018年6月25日",
+          "position": 25
+        },
+        {
+          "title": "结合雌激素 - 药品信息--国家基本药物",
+          "link": "https://www.xqhospital.com.cn/drug/drug0202.asp?ID=162&class=%B8%BE%B2%FA%BF%C6%D3%C3%D2%A9&class1=%BC%A4%CB%D8%C0%E0%D2%A9&class2=%B4%C6%D0%D4%BC%A4%CB%D8&class3=",
+          "snippet": "本品是从妊娠马尿中提取的一种水溶性天然结合型雌激素，其作用与雌二醇相同，能促进女性性器官发育和副性征出现，增强子宫平滑肌收缩及抗雄激素作用等。并可控制毛细血管出血 ...",
+          "position": 26
+        },
+        {
+          "title": "糖皮质激素用药概述- UpToDate",
+          "link": "https://www.uptodate.com/contents/zh-Hans/overview-of-the-pharmacologic-use-of-glucocorticoids",
+          "snippet": "引言. 天然和合成的糖皮质激素(也称为类固醇激素)可用于治疗多种疾病。这类药物大多以药理剂量用于治疗需要抑制炎症的疾病，偶尔用于明确库欣综合征的 ...",
+          "date": "2024年3月11日",
+          "position": 27
+        },
+        {
+          "title": "性激素药物有哪些-爱问健康网",
+          "link": "https://m.yyk.iask.sina.com.cn/q/878S9Pwgx4Rt.html",
+          "snippet": "性激素类药物在临床常见的有三种分别为，雌激素药物，孕激素药物和雄激素药物，雌激素类药物比如雌二醇等，多用于补充雌激素分泌不足，或者用于止血人工周期的，或更年期激.",
+          "position": 28
+        },
+        {
+          "title": "克罗米芬和其他抗雌激素药物在多囊卵巢综合征中的促排卵作用",
+          "link": "https://www.cochranelibrary.com/es/cdsr/doi/10.1002/14651858.CD002249.pub5/abstract/zh_HANS",
+          "snippet": "研究背景. 由于无排卵导致的生育力低下是女性的常见问题。一线口服治疗是使用抗雌激素药物，如克罗米酚柠檬酸盐，但克罗米芬可能出现明显耐药性。一些替代和辅助治疗已经开始 ...",
+          "position": 29
+        },
+        {
+          "title": "【南方网】想要孩子“蹿个子”？生长激素靠谱吗？",
+          "link": "http://mpa.gd.gov.cn/xwdt/xfjs/yxaq/content/post_4440800.html",
+          "snippet": "重组人生长激素（rhGH）是国家药品监督管理局（MNPA）批准促进儿童长高的唯一有效药物，用于治疗生长激素缺乏症、特发性矮小、SGA出生后持续生长迟缓、短肠综合 ...",
+          "date": "2024年6月17日",
+          "position": 30
+        },
+        {
+          "title": "警惕化妆品中的“特效成分”-激素_药博士",
+          "link": "https://yjj.sh.gov.cn/ybs/20240517/9e300d5dfb5a492b8856eeae3a9353b0.html",
+          "snippet": "2021-2023年国家药监局及地方药监局发布的化妆品监督抽检不合格项目，其中激素类禁用原料常常出现在不合格名单之中，例如倍他米松、地索奈德、氯倍他索、特 ...",
+          "date": "2024年5月17日",
+          "position": 31
+        },
+        {
+          "title": "雌激素_性激素- 作用于内分泌及生殖系统药物 - 湖南药事服务网",
+          "link": "https://www.hnysfww.com/category.php?id=160",
+          "snippet": "⑴药效学：雌激素能促使细胞合成DNA、RNA和相应组织内各种不同的蛋白质。雌激素能通过减少下丘脑促性腺激素释放激素（GnRH）的释出，导致卵泡刺激素（FSH）和黄体生成激素（LH）从 ...",
+          "position": 32
+        },
+        {
+          "title": "如何正确使用激素类药物 - 中国数字科技馆",
+          "link": "https://www.cdstm.cn/gallery/media/mkjx/bktmhdsj_3679/202103/t20210322_1044726.html",
+          "snippet": "需注意的是，激素类药物虽然可以减轻患者的病痛，在短时间内缓解病情，但也有可能使患者上瘾，对激素产生依赖性，所以很多人称激素既是天使也是魔鬼。因此，一般 ...",
+          "date": "2021年3月22日",
+          "position": 33
+        },
+        {
+          "title": "实话石说丨神奇的雌激素，让人欢喜让人忧！（下） 中国非公立医疗 ...",
+          "link": "http://www.cnmia.org/DynamicDetail_F69CF201350C453181D1BFD9E3BA6DE6.html",
+          "snippet": "炔雌醇的适应证为补充雌激素不足，治疗女性性腺功能不良、闭经、更年期综合症等。也可用于晚期乳腺癌(绝经期后妇女)、晚期前列腺癌的治疗。与孕激素类药 ...",
+          "date": "2021年9月17日",
+          "position": 34
+        },
+        {
+          "title": "激素类药物 - MBA智库百科",
+          "link": "https://wiki.mbalib.com/wiki/%E6%BF%80%E7%B4%A0%E7%B1%BB%E8%8D%AF%E7%89%A9",
+          "snippet": "激素类药物就是以人体或动物激素（包括与激素结构、作用原理相同的有机物）为有效成分的药物。糖皮质激素是临床上应用最多的激素类药物，一般意义上的所谓激素， ...",
+          "position": 35
+        },
+        {
+          "title": "雌激素药物有哪些 - 亲子百科",
+          "link": "https://baike.pcbaby.com.cn/qzbd/12637.html",
+          "snippet": "补充雌激素的药物 · 1、戊酸雌二醇片. 作用：促进女性生殖器及乳房发育；抑制骨吸收；改善血脂成份。 · 2、结合雌激素片. 作用：用于治疗因性腺功能减退﹑去势或原发性卵巢功能 ...",
+          "position": 36
+        },
+        {
+          "title": "激素类药品列表 - A+医学百科",
+          "link": "http://www.a-hospital.com/w/%E6%BF%80%E7%B4%A0%E7%B1%BB%E8%8D%AF%E5%93%81%E5%88%97%E8%A1%A8",
+          "snippet": "激素类药品列表 · 美卓乐甲泼尼龙片（美卓乐） · 美雄酮片. 适用于慢性消耗性疾病，严重感染，创伤、烧伤、手术后等的康复，以及纠正应用肾上腺皮质激素引起的负氮平衡，骨质疏松 ...",
+          "position": 37
+        },
+        {
+          "title": "绝经激素治疗的是与非-武汉大学医院",
+          "link": "https://hospital.whu.edu.cn/info/1281/1752.htm",
+          "snippet": "如果有全身症状，则应选择全身作用的药物；如果仅有局部症状，则局部问题局部解决，建议阴道局部使用低剂量雌激素。MHT的禁忌证共计8条，除了妊娠相关不明原因出血、各种性激素 ...",
+          "position": 38
+        },
+        {
+          "title": "一篇药娘日记，记录了数万药娘的悲惨命运 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_9307060",
+          "snippet": "胸部隆起，生殖器失去功能并停止发育，从外观上向女性靠拢。 药娘，指的是通过抗雄激素和雌激素与孕激素药物将男性性征女性化的群体，且未成年 ...",
+          "date": "2020年9月23日",
+          "position": 39
+        },
+        {
+          "title": "运动员使用雄激素和其他激素- UpToDate",
+          "link": "https://www.uptodate.com/contents/zh-Hans/use-of-androgens-and-other-hormones-by-athletes",
+          "snippet": "引言. 一些运动员企图通过药物来提高成绩。专业运动员在奥运会和美国职业棒球大联盟等体育赛事中被抓到使用激素类药物是大众媒体关注的焦点，最常用的 ...",
+          "date": "2024年5月30日",
+          "position": 40
+        },
+        {
+          "title": "关于激素的二三事_健康科普 - 新乡医学院第一附属医院",
+          "link": "https://m.xyyfy.com/health/203.html",
+          "snippet": "... 激素。 一、到底什么是激素？ 激素是维持人体正常功能所必需的一种物质。包含很多种，如雄激素 ... 激素作为一种药物，肯定是为了治疗疾病而使用的，与疾病进展 ...",
+          "date": "2022年12月27日",
+          "position": 41
+        },
+        {
+          "title": "糖皮质激素类药物临床应用指导原则(2023版) - 中华医学期刊网",
+          "link": "https://rs.yiigle.com/CN311282202304/1456533.htm",
+          "snippet": "糖皮质激素类药物临床应用指导原则(2023版) ... 中华内分泌代谢杂志,2023, 39 (04): 289-296. 2012年发布的《糖皮质激素类药物临床应用指导原则》在极大程度 ...",
+          "date": "2023年4月25日",
+          "position": 42
+        },
+        {
+          "title": "女性性激素类药物：你所不知道的用处（上接第23版） - 医师报",
+          "link": "https://www.mdweekly.com.cn/m/article/detail?id=6057",
+          "snippet": "与单孕激素比较，对孕龄期妇女使用复合型口服避孕药（COC）治疗AUB-O，可以抑制紊乱的H-P-O轴，可取得快速止血的效果。COC既可以调整周期，又可以避孕。还有着 ...",
+          "date": "2017年8月16日",
+          "position": 43
+        },
+        {
+          "title": "抗雌激素药物对消化道肿瘤的治疗作用",
+          "link": "http://www.zlfzyj.com/cn/article/id/7449",
+          "snippet": "抗雌激素药物对消化道肿瘤的治疗作用[J]. 肿瘤防治研究, 1991, 18(3): 167-167 ... 例如性激素受体阳性的乳瘤,内分泌治疗的有效率达60—80%。八十年代以来相继发现 ...",
+          "position": 44
+        },
+        {
+          "title": "解答常见的激素使用疑问| Bangkok Hospital",
+          "link": "https://www.bangkokhospital.com/zh/content/answers-the-questions-about-people-who-take-hormones",
+          "snippet": "... 荷尔蒙，以预防骨质疏松。此时，可以咨询医生以评估是否可以在接近女性正常绝经年龄时减少或停止药物。 接受激素治疗会增加癌症风险吗？ 接受激素治疗不增加常见癌症的 ...",
+          "position": 45
+        },
+        {
+          "title": "转移性激素敏感性前列腺癌诊断和治疗的最新进展 - 临床与病理杂志",
+          "link": "https://m-lcbl.amegroups.com/article/view/44710",
+          "snippet": "近期对mHSPC的诊疗研究主要着重于利用mHSPC的生物学特征进行靶向追踪诊断及雄激素剥夺治疗(androgen deprivation therapy，ADT)、紫杉烷类药物化疗、新型雄激素受体靶向剂、 ...",
+          "position": 46
+        },
+        {
+          "title": "服用避孕药物女性的心脏病发作和脑卒中的风险 - Cochrane",
+          "link": "https://www.cochrane.org/zh-hans/CD011054/FERTILREG_fu-yong-bi-yun-yao-wu-nu-xing-de-xin-zang-bing-fa-zuo-he-nao-zu-zhong-de-feng-xian",
+          "snippet": "自从被使用以来，复方口服避孕药已经成为了最受欢迎的节育方式之一。这些药物包含两种雌性激素，雌激素和孕激素。当被正确使用时，失败率（即发生意外妊娠）低于一年每 ...",
+          "position": 47
+        },
+        {
+          "title": "炔雌醇可以有效降低雄激素 - 北京市医院管理中心",
+          "link": "http://www.bjygzx.org.cn/bxjk/202010/t20201014_292435.htm",
+          "snippet": "现在临床上有很多可以降低雄激素的药物：如炔雌醇是目前口服避孕药中最 ... ② 使肝脏合成性激素结合球蛋白增多，使游离睾酮浓度降低。 醋酸环丙 ...",
+          "date": "2020年10月14日",
+          "position": 48
+        },
+        {
+          "title": "世界更年期关怀日临床药师送您性激素用药指导关爱书",
+          "link": "https://m.fybj.net/notice_zb/2021/zbqY1ybp.html",
+          "snippet": "对于“易燃易爆”的更年期症状，没有禁忌的女性患者经医生评估后大多会使用性激素，初次使用这类药物的患者估计有些手足无措，药物具体该如何服用？",
+          "date": "2021年10月18日",
+          "position": 49
+        },
+        {
+          "title": "哮喘诊疗的五个误区 - 节日纪念日",
+          "link": "http://www.nhc.gov.cn/jnr/xcrzsxx/201405/c11ccec4c14b4b76aaea6609d6a0324e.shtml",
+          "snippet": "只要停药一段时间或加用糖皮质激素，患者对β2受体激动剂的敏感性会恢复。而其他药物，特别是吸入性糖皮质激素没有减敏现象，不会随时间延长而效果变差 ...",
+          "date": "2014年5月4日",
+          "position": 50
+        },
+        {
+          "title": "抗雄激素药物 - MtF.wiki",
+          "link": "https://mtf.wiki/zh-cn/docs/medicine/antiandrogen/",
+          "snippet": "抗雄激素药物 · *GnRH 类似物. GnRH 类似物在跨性别HRT 中用于青春期阻断治疗。 · 比卡鲁胺片. 比卡鲁胺（Bicalutamide）是雄激素受体拮抗剂，一种非甾体类抗雄激素。 · 醋酸 ...",
+          "position": 51
+        },
+        {
+          "title": "特应性皮炎的治疗:外用激素该怎么用？ - 中国医学科学院皮肤病医院",
+          "link": "http://www.pumcderm.net/list/97/3981.html",
+          "snippet": "经医生评估后不同位置、不同严重程度的情况选择不同强度的激素类药物。 手、足部皮疹肥厚的地方可以选择中效的激素药. 面部及皮肤皱褶处使用激素后发生 ...",
+          "date": "2023年9月27日",
+          "position": 52
+        },
+        {
+          "title": "激素类药物，真有这么“可怕”？_用药注意事项 - 育学园",
+          "link": "https://m.drcuiyutao.com/yxy-babyhealth-wap/knowlege/findbyid.htm?knId=3764",
+          "snippet": "而通常情况下，宝宝基本上不会用到类固醇激素，治疗湿疹的药膏和雾化治疗的药物中，激素的量都很小，且是外用或吸入的方式使用，特别是吸入的激素，不可能完全留在体内，有相当 ...",
+          "position": 53
+        },
+        {
+          "title": "关于办理非法生产、销售、使用禁止在饲料和动物饮用水中",
+          "link": "http://gongbao.court.gov.cn/Details/2fcee9e9226df778377217be9ed28c.html?sw=%E8%8D%AF%E5%93%81",
+          "snippet": "β2肾上腺受体激动药。 二、性激素. 8、己烯雌酚（Diethylstibestrol）：药典2000年二部P42。雌激素类药。",
+          "position": 54
+        },
+        {
+          "title": "性激素六项什么时候查 - 梅州市人民医院",
+          "link": "https://www.mzrmyy.com/GeneralPage/ContentPage.aspx?1=1&menuid=211&id=4025",
+          "snippet": "但对于月经长期不来潮而且又急于了解检查结果者，则随时可以检查。查基础性激素前至少一个月内不能服用性激素类药物，包括黄体酮、雌激素类及避孕药类，否则 ...",
+          "date": "2023年8月28日",
+          "position": 55
+        },
+        {
+          "title": "绝经激素治疗的获益与风险 - 协和医学杂志",
+          "link": "https://xhyxzz.pumch.cn/article/doi/10.12290/xhyxzz.2021-0130?viewType=HTML",
+          "snippet": "2. 绝经激素治疗与启用时间、药物种类、用药途径相关的获益与风险. 多项MHT ... VTE的风险还与雌激素的给药途径及孕激素的种类有关。口服雌激素增加VTE风险，而经 ...",
+          "position": 56
+        },
+        {
+          "title": "一医院不能多开雌激素类药- 大同12345 - 大同市人民政府",
+          "link": "https://www.dt.gov.cn/new12345/content?hotlineAppealOrder=D20231026001070",
+          "snippet": "... 药量，普通门诊一般开具7天药量，雌激素类用药不在慢性病处方范围。另外今年根据医院相关规定，此类药物需由专科医生根据患者病情需要开具，方便门诊 ...",
+          "date": "2023年10月26日",
+          "position": 57
+        },
+        {
+          "title": "儿童使用激素药会性早熟，是真的吗？ - 科学辟谣",
+          "link": "https://piyao.kepuchina.cn/h5/rumordetail?id=deqj",
+          "snippet": "但一般情况下，使孩子性早熟的是性激素，而不是糖皮质激素。糖皮质激素具有较强的抗炎、抗毒素、抗休克和免疫抑制活性，被广泛应用于临床，是很多儿童慢性疾病 ...",
+          "date": "2020年6月9日",
+          "position": 58
+        },
+        {
+          "title": "[PDF] 更年期和激素 - FDA",
+          "link": "https://www.fda.gov/media/153301/download",
+          "snippet": "更年期激素水平降低可能导致潮热、阴道干燥和骨质. 疏松。为了帮助解决这些问题，可以给女性开雌激素. 或雌激素加黄体酮(另一种激素)。和所有药物 ...",
+          "position": 59
+        },
+        {
+          "title": "抗雄激素药物治疗皮肤病研究进展",
+          "link": "http://www.pifukezazhi.com/CN/10.35541/cjd.20210024",
+          "snippet": "抗雄激素药物可作用于雄激素合成途径及作用通路不同位点，拮抗雄激素作用，用于缓解并治疗相关疾病。近年来，该类药物治疗皮肤病取得一些研究进展，如克拉考特酮是近40年来首个 ...",
+          "position": 60
+        },
+        {
+          "title": "第三批化学药品说明书注射用尿促性素说明书 - 标准来源",
+          "link": "https://www.nmpa.gov.cn/wwwroot/hysms3/102.htm",
+          "snippet": "本品是促性腺激素类药。主要具有促卵泡生成素（FSH）的作用，促进卵巢中卵泡发育成熟和睾丸生成并分泌甾体性激素。使女性子宫内膜增生，男性促进曲细精管发育、造精 ...",
+          "position": 61
+        },
+        {
+          "title": "研究揭示糖蛋白激素作用机制----“中科院之声”电子杂志",
+          "link": "https://www.cas.cn/zkyzs/2021/09/316/kyjz/202109/t20210928_4807352.shtml",
+          "snippet": "9月22日，中国科学院上海药物研究所研究员徐华强/蒋轶团队，联合浙江大学研究员张岩团队，在Nature上发表了题为Structures of full-length glycoprotein ...",
+          "date": "2021年9月23日",
+          "position": 62
+        },
+        {
+          "title": "药物去势和手术去势对前列腺癌患者性激素的影响 - 中华医学期刊网",
+          "link": "https://rs.yiigle.com/CN11233020052612/446821.htm",
+          "snippet": "药物去势治疗后FSH、LH明显下降,而手术去势后FSH、LH明显上升.药物去势组治疗后E2、P下降程度大于手术去势组.结论药物去势与手术去势对前列腺癌患者的 ...",
+          "date": "2005年12月15日",
+          "position": 63
+        },
+        {
+          "title": "中华医学会科普图文抗抑郁药含有激素吗？",
+          "link": "https://www.cma.org.cn/art/2024/6/28/art_4584_57259.html",
+          "snippet": "而激素是怎么来的呢？ ... 可以明确的是，抗抑郁药真的不含激素，而是通过神经递质发挥作用，因此，导致抑郁症患者发胖的原因并不是抗抑郁药中含有激素。 为什么 ...",
+          "date": "2024年6月28日",
+          "position": 64
+        },
+        {
+          "title": "CN210020816U - 一种女性性激素药物给药装置组件 - Google Patents",
+          "link": "https://patents.google.com/patent/CN210020816U/zh",
+          "snippet": "本实用新型提供一种女性性激素药物给药装置组件，包括密封构件、驱动构件和给药构件；所述密封构件包括底端密封单元(1)和顶端密封单元(7)；所述驱动构件包括第一储气 ...",
+          "position": 65
+        },
+        {
+          "title": "这些药正在让你的骨头变脆 - 新华网",
+          "link": "http://www.news.cn/healthpro/20210817/f9949232cfb8435d850ede1d5ec30781/c.html",
+          "snippet": "故需长期应用激素者，同时应给予补骨药和钙片，以及抗骨质疏松药。 使用糖皮质激素期间，如果出现难以解释、逐渐加重的腰背痛、关节痛或关节活动受限，且与 ...",
+          "date": "2021年8月17日",
+          "position": 66
+        },
+        {
+          "title": "激素与更年期：症状、失衡和治疗 - Samitivej",
+          "link": "https://www.samitivejhospitals.com/zh/article/detail/female-hormones-menopause-guide",
+          "snippet": "因此，在考虑激素治疗之前，应咨询医生以检测激素水平，并评估激素治疗是否适合您。请避免自行购买激素替代药物。 激素是人体内产生的化学物质，它们对于维持和调节身体各系统 ...",
+          "position": 67
+        },
+        {
+          "title": "恩杂鲁胺改善转移性激素敏感性前列腺癌男性的生存率",
+          "link": "https://www.dana-farber.org/zh-hans/newsroom/news-releases/2019/enzalutamide-improves-survival-for-men-with-metastatic-hormone-sensitive-prostate-cancer",
+          "snippet": "... 性激素敏感性前列腺癌男性患者中，接受过恩杂鲁胺药物治疗的患者的生存要长于接受标准非类固醇雄激素受体抑制剂（standard nonsteroidal androgen ...",
+          "date": "2019年6月2日",
+          "position": 68
+        },
+        {
+          "title": "阿道夫·弗里德里希·约翰·布特南特：性激素研究的先驱",
+          "link": "https://cop.sztu.edu.cn/info/1095/1428.htm",
+          "snippet": "药物靶点 · 药物制造. 当前位置: 首页 > 诺贝尔奖和药学家 > 药物发现 ... 1929年他从孕妇的尿液中分离出名为雌酮的雌性激素,迈出研究性激素化学性质的关键 ...",
+          "date": "2021年4月16日",
+          "position": 69
+        },
+        {
+          "title": "反复长痘，为什么医生开避孕药呢？ - 中山大学附属第三医院",
+          "link": "https://www.zssy.com.cn/article/19692",
+          "snippet": "... 激素治疗[1]。 目前，抗雄激素治疗主要包括雌性激素、抗雄激素药物和糖皮脂激素三大类。雌性激素包括雌激素和孕激素，通常以复方口服避孕药（COCP）的形式给药 ...",
+          "date": "2021年12月31日",
+          "position": 70
+        },
+        {
+          "title": "抗雄激素药物治疗去势抵抗型前列腺癌的机制研究进展 - 中国肿瘤临床",
+          "link": "http://www.cjco.cn/cn/article/id/13230",
+          "snippet": "虽然许多新型抗雄激素治疗药物在临床治疗中显示了显著的疗效，但同时耐药也频繁出现。本文就近年来几种主要抗雄激素治疗药物的作用及相应的耐药机制进行综述。 关键词 ...",
+          "position": 71
+        },
+        {
+          "title": "抗雌激素原料药生产商 - Pharmaoffer",
+          "link": "https://pharmaoffer.com/zh-CN/api-excipient-supplier/anti-estrogens",
+          "snippet": "一种广泛使用的抗雌激素API 是他莫昔芬，它选择性抑制乳腺组织中的雌激素受体，从而阻止雌激素敏感乳腺癌的生长。 另一种著名的抗雌激素药物是克罗米芬，它通过促进排卵来治疗 ...",
+          "position": 72
+        },
+        {
+          "title": "注射类激素药物如何才能拿到 - 业务咨询问题浏览",
+          "link": "http://gdfs.customs.gov.cn/eportal/ui?pageId=575681&msgDataId=2fd94f6efef8468a925d492ae7b9722f",
+          "snippet": "药物是黄体卵泡激素，个人自用。 因为在国外生活，没有中国的诊断（诊断需要2年左右长期观察，我药物已经快用完了），只能在国外购买药物。",
+          "date": "2021年11月22日",
+          "position": 73
+        },
+        {
+          "title": "编读往来- 抗抑郁药含激素吗？吃多久？ - 北京大学第六医院",
+          "link": "https://www.pkuh6.cn/Html/News/Articles/3769.html",
+          "snippet": "抗抑郁药含激素吗？吃多久？ · 医生好。 · 董先生 · 董先生 · 您好！ · 可以告诉您，抗抑郁药是不含激素的。 · 关于治疗周期，抑郁症建议全病程治疗，全病程包括急性期、巩固期和 ...",
+          "position": 74
+        },
+        {
+          "title": "表现增强药物背后的科学 - CAS.org",
+          "link": "https://www.cas.org/zh-hans/resources/cas-insights/science-behind-performance-enhancing-drugs",
+          "snippet": "雄激素受体与睾酮或合成类固醇等雄激素结合后，会被激活，从而产生理想的表现增强效果，包括增强肌肉力量、骨密度和红细胞生成。 虽然更强壮的肌肉和骨骼对运动员来说是一大 ...",
+          "position": 75
+        },
+        {
+          "title": "维昇药业宣布隆培促生长素在中国的上市申请已获受理",
+          "link": "https://www.visenpharma.com/cn/News/NewsDetail/20240308_243.html",
+          "snippet": "隆培促生长素是首个在美国及欧洲获批上市的长效生长激素（每周注射一次），用于治疗儿童生长激素缺乏症。 维昇药业首席执行官兼执行董事卢安邦先生表示：“作为 ...",
+          "date": "2024年3月8日",
+          "position": 76
+        },
+        {
+          "title": "能令女性“男性化”? 避孕药丸背后的诡异真相 - BBC",
+          "link": "https://www.bbc.com/ukchina/simp/vert-fut-45408227",
+          "snippet": "避孕药中有九种激素，其中一些激素能对人体产生微妙的影响，令女性“男性化”。这是为什么呢？我们应不应该予以关注呢？",
+          "date": "2018年9月4日",
+          "position": 77
+        },
+        {
+          "title": "[PDF] 促排卵药物使用规范（2016）",
+          "link": "http://medi-guide.meditool.cn/ymtpdf/E7B5170F-9A57-D14F-2700-DD668CC0C0B8.pdf",
+          "snippet": "虽然药物刺激卵巢与肿瘤发生之. 间的关系仍有争论，但对高龄女性促排卵药物的过. 度使用，使体内产生大量雌／孕激素，可能增加乳腺. 癌和子宫内膜癌的潜在风险。 2003年10月 ...",
+          "position": 78
+        },
+        {
+          "title": "上海体检中心：什么是性激素六项检测？哪些人需要检查？ - 百汇医疗",
+          "link": "https://www.parkwaychina.com/health-info/671.html",
+          "snippet": "性激素六项是女性的基础检查。检查基础性激素前至少一个月不能用性激素类药物，包括黄体酮、雌激素类，否则结果不可靠。当然，治疗后需要复查性激素的除外。",
+          "date": "2023年2月15日",
+          "position": 79
+        },
+        {
+          "title": "[PDF] 2023年国家医保药品目录调整申报材料（公示版）",
+          "link": "http://www.nhsa.gov.cn/attach/Ypsn2023/YPSN202300128/YPSN202300128-N2.pdf",
+          "snippet": "联合多西他赛治疗转移性激素. 敏感性前列腺癌（mHSPC）成年患者。 现行医保目录的医保支付范围. 适用于治疗有高危转移风险的非转移性去势抵抗性 ...",
+          "date": "2023年7月14日",
+          "position": 80
+        },
+        {
+          "title": "51.《档案里的新中国科技·甾体激素药物的奥秘》",
+          "link": "https://www.acas.ac.cn/byyxc/spzb/daldxzgkj/202210/t20221012_7174702.html",
+          "snippet": "《档案里的新中国科技·甾体激素药物的奥秘》. 发布时间: 2022/10/12. 撰稿: 来源: 字体【大 中 小】. 鎮ㄤ娇鐢ㄧ殑娴忚 鍣ㄤ笉鏀 寔鎴栨病鏈夊惎鐢avascript, ...",
+          "position": 81
+        },
+        {
+          "title": "一直吃激素药物维持性别，停用就会长胡子？57岁金星回应了",
+          "link": "https://news.qq.com/rain/a/20240826A081PL00",
+          "snippet": "8月26日，金星回应网传的“一直服用激素药物，导致健康问题”等传闻，引起热议。 金星的言论还是一如既往地犀利，只见她转发了造谣她的内容直接怒斥对方“纯 ...",
+          "date": "2024年8月26日",
+          "position": 82
+        },
+        {
+          "title": "别把雌激素当“防老药” 乱吃或致癌 - 央视网",
+          "link": "http://news.cctv.com/2019/08/27/ARTIbBmMWsh4O1Bzyub17B3x190827.shtml",
+          "snippet": "临床认为，绝经后的更年期症状，一般与骨质疏松症并存。如果采用雌激素药物治疗，不要漏服，尤其是不能骤然停药。因为药物骤停会使体内雌激素骤降，可能导致原 ...",
+          "date": "2019年8月27日",
+          "position": 83
+        },
+        {
+          "title": "生长激素非神药别让您的“身高焦虑”害了孩子！ - 北京市人民政府",
+          "link": "https://www.beijing.gov.cn/fuwu/bmfw/jhsyfwzdzx/2022jkbjxfjt/jkdt/202207/t20220708_2767214.html",
+          "snippet": "目前FDA批准的生长激素的适应症除了儿童生长激素缺乏症外还包括特发性矮小、SGA（小于胎龄儿）出生后持续生长迟缓、慢性肾功能不全肾移植前、Turner综合征、 ...",
+          "date": "2022年7月8日",
+          "position": 84
+        },
+        {
+          "title": "哪些药在月经期要停止服用？ - 中国康复研究中心",
+          "link": "https://www.crrc.com.cn/Html/News/Articles/11705.html",
+          "snippet": "（1）月经期间不能吃性激素类药物女性的性激素合成及代谢平衡与月经周期密切有关，因此，不可在经期使用性激素类药物，以免造成月经紊乱。如雄激素能导致月经减少、停经、 ...",
+          "position": 85
+        },
+        {
+          "title": "门诊口服糖皮质激素药物超适应证使用情况分析",
+          "link": "http://journal13.magtechjournal.com/yxkxy/CN/10.3881/j.issn.1000-503X.2015.04.011",
+          "snippet": "目的 分析门诊口服糖皮质激素药物的超适应证使用情况。 从本院信息系统调取2012年1月1日至6月30日门诊口服糖皮质激素药物的全部处方数据。用Excel软件对药品使用的 ...",
+          "position": 86
+        },
+        {
+          "title": "生殖泌尿性激素类用药：200亿预期来势汹涌 - 医药经济报",
+          "link": "http://www.yyjjb.com.cn/yyjjb/202205/202205231048224822_12373.shtml",
+          "snippet": "2021年1-3季度国内重点省市公立医院性激素及生殖系统调节剂TOP10药物——重组人促卵泡激素注射液、黄体酮、地屈孕酮片、注射用尿促卵泡激素、重组促卵泡素β ...",
+          "date": "2022年5月23日",
+          "position": 87
+        },
+        {
+          "title": "2024年全球性激素类原料药市场：现状、趋势及主要厂商分析 - 格隆汇",
+          "link": "https://m.gelonghui.com/p/1247989",
+          "snippet": "性激素类原料药是指用于制造调节人体性发育、性健康和生殖功能的激素类药物的活性成分。这些原料药主要包括雌激素、雄激素和孕激素，用于激素替代 ...",
+          "date": "4天前",
+          "position": 88
+        },
+        {
+          "title": "生殖泌尿系统和性激素类药物 - 上海现代制药股份有限公司",
+          "link": "https://www.shyndec.com/shxdzy/ywzx/cpzx/qita/qita-szmnxthxjslyw/A002004001009003Gone1.html",
+          "snippet": "产品中心 · 全身用抗感染药物 · 心脑血管系统药物 · 神经系统药物 · 抗肿瘤药及免疫调节剂 · 全身用激素类药物 · 肌肉-骨骼系统药物 · 原料药及中间体 · 大健康产品 ...",
+          "position": 89
+        },
+        {
+          "title": "荷尔蒙治疗 - CancerCare.hk",
+          "link": "https://www.cancercare.hk/zh-cn/hormonal-therapy-info/",
+          "snippet": "已收经或未收经的女士均适用；药物可阻碍体内雌激素依附癌细胞，延缓肿瘤的生长速度。 芬香环转化酶抑制剂制劑. 例如： Letrozole（來曲唑）、Exemestane（依西美坦） ...",
+          "position": 90
+        },
+        {
+          "title": "性激素六项这么看，好懂多了！ - 人民日报",
+          "link": "https://www.peopleapp.com/rmharticle/30022473304",
+          "snippet": "检查基础性激素前至少一个月不能用性激素类药物，包括黄体酮、雌激素类，否则结果不可靠。当然，治疗后需要复查性激素的除外。 检查性激素可以在月经的任何 ...",
+          "date": "2021年6月25日",
+          "position": 91
+        },
+        {
+          "title": "两种抗雌激素药物对雌性斑马鱼脂肪代谢的影响 - 水生生物学报",
+          "link": "http://ssswxb.ihb.ac.cn/cn/article/doi/10.7541/2017.12?viewType=relative-article",
+          "snippet": "两种抗雌激素药物对雌性斑马鱼脂肪代谢的影响 · 姚亚运 1,2,3,4, · 贾永义 1,2,3,4, · 孙胜香 1, · 吴思苹 1, · 张运妮 1, · 乔芳 1, · 张美玲 1, · 周忠良 1, , , ...",
+          "position": 92
+        },
+        {
+          "title": "注意激素类药物引发的糖代谢紊乱 - 沧州市人民医院",
+          "link": "https://czrmyy.com/Html/News/Articles/106035.html",
+          "snippet": "糖皮质激素类药物致血糖的升高呈剂量依赖性，全身用药更容易引起高血糖。外用药物也可引起高血糖，尤其见于大面积较长期使用强效糖皮质激素者。年龄增加、阳性糖尿病家族史和 ...",
+          "position": 93
+        },
+        {
+          "title": "转移性激素受体阳性乳腺癌内分泌治疗耐药及治疗决策进展",
+          "link": "http://www.jmcm2018.com/CN/Y2018/V4/I3/29",
+          "snippet": "摘要： 内分泌治疗已成为转移性激素受体（hormone receptor，HR）阳性乳腺癌的治疗基础。内分泌耐药的发生使得很多新型内分泌治疗药物或药物组合被研发出来。",
+          "position": 94
+        },
+        {
+          "title": "关于激素治疗：你需要了解的内容| Bangkok Hospital",
+          "link": "https://www.bangkokhospital.com/zh/content/know-the-truth-before-taking-hormones",
+          "snippet": "... 药，试图通过服用来实现性别转换。实际上，避孕药的设计目的是防止女性怀孕，减轻经痛和控制月经量过多。因此，它们并不是用于激素替代疗法的药物。避孕药中的雌激素是 ...",
+          "position": 95
+        },
+        {
+          "title": "[PDF] 荷尔蒙代替疗法",
+          "link": "https://www.sgh.com.sg/patient-care/medicine/sites/shcommonassets/assets/medication/pdf/hormone-replacement-therapy-chinese.pdf",
+          "snippet": "黄体酮和雌激素的服用方式可以是组合. 在一起或分开来吃。 荷尔蒙替代疗法药物副作用和应对方法 ... 雌激素疗法(Estrogen only): 每一颗药只含有雌激素。属于这类疗程 ...",
+          "position": 96
+        },
+        {
+          "title": "孕激素预防流产 - Cochrane",
+          "link": "https://www.cochrane.org/zh-hans/CD003511/PREG_yun-ji-su-yu-fang-liu-chan",
+          "snippet": "有观点认为，有些发生早孕流产的女性可能是由于没有分泌足够的黄体酮。给这些女性补充类似黄体酮作用的药物（被称为孕激素）已经被建议作为预防复发性流产的 ...",
+          "date": "2019年11月20日",
+          "position": 97
+        },
+        {
+          "title": "孕激素用于预防因病因不明而反复流产的女性流产",
+          "link": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003511.pub5/full/zh_HANS",
+          "snippet": "因此，为了预防自然流产，临床医生会在妊娠开始后的前三个月内使用孕激素（与黄体酮受体相互作用的药物）治疗。本综述是对2013年已发表综述的更新。 自综述 ...",
+          "date": "2019年11月20日",
+          "position": 98
+        },
+        {
+          "title": "\"新型雄激素受体药物二甲基姜黄素(ASC-J9)治疗前列腺癌机制研究 ...",
+          "link": "https://yxy.njucm.edu.cn/2014/0610/c575a5509/pagem.htm",
+          "snippet": "美国罗切斯特大学张传祥教授以姜黄素为先导化合物，通过结构优化和改造发明新型抗雄激素新药二甲基姜黄素（ASC-J9），可通过降解AR，阻断AR信号通路，抑制前列腺 ...",
+          "date": "2014年2月27日",
+          "position": 99
+        }
+      ],
+      "images": [
+        {
+          "title": "实话石说丨神奇的雌激素，让人欢喜让人忧！（下） 中国非公立医疗机构 ...",
+          "imageUrl": "https://cdn.doc-exam.com/cms/cnmia/Upload/Content/2021-09-17/5d3a1497-8345-4901-827f-36989db4fbd8.jpg",
+          "link": "http://www.cnmia.org/DynamicDetail_F69CF201350C453181D1BFD9E3BA6DE6.html"
+        },
+        {
+          "title": "激素类药物_百度百科",
+          "imageUrl": "https://bkimg.cdn.bcebos.com/smart/9f510fb30f2442a7d9e12de6d243ad4bd0130281-bkimg-process,v_1,rw_1,rh_1,pad_1,color_ffffff?x-bce-process=image/format,f_auto",
+          "link": "https://baike.baidu.com/item/%E6%BF%80%E7%B4%A0%E7%B1%BB%E8%8D%AF%E7%89%A9/189980"
+        },
+        {
+          "title": "雌激素经常用，这10 种用法你都掌握了吗？",
+          "imageUrl": "https://img1.dxycdn.com/2018/0208/396/3260029243140545477-10.jpg!w640",
+          "link": "https://e.dxy.cn/wisdom/front/zhihuihao/6285"
+        },
+        {
+          "title": "雌性激素的药物有哪些",
+          "imageUrl": "https://selfpage-gips.cdn.bcebos.com/23d8e354f94e6fe2b6636b85b03ace20.png?x-bce-process=image/auto-orient,o_1/resize,w_1242,limit_1/quality,Q_86/format,f_auto",
+          "link": "https://m.baidu.com/bh/m/detail/sv_11609561196554228000"
+        },
+        {
+          "title": "四张表搞定，临床常用雌激素类药物的用法用量】-详细页",
+          "imageUrl": "https://www.medline.org.cn//ueditor/jsp/upload/image/20180625/1529918288886073753.jpg",
+          "link": "https://www.medjournals.cn/news/getNewInfo.do?newId=14284"
+        },
+        {
+          "title": "性激素药物有哪些_有来医生",
+          "imageUrl": "https://file.youlai.cn/cnkfile1/M02/60/1C/4177794693A418C307250041B268601C.png",
+          "link": "https://youlai.cn/video/article/7C751BkPml.html"
+        },
+        {
+          "title": "如何正确使用激素类药物--中国数字科技馆",
+          "imageUrl": "https://www.cdstm.cn/gallery/media/mkjx/bktmhdsj_3679/202103/W020210322689845664304.jpg",
+          "link": "https://www.cdstm.cn/gallery/media/mkjx/bktmhdsj_3679/202103/t20210322_1044726.html"
+        },
+        {
+          "title": "女性生殖健康的“晴雨表”！性激素六项不会看？超全解读",
+          "imageUrl": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web1305/site/picture/-1/230128161449209205.png",
+          "link": "https://www.hangzhou.gov.cn/art/2023/1/28/art_1228974667_59072753.html"
+        },
+        {
+          "title": "女性性激素类药物：你所不知道的用处（上接第23版）_医师网-《医师报》官网",
+          "imageUrl": "http://www.mdweekly.com.cn/uploads/image/20170816/1502874345133884.png",
+          "link": "https://www.mdweekly.com.cn/m/article/detail?id=6057"
+        }
+      ],
+      "peopleAlsoAsk": [
+        {
+          "question": "雌激素的药有哪些？",
+          "snippet": "雌激素针剂：分别有苯甲酸雌二醇、戊酸雌二醇、结合雌激素针剂等，国内常用的苯甲酸雌二醇是雌二醇的苯甲酸酯。 因口服药物使用方便，现临床已经基本不用。 雌激素阴道内局部使用：结合雌激素软膏、天然雌三醇软膏。 雌激素皮贴，可避免肝脏首过效应。\n2019年3月11日",
+          "title": "雌激素经常用，这10 种用法你都掌握了吗？ - 丁香园",
+          "link": "https://e.dxy.cn/wisdom/front/zhihuihao/6285"
+        },
+        {
+          "question": "激素类药物是什么？",
+          "snippet": "激素是由人体内的分泌腺或内分泌细胞分泌的具有高效生物活性的物质，用于体内的信息传递，对人体生理过程起到调节作用。 激素类药物就是通过模拟激素在体内的作用，从而调节人体的生理功能，起到相应的治疗效果。 治疗效果可能因人而异，但有一点确实众口一词：据说，吃了激素类药物之后人会出现不可控制的肥胖！\n2021年5月31日",
+          "title": "变胖是激素药无一例外的副作用吗？ - 中国江苏网",
+          "link": "https://jsnews.jschina.com.cn/piyao/zjsj/202105/t20210531_2790818.shtml"
+        },
+        {
+          "question": "什么病需要吃激素药？",
+          "snippet": "皮质类固醇药物用于治疗类风湿关节炎、炎性肠病（IBD）、哮喘、过敏及其他诸多病症。 这类药物也可用于防止器官移植受体出现器官排斥反应，即通过帮助抑制免疫系统来实现。 皮质类固醇也可用于治疗艾迪生病。 艾迪生病是一种罕见病，原因是肾上腺无法充分产生身体所需的皮质类固醇。",
+          "title": "泼尼松和其他皮质类固醇：平衡风险与益处 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/steroids/art-20045692"
+        },
+        {
+          "question": "雌激素有什么作用？",
+          "snippet": "雌激素的受体分布在子宫、阴道、乳房、盆腔以及皮肤、膀胱、尿道、骨骼和大脑，因此，雌激素具有广泛而重要的生理作用，不仅有促进和维持女性生殖器官和第二性征的生理作用，并对内分泌、心血管、代谢系统、骨骼的生长和成熟，皮肤等均有明显的影响。",
+          "title": "雌激素_百度百科",
+          "link": "https://baike.baidu.com/item/%E9%9B%8C%E6%BF%80%E7%B4%A0/1182252"
+        }
+      ],
+      "relatedSearches": [
+        {
+          "query": "激素药是类固醇吗"
+        },
+        {
+          "query": "激素药的副作用"
+        },
+        {
+          "query": "激素药物英文"
+        },
+        {
+          "query": "激素药有哪些"
+        },
+        {
+          "query": "激素停药反应"
+        },
+        {
+          "query": "激素的副作用"
+        },
+        {
+          "query": "激素药膏的副作用"
+        },
+        {
+          "query": "激素的副作用皮肤"
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "性激素 药物",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "雌孕激素药物联合清宫术治疗稽留流产及防治宫内组织粘连的效果",
+          "link": "http://www.j-fzyx.com/article/doi/10.12122/j.issn.1674-4500.2019.03.27",
+          "snippet": "对照组患者行宫腔镜清宫术，观察组患者于清宫术前口服戊酸雌二醇片，清宫术后口服左炔诺孕酮炔雌醇片。术后随访3月，比较两组患者阴道流血时间、月经复潮时间、子宫内膜厚度 ...",
+          "position": 1
+        },
+        {
+          "title": "红斑狼疮是“不死的癌症”？医学专家：可缓解莫恐慌 - 科技日报",
+          "link": "https://www.stdaily.com/web/gdxw/2024-10/29/content_249757.html",
+          "snippet": "但有些患者担心药物副作用而漏服甚至拒服药物，比如害怕长胖而拒绝使用激素药物。“殊不知，激素治疗在红斑狼疮的管理中发挥着至关重要的作用。”李春强调， ...",
+          "date": "6天前",
+          "position": 2
+        },
+        {
+          "title": "[PDF] 第十章性激素和肾上腺皮质激素",
+          "link": "https://jxjy.ecust.edu.cn/jpkc/ywhx/zds/ch10.pdf",
+          "snippet": "同化激素药物是蛋白同化活性明显大于雄性活性，按临床使用剂量给予. 时基本上不产生或很少产生男性化副作用的一类化合物。 1935 年David 从公牛睾丸中分离出睾丸酮，结构式 ...",
+          "position": 3
+        },
+        {
+          "title": "[PDF] 十一酸睾酮软胶囊说明书",
+          "link": "https://www.msdchina.com.cn/static/pdf/%E5%AE%89%E7%89%B9%E5%B0%94-40mg%E8%AF%B4%E6%98%8E%E4%B9%A6-%E8%BF%9B%E5%8F%A3semi-%E7%AE%80%E7%89%88%EF%BC%88%E6%96%B9%E6%AD%A3%E9%BB%91%EF%BC%89-17.9.21-%E6%9B%B2%E7%BA%BF.pdf",
+          "snippet": "如发生与雄激素相关的不良反应(见【不良反应】),应立即停药。 待症状消失后,再从较低剂量开始服用。 药物滥用和依赖. 睾酮一直易于 ...",
+          "position": 4
+        },
+        {
+          "title": "如何安全应用激素？ 妇科 - 北京世纪坛医院",
+          "link": "https://www.bjsjth.cn/Html/News/Articles/20792.html",
+          "snippet": "利维爱模拟绝经妇女体内三种激素的自然状况，对改善血管舒缩症状等更年期症状疗效显著。兼有改善性欲和情绪，因已有孕激素活性，对子宫内膜安全，有子宫的女性服用此药物时 ...",
+          "position": 5
+        },
+        {
+          "title": "药品不良反应之药源性男性生殖损害 - 深圳市市场监督管理局",
+          "link": "http://amr.sz.gov.cn/xxgk/qt/ztlm/spaq/ypsyzs/content/post_8660562.html",
+          "snippet": "... 药物还有镇静的副作用，进一步加重性欲减退. 西咪替丁. 增加催乳素分泌，导致性激素产生减少；也可能是由于该药是雄激素受体拮抗剂. 乙醇. 大剂量可引起 ...",
+          "date": "2021年3月31日",
+          "position": 6
+        },
+        {
+          "title": "科学辨析揭穿有关避孕药的四大流言",
+          "link": "https://wsjkw.gxzf.gov.cn/xxgk_49493/fdzdgk/ggws/jkkp/byjy/t16857532.shtml",
+          "snippet": "但短效口服避孕药需要按照月经周期每日服用，一旦漏服会增加避孕失败率和出现异常子宫出血。 长效避孕药由长效雌激素和孕激素组成，长效雌激素口服后被胃 ...",
+          "date": "2023年7月31日",
+          "position": 7
+        },
+        {
+          "title": "来曲唑治疗睾丸生精功能障碍疗效及对性激素水平的影响",
+          "link": "http://cjrh.bjmu.edu.cn/fileup/HTML/2020-3-223.shtml",
+          "snippet": "(3)无精症组38例患者中仅有2.6%患者给药6个月后的精液中出现精子，其有效精子总数的平均值为0.43×106/ml，在睾丸活检方面，给药前JOHNSEN评分为(6.8±2.4)分，治疗6个月后 ...",
+          "position": 8
+        },
+        {
+          "title": "更年期补充雌激素，那种药物更好？ - CN-Healthcare",
+          "link": "https://www.cn-healthcare.com/articlewm/20200915/wap-content-1145725.html",
+          "snippet": "回到上面这位患者的问题，我的答复是：. （1）服用芬吗通已经1年，效果很好，既然效果很好，就没有必要换药。芬吗通一般是序贯服药，即周期的前14天吃单含 ...",
+          "date": "2020年9月15日",
+          "position": 9
+        },
+        {
+          "title": "科学认识生长激素，正确看待生长激素治疗 - 新华网",
+          "link": "http://www.xinhuanet.com/health/2023-07/13/c_1212243972.htm",
+          "snippet": "生长激素有什么作用？生长激素药物和人体分泌的生长激素是否相同？又能让哪些患儿获益？今天我们采访了浙江大学医学 ...",
+          "date": "2023年7月13日",
+          "position": 10
+        },
+        {
+          "title": "性激素药物有哪些 - 有来医生",
+          "link": "https://youlai.cn/video/article/7C751BkPml.html",
+          "snippet": "性激素药物包括三大类，即雌激素拮抗雌激素的药物、雄激素拮抗雄激素的药物和避孕药。由于天然的性激素，无论是雌激素、雄激素、孕激素，药理作用往往 ...",
+          "date": "2021年4月7日",
+          "position": 11
+        },
+        {
+          "title": "红斑狼疮是绝症吗？常规体检能否发现？你想了解的都在这里",
+          "link": "https://www.fuzhou.gov.cn/zgfzzt/swjw/fzwj/jkkp/202410/t20241029_4916616.htm",
+          "snippet": "红斑狼疮的病因及发病机制尚不清楚，可能与遗传因素、环境因素、性激素等有关。 ... 目前，治疗药物包括糖皮质激素、抗疟药物、经典免疫抑制剂、生物制剂等 ...",
+          "date": "6天前",
+          "position": 12
+        },
+        {
+          "title": "排除用药禁忌等情况之后，医生建议她开始绝经激素治疗",
+          "link": "http://www.bjygzx.org.cn/bxjk/202305/t20230524_302998.htm",
+          "snippet": "具体用药方案因人而异，可口服或局部给药，一般需连续或周期性使用，常用药物主要为雌激素、孕激素、雌孕激素复合制剂和替勃龙。 随着年龄增长及绝经 ...",
+          "date": "2023年5月24日",
+          "position": 13
+        },
+        {
+          "title": "激素用上就停不下来吗？教你一眼看穿激素药 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_8190623",
+          "snippet": "对于大多数患者，由于不知道“秘方”中激素的存在，往往要承担过量使用激素以及突然停药带来的后果，而患有某些疾病的患者，比如高血压、糖尿病、骨质疏松等 ...",
+          "date": "2020年7月9日",
+          "position": 14
+        },
+        {
+          "title": "前列腺放射治疗期间的激素治疗",
+          "link": "https://www.mskcc.org/zh-hans/cancer-care/patient-education/hormonal-therapy-people-prostate-cancer",
+          "snippet": "从而使得睾酮无法促进癌细胞的生长。 比卡鲁胺(Casodex®) 是一种抗雄激素类药物。 该药需要每天服用一次。 如果您目前正在 ...",
+          "date": "2023年7月27日",
+          "position": 15
+        },
+        {
+          "title": "[PDF] 激素疗法",
+          "link": "https://www.pcfa.org.au/media/792031/pcf13461_simplified-chinese_04-understanding-hormone-therapy-36-pg-booklet_a-%C3%A6.pdf",
+          "snippet": "更多信息，请访问pcfa.org.au ，下载《了解晚期前列腺癌》. 并不是所有新的激素治疗药物都获得澳大利亚药品福利计划（PBS）的补贴。一些药. 物可用于治疗去势抵抗型前列腺 ...",
+          "position": 16
+        },
+        {
+          "title": "科普中国-科学辟谣",
+          "link": "https://piyao.kepuchina.cn/h5/rumordetail?id=lvzZ",
+          "snippet": "使用激素药都会变胖？ · 使用激素类药物都会使人变胖。 · 激素，是由人体内分泌腺或内分泌细胞分泌的具有高效生物活性的物质，用于体内的信息传递，对人体 ...",
+          "date": "2020年5月28日",
+          "position": 17
+        },
+        {
+          "title": "军医提醒：儿童哮喘急性期，雾化吸入激素类药物很重要 - 中国军网",
+          "link": "http://www.81.cn/zghjy/2016-07/08/content_7143017.htm",
+          "snippet": "对于哮喘疾病急性发作期的控制，糖皮质激素（甲泼尼龙、布地奈德等）联合速效β受体激动剂（沙丁胺醇等）是非常有效的，这也是目前国际公认的哮喘急性发作 ...",
+          "date": "2016年7月8日",
+          "position": 18
+        },
+        {
+          "title": "湿疹治疗首选外用激素药膏- 旧版网站- 中国食品药品网1111",
+          "link": "https://m.cnpharm.com/c/2017-08-08/551462.shtml",
+          "snippet": "常见的治疗湿疹的激素类药膏有很多种，但强度是不一样的。1%氢化可的松和尤卓尔强度相当，都是强度较弱的激素。力言卓的有效成分是0.05%的地奈德，属于 ...",
+          "date": "2017年8月8日",
+          "position": 19
+        },
+        {
+          "title": "药融云《甾体类药物产业链白皮书》发布！解析甾体药物上下游市场",
+          "link": "https://www.pharnexcloud.com/zixun/bg_5885",
+          "snippet": "性激素：主要用于激素替代治疗、避孕、安胎或促进机体健康，促进蛋白质的合成以及提高身体免疫力等。代表产品有：（1）雌激素：雌二醇、乙炔雌二醇等（2）孕激素：甲羟孕酮 ...",
+          "position": 20
+        },
+        {
+          "title": "儿童应用糖皮质激素需要注意什么？ - 福建省人民政府",
+          "link": "https://www.fujian.gov.cn/hdjl/hdjlzsk/sypjdglj/ypjg/202205/t20220512_5907601.htm",
+          "snippet": "ICS雾化吸入的药物是以气溶胶的形式输出，并随呼吸进入体内，气溶胶具有巨大的接触面，有利于药物与气道表面黏膜上皮细胞接触而发挥药效。当然这种雾 ...",
+          "date": "2022年5月12日",
+          "position": 21
+        },
+        {
+          "title": "[PDF] 纯孕激素避孕药",
+          "link": "https://picck.org/wp-content/uploads/2023/01/Progestin-Pills-Information-Sheet-Chinese.pdf",
+          "snippet": "Slynd：您在上一次服药后超过24小时服用药. 物，或者如果您完全未服用药物。 • 纯孕激素避孕药通过孕激素来使宫颈粘液变稠（防止精子进入子宫），有时还会阻止 ...",
+          "position": 22
+        },
+        {
+          "title": "转移性激素敏感性前列癌药物治疗进展 - 浙江医学杂志社",
+          "link": "http://www.zjyxzzs.com/ch/reader/view_abstract.aspx?file_no=2023-1029&flag=1",
+          "snippet": "近年来，转移性激素敏感性前列腺癌（mHSPC）的治疗出现了长足进步，在既往单纯雄激素剥夺治疗基础上，联合使用新型内分泌治疗、多西他赛化疗以及三联治疗方案， ...",
+          "position": 23
+        },
+        {
+          "title": "女性服用荷尔蒙副作用 - 美国之音",
+          "link": "https://www.voachinese.com/a/a-21-f2005-02-04-voa22-58188177/1066886.html",
+          "snippet": "美国一份新的研究报告显示，女性如果服用荷尔蒙药物来抵抗更年期症状的话，可能会对健康造成更多的副作用。人们知道服用女性荷尔蒙药物，譬如说雌激素 ...",
+          "date": "2005年2月4日",
+          "position": 24
+        },
+        {
+          "title": "血管舒缩症状是女性和男性的性激素依赖性疾病| Study 21774 | 拜耳",
+          "link": "https://cn.clinicaltrials.bayer.com/study/21774/",
+          "snippet": "一项了解在日本健康成年女性中单次和多次给药后，依林奈坦的安全性及其如何影响身体以及如何进入、吸收和排出人体的研究...",
+          "position": 25
+        },
+        {
+          "title": "性激素六项报告单如何解读？详细拆解来了！ - 梅斯医学",
+          "link": "https://m.medsci.cn/article/show_article.do?id=0eb6834268b5",
+          "snippet": "（5）E2水平过高的其他原因：可见于残留卵泡囊肿或颗粒细胞瘤、FSH瘤、妊娠妇女、药物刺激卵巢治疗中、卵巢过度刺激等。 2、孕激素. （1）基础值：卵泡 ...",
+          "date": "2024年7月15日",
+          "position": 26
+        },
+        {
+          "title": "这十类药物不能直接停止使用 - 中山市第二人民医院",
+          "link": "https://www.zssph.com/article/1070",
+          "snippet": "二、肾上腺皮质激素类药物. 长期应用强的松、地塞米松等肾上腺皮质激素类药物，会使病人肾上腺皮质功能下降，皮质激素分泌功能受到抑制。如果突然停药 ...",
+          "date": "2015年10月1日",
+          "position": 27
+        },
+        {
+          "title": "多囊卵巢综合征(PCOS) - 《默沙东诊疗手册大众版》 - 默沙东诊疗手册",
+          "link": "https://www.msdmanuals.cn/home/women-s-health-issues/menstrual-disorders-and-abnormal-vaginal-bleeding/polycystic-ovary-syndrome-pcos",
+          "snippet": "... 性激素引起的痤疮和特征，例如体毛过多）。 医生常常根据症状进行诊断，同时需要进行血液检查测定激素水平和超声检查。 锻炼、减肥和/或使用含雌激素加孕激素的药物 ...",
+          "position": 28
+        },
+        {
+          "title": "男性化激素治疗的副作用 - Wiley Online Library",
+          "link": "https://onlinelibrary.wiley.com/doi/abs/10.1111/bjd.17386",
+          "snippet": "这种药物可能导致不良的副作用,医生们必须密切监测使用此药的患者。此研究针对医生讨论了其他重要考量。尽管痤疮的治疗选择与在原性别者(个人身份和性别感 ...",
+          "date": "2019年1月2日",
+          "position": 29
+        },
+        {
+          "title": "药物去势",
+          "link": "https://patients.uroweb.org/cn/%E5%89%8D%E5%88%97%E8%85%BA%E7%99%8C/%E5%B1%80%E9%83%A8%E6%99%9A%E6%9C%9F%E5%89%8D%E5%88%97%E8%85%BA%E7%99%8C/%E5%86%85%E5%88%86%E6%B3%8C%E6%B2%BB%E7%96%97/%E8%8D%AF%E7%89%A9%E5%8E%BB%E5%8A%BF/",
+          "snippet": "如果您更倾向于不通过手术去势，有一些药物可阻止雄激素的产生。最常见的药物是LHRH激动剂和LHRH拮抗剂。这些药物都旨在通过药物去势来阻止肿瘤的生长。但每组药物的 ...",
+          "position": 30
+        },
+        {
+          "title": "性激素药 - 智汇三农",
+          "link": "https://www.pwsannong.com/c/2016-04-13/559813.shtml",
+          "snippet": "小剂量能刺激垂体分泌促性腺激素和促黄体激素；大剂量应用则能抑制促卵泡激素的分泌。主要用于治疗胎衣不下、死胎、子宫内膜炎及子宫蓄脓症，也可用作催情药。 目录.",
+          "position": 31
+        },
+        {
+          "title": "糖皮质激素治疗肾脏疾病专家共识 - 中国糖尿病杂志",
+          "link": "http://www.cds.org.cn/znygs/31.html",
+          "snippet": "其中甲泼尼龙具有以下药理学特性和优点，是较为理想的糖皮质激素制剂之一：. ① C6位甲基化使其亲脂性增强，能快速到达作用部位;. ② 为一种活性药物，不需经 ...",
+          "position": 32
+        },
+        {
+          "title": "代孕药物：亮普瑞、雌激素和黄体酮（代孕涉及的激素）",
+          "link": "https://joyoflife.com/zh-CN/blog-post/medications-during-surrogacy/",
+          "snippet": "代孕药物：亮普瑞、雌激素和黄体酮（代孕涉及的激素） ... 特代孕的医疗过程 与个人怀孕不同，包括所涉及的药物。 通过代孕，代孕母亲的子宫需要做好准备以支持即将到来的 ...",
+          "position": 33
+        },
+        {
+          "title": "银屑病的外用药物治疗 - 中国医学科学院皮肤病医院",
+          "link": "http://www.pumcderm.net/list/97/4151.html",
+          "snippet": "激素药不适合大面积使用。面部、腋窝、阴囊等部位及儿童可选用中低效非氟化糖皮质激素；掌跖部位可用超强或强效 ...",
+          "date": "2024年1月13日",
+          "position": 34
+        },
+        {
+          "title": "[DOC] 糖皮质激素类药物临床应用指导原则 - 国家卫生健康委员会",
+          "link": "http://www.nhc.gov.cn/cmsresources/mohbgt/cmsrsdocument/doc11313.doc",
+          "snippet": "2.给药剂量：生理剂量和药理剂量的糖皮质激素具有不同的作用，应按不同治疗目的选择剂量。一般认为给药剂量（以泼尼松为例）可分为以下几种情况：（1）长期服用维持剂量： ...",
+          "position": 35
+        },
+        {
+          "title": "中国激素类药物行业报告：进口药品占据大部分市场份额 - 搜狐",
+          "link": "https://www.sohu.com/a/766203063_121114988",
+          "snippet": "随后，激素类药物的研究和应用逐渐扩展，其中最重要的里程碑之一是在1952年，科学家们发现了激素对乳腺癌的治疗效果。在国内生产的激素类药物中， ...",
+          "date": "2024年3月23日",
+          "position": 36
+        },
+        {
+          "title": "抗雄激素药物治疗去势抵抗型前列腺癌的机制研究进展 - 中国肿瘤临床",
+          "link": "http://www.cjco.cn/cn/article/doi/10.3969/j.issn.1000-8179.2015.20.967",
+          "snippet": "摘要: 去势抵抗型前列腺癌（castration-resistant prostate cancer ，CRPC）是指经内分泌治疗产生耐药并继续发展的致命性前列腺癌，雄激素受体（androgen receptor，AR） ...",
+          "position": 37
+        },
+        {
+          "title": "CN101972400A - 黄精水提物在制备治疗由于体内雌性激素分泌不足 ...",
+          "link": "https://patents.google.com/patent/CN101972400A/zh",
+          "snippet": "... 提物制备方法简单，稳定可靠，并经多次以上试验，均取得了相同或相近似的结果，方便，成本低，其水提物有效用于制备雌性激素药物，开辟了黄精药用新用途，临床意义巨大。",
+          "position": 38
+        },
+        {
+          "title": "中华医学会科普图文妊娠期禁用的雌激素、孕激素，到底能不能用？",
+          "link": "https://www.cma.org.cn/art/2023/2/6/art_4584_49485.html",
+          "snippet": "有时候，医师会给来看病的孕妇开一些雌激素、孕激素类的处方药，药盒上明确标注着“妊娠期禁用”。看到这句话，一些准妈妈心里就慌了：医师怎么给开妊娠 ...",
+          "date": "2023年2月6日",
+          "position": 39
+        },
+        {
+          "title": "男性服用雌激素药物的副作用-京东健康 - JD.com",
+          "link": "https://www.jd.com/pccontent/12110064",
+          "snippet": "雌性激素的使用一般在女性更多，男性使用很少。雌性药物在使用过程中必然会发挥雌性激素的作用，对于男性而言、对于男性的正常机体功能而言，大部分都是抑制作用。",
+          "position": 40
+        },
+        {
+          "title": "不同用途的性激素类药物是否可以共线生产？是否有相关法规依据 ...",
+          "link": "https://shilinx.com/community.php/qa/thread/id/5729",
+          "snippet": "就实际来说，如果是作用类似、适应症接近的性激素类药物，例如FSH、HCG是可以共线生产。但最好是限只共厂房，直接接触产品（中间状态溶液）的设备、器具还是应该分开使用。",
+          "position": 41
+        },
+        {
+          "title": "糖皮质激素类药物怎么停？ - 上海市卫生健康委员会",
+          "link": "https://wsjkw.sh.gov.cn/jtyx/20210126/36abbe0e56fd41d5bc2e516cdc0e6451.html",
+          "snippet": "对于接受糖皮质激素短期治疗的人群，如冲击治疗，用药时长小于1周的治疗，可直接停药；因为在此期间糖皮质激素引起HPA抑制不会在停药后持续存在，不容易 ...",
+          "date": "2021年1月26日",
+          "position": 42
+        },
+        {
+          "title": "【羊城晚报】系统性红斑狼疮病人，激素类药物能不能减？ | 中山大学 ...",
+          "link": "https://www.zssy.com.cn/article/3088",
+          "snippet": "激素作为系统性红斑狼疮（SLE）常规治疗中不可缺少的药物，对迅速控制病情起到重要作用。但长期使用激素带来的副作用，如发胖、脱发、痤疮、骨质 ...",
+          "date": "2020年1月13日",
+          "position": 43
+        },
+        {
+          "title": "[PDF] 乳腺癌患者的抗雌激素治疗",
+          "link": "https://nhc.ufh.com.cn/wp-content/uploads/2014/07/8%E4%B9%B3%E8%85%BA%E7%99%8C%E6%82%A3%E8%80%85%E7%9A%84%E6%8A%97%E9%9B%8C%E6%BF%80%E7%B4%A0%E6%B2%BB%E7%96%97.pdf",
+          "snippet": "他莫昔芬可能会增加血栓及栓塞的发病几率, 如果. 服用抗血栓药物( 华法林等), 必须告知负责医生。 • 由于戈舍瑞林通过腹部皮下注射给药，因此体型较. 瘦的患者，可能会影响 ...",
+          "position": 44
+        },
+        {
+          "title": "荷尔蒙剂",
+          "link": "https://pharmaoffer.com/zh-CN/api-excipient-supplier/hormonal-agents",
+          "snippet": "这些物质在调节和调节体内荷尔蒙功能方面发挥着至关重要的作用。 激素制剂旨在模仿或操纵天然激素的作用，使医疗保健专业人员能够治疗各种内分泌失调和激素失衡。 激素药物 ...",
+          "position": 45
+        },
+        {
+          "title": "掌握这几个诀窍，避免肾病吃激素后的副作用！",
+          "link": "https://www.gyfwyy.com/wap/jkjt/yyzn/a_102042.html",
+          "snippet": "... □文/肾内科姚佩云. 激素，这里说的是糖皮质激素，相信这种药物大部分肾病患者并不陌生，出现尿蛋白、尤其是大量尿蛋白的时候，激素是降蛋白的首选药物，代表药物 ...",
+          "position": 46
+        },
+        {
+          "title": "口服避孕药",
+          "link": "https://www.drugoffice.gov.hk/gb/unigb/www.drugoffice.gov.hk/eps/do/tc/consumer/news_informations/knowledge_on_medicines/oral_contraceptives.html",
+          "snippet": "口服混合性避孕丸口服混合性避孕丸含有两种荷尔蒙，即雌激素和黄体酮。药丸的成分是模仿女性内分泌的周期而设计，因此服用药丸需以28天为一周期。口服混合性避孕丸的包装 ...",
+          "position": 47
+        },
+        {
+          "title": "糖皮质激素急诊应用专家共识",
+          "link": "http://www.cem.org.cn/rhtml/20200605/index.htm",
+          "snippet": "【建议】每日10 mg泼尼松的胃肠道不良反应远低于各种常用的非甾体抗炎药，无需特殊用药。但大剂量使用激素时建议加用胃黏膜保护剂或抑酸药。 2.3 医源性 ...",
+          "date": "2020年6月5日",
+          "position": 48
+        },
+        {
+          "title": "妇产科普|口服避孕药漏服该怎么办？",
+          "link": "http://wjw.beijing.gov.cn/yddlm/xclbt/jkzs/202204/t20220415_2678701.html",
+          "snippet": "复方口服避孕药中的雌激素和孕激素可以通过多途径来发挥避孕功效，雌激素可以降低体内FSH（体内分泌的一种可以促进卵泡发育的性激素）水平，抑制排卵；.",
+          "date": "2022年4月15日",
+          "position": 49
+        },
+        {
+          "title": "Top 500件激素药物- 2024年10月更新- Taobao",
+          "link": "https://www.taobao.com/list/product/%E6%BF%80%E7%B4%A0%E8%8D%AF%E7%89%A9.htm",
+          "snippet": "中国绝经管理与绝经激素治疗指南解读绝经健康管理的新进展非性激素类药物植物药主编郁琦任慕兰9787117367691人民卫生出版社. ￥. 46. 已售100以内件. 收藏.",
+          "position": 50
+        },
+        {
+          "title": "湿疹反反复复治不好，因为这2点没做好！ - 深圳市卫生健康委员会",
+          "link": "https://wjw.sz.gov.cn/gzcy/ywzs/jhsy/content/post_9470495.html",
+          "snippet": "... 药，讲 ... 一般医生开的治疗湿疹的激素药膏中，属于弱中效激素或软性激素，在医生的指导下，短期高效治疗，完全不用担心。软性激素是指某些外用激素 ...",
+          "date": "2022年12月22日",
+          "position": 51
+        },
+        {
+          "title": "用药指南- 药品信息 - 新桥医院",
+          "link": "https://www.xqhospital.com.cn/drug/drug0601.asp?id=147",
+          "snippet": "... 性激素不足而类似无睾症者，使用药物或许有效。 A.激素类药物：丙酸睾丸酮25毫克，隔日一次肌注，5～7次为一疗程；绒毛膜促性激素500毫克，每周肌注1～2次，用药二周。",
+          "position": 52
+        },
+        {
+          "title": "明明我是来备孕的，为什么要吃避孕药呢？",
+          "link": "https://wsjkw.gxzf.gov.cn/xxgk_49493/fdzdgk/ggws/jkkp/byjy/t17852530.shtml",
+          "snippet": "还可以治疗各种排卵障碍性异常子宫出血，没有排卵就不会产生孕激素，而口服避孕药可持续稳定地补充孕激素，停药后产生撤退性出血从而形成规律的“月经”。",
+          "date": "2024年1月12日",
+          "position": 53
+        },
+        {
+          "title": "两种抗雌激素药物对雌性斑马鱼脂肪代谢的影响 - 水生生物学报",
+          "link": "http://ssswxb.ihb.ac.cn/cn/article/doi/10.7541/2017.12?viewType=HTML",
+          "snippet": "两种抗雌激素药物对雌性斑马鱼脂肪代谢的影响 · 1. 华东师范大学生命科学学院, 上海200241 · 2. 农业部淡水渔业健康养殖重点实验室, 湖州313001 · 3. 浙江省鱼类健康与营养 ...",
+          "position": 54
+        },
+        {
+          "title": "预防和治疗糖皮质激素药物引起的骨病----中国科学院上海营养与健康 ...",
+          "link": "http://www.sinh.cas.cn/cyhz/zlxx/202312/t20231212_6911968.html",
+          "snippet": "预防和治疗糖皮质激素药物引起的骨病. 专利名称, 预防和治疗糖皮质激素药物引起的骨病. 专利类别, 中国专利授权. 申请号, CN201310116616.0. 专利号, CN104096233B. 发明人 ...",
+          "position": 55
+        },
+        {
+          "title": "[PDF] 辅助生殖促排卵药物治疗专家共识",
+          "link": "http://medi-guide.meditool.cn/ymtpdf/8902645E-5029-A42D-B49F-06D3E07F30A2.pdf",
+          "snippet": "促排卵最常用药物为克罗米芬（CC）， 芳. 香化酶抑制剂、促性腺激素（Gn）类和促性腺激素释放激素类似物（GnRHa），包括激动剂（GnRH－a）. 和拮抗剂（ ...",
+          "position": 56
+        },
+        {
+          "title": "催眠药可造成性功能减退甚至障碍 - 中国食品药品网",
+          "link": "http://m.cnpharm.com/201907/21/c283220.html",
+          "snippet": "能够对人体性激素分泌水平造成影响的药物还有不少，镇静催眠药就是其中一种。长期服用这类药品，可能引起性激素分泌异常，造成患者性功能减退甚至发生 ...",
+          "date": "2019年7月21日",
+          "position": 57
+        },
+        {
+          "title": "性激素药物有哪些 - 有来医生",
+          "link": "https://m.youlai.cn/video/mip/7C751BkPml.html",
+          "snippet": "性激素药物包括三大类，即雌激素拮抗雌激素的药物、雄激素拮抗雄激素的药物和避孕药。由于天然的性激素，无论是雌激素、雄激素、孕激素，药理作用往往比较弱， ...",
+          "position": 58
+        },
+        {
+          "title": "糖皮质激素药物治疗疗程-MedSci.cn - 梅斯医学",
+          "link": "https://m.medsci.cn/scale/show.do?id=a4a63e781d",
+          "snippet": "适用于病程较长且多器官受累性疾病如风湿热等。治疗剂量起效后减至维持量，逐渐递减直至停药。使用一般＜3月。某些特殊疾病，如活动性甲状腺眼病，使用激素每周一次冲击 ...",
+          "position": 59
+        },
+        {
+          "title": "全身用激素类药物 - 上海现代制药股份有限公司",
+          "link": "https://www.shyndec.com/shxdzy/ywzx/cpzx/jszj/A002004001005Gone1.html",
+          "snippet": "产品中心 · 米乐松. 注射用甲泼尼龙琥珀酸钠. 仅供医学药学专业人士阅读. 生产企业：国药集团容生制药有限公司 · 醋酸奥曲肽注射液. 醋酸奥曲肽注射液. 仅供医学药学专业人士 ...",
+          "position": 60
+        },
+        {
+          "title": "当心！有些药让你变丑 - 中国康复研究中心",
+          "link": "https://www.crrc.com.cn/Html/News/Articles/11135.html",
+          "snippet": "但近年来发现，某些药物也会损害人体的健美，简介如下: 一、药物损害你的形体:若长期应用含肾上腺皮质激素类药物，如可的松与氢化可的松及强的松、泼尼松、强的松龙 ...",
+          "position": 61
+        },
+        {
+          "title": "性激素相关的药物有什么 - 起点中文网",
+          "link": "https://m.qidian.com/ask/qfoycclrhpe",
+          "snippet": "性激素相关的药物包括以下几类：1. 雌激素类：如炔雌醇、炔雌醚、雌二酮、雌二醇等。2. 孕激素类：如甲羟孕酮、甲地孕...",
+          "position": 62
+        },
+        {
+          "title": "红斑狼疮是“不死的癌症”？医学专家：可缓解莫恐慌 - 科学网",
+          "link": "https://news.sciencenet.cn/htmlnews/2024/10/532809.shtm",
+          "snippet": "但有些患者担心药物副作用而漏服甚至拒服药物，比如害怕长胖而拒绝使用激素药物。“殊不知，激素治疗在红斑狼疮的管理中发挥着至关重要的作用。”李春强调， ...",
+          "date": "6天前",
+          "position": 63
+        },
+        {
+          "title": "瑞士生物科技公司FimmCyte开发子宫内膜异位症非激素疗法 - 36氪",
+          "link": "https://m.36kr.com/p/3018849038087301",
+          "snippet": "现有常用治疗方法主要为服用激素药物，但30%的女性会因此产生耐药性，且伴随多种副作用；此外，也可通过腹部切口进行腹腔镜手术去除病变组织，但该手术 ...",
+          "date": "3天前",
+          "position": 64
+        },
+        {
+          "title": "丽珠集团(000513.SZ)：前三季度促性激素产品实现收入23.08亿元",
+          "link": "https://wap.stockstar.com/detail/IG2024103100033584",
+          "snippet": "... 性激素产品实现收入23.08亿元，增速为5.46%。重点品种亮丙瑞林微球作为激素调节类药物，具有较高的技术壁垒和较好的竞争格局，且受政策影响较小。",
+          "date": "4天前",
+          "position": 65
+        },
+        {
+          "title": "要不要打生长激素长高？专家帮你解决“成长路上的难题” - 金羊健康",
+          "link": "https://health.ycwb.com/2024-11/02/content_53029440.htm",
+          "snippet": "活动现场 · 身高会遗传，家长可预测孩子身高 · 留意孩子两个生长高峰期 · 矮小症是原因众多，生长激素药物有一定的长高作用.",
+          "date": "2天前",
+          "position": 66
+        },
+        {
+          "title": "雌性激素的药物有哪些 - 有来医生",
+          "link": "https://youlai.cn/video/article/83A85CkJJF.html",
+          "snippet": "雌性激素药物有戊酸雌二醇又叫补佳乐，还有雌二醇等，根据不同给药方式通常有口服制剂、外用经贴剂通过皮肤吸收雌激素，再者是阴道栓剂。",
+          "date": "2023年1月5日",
+          "position": 67
+        },
+        {
+          "title": "10年存活率已达90% 红斑狼疮治疗有望进入新时代 - 杭州网",
+          "link": "https://hznews.hangzhou.com.cn/kejiao/content/2024-10/30/content_8806786.htm",
+          "snippet": "... 激素药物，可能会出现肥胖等副作用。 霜霜就被药物副作用折磨到一度想要停药，从生理和心理上都很抗拒继续服药。好在通过中西医结合治疗，有效缓解了药物 ...",
+          "date": "5天前",
+          "position": 68
+        },
+        {
+          "title": "红斑狼疮，还是高致死性疾病吗？ - 中国新闻周刊网",
+          "link": "http://www.inewsweek.cn/kj/2024-10-28/23478.shtml",
+          "snippet": "张舸说。 目前治疗SLE的药物，包括糖皮质激素(以下简称“激素”)、抗疟药、免疫抑制剂和生物制剂 ...",
+          "date": "7天前",
+          "position": 69
+        },
+        {
+          "title": "性激素药物有哪几种 - 起点中文",
+          "link": "https://m.qidian.com/ask/qurskbpdynj",
+          "snippet": "性激素药物大致分为三类：1. 性激素药物，如雌激素和雄激素药物。雌激素类包括炔雌醇、炔雌醚等；雄激素类包括睾酮、甲睾酮...",
+          "position": 70
+        },
+        {
+          "title": "女性進入更年期，身體發生變化，器官功能減退 - 東元綜合醫院",
+          "link": "https://www.tyh.com.tw/b_news_s.php?new_id=1388",
+          "snippet": "女性進入更年期後，卵巢功能開始衰退，首先是濾泡衰退，排卵變得不規則，表現為經期改變和生育力下降，隨後濾泡發育逐漸停止，雌激素分泌減少，月經漸漸停止。身體在變化 ...",
+          "position": 71
+        },
+        {
+          "title": "药学之窗| 激素药膏不可怕_山东卫生 - 健康",
+          "link": "https://health.dzwww.com/jkxw/shgz/202410/t20241031_15035369.htm",
+          "snippet": "好多患者看完大夫取药的时候眉头紧皱，原来开的药属于激素药物，让人犹豫不敢使用。其实激素并不是洪水猛兽，让我们一起了解一下让人胆怯的激素， ...",
+          "date": "4天前",
+          "position": 72
+        },
+        {
+          "title": "性激素- A+医学百科",
+          "link": "http://www.a-hospital.com/w/%E6%80%A7%E6%BF%80%E7%B4%A0",
+          "snippet": "孕激素在高等动物体内的其他作用不多，已知大剂量的孕酮可引起雄性反应，药理剂量的孕酮还可对垂体的促性激素分泌起抑制作用，避孕药中所含孕激素的抑制排卵效应，就是对促 ...",
+          "position": 73
+        },
+        {
+          "title": "儿童扩散型内因性脑桥神经胶质瘤(DIPG) - Together by St. Jude",
+          "link": "https://together.stjude.org/zh-cn/about-pediatric-cancer/types/%E8%84%91%E8%84%8A%E9%AB%93%E8%82%BF%E7%98%A4/diffuse-intrinsic-pontine-glioma-dipg.html",
+          "snippet": "... 激素药物造成的。脑肿瘤可能导致积液和压力升高。这种压力（脑积水）会导致头痛、恶心、无力和行走困难等症状。地塞米松等类固醇药物可减少脑肿胀和压力。但它们也存在 ...",
+          "position": 74
+        },
+        {
+          "title": "10月31日股市必读：丽珠集团（000513）披露最新机构调研信息 - 股票",
+          "link": "http://stock.stockstar.com/RB2024110100003929.shtml",
+          "snippet": "... 药物产品线。- 促性激素的情况：前三季度，促性激素产品实现收入23.08 亿元，增速为5.46%。重点品种亮丙瑞林微球作为激素调节类药物，具有较高的技术 ...",
+          "date": "3天前",
+          "position": 75
+        },
+        {
+          "title": "红斑狼疮再引热议专家提醒：坚持规范治疗有望“临床治愈” - 华声健康",
+          "link": "https://health.voc.com.cn/article/17/9946.html",
+          "snippet": "其实并不是所有患者都需要终身服用激素的，现在的医疗技术发展，目前有很多药物在狼疮患者取得了很好的疗效，能够让患者减少激素使用的剂量和疗程，甚至 ...",
+          "date": "4天前",
+          "position": 76
+        },
+        {
+          "title": "瑞士生物科技公司FimmCyte开发子宫内膜异位症非激素疗法 - 动脉网",
+          "link": "https://www.vbdata.cn/intelDetail/617003",
+          "snippet": "瑞士生物科技公司FimmCyte开发出基于免疫系统的非激素药物，用于治疗子宫内膜异位症，通过识别并破坏病变组织，保护女性健康。",
+          "date": "2天前",
+          "position": 77
+        },
+        {
+          "title": "红斑狼疮经正规治疗完全可控切勿谈“狼”色变-专题新闻 - 华商报",
+          "link": "http://hsb.hspress.net/system/2024/1031/224694.shtml",
+          "snippet": "通常，患者在用药一段时间后，部分人可能会出现类似红斑狼疮的症状，停药后，症状会逐渐缓解。而一些女性，由于在特定年龄段受雌激素等性激素因素影响 ...",
+          "date": "4天前",
+          "position": 78
+        },
+        {
+          "title": "医药行业周报：创新药国谈和三季报落地",
+          "link": "https://bydrug.pharmcube.com/report/detail/7c7d1dc1a68e4f2582b9d8394cf2b459",
+          "snippet": "... 性激素类似，其中肿标和甲功分别组套采购，大体分AB组，累计意向采购量前90%进A组，其余进B组，针对某些甲功试剂盒产品不足5项的进C组。此次亦设有 ...",
+          "date": "4小时前",
+          "position": 79
+        },
+        {
+          "title": "20多岁确诊以为“天塌了”，如今她想生二胎| 红斑狼疮治疗迎来重大突破",
+          "link": "https://m.163.com/news/article/JFOIMP1G0530JPVV.html?clickfrom=subscribe",
+          "snippet": "治疗初期为了控制病情，使用激素药物，可能会出现肥胖等副作用。 霜霜就被药物副作用折磨到一度想要停药，从生理和心理上都很抗拒继续服药。好在通过中 ...",
+          "date": "5天前",
+          "position": 80
+        },
+        {
+          "title": "守护家庭“小幸福”，让“生育友好”可感可及 - 中国新闻网",
+          "link": "https://www.chinanews.com.cn/cj/2024/10-30/10310671.shtml",
+          "snippet": "今年，欧加隆科研与合作的新动向聚焦于开发创新疗法，例如在研长效促卵泡激素药物为不孕症治疗提供更多可能，准备辅助生殖治疗的关键阶段，使用口服避孕药 ...",
+          "date": "5天前",
+          "position": 81
+        },
+        {
+          "title": "女孩脸上爆痘医生开出避孕药医生：这是很常规的用法 - 快科技",
+          "link": "https://news.mydrivers.com/1/1011/1011067.htm",
+          "snippet": "医生进一步解释，在皮肤科领域，使用短效避孕药祛痘是一种常规做法。部分女性面部出现大量青春痘，往往与体内性激素分泌紊乱，特别是雄性激素分泌过高有关 ...",
+          "date": "5天前",
+          "position": 82
+        },
+        {
+          "title": "液相色谱串联质谱检测系统的公开招标公告 - 上海交易集团",
+          "link": "https://www.shexgrp.com/jyzx/001001/001001004/001001004001/20241104/8075845.html",
+          "snippet": "... 药物浓度监测、临床药物及毒物快速筛查分析，内源性激素和生物标志物体内检测，以及其他小分子物质的分析和研究，具备高灵敏度的定性和定量功能。",
+          "date": "13小时前",
+          "position": 83
+        },
+        {
+          "title": "1受体激动剂(GLP-1 Receptor Agonist·GLP-1RA)系列药物有助于肥胖 ...",
+          "link": "https://www.mk.co.kr/cn/society/11157496",
+          "snippet": "用于胃高比等药物的成分GLP-1原本的用途是治疗糖尿病。 在吃东西时,具有与肠道产生的饱腹感荷尔蒙相似的作用,即使少吃食物也会感到饱腹感,从而抑制食欲。",
+          "date": "2天前",
+          "position": 84
+        },
+        {
+          "title": "三宗疑吸太空油致死医生：问题严重 - 大公网",
+          "link": "https://www.takungpao.com/news/232109/2024/1102/1026886.html",
+          "snippet": "... 荷尔蒙变多，皮肤变差，月经失调，更会令阴部变形。 拟明年列为毒品. 今年施政报告附篇提出须加强对依托咪酯的管制，政府建议将依托咪酯纳入《危险药物 ...",
+          "date": "2天前",
+          "position": 85
+        },
+        {
+          "title": "生物医药行业：2024年医保谈判收官，支持鼓励创新药发展",
+          "link": "https://bydrug.pharmcube.com/report/detail/86346624c8fc4f54b585eb126c78ad9c",
+          "snippet": "... 药，也有肿瘤药物、罕见病药物等。自2018年国家医保局成立以来，国家医保药品目录已实现“一年一调”，此次的国谈国务院审议通过《全链条支持创新药 ... 性激素集采联盟，省份 ...",
+          "position": 86
+        },
+        {
+          "title": "【大咖健康课】痒痒痒！拿什么拯救这恼人的皮肤病",
+          "link": "https://www.yzwb.net/zncontent/4110795.html",
+          "snippet": "提到用药，特别是激素药，很多家长都十分抗拒，但近些年非激素药物如生物制剂、小分子药物等的出现，给过敏性皮肤病的治疗提供了很好的解决方案。康莉 ...",
+          "date": "5天前",
+          "position": 87
+        },
+        {
+          "title": "欧美歌坛天后暂时失聪，打雷都听不到针灸+中药，标本兼治治疗耳鸣 ...",
+          "link": "https://hznews.hangzhou.com.cn/kejiao/content/2024-11/01/content_8807889.htm",
+          "snippet": "针药齐下，标本兼治. 一次见效，两月治愈. 在西医医生的治疗下，李阿姨先后用了激素药物、打了耳内激素针、高压氧治疗等手段。在治疗一段时间后，李阿姨 ...",
+          "date": "3天前",
+          "position": 88
+        },
+        {
+          "title": "红斑狼疮是绝症吗？常规体检能否发现？你想了解的都在这里→",
+          "link": "https://news.rednet.cn/content/646854/62/14400155.html",
+          "snippet": "红斑狼疮的病因及发病机制尚不清楚，可能与遗传因素、环境因素、性激素等有关。 ... 目前，治疗药物包括糖皮质激素、抗疟药物、经典免疫抑制剂、生物制剂等 ...",
+          "date": "7天前",
+          "position": 89
+        },
+        {
+          "title": "正是自驾游的好时节，带上这些健康提示，让旅途安全又舒适 - 上观新闻",
+          "link": "https://www.jfdaily.com/sgh/detail?id=1452295",
+          "snippet": "包括常用的药物以及急救药品，如止痛药、抗生素和抗过敏药，以及消毒用品 ... 在高原地区适应的过程中，可能还会受到性激素的影响，尤其在月经 ...",
+          "date": "4天前",
+          "position": 90
+        },
+        {
+          "title": "2024年中国基因工程药物行业市场简析 - 360Doc",
+          "link": "http://www.360doc.com/content/24/1102/09/79754478_1138274508.shtml",
+          "snippet": "... 药物和核酸类药物两大类。其中，重组蛋白质药物又可细分为细胞因子药物（如干扰素、集落因子、白细胞介素、凝血因子等）、蛋白质类激素药物（如生长激素 ...",
+          "date": "2天前",
+          "position": 91
+        },
+        {
+          "title": "雌激素和孕激素摄影图片 - 千库网",
+          "link": "https://588ku.com/photogram/110251369.html",
+          "snippet": "胰岛素是一种产生的激素。 女性雌激素分泌3D 插图 · 植物啤酒花 · 使用雾化器吸入激素药物的小女孩.",
+          "position": 92
+        },
+        {
+          "title": "守护家庭“小幸福”，让“生育友好”可感可及 - 齐鲁网",
+          "link": "http://news.iqilu.com/china/gedi/2024/1030/5735848.shtml",
+          "snippet": "今年，欧加隆科研与合作的新动向聚焦于开发创新疗法，例如在研长效促卵泡激素药物为不孕症治疗提供更多可能，准备辅助生殖治疗的关键阶段，使用口服避孕药 ...",
+          "date": "5天前",
+          "position": 93
+        },
+        {
+          "title": "听得清小外孙说话，却听不见天空打雷，55 岁阿姨低频听力跌到谷底",
+          "link": "https://tidenews.com.cn/news.html?id=2943430",
+          "snippet": "在西医治疗下，李阿姨先后用了激素药物、打了耳 ... 针对李阿姨的体质，开具清肝泻火，活血化瘀通络的中药，针药并用、双管齐下，从根本上解决耳鸣耳聋的 ...",
+          "date": "3天前",
+          "position": 94
+        },
+        {
+          "title": "关于红斑狼疮、安乐死、尊严死等的事实梳理 - 文学城",
+          "link": "https://www.wenxuecity.com/news/2024/10/27/125840135.html",
+          "snippet": "然而，SLE的病因复杂，与遗传、性激素、环境（如病毒与细菌感染 ... 因为换肾后必须长期使用抗排异药，也是一类激素药物。这对于绝对不用激素 ...",
+          "date": "8天前",
+          "position": 95
+        },
+        {
+          "title": "性激素样药物的作用及应用",
+          "link": "https://www.juhemofang.com/html/6z6g.html",
+          "snippet": "什么是性激素样药物性激素是指能够影响***官和性征发育的内分泌物质，包括雌激素、孕激素和雄激素等。而性激素样药物则是指具有与性激素相似的化学 ...",
+          "date": "2024年10月22日",
+          "position": 96
+        },
+        {
+          "title": "近期高发！女孩中招后成“白肺”……高热不退、阿奇霉素“失灵” - 网易",
+          "link": "https://m.163.com/news/article/JG4K1SCC05148S1B.html?clickfrom=subscribe",
+          "snippet": "如果感染耐药性肺炎支原体要怎么办？有哪些“替代药物”可以使用？激素药物使用是否安全？记者为此采访了呼吸疾病领域的相关专家。 医孩子高热三天后 ...",
+          "date": "7小时前",
+          "position": 97
+        },
+        {
+          "title": "杭州35岁女白领被丈夫劝去医院，一查是癌！年轻人高发 - 极目新闻",
+          "link": "https://www.ctdsb.net/c1659_202411/2294684.html",
+          "snippet": "随后，小美开始了促甲状腺素抑制治疗。由于她的甲状腺已被完全切除，身体无法自行产生甲状腺激素，她需要每天服用药物来维持正常的代谢功能，同时抑制 ...",
+          "date": "2天前",
+          "position": 98
+        },
+        {
+          "title": "全面解读治疗方法与护理技巧(牙龈增生不再增生)",
+          "link": "https://www.wuyoulaike.cn/hlwzxwz/f454df92cce2c10edbd4.html",
+          "snippet": "牙菌斑和牙结石的积累：不良的口腔卫生习惯会导致细菌聚集，形成牙菌斑和牙结石，刺激牙龈。 荷尔蒙变化：青春期、怀孕期以及服用某些药物（如避孕药）都 ...",
+          "date": "3天前",
+          "position": 99
+        },
+        {
+          "title": "谈“狼”色变？医生：红斑狼疮可控可治 - 凤凰网甘肃",
+          "link": "https://gs.ifeng.com/c/8e67133eMi5",
+          "snippet": "... 药物。目前，治疗药物主要包括激素及免疫抑制剂，另外有一些靶向B细胞的生物制剂，比如利妥昔单抗、贝利尤单抗、泰它西普等。此外，还有很多新型的药物治疗方案在进行 ...",
+          "position": 100
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "性激素 药物",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 3,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "上海姑娘沙白瑞士安乐死！她走后竟然被网暴了？ - 澳洲印象",
+          "link": "https://auyx.au/news/details/273182",
+          "snippet": "于是，她总是难以遵从医生的嘱托，激素药物时断时续地服用，这让她的医生无奈又头疼。 沙白说：“我宁可少活40年，也要享受阳光、沙滩，享受美好的身材 ...",
+          "date": "6天前",
+          "position": 1
+        },
+        {
+          "title": "20多岁确诊以为“天塌了”，如今她想生二胎！红斑狼疮治疗迎来重大 ...",
+          "link": "https://www.sydneytoday.com/content-1024535263379002",
+          "snippet": "治疗初期为了控制病情，使用激素药物，可能会出现肥胖等副作用。 霜霜就被药物副作用折磨到一度想要停药，从生理和心理上都很抗拒继续服药。好在通过中 ...",
+          "date": "5天前",
+          "position": 2
+        },
+        {
+          "title": "甲狀腺亢進症狀原因有哪些？日常飲食要注意，不怕檢查有問題！ - 康舟",
+          "link": "https://www.wholesomeship.com/news_detail.asp?nid=163",
+          "snippet": "故第一步會先進行「功能檢查」，也就是抽血看血中的甲狀腺素、促甲狀腺分泌激素等激素的數值，判斷甲狀腺機能是否正常。 ... 藥物無法控制或體質上對藥物 ...",
+          "date": "2021年9月1日",
+          "position": 3
+        },
+        {
+          "title": "三宗疑吸太空油致死医生：问题严重 - 中评社",
+          "link": "https://bj.crntt.com/doc/0_0_106998641_1_1102101457.html",
+          "snippet": "... 荷尔蒙变多，皮肤变差，月经失调，更会令阴部变形。 拟明年列为毒品 今年施政报告附篇提出须加强对依托咪酯的管制，政府建议将依托咪酯纳入《危险药物 ...",
+          "date": "2天前",
+          "position": 4
+        },
+        {
+          "title": "在郑州做一代试管婴儿移植2个鲜胚要花多少钱？",
+          "link": "https://sg.9939.com/w/20320.html",
+          "snippet": "在身体检查大到助孕标准的时候，就可以进入试管周期进行促排卵治疗，在该阶段需要使用到激素药物帮助卵泡成熟，药物的种类、用量以及治疗周期都会影响药物 ...",
+          "date": "6天前",
+          "position": 5
+        },
+        {
+          "title": "猫咪便便为何“臭气熏天”？原因竟是这样！ - 搜狐",
+          "link": "https://m.sohu.com/a/823209035_120164124?scm=thor.309_13-101000-0_922.0-0.10095.a2_5X162X1754",
+          "snippet": "4、荷尔蒙或药物变化. 猫咪发情或服用某些药物后，便便的气味可能会发生变化。这是由荷尔蒙或药物引起的正常现象，但也需要留意猫咪的整体健康状况。 5 ...",
+          "date": "1天前",
+          "position": 6
+        },
+        {
+          "title": "化膿性汗腺炎藥物治療回顧／黃綉月、林雅恩 - 藥學雜誌電子報146期",
+          "link": "https://jtp.taiwan-pharma.org.tw/146/001.html",
+          "snippet": "有人提出毛囊的性荷爾蒙活性可能在疾病的機制中扮演一角色，但是免疫組織檢查結果發現，HS患者病灶皮膚與健康者對照相比，沒有證據顯示性激素受體失調。",
+          "date": "2021年3月31日",
+          "position": 7
+        },
+        {
+          "title": "【美容温泉完整指南】让身心里外皆美！美容温泉的重点、泡汤方式 ...",
+          "link": "https://www.gltjp.com/zh-hans/article/item/20737/",
+          "snippet": "这里最有名的是无色透明、温度约35度的「镭泉温泉（単纯放射能泉）」，具有调节自律神经和平衡荷尔蒙的效果。 栃尾又温泉提倡传统的入浴方式，即每次泡30分钟 ...",
+          "date": "4天前",
+          "position": 8
+        },
+        {
+          "title": "太空油疑致3死警捣工场检获? 社工 - Ming Sheng Bao",
+          "link": "http://www.mingshengbao.com/tor/article.php?aid=937135",
+          "snippet": "她说政府建议将依托咪酯列为危险药物管制，目标明年上半年完成修例。 ... 此药亦会减少分泌压力荷尔蒙，长期服用者若患细菌感染等疾病，身体会因 ...",
+          "date": "2天前",
+          "position": 9
+        },
+        {
+          "title": "植发题材有那些上市企业，进来了解一下！（2024/11/1） - 南方财富网",
+          "link": "http://www.southmoney.com/tuijian/202411/54950368.html",
+          "snippet": "... 药和制剂的研制、生产与销售。公司产品主要分为皮质激素类药物、性激素类药物（妇科及计生用药）、麻醉与肌松类药物三大类。 回顾近30个交易日，康恩 ...",
+          "date": "23小时前",
+          "position": 10
+        },
+        {
+          "title": "【日记】第一次觉得“届く” 是一个很难的东西（1528 字） - 稀土掘金",
+          "link": "https://juejin.cn/post/7432708866948235274",
+          "snippet": "... 性激素类药及避孕药（2024.6.6） - [x] 第三十五章肾上腺皮质激素类药物（2024.6.5） - [x] 第三十六章甲状腺激素及抗甲状腺药（2024.6.6） - [x] ...",
+          "date": "23小时前",
+          "position": 11
+        },
+        {
+          "title": "妇产科(O＆G) | 鹰阁医院",
+          "link": "https://gleneagles.com.my/zh-cn/medical-specialties/obstetrics-and-gynaecology-og",
+          "snippet": "卵巢还会产生雌激素和孕激素等激素，对调节月经周期和维持生殖健康非常重要。 ... 改变行为习惯，进行盆底肌肉锻炼和药物治疗通常是首选。如果这些方法都不成功 ...",
+          "position": 12
+        },
+        {
+          "title": "丽珠集团前三季度净利16.73亿元营收已连降5个季度 - 新股",
+          "link": "http://xg.stock.cnfol.com/xinguyaowen/20241101/30999793.shtml",
+          "snippet": "中国网财经11月1日讯在集采扩面和创新药遇冷的市场环境下丽珠集团仍保持了利润的增长三季报显示丽珠集团单季度实现净利润5亿元同比增长7 45 前三季度 ...",
+          "date": "3天前",
+          "position": 13
+        },
+        {
+          "title": "了解自律神經失調症狀、原因與治療方法 - 康舟",
+          "link": "https://www.wholesomeship.com/health_detail.asp?nid=13",
+          "snippet": "短短的分享中是否也有感觸，或許正是您或身邊家人的心聲，失眠及情緒困擾配合治療，但藥物一直增加、一直吃，漸漸地開始害怕自己依賴藥物。 ... 荷爾蒙，如：甲狀腺激素、性激素、 ...",
+          "position": 14
+        },
+        {
+          "title": "奥培米芬(ospemifene)儿童用药及老年用药 - 问药网",
+          "link": "https://m.fillseo.com/article/298212.html",
+          "snippet": "奥培米芬通过其雌激素受体调节剂的作用，有助于改善这些症状，提高患者的生活质量。 3. 安全性和副作用. 不论在儿童还是老年人群中，药物的安全性都是至关重要的考量因素。",
+          "position": 15
+        },
+        {
+          "title": "阿帕他胺多少钱一盒药品 - 问药网",
+          "link": "https://m.fillseo.com/question/134597.html",
+          "snippet": "阿帕他胺属于一类称为抗雄激素受体的药物，它通过阻断雄激素受体的作用，抑制雄激素对前列腺癌细胞的刺激，从而延缓疾病的发展。Erleada也被证实能够显著延长 ...",
+          "date": "4小时前",
+          "position": 16
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

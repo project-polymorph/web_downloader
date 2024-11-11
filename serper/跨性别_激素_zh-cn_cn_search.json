@@ -1,0 +1,1455 @@
+{
+  "query": "跨性别 激素",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-04T00:17:19.583620",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "跨性别 激素",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "女性化激素治疗- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/tests-procedures/feminizing-hormone-therapy/about/pac-20385096",
+          "snippet": "女性化激素治疗通常面向跨性别女性和非二元性别者，可产生青春期内由雌性激素引起的身体变化。这些变化称为第二性征。这种激素治疗可促进身体与性别 ...",
+          "date": "2024年7月12日",
+          "position": 1
+        },
+        {
+          "title": "性别肯定激素治疗- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E6%80%A7%E5%88%AB%E8%82%AF%E5%AE%9A%E6%BF%80%E7%B4%A0%E6%B2%BB%E7%96%97",
+          "snippet": "女性化激素疗法：用于跨性别女性；使用醋酸环丙孕酮等抗雄激素与雌二醇等雌激素。 男性化激素疗法：用于跨性别男性；使用如睾酮等雄性激素。 有些间性人可能也会接受GAHT ...",
+          "position": 2
+        },
+        {
+          "title": "女性化激素疗法- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E5%A5%B3%E6%80%A7%E5%8C%96%E6%BF%80%E7%B4%A0%E7%96%97%E6%B3%95",
+          "snippet": "女性化激素疗法（英语：feminizing hormone therapy）是一种性别肯定激素治疗（GAHT）及性别重置疗法，旨在将跨性别者的第二性征从男或中性转变为女性气质。用于治疗跨性别 ...",
+          "position": 3
+        },
+        {
+          "title": "跨性别激素治疗_百度百科",
+          "link": "https://baike.baidu.com/item/%E8%B7%A8%E6%80%A7%E5%88%AB%E6%BF%80%E7%B4%A0%E6%B2%BB%E7%96%97/54212022",
+          "snippet": "跨性别激素治疗（Transgender Hormone Therapy）是肯定跨性别者性别认同的一种卫生保健服务，透过外源性内分泌制剂的投药，使跨性别者身体的第二性征与其性别认同相符， ...",
+          "position": 4
+        },
+        {
+          "title": "跨性别女性激素治疗期间的抗雄激素或雌二醇或两者结合治疗",
+          "link": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013138.pub2/full/zh_HANS",
+          "snippet": "目前的指南建议使用激素和手术干预（如需要）来帮助跨性别女性（即目标为从男性过渡到女性的人）的转换。在成人中，激素疗法旨在逆转身体的男性属性并促进女性 ...",
+          "date": "2020年11月28日",
+          "position": 5
+        },
+        {
+          "title": "男性化激素治疗- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/tests-procedures/masculinizing-hormone-therapy/about/pac-20385099",
+          "snippet": "男性化激素治疗通常面向跨性别男性和非二元性别者，可产生青春期内由雄性激素引起的身体变化。这些变化称为第二性征。这种激素治疗可促进身体与性别 ...",
+          "date": "2024年7月12日",
+          "position": 6
+        },
+        {
+          "title": "关于激素治疗：你需要了解的内容| Bangkok Hospital",
+          "link": "https://www.bangkokhospital.com/zh/content/know-the-truth-before-taking-hormones",
+          "snippet": "什么是跨性别者激素疗法？ 这些激素在化学上与我们身体自然产生的激素相同。它们被用来塑造和形成跨性别者的身体，使其更接近他们所期望的性别，从而提升自信心。因此 ...",
+          "position": 7
+        },
+        {
+          "title": "激素疗法是否有助于跨性别女性进行性别重建以实现转换？ - Cochrane",
+          "link": "https://www.cochrane.org/zh-hans/CD013138/TOBACCO_ji-su-liao-fa-shi-fou-you-zhu-yu-kua-xing-bie-nu-xing-jin-xing-xing-bie-chong-jian-yi-shi-xian-zhuan",
+          "snippet": "我们未找到足够的证据来确定激素治疗方法对转换期跨性别女性的有效性或安全性。研究的缺乏表明当前的临床实践和临床研究之间存在差距。需要稳健的RCT和对照队列研究来评价 ...",
+          "position": 8
+        },
+        {
+          "title": "内分泌疾病的管理：变性人的最佳女性化激素治疗。 - X-MOL",
+          "link": "https://www.x-mol.com/paper/1417179886993297408/t?recommendPaper=1235636840413511680",
+          "snippet": "在本文中，我们讨论了针对成年跨性别女性或寻求女性化的非二元性别人群的既定和即将进行的女性化治疗的证据。有关跨性别女性研究人群的数据被置于更广泛的 ...",
+          "date": "2021年6月28日",
+          "position": 9
+        },
+        {
+          "title": "调查报道| 中国跨性别女性的困境：买不到药的\"药娘\"",
+          "link": "https://www.rfa.org/mandarin/yataibaodao/shehui/mz-04262023144931.html",
+          "snippet": "去年十二月，中国政府禁止了醋酸环丙孕酮（一种常用的抗雄激素）和雌二醇（一种常用的雌激素）的网络销售。 这两种药物被应用于荷尔蒙疗法中，例如治疗前列腺癌 ...",
+          "date": "2023年4月26日",
+          "position": 10
+        },
+        {
+          "title": "跨性别女性的评估和管理- UpToDate",
+          "link": "https://www.uptodate.com/contents/zh-Hans/transgender-women-evaluation-and-management",
+          "snippet": "例如，一些研究仅纳入接受了激素治疗、性别确认手术或证实跨性别(有对应诊断代码)的患者，结果显示跨性别发生率为7-9例/100,000人[6]。但在纳入自述跨性别者 ...",
+          "date": "2023年10月12日",
+          "position": 11
+        },
+        {
+          "title": "Nature：雄激素治疗后的跨性别男性，免疫系统被重塑 - 生物谷",
+          "link": "https://news.bioon.com/article/b6b884204611.html",
+          "snippet": "研究团队观察到，在开始治疗后的3个月内，参与者的免疫反应发生了转变，变得更接近顺性别男性。具体来说，该研究发现睾酮（雄激素）调节了一条由Ⅰ型干扰素（IFN-Ⅰ ...",
+          "date": "2024年9月6日",
+          "position": 12
+        },
+        {
+          "title": "医生知识【跨性别的“激素科技”泰国变性手术前的变更点】",
+          "link": "https://rubikhealth.com/zh/articles/interesting-doctors-fact-on-taking-hormones-for-transgender-turning-point-before-sex-reassignment-surgery-in-thailand",
+          "snippet": "医生知识【跨性别的“激素科技”泰国变性手术前的变更点】 · 停止激素后，，恢复正常包括月经不足 · 增加肌肉质量和力量 · 面部，身体和四肢毛茸茸 · 乳房较小 · 可能有更高的的 ...",
+          "position": 13
+        },
+        {
+          "title": "跨性别女性激素治疗期间的抗雄激素或雌二醇或两者结合治疗",
+          "link": "https://www.cochranelibrary.com/es/cdsr/doi/10.1002/14651858.CD013138.pub2/abstract/zh_HANS",
+          "snippet": "The Cochrane Library · Scolaris Search Portlet Scolaris Search Portlet · Scolaris Language Selector Scolaris Language Selector.",
+          "position": 14
+        },
+        {
+          "title": "接受雌激素治疗的跨性别女性中PSA结果或不能评估前列腺癌风险",
+          "link": "https://www.bjcancer.org/Html/News/Articles/19148.html",
+          "snippet": "在患有前列腺癌的人群中，接受雌激素治疗的跨性别女性比顺性别男性更可能罹患高级别的疾病，这提示可能存在延迟诊断的问题。导致延迟诊断的原因之一可能是， ...",
+          "date": "2024年8月12日",
+          "position": 15
+        },
+        {
+          "title": "在采取激素时必须了解的利弊. | Bangkok Hospital",
+          "link": "https://www.bangkokhospital.com/zh/content/pros-and-cons-need-to-know-when-taking-hormones",
+          "snippet": "使用激素后，身体会逐渐发生变化。为了男性化的激素治疗会使跨性别男性（Transman）长出体毛，声音变低，月经停止，肌肉变得更结实等。而为了女性化的激素治疗会使跨性别 ...",
+          "position": 16
+        },
+        {
+          "title": "常用抗雄激素药物在中国跨性别女性中的有效性和安全性",
+          "link": "https://www.linkresearcher.com/theses/2c7653fc-0b0f-495d-89a4-7200d365295b",
+          "snippet": "跨性别（Transgender, 又名易性症）指个体的心理认同性别与出生时被指派的性别（多数为生理性别）不同。跨性别者常伴随持续的性别焦虑，甚至继发精神心理疾病。",
+          "date": "2024年7月6日",
+          "position": 17
+        },
+        {
+          "title": "[PDF] 亚太跨性别健康蓝图",
+          "link": "https://www.undp.org/sites/g/files/zskgke326/files/migration/asia_pacific_rbap/06134fe5d74f2f84023c5de3ee99656ba412f33aa87d6a66c24e6a3da2f6de19.pdf",
+          "snippet": "本节具体讨论本区域内的成年跨性别者寻求激素治疗和性别肯定手术的经验。儿童和. 青少年的相关经验，包括成功实践的指南，则在第5章中讨论。成年跨性别者性别肯定卫生保健 ...",
+          "position": 18
+        },
+        {
+          "title": "UCSF指南 - 跨性别在线·文档库",
+          "link": "https://docs.transonline.org.cn/ucsf/",
+          "snippet": "孕激素: 孕激素在女性化激素治疗方案中的作用尚未得到合理设计的研究的证实，但是许多跨性别者和药物提供商报告了其促进乳房及乳晕发育、情绪改善和性欲增长。[17,18]没有 ...",
+          "position": 19
+        },
+        {
+          "title": "[PDF] 中国大陆跨性别群体激素干预获取情况调查报告",
+          "link": "https://cnlgbtdata.com/files/uploads/2020/04/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E8%B7%A8%E6%80%A7%E5%88%AB%E7%BE%A4%E4%BD%93%E6%BF%80%E7%B4%A0%E5%B9%B2%E9%A2%84%E8%8E%B7%E5%8F%96%E6%83%85%E5%86%B5%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A.pdf",
+          "snippet": "激素干预：本报告中指使用激素干预身体性征的医学方法。跨性别女性及其ta被. 指配性别为男性的跨性别人士一般使用雌激素与雄性激素阻滞剂，有 ...",
+          "position": 20
+        },
+        {
+          "title": "跨性别荷尔蒙疗法对跨性别女性骨矿物质密度和身体成分的影响。",
+          "link": "https://www.x-mol.com/paper/1213053873740255250/t?recommendPaper=1213040612177285138",
+          "snippet": "这项研究评估了接受CSHT治疗的跨性别女性的骨矿物质密度（BMD），阑尾瘦体重（ALM）和总脂肪质量。患者和设计我们在常规雌激素治疗的前三个月（接受或不接受抗雄激素药物）中评估 ...",
+          "position": 21
+        },
+        {
+          "title": "Part 0 HRT 介绍与基本",
+          "link": "https://docs.hrt.guide/parts/Part0.html",
+          "snippet": "跨性别HRT 的目的是为了女性化以及去男性化来缓解性别焦虑症(gender dysphoria). 为跨性别女性提供性激素药物、孕激素类药物、抗雄激素药物等来取代体内原有的激素，把体内 ...",
+          "position": 22
+        },
+        {
+          "title": "Nature：雄激素治疗后的跨性别男性，免疫系统被重塑 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_28638946",
+          "snippet": "研究团队观察到，在开始治疗后的3个月内，参与者的免疫反应发生了转变，变得更接近顺性别男性。具体来说，该研究发现睾酮（雄激素）调节了一条由Ⅰ型干扰素（IFN-Ⅰ ...",
+          "date": "2024年9月5日",
+          "position": 23
+        },
+        {
+          "title": "女性倾向跨性别者的激素治疗简介 - GitHub",
+          "link": "https://github.com/tfsci-sc/articles/blob/main/transfem-intro.md",
+          "snippet": "由于DHT在组织内的作用是一种媒介，而不是循环激素，因此5α-RI的抗雄激素功效是有限的。这体现在它们在顺性别男性中的耐受性很好，并且不会导致他们明显的去 ...",
+          "date": "2023年5月2日",
+          "position": 24
+        },
+        {
+          "title": "FTM 激素的效果和风险",
+          "link": "https://www.kamolhospital.com/zh/blog/1499/ftm-replacement-hormone-effective-and-risk",
+          "snippet": "男性化激素疗法对跨性别者、变性者和性别非符合者的风险按照我们所知分类整理在表格中。这些风险分为三类：(i) 在激素疗法中可能会增加的风险，(ii) 可能会随激素疗法 ...",
+          "position": 25
+        },
+        {
+          "title": "跨性别男性的性别确认激素治疗及其安全监测 - 中国生物医学文献数据库",
+          "link": "https://www.sinomed.ac.cn/article.do?ui=2024111920",
+          "snippet": "性别确认激素治疗(gender affirming hormone therapy,GAHT)是跨性别者进行性别转化不可避免且最为主要的方式,治疗安全性需要更多关注。对于跨性别男性,雄激素的使用 ...",
+          "position": 26
+        },
+        {
+          "title": "跨性别激素治疗男→女(MTF) - 北京北医三院整形外科",
+          "link": "https://www.sar.com.cn/huiyin/yxp/13030.html",
+          "snippet": "跨性别激素治疗男→女(MTF) · 目的：. 1、抑制本身生物学性征 · 前提条件：. A、已经适应以异性角色在社会生活3個月以上，或已接受精神科正规治疗3个月以上.",
+          "date": "2023年6月8日",
+          "position": 27
+        },
+        {
+          "title": "HRT 概论 - FtM.wiki",
+          "link": "https://ftm.wiki/zh-cn/hrt/overview/",
+          "snippet": "男性化激素治疗(MHT) 是一种激素治疗和性别确认疗法的疗法，指的是 跨性别男性(FtM) 等通过雄激素来抑制一部分雌激素水平， 弱化女性第二性征， 促进男性第二性征的发育， 以 ...",
+          "position": 28
+        },
+        {
+          "title": "跨性别雌激素治疗有什么目的？-京东健康 - JD.com",
+          "link": "https://www.jd.com/pccontent/12055224",
+          "snippet": "跨性别雌激素治疗主要的目的是女性化、去男性化和改变性别焦虑。跨性别女性是具备女性的外貌，同时抑制男性的一些特征，从而达到改善他性别焦虑。所以跨性别雌激素治疗 ...",
+          "position": 29
+        },
+        {
+          "title": "荷尔蒙替代疗法",
+          "link": "https://www.kamolhospital.com/zh/service/1117/hormone-replacement-therapy",
+          "snippet": "荷尔蒙疗法对于跨性别和性别不一致的人士来说是一项重要的治疗，尤其是对于那些对自身性别感到不适的人。在开始之前，建议与我们的专家讨论，以了解并同意治疗的相关细节 ...",
+          "position": 30
+        },
+        {
+          "title": "女性倾向跨性别者的激素治疗简介",
+          "link": "https://tfsci.mtf.wiki/zh-cn/articles/transfem-intro/",
+          "snippet": "目前，女性倾向跨性别者已在利用雌激素和孕激素的抗促性腺激素作用，以抑制性腺睾酮的产生，并使睾酮水平更接近于顺性别妇女水平。应当指出，上述睾酮抑制率仅为平均值；在抑制 ...",
+          "position": 31
+        },
+        {
+          "title": "跨性別女性化賀爾蒙療法| 最新消息 - 中國醫藥大學附設醫院",
+          "link": "https://www.cmuh.cmu.edu.tw/NewsInfo/NewsArticle?no=6907",
+          "snippet": "跨性別賀爾蒙治療的關鍵原則是盡可能地達到與個人的所認同之性別環境，以減緩性別不安，這其中包括一些抑制的內源激素或替代療法的賀爾蒙。賀爾蒙療法會 ...",
+          "date": "2020年10月26日",
+          "position": 32
+        },
+        {
+          "title": "性别工程：弥补上帝造人时偶然的疏漏 - 搜狐",
+          "link": "https://www.sohu.com/a/357287006_296660",
+          "snippet": "刘医生：对，原本内分泌科的疾病谱里并没有包含跨性别这一块。但在欧美国家，跨性别激素治疗是有相应指南的，是由内分泌协会和跨性别健康组织共同发起、制定和 ...",
+          "date": "2019年11月29日",
+          "position": 33
+        },
+        {
+          "title": "跨性别激素治疗须知（2022版）-北京整形美容医院",
+          "link": "https://www.sar.com.cn/huiyin/yxp/13029.html",
+          "snippet": "跨性别激素治疗须知（2022版） · 1、建档：诊室外填写问诊表格，建档、签署知情 · 2、照相：美容中心一层照相室114，找年大夫照相，报上姓名 · 3、交费：任意自动 ...",
+          "date": "2023年6月8日",
+          "position": 34
+        },
+        {
+          "title": "跨性别女性性别确认激素治疗策略 - 学术前沿在线- 高等教育出版社",
+          "link": "https://academic.hep.com.cn/ogg/CN/10.3868/j.issn.2095-1558.2022.04.007",
+          "snippet": "摘要:慢性炎症与肿瘤的发生发展息息相关。研究发现中性粒细胞淋巴细胞比值（NLR）、血小板淋巴细胞比值（PLR）可能作为炎症标记物，预测各种疾病的进展或预后。NLR、PLR已被证明 ...",
+          "position": 35
+        },
+        {
+          "title": "Cross-sex Hormone Therapy 变性人的激素治疗 - ศูนย์ การ แพทย์ ธนบุรี",
+          "link": "https://thonburimedicalcenter.com/cn/service/Sexual-Health/Cross-sex-Hormone-Therapy",
+          "snippet": "基本上，您的身体既有男性荷尔蒙也有女性荷尔蒙，但它们的水平不平衡。因此，在进行性别转变或激素治疗后改变身体必须使用激素替代来改善身体特征。",
+          "position": 36
+        },
+        {
+          "title": "Nature：雄激素治疗后的跨性别男性，免疫系统被重塑 - QQ News",
+          "link": "https://news.qq.com/rain/a/20240905A00Y3I00",
+          "snippet": "免疫系统的性别差异源于遗传、激素和行为因素，但其相对重要性只有部分被我们所理解。对于那些跨性别男性（出生性别女性，但自我认同为男性）并接受性别肯定 ...",
+          "date": "2024年9月5日",
+          "position": 37
+        },
+        {
+          "title": "买激素比买毒药难中国跨女掀自杀潮",
+          "link": "https://zh.wikinews.org/zh-cn/%E8%B2%B7%E6%BF%80%E7%B4%A0%E6%AF%94%E8%B2%B7%E6%AF%92%E8%97%A5%E9%9B%A3_%E4%B8%AD%E5%9C%8B%E8%B7%A8%E5%A5%B3%E6%8E%80%E8%87%AA%E6%AE%BA%E6%BD%AE",
+          "snippet": "中国跨性别群体常常面临来自家庭和当局的双重压力，2022年12月，中国药监局公布禁止网上销售的药物名单，包括数种跨女常用的激素类药物。由于相关医疗资源 ...",
+          "date": "2024年9月15日",
+          "position": 38
+        },
+        {
+          "title": "跨性别女孩遭“性别扭转治疗”：被母亲送去注射电击 - 新浪新闻",
+          "link": "https://news.sina.cn/sh/2020-07-22/detail-iivhvpwx6751147.d.html",
+          "snippet": "基于世界跨性别健康专业协会的指南，该团队总结出一套针对跨性别者的序列治疗步骤，也称“性别工程”，分为心理咨询服务、激素治疗和性别重置手术三个阶段。而 ...",
+          "date": "2020年7月22日",
+          "position": 39
+        },
+        {
+          "title": "[PDF] 健康提示",
+          "link": "https://www.nyc.gov/assets/doh/downloads/pdf/ah/pride-and-care-tgncnb-sc.pdf",
+          "snippet": "供跨性别、非常规性别. 和非二元性别人士参考. 骄傲与保健：. 健康. 提示. Page 2. D ... 额外的睾酮会转化为雌. 激素，因而可能减慢您的性别转换。摄入. 过多的睪酮还会 ...",
+          "position": 40
+        },
+        {
+          "title": "[PDF] “我需要家长同意才能做自己”",
+          "link": "https://www.amnesty.org/en/wp-content/uploads/2021/05/ASA1702692019CHINESE.pdf",
+          "snippet": "报告侧重于个人在中国的公共卫生系统中寻求性别确认手术及激素疗法的经. 历。在此基础上，国际特赦组织总结出了此过程中的三大障碍，第一，中国的跨性别者严重缺乏进行 ...",
+          "position": 41
+        },
+        {
+          "title": "冈山大学证实低剂量激素疗法对跨性别男性的肌肉发育具有足够的 ...",
+          "link": "https://cn.univ-journal.net/244237/",
+          "snippet": "冈山大学的一个研究小组分析了跨性别男性因激素治疗而导致的身体成分变化，发现即使是低剂量激素疗法，从长远来看也能有效增加肌肉质量。低剂量激素疗法 ...",
+          "date": "2024年5月4日",
+          "position": 42
+        },
+        {
+          "title": "为了成为真正的女人，跨性别者拿激素当糖吃：不吃我会得抑郁",
+          "link": "https://m.huanqiu.com/article/9CaKrnKbqPj",
+          "snippet": "她们通过激素药物改变内分泌，从而让自己身体逐渐接近女性。 药娘们都是打针吃药让自己逐渐出现女孩子的特征的，而这些过程是很漫长而且痛苦的。而变性药物 ...",
+          "date": "2018年8月15日",
+          "position": 43
+        },
+        {
+          "title": "跨的旅程：跨性別的賀爾蒙治療 - 台灣基地協會",
+          "link": "https://www.gdi.org.tw/archives/17126",
+          "snippet": "跨性別女性（男跨女、MTF、跨女）則多是「口服」藥物，此外，因為跨女體內的負回饋機制不夠強烈，所以除了雌性荷爾蒙，還需要服用抗雄性激素藥物，待摘除男性性器官之後，便單獨 ...",
+          "position": 44
+        },
+        {
+          "title": "潘柏林：跨性别治疗很冷门，但TA们需要医学支持 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_8786958",
+          "snippet": "激素疗法：使用药物来增加体内性激素或阻断体内自身性激素，以达到第二性征的改变。如跨性别男性使用雄性激素类药物后长胡须、声音低沉；跨性别女性使用雌 ...",
+          "date": "2020年8月19日",
+          "position": 45
+        },
+        {
+          "title": "跨性别相关知识介绍",
+          "link": "https://mtf.lgbt/%E8%B7%A8%E6%80%A7%E5%88%AB%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86%E4%BB%8B%E7%BB%8D/",
+          "snippet": "transles: 跨性别女同性恋，指出生时性别指定为男性，性别认同为女性，性倾向也为喜欢女性的女同性恋者。 HRT: 激素替代疗法，能够一定程度上改变跨性别者的第 ...",
+          "date": "2020年6月4日",
+          "position": 46
+        },
+        {
+          "title": "接受激素治疗的成年跨性别者：50年内死亡率趋势调查 - 环球医学",
+          "link": "https://www.g-medon.com/Item/64581.aspx",
+          "snippet": "跨性别女性的心血管疾病、肺癌、HIV相关疾病和自杀的特定原因死亡率较高。在跨性别男性中，44人（2.7%）死亡，高于一般人群女性的预期值（SMR 1.8，95% CI 1.3～ ...",
+          "date": "2021年10月22日",
+          "position": 47
+        },
+        {
+          "title": "[PDF] 跨性别女性人群心理特征及相关行为分析* - 中国公共卫生",
+          "link": "https://www.zgggws.com/cn/article/pdf/preview/10.11847/zgggws1118684.pdf",
+          "snippet": "使用雌激素，占41.3 %。44 人使用过毒品，占27.5 %，. 其中29 人在使用毒品后与男性性伴发生过肛交性. 行为，占65.9 %。15 人因为跨性别受到过暴力或虐.",
+          "date": "2018年11月1日",
+          "position": 48
+        },
+        {
+          "title": "JCEM：一年跨性别激素治疗后变性人乳房发育情况-MedSci.cn",
+          "link": "https://www.medsci.cn/article/show_article.do?id=8cdf120989a5",
+          "snippet": "众所周知乳房是女性化的重要标志之一，因此对于变性人（男性到女性的变性人）而言相当重要。但是，目前关于在初始跨性别激素治疗（CHT）之后乳房什么时候 ...",
+          "date": "2017年11月21日",
+          "position": 49
+        },
+        {
+          "title": "跨性别激素治疗（THT）指南– 女性型 - 毅航实验室",
+          "link": "http://opengl106.oikawa.moe/2021/01/04/transgender-hormone-therapy-mtf-instructions/",
+          "snippet": "每1μg成功被生物利用的雌二醇会转化为0.8(pg/mL)·24h的雌二醇血浓度。 因此，要想维持雌二醇的最低限界——100pg/mL, 必须每日口服4mg以上雌二醇或其前体药。",
+          "date": "2021年1月4日",
+          "position": 50
+        },
+        {
+          "title": "跨性别选手今首次亮相奥运赛场：激素变性，曾是专业男运动员",
+          "link": "http://news.youth.cn/zc/202108/t20210802_13147644.htm",
+          "snippet": "现年43岁的哈伯德出生时是男性，在变性之前也曾作为男子运动员参加过比赛，十几年前退役。但在2013年，哈伯德开始接受激素疗法以转变性别，意图重新投入举重 ...",
+          "date": "2021年8月2日",
+          "position": 51
+        },
+        {
+          "title": "奥委会用激素水平决定“能否参加女子组比赛”，这合理吗？ - 读特",
+          "link": "https://m.dutenews.com/p/3426824.html",
+          "snippet": "跨性别男性则是在切除卵巢后，接受睾酮补充治疗，要求其血液的睾酮水平始终不超过顺性别男性的自然水平。 这些跨性别者的指标变化如下——. 就血液睾酮水平和 ...",
+          "date": "2021年8月6日",
+          "position": 52
+        },
+        {
+          "title": "激素替代治疗(HRT) 指的是通过摄入性激素或相关药物 - FtM.wiki",
+          "link": "https://ftm.wiki/zh-cn/hrt/",
+          "snippet": "激素替代治疗(HRT) 指的是通过摄入性激素或相关药物， 让跨性别者的第二性征能更贴近他们的性别认同， 体验所认同性别的生理状态，帮助接纳自我。 男性化激素治疗(MHT) 是一种 ...",
+          "position": 53
+        },
+        {
+          "title": "[PDF] 关于跨性别者和性别非二元人群的初级和性别肯定护理指南",
+          "link": "https://docs.transonline.org.cn/files/ucsf.pdf",
+          "snippet": "[1]一个对激素替代治疗对跨性别女性和跨性别男性的胰岛素. 抵抗的影响的研究发现，跨性别女性可能会出现胰岛素抵抗标志物的增加，而跨性别男性则没有变.",
+          "date": "2016年6月17日",
+          "position": 54
+        },
+        {
+          "title": "曼宁自称“女性”，要求激素治疗 - 纽约时报",
+          "link": "https://cn.nytimes.com/world/20130823/c23manning/",
+          "snippet": "两名精神科医生作证，曾为曼宁治疗过“性别认同障碍”，这种障碍是指患者对自己的性别有心理不适感。去年，美国精神医学学会(American Psychiatric Association) ...",
+          "date": "2013年8月23日",
+          "position": 55
+        },
+        {
+          "title": "科学家关注性别转变给运动表现带来的改变 - 科学网",
+          "link": "https://paper.sciencenet.cn/htmlnews/2018/8/416379.shtm",
+          "snippet": "2015年，她发表了第一篇关于跨性别运动员表现的研究报告，发现接受治疗降低睾丸激素水平的跨性别女性在与顺性别女性运动员的各种比赛中的表现并不比此前她们 ...",
+          "date": "2018年8月9日",
+          "position": 56
+        },
+        {
+          "title": "Nature | “女变男”跨性别者，在睾酮治疗期间免疫反应会趋向男性！",
+          "link": "https://bydrug.pharmcube.com/news/detail/27b7e0dd17a56f619c367dc763d360c2",
+          "snippet": "免疫系统的性别差异源于遗传、激素和行为因素，但其相对重要性只有部分被我们所理解。对于那些跨性别男性（出生性别女性，但自我认同为男性）并接受性别肯定睾酮治疗的人（即从 ...",
+          "position": 57
+        },
+        {
+          "title": "对非二元女性倾向跨性别者的激素治疗可能性的探索",
+          "link": "https://tfsci.mtf.wiki/zh-cn/articles/nonbinary-transfem-overview/",
+          "snippet": "睾酮的抑制和阻断. 如果非二元女性化激素治疗的目标仅仅是为了实现性别中立的外观，并且尽量减少或不出现女性化的体征；那么可采取去除睾酮、但不服用雌激素的方式。 对于 ...",
+          "position": 58
+        },
+        {
+          "title": "易性症(男转女)醋酸环丙孕酮与螺内酯抗雄激素的效果比较",
+          "link": "https://rs.yiigle.com/CN114657202205/1434019.htm",
+          "snippet": "易性症(transsexualism)又称跨性别(transgender)，是指个人在心理上无法认同自己的生理性别，而持续地相信并希望自己属于其他性别，包括易性症男性、易性 ...",
+          "date": "2022年10月15日",
+          "position": 59
+        },
+        {
+          "title": "跨性別女性化賀爾蒙療法 - 中國醫藥大學新竹附設醫院",
+          "link": "https://www.cmu-hch.cmu.edu.tw/NewsInfo/NewsArticle?no=2176",
+          "snippet": "跨性別賀爾蒙治療的關鍵原則是盡可能地達到與個人的所認同之性別環境，以減緩性別不安，這其中包括一些抑制的內源激素或替代療法的賀爾蒙。賀爾蒙療法會 ...",
+          "date": "2021年12月7日",
+          "position": 60
+        },
+        {
+          "title": "調查報道|中國跨性別女性的困境：買不到藥的「藥娘」",
+          "link": "https://www.rfa.org/cantonese/news/feature-transgender-04282023130725.html",
+          "snippet": "中國國家藥監局發布的《藥品網絡銷售禁止清單（第一版）》禁止了一些藥物的網絡銷售，包括醋酸環丙孕酮（一種常用的抗雄激素）和雌二醇（一種常用的雌激素）。",
+          "date": "2023年4月28日",
+          "position": 61
+        },
+        {
+          "title": "药娘_百度百科",
+          "link": "https://baike.baidu.com/item/%E8%8D%AF%E5%A8%98/19956523",
+          "snippet": "中文名. 药娘 · 外文名. Transsexual · 别名. 跨性别女性 · 生理性别. 男 · 心理性别. 女 · 精神医学分类. 跨性别 · 性取向. 多样 · 相关药物. 雌激素.孕激素.抗雄激素.",
+          "position": 62
+        },
+        {
+          "title": "跨性别: 如何安全注射激素 - Google Books",
+          "link": "https://books.google.com/books/about/%E8%B7%A8%E6%80%A7%E5%88%AB.html?id=hzGJAQAACAAJ",
+          "snippet": "Title, 跨性别: 如何安全注射激素. Contributor, 爱白文化教育中心. Publisher, 爱白文化教育中心, 2013. Length, 7 pages. Export Citation, BiBTeX EndNote RefMan ...",
+          "position": 63
+        },
+        {
+          "title": "女跨男性别肯定激素治疗中的免疫适应 - 楚雄州科学技术协会",
+          "link": "https://cxzkx.org.cn/wap_2018/file_read.aspx?id=9307",
+          "snippet": "近日，一项发表于《自然》（Nature）的研究报道称，跨性别男性（出生性别为女性）在性别肯定激素治疗期间，免疫反应会变得更像顺性别男性（出生性别为男性）。",
+          "date": "2024年9月25日",
+          "position": 64
+        },
+        {
+          "title": "跨性别女性理想激素水平是多少？-京东健康 - JD.com",
+          "link": "https://www.jd.com/pccontent/12055240",
+          "snippet": "一般跨性别女性理想值是把雄激素降到0.5毫克以下，雌激素是维持到100-200毫克之间。女性正常的生理的量也不会超过200毫克，只有在排卵前可以达到200-300毫克，最好是不要 ...",
+          "position": 65
+        },
+        {
+          "title": "激素替代疗法（男性到女性） - 知识库- Futarino",
+          "link": "https://futarino.online/t/%E6%BF%80%E7%B4%A0%E6%9B%BF%E4%BB%A3%E7%96%97%E6%B3%95%EF%BC%88%E7%94%B7%E6%80%A7%E5%88%B0%E5%A5%B3%E6%80%A7%EF%BC%89/1858",
+          "snippet": "从男性到女性（MTF）的激素替代疗法（HRT）是一种激素疗法和变性治疗的方式，通过进行这种治疗可以将跨性别者和易性者的第二性征从男或中性特征变成女性特征。",
+          "date": "2017年10月5日",
+          "position": 66
+        },
+        {
+          "title": "跨男的賀爾蒙置換療法（HRT）實用入門手冊 - Attaboy",
+          "link": "https://trans-attaboy.com/hrt-guidebook/",
+          "snippet": "相反地跨性別男性FtM則希望有男性特徵，因此會進行雄性賀爾蒙治療。其中使用的雄性激素多為睪固酮（Testosterone），因此又稱TRT （testosterone replacement ...",
+          "date": "2021年4月21日",
+          "position": 67
+        },
+        {
+          "title": "原创艾滋新知|| 跨性别激素治疗可改善艾滋病毒抑制情况 - 搜狐",
+          "link": "https://www.sohu.com/a/488042301_527250",
+          "snippet": "红枫湾APP：跨性别激素治疗（Transgender Hormone Therapy）是肯定跨性别者性别认同的一种卫生保健服务，透过外源性内分泌制剂的投药，使跨性别者身体的第 ...",
+          "date": "2021年9月6日",
+          "position": 68
+        },
+        {
+          "title": "巴黎奥运“性别风暴”：医学研究能解释对林郁婷等选手资格的质疑吗？",
+          "link": "https://www.bbc.com/zhongwen/simp/world-69254813",
+          "snippet": "DSD泛指一组约40种涉及基因、激素和生殖器官在子宫中发育与多数人不同的情况。换言之，这意味着DSD个人的性别发育与多数人不同。这些染色体异常虽然很罕见， ...",
+          "date": "2024年8月9日",
+          "position": 69
+        },
+        {
+          "title": "[PDF] 中国跨性别群体- 生存现状调查报告",
+          "link": "https://cnlgbtdata.com/files/uploads/2019/03/2017_%E4%B8%AD%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E7%BE%A4%E4%BD%93%E7%94%9F%E5%AD%98%E7%8E%B0%E7%8A%B6%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A-%E5%8F%AF%E8%A7%86%E5%8C%96.pdf",
+          "snippet": "其中跨性别女性和跨性. 别男性的需求比例最高，分别是88%和71%。仅有6%有激. 素治疗需求的跨性别者对目前国内激素治疗的总体情况表示. 满意。",
+          "position": 70
+        },
+        {
+          "title": "注射激素后出现副作用，美国女子不变性了…-观察者网",
+          "link": "https://www.guancha.cn/internation/2022_09_01_656202.shtml",
+          "snippet": "实际上，像卡廷森这样因为性别焦虑选择变性但最终却停止变性的人不在少数。今年6月，《纽约邮报》特别关注了“去性别转换者”中的青少年群体，报道称那些跨性别 ...",
+          "date": "2022年9月1日",
+          "position": 71
+        },
+        {
+          "title": "中国： 跨性别者冒着生命危险自行做高风险手术 - 国际特赦组织",
+          "link": "https://zh.amnesty.org/content-type/more-resources/news/china-transgender-research-report/",
+          "snippet": "21岁的跨性别女性姿佳*告诉国际特赦组织她为何开始激素疗法：“我渴望改变我的身体。我对自己的男性性征感到反感。药物带来的改变是渐进式的，但我马上就感觉 ...",
+          "date": "2019年5月10日",
+          "position": 72
+        },
+        {
+          "title": "LDB 女性荷爾蒙植物雌激素,適用於跨性別性別性別變化 - Amazon.com",
+          "link": "https://www.amazon.com/-/zh_TW/L-D-B-LDB-%E5%A5%B3%E6%80%A7%E8%8D%B7%E7%88%BE%E8%92%99%E6%A4%8D%E7%89%A9%E9%9B%8C%E6%BF%80%E7%B4%A0-%E9%81%A9%E7%94%A8%E6%96%BC%E8%B7%A8%E6%80%A7%E5%88%A5%E6%80%A7%E5%88%A5%E6%80%A7%E5%88%A5%E8%AE%8A%E5%8C%96/dp/B072HJJSGR",
+          "snippet": "L.D.B - LDB 女性荷爾蒙植物雌激素,適用於跨性別性別性別變化 ; 免費送貨 ;。18 小時44 分鐘 ; 或免費交付 11月5日星期二 ; 超過US$35 的由亚马逊配送的訂單 ; 數量：1.",
+          "position": 73
+        },
+        {
+          "title": "Nature重磅：睾酮治疗使“女变男”跨性别男性的免疫反应趋向男性",
+          "link": "https://news.qq.com/rain/a/20240908A04EP500",
+          "snippet": "免疫系统的性别差异是由遗传、激素和行为因素共同决定的，但对于跨性别男性在接受性别肯定睾酮治疗后，其免疫学后果尚未被充分理解。研究性别肯定激素 ...",
+          "date": "2024年9月8日",
+          "position": 74
+        },
+        {
+          "title": "泰药剂专家警示跨性别群体：“避孕药虽然有雌性激素 - 环球博讯",
+          "link": "https://www.wgi888.com/news/149970.html",
+          "snippet": "11月2日，专家们发出警告，不应将非处方避孕药用于性别转变的激素替代疗法（HRT），因为这可能会使跨性别者面临更高的健康风险。一位来自一所大学药剂学院 ...",
+          "date": "2023年11月2日",
+          "position": 75
+        },
+        {
+          "title": "王恒| 吾栖之肤：跨性别者的性别认同与具身实践——基于在北京市 ...",
+          "link": "http://www.shehui.pku.edu.cn/wap/second/index.aspx?nodeid=2030&page=ContentPage&contentid=10195",
+          "snippet": "“跨性别”被用来形容性别认同与出生时被指派性别不符的人，而未必需要跨性（transsexual），后者特指通过激素替代治疗、性别重置手术等手段使身体符合自己的性别认同的人。除了 ...",
+          "position": 76
+        },
+        {
+          "title": "跨性别人群生存困境调查：多数人有遭受校园暴力经历 - 新闻频道",
+          "link": "http://news.cctv.com/2020/02/22/ARTIJ5mYNQzX05v1IZiDuRoN200222.shtml",
+          "snippet": "《调查报告》表明，受访的跨性别者中，62%有激素治疗的需求，51%的有性别重置手术的需求。目前，仅有1%的跨性别者身份证件上标注的性别与姓名，已经更改为本人 ...",
+          "date": "2020年2月22日",
+          "position": 77
+        },
+        {
+          "title": "Purple Med | 跨性别女性如何变回自己",
+          "link": "https://wdkpurple.lgbt/post/2018-03-19-mtf/",
+          "snippet": "大部分跨性别在成年前或者青春期时意识到自己的性别认同和生理性别不一致。根据2013年的一项统计，大约0.3~0.5%的成年人是跨性别，正在或者已经接受激素疗法 ...",
+          "date": "2018年3月19日",
+          "position": 78
+        },
+        {
+          "title": "[PDF] 全球跨性别健康与幸福指数议题",
+          "link": "https://transrespect.org/wp-content/uploads/2018/12/TvT-PS-Vol20-2018_CN.pdf",
+          "snippet": "在南非和博. 茨瓦纳，跨性别者可获得医学监督的荷尔蒙替代治疗但是需要精神病学的诊. 断。南非只有两处医疗设备能够进行性别转换相关的手术。在东非国家，如卢旺. 达，乌干达， ...",
+          "position": 79
+        },
+        {
+          "title": "[PDF] 跨性别者性别认同的法律承认",
+          "link": "https://www.undp.org/sites/g/files/zskgke326/files/migration/asia_pacific_rbap/81e35c0bbe5b80d746519d11bb00d20cb33c8990b529c6664137bf2127ce73cd.pdf",
+          "snippet": "... 激素并不是建议跨性别女性采用的激素治疗形式。38 跨性别男性并没有等效的激素. 治疗补助形式。因此，部分跨性别者选择不服用性激素。 目前，关于性别肯定手术费用和激素 ...",
+          "position": 80
+        },
+        {
+          "title": "性别不一致和性别焦虑症 - 默沙东诊疗手册",
+          "link": "https://www.msdmanuals.cn/home/mental-health-disorders/gender-incongruence-and-gender-dysphoria/gender-incongruence-and-gender-dysphoria",
+          "snippet": "跨性别者是一个通用术语，它指代性身份或性别表达与出生时所指定性别相关典型性身份或性别表达不同的人。（变性人是一个过时的术语，不再被性身份专家使用。） 性别错位指性 ...",
+          "position": 81
+        },
+        {
+          "title": "在泰国男性变女性变性人（泰国人妖）中探索其功能性健康",
+          "link": "https://www.semanticscholar.org/paper/%E5%9C%A8%E6%B3%B0%E5%9B%BD%E7%94%B7%E6%80%A7%E5%8F%98%E5%A5%B3%E6%80%A7%E5%8F%98%E6%80%A7%E4%BA%BA%EF%BC%88%E6%B3%B0%E5%9B%BD%E4%BA%BA%E5%A6%96%EF%BC%89%E4%B8%AD%E6%8E%A2%E7%B4%A2%E5%85%B6%E5%8A%9F%E8%83%BD%E6%80%A7%E5%81%A5%E5%BA%B7%E3%80%81%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E5%8F%8A%E8%B7%A8%E6%80%A7%E5%88%AB%E6%BF%80%E7%B4%A0%E7%9A%84%E4%BD%BF%E7%94%A8-Louis-Gooren/6895d7306689c467050b957443e2e486bd3086f8",
+          "snippet": "变性人有时候服用跨性别的激素是没有遵循医嘱的。我们研究了泰国的城市清迈中男性变女性变性人（泰国人妖）的跨性别激素的使用，以及他（她）们的功能性健康，心理健康情况。",
+          "position": 82
+        },
+        {
+          "title": "跨性别选手今首次亮相奥运赛场：激素变性，曾是专业男运动员",
+          "link": "https://m.jfdaily.com/wx/detail.do?id=391971",
+          "snippet": "跨性别选手今首次亮相奥运赛场：激素变性，曾是专业男运动员 ... 现年43岁的哈伯德出生时是男性，在变性之前也曾作为男子运动员参加过比赛，十几年前退役。",
+          "date": "2021年8月2日",
+          "position": 83
+        },
+        {
+          "title": "跨性别者- مغايرة الهوية الجنسانية - UN Free & Equal",
+          "link": "https://www.unfe.org/zh/ar/know-the-facts/challenges-solutions/transgender",
+          "snippet": "性别认同不同于性取向(见概况介绍常见问题)。跨性别者可能有任何性取向，包括异性恋、同性恋、双性恋和无性恋。间性者——也就是出生 ...",
+          "position": 84
+        },
+        {
+          "title": "简体中文• 跨性别生育 - Fertility Associates",
+          "link": "https://www.fertilityassociates.co.nz/zh/%E8%B7%A8%E6%80%A7%E5%88%AB%E7%94%9F%E8%82%B2",
+          "snippet": "如果您出生时被指定为女性，并且已经开始接受男性化激素治疗，您可能希望考虑在开始卵子冷冻过程前三个月停止睾酮治疗。以前有人担心睾酮可能会影响您的身体对取卵所需药物的 ...",
+          "position": 85
+        },
+        {
+          "title": "跨性别男性激素治疗200天/效果小结 - bilibili",
+          "link": "https://www.bilibili.com/video/BV1EdpieDEvU/",
+          "snippet": "，隆胸后上班就没穿过男装了！，后续来了！男生做 会经历什么？，hrt三个月是一种什么体验？催更的看过来～，跨性别 ... 跨性别男性激素治疗200天/效果小结. _马马马 ...",
+          "date": "2024年9月8日",
+          "position": 86
+        },
+        {
+          "title": "有一个跨性别女孩前来买Bra，她很小心也很渴望被接纳 - BIE 别的",
+          "link": "https://www.biede.com/bie-girls/trans-girl-bra/",
+          "snippet": "去年9月，我决定开始接受跨性别激素治疗。在服用雌性激素和抗雄大约两个月之后，我发现胸部开始慢慢发育了。第一次用手感觉到自己的胸有了一点点点点 ...",
+          "date": "2022年8月9日",
+          "position": 87
+        },
+        {
+          "title": "不归路上的\"药娘\"：想变成女生吃药后果不可逆 - 新浪",
+          "link": "https://zx.sina.cn/sh/2021-08-25/zx-ikqcfncc4882855.d.html",
+          "snippet": "《中国跨性别群体生存现状调查报告》显示，最早发觉自己的性别认同不同于指派性别的年龄7-12岁者居多。62%的跨性别者有激素治疗的需求。一半以上的跨性别者 ...",
+          "date": "2021年8月25日",
+          "position": 88
+        },
+        {
+          "title": "声带截短术用于跨性别女性音调提升的疗效分析 - 中华医学期刊网",
+          "link": "https://rs.yiigle.com/CN115330202302/1445707.htm",
+          "snippet": "由于雄激素可以直接作用于喉部，改变喉的结构从而降低声调，因此跨性别男性服用睾酮1年以上，语音与普通男性无异 ［1］，不需要进一步干预。跨性别女性由于 ...",
+          "date": "2023年2月7日",
+          "position": 89
+        },
+        {
+          "title": "美全国大学校际体育协会基本禁止跨性别运动员参加女子赛事 - 美国之音",
+          "link": "https://www.voachinese.com/a/naia-all-but-bans-transgender-athletes-from-women-s-sports-ncaa-vows-to-ensure-fair-competition-20240408/7561911.html",
+          "snippet": "已经开始激素治疗的学生可以参加锻炼、练习和团队活动等活动，但不能参加校际比赛。 NAIA表示：“除了竞技啦啦队和竞技舞蹈之外，NAIA为男性和女性参与者设立 ...",
+          "date": "2024年4月9日",
+          "position": 90
+        },
+        {
+          "title": "科学家质疑世界田径联合会禁止跨性别女性参赛 - 论文- 科学网",
+          "link": "https://news.sciencenet.cn/htmlnews/2023/4/497940.shtm",
+          "snippet": "睾丸激素对运动表现很重要，因为它能增加肌肉质量、力量和血红蛋白水平。患有DSD的女运动员，通常比其他女性的睾丸激素水平更高。一般来说，未变性男性的睾酮 ...",
+          "date": "2023年4月6日",
+          "position": 91
+        },
+        {
+          "title": "重新雌激素兩年｜跨性別HRT經驗分享｜MTF - YouTube",
+          "link": "https://www.youtube.com/watch?v=Zc0KqBSuBeE",
+          "snippet": "重新雌激素兩年｜跨性別HRT經驗分享.",
+          "date": "2020年10月13日",
+          "position": 92
+        },
+        {
+          "title": "跨性别人群生存困境调查：多数人有遭受校园暴力经历 - 江西",
+          "link": "http://jx.people.com.cn/n2/2020/0222/c186330-33818908.html",
+          "snippet": "《调查报告》表明，受访的跨性别者中，62%有激素治疗的需求，51%的有性别重置手术的需求。目前，仅有1%的跨性别者身份证件上标注的性别与姓名，已经更改为本人 ...",
+          "date": "2020年2月22日",
+          "position": 93
+        },
+        {
+          "title": "中国第一个“跨性别门诊” - 36氪",
+          "link": "https://m.36kr.com/p/2838705615882887",
+          "snippet": "有些人没有正规的途径获取到激素药物，可能会接触私下兜售药物的群体。甚至有些孩子没有钱去买，被怂恿通过援交的交易，来获取这些药物。 还有人对自己的 ...",
+          "date": "2024年6月28日",
+          "position": 94
+        },
+        {
+          "title": "HIV嘅治疗药物或者PrEP会唔会同跨性别者服用嘅荷尔蒙激素产生 ...",
+          "link": "https://help.grindr.com/hc/en-us/articles/360013462574-HIV%E5%98%85%E6%B2%BB%E7%96%97%E8%8D%AF%E7%89%A9%E6%88%96%E8%80%85PrEP%E4%BC%9A%E5%94%94%E4%BC%9A%E5%90%8C%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85%E6%9C%8D%E7%94%A8%E5%98%85%E8%8D%B7%E5%B0%94%E8%92%99%E6%BF%80%E7%B4%A0%E4%BA%A7%E7%94%9F%E5%86%B2%E7%AA%81%E5%91%A2",
+          "snippet": "并非所有嘅跨性别者都会为咗性别认同而去将荷尔蒙激素作为相关医疗嘅一部分，但系仍然有好多人会咁做。目前嚟讲，所有形式嘅性激素治疗药物同PrEP之间都冇已知嘅互相冲突 ...",
+          "position": 95
+        },
+        {
+          "title": "跨性別者的骨骼健康與骨質疏鬆",
+          "link": "https://bonedavid.com/2633/",
+          "snippet": "對於跨性別女性（Trans Women），即生理性別為男性但性別認同為女性者，使用雌激素進行治療會導致骨骼密度的變化。研究顯示，雌激素治療通常不會引起顯著的骨質流失，尤其是在 ...",
+          "position": 96
+        },
+        {
+          "title": "跨性别者医美之路",
+          "link": "https://m.medsci.cn/article/show_article.do?id=ca77e84043e2",
+          "snippet": "跨性别者的医美提出了一项独特的美学任务，因为变性妇女可能寻求女性化，但美学目标可能不是实现女性气质或男性气质本身，而是获得最符合患者自我肯定的女性 ...",
+          "date": "2023年8月1日",
+          "position": 97
+        },
+        {
+          "title": "世界卫生组织国际临床试验注册平台一级注册机构",
+          "link": "https://www.chictr.org.cn/showproj.html?proj=182187",
+          "snippet": "比较雌激素凝胶制剂和口服片剂在跨性别女性性别确认激素治疗的有效性和安全性。 Objectives of Study：. To compare the effectiveness and safety of gel and oral ...",
+          "position": 98
+        },
+        {
+          "title": "跨性别男性激素治疗第一个月/初始状态 - bilibili",
+          "link": "https://www.bilibili.com/video/BV1Qz42197R2/",
+          "snippet": "跨性别男性激素治疗第一个月/初始状态. _马马马马_. 相关推荐. 查看更多. 跨性别怎么有xiong部的？个人术后分享. 6.8万 2. 4:17.",
+          "date": "2024年2月22日",
+          "position": 99
+        }
+      ],
+      "images": [
+        {
+          "title": "Nature：雄激素治疗后的跨性别男性，免疫系统被重塑- 生物研究专区- 生物谷",
+          "imageUrl": "https://msimg.bioon.com/bioon-com/20240905/b3aad900ba0e4f41a1942b440034aa28-W7RaKrR8bHFM.jpg",
+          "link": "https://news.bioon.com/article/b6b884204611.html"
+        },
+        {
+          "title": "医生知识【跨性别的“激素科技”泰国变性手术前的变更点】",
+          "imageUrl": "https://rubikhealth.com/storage/2815/transgender-01.jpg",
+          "link": "https://rubikhealth.com/zh/articles/interesting-doctors-fact-on-taking-hormones-for-transgender-turning-point-before-sex-reassignment-surgery-in-thailand"
+        },
+        {
+          "title": "女性化激素疗法- 维基百科，自由的百科全书",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Testosterone_levels_as_a_function_of_estradiol_levels_during_oral_estradiol_therapy_in_transgender_women.png/350px-Testosterone_levels_as_a_function_of_estradiol_levels_during_oral_estradiol_therapy_in_transgender_women.png",
+          "link": "https://zh.wikipedia.org/zh-cn/%E5%A5%B3%E6%80%A7%E5%8C%96%E6%BF%80%E7%B4%A0%E7%96%97%E6%B3%95"
+        },
+        {
+          "title": "PowerPoint 演示文稿",
+          "imageUrl": "x-raw-image:///be1ab4f642183636e636bfe7ce51a1bdc521cad1f899803c8cbb68d0e12f47f4",
+          "link": "https://cnlgbtdata.com/files/uploads/2020/04/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E8%B7%A8%E6%80%A7%E5%88%AB%E7%BE%A4%E4%BD%93%E6%BF%80%E7%B4%A0%E5%B9%B2%E9%A2%84%E8%8E%B7%E5%8F%96%E6%83%85%E5%86%B5%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A.pdf"
+        },
+        {
+          "title": "Nature：雄激素治疗后的跨性别男性，免疫系统被重塑- 生物研究专区- 生物谷",
+          "imageUrl": "https://msimg.bioon.com/bioon-com/20240905/c9931d93eabe4d62908088209bda52de-YdPsrOLDZ0iU.jpg",
+          "link": "https://news.bioon.com/article/b6b884204611.html"
+        },
+        {
+          "title": "Cross-sex Hormone Therapy 变性人的激素治疗- ศูนย์การแพทย์ธนบุรี ...",
+          "imageUrl": "https://thonburimedicalcenter.com/assets/img/upload/imgcn1683979574.jpg",
+          "link": "https://thonburimedicalcenter.com/cn/service/Sexual-Health/Cross-sex-Hormone-Therapy"
+        },
+        {
+          "title": "女性化激素疗法- 维基百科，自由的百科全书",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Testosterone_levels_with_estradiol_alone%2C_estradiol_plus_spironolactone%2C_and_estradiol_plus_cyproterone_acetate_in_transfeminine_people.png/350px-Testosterone_levels_with_estradiol_alone%2C_estradiol_plus_spironolactone%2C_and_estradiol_plus_cyproterone_acetate_in_transfeminine_people.png",
+          "link": "https://zh.wikipedia.org/zh-cn/%E5%A5%B3%E6%80%A7%E5%8C%96%E6%BF%80%E7%B4%A0%E7%96%97%E6%B3%95"
+        },
+        {
+          "title": "重新雌激素兩年｜跨性別HRT經驗分享｜MTF - YouTube",
+          "imageUrl": "https://i.ytimg.com/vi/Zc0KqBSuBeE/maxresdefault.jpg",
+          "link": "https://www.youtube.com/watch?v=Zc0KqBSuBeE"
+        },
+        {
+          "title": "北医三院性别医学诊疗团队：常用抗雄激素药物在中国跨性别女性中的有效 ...",
+          "imageUrl": "http://cdn.linkresearcher.com/hep98ias-o6cw-2n8q-7fhv-h41df6xq",
+          "link": "https://www.linkresearcher.com/theses/2c7653fc-0b0f-495d-89a4-7200d365295b"
+        }
+      ],
+      "peopleAlsoAsk": [
+        {
+          "question": "Gender Affirming是什么？",
+          "snippet": "跨性别 者通常透过荷尔蒙疗法、外科手术及其他 方式去改变身体，使身体尽可能符合他们 的心理性别认同。 这种透过医学方法去转 换性别的过程，一般称为性别重建(gender reassignment)，但最近也称为性别确认 (gender affirmation)。",
+          "title": "解答你的问题- 关于跨性别者",
+          "link": "https://www.apa.org/topics/lgbtq/chinese-simplified-transgender.pdf"
+        },
+        {
+          "question": "雄激素过高会怎么样？",
+          "snippet": "雄激素水平较高可能导致面部和身体毛发过多，即多毛症。 有时也可能出现严重痤疮和男性型脱发。 多囊卵巢。 卵巢可能会增大。",
+          "title": "多囊卵巢综合征（PCOS） - 症状与病因- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/diseases-conditions/pcos/symptoms-causes/syc-20353439"
+        },
+        {
+          "question": "Hormone Replacement Therapy是什么意思？",
+          "snippet": "激素替代治疗(Hormone replacement therapy，HRT)是指对存在雌激素缺乏的绝经后妇女补充雌激素及孕激素以缓解其更年期症状的治疗。",
+          "title": "激素替代治疗_百度百科",
+          "link": "https://baike.baidu.com/item/%E6%BF%80%E7%B4%A0%E6%9B%BF%E4%BB%A3%E6%B2%BB%E7%96%97/12728395"
+        },
+        {
+          "question": "HRT可逆吗？",
+          "snippet": "荷尔蒙替代疗法（Hormone replacement therapy/HRT） 其性质是部分可逆的。",
+          "title": "伴您同行 - Congregaytion",
+          "link": "https://www.congregaytion.com/ill-walk-with-you/zh"
+        }
+      ],
+      "relatedSearches": [
+        {
+          "query": "男服用雌激素"
+        },
+        {
+          "query": "雌激素药物副作用"
+        },
+        {
+          "query": "mtf用药指导"
+        },
+        {
+          "query": "雄激素高的症状"
+        },
+        {
+          "query": "雌雄 激素双 高"
+        },
+        {
+          "query": "mtf hrt变化"
+        },
+        {
+          "query": "雄激素药物"
+        },
+        {
+          "query": "雄激素不足"
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "跨性别 激素",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "世界卫生组织国际临床试验注册平台一级注册机构",
+          "link": "https://www.chictr.org.cn/showproj.html?proj=182187",
+          "snippet": "比较雌激素凝胶制剂和口服片剂在跨性别女性性别确认激素治疗的有效性和安全性。 Objectives of Study：. To compare the effectiveness and safety of gel and oral ...",
+          "position": 1
+        },
+        {
+          "title": "跨性别男性激素治疗第一个月/初始状态 - bilibili",
+          "link": "https://www.bilibili.com/video/BV1Qz42197R2/",
+          "snippet": "跨性别男性激素治疗第一个月/初始状态. _马马马马_. 相关推荐. 查看更多. 跨性别怎么有xiong部的？个人术后分享. 6.8万 2. 4:17.",
+          "date": "2024年2月22日",
+          "position": 2
+        },
+        {
+          "title": "男性混入女子拳击比赛？奥运历史上的性别鉴定难题| 歪脑WHYNOT",
+          "link": "https://www.wainao.me/wainao-reads/olympic-gender-verification-08072024",
+          "snippet": "为了平息各方争议，IOC于2012年出台了一项新的规定，用睾酮水平替代性别鉴定，不允许患有“高雄激素血症”（Hyperandrogenism）的运动员参加女子项目比赛。需要 ...",
+          "date": "2024年8月7日",
+          "position": 3
+        },
+        {
+          "title": "跨性别女性在中国：当“妳”只被允许成为“你” | 端传媒Initium Media",
+          "link": "https://theinitium.com/zh-hans/article/20230323-mainland-mtf-all-ask-for-is-a-chance-to-live",
+          "snippet": "MTF是male to female（注：也称男跨女或跨性别女性，指出生时指定性别为男性、自我认同为女性）的首字母缩写，中国大陆的跨性别女性在网路平台上倾向以此自称。",
+          "date": "2023年3月23日",
+          "position": 4
+        },
+        {
+          "title": "跨性别激素治疗后肌肉会消失吗？_视频频道 - 医联媒体",
+          "link": "https://www.yilianmeiti.com/video/i/18470.html",
+          "snippet": "跨性别激素治疗肌肉不会消失。 男性的身体变成女性的身体，肌肉肯定是会减少的，不然怎么能变成女性的身体。变成女生的身体之后，也不是可以不运动，也可以要去做一些相应 ...",
+          "position": 5
+        },
+        {
+          "title": "《Nature》变性人研究证明了男女的免疫系统有壁 - 生物通",
+          "link": "https://m.ebiotrade.com/newsf/2024-9/20240905071407531.htm",
+          "snippet": "变性人接受睾酮注射，作为性别确认激素治疗的一部分。 当变性人接受睾酮 ... 在他们的研究中，Holmberg和他的同事在三个时间点收集了23名跨性别 ...",
+          "date": "2024年9月6日",
+          "position": 6
+        },
+        {
+          "title": "激素- 维基词典，自由的多语言词典",
+          "link": "https://zh.wiktionary.org/zh-hans/%E6%BF%80%E7%B4%A0",
+          "snippet": "使用说明. 编辑. 主要使用跨性别男性，跨性别女性则多使用吃糖。",
+          "position": 7
+        },
+        {
+          "title": "Part 2 雌激素(Estrogens) - GAHT Guide",
+          "link": "https://docs.hrt.guide/parts/Part2.html",
+          "snippet": "人工合成雌激素，具有肝脏代谢抗性，在对雌激素调节的肝脏合成有不成比例的影响. 而这结果导致它们拥有更大的风险如: 血栓与心血管疾病. 同时因为风险原因以及在跨性别女性中 ...",
+          "position": 8
+        },
+        {
+          "title": "雄性激素疗法能“重新编程”跨性别男性乳房 - 领研网",
+          "link": "https://www.linkresearcher.com/theses/c2cffb8f-f1a7-421c-8a81-253c43a5b5e3",
+          "snippet": "研究人员在跨性别男性组织中发现，表达激素受体的细胞被雄性激素重新编程，然后这些细胞通过旁分泌信号传递将影响传递给附近的细胞。与顺性别女性细胞相比， ...",
+          "date": "2023年3月23日",
+          "position": 9
+        },
+        {
+          "title": "CHANGES 雌激素增強精華– MTF 性別改變反式LGBT 女性女性化",
+          "link": "https://www.amazon.com/-/zh_TW/CHANGES-%E9%9B%8C%E6%BF%80%E7%B4%A0%E5%A2%9E%E5%BC%B7%E7%B2%BE%E8%8F%AF-%E6%80%A7%E5%88%A5%E6%94%B9%E8%AE%8A%E5%8F%8D%E5%BC%8F-LGBT-%E5%A5%B3%E6%80%A7%E5%A5%B3%E6%80%A7%E5%8C%96/dp/B07J5LMJRC",
+          "snippet": "CHANGES 雌激素增強精華– MTF 性別改變反式LGBT 女性女性化 ; 購買兩件: $00$00 ; 材料 · Aqua、甘油蔬菜、山梨糖醇糖漿、大豆異黃酮、檸檬酸、山梨酸鉀、苯甲酸鈉、檸檬香料 ...",
+          "currency": "US$",
+          "price": 36.99,
+          "position": 10
+        },
+        {
+          "title": "东京奥运：位于话题中心的跨性别举重选手哈伯德 - BBC",
+          "link": "https://www.bbc.com/zhongwen/simp/world-58070558",
+          "snippet": "从男性转变为女性的过程本身会导致睾酮明显下降，已经有不同研究显示，这会对个人的运动能力和力量带来影响。 意大利跨性别短跑运动员佩特里罗（Valentina ...",
+          "date": "2021年8月3日",
+          "position": 11
+        },
+        {
+          "title": "跨性别女性HIV感染情况及其危险因素研究进展",
+          "link": "http://html.rhhz.net/zhlxbx/20151125.htm",
+          "snippet": "为达到快速效果，往往选择肌肉注射或静脉注射而非口服激素片，带来了注射激素所用的针具重复使用的问题，导致感染HIV的危险性增高。同时，由于激素和硅胶昂贵 ...",
+          "date": "2015年11月25日",
+          "position": 12
+        },
+        {
+          "title": "大型体育运动中有跨性别人士的位置吗？ - 俄罗斯卫星通讯社",
+          "link": "https://sputniknews.cn/20210621/1033934908.html",
+          "snippet": "直到现在，跨性别者要么根本不被允许参加比赛，要么受到很大限制。例如，在田径运动中的瑟梦雅（Caster Semen ）丑闻后——她的出色成就促使对她的性别进行调查— ...",
+          "date": "2021年6月21日",
+          "position": 13
+        },
+        {
+          "title": "【跨性别友善医生】我为什么建议大家激素治疗之前要考虑生育力保存",
+          "link": "https://www.bilibili.com/video/BV1ts4y1w7tM/",
+          "snippet": "ftm-激素前和激素后的肌肉变化 ... 【跨性别友善医生】私自进行激素治疗是一时爽还是闷声. 7.8万 117.",
+          "date": "2023年4月29日",
+          "position": 14
+        },
+        {
+          "title": "关注跨性别者多元需求—九院整复外科首次组织召开跨性别MDT会诊",
+          "link": "https://www.9hospital.com.cn/djy_web/html/djy/jy_xwgg_xwdt/2021-10-07/Detail_148580.htm",
+          "snippet": "在手术之前，他希望小A能定期到精神科治疗、随访，采用激素治疗缓解性别焦虑，并且采用女性打扮出现在父母、亲戚、朋友、同事面前，来“模拟”心理认同的性别 ...",
+          "date": "2021年10月7日",
+          "position": 15
+        },
+        {
+          "title": "跨性别运动员：体育界该如何对待？ - DW",
+          "link": "https://www.dw.com/zh/%E8%B7%A8%E6%80%A7%E5%88%AB%E8%BF%90%E5%8A%A8%E5%91%98%E4%BD%93%E8%82%B2%E7%95%8C%E8%AF%A5%E5%A6%82%E4%BD%95%E5%AF%B9%E5%BE%85/a-66982533",
+          "snippet": "尽管进行了使他们的身体与女性相似的激素治疗，但自认为是女性的跨性别人在力量和耐力方面仍然比女性有优势。因为：男性天生有更大的心脏和肺容量、更多的 ...",
+          "date": "2023年10月8日",
+          "position": 16
+        },
+        {
+          "title": "跨性别选手今首次亮相奥运赛场：激素变性曾是专业男运动员-新闻中心",
+          "link": "http://news.cnnb.com.cn/system/2021/08/02/030275315.shtml",
+          "snippet": "奥运会争夺如火如荼之际，跨性别运动员也在赛场上首次亮相。据法新社8月2日报道，跨性别举重选手劳蕾尔哈伯德（LaurelHubbard）将在今天代表新西兰参加 ...",
+          "date": "2021年8月2日",
+          "position": 17
+        },
+        {
+          "title": "BikerDuality on X: \"有些人说跨性别激素治疗的药物费用高昂,跨性别 ...",
+          "link": "https://twitter.com/BikerDuality/status/1594610323691950080",
+          "snippet": "有些人说跨性别激素治疗的药物费用高昂,跨性别激素治疗就是药企为了卖药创造的概念然而现实是目前所有的跨性别医疗药物都没有专利保护也没有任何跨 ...",
+          "date": "2022年11月21日",
+          "position": 18
+        },
+        {
+          "title": "跨性别者性别认同的法律承认—中国相关法律和政策评估报告 - Issuu",
+          "link": "https://issuu.com/undp-china/docs/_____________",
+          "snippet": "个要求有很大的问题，因为它使女同性恋，男同性恋和双性恋跨性别者无法进行性别肯定手术。它假定性取向和性别认同是连在一起的，而跨性别者不能被相同性别 ...",
+          "date": "2018年8月6日",
+          "position": 19
+        },
+        {
+          "title": "“药娘”是个怎样的群体？ 我们能为他们做些什么？ - 温州新闻网",
+          "link": "https://news.66wz.com/system/2021/12/21/105426896.shtml",
+          "snippet": "潘柏林称，跨性别群体的药物治疗需求很大，虽不见得非要吃激素药物，但通过自身和解的人少之又少，更多人还是通过吃药来减轻性别焦虑。 但由于大多数“药娘”迫 ...",
+          "date": "2021年12月21日",
+          "position": 20
+        },
+        {
+          "title": "性别不一致与性别焦虑- MSD诊疗手册专业版",
+          "link": "https://www.msdmanuals.cn/professional/psychiatric-disorders/gender-incongruence-and-gender-dysphoria/gender-incongruence-and-gender-dysphoria",
+          "snippet": "跨性别者和性别多样化是指性别认同与出生时指定性别不同的人的首选术语。变性欲是一个过时的术语，专家在性别不安研究中不再使用。 性别认同包括传统的男性气质或女性 ...",
+          "position": 21
+        },
+        {
+          "title": "跨性别: 如何安全注射激素; 校园欺凌stop! - Google Books",
+          "link": "https://books.google.com/books/about/%E8%B7%A8%E6%80%A7%E5%88%AB.html?id=JKmnngEACAAJ",
+          "snippet": "跨性别: 如何安全注射激素; 校园欺凌stop! : 校园性别/性向欺凌预防与应对; 基于性倾向和性别身份的校园欺凌在线问卷调查报告; 跨性别ABC ; 安全改变性别特征激素使用 ...",
+          "position": 22
+        },
+        {
+          "title": "【专题报道】“治疗”还是“酷刑”？联合国人权专家剖析针对性少数群体 ...",
+          "link": "https://news.un.org/zh/story/2020/07/1062101",
+          "snippet": "男女同性恋、双性恋者、跨性别或多性别者是世界 ... 目前的医学办法大多依靠药学办法，如药物或激素或类固醇疗法。据 ...",
+          "date": "2020年7月14日",
+          "position": 23
+        },
+        {
+          "title": "雄激素如何影响乳房组织的新认识 - 生物通",
+          "link": "https://m.ebiotrade.com/newsf/2023-3/20230309024712700.htm",
+          "snippet": "那些出生时被认定为女性而今天被认定为男性的跨性别男性可能会服用一种叫做雄激素的激素来诱导身体变化，帮助他们的外表与他们所认定的性别保持一致。雄 ...",
+          "date": "2023年3月10日",
+          "position": 24
+        },
+        {
+          "title": "活动人士抨击香港针对跨性别者的身份证性别更改政策 - 美国之音",
+          "link": "https://www.voachinese.com/a/activists-slam-new-hong-kong-id-card-policy-for-trans-people-20240403/7555703.html",
+          "snippet": "他们还必须证明，他们经历过性别不安，以自己想要的性别生活了至少两年，并将在余生中这样做，接受过激素治疗并将继续这些治疗。 尽管去年诉讼背后的 ...",
+          "date": "2024年4月4日",
+          "position": 25
+        },
+        {
+          "title": "第十二章激素治疗| SOC-8",
+          "link": "https://project-trans.org/SOC-8/soc8cn/section12.html",
+          "snippet": "跨性别和多元性别（TGD）人群可能需要医疗必要的性别肯定激素治疗（Gender-affirming hormone therapy, GAHT），以实现与其身体目标和/ 或性别认同相一致的 ...",
+          "date": "2024年10月26日",
+          "position": 26
+        },
+        {
+          "title": "中国性别肯定激素治疗研究(CGAHT)",
+          "link": "https://ichgcp.net/zh/clinical-trials-registry/NCT05318755",
+          "snippet": "关于跨性别医疗，尤其是性别肯定激素治疗（GAHT）的数据在中国极度不足。 很少有证据表明激素治疗对中国跨性别人群的生理和心理影响。",
+          "date": "2023年11月16日",
+          "position": 27
+        },
+        {
+          "title": "药娘- 抖音百科",
+          "link": "https://m.baike.com/wikiid/4053723590681559532",
+          "snippet": "属于跨性别群体 · 药娘，是指通过服用抗雄激素、雌激素与孕激素药物，将男性性征女性化的群体，是跨性别者中的MtF(Male to Female)一类，即生理男性却将自己认同为女性的性别认 ...",
+          "position": 28
+        },
+        {
+          "title": "跨性别女性健康指南：全方位呵护 - 家庭医生在线",
+          "link": "https://m.familydoctor.com.cn/202404/3056627.html",
+          "snippet": "跨性别女性的健康需求是多方面的，既包括生理层面的激素治疗管理，也涉及心理层面的支持和关怀。在日常生活中，通过均衡饮食、适量运动和充足睡眠等健康习惯， ...",
+          "date": "2024年4月3日",
+          "position": 29
+        },
+        {
+          "title": "药娘(跨性别女性) - 搜狗百科",
+          "link": "https://baike.sogou.com/v167609295.htm",
+          "snippet": "药娘，指通过服用或注射药物（包括但不限于雌性激素、抗雄性激素）等手段（不包括物理疗法如整形），使其生理状态（主要为体貌特征）接近女性的男性或双性别者（如真两性畸形和 ...",
+          "position": 30
+        },
+        {
+          "title": "该跨性别选手曾检出睾丸激素异常，并且DNA含有XY男性染色体 - 抖音",
+          "link": "https://www.douyin.com/video/7398491085724568858",
+          "snippet": "该跨性别选手曾检出睾丸激素异常，并且DNA含有XY男性染色体，你觉得这样公平吗？#巴黎奥运会#跨性别- 今日武进于20240802发布在抖音，已经收获了596个喜欢，来抖音， ...",
+          "position": 31
+        },
+        {
+          "title": "20岁出头竟然就更年期｜MTF跨性别HRT激素经验分享 - YouTube",
+          "link": "https://www.youtube.com/watch?v=5cKDIwKuiIk",
+          "snippet": "Share your videos with friends, family, and the world.",
+          "date": "2020年7月5日",
+          "position": 32
+        },
+        {
+          "title": "变性手术后要吃激素吗 - 有来医生",
+          "link": "https://m.youlai.cn/video/article/F5CED3UUOV.html",
+          "snippet": "跨性别者是否需要服用激素，其实也取决于患者对于自身接纳的程度。通常来讲，使用相反的性激素和自身内源性性激素的拮抗剂，能够减少自身性征的表达，同时可以增加对异性性 ...",
+          "position": 33
+        },
+        {
+          "title": "FTM 跨性別激素八個月變化總結 - YouTube",
+          "link": "https://www.youtube.com/watch?v=6Wj73gGudqw",
+          "snippet": "我來也！ 大致總結了一些激素八個月的變化激素的改變有正面和負面，效果程度因人而異僅供各位參考0:00 好久不見~ 0:25 長痘1:51 過敏?",
+          "date": "2020年11月10日",
+          "position": 34
+        },
+        {
+          "title": "要不要打生长激素长高？专家帮你解决“成长路上的难题” - 金羊健康",
+          "link": "https://health.ycwb.com/2024-11/02/content_53029440.htm",
+          "snippet": "值得注意的是，内分泌性矮小的患儿，可能合并其他垂体激素缺乏或器质性病变，因此需要看专科医生来鉴别诊断。 同时，张丽娜还强调，生长激素是一种药物，具有 ...",
+          "date": "1天前",
+          "position": 35
+        },
+        {
+          "title": "这5种药常用但不可“长用” - 新闻频道",
+          "link": "https://news.cctv.com/2024/10/30/ARTIHriQkwMMRlfurZusZshU241030.shtml",
+          "snippet": "此外，有些风湿性疾病或自身免疫性疾病需要长期使用低剂量的糖皮质激素维持治疗，这种情况应在医生指导下用药，千万不可擅自更改用药剂量，以免影响疗效或造成 ...",
+          "date": "5天前",
+          "position": 36
+        },
+        {
+          "title": "2024 iGEM全球总决赛落幕天大学子继续摘金夺铜",
+          "link": "https://news.tju.edu.cn/info/1003/72944.htm",
+          "snippet": "本次大赛汇集了来自全球各地逾400支队伍，天津大学三支参赛团队获得2金、1铜、1项单项奖提名的优秀成绩！ iGEM竞赛是合成生物学领域的国际顶级学术性竞赛， ...",
+          "date": "4天前",
+          "position": 37
+        },
+        {
+          "title": "孙金鹏劳模创新工作室进入山东省全员创新工作室前50强",
+          "link": "https://www.view.sdu.edu.cn/info/1022/196557.htm",
+          "snippet": "... 激素的膜受体亚家族，为减轻激素引起股骨头坏死的副作用提供了新的方向；明确了一系列重要疾病，如1型糖尿病，特应性皮炎等疾病新靶点，开发了一系列 ...",
+          "date": "2天前",
+          "position": 38
+        },
+        {
+          "title": "Information on Estrogen Hormone Therapy - UCSF Transgender Care",
+          "link": "https://transcare.ucsf.edu/article/information-estrogen-hormone-therapy",
+          "snippet": "Overview of Feminizing Hormone Therapy UCSF Transgender Care UCSF Health System University of California - San Francisco July, 2020 Hi, I'm Dr. Maddie ...",
+          "position": 39
+        },
+        {
+          "title": "三农梦中化化肥专题 - 新华网",
+          "link": "http://www.xinhuanet.com/energy/zt/2016nyzt/02.htm",
+          "snippet": "高品质，达到FCO标准，不含激素，不含氯。○ 溶解快，无残渣。 蓝力士新型高效环保肥料产品特点. 1进口肥料增效剂，微囊悬浮剂技术；2常温内嵌式添加，稳定性好。",
+          "date": "2024年9月23日",
+          "position": 40
+        },
+        {
+          "title": "我国银屑病患者近700万，治疗手段从传统向靶向时代加速转型 - 财经",
+          "link": "https://finance.eastmoney.com/a/202411023227121671.html",
+          "snippet": "传统治疗包括广谱的免疫抑制剂、糖皮质激素、阿维A等。魏爱华指出，这些 ... 跨年大妖就是它，股价低至3元，牛散张素芬埋伏777万股 · 股价低至4元 ...",
+          "date": "2天前",
+          "position": 41
+        },
+        {
+          "title": "跨性別者免術換證？ 難以手術與擔憂女性受害引正反論戰| 聯合新聞網",
+          "link": "https://udn.com/news/story/7272/8313619",
+          "snippet": "也有人認為金錢也是影響能否動變性手術的因素，「大部分沒辦法變性手術換證的人，沒錢沒時間就是最大的原因，以跨男來說，不太可能我都打激素了，平胸、子宮拿 ...",
+          "date": "2024年10月24日",
+          "position": 42
+        },
+        {
+          "title": "HRT停药后，身材会恢复回去吗？ - YouTube",
+          "link": "https://www.youtube.com/watch?v=jhLBzkcIMc4",
+          "snippet": "... 跨男的激素治疗，停药后因雄激素的撤退，身体脂肪和肌肉含量会重新分布，如果尚未切除卵巢，那么在雌激素 ... 【 從雨季走來—— 跨越性別後的風景】 跨性別者與家 ...",
+          "date": "2023年2月7日",
+          "position": 43
+        },
+        {
+          "title": "药学之窗| 激素药膏不可怕_山东卫生 - 健康",
+          "link": "https://health.dzwww.com/jkxw/shgz/202410/t20241031_15035369.htm",
+          "snippet": "通常，在医生口中的“激素类药物”一般情况下在没有特别指定时，是“肾上腺糖皮质激素类药物”的简称。激素类药物作为一种药效迅速明显但副作用同时也很严重的 ...",
+          "date": "4天前",
+          "position": 44
+        },
+        {
+          "title": "饮食干预对女性生殖健康的影响与未来研究展望 - 续航教育",
+          "link": "https://www.forwardpathway.com/135910",
+          "snippet": "酮饮食通过改善胰岛素敏感性和激素平衡，帮助许多女性恢复正常的月经周期，并在一些情况下成功怀孕 ... 庆祝土著文化与跨性别社区的重要性及其影响.",
+          "date": "19小时前",
+          "position": 45
+        },
+        {
+          "title": "医疗界神仙打架，探营进博会“最卷”展区 - 上观新闻",
+          "link": "https://www.shobserver.com/news/detail?id=814440",
+          "snippet": "今年9月在中国获批的达必妥（度普利尤单抗注射液）首次亮相进博会，是目前首个且唯一获批的慢性阻塞性肺疾病靶向治疗药物，用于治疗血嗜酸性粒细胞升高且控制 ...",
+          "date": "17分钟前",
+          "position": 46
+        },
+        {
+          "title": "美国大选前中文社区谣言横行，事实核查员们奋力追寻谣言源头 - 歪脑",
+          "link": "https://www.wainao.me/wainao-reads/chinese-fact-checkers-us-elections-rumor-10302024",
+          "snippet": "他也谈到加州无性别厕所中的小隔间设置，以确保隐私性。最后他列举了国际奥委会的规定，说明跨性别运动员参加女子组比赛时，需达到的激素水平标准等 ...",
+          "date": "4天前",
+          "position": 47
+        },
+        {
+          "title": "特朗普是美国政坛的正常人，三大原因促使马斯克全力支持特朗普 - 网易",
+          "link": "https://www.163.com/dy/article/JFFFI6QE05569XDK.html",
+          "snippet": "... 激素，切乳房等。这说明什么呢？这说明美国的教育界、法律界、医药界和政治界都在共同推动“跨性别”和“性别模糊”的意识形态。按照马斯克的说法，这就是 ...",
+          "date": "8天前",
+          "position": 48
+        },
+        {
+          "title": "這是我們的回應：... - 台灣性別不明關懷協會ISTSCare | Facebook",
+          "link": "https://www.facebook.com/istscareTW/posts/591205719925222?locale=zh_TW",
+          "snippet": "而且目前外表符合社會女性期待的跨性別者早就 使用這些空間。再者台灣有性騷擾防制法，該法懲罰的 是行為，就算今天有所謂的進入這些空間騷擾的行為， 也會 ...",
+          "date": "2024年10月18日",
+          "position": 49
+        },
+        {
+          "title": "FTM 跨性別雄激素給藥方式有幾種選擇呢?雄激素凝膠的 ... - YouTube",
+          "link": "https://www.youtube.com/watch?v=LEQzD1rfvJ0",
+          "snippet": "這支影片是7月的時候拍的，補上架的概念記得一定要透過正規管道、遵照醫囑用藥影片中的資訊是我在網路上蒐集的資料，如有錯誤歡迎留言補充#跨性別# ...",
+          "date": "2020年9月16日",
+          "position": 50
+        },
+        {
+          "title": "明星半导体企业面临“选择题” - 36氪",
+          "link": "https://36kr.com/p/3021283172410884",
+          "snippet": "... 激素疗法，保护女性健康| 瑞士创新100强. 打开. 分隔：整理大脑的5 种 ... 跨界并购”的方式实现资本化；对于科技属性较强，但尚处于早期发展阶段的 ...",
+          "date": "16小时前",
+          "position": 51
+        },
+        {
+          "title": "跨性别男性_哔哩哔哩 - Bilibili",
+          "link": "https://www.bilibili.com/video/av630099573/",
+          "snippet": "... 激素引起的声音变化（是女跨男哦），来自跨性别男性的感慨，跨性别男性-无奈被迫住女宿舍，一个特殊的男孩纸ftm，跨性别TV之临死前的幻想，【变性日记】 ...",
+          "date": "2021年4月16日",
+          "position": 52
+        },
+        {
+          "title": "2024iGEM全球总决赛落幕天津大学学子又摘金夺银 - 中宏网",
+          "link": "https://www.zhonghongwang.com/show-257-358562-1.html",
+          "snippet": "在蓝光照射下，该工程酵母可以高效生产褪黑激素，以改善宇航员睡眠 ... 跨学院、跨专业的多学科交叉团队——TJUSX，首次参赛就取得了银牌。TJUSX的 ...",
+          "date": "1天前",
+          "position": 53
+        },
+        {
+          "title": "今日辟谣（2024年10月28日） - 广州日报大洋网",
+          "link": "https://news.dayoo.com/china/202410/28/139997_54738593.htm",
+          "snippet": "①月经初潮年龄≤12岁；②绝经年龄≥55岁；③有乳腺活检史或乳腺良性疾病手术史，或病理证实的乳腺（小叶或导管）不典型增生病史；④使用“雌孕激素联合”的激素替代治疗 ...",
+          "date": "7天前",
+          "position": 54
+        },
+        {
+          "title": "乐健康| 喝苏打水能降尿酸吗？10月“科学”流言榜发布 - 中工网",
+          "link": "https://www.workercn.cn/c/2024-11-01/8383138.shtml",
+          "snippet": "1.脱脂奶比全脂奶更健康 · 2.发际线上移就是脱发 · 3.手机要等到电量全部用完再充电 · 4.喝弱碱性水能改变身体酸碱度 · 5.鸡蛋过敏的人不能接种流感疫苗 · 6.喝 ...",
+          "date": "3天前",
+          "position": 55
+        },
+        {
+          "title": "一到秋天就情绪低落？ - 上海科技报",
+          "link": "https://www.shkjb.com/content.html?id=236063",
+          "snippet": "季节变化：秋季日照时间减少，阳光强度减弱，气温下降，这些自然变化会导致人体生物钟紊乱和内分泌水平失调，影响与情绪调节相关的激素和递质的分泌，进而引发 ...",
+          "date": "3天前",
+          "position": 56
+        },
+        {
+          "title": "呵护大树守护生态-黑河新闻网 - 东北网",
+          "link": "https://heihe.dbw.cn/system/2024/11/01/059381293.shtml",
+          "snippet": "对于一些生长状况不佳的大树，采用先进的生物技术进行救治，如通过注射营养液、促进根系生长的激素等，增强大树的生命力。 ... 让产业动能要素集聚跨境特色 ...",
+          "date": "3天前",
+          "position": 57
+        },
+        {
+          "title": "红斑狼疮是绝症吗？澄清几大误区",
+          "link": "https://m.gmw.cn/2024-11/03/content_1303887974.htm",
+          "snippet": "目前红斑狼疮的治疗药物包括糖皮质激素、抗疟药物、传统免疫抑制剂、生物制剂和中医药等多种药物。“红斑狼疮是具有高度异质性的疾病。”魏蔚介绍，对于不同 ...",
+          "date": "17小时前",
+          "position": 58
+        },
+        {
+          "title": "对话一夜白头父亲：研三女儿患红斑狼疮，瘦到仅65斤 - 凤凰网",
+          "link": "https://news.ifeng.com/c/8e6SbpYJ09V",
+          "snippet": "同时，为控制病情，她将激素药量增加，从之前吃的半颗、一颗，加大至每天多颗 ... 起底老年业主遭暴打事件：居民举报了一年的违建问题，城管迟迟根治不了？ 跨省 ...",
+          "position": 59
+        },
+        {
+          "title": "沙特阿拉伯、马来西亚和泰国的进口乙醇胺继续征收反倾销税 - 新快报",
+          "link": "https://www.xkb.com.cn/articleDetail/353149",
+          "snippet": "... 性，以及对中国乙醇胺产业 ... 占全国1/6，广州跨境电商5大案例入选商务部外贸新业态优秀实践案例. 新快报. 2023-6-1 · 达罗他胺获批新适应症激素敏感性前列腺癌也可用了.",
+          "position": 60
+        },
+        {
+          "title": "进博会前瞻｜共享全球机遇，今年跨国药械企业带来哪些首发首展 ...",
+          "link": "https://wap.stockstar.com/detail/IG2024103000026924",
+          "snippet": "... 激素，为有需要的家庭提供更多元的助孕选择。 复星医药多款涵盖肿瘤 ... 相关阅读. 票价25元、半小时1班！广州南沙—深圳前海跨市公交开通首日记者实探.",
+          "date": "5天前",
+          "position": 61
+        },
+        {
+          "title": "一場容貌的「期末考」：他們在台灣同志遊行前一天爆炸 - 端傳媒",
+          "link": "https://theinitium.com/article/20241025-taiwan-appearance-anxiety-pride-parade",
+          "snippet": "為了讓體態變得更大隻，我吃過「SARMS」（選擇性雄激素受體調節劑 ... Transgender（跨性別）。 唯一的外型分類是Masc（指外型較陽剛的女同志 ...",
+          "date": "2024年10月25日",
+          "position": 62
+        },
+        {
+          "title": "上海发布三年行动方案，持续支持细胞与基因治疗、核酸药物",
+          "link": "https://bydrug.pharmcube.com/news/detail/cdce88572f8d2c43b732c59f2d6e7abb",
+          "snippet": "... 跨境并购、海外业务拓展专项贷款和新兴市场汇率套期保值等新产品，提供出口买方 ... 激素及所有免疫制剂. mRNA-LNP体内基因编辑疗法挺进3期临床 · 诺思兰德上海分 ...",
+          "position": 63
+        },
+        {
+          "title": "刚好一点就不吃了？重庆市药监局：这些药擅自停用后果严重 - 东方财富",
+          "link": "https://wap.eastmoney.com/a/202411023227191125.html",
+          "snippet": "以糖皮质激素为例，长期大剂量应用后，如果突然停药，可能会导致 ... 跨年大妖就是它，股价低至3元，牛散张素芬埋伏777万股 · 囤积现金创纪录 ...",
+          "date": "1天前",
+          "position": 64
+        },
+        {
+          "title": "气候变化对公共健康的影响及其性别差异的研究 - 续航教育",
+          "link": "https://www.forwardpathway.com/135945",
+          "snippet": "例如，女性在妊娠和更年期等生理阶段，体内激素水平的变化可能使她们对高温的耐受性降低。 ... 内华达大学的研究也强调了跨学科合作的重要性。通过与不同学科 ...",
+          "date": "16小时前",
+          "position": 65
+        },
+        {
+          "title": "Amazon白泥是哪儿的品牌(Amazon白泥好用吗？)-AMZ123跨境导航",
+          "link": "https://www.amz123.com/ask/rkZxQSxY",
+          "snippet": "... 激素成分。Amazon白泥净肤洁面乳，蕴含Amazon白泥，能温和轻柔地去除肌肤 ... 当然中性皮肤的人也可以放心使用，而如果皮肤太干的话还是建议选择 ...",
+          "date": "6天前",
+          "position": 66
+        },
+        {
+          "title": "冻存3年的卵巢移回体内，她恢复生育能力 - 金羊健康",
+          "link": "https://health.ycwb.com/2024-10/31/content_53022825.htm",
+          "snippet": "为了彻底消灭残存的癌细胞，她必须还要再经历放疗和化疗，尽管这可以提高她的肿瘤治愈率和生存率，但也几乎可以让她100%丧失卵巢功能，发生早发性卵巢功能不全 ...",
+          "date": "4天前",
+          "position": 67
+        },
+        {
+          "title": "红斑狼疮经正规治疗完全可控切勿谈“狼”色变-专题新闻 - 华商报",
+          "link": "http://hsb.hspress.net/system/2024/1031/224694.shtml",
+          "snippet": "张薇表示，患上系统性红斑狼疮后，患者最明显的症状是面颊出现“蝶形红斑”，即类似蝴蝶状的红斑横跨 ... 激素、抗疟药物、经典免疫抑制剂、生物制剂等多 ...",
+          "date": "4天前",
+          "position": 68
+        },
+        {
+          "title": "雄激素HRT半年的聲音變化紀錄| 跨性別ftm asia taiwan - YouTube",
+          "link": "https://www.youtube.com/watch?v=iXc0GSMgoHA",
+          "snippet": "跨性別#FTM #男性荷爾蒙#雄激素#LGBT #女跨男.",
+          "date": "2020年9月10日",
+          "position": 69
+        },
+        {
+          "title": "今日辟谣（2024年10月28日） - 茂名网",
+          "link": "https://www.mm111.net/2024/10/28/991451928.html",
+          "snippet": "①月经初潮年龄≤12岁；②绝经年龄≥55岁；③有乳腺活检史或乳腺良性疾病手术史，或病理证实的乳腺（小叶或导管）不典型增生病史；④使用“雌孕激素联合”的激素替代治疗 ...",
+          "date": "7天前",
+          "position": 70
+        },
+        {
+          "title": "第3297章魔幻现实-叶辰萧初然小说",
+          "link": "https://www.keledushu.com/book/119080/225243006.html",
+          "snippet": "... 激素的药物，说是要用药物来改变自己的激素，然后再通过手术改变自己的性别 ... 你既然跨了性别，那你就跟其他跨性别的人比赛，这样也公平公正嘛，体育竞技这东西 ...",
+          "position": 71
+        },
+        {
+          "title": "2024成都马拉松成功收官，百草园液体钙全面守护跑者骨骼健康",
+          "link": "https://m.takefoto.cn/news/2024/10/29/10951268.shtml",
+          "snippet": "此外，百草园液体钙还实现了0糖、0激素、0防腐的健康承诺，适合糖尿病、高血糖以及孕哺期等特殊人群使用，也保证了跑者在服用过程中的安全性和无负担感。",
+          "date": "6天前",
+          "position": 72
+        },
+        {
+          "title": "中国国家卫健委：怀孕使女性更聪明有四大好处 - 文学城",
+          "link": "https://www.wenxuecity.com/news/2024/10/30/125845056.html",
+          "snippet": "子宫肌瘤是一种雌激素依赖性的良性肿瘤，女性生育前，体内的雌激素水平 ... 美国一中餐馆遭抢劫，员工暴揍劫匪被控犯罪！ 施瓦辛格“跨党”支持贺锦丽：别又来4年鬼 ...",
+          "date": "4天前",
+          "position": 73
+        },
+        {
+          "title": "亚马逊白泥是一个品牌吗(亚马逊白泥净澈清洁泥膜好用吗) - AMZ123",
+          "link": "https://www.amz123.com/ask/7kdXN8Od",
+          "snippet": "跨境早报跨境百科跨境报告 · 全球开店 · 热门平台 · TikTok Shop ... 激素成分。亚马逊白泥净肤洁面乳，蕴含亚马逊白泥，能温和轻柔地去除 ...",
+          "date": "2天前",
+          "position": 74
+        },
+        {
+          "title": "雷神网游加速器-银行专线级游戏加速器,按分钟计费可暂停,免费试用",
+          "link": "https://www.leigod.com/",
+          "snippet": "雷神加速器,使用金融级内网传输专线,网络游戏加速效果显著,小巧简洁加速速度快免费试用,玩家用户/网吧专用版本使用按分钟计费,不用可随时暂停时间,买一次相当于长久 ...",
+          "position": 75
+        },
+        {
+          "title": "新药上市频传佳音科创板创新药企业加快推动研发成果兑现 - 凤凰网财经",
+          "link": "https://finance.ifeng.com/c/8e3Us26Hwus",
+          "snippet": "初步统计，今年以来，科创板创新药公司中已有首药控股的康太替尼、百济神州的泽尼达妥单抗、特宝生物的怡培生长激素 ... 90后教授“跨界”，3年吸金数亿元 · 特朗普与哈里斯决战七 ...",
+          "position": 76
+        },
+        {
+          "title": "Cancer Discovery携手BioArt推出肿瘤前沿中国专刊：中国癌症科研 ...",
+          "link": "https://www.163.com/dy/article/JG2EFRMS0532BT7X.html",
+          "snippet": "机体由下丘脑-垂体-性腺(HPG) 轴和下丘脑-垂体-肾上腺(HPA) 轴两大激素依赖性轴控制。这是由激素调节介导的经典器官间相互作用的途径。激素在广泛的生理 ...",
+          "date": "23小时前",
+          "position": 77
+        },
+        {
+          "title": "皮膚長出小肉芽，愈來愈多好難看！皮膚贅疣原因治療解析（圖文懶 ...",
+          "link": "https://www.careonline.com.tw/2023/05/skin-tag.html",
+          "snippet": "懷孕的時候體內的生長激素濃度較高，也容易亦有研究發現，體重過重者、本身有糖尿病、有胰島素阻抗性、血中胰島素過高的患者，比較容易長出來這些小小的皮膚 ...",
+          "date": "2023年5月8日",
+          "position": 78
+        },
+        {
+          "title": "一週三次輕鬆跳可抗老！史丹佛健身權威：每次10分鐘就有效",
+          "link": "https://money.udn.com/money/story/5648/8332377",
+          "snippet": "由於更年期女性，因雌激素下降，往往會導致最高兩成的骨質流失。專家認為她們更 ... 跨足戲劇電影：每份工作，堅持10年都是不容易的 · 曾姿雯去年已與陳啟昱離婚友 ...",
+          "position": 79
+        },
+        {
+          "title": "4 Tips：How to turn a MALE to FEMALE - YouTube",
+          "link": "https://www.youtube.com/watch?v=dAB3LChKgLs",
+          "snippet": "... 激素平衡來促使自己女性化所以特地製作一部影片， ... 【人生轉角】砍掉那話兒女模愛里撕怪物標籤救跨性別族群| 蘋果新聞網.",
+          "date": "2019年7月20日",
+          "position": 80
+        },
+        {
+          "title": "她是9枚金牌的冠军，却被教练下药终身不育 - 阿波罗网",
+          "link": "https://www.aboluowang.com/2024/1103/2124371.html",
+          "snippet": "为了参加高水平比赛,春兰在教练的\"专业指导\"下服用了一些特殊的\"营养品\",但实际上那里面暗藏着大量雄性激素成分。 ... “美国小姐”预赛,诞生首位跨性别冠军( ...",
+          "date": "1天前",
+          "position": 81
+        },
+        {
+          "title": "上海夫婦婚後3年不育檢查揭男方「少樣嘢又多樣嘢」 - 星島日報",
+          "link": "https://std.stheadline.com/realtime/article/2030591/%E5%8D%B3%E6%99%82-%E4%B8%AD%E5%9C%8B-%E4%B8%8A%E6%B5%B7%E5%A4%AB%E5%A9%A6%E5%A9%9A%E5%BE%8C3%E5%B9%B4%E4%B8%8D%E8%82%B2-%E6%AA%A2%E6%9F%A5%E6%8F%AD%E7%94%B7%E6%96%B9-%E5%B0%91%E6%A8%A3%E5%98%A2%E5%8F%88%E5%A4%9A%E6%A8%A3%E5%98%A2",
+          "snippet": "院方為患者檢查後，發現他原來是她，該男患者確診為「先天性腎上腺皮質增生症」，即生理上是女性。該病屬於性發育異常（DSD）疾病，患者因腎上腺分泌過量雄激素， ...",
+          "date": "2024年10月20日",
+          "position": 82
+        },
+        {
+          "title": "阿斯利康进场时间超五小时，国谈第二天有哪些看点？ - 健康- 大众网",
+          "link": "https://health.dzwww.com/jkxw/news/202410/t20241029_15021320.htm",
+          "snippet": "... 激素或其他系统治疗应答不充分的12岁及以上慢性移植物抗宿主病患者(主要在血液科使用)，此前获得国家药监局突破性品种认证。 绿叶制药今年的过审品种 ...",
+          "date": "6天前",
+          "position": 83
+        },
+        {
+          "title": "凉兮大元帅（Trump） on X: \"赵长鹏奶子咋能么大？我看起来这不像 ...",
+          "link": "https://x.com/liangxihuigui/status/1852239814885883969",
+          "snippet": "... 怀疑赵长鹏在干预美国大选，他正在吃激素药让胸部发育变成跨性别者，暗示他支持哈里斯，这样特朗普落选，币圈集体大跌，他的bnb也会暴跌，这样到时候bnb亏钱.",
+          "date": "3天前",
+          "position": 84
+        },
+        {
+          "title": "混血天菜白梓軒演出《妮波自由式》 激情戲「快被榨乾」",
+          "link": "https://tw.news.yahoo.com/%E6%B7%B7%E8%A1%80%E5%A4%A9%E8%8F%9C%E7%99%BD%E6%A2%93%E8%BB%92%E6%BC%94%E5%87%BA-%E5%A6%AE%E6%B3%A2%E8%87%AA%E7%94%B1%E5%BC%8F-%E6%BF%80%E6%83%85%E6%88%B2-%E5%BF%AB%E8%A2%AB%E6%A6%A8%E4%B9%BE-084802275.html",
+          "snippet": "... 跨海請到中英混血型男白梓軒飾演。為了演活林思宇飾演的肉食女Pony心中的暈船對象，同時又能讓廣大異性戀女性觀眾雌激素 ... 男女的新型態情感價值觀 ...",
+          "date": "3天前",
+          "position": 85
+        },
+        {
+          "title": "「晟德」的搜尋結果 - 工商時報",
+          "link": "https://www.ctee.com.tw/search/%E6%99%9F%E5%BE%B7",
+          "snippet": "該藥物可與促性腺激素釋放激素拮抗劑（GnRH antagonist）合併使用，實現控制性 ... 晟德指出，豐華的明星菌株獲得FDA GRAS等國際認證，今年初也完成啟用全新的ODM廠。 2024.04.22.",
+          "position": 86
+        },
+        {
+          "title": "NMN是什麼？哪些神奇功效、副作用，促成這場大騙局？",
+          "link": "https://goodmood.com.tw/nmn/",
+          "snippet": "因各國法規不同有使用爭議的保健食品，如：褪黑激素、漢麻萃取CBD、銀杏 ... 跨領域合作，創建豐富心理保健知識內容。專為壓力大、高焦慮的現代 ...",
+          "date": "2024年4月21日",
+          "position": 87
+        },
+        {
+          "title": "一年交往八個！跨性別女生究竟適合找什麼樣的對象？ - YouTube",
+          "link": "https://www.youtube.com/watch?v=IBOhWeKYcSQ",
+          "snippet": "100个文/理科生朋友｜跨性别夫妇：拥抱自己拥抱世界【梦想家021】 ... 重新雌激素兩年｜跨性別HRT經驗分享｜MTF. 汪欣蕾Lacey•185K views · 46:50.",
+          "date": "8天前",
+          "position": 88
+        },
+        {
+          "title": "《黑客帝国》是一部跨性别寓言吗？原计划和角色变化解释",
+          "link": "https://thenexus.one/zh/%E3%80%8A%E9%BB%91%E5%AE%A2%E5%B8%9D%E5%9B%BD%E3%80%8B%E6%98%AF%E4%B8%80%E9%83%A8%E8%B7%A8%E6%80%A7%E5%88%AB%E5%AF%93%E8%A8%80%E5%90%97%EF%BC%9F%E5%8E%9F%E8%AE%A1%E5%88%92%E5%92%8C%E8%A7%92%E8%89%B2/",
+          "snippet": "许多跨性别者能够在在线空间中找到支持和社区，就像尼奥找到了三位一体和船员一样尼布甲尼撒通过他的电脑。尼奥第一次在现实世界中醒来可以被解释为某种第 ...",
+          "date": "6天前",
+          "position": 89
+        },
+        {
+          "title": "再沒錢都要買的保養品！品牌透露：連續五年保養品5成業績最多是買 ...",
+          "link": "https://tw.news.yahoo.com/%E5%86%8D%E6%B2%92%E9%8C%A2%E9%83%BD%E8%A6%81%E8%B2%B7%E7%9A%84%E4%BF%9D%E9%A4%8A%E5%93%81-%E5%93%81%E7%89%8C%E9%80%8F%E9%9C%B2-%E9%80%A3%E7%BA%8C%E4%BA%94%E5%B9%B4%E4%BF%9D%E9%A4%8A%E5%93%815%E6%88%90%E6%A5%AD%E7%B8%BE%E6%9C%80%E5%A4%9A%E6%98%AF%E8%B2%B7-%E7%9C%BC%E9%9C%9C-%E6%A0%B9%E6%9C%AC%E6%88%90%E7%82%BA%E8%B7%A8%E4%B8%96%E4%BB%A3%E6%9C%80%E4%B8%8D%E5%8F%AF%E6%B4%BB%E7%BC%BA%E4%BF%9D%E9%A4%8A%E5%93%81-092518612.html",
+          "snippet": "... 激素分泌減少，不但會導致睡不好， ... 品牌透露：連續五年保養品5成業績最多是買「眼霜」，根本成為跨世代最不可活缺保養品！！",
+          "date": "2024年9月19日",
+          "position": 90
+        },
+        {
+          "title": "【愛里】HRT藥物「四種」錯誤迷思 - YouTube",
+          "link": "https://www.youtube.com/watch?v=_qANqGBki90",
+          "snippet": "LGBTQ姊妹常常透過雌激素改變自身，但卻沒有完整資料說明結果為何？ ... 跨性別姊妹#HRT #變性#出櫃#LGBTQ+ #跨性別#愛里#變性手術0:00 HRT歷程0 ...",
+          "date": "2020年6月17日",
+          "position": 91
+        },
+        {
+          "title": "可穿戴生物传感器：女性荷尔蒙监测系统 - 360Doc",
+          "link": "http://www.360doc.com/content/24/1101/20/15266844_1138239645.shtml",
+          "snippet": "在月经周期中，雌二醇向下丘脑-垂体-卵巢轴提供反馈，以调节黄体生成素的产生和排卵。除了在性发育中发挥重要作用外，它还显著影响男性和女性的主要器官，包括 ...",
+          "date": "2天前",
+          "position": 92
+        },
+        {
+          "title": "第3297章魔幻現實-上門龍婿",
+          "link": "https://www.keledushu.com/zh_hant/book/118028/225243003.html",
+          "snippet": "... 激素的藥物，說是要用藥物來改變自己的激素，然後再通過手術改變自己的性別 ... 你既然跨了性別，那你就跟其他跨性別的人比賽，這樣也公平公正嘛，體育競技這東西 ...",
+          "position": 93
+        },
+        {
+          "title": "又双叒上热搜！喝豆浆到底会不会导致乳腺增生？ - 意昂体育",
+          "link": "http://www.fyutm1.com/html/96c999899.html",
+          "snippet": "马丙娥解释道，“因为豆制品中含有大豆异黄酮，大豆异黄酮可以与雌激素受体结合，发挥雌激素样作用，调节内源性雌激素，也称植物雌激素。 ... 跨境理财通”试点券商.",
+          "date": "20小时前",
+          "position": 94
+        },
+        {
+          "title": "賀爾蒙治療三年變化縮時3 YEARS ON TESTOSTERONE - YouTube",
+          "link": "https://www.youtube.com/watch?v=4OyYVUBRFh0",
+          "snippet": "「雌激素」多不得少不能！ 拿捏難、補充得醫囑. TVBS NEWS•28K views ... Transgender Equality Hong Kong 香港跨性別平權協會•11K views · 2:54 · Go ...",
+          "date": "2023年5月19日",
+          "position": 95
+        },
+        {
+          "title": "出現狐臭、毛量爆增！跨性別者分享打男性荷爾蒙變化｜變性｜女跨男",
+          "link": "https://www.youtube.com/watch?v=d2_T9p8FMIg",
+          "snippet": "▷ETtoday新聞雲：https://www.ettoday.net/ #掉髮#狐臭#女跨男#男性荷爾蒙#跨性別 ... 【出圈】跨性别者：我愿用三分之二生命换女性身份Transgender: I Would ...",
+          "date": "2022年11月12日",
+          "position": 96
+        },
+        {
+          "title": "跨性別紀錄|關於荷爾蒙治療 - YouTube",
+          "link": "https://www.youtube.com/watch?v=6mc9k7Yy25g",
+          "snippet": "建議大家使用低劑量的雌激素，長期服用高劑量會發現肌肉與骨骼慢慢的過度生長，我HRT後面越吃越高真的越來越醜，屈螺酮會比安德卡來的好些，安嚴重致鬱。",
+          "date": "2021年6月24日",
+          "position": 97
+        },
+        {
+          "title": "吃藥變大奶?女性荷爾蒙大全之已變性手術男跨女紀錄 - YouTube",
+          "link": "https://www.youtube.com/watch?v=2VVjAovKJyw",
+          "snippet": "... 跨性別#男跨女#LGBT. ... 跨性別 #男跨女 #LGBT. 吃藥變大奶?女性荷爾蒙大全之已變性手術男跨女紀錄. 110K views · 5 years ago #變性 #巨乳 #大奶",
+          "date": "2019年7月16日",
+          "position": 98
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

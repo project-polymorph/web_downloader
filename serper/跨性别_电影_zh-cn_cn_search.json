@@ -1,0 +1,1308 @@
+{
+  "query": "跨性别 电影",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-03T23:48:48.384431",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "跨性别 电影",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "跨性别Transgender电影和记录片 - 豆瓣",
+          "link": "https://m.douban.com/doulist/110223504/",
+          "snippet": "跨性别Transgender电影和记录片 · 艳倒群雌 · 阿莉芙 · 跨性别名单 · 人妖杀千刀 · 我们女性 · 第三性的祕密世界第一季 · 美丽拳王 · 普通女人.",
+          "position": 1
+        },
+        {
+          "title": "分类:跨性别题材电影 - 维基百科",
+          "link": "https://zh.wikipedia.org/zh-cn/Category:%E8%B7%A8%E6%80%A7%E5%88%A5%E9%A1%8C%E6%9D%90%E9%9B%BB%E5%BD%B1",
+          "snippet": "分类“跨性别题材电影”中的页面. 以下29个页面属于本分类，共29个页面。 A. 神探飞机头. B. 黎明不會來. C. 芭蕾少女夢 · 康妮和卡拉 ...",
+          "position": 2
+        },
+        {
+          "title": "跨性别题材影视作品 - 豆瓣",
+          "link": "https://m.douban.com/doulist/138047360/",
+          "snippet": "跨性别题材影视作品 · 放浪男孩 · 人生密密缝 · 为己而生 · 女孩 · 午夜天鹅 · 女子的生活 · 普通女人 · 丹麦女孩.",
+          "position": 3
+        },
+        {
+          "title": "跨性别现身日|11部跨性别电影推荐给你 - 搜狐",
+          "link": "https://www.sohu.com/a/306015852_821497",
+          "snippet": "本文介绍了近年来11部跨性别主题电影，并且自带部分资源，祝观影愉快！ 《任何事物》.",
+          "date": "2019年4月4日",
+          "position": 4
+        },
+        {
+          "title": "《翠丝》：一个中年跨性别者的选择 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_2671259",
+          "snippet": "《翠丝》是中国第一部跨性别题材电影。 这是一部中国版《丹麦女孩》，. 主角是一个50岁的中年男子，有妻有子，. 突然有一天跟家里人说自己要变性，.",
+          "date": "2018年12月5日",
+          "position": 5
+        },
+        {
+          "title": "電影中的跨性別",
+          "link": "https://transgender.taipei/%E9%9B%BB%E5%BD%B1%E4%B8%AD%E7%9A%84%E8%B7%A8%E6%80%A7%E5%88%A5/",
+          "snippet": "看見影視作品中的跨性別由關注議題的夥伴們推薦口袋片單，邀請你一起欣賞豐富多元的生命故事搖滾芭比Hedwig and the Angry Inch 2000 小男孩海德維的自我性別認同， ...",
+          "position": 6
+        },
+        {
+          "title": "同性恋、跨性别者和黑人，曾经的边缘电影如何走向主流？ - QQ News",
+          "link": "https://news.qq.com/rain/a/20221230A07C3W00",
+          "snippet": "《杰森的画像》 （Portrait of Jason）是银幕史上最早的聚焦黑人同性恋者的电影之一。 在受访者卡尔·李的帮助下，导演近乎拜物教式地，以主导性的白人凝视展开 ...",
+          "date": "2022年12月30日",
+          "position": 7
+        },
+        {
+          "title": "《翠丝》：香港首部跨性别电影，如何冲破性别认同的荆棘？ - 网易",
+          "link": "https://www.163.com/dy/article/EEGRN73P0525DPBO.html",
+          "snippet": "而与《冷剑心》不同的是，《翠丝》中袁富华饰演的“打铃哥” 作为一个跨性别者，是借由舞台上旦角的女装扮相来实现对自我女性心理身份的认同。他在打工的酒楼 ...",
+          "date": "2019年5月6日",
+          "position": 8
+        },
+        {
+          "title": "宝莱坞拍了一部跨性别题材电影，却激怒了一批真正的跨性别者 - 全知识",
+          "link": "https://m.allhistory.com/ah/article/5fa7db637bf619410c47fb8c",
+          "snippet": "最近，一部名为《吉祥天女》（Laxmii）的宝莱坞即将上映。这是一部由拉格哈瓦·劳伦斯（Raghava Lawrence）执导的喜剧恐怖片，讲述了一个男人被跨性别女性的鬼魂附身的故事。",
+          "position": 9
+        },
+        {
+          "title": "高中生自费拍“跨性别”电影校方认为题材敏感超前 - 新华网",
+          "link": "http://news.xinhuanet.com/politics/2017-07/24/c_1121367227.htm",
+          "snippet": "影片《逃离》讲述的是一名跨性别高中生对自我性别的探索。所谓的“跨性别者”（transgender）指的是心理性别与生理性别不一致、不认同自己生理性别的人。影片 ...",
+          "date": "2017年7月24日",
+          "position": 10
+        },
+        {
+          "title": "高中生自费拍“跨性别”电影校方认为题材敏感超前 - 人民政协网",
+          "link": "http://www.rmzxb.com.cn/c/2017-07-24/1674733.shtml",
+          "snippet": "影片《逃离》讲述的是一名跨性别高中生对自我性别的探索。所谓的“跨性别者”（transgender）指的是心理性别与生理性别不一致、不认同自己生理性别的人。影片 ...",
+          "date": "2017年7月24日",
+          "position": 11
+        },
+        {
+          "title": "日本跨性别电影有哪些 - 抖音",
+          "link": "https://www.douyin.com/search/%E6%97%A5%E6%9C%AC%E8%B7%A8%E6%80%A7%E5%88%AB%E7%94%B5%E5%BD%B1%E6%9C%89%E5%93%AA%E4%BA%9B",
+          "snippet": "您在查找日本跨性别电影有哪些吗？抖音综合搜索帮你找到更多相关视频、图文、直播内容，支持在线观看。更有海量高清视频、相关直播、用户，满足您的在线 ...",
+          "date": "2024年8月28日",
+          "position": 12
+        },
+        {
+          "title": "中国高中生拍电影，直面青年跨性别者的身份境遇 - 纽约时报",
+          "link": "https://cn.nytimes.com/china/20170821/china-transgender-film-school/",
+          "snippet": "北京高中学生自导自演的电影《逃离》，讲述的是中国年轻跨性别人士的故事。该片小范围播放之后引发好评和争议。18岁导演胡然然希望将来改变中国电影和 ...",
+          "date": "2017年8月21日",
+          "position": 13
+        },
+        {
+          "title": "高中生拍“跨性别”电影《逃离》引发热议褒贬不一",
+          "link": "https://www.guancha.cn/society/2017_07_24_419641.shtml?web",
+          "snippet": "据北京青年报7月24日报道，在暑假刚刚过去的这一周里，一部由中学生自制的电影，近日在学生中放映。影片名为《逃离》，镜头对准的是性少数人群（LGBTQ），整 ...",
+          "date": "2017年7月24日",
+          "position": 14
+        },
+        {
+          "title": "人大附中跨性别电影《逃离》 - Bilibili",
+          "link": "https://www.bilibili.com/video/BV1Dx411b7wU/",
+          "snippet": "... 跨性别题材短片《六月》，《旅途》 跨性别短片2014柏林LGBT影展最佳短片，跨性别者怒抓小三：独特口味的《橘色》竟被评为死前必看，跨性别电影《只是 ...",
+          "date": "2017年8月23日",
+          "position": 15
+        },
+        {
+          "title": "2020台北電影節必關注的「跨性別」片單！七部挑戰感官底線的電影 ...",
+          "link": "https://www.harpersbazaar.com/tw/culture/filmandmusic/g32795046/2020-taipei-film-festival-lgbtq-films/",
+          "snippet": "2020台北電影節必關注的「跨性別」片單！七部挑戰感官底線的電影帶你遊走人性道德邊界 · 2020台北電影節「跨性別」片單：《曼哈頓戀舞曲》 · 《曼哈頓戀舞曲》 ...",
+          "date": "2020年6月8日",
+          "position": 16
+        },
+        {
+          "title": "跨性別電影",
+          "link": "https://www.tgr.org.hk/index.php/zh/media-library/trans-movies",
+          "snippet": "2017 Close-Knit 當他們認真編織時 · 2015 Vergine Giurata 還我女兒身 · 2015 The Danish Girl 丹麥女孩 · 2014 The New Girlfriend 女朋友的女朋友.",
+          "date": "2017年10月21日",
+          "position": 17
+        },
+        {
+          "title": "电影：跨性别名单2016 - 搜狐视频",
+          "link": "https://tv.sohu.com/item/MTI5ODU0NQ==.html",
+          "snippet": "搜狐视频为您提供关于(跨性别名单)的高清视频在线观看、剧情内容介绍、以及周边的一切，包括(跨性别名单)的图片、预告片、拍摄花絮、影讯、相关新闻及评论等。",
+          "position": 18
+        },
+        {
+          "title": "高中生自费拍“跨性别”电影未能入选电影节，校方认为题材太超前 - 搜狐",
+          "link": "https://www.sohu.com/a/161253221_117319",
+          "snippet": "这些天，一部名为《逃离》的影片在学生中放映，这是一部对准性少数人群(LGBTQ)的影片，而这一题材既新锐又敏感的电影，竟出自一群中学生。",
+          "date": "2017年8月1日",
+          "position": 19
+        },
+        {
+          "title": "4分钟看完2015跨性别电影 - 新浪",
+          "link": "https://k.sina.cn/article_7216288300_m1ae1fd22c00100ngic.html?from=movie",
+          "snippet": "... 跨性别电影. ... 4分钟看完2015跨性别电影. 小天使星座 +关注 免流量看视频. 收藏 超清 点赞 分享. 请输入评论内容 取消发布. 0; 1; 2; 3; 4; 5.",
+          "position": 20
+        },
+        {
+          "title": "现身、污名、起舞，好莱坞的跨性别人生_百科TA说",
+          "link": "https://wapbaike.baidu.com/tashuo/browse/content?id=82c735fad6e0692a5af719d3",
+          "snippet": "电影人们以前所未有、令人大开眼界的方式，反思好莱坞和大众传媒如何反映和制造我们对性别的深层焦虑。 1. 笑料、杀人犯、性工作者. 影像里的跨儿. “自打有 ...",
+          "date": "2021年4月1日",
+          "position": 21
+        },
+        {
+          "title": "祈求同情，或被包装：这些年的港产片这样写性小众群体 - 歪脑",
+          "link": "https://www.wainao.me/wainao-reads/lgbtq-in-hongkong-movies-20201116",
+          "snippet": "李骏硕导演作品《翠丝》海报。（网络图片） · 电影《女人就是女人》讲述了两位跨性别女性的故事。（网络图片）.",
+          "date": "2020年11月16日",
+          "position": 22
+        },
+        {
+          "title": "25 部电影庆祝国际LGBTQ+ 骄傲日 - Showmetech",
+          "link": "https://www.showmetech.com.br/zh-CN/%E5%BA%86%E7%A5%9D-lgbtq-%E9%AA%84%E5%82%B2%E7%9A%84-25-%E9%83%A8%E7%94%B5%E5%BD%B1/",
+          "snippet": "由制成Netflix公司，这部纪录片记录了这位传奇跨性别活动家的生与死玛莎·约翰逊（Marsha P. Johnson） 谈到它的历史重要性和悲惨的死亡，这部电影描绘了石墙起义中一位真正的 ...",
+          "position": 23
+        },
+        {
+          "title": "跨性别电影逃离-抖音",
+          "link": "https://www.douyin.com/zhuanti/7182460776391657512",
+          "snippet": "您在查找“跨性别者电影”吗？抖音短视频，帮你找到更多精彩视频内容！让每一个人看见并连接更大的世界，让现实生活更美好。",
+          "date": "2022年12月30日",
+          "position": 24
+        },
+        {
+          "title": "戛纳颁奖礼上的美国三代电影人、首位跨性别影后 - RFI",
+          "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20240526-%E6%88%9B%E7%BA%B3%E9%A2%81%E5%A5%96%E7%A4%BC%E4%B8%8A%E7%9A%84%E7%BE%8E%E5%9B%BD%E4%B8%89%E4%BB%A3%E7%94%B5%E5%BD%B1%E4%BA%BA-%E9%A6%96%E4%BD%8D%E8%B7%A8%E6%80%A7%E5%88%AB%E5%BD%B1%E5%90%8E-%E5%8D%B0%E5%BA%A6%E7%94%B5%E5%BD%B1%E6%97%B6%E9%9A%9430%E5%B9%B4%E4%BA%AE%E7%9C%BC%E5%9B%9E%E5%BD%92",
+          "snippet": "戛纳颁奖礼上的美国三代电影人、首位跨性别影后、 印度电影时隔30年回归. 第77届戛纳电影节昨晚（5月25日）闭幕，美国导演肖恩·贝克的《阿诺拉》意外斩获金 ...",
+          "date": "2024年5月26日",
+          "position": 25
+        },
+        {
+          "title": "北京高中生拍摄跨性别电影《逃离》引争议，你怎么看？",
+          "link": "http://xayffy.com/wap/content/?1301.html",
+          "snippet": "《逃离》时长75分钟，由人大附中37名学生一同拍摄完成。该片讲述了一个变形高中学生的生活，对中国学校里的跨性别群体进行了一次深入的探讨，对中国性教育的缺陷表达了质疑。",
+          "position": 26
+        },
+        {
+          "title": "一部看完让你隐隐作痛的电影，关于性别认知障碍者的深刻认识。 - 新浪",
+          "link": "https://k.sina.cn/article_3162448131_bc7f210302700gqsf.html",
+          "snippet": "一部看完让你隐隐作痛的电影，关于性别认知障碍者的深刻认识。 ... 电影描绘的正是一个15岁男孩想要变成女孩的心路历程，也就是一位transgender（跨性别者）的 ...",
+          "date": "2019年5月7日",
+          "position": 27
+        },
+        {
+          "title": "[PDF] 從當代電影看亞洲跨性別人士的困局",
+          "link": "https://commons.ln.edu.hk/cgi/viewcontent.cgi?article=1209&context=chi_diss",
+          "snippet": "29 何春蕤：《跨性別》（台灣：中央大學性／別研究室，2003），頁22。 30 電影以「阿利芙」代表以男性身份出主角，「阿莉芙」代表以女性身份，「莉」有較 ...",
+          "position": 28
+        },
+        {
+          "title": "跨性别电影-哔哩哔哩_Bilibili",
+          "link": "https://m.bilibili.com/search?keyword=%E8%B7%A8%E6%80%A7%E5%88%AB%E7%94%B5%E5%BD%B1",
+          "snippet": "富家千金遇上了一个特别的女孩，女孩特别的就连性别都不一样！ · 跨性别电影《只是查理》她并不是异类，只是灵魂被装错了身体 · 【假小子】一个隐瞒性别的“小正太”，童年时期经历 ...",
+          "position": 29
+        },
+        {
+          "title": "没有在大陆上映的电影#每日推荐电影#跨性别者#电影解说#电影#7块",
+          "link": "https://m.huya.com/video/play/1016344018.html",
+          "snippet": "一部关于跨性别者，没有在大陆上映的电影#每日推荐电影#跨性别者#电影解说#电影#7块,视频播放量88,点赞量3,收藏量0,转发人数0,订阅量3,7块的电影,孤独的幸存者#一个片段 ...",
+          "position": 30
+        },
+        {
+          "title": "Five Films for Freedom 2024线上影展 - 英国文化教育协会",
+          "link": "https://www.britishcouncil.cn/programme/arts/five-films-for-freedom",
+          "snippet": "全球影响最广的性少数群体（同性恋、双性恋、跨性别者、酷儿、间性者、无性者）主题影片线上展映活动——“关于自由的五部电影”（Five Films For Freedom）将于3月13日回归，为 ...",
+          "position": 31
+        },
+        {
+          "title": "镜中自己- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E5%90%8C%E9%80%94%E5%A5%B9%E6%98%AF%E4%BB%96",
+          "snippet": "本片试图传达伊朗的跨性别者的处境，并附注伊朗每20万人即有一名跨性别者，伊朗虽是世界少数变性合法的国家，但仍受保守社会的压迫与不宽容，呼吁尊重多元性别。",
+          "position": 32
+        },
+        {
+          "title": "7部為LGBTQ+權益鋪路的酷兒電影必看！把跨越性別的愛帶進鎂光燈下",
+          "link": "https://www.vogue.com.tw/entertainment/article/lgbtq-movie",
+          "snippet": "雖然並不是賣座大片，但金柏莉皮爾斯Kimberly Peirce的《男孩別哭Boys Don't Cry》是第一部把焦點放在跨性別男性經驗的電影。當時還沒沒無聞的希拉蕊史旺 ...",
+          "date": "2020年3月27日",
+          "position": 33
+        },
+        {
+          "title": "多元与包容电影节活动 - Shenyang, China",
+          "link": "https://shenyang.consulate.gov.au/snygchinese/FilmFestivelDecmber3.html",
+          "snippet": "电影拍摄于1994年，讨论的是同性恋者、跨性别者在那个年代是如何自处，如何待人，又是怎样被大众所看待的。事实上，澳大利亚一直致力于展现多元与包容。澳洲在2017年通过了同性 ...",
+          "position": 34
+        },
+        {
+          "title": "人大附中学生拍“性少数者”电影，一个被绝大多数家长回避的话题该 ...",
+          "link": "https://www.jiemodui.com/N/82106.html",
+          "snippet": "昨晚，电影《逃离》在北京放映。 这是一部将镜头对准性少数人群（LGBTQ）的影片，主人公是这一群体里的『跨性别者』。 更为特别的是，这是一部由北京中学生 ...",
+          "date": "2017年7月24日",
+          "position": 35
+        },
+        {
+          "title": "跨性別電影| LalaTai 拉拉台",
+          "link": "https://lalatai.com/tags/%E8%B7%A8%E6%80%A7%E5%88%A5%E9%9B%BB%E5%BD%B1",
+          "snippet": "勇於活出真我！《哈樂黛的愛與死》訴傳奇爵士女伶比莉哈樂黛動人故事 · 改編自「傳奇爵士女伶」比莉哈樂黛（Billie Holiday）傳奇人生的電影《哈樂黛的愛與死》（The United ...",
+          "position": 36
+        },
+        {
+          "title": "跨性别！2017年最大胆的台湾LGBT电影_百科TA说",
+          "link": "https://wapbaike.baidu.com/tashuo/browse/content?id=e3ce1325376470e731416f1e",
+          "snippet": "《阿莉芙》是蔓菲联尔创意制作有限公司出品，海鹏电影Reel Suspects发行，由王育麟执导，王育麟、徐华谦、陈慧玲等编剧，舞炯恩·加以法利得、赵逸岚、吴朋奉、 ...",
+          "date": "2020年2月27日",
+          "position": 37
+        },
+        {
+          "title": "影史上30部最佳LGBT电影 - MVCAT",
+          "link": "https://www.mvcat.com/movies/3317.html?_d_id=1a3f7425e4786c74a6096e124bea14",
+          "snippet": "影史上30部最佳LGBT电影LGBT是女同性恋者（Lesbians）、男同性恋者（Gays）、双性恋者（Bisexuals）与跨性别者（Transgender）的英文首字母缩略字。1990年代，由于“同性恋社群” ...",
+          "position": 38
+        },
+        {
+          "title": "3部跨女/女同纪录片：谁来定义，什么是“女性”？｜2023台湾国际女性 ...",
+          "link": "https://theinitium.com/zh-hans/article/20231017-culture-woman-make-waves-international-film-festival-transgender",
+          "snippet": "这部由非裔跨性别者D.Smith以超低成本完成的长片首作，不但对性少数群体和美国非裔女性的整体地位都有惊人洞察力，更有作品之外令人倍感唏嘘的残忍结局：片中 ...",
+          "date": "2023年10月17日",
+          "position": 39
+        },
+        {
+          "title": "【行動代號跨性別：電影中的跨性別】 | 台灣同志諮詢熱線協會",
+          "link": "https://hotline.org.tw/blog/3192",
+          "snippet": "文/陳宏瑋（波昂刺刺）. 許多人不知道，「跨性別」一詞最早出現在華語電影，來自2006年的臺灣電影《盛夏光年》。上了高中的的康正行（張睿家飾演），情慾萌發摸索 ...",
+          "date": "2022年3月31日",
+          "position": 40
+        },
+        {
+          "title": "《姿态》：一部拍给白人看的黑人跨性别主题美剧 - 界面新闻",
+          "link": "https://www.jiemian.com/article/2377433_qq.html",
+          "snippet": "瑞恩·墨菲（Ryan Murphy），一个白人男同性恋，生理性别、性别认同与社会角色完全相符。这位导演聚集起有史以来最大规模的跨性别演员，拍出了一季电视好戏 ...",
+          "date": "2018年8月22日",
+          "position": 41
+        },
+        {
+          "title": "必然「可憐」又必然可敬：跨性別電影《迷失安狄》的成功與困境",
+          "link": "https://www.thenewslens.com/article/146930",
+          "snippet": "必然「可憐」又必然可敬：跨性別電影《迷失安狄》的成功與困境 ... 台中人，念性別研究的厭世者。覺得人生好難。 ... 本文將探討2021年初上映、由臺灣／馬來西亞 ...",
+          "date": "2021年2月14日",
+          "position": 42
+        },
+        {
+          "title": "李李仁在《迷失安狄》挑战跨性别者本地10月“爱与自豪”电影节放映",
+          "link": "https://www.zaobao.com.sg/entertainment/story20220930-1318073",
+          "snippet": "台湾男星李李仁挑战演出跨性别者的《迷失安狄》，以及金马奖得奖片《我的灵魂是爱做的》等片，将在今年的“爱与自豪”（Love & Pride）电影节推出。",
+          "date": "2022年9月30日",
+          "position": 43
+        },
+        {
+          "title": "高中生跨性别电影《逃离》观影会",
+          "link": "https://wx.duohui.co/event/1371",
+          "snippet": "这样一个在当下仍旧较为敏感的话题，被一群高中生们用电影的方式呈现了出来。为了了解跨性别，导演胡然然研究了众多相关电影和纪录片，亲自去往跨性别中心，和跨性别者交流、 ...",
+          "position": 44
+        },
+        {
+          "title": "跨性别女性电影-西瓜视频搜索",
+          "link": "https://m.ixigua.com/s/%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E6%80%A7%E7%94%B5%E5%BD%B1",
+          "snippet": "跨性别女性电影. 正在热播. 义勇义勇. 抗日. 导演：宫晓东. 演员：巍子/赵龙豪/张洪睿/刘芊含/俞颖/赵小锐/姚安濂/郭旺/井上朋子/冢越博隆/陈旺林/迟国栋/司钦朝克 ...",
+          "position": 45
+        },
+        {
+          "title": "在愛之前，人人平等！10部今年不能錯過的LGBTQ電影 - 天下雜誌",
+          "link": "https://www.cw.com.tw/article/5102529",
+          "snippet": "... 電影裡看見自己。 LGBTQ-同志-跨性別-酷兒-性別平等-電影-片 電影讓觀眾對LGBTQ（女同志、男同志、雙性戀、跨性別者、酷兒或正在摸索自己性向的人 ...",
+          "date": "2020年10月30日",
+          "position": 46
+        },
+        {
+          "title": "一部讲述跨性别的电影，内容禁忌又敏感，可惜很多人只看到尺度 ...",
+          "link": "https://www.bilibili.com/video/BV1zo4y1g7i7",
+          "snippet": "一部关于道德与人性的电影，母亲认贼做子，以生命完成爱的救赎55441681722153824 ... 女孩的 ...\n时长： 2:31\n发布时间： 2023年5月26日",
+          "date": "2023年5月26日",
+          "position": 47
+        },
+        {
+          "title": "《VICTOR XX》导演Ian Garrido Lopez专访| 性别与种族 ... - 电影节网",
+          "link": "http://www.ff1895.com/post.show?post_id=1218",
+          "snippet": "Ian：影片灵感来源于我个人的感受和性格。创作那部影片的时候，我刚刚开始我的跨性别转变。所以当时我最想做的就是创作一部影片，让 ...",
+          "position": 48
+        },
+        {
+          "title": "为跨性别群体拍摄电影的高中生：关注少数群体探寻自我 - 中国新闻网",
+          "link": "https://www.chinanews.com.cn/m/cul/2017/09-07/8324981.shtml",
+          "snippet": "为跨性别群体拍摄电影的高中生电影《逃离》讲述了一个为性取向而困惑的男孩儿寻找自我的故事。",
+          "date": "2017年9月7日",
+          "position": 49
+        },
+        {
+          "title": "【跨性別紀念日TDoR｜特別企劃】10部跨性別電影書籍推薦",
+          "link": "https://vvnlens.com/tdor/",
+          "snippet": "【跨性別紀念日TDoR｜特別企劃】10部跨性別電影書籍推薦 · 1. 《豔放80》POSE · 2. 《當他們認真編織時》 · 3. 《午夜天鵝》 · 4. 《迷失安狄》Miss Andy.",
+          "date": "2021年11月28日",
+          "position": 50
+        },
+        {
+          "title": "若林佑马将在他以跨性别者身份执导的电影《52赫兹鲸鱼》的脱口秀 ...",
+          "link": "https://almostjp.com/zh-CN/news/20240408/",
+          "snippet": "若林佑马将在他以跨性别者身份执导的电影《52赫兹鲸鱼》的脱口秀放映会上登台。",
+          "date": "2024年4月8日",
+          "position": 51
+        },
+        {
+          "title": "性别与中国电影 - Google Books",
+          "link": "https://books.google.com/books/about/%E6%80%A7%E5%88%AB%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1.html?id=YS4jMwEACAAJ",
+          "snippet": "... 电影与性别的多元视角,四篇文章对上世纪二三十年代上海电影,'红色经典'电影的改编,\"秦颂\"和\"英雄\"等秦始皇素材电影以及\"霸王别姬\"中的跨性别表演进行了全新的分析和 ...",
+          "position": 52
+        },
+        {
+          "title": "2024年电影行业性别平等状况 - 世界经济论坛",
+          "link": "https://cn.weforum.org/agenda/2024/04/https-www-weforum-org-agenda-2024-03-oscars-film-industry-gender-parity-cn/",
+          "snippet": "研究显示，奥斯卡奖的性别不平等现象反映了更广泛的电影行业乃至整个社会的性别不平等趋势。 在2023年票房收入最高的100部电影中，只有30部电影的主演和联合 ...",
+          "date": "2024年4月13日",
+          "position": 53
+        },
+        {
+          "title": "从他者到自我:电影《翠丝》中跨性别者身份认同的选择困境 - 维普网",
+          "link": "http://www.cqvip.com/qk/84094x/202001/7101647884.html",
+          "snippet": "《翠丝》是2019年第38届金像奖提名电影,是华语影坛首部关注到“跨性别”题材的电影。影片不仅关注跨性别者在性别表达过程中遇到的困境,更把视角拓展到这一群体所生存的 ...",
+          "position": 54
+        },
+        {
+          "title": "20年后,回顾一下跨性别电影《男孩别哭》 - 亚小懂",
+          "link": "https://www.yaxiaodong.com/cinecism/412.html",
+          "snippet": "1993年，跨性别男性布兰登·蒂纳（BrandonTeena）在美国被谋杀，那一年他21岁，在被谋杀的前一周，他遭到…",
+          "date": "2023年10月6日",
+          "position": 55
+        },
+        {
+          "title": "人大附中学生拍跨性别电影，父母反对，但被美国名校看中 - 网易",
+          "link": "https://www.163.com/dy/article/CQP2T2JE05148UNS.html",
+          "snippet": "这个片段来自《逃离》，一部由人大附中高中生自费拍摄的电影。电影中，跨性别者张望安从逃避自我、发现自我，到最终接受自我。",
+          "date": "2017年8月1日",
+          "position": 56
+        },
+        {
+          "title": "跨性别者的现实生活，这类题材电影注定走不进院线 - 网易",
+          "link": "https://www.163.com/v/video/VHNP30TP1.html",
+          "snippet": "跨性别者的现实生活，这类题材电影 ... 封禁近三十年，港式描写变态电影的巅峰之作，无数 ...\n时长： 1:29\n发布时间： 2024年7月22日",
+          "date": "2024年7月22日",
+          "position": 57
+        },
+        {
+          "title": "一部讲述跨性别的电影，内容禁忌又敏感 - Bilibili",
+          "link": "https://www.bilibili.com/video/BV1Sz4y1q7hQ/",
+          "snippet": "一部讲述跨性别的电影，内容禁忌又敏感，可惜很多人只看到尺度55051681805676567 · -盲 ...\n时长： 2:04\n发布时间： 2023年6月3日",
+          "date": "2023年6月3日",
+          "position": 58
+        },
+        {
+          "title": "跨性别者电影印度(2023) - iQ.com",
+          "link": "https://www.iq.com/play/%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85%E7%94%B5%E5%BD%B1%E5%8D%B0%E5%BA%A6-2023-qrfry5u5dk?lang=zh_cn",
+          "snippet": "排行榜 · 1锦绣安宁 线上看锦绣安宁(2024) 带字幕中文配音 · 2七夜雪 线上看七夜雪(2024) 带字幕中文配音 · 3偷心大盗 线上看偷心大盗(2024) 带字幕中文配音 ...",
+          "date": "2024年9月24日",
+          "position": 59
+        },
+        {
+          "title": "奥斯卡大热影片《艾米莉亚·佩雷斯》洛杉矶首映，跨性别戛纳影后 ...",
+          "link": "https://news.qq.com/rain/a/20241022A0665K00",
+          "snippet": "由佐伊·索尔达娜携手赛琳娜·戈麦斯等带来的西班牙语歌舞片《艾米莉亚·佩雷斯》今日在洛杉矶举行了首映礼。该片导演雅克·欧迪亚携手今年戛纳电影节的四 ...",
+          "date": "2024年10月22日",
+          "position": 60
+        },
+        {
+          "title": "高中生拍跨性别电影，谁不是一边受伤一边成长？ - 凤凰网",
+          "link": "http://inews.ifeng.com/51543546/news.shtml",
+          "snippet": "这个片段来自《逃离》，一部由人大附中高中生自费拍摄的电影。电影中，跨性别者张望安从逃避自我、发现自我，到最终接受自我。",
+          "date": "2017年8月1日",
+          "position": 61
+        },
+        {
+          "title": "《丹麦女孩》跨性别电影丨从穿女装到变性再到生命的终结 - 暗室",
+          "link": "https://www.anshizm.com/2674.html",
+          "snippet": "《丹麦女孩》是一部基于两性视角，讲述历史上最早的真实变性故事的电影。这部电影，深深解读了关于两性心理的故事。 《丹麦女孩》跨性别电影丨从穿女装 ...",
+          "date": "2022年4月28日",
+          "position": 62
+        },
+        {
+          "title": "《跨性别者互操》恐怖剧-完整版电影在线-茂名论坛",
+          "link": "http://www.0668.com/forum.php?/20241025040047/AWNTdwAj_6917338.html",
+          "snippet": "茂名论坛电影网为您提供最新《跨性别者互操》手机免费播放,跨性别者互操剧情介绍:凶登云突然就出现在十长老的后面，但却是仅仅露出了一个拳头， ...",
+          "date": "5天前",
+          "position": 63
+        },
+        {
+          "title": "“寡姐”退出跨性别者电影，到底怎么了？ - 界面新闻",
+          "link": "https://m.jiemian.com/article/2310362.html",
+          "snippet": "影片根据真人真事改编，她原本要饰演的主人公琼·玛丽·吉尔是一个跨性别者，以男性身份和姓名丹特·泰克斯·吉尔（Dante 'Tex' Gill）活跃于上世纪七十年代的 ...",
+          "date": "2018年7月15日",
+          "position": 64
+        },
+        {
+          "title": "台北電影節10部必看LGBTQ+片單！跨種族愛情故事 - 美麗佳人",
+          "link": "https://www.marieclaire.com.tw/lifestyle/news/73415",
+          "snippet": "台北電影節10部必看LGBTQ+片單！跨種族愛情故事、探索自我認同的青春期，一起感受「愛」的多元面貌 · 《王子大戰打火兄弟》 · 《想被詛咒的少年》 · 《做自己的 ...",
+          "date": "2023年6月29日",
+          "position": 65
+        },
+        {
+          "title": "跨性别演员西娅·伊哈柏林电影节获奖系奖项设置以来首位",
+          "link": "https://m.cnbeta.com.tw/view/1346443.htm",
+          "snippet": "跨性别演员西娅·伊哈凭《直到夜尽头》成为本届柏林电影节主竞赛单元的最佳配角。在片中饰演跨性别女子的她，本人也是一名跨性别女性。柏林电影节主竞赛 ...",
+          "date": "2023年2月26日",
+          "position": 66
+        },
+        {
+          "title": "6 部突出欧洲LGBTQIA+ 遗产的电影、地点和收藏",
+          "link": "https://heritagetribune.eu/zh-CN/europe/6-films-places-and-collections-that-highlight-europes-lgbtqia-heritage/",
+          "snippet": "比利时电影，翻译成我的粉红色生活，对跨性别者，尤其是年轻人所面临的问题和污名进行了令人毛骨悚然和戏剧性的描述。 在影片中，主角Ludovic 的家人 ...",
+          "date": "2022年6月3日",
+          "position": 67
+        },
+        {
+          "title": "《Girl》（梦女芭蕾）：顺性别者对性小众电影所怀的敏感与谦卑",
+          "link": "https://theinitium.com/zh-hans/article/20190109-culture-film-girl-transgender",
+          "snippet": "那天和一个法国人说起最近的跨性别电影《Girl》（港译《梦女芭蕾》）。 “主角是个15岁的'男孩'。”我双手比着引号，“她自觉是女孩，正在等待手术⋯⋯” ...",
+          "date": "2019年1月8日",
+          "position": 68
+        },
+        {
+          "title": "开办以来首位！跨性别演员柏林电影节获奖 - 游民星空",
+          "link": "https://www.gamersky.com/news/202302/1571056.shtml",
+          "snippet": "跨性别演员​​​西娅·伊哈凭《直到夜尽头》成为本届柏林电影节主竞赛单元的最佳配角。在片中饰演跨性别女子的她，本人也是一名跨性别女性。 游民星空.",
+          "date": "2023年2月26日",
+          "position": 69
+        },
+        {
+          "title": "10部你不可錯過的跨性別電影看見跨性別者的美麗與哀愁 - LALATAI",
+          "link": "https://lalatai.com/life/10%E9%83%A8%E4%BD%A0%E4%B8%8D%E5%8F%AF%E9%8C%AF%E9%81%8E%E7%9A%84%E8%B7%A8%E6%80%A7%E5%88%A5%E9%9B%BB%E5%BD%B1-%E7%9C%8B%E8%A6%8B%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85%E7%9A%84%E7%BE%8E%E9%BA%97%E8%88%87%E5%93%80%E6%84%81",
+          "snippet": "10部你不可錯過的跨性別電影看見跨性別者的美麗與哀愁 · Sl_5DdCAYrmN#sRrOCvWyTXgWc83&Rm@UPni$! · jQXqpVUUxt1o^&6MyMe9YkY_I! · _a=jX_g3IDye*%7J-Orm_cU&S6_rF(fLpj-t7 ...",
+          "position": 70
+        },
+        {
+          "title": "传闻终结！Marvel Studios 确认跨性别角色并不会「很快」于全新 ...",
+          "link": "https://hypebeast.cn/2020/1/marvel-universe-transgender-character-kevin-feige-confirmed",
+          "snippet": "Marvel Studios 下一部大制作电影《The Eternals》先前已经确认将会有第一位同性恋超级英雄，因此经过Feige 稍早的说法后，许多人认为第一个跨性别角色也将 ...",
+          "date": "2020年1月4日",
+          "position": 71
+        },
+        {
+          "title": "男孩遇见女孩跨性别电影",
+          "link": "https://www.xxmh865.com/books/2885584110/",
+          "snippet": "男孩遇见女孩跨性别电影是一部由创作的免费漫画，故事讲述的是《男孩遇见女孩跨性别电影》漫画已由来自国漫的大触作者连载爆肝更新，漫画讲述了父亲愣了愣，抬起头， ...",
+          "position": 72
+        },
+        {
+          "title": "《揭开面纱：好莱坞的跨性别人生》 | Netflix 官方网站",
+          "link": "https://www.netflix.com/sg-zh/title/81284247",
+          "snippet": "类型. 纪录片、LGBTQ+ 题材纪录片、LGBTQ+ 题材电影、社会与文化纪录片 ; 性质：. 调查、启迪心灵 ; 音频. English - Audio Description、English [Original]、English - ...",
+          "currency": "US$",
+          "price": 6.99,
+          "position": 73
+        },
+        {
+          "title": "银幕上的活动家：电影中的酷儿凝视 - 设为首页纽约市博物馆",
+          "link": "https://zh-cn.mcny.org/event/activists-screen-trans-activism",
+          "snippet": "今年三月，与著名艺术家和电影制作人一起探索跨性别纽约人的生活，进行放映和对话。在分享当前纽约人生活片段的同时，这次放映将让人们一睹跨性别居民所驾驭的城市空间 ...",
+          "position": 74
+        },
+        {
+          "title": "揭开跨性别者的真实世界，迷失安狄：救赎与背叛的命运 - YouTube",
+          "link": "https://www.youtube.com/watch?v=kJSWljGVbIE",
+          "snippet": "《迷失安狄》由林心如监制，李李仁大胆出演跨性别者安迪，影片深刻揭示了跨性别者在社会中面对的 ...\n时长： 9:31\n发布时间： 2024年10月19日",
+          "date": "2024年10月19日",
+          "position": 75
+        },
+        {
+          "title": "用亚文化视角去看跨性别者电影《迷失安狄》 - 暗室",
+          "link": "https://www.anshism.com/3670.html",
+          "snippet": "不过，虽然有局限，《迷失安狄》作为少有的刻画跨性别主角的华语商业长片，还是给人一些鼓舞。《放映周报》一位影评人就详细分析了这部电影背后的社会背景， ...",
+          "date": "2022年9月21日",
+          "position": 76
+        },
+        {
+          "title": "中国电影的“彩虹” - 36氪",
+          "link": "https://m.36kr.com/p/1055228940308617",
+          "snippet": "将于本周五上映的《缉魂》，尽管作为一部悬疑片，但LGBT线索在片中承担了大部分的叙事性，不仅对于推动剧情发展起到至关重要的作用，而且同性恋角色在片中也是 ...",
+          "date": "2021年1月14日",
+          "position": 77
+        },
+        {
+          "title": "（正片連結見留言）香港跨性別電影《女人就是女人》 了解你/妳的慾望",
+          "link": "https://www.facebook.com/gagaoolalafilm/videos/%E6%AD%A3%E7%89%87%E9%80%A3%E7%B5%90%E8%A6%8B%E7%95%99%E8%A8%80%E9%A6%99%E6%B8%AF%E8%B7%A8%E6%80%A7%E5%88%A5%E9%9B%BB%E5%BD%B1%E5%A5%B3%E4%BA%BA%E5%B0%B1%E6%98%AF%E5%A5%B3%E4%BA%BA%E4%BA%86%E8%A7%A3%E4%BD%A0%E5%A6%B3%E7%9A%84%E6%85%BE%E6%9C%9B%E6%89%8D%E8%83%BD%E6%98%8E%E7%99%BD%E8%87%AA%E5%B7%B1%E6%98%AF%E5%90%A6%E4%BD%8F%E5%B0%8D%E4%BA%86%E8%BA%AB%E9%AB%94/132897498672512/",
+          "snippet": "了解你/妳的慾望，才能明白自己是否住對了身體香港跨性別電影《女人就是女人》 她從不是他，感動 ...\n时长： 1:44\n发布时间： 2021年1月21日",
+          "date": "2021年1月21日",
+          "position": 78
+        },
+        {
+          "title": "【日本想想】《當他們認真編織時》：日本電影的性別教育嘗試",
+          "link": "https://www.thinkingtaiwan.com/content/6105",
+          "snippet": "以跨性別者為主角的日本電影《當他們認真編織時》，原欲在台北捷運刊登廣告，卻因為廣告詞上出現了「多元成家」與「這樣教小孩」等字樣，被要求修正，讓 ...",
+          "date": "2017年3月8日",
+          "position": 79
+        },
+        {
+          "title": "一部关于「性」的电影，法国LGBT鬼才导演弗朗索瓦·欧容作品",
+          "link": "https://www.naifeituijian.com/front/article/1705/viewArticle",
+          "snippet": "众所周知，一般关于LGBT题材的电影，不可能将很多话题凑在一起讲，只会选择其中的一个，要不就是讲异装癖、要不就是跨性别者，要不就是同性恋情，而本片，导演用 ...",
+          "date": "2024年1月9日",
+          "position": 80
+        },
+        {
+          "title": "林心如：跨性別者用另一個身分活下去，其實活著比死亡更需要勇氣",
+          "link": "https://www.gvm.com.tw/article/77081",
+          "snippet": "在林心如首部監製並主演、李李仁減重13公斤並男扮女裝演出跨性別者的電影《迷失安狄》中，它以一種最扣人心弦的突破和感慨，交織出那底層小人物的悲劇與吶喊 ...",
+          "date": "2021年1月7日",
+          "position": 81
+        },
+        {
+          "title": "《跨性别摔角av成人网址》2024年实时更新-台湾剧 - 萝卜头IT论坛",
+          "link": "https://bbs.luobotou.org/bstra/forum.php?/20241031013333/BGYFIVp5_45123578.html",
+          "snippet": "完结 · 偷红内裤视频. 导演：无羞无耻同房视 · 完结 · 跨性别摔角av成人网址. 导演：男女草b嗯啊哦嗯啊 · 完结 · 爱的肢解土豆. 导演：操逼舔舔穴吸奶揉奶一区 ...",
+          "date": "4天前",
+          "position": 82
+        },
+        {
+          "title": "「男变女，女变男」：那些跨不过性别的人 - 凤凰网",
+          "link": "https://i.ifeng.com/c/8PmvNTdI3ve",
+          "snippet": "电影《丹麦女孩》中，当画家艾纳穿上女装，身体里的女性人格被唤醒，逐渐厌恶自己男性的身体。在妻子的支持下，艾纳决定做全世界第一例变性手术，以女性的 ...",
+          "date": "2023年5月14日",
+          "position": 83
+        },
+        {
+          "title": "《The Boys in the Boat》：1936年柏林奥运会与跨性别者的历史",
+          "link": "https://www.forwardpathway.com/105407",
+          "snippet": "电影《The Boys in the Boat》改编自Daniel James Brown的2013年同名书籍，讲述了华盛顿大学（2024USNews美国大学排名：40）男子赛艇队在1936年奥运会上 ...",
+          "date": "2024年6月20日",
+          "position": 84
+        },
+        {
+          "title": "中国女权与酷儿运动中的纪录影像",
+          "link": "https://www.chinaindiefilm.org/documentary-in-chinas-feminist-and-queer-movements/?lang=zh-hans",
+          "snippet": "反身性在这里指的是创作者应通过纪录片在拍摄、后期、传播过程中应使用女性主义的关怀伦理来避免拍摄对象群体的剥削、客体化，也谨慎考虑并照顾到影片本身 ...",
+          "date": "2022年8月30日",
+          "position": 85
+        },
+        {
+          "title": "新007：有人建议由跨性别者扮演著名的英国特工 - BBC",
+          "link": "https://www.bbc.com/zhongwen/simp/uk-46681054",
+          "snippet": "... 跨性别战士。” 这名跨性军官的演员丈夫在韦斯特最近的传记剧情电影《科莱特》（Colette）中扮演过角色。 韦斯特对《星期天泰晤士报》杂志说，“她两次 ...",
+          "date": "2018年12月25日",
+          "position": 86
+        },
+        {
+          "title": "LGBT电影解析 - YouTube",
+          "link": "https://www.youtube.com/playlist?list=PLpAm5uUZILA1DWdefOV3yaijMiPgnrCL4",
+          "snippet": "... 【喜宴】李安第一部同性题材,连爸爸也是gay?电影中的性压抑! CINE马拉松 · 14:05 · 【关于我母亲的一切】戛纳最佳导演阿莫多瓦镜头中的跨性别群体. CINE马拉松.",
+          "position": 87
+        },
+        {
+          "title": "李李仁挑戰跨性別角色！電影《迷失安狄》：無論如何悲傷 - 女人迷",
+          "link": "https://womany.net/read/article/26059",
+          "snippet": "金曲天后徐佳瑩獻唱 ... 配合《Miss Andy 迷失安狄》柔情又迷惘的心路轉折，電影找來金曲天后徐佳瑩獻唱，在她溫柔細膩的歌聲裡，我們更加貼近主角「安狄」的 ...",
+          "date": "2020年12月28日",
+          "position": 88
+        },
+        {
+          "title": "「跨」不出去的好萊塢（上）從《丹麥女孩》影帝的「錯誤論」 - 換日線",
+          "link": "https://crossing.cw.com.tw/article/15598",
+          "snippet": "因此2018 年，當女星史嘉蕾喬韓森宣布將在傳記電影《Rub & Tug》，飾演70 年代跨性別情色大亨Dante \"Tex\" Gill 時，再度引發輿論爭議，反對聲浪質疑：「為何不 ...",
+          "date": "2021年12月6日",
+          "position": 89
+        },
+        {
+          "title": "凯文·费奇确认第一个跨性别角色即将出现在漫威宇宙 - NOWRE现客",
+          "link": "https://nowre.com/lifestyle/473508/kaiwen%C2%B7feiqiquerendiyigekuaxingbiejiaosejijiangchuxianzaimanweiyuzhou/",
+          "snippet": "漫威宇宙正在变得更具包容度和多样性。 在上周六于纽约电影学院举行的问答环节中，一名学生向漫威影业总裁凯文· ...",
+          "date": "2020年1月3日",
+          "position": 90
+        },
+        {
+          "title": "刻畫跨性別少年美麗與哀愁！少年版丹麥女孩《我是女生》大膽挑起 ...",
+          "link": "https://www.wowlavie.com/article/ae1801000",
+          "snippet": "透過貓塔羅牌的療癒能量探索自我！解讀22張大阿爾克那牌卡，洞悉內心情感、啟發新觀點 · 愚者THE FOOL · 魔術師THE MAGICIAN · 女祭司THE HIGH PRIESTESS · 女皇THE EMPRESS.",
+          "position": 91
+        },
+        {
+          "title": "泰国人妖电影：跨越性别边界的独特艺术表达_免费看sf轻小说",
+          "link": "https://shield.czchzr.com/",
+          "snippet": "同时，泰国人妖电影也为跨性别者提供了一个展示自我的平台，让他们能够在电影中表达自己的声音和情感。这种在电影中的呈现，使得泰国人妖电影拥有了更加真实和有力的表达力，使 ...",
+          "position": 92
+        },
+        {
+          "title": "《猛鬼追魂》重启电影演员名单公布跨性别女演员饰演“钉子头”",
+          "link": "https://www.taptap.cn/moment/195497052652701274",
+          "snippet": "今日（10月8日），影视媒体Variety报道《猛鬼追魂》重启版电影完整演员名单，其中美国著名跨性别女演员杰米·克莱顿将饰演本片经典角色“钉子头”。",
+          "date": "2021年10月7日",
+          "position": 93
+        },
+        {
+          "title": "探索聋人、LGBTQ群体身份的电影将在西日本大学放映 - 海外房产",
+          "link": "https://www.fraproperty.com/news/show/26236/",
+          "snippet": "这部电影详细讲述了一对聋哑女同性恋夫妇生活在农村的故事，描绘了年轻人在多重身份下的挣扎。在此次大学活动中，公开跨性别者身份的松山市立议员渡边 ...",
+          "date": "2022年8月18日",
+          "position": 94
+        },
+        {
+          "title": "多了一根的大胸美女：变性人的可笑可悲银幕史 - 虎嗅",
+          "link": "https://m.huxiu.com/article/368864.html",
+          "snippet": "电影同样改编自真实事件，在现实生活中，名叫伊丽莎白·伊顿的女性是一位非常漂亮的跨性女。 而电影在开始筹拍时，也的确找到了一个和原型很像的变性女。但 ...",
+          "date": "2020年7月14日",
+          "position": 95
+        },
+        {
+          "title": "好电影推荐's post",
+          "link": "https://m.facebook.com/126403548052906/posts/161710371188890/",
+          "snippet": "当我们不再把跨性别者妖魔化，而是当成普通人看待的时候，那才是真正的进步。 每一个低入尘埃的个体，都值得被尊重。",
+          "date": "2018年4月15日",
+          "position": 96
+        },
+        {
+          "title": "高中生自費拍跨性別者題材電影導演：性小眾真實存在卻不被理解",
+          "link": "https://www.hk01.com/%E4%B8%AD%E5%9C%8B/107001/%E9%AB%98%E4%B8%AD%E7%94%9F%E8%87%AA%E8%B2%BB%E6%8B%8D%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85%E9%A1%8C%E6%9D%90%E9%9B%BB%E5%BD%B1-%E5%B0%8E%E6%BC%94-%E6%80%A7%E5%B0%8F%E7%9C%BE%E7%9C%9F%E5%AF%A6%E5%AD%98%E5%9C%A8%E5%8D%BB%E4%B8%8D%E8%A2%AB%E7%90%86%E8%A7%A3",
+          "snippet": "在北京，中學人民大學附屬中學（人大附中）一班學生拍攝了一套名為《逃離》的電影，近日在學生中放映。整部影片從編劇、拍攝到表演、製作，全部由這班學生 ...",
+          "date": "2017年7月24日",
+          "position": 97
+        },
+        {
+          "title": "DC电影首个跨性别女演员饰演蝙蝠女的跨性别闺蜜 - 游民星空",
+          "link": "https://www.gamersky.com/news/202201/1455906.shtml",
+          "snippet": "跨性别女演员艾弗里·阿奎诺(《当我们崛起时》)加盟DC新片《蝙蝠女》，饰演蝙蝠女芭芭拉·戈登的闺蜜、酒保Alysia Yeoh。",
+          "date": "2022年1月25日",
+          "position": 98
+        },
+        {
+          "title": "﻿姜皓文“变性”惊心动魄_大公网",
+          "link": "http://www.takungpao.com/231107/2018/1114/204561.html",
+          "snippet": "他们想被视为普通人，又不是做了什麼打家劫舍的事。我听完他们的心声，就觉得我应该要接演这部电影。”黑仔表示，身边也有朋友是跨性别人士 ...",
+          "date": "2018年11月14日",
+          "position": 99
+        }
+      ],
+      "images": [
+        {
+          "title": "行動代號跨性別：電影中的跨性別】 | 台灣同志諮詢熱線協會",
+          "imageUrl": "https://hotline.org.tw/sites/hotline.org.tw/files/styles/width1140/public/field_insert_blog/%E9%9B%BB%E5%BD%B1%E4%B8%AD%E7%9A%84%E8%B7%A8%E6%80%A7%E5%88%A5_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg?itok=FOrGQqQC",
+          "link": "https://hotline.org.tw/blog/3192"
+        },
+        {
+          "title": "翠丝》：一个中年跨性别者的选择",
+          "imageUrl": "http://image.thepaper.cn/www/image/12/580/482.jpg",
+          "link": "https://m.thepaper.cn/newsDetail_forward_2671259"
+        },
+        {
+          "title": "人大附中学生拍“性少数者”电影，一个被绝大多数家长回避的话题该如何谈 ...",
+          "imageUrl": "https://cdn.jiemodui.com/img/Public/Uploads/item/20170724/1500878644498661.jpg",
+          "link": "https://www.jiemodui.com/N/82106.html"
+        },
+        {
+          "title": "纪录｜现身、污名、起舞，好莱坞的跨性别人生_百科TA说",
+          "imageUrl": "https://bkimg.cdn.bcebos.com/pic/34fae6cd7b899e510fb384c803ebce33c895d043a791",
+          "link": "https://wapbaike.baidu.com/tashuo/browse/content?id=82c735fad6e0692a5af719d3"
+        },
+        {
+          "title": "本届威尼斯电影节焦点是跨性别？丨艺外",
+          "imageUrl": "https://imagepphcloud.thepaper.cn/pph/image/215/652/540.jpg",
+          "link": "https://m.thepaper.cn/newsDetail_forward_19870936"
+        },
+        {
+          "title": "同性恋、跨性别者和黑人，曾经的边缘电影如何走向主流？-腾讯新闻",
+          "imageUrl": "http://inews.gtimg.com/newsapp_bt/0/15585111240/641",
+          "link": "https://news.qq.com/rain/a/20221230A07C3W00"
+        },
+        {
+          "title": "这部日影评分8.4！跨性别者帮忙照顾小孩，却引来儿童机构的注意_百科TA说",
+          "imageUrl": "https://bkimg.cdn.bcebos.com/pic/b2de9c82d158ccbf01a4b0c115d8bc3eb1354134",
+          "link": "https://wapbaike.baidu.com/tashuo/browse/content?id=bef8f7269b914f87bab863c6"
+        },
+        {
+          "title": "跨性别现身日|11部跨性别电影推荐给你_手机搜狐网",
+          "imageUrl": "https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20190404/6359647117144937a2235290dbfeaf2b.jpeg",
+          "link": "https://www.sohu.com/a/306015852_821497"
+        },
+        {
+          "title": "Girl》（梦女芭蕾）：顺性别者对性小众电影所怀的敏感与谦卑| 端传媒 ...",
+          "imageUrl": "https://theinitium.com/wp-content/uploads/2019/01/175e0cbefe5940f7bd514b7970be6afa.jpg",
+          "link": "https://theinitium.com/zh-hans/article/20190109-culture-film-girl-transgender"
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "跨性别 电影",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "一部讲述跨性别的电影，内容禁忌又敏感，可惜很多人只看到尺度",
+          "link": "https://www.youtube.com/watch?v=pGcmuP01jXU",
+          "snippet": "... 跨性别的电影，内容禁忌又敏感， ... 一部讲述跨性别的电影，内容禁忌又敏感，可惜很多人只看到尺度. 278 views · 1 year ...",
+          "date": "2023年2月19日",
+          "position": 1
+        },
+        {
+          "title": "同性大尺度电影的发展与影响_电影资讯网",
+          "link": "https://anatomical.brentexmv.com/",
+          "snippet": "随着时间的推移，社会对同性关系的接受度逐渐提高，同性大尺度电影也逐渐增多。这些电影不再局限于同性恋议题，还开始涉及其他性少数群体，如双性恋、跨性别等。电影 ...",
+          "position": 2
+        },
+        {
+          "title": "《兩萬種蜜蜂》跨性別兒童的疑惑性向電影里程碑 - 琅琅悅讀",
+          "link": "https://reading.udn.com/read/story/7046/7793293",
+          "snippet": "電影《兩萬種蜜蜂》以孩童視角呈現，藉「蜜蜂有兩萬種，每一種都是好蜜蜂」，鼓勵LGBTQ族群對自我認同的探索，意外同時受到全球同志影展、兒童影展觀眾的 ...",
+          "date": "2024年3月5日",
+          "position": 3
+        },
+        {
+          "title": "关注LGBT电影的泰迪熊奖揭晓：女性题材大获全胜，男同电影略失落",
+          "link": "https://www.pingwest.com/a/103590",
+          "snippet": "今年的泰迪熊奖被女同和跨性别题材电影霸榜了。",
+          "date": "2017年2月19日",
+          "position": 4
+        },
+        {
+          "title": "纪录片《二毛》揭露小人物与跨性别者不为人知的一面 - 暗室",
+          "link": "https://www.anshism.com/2168.html",
+          "snippet": "2019年11月，第32届荷兰阿姆斯丹特国际纪录片电影节盛大召开，阿姆斯特丹纪录片电影节是全世界规模最大、…",
+          "date": "2021年12月4日",
+          "position": 5
+        },
+        {
+          "title": "裝錯軀殼的靈魂-『跨性別』性別認同之研究：以電影《丹麥女孩》",
+          "link": "https://ddh.au.edu.tw/p/406-1033-92680,r112607.php?Lang=zh-tw",
+          "snippet": "社區營造之個案研究一以新北市石門區老梅社區為例 學生：黃品瑄、曹書瑋 指導教授：李沿儒博士 摘 要： 「社區營」的核心是希望喚起居民對家鄉社區的熱情，能夠以自身的 ...",
+          "position": 6
+        },
+        {
+          "title": "香港電影《翠絲》演出跨性別人士，做自己和家庭責任之間又該如何 ...",
+          "link": "https://www.adaymag.com/2018/11/22/movie-tracey.html",
+          "snippet": "香港的Pride Parade早前才完滿舉辦，但社會對性小眾的關注並不會減少。今日在香港正式上映的《翠絲》說的就是關於一個跨性別人士的故事。…",
+          "date": "2018年11月22日",
+          "position": 7
+        },
+        {
+          "title": "活出真我！看電影《丹麥女孩》得知性別認同是一件多困難的事",
+          "link": "https://www.marieclaire.com.tw/entertainment/movie/21650",
+          "snippet": "和《丹麥女孩》的劇情一樣，莉莉艾勒柏出生時的性別為男性，但性別認同為女性。以現代詞彙可以將她描述為跨性別女性，因此不以男性代名詞稱呼莉莉，只稱她在 ...",
+          "date": "2020年4月30日",
+          "position": 8
+        },
+        {
+          "title": "必然「可憐」又必然可敬：論《迷失安狄》作為馬來西亞同志電影的 ...",
+          "link": "https://funscreen.tfai.org.tw/article/9097",
+          "snippet": "本文將探討2021 年初上映、由臺灣／馬來西亞合製的跨性別電影《迷失安狄》（Miss Andy），區分三大章節，就華語電影近況、馬國LGBT 電影定位以及產業製作面向 ...",
+          "date": "2021年1月15日",
+          "position": 9
+        },
+        {
+          "title": "李李仁挑战跨性别角色！电影《迷失安狄》：无论如何悲伤",
+          "link": "https://cn.womany.net/read/article/26059",
+          "snippet": "《Miss Andy 迷失安狄》以跨性别女性为主角，探讨生活在底层的人们受尽压迫与歧视的种种困境。李李仁精湛的演技，让这部电影令人期待！ Loading video ...",
+          "date": "2020年12月28日",
+          "position": 10
+        },
+        {
+          "title": "戛纳电影节首部音乐跨性别喜剧电影收获好评 - 夜雨聆风",
+          "link": "https://www.yeyulingfeng.com/58126.html",
+          "snippet": "一位观众观影后写道：“一部跨性别、音乐、犯罪、惊悚、爱情片？是的，这是一部杰作。” 目前，电影《艾 ...",
+          "date": "2024年9月29日",
+          "position": 11
+        },
+        {
+          "title": "Broadway Cinematheque 百老匯電影中心的帖子",
+          "link": "https://www.facebook.com/bc.BroadwayCinematheque/posts/1861217717259169/?locale=zh_HK",
+          "snippet": "《翠絲》是第一部直接以跨性別為題的華語長篇劇情電影，未上映已成為熱話。錯過了香港亞洲電影節的放映？電影正式上映前還有機會，大家可以在11月10日於 ...",
+          "date": "2018年11月8日",
+          "position": 12
+        },
+        {
+          "title": "柏林电影节：生田斗真跨性别电影夺泰迪熊奖",
+          "link": "https://hk.on.cc/hk/bkn/cnt/entertainment/20170218/bkn-20170218134101781-0218_00862_001_cn.html",
+          "snippet": "这部被封为日版《丹麦女孩》的作品以跨性别作为题材，讲述经历过变性手术的主角凛子，与恋人及其姪女展开同居生活，虽然本月底才在日本开画，但日前已抢先在《 ...",
+          "date": "2017年2月18日",
+          "position": 13
+        },
+        {
+          "title": "《翠丝》入围东京电影节姜皓文落足心血演跨性别者 - 星島日報",
+          "link": "https://std.stheadline.com/sc/realtime/article/825910/%E5%8D%B3%E6%99%82-%E5%A8%9B%E6%A8%82-%E7%BF%A0%E7%B5%B2-%E5%85%A5%E5%9C%8D%E6%9D%B1%E4%BA%AC%E9%9B%BB%E5%BD%B1%E7%AF%80-%E5%A7%9C%E7%9A%93%E6%96%87%E8%90%BD%E8%B6%B3%E5%BF%83%E8%A1%80%E6%BC%94%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85",
+          "snippet": "惠英红、姜皓文（黑仔）主演的新片《翠丝》以跨性别为题，成功入围《第31届东京国际电影节》亚洲未来单元竞赛电影，角逐其中奖项。黑仔为演活跨性别.",
+          "date": "2018年9月25日",
+          "position": 14
+        },
+        {
+          "title": "【跨性別電影推薦】我的母親、雷厄提：跨越時空的性別認同對話",
+          "link": "https://vocus.cc/article/668a31edfd897800018ff59d",
+          "snippet": "這篇文章討論了穿越20年的跨性別電影，包括1999年西班牙電影《我的母親》和2017年巴西紀錄片《雷厄提：真實自我》。文章探討了電影的內容，並指出了跨 ...",
+          "date": "2024年7月6日",
+          "position": 15
+        },
+        {
+          "title": "08. 性别/空间/跨国电影by 值得表扬 - Spotify for Podcasters",
+          "link": "https://podcasters.spotify.com/pod/show/lei-yu1/episodes/08-e2bnji2",
+          "snippet": "对谈人：Rita（西北大学Screen Cultures博士候选人） 关键词：性别、空间、跨国界电影0:00简单介绍课程；学生背景；对没有背景的学生来说读理论难吗 ...",
+          "date": "2023年11月9日",
+          "position": 16
+        },
+        {
+          "title": "新007：有人建議由跨性別者扮演著名的英國特工 - BBC",
+          "link": "https://www.bbc.com/zhongwen/trad/uk-46681054",
+          "snippet": "英國導演和演員韋斯特說，「有個非常酷的女性，一名演員的妻子….她是英軍工兵的上尉，是軍隊中級別最高的跨性別戰士。」 這名跨性軍官的演員丈夫在韋斯特最近 ...",
+          "date": "2018年12月25日",
+          "position": 17
+        },
+        {
+          "title": "男孩拥有双性别电影结局 - 西瓜视频",
+          "link": "https://m.ixigua.com/zhuanti/7407512951663659017",
+          "snippet": "您在查找“男孩拥有双性别电影结局”吗？西瓜视频为您提供海量优质视频信息，帮您找到更多精彩的视频内容！西瓜视频是一个开眼界、涨知识的视频平台， ...",
+          "date": "2024年8月26日",
+          "position": 18
+        },
+        {
+          "title": "【01電影優先場翠絲】跨仔Sho親身分享真正考驗其實在做手術後",
+          "link": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/259898/%E7%BF%A0%E7%B5%B2-01%E9%9B%BB%E5%BD%B1%E5%84%AA%E5%85%88%E5%A0%B4-%E8%B7%A8%E4%BB%94sho%E8%A6%AA%E8%BA%AB%E5%88%86%E4%BA%AB-%E7%9C%9F%E6%AD%A3%E8%80%83%E9%A9%97%E5%85%B6%E5%AF%A6%E5%9C%A8%E5%81%9A%E6%89%8B%E8%A1%93%E5%BE%8C",
+          "snippet": "由黑哥姜皓文和紅姐惠英紅主演的跨性別題材電影《翠絲》，將於下星期正式上映，日前《香港01》以及天下一電影公司合辦了《翠絲》電影放映及分享會，當中 ...",
+          "date": "2018年11月16日",
+          "position": 19
+        },
+        {
+          "title": "電影《迷失安狄》中性別、階級、身障的多重交織| 500輯",
+          "link": "https://500times.udn.com/wtimes/story/12672/5205330",
+          "snippet": "2021年1月8日上映的電影《迷失安狄Miss Andy》是一部從跨性別者切角出發，描述馬來西亞社會底層困境的作品，曾獲選大阪亞洲電影節、紐約電影節、德國五 ...",
+          "date": "2021年1月26日",
+          "position": 20
+        },
+        {
+          "title": "穿越美国的男主是真的帅有没有 - 什么值得买",
+          "link": "https://post.smzdm.com/p/a60kl6wg/",
+          "snippet": "《穿越美国》是一部由邓肯·塔克执导，费丽西蒂·霍夫曼主演的电影，讲述了一个性别认同困惑的跨性别者布里·奥斯本（原名斯坦利）在寻找自我认同和家庭支持之 ...",
+          "date": "2023年5月30日",
+          "position": 21
+        },
+        {
+          "title": "多屏分众时代歌舞电影的重塑与启示 - 党建网",
+          "link": "http://www.dangjian.cn/whsb/2024/10/30/detail_202410307001946.html",
+          "snippet": "这些小众题材和跨媒介改编文本的出现，呈现出观众偏好和参与性互动的 ... 好的电影文本具有用户友好性特点，空间与环境的友好，精神需求满足上的 ...",
+          "date": "5天前",
+          "position": 22
+        },
+        {
+          "title": "美剧中“同志”和“跨性别”角色越来越多 - 纽约时报",
+          "link": "https://cn.nytimes.com/film-tv/20151101/t01glaad/",
+          "snippet": "今年，Glaad首次将流媒体包含到统计中来（这份报告始于2005年）。值得注意的是，流媒体的电视剧中包括四名跨性别角色，其中两位还是《透明家庭》(Transparent) ...",
+          "date": "2015年11月1日",
+          "position": 23
+        },
+        {
+          "title": "【貂小嬋】一部講述中國農村跨性別者的紀錄片，跟拍14年 - YouTube",
+          "link": "https://www.youtube.com/watch?v=0pxqdsfEbJc",
+          "snippet": "《二毛》是賈玉川執導的一部紀錄片，於2019年11月23日首映。講述的是一個20歲的農民工，在夜總會找到了一份反串表演的工作…… #女性#劇情#歷史#電影#電影 ...",
+          "date": "2023年8月1日",
+          "position": 24
+        },
+        {
+          "title": "大导纷纷拍美剧，全世界年轻人都抛弃电影了？ - 中国新闻周刊",
+          "link": "http://www.inewsweek.cn/wh/2024-10-28/23479.shtml",
+          "snippet": "而在最近十余年中，以漫威宇宙为代表的超级英雄电影，是全球最吸金、最具话题性的电影。 ... 跨界案例，雷德利·斯科特参与执导了《异星灾变》。今年 ...",
+          "date": "7天前",
+          "position": 25
+        },
+        {
+          "title": "看完心情好沉重，这结局太惨了 - 熊猫电影",
+          "link": "https://film.6a6z.com/news/31848.html",
+          "snippet": "当一个人的个人选择触及社会传统认知边界时，往往面临诸多挑战。 “跨性别者”，这一群体在不同的文化背景下有着不同的称谓和理解，但在过去常常被视为边缘 ...",
+          "date": "5天前",
+          "position": 26
+        },
+        {
+          "title": "最高法院将听取田纳西禁止为未成年人进行跨性别手术的辩论",
+          "link": "https://www.epochtimes.com/gb/24/10/24/n14356713.htm",
+          "snippet": "... ，美国最高法院决定在今年12月4日听取联邦政府挑战田纳西州一项法律的口头辩论，该法律禁止为跨性别 ... 真人机动战士电影《钢弹》 2025年开始制作. 人气256.",
+          "date": "2024年10月24日",
+          "position": 27
+        },
+        {
+          "title": "这部影片告诉你，高中生有资格谈论“跨性别者” - 每日頭條",
+          "link": "https://kknews.cc/zh-cn/entertainment/zxzqo8l.html",
+          "snippet": "PART 1昨晚，电影《逃离》在北京放映。这是一部将镜头对准性少数人群（LGBTQ）的影片，主人公是这一群体里的『跨性别者』。更为特别的是，这是一部由北京中学生 ...",
+          "date": "2017年8月18日",
+          "position": 28
+        },
+        {
+          "title": "期待通过中国电影更好了解中国”——白俄罗斯举行中国电影日活动",
+          "link": "http://www.news.cn/world/20241102/03ec820d12c5439b86ab6738792828dd/c.html",
+          "snippet": "明斯克国际电影节是波罗的海、中亚及中东欧地区重要的竞赛性电影节之一，首届电影节于1994年举办。 ... 跨境理财通” · 百闻不如一见丨非洲“好物”的中国 ...",
+          "date": "2天前",
+          "position": 29
+        },
+        {
+          "title": "国内首部电竞纪录片电影《一竞到底》正式公映 - 扬子晚报",
+          "link": "https://www.yangtse.com/content/1938919.html",
+          "snippet": "《一竞到底》在正式上映前就以其开创性的题材而备受电竞爱好者的关注 ... 和平精英电竞及跨界业务负责人郑儒伟强调，将《一竞到底》推向大银幕 ...",
+          "date": "3天前",
+          "position": 30
+        },
+        {
+          "title": "跨性別網紅牙了！火鍋店暴打律師網驚真人版「武松打虎」",
+          "link": "https://tw.news.yahoo.com/%E8%B7%A8%E6%80%A7%E5%88%A5%E7%B6%B2%E7%B4%85%E7%89%99%E4%BA%86-%E7%81%AB%E9%8D%8B%E5%BA%97%E6%9A%B4%E6%89%93%E5%BE%8B%E5%B8%AB-%E7%B6%B2%E9%A9%9A%E7%9C%9F%E4%BA%BA%E7%89%88-%E6%AD%A6%E6%9D%BE%E6%89%93%E8%99%8E-024832403.html",
+          "snippet": "近日大陸社群流傳一段女子在長沙海底撈打人的影片，而這女子其實是跨性別網紅「姜顏」，她跟朋友在用餐，被一名自稱是香港大律師的男子出言挑釁， ...",
+          "date": "2024年10月13日",
+          "position": 31
+        },
+        {
+          "title": "下午察：知名主持人金星倒在“彩虹旗”下？ - 联合早报",
+          "link": "https://www.kzaobao.com/shiju/20241024/172149.html",
+          "snippet": "... 电影节的 ... 同时，随着中西对立态势加剧，LGBT更被视为西方意识形态的一种渗透，这也是为何早已被大众接受的跨性别者金星，此次仍遭到攻击的重要原因。",
+          "date": "2024年10月24日",
+          "position": 32
+        },
+        {
+          "title": "跨性别电影《翠丝》:本是女娇娥,偏生作男儿汉，尺度有点大 - YouTube",
+          "link": "https://www.youtube.com/watch?v=PYf7bfhfOjg",
+          "snippet": "跨性别电影《翠丝》:本是女娇娥,偏生作男儿汉，尺度有点大.",
+          "date": "2019年4月23日",
+          "position": 33
+        },
+        {
+          "title": "国内首部电竞纪录片电影《一竞到底》公映，记录PEL三大顶尖选手 ...",
+          "link": "https://www.xkb.com.cn/articleDetail/353992",
+          "snippet": "和平精英电竞及跨界业务负责人郑儒伟表示，将《一竞到底》推向大银幕 ... 《一竞到底》在正式上映前就以其开创性的题材而备受电竞爱好者的关注 ...",
+          "date": "3天前",
+          "position": 34
+        },
+        {
+          "title": "汤唯最新品牌照释出长裙吊带状态超好 - 快科技",
+          "link": "https://news.mydrivers.com/1/1011/1011716.htm",
+          "snippet": "前两天，第45届青龙电影奖提名名单公布，汤唯凭借《梦境》三提影后，金高银《破墓》、全度妍《左轮手枪》等入围最佳女主，将与韩国本土演员争夺影后桂冠。 早 ...",
+          "date": "2天前",
+          "position": 35
+        },
+        {
+          "title": "国内首部电竞纪录片电影《一竞到底》正式公映展现电竞真实一面",
+          "link": "https://news.dayoo.com/finance/202411/01/171077_54740545.htm",
+          "snippet": "“在这部电影中，我们并没有跨界去找特别大牌的明星或演员。而是用非常 ... 性多数通过了要求美国终止对古巴经济封锁和制裁的决议，美国和以色列 ...",
+          "date": "3天前",
+          "position": 36
+        },
+        {
+          "title": "汤唯最新品牌照释出长裙吊带状态超好- cnBeta.COM 移动版(WAP)",
+          "link": "https://m.cnbeta.com.tw/wap/view/1452036.htm",
+          "snippet": "据看电影报道，近日，汤唯最新品牌照释出，长裙吊带，状态超好。汤唯是1979年出生的中国内地女演员，2004年，主演了个人首部电影作品《警花燕子》，正式出道， ...",
+          "date": "2天前",
+          "position": 37
+        },
+        {
+          "title": "《黑客帝国》是一部跨性别寓言吗？原计划和角色变化解释",
+          "link": "https://thenexus.one/zh/%E3%80%8A%E9%BB%91%E5%AE%A2%E5%B8%9D%E5%9B%BD%E3%80%8B%E6%98%AF%E4%B8%80%E9%83%A8%E8%B7%A8%E6%80%A7%E5%88%AB%E5%AF%93%E8%A8%80%E5%90%97%EF%BC%9F%E5%8E%9F%E8%AE%A1%E5%88%92%E5%92%8C%E8%A7%92%E8%89%B2/",
+          "snippet": "这个想法是黑客帝国在电影导演拉娜·沃卓斯基和莉莉·沃卓斯基公开承认自己是跨性别女性之后，这可能是一个跨性别寓言开始流行。此后，很多人分析黑客帝国及其 ...",
+          "date": "6天前",
+          "position": 38
+        },
+        {
+          "title": "[Trans电影] 双面罗密欧Romeos",
+          "link": "https://www.transmanhelper.com/trans-info/trans-movie-romeos.html",
+          "snippet": "双面罗密欧Romeos 是一部2011年上映的德国LGBT性少数电影，内容围绕同性与变性跨性（女变男），讲述了一个德国边缘少年Lukas 在激素一年多并未做任何手术 ...",
+          "date": "2016年12月4日",
+          "position": 39
+        },
+        {
+          "title": "英《卫报》评《丹麦女孩》：“平庸的跨性别电影” - 华大资讯网",
+          "link": "http://m.chinabig.com.cn/a/201509/379.html",
+          "snippet": "英《卫报》评《丹麦女孩》：“平庸的跨性别电影” ... 汤姆·霍伯执导、埃迪·雷德梅恩、艾丽西卡·维坎德主演的全新电影《丹麦女孩》已先后在威尼斯电影节、 ...",
+          "date": "2015年9月19日",
+          "position": 40
+        },
+        {
+          "title": "跨性别人群生存困境调查：多数人有遭受校园暴力经历 - 新闻频道",
+          "link": "http://news.cctv.com/2020/02/22/ARTIJ5mYNQzX05v1IZiDuRoN200222.shtml",
+          "snippet": "小马是一名跨性别者。对于她来说，此次诉讼并不是为了追求精神抚慰金，而是希望人们能真正了解并依法维护她的平等就业 ...",
+          "date": "2020年2月22日",
+          "position": 41
+        },
+        {
+          "title": "地平线系列：跨性别者 - 碟调电影网",
+          "link": "https://www.fuzhenzm.com/question/3314.html",
+          "snippet": "由丽贝卡·鲁特领衔主演的地平线系列：跨性别者是一部综合评分2.0的英国电影。讲述了探索变性的真正意义，通过那些亲身经历过的人，探索跨性别者所经历的 ...",
+          "date": "2024年8月27日",
+          "position": 42
+        },
+        {
+          "title": "电影、长剧正收缩微短剧渐成新势力 - 中国经济网",
+          "link": "http://m.ce.cn/gp/gd/202410/31/t20241031_39186995.shtml",
+          "snippet": "那么，为何电影和长剧两大影视行业传统主力军出现了阶段性收缩？又是什么带动微短剧产业快速奔跑？在新的影视行业竞争格局中，资本又如何布局？ 电影 ...",
+          "date": "4天前",
+          "position": 43
+        },
+        {
+          "title": "影视行业格局或生变：电影、长剧正收缩微短剧渐成新势力 - zqrb.cn",
+          "link": "http://m.zqrb.cn/finance/hangyedongtai/2024-10-31/A1730272434992.html",
+          "snippet": "那么，为何电影和长剧两大影视行业传统主力军出现了阶段性收缩？又是什么带动微短剧产业快速奔跑？在新的影视行业竞争格局中，资本又如何布局？ 电影 ...",
+          "date": "4天前",
+          "position": 44
+        },
+        {
+          "title": "电影、长剧正收缩微短剧渐成新势力--经济 - 人民网",
+          "link": "http://finance.people.com.cn/n1/2024/1031/c1004-40350920.html",
+          "snippet": "那么，为何电影和长剧两大影视行业传统主力军出现了阶段性收缩？又是什么带动微短剧产业快速奔跑？在新的影视行业竞争格局中，资本又如何布局？ 电影 ...",
+          "date": "4天前",
+          "position": 45
+        },
+        {
+          "title": "人气手游《阴阳师》被拍成真人电影了？游戏公司：未授权！",
+          "link": "https://news.dayoo.com/guangzhou/202411/03/139995_54741053.htm",
+          "snippet": "经对比游戏中部分元素与涉案电影人物形象，比如“安倍晴明”“神乐”等，后者在整体造型、色彩搭配以及诸多局部细节特征上，均与前者具有感官上的相似性。这种 ...",
+          "date": "18小时前",
+          "position": 46
+        },
+        {
+          "title": "西安欧亚学院“山高水长——中外电影史经典回望”展览盛大开幕",
+          "link": "http://www.huaue.com/mxdt2024/20241031164933.htm",
+          "snippet": "... 电影制片厂导演、国家二级导演何志铭，知名跨界创意人宋群，知名图书出版策划人朱艳坤受邀出席，西安欧亚学院董事长胡建波，国家高级工艺美术师、西安 ...",
+          "date": "4天前",
+          "position": 47
+        },
+        {
+          "title": "川普反跨性別廣告拉攏未表態選民專家警告恐釀反效果| 國際 - 中央社",
+          "link": "https://www.cna.com.tw/news/aopl/202410300232.aspx",
+          "snippet": "法新社報導，川普（Donald Trump）競選團隊與共和黨團體已斥資數千萬美元，在關鍵搖擺州以及吸引大量觀眾的全國職業橄欖球賽中，播放這些煽動性的電視廣告。這 ...",
+          "date": "5天前",
+          "position": 48
+        },
+        {
+          "title": "影视行业格局或生变：电影、长剧正收缩，微短剧渐成新势力 - 新华日报",
+          "link": "https://www.xhby.net/content/s6722df99e4b0458dc38ceff9.html",
+          "snippet": "那么，为何电影和长剧两大影视行业传统主力军出现了阶段性收缩？又是什么带动微短剧产业快速奔跑？在新的影视行业竞争格局中，资本又如何布局？ 电影 ...",
+          "date": "4天前",
+          "position": 49
+        },
+        {
+          "title": "天津日报数字报刊平台-我们共“城”长——看见国防",
+          "link": "http://epaper.tianjinwe.com/tjrb/html/2024-11/01/content_143080_1458534.htm",
+          "snippet": "“这部电影让我了解到了国防的重要性，也明白了青少年肩负的重任。我要努力学习，提高自己的综合素质，为祖国的繁荣富强贡献力量。”高二2班学生孟鹭说。 “ ...",
+          "date": "3天前",
+          "position": 50
+        },
+        {
+          "title": "劳伦·穆斯格罗夫：教育与电影制作的完美结合与创新",
+          "link": "https://www.forwardpathway.com/135721",
+          "snippet": "此外，穆斯格罗夫的教学方法还体现了多学科艺术家的重要性。在当今快速变化的创意行业中，单一的技能已无法满足市场的需求。她通过跨学科的学习，鼓励学生们 ...",
+          "date": "1天前",
+          "position": 51
+        },
+        {
+          "title": "电影、长剧正收缩微短剧渐成新势力 - 证券时报",
+          "link": "https://stcn.com/article/detail/1390851.html",
+          "snippet": "那么，为何电影和长剧两大影视行业传统主力军出现了阶段性收缩？又是什么带动微短剧产业快速奔跑？在新的影视行业竞争格局中，资本又如何布局？ 电影 ...",
+          "date": "4天前",
+          "position": 52
+        },
+        {
+          "title": "院线电影走弱的今天，我们为何还需要影院？ - 虎嗅",
+          "link": "https://m.huxiu.com/article/3625698.html",
+          "snippet": "跨境电商 ... 我个人其实非常希望将禁止影院屏摄、拍照、大声聊天纳入法律，因为这些因素会极大程度破坏观看一部电影的完整性和神圣性，但这显然不可能。",
+          "date": "6天前",
+          "position": 53
+        },
+        {
+          "title": "影视行业格局或生变：电影、长剧正收缩微短剧渐成新势力 - 东方财富",
+          "link": "https://wap.eastmoney.com/a/202411013226329683.html",
+          "snippet": "那么，为何电影和长剧两大影视行业传统主力军出现了阶段性收缩？又是什么带动微短剧产业快速奔跑？在新的影视行业竞争格局中，资本又如何布局？ 电影 ...",
+          "date": "3天前",
+          "position": 54
+        },
+        {
+          "title": "电影、长剧正收缩微短剧渐成新势力 - 光明网",
+          "link": "https://e.gmw.cn/2024-10/31/content_37648168.htm",
+          "snippet": "那么，为何电影和长剧两大影视行业传统主力军出现了阶段性收缩？ ... 值得关注的是，微短剧的多业态融合能力正不断吸引跨界合作。例如 ...",
+          "date": "4天前",
+          "position": 55
+        },
+        {
+          "title": "电影、长剧正收缩微短剧渐成新势力",
+          "link": "http://finance.ce.cn/stock/gsgdbd/202410/31/t20241031_39186994.shtml",
+          "snippet": "那么，为何电影和长剧两大影视行业传统主力军出现了阶段性收缩？又是 ... 值得关注的是，微短剧的多业态融合能力正不断吸引跨界合作。例如，中信 ...",
+          "date": "4天前",
+          "position": 56
+        },
+        {
+          "title": "电影、长剧正收缩微短剧渐成新势力 - 中国青年网",
+          "link": "https://fun.youth.cn/gnzx/202410/t20241031_15616588.htm",
+          "snippet": "那么，为何电影和长剧两大影视行业传统主力军出现了阶段性收缩？又是什么带动微短剧产业快速奔跑？在新的影视行业竞争格局中，资本又如何布局？ 电影 ...",
+          "date": "4天前",
+          "position": 57
+        },
+        {
+          "title": "《只此青绿》IP养成记：演出市场火热依赖精耕细作 - 第一财经",
+          "link": "https://m.yicai.com/news/102329240.html",
+          "snippet": "随着人民群众精神文化需求的多样化发展，成长性文化企业要敏锐洞察市场需求的变化。 ... 电影在电影数据库IMDb上也仅获得了低分评价。 跨界与如何跨界，成为两 ...",
+          "date": "3天前",
+          "position": 58
+        },
+        {
+          "title": "跨性別电影 - Transman Helper",
+          "link": "https://www.transmanhelper.com/tag/%E8%B7%A8%E6%80%A7%E5%88%A5%E7%94%B5%E5%BD%B1",
+          "snippet": "跨性別电影. ftmmovie_romeos_cover.jpg · [Trans电影] 双面罗密欧Romeos. 双面罗密欧Romeos 是一部2011年上映的德国LGBT性少数电影，内容围绕同性与变性跨性（女变男），讲述[ ...",
+          "position": 59
+        },
+        {
+          "title": "有誰青春不須跨-跨性別校園微電影 - YouTube",
+          "link": "https://www.youtube.com/watch?v=3opuz-FBzBw",
+          "snippet": "中學生的他對自己的身體感到格格不入？想尋找屬於自己真正的身份？在跨性別的探索過程會經歷什麼挑戰？ 邀請你代入主角的角色， 用一條微電影的時間， ...",
+          "date": "2024年1月18日",
+          "position": 60
+        },
+        {
+          "title": "2023年度中国艺术发展研究报告》出版",
+          "link": "https://www.mct.gov.cn/whzx/zsdw/zgysyjy/202410/t20241031_955988.html",
+          "snippet": "其中，导言是对20个子报告所涉不同领域研究的提要性归纳总结。 ... 电影、电视、美术、摄影与数字艺术、建筑、工艺美术；三是7项文化艺术领域带有综合学科、跨 ...",
+          "date": "3天前",
+          "position": 61
+        },
+        {
+          "title": "前迪士尼董事揭示好莱坞危机根源：DEI倡议遭指责 - 中关村在线",
+          "link": "https://news.zol.com.cn/914/9143514.html",
+          "snippet": "在好莱坞，DEI倡议对电影行业的影响显而易见，例如，在奥斯卡颁奖典礼上，只有符合特定配额的影片才有资格获奖。“你必须拥有一定数量的黑人、双种族、跨性别者 ...",
+          "date": "2天前",
+          "position": 62
+        },
+        {
+          "title": "制作掐丝珐琅、练瑜伽、拍摄微电影……盘点安徽新华学院硬核又 ...",
+          "link": "http://ah.people.com.cn/n2/2024/1029/c358324-41024119.html",
+          "snippet": "... 性和趣味性，课程面向所有专业的学生，鼓励大家跨学科合作，比如可以结合编程、动画制作等技能，提升微电影的创意与表现力。这些改革旨在培养学生的 ...",
+          "date": "6天前",
+          "position": 63
+        },
+        {
+          "title": "2024年第三季度财报点评：放映收入受大盘负面影响 - 股票",
+          "link": "https://stock.stockstar.com/JC2024110200006226.shtml",
+          "snippet": "... 性收益同比增长81%至0.5亿元；归母净利润同比下降35%至0.4亿元，归母 ... 展望后续，已有5部电影定档12月31日跨年档，包括《有朵云像你》《骗骗 ...",
+          "date": "2天前",
+          "position": 64
+        },
+        {
+          "title": "2024年美国大选的今日发展：民调势均力敌，哈里斯和特朗普冲击 ...",
+          "link": "https://chinese.aljazeera.net/news/liveblog/2024/10/27/2024%E5%B9%B4%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89%E7%9A%84%E4%BB%8A%E6%97%A5%E5%8F%91%E5%B1%95%E6%B0%91%E8%B0%83%E5%8A%BF%E5%9D%87%E5%8A%9B%E6%95%8C%E5%93%88%E9%87%8C%E6%96%AF%E5%92%8C%E7%89%B9",
+          "snippet": "万斯随后指责拜登-哈里斯政府允许跨性别女性参加女子运动队，这是他反对的。 ... 库布里克电影《全金属外壳》成为特朗普竞选的谈资. 一开始，特朗普 ...",
+          "date": "8天前",
+          "position": 65
+        },
+        {
+          "title": "为何电影和长剧两大影视行业传统主力军出现了阶段性收缩？",
+          "link": "https://www.huaon.com/channel/focus/1028052.html",
+          "snippet": "值得关注的是，微短剧的多业态融合能力正不断吸引跨界合作。例如，中信银行此前曾发布微短剧《财富魔法之拿铁计划》。 2023年，上美集团用品牌韩束和 ...",
+          "date": "22小时前",
+          "position": 66
+        },
+        {
+          "title": "本周看什么| 最近值得一看的7 部作品 - 少数派",
+          "link": "https://sspai.com/post/93498",
+          "snippet": "TL;DR近期佳作推荐：[电影]蓦然回首、[韩剧]贞淑的推销、[美剧]林肯律师第三季、[美剧]乔治和曼迪的头婚生活、[纪录片]闪闪的儿科医生第二季、[纪录片] ...",
+          "date": "3天前",
+          "position": 67
+        },
+        {
+          "title": "TikTok有电影解说吗 - TT123卖家导航",
+          "link": "https://www.tt123.com/ask/3RVpntc4",
+          "snippet": "TikTok电影解说与跨境电商行业的关联. 虽然TikTok上的电影解说内容本身并 ... 这意味着户外品牌正迎来突破性的发展机会，而Kuma正处于这个激动人心的时刻。",
+          "date": "1天前",
+          "position": 68
+        },
+        {
+          "title": "同一个乔妍_光明网 - 文艺评论频道",
+          "link": "https://wenyi.gmw.cn/2024-11/02/content_37653571.htm",
+          "snippet": "“身份”的合法性成了电影情节线上的矛盾焦点。为此，编导特意把故事发生的场域搬到近年影视剧最喜欢征用的颇具隐喻色彩的地名：云南和缅甸。跨过那道 ...",
+          "date": "2天前",
+          "position": 69
+        },
+        {
+          "title": "柬埔寨电影服务行业注册公司有哪些方面的优势及劣势呢",
+          "link": "https://www.zcqtz.com/news/2274394.html",
+          "snippet": "这使得柬埔寨成为连接东南亚各国的重要枢纽，对于电影服务的跨境合作和市场拓展非常有利。 ... **政治和经济稳定性问题**：尽管近年来有所改善，但柬埔寨的政治 ...",
+          "date": "21小时前",
+          "position": 70
+        },
+        {
+          "title": "川普藉反跨性別廣告攻擊賀錦麗拉攏未表態選民 - Yahoo新聞",
+          "link": "https://hk.news.yahoo.com/%E5%B7%9D%E6%99%AE%E8%97%89%E5%8F%8D%E8%B7%A8%E6%80%A7%E5%88%A5%E5%BB%A3%E5%91%8A%E6%94%BB%E6%93%8A%E8%B3%80%E9%8C%A6%E9%BA%97-%E6%8B%89%E6%94%8F%E6%9C%AA%E8%A1%A8%E6%85%8B%E9%81%B8%E6%B0%91-075001454.html",
+          "snippet": "美國喬治華盛頓大學（George Washington University）政治管理學程主任貝爾特（Todd Belt）告訴法新社，這些反跨性別廣告就是「為了激起共和黨基本盤的情緒…它 ...",
+          "date": "5天前",
+          "position": 71
+        },
+        {
+          "title": "延延聊電影｜從《皇后復仇中》到《愛神來啦》：獻給變裝皇后的 ...",
+          "link": "https://vocus.cc/article/671b6bd8fd8978000197ed4d",
+          "snippet": "【跨性別電影推薦】我的母親、雷厄提：跨越時空的性別認同對話. 這篇文章討論了穿越20年的跨性別電影，包括1999年西班牙電影《我的母親》和2017年巴西紀錄片 ...",
+          "date": "2024年10月25日",
+          "position": 72
+        },
+        {
+          "title": "45年后创意返回起点，这是IP彻底干涸前的回光返照？ - 证券之星",
+          "link": "https://wap.stockstar.com/detail/IG2024110300000275",
+          "snippet": "电影中，神秘外星虫卵孵化出抱脸虫，抱脸虫寄生人体孕育异形，异形破膛而 ... 跨时代的先锋作品。 《变形金刚》《黑客帝国》《移魂都市》……后续 ...",
+          "date": "23小时前",
+          "position": 73
+        },
+        {
+          "title": "丹麦电影服务行业怎么查公司信息？",
+          "link": "https://www.zcqtz.com/news/2277487.html",
+          "snippet": "这对于需要跨国界了解丹麦公司背景的用户来说尤为有用。 二、第三方平台查询. 1. **丹麦企业名录网站**：包括dkdirectory.com、prodenmark.com ...",
+          "date": "13小时前",
+          "position": 74
+        },
+        {
+          "title": "神戏》百度云网盘电影|在线观看uc网盘|超清BD1080P|中字下载（2016",
+          "link": "https://www.moguba.net/Mushroom/42464.html",
+          "snippet": "导演: Sam Feder资源类型：揭开面纱：好莱坞的跨性别人生百度云网盘在线观看迅雷下载又名: 揭开面纱：荷里活的跨性别人生(港) / 跨性别者电视史主演 ...",
+          "date": "1天前",
+          "position": 75
+        },
+        {
+          "title": "日本电影《人生密密缝》，跨性别舅妈与单亲外甥女的温柔人生",
+          "link": "https://www.youtube.com/watch?v=FddVB1X5mEM",
+          "snippet": "这部2017年的日本电影豆瓣评分高达8.5，许多网友评论“被感动到哭晕”。 影片讲述了单亲家庭的女孩友子和她的跨性别舅妈伦子的温情故事。",
+          "date": "2021年3月10日",
+          "position": 76
+        },
+        {
+          "title": "类似于《杜鲁门的世界》的10 部最佳电影",
+          "link": "https://thenexus.one/zh/%E7%B1%BB%E4%BC%BC%E4%BA%8E%E3%80%8A%E6%9D%9C%E9%B2%81%E9%97%A8%E7%9A%84%E4%B8%96%E7%95%8C%E3%80%8B%E7%9A%84-10-%E9%83%A8%E6%9C%80%E4%BD%B3%E7%94%B5%E5%BD%B1/",
+          "snippet": "再见我看到电视灯了与性别认同和跨性别表达相关的问题作斗争， 这两部 ... 这部电影结合了动作、哲学和革命性的视觉效果，成为科幻类型中的重要电影。",
+          "date": "2天前",
+          "position": 77
+        },
+        {
+          "title": "《火球：来自黑暗世界的访客》百度云网盘电影|在线观看uc网盘|超清 ...",
+          "link": "https://www.moguba.net/Mushroom/42538.html",
+          "snippet": "导演: Sam Feder资源类型：揭开面纱：好莱坞的跨性别人生百度云网盘在线观看迅雷下载又名: 揭开面纱：荷里活的跨性别人生(港) / 跨性别者电视史主演 ...",
+          "date": "12小时前",
+          "position": 78
+        },
+        {
+          "title": "2024-2025 漫威影業全新強檔電影、影集，即將登陸Disney+",
+          "link": "https://www.youtube.com/watch?v=VqJjHO9z6AA",
+          "snippet": "2024-2025 漫威影業全新強檔電影、影集，即將登陸Disney+. 6.7K views ... 【Asmongold】為什麼我必須變成跨性別者各位，沒有選項不讓我變成跨性別!",
+          "date": "4天前",
+          "position": 79
+        },
+        {
+          "title": "Sogni 跨性别！！！整部电影- （高清原版） | xHamster",
+          "link": "https://zh.xhamster.com/videos/sogni-transex-full-movie-original-version-hd-xhf6Um1",
+          "snippet": "Video screenshots. Sogni 跨性别！！！整部电影- （高清原版） snapshot 1 00:00; Sogni 跨性别！！！整部电影- （高清原版） snapshot 2 03:08; Sogni 跨性别！",
+          "date": "2023年1月7日",
+          "position": 80
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

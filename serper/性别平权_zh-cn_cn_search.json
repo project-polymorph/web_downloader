@@ -1,0 +1,1360 @@
+{
+  "query": "性别平权",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-04T00:28:51.281116",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "性别平权",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "knowledgeGraph": {
+        "title": "性别平等",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEc7aCDF2qxHUPMOYlC5PkqKwOJ2vco1-585ETNsstnKImkSYIgA358g&s=0",
+        "description": "性别平等，又称男女平等、女男平等、两性平等、性别平权、性别平等主义，传统上也指两性应享有平等的公民权利，在“政治、经济、社会、气质、家庭”中应受到完全平等对待，反对性别歧视。性别平等是《世界人权宣言》的目标之一，其目的是营造性别平等的法律和社会环境，例如民主活动和确保同工同酬。",
+        "descriptionSource": "维基百科",
+        "descriptionLink": "https://zh.wikipedia.org/zh-cn/%E6%80%A7%E5%88%A5%E5%B9%B3%E7%AD%89"
+      },
+      "organic": [
+        {
+          "title": "性别平等| 联合国",
+          "link": "https://www.un.org/zh/global-issues/gender-equality",
+          "snippet": "妇女和女童占世界人口的一半，因此也占全世界人口潜力的一半。性别平等不仅是一项基本人权，也是充分发挥人类潜力、推动可持续发展并最终实现和平社会的重要环节。",
+          "position": 1
+        },
+        {
+          "title": "性别平等- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E6%80%A7%E5%88%A5%E5%B9%B3%E7%AD%89",
+          "snippet": "联合国儿童基金会表示，性别平等“意味着女性和男性、女孩和男孩享有相同的权利、资源、机会和保护。它并不要求女孩和男孩，或女性和男性，一视同仁，或者他们受到同等对待完全 ...",
+          "position": 2
+        },
+        {
+          "title": "妇女人权与性别平等 - ohchr",
+          "link": "https://www.ohchr.org/zh/women",
+          "snippet": "性别平等是人权与联合国价值观的核心。平等与不歧视是1945年世界领导人通过的《联合国宪章》的基本原则。 然而，全世界数百万妇女和性少数者在享受公民、文化、经济、 ...",
+          "position": 3
+        },
+        {
+          "title": "目标5：实现性别平等，增强所有妇女和女童的权能- 可持续发展",
+          "link": "https://www.un.org/sustainabledevelopment/zh/gender-equality/",
+          "snippet": "无论您生活在哪里，性别平等都是一项基本人权。促进性别平等对一个健康社会的所有领域都至关重要，包括减贫、促进女童和男童的健康、教育、保护和福祉。",
+          "date": "2024年1月25日",
+          "position": 4
+        },
+        {
+          "title": "性別平等- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/wiki/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89",
+          "snippet": "聯合國兒童基金會表示，性別平等「意味著女性和男性、女孩和男孩享有相同的權利、資源、機會和保護。它並不要求女孩和男孩，或女性和男性，一視同仁，或者他們受到同等對待完全 ...",
+          "position": 5
+        },
+        {
+          "title": "性别平等_百度百科",
+          "link": "https://baike.baidu.com/item/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/54562304",
+          "snippet": "性别平等（Gender Equality）指每个人不论性别，均享有同等的条件充分实现其人权，均能平等地参与政治、经济、文化和社会发展活动并从中受益。为促进性别平等， ...",
+          "position": 6
+        },
+        {
+          "title": "性别平权：如何解决性别比例失衡问题- BBC 英伦网",
+          "link": "https://www.bbc.com/ukchina/simp/vert-fut-47263934",
+          "snippet": "人们一直对女学者抱有刻板印象，认为她们不够聪明，欠缺科学敏锐度。即使水平相当，她们要和男性享有等同声望必须成绩更高，然而受到的指导却更少。同等能力下 ...",
+          "date": "2019年2月16日",
+          "position": 7
+        },
+        {
+          "title": "性别平等优先 - UNESCO",
+          "link": "https://www.unesco.org/zh/gender-equality",
+          "snippet": "我们所要传达的信息十分明确：女性和男性作为平等公民，必须享有平等的机会、选择、能力、力量、知识。",
+          "position": 8
+        },
+        {
+          "title": "性别平等是正确的事，是有益的事，也是为了人类生存必须要做的事",
+          "link": "https://www.ilo.org/zh-hans/resource/statement/xing-bie-ping-deng-shi-zheng-que-de-shi-shi-you-yi-de-shi-ye-shi-wei-le-ren",
+          "snippet": "促进性别平等不仅是一件正确的事，也是一件有利于提高企业绩效和经济效益的好事 · 创建性别包容的企业文化，从招聘到晋升，采取促进男女机会和待遇平等的措施 ...",
+          "date": "2024年3月8日",
+          "position": 9
+        },
+        {
+          "title": "性别平等与妇女权利 - ohchr",
+          "link": "https://www.ohchr.org/zh/topic/gender-equality-and-womens-rights",
+          "snippet": "性别平等是人权与联合国价值观的核心。 几乎所有人权条约都禁止性别歧视。 尽管全世界在保障妇女权利方面取得了很大进展，但数百万妇女和女童仍然遭受歧视和暴力，她们被 ...",
+          "position": 10
+        },
+        {
+          "title": "性别平等| 联合国儿童基金会 - Unicef",
+          "link": "https://www.unicef.org/zh/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89",
+          "snippet": "实现性别平等以及赋予女童权利有助于帮助每个儿童发挥他们的潜力。 一个小女孩坐在教室的课桌前看着镜头。 ... 女童和男童们每天都会在课本、媒体以及照顾他们的成年人身上看 ...",
+          "position": 11
+        },
+        {
+          "title": "中国性别平等与妇女发展_白皮书 - 中国政府网",
+          "link": "https://www.gov.cn/zhengce/2015-09/22/content_2936783.htm",
+          "snippet": "中国性别平等与妇女发展 ... 性别平等与妇女发展是人类追求公平、正义与平等的永恒主题，是社会文明进步的衡量尺度，是人类实现可持续发展的重要目标。 中国 ...",
+          "date": "2015年9月22日",
+          "position": 12
+        },
+        {
+          "title": "[PDF] 2022-2025 年性别平等战略",
+          "link": "https://genderequalitystrategy.undp.org/downloads/UNDP_Gender_Equality_Strategy_2022-2025_CH_V2.pdf",
+          "snippet": "多重危机和风险正威胁着全世界，. 我们目睹了令人震惊的对妇女权利和性别. 平等的强烈抵制。自COVID-19 疫情爆发以. 来，女性失业的可能性几乎是男性的两倍。1. 然而，在世界 ...",
+          "position": 13
+        },
+        {
+          "title": "性别平权峰回路转 - HKU Business School",
+          "link": "https://www.hkubs.hku.hk/sc/research/thought-leadership/hkej-column/%E6%80%A7%E5%88%AB%E5%B9%B3%E6%9D%83-%E5%B3%B0%E5%9B%9E%E8%B7%AF%E8%BD%AC/",
+          "snippet": "Equileap（2019年）就女性劳动力、高级管理层和董事会的性别平衡、同工同酬、育儿假、非歧视性招聘和晋升，以及供应链安全等综合因素，对全球3000多家上市公司 ...",
+          "date": "2022年8月31日",
+          "position": 14
+        },
+        {
+          "title": "性别平等",
+          "link": "https://www.undp.org/zh/china/xingbiepingdeng",
+          "snippet": "联合国开发计划署驻华代表处基于基线评估结果，制定了系列计划，旨在改善机构的政策制度、推进性别平等。作为行动计划的一部分，联合国开发计划署正加大力度，将性别视角纳入 ...",
+          "position": 15
+        },
+        {
+          "title": "教育与性别平等 - UNESCO",
+          "link": "https://www.unesco.org/zh/gender-equality/education",
+          "snippet": "性别平等与教育 ... 性别平等是教科文组织的全球优先事项之一。虽然我们已经取得长足进步，但教育方面巨大的性别差距仍不鲜见，通常是女童利益没有得到照顾，当然不排除有些地区 ...",
+          "position": 16
+        },
+        {
+          "title": "麦肯锡专题报告∣新时代的半边天：中国职场性别平等现状与展望",
+          "link": "https://www.mckinsey.com.cn/%E9%BA%A6%E8%82%AF%E9%94%A1%E4%B8%93%E9%A2%98%E6%8A%A5%E5%91%8A%E2%88%A3%E6%96%B0%E6%97%B6%E4%BB%A3%E7%9A%84%E5%8D%8A%E8%BE%B9%E5%A4%A9%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%81%8C%E5%9C%BA%E6%80%A7%E5%88%AB/",
+          "snippet": "男女生育假期的差异性加剧潜在的女性就业歧视。按照国家《女职工劳动保护特别规定》，女性职工生育享受不少于98天的产假；国家对男性的陪产假尚未统一规定，各省市男性陪产假 ...",
+          "position": 17
+        },
+        {
+          "title": "2018-2021年性别平等行动计划| 联合国儿童基金会 - Unicef",
+          "link": "https://www.unicef.org/zh/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/2018-2021%E5%B9%B4%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89%E8%A1%8C%E5%8A%A8%E8%AE%A1%E5%88%92",
+          "snippet": "项目中的性别成果 · 消除童婚，保护女童免受限制其生活机会的多重风险。 · 提升女童的中学教育，侧重于支持女童学习科学、技术、工程和数学（STEM）技能。 · 促进性别敏感的 ...",
+          "position": 18
+        },
+        {
+          "title": "性别平权第一国冰岛女性的“革命之路” - 新浪新闻",
+          "link": "https://news.sina.cn/2020-01-10/detail-iihnzhha1633013.d.html",
+          "snippet": "手握实权的总理还推动了一系列激进的性别政策：冰岛国内的性交易被定为犯罪，同性婚姻获得合法地位。西于尔扎多蒂对少数群体的政策优待并非政治表演，因为她 ...",
+          "date": "2020年1月10日",
+          "position": 19
+        },
+        {
+          "title": "运用媒体来促进社会性别平等 - UN Women Asia and the Pacific",
+          "link": "https://asiapacific.unwomen.org/en/countries/china/chinese/using-media-to-promote-gender-equality-chinese",
+          "snippet": "运用媒体来促进社会性别平等 · 一项由eastern campus在2011年实施的项目，让男性大学生们通过社交媒体和校园活动参与防治针对妇女的暴力行为。 · 联合国妇女署支持位于香港 ...",
+          "position": 20
+        },
+        {
+          "title": "上官乱：性别平权优等生的台湾其实很保守？是她们突出重围前进 - 歪脑",
+          "link": "https://www.wainao.me/wainao-reads/Taiwan-leaders-of-gender-equality-02022023",
+          "snippet": "2020年5月29日，大法官为俗称“通奸罪”的《刑法》第239条释宪。宣告这条于1935年制定、以国家刑罚权介入私人关系的法律，充满封建时代色彩、侵害隐私、性别不 ...",
+          "date": "2023年2月2日",
+          "position": 21
+        },
+        {
+          "title": "与联合国妇女属合作传递性别平权 - Charles & Keith Group",
+          "link": "https://www.charleskeithgroup.com/cn/our-commitments-un-women/",
+          "snippet": "年国际妇女日. CHARLES & KEITH相信透过故事可以充分传递正向且平等的性别规范，我们希望藉由与非营利组织联合国妇女署合作，支持亚太地区女性的平权运动，让更多女性的声音 ...",
+          "position": 22
+        },
+        {
+          "title": "男女平等_百度百科",
+          "link": "https://baike.baidu.com/item/%E7%94%B7%E5%A5%B3%E5%B9%B3%E7%AD%89/2939686",
+          "snippet": "男女平等，是指男女两性在政治、经济、文化、社会和家庭等各个方面，享有同等的权利，负担同等的义务。中华人民共和国《宪法》第48条第1款就对男女平等问题明确指出：“中华 ...",
+          "position": 23
+        },
+        {
+          "title": "性别平等| 联合国日内瓦",
+          "link": "https://www.ungeneva.org/zh/about/topics/gender",
+          "snippet": "人权. 性别平等工作的人权基础是《 消除对妇女一切形式歧视公约》，Opens in new window该公约已得到189个国家的批准。批准该公约的国家有以下法律义务： ... 消除对妇女歧视 ...",
+          "position": 24
+        },
+        {
+          "title": "2018年性別平權報告/性別平權路上的障礙 - Meta-Wiki",
+          "link": "https://meta.wikimedia.org/wiki/Gender_equity_report_2018/Barriers_to_equity/zh",
+          "snippet": "治理被广义地定义为包括自治體領導者、维基管理员以及整个运动中的其他常见社群領袖形式。佔78％ 的絕大多數受访者表示维基媒体运动中的领导力在其性别代表 ...",
+          "date": "2023年10月10日",
+          "position": 25
+        },
+        {
+          "title": "性别平等 - Lisboa Acolhe",
+          "link": "https://lisboaacolhe.pt/igualdade-de-genero/?lang=zh-hant",
+          "snippet": "“正如所有女性在某种程度上都受到性别歧视的影响一样，与她们的社会身份相关的其他因素的差异，如阶级、种姓、种族、肤色、民族、宗教、国籍和性取向，是造成多数妇女群体遭受 ...",
+          "position": 26
+        },
+        {
+          "title": "性别平等| World Food Programme - 世界粮食计划署",
+          "link": "https://zh.wfp.org/gender-equality",
+          "snippet": "我们是谁. 世界粮食计划署在紧急情况下拯救生命，向受冲突、灾难和气候变化影响的人们提供粮食援助，帮助他们搭建一条通往和平、稳定和繁荣的道路。 ... 我们的工作. 我们广泛 ...",
+          "position": 27
+        },
+        {
+          "title": "[PDF] 海关合作理事会1 关于海关性别平等与多样性的宣言草案",
+          "link": "https://www.wcoomd.org/-/media/wco/public/ch/about-us/legal-instruments/declarations/wco-gender-equality-declaration_zh.pdf?la=en",
+          "snippet": "承认性别平等与多样性与《联合国人权宣言》. （UDHR）(1948)精神相一致，因此，对所有国家和各国海. 关都致关重要；. 意识到性别平等与多样性是实现可持续发展与包容性.",
+          "position": 28
+        },
+        {
+          "title": "男女平权| 德国概况",
+          "link": "https://www.tatsachen-ueber-deutschland.de/zh-hans/zaideguoshenghuo/nannupingquan",
+          "snippet": "本届联邦政府已将这一目标写入2018《联合执政协议》，即到2025年公共服务部门的领导职位由男女共同平等担任。最后，联邦议院中女性的比例再一次有所下降，当前女性的占比为 ...",
+          "position": 29
+        },
+        {
+          "title": "台湾同志游行逾18万人参与回顾近20年性别平权之路- BBC News 中文",
+          "link": "https://www.bbc.com/zhongwen/simp/chinese-news-69444101",
+          "snippet": "台湾同志游行逾18万人参与回顾近20年性别平权之路 ... 10月26日，台湾举办第22届的同志游行，主办单位表示有逾18万人参加，是2019年同婚法案通过后人数最多的 ...",
+          "date": "2024年10月26日",
+          "position": 30
+        },
+        {
+          "title": "彭博性别平等指数| 彭博Bloomberg | 中国",
+          "link": "https://www.bloombergchina.com/solution/sustainable-finance/gei/",
+          "snippet": "彭博性别平等指数（GEI）追踪致力于披露支持性别平等相关举措的上市公司表现，包括规章制度、任职比例和透明度。",
+          "position": 31
+        },
+        {
+          "title": "依法规范就业性别歧视保障妇女平等就业权利 - 中国工会女职工工作网",
+          "link": "https://nzw.acftu.org/ppjs_18782/qxnzgfznsb/202312/t20231207_844239.html",
+          "snippet": "针对劳动合同履行等用工过程中的性别歧视，《妇女权益保障法》明确规定男女同工同酬，妇女在享受福利待遇方面享有与男子平等的权利；《劳动合同法》和《女职工劳动保护特别 ...",
+          "position": 32
+        },
+        {
+          "title": "性别平等进程正在停滞，消除性别差距尚需131年 - 世界经济论坛",
+          "link": "https://cn.weforum.org/press/2023/06/gender-equality-is-stalling-131-years-to-close-the-gap-cn/",
+          "snippet": "世界经济论坛发布的《2023年全球性别差距报告》显示，全球性别平等状况已经恢复至新冠疫情之前的水平，但随着多重危机阻碍了前进的步伐，全球性别平等 ...",
+          "date": "2023年6月20日",
+          "position": 33
+        },
+        {
+          "title": "性别与气候变化 - UNFCCC",
+          "link": "https://unfccc.int/zh/gender",
+          "snippet": "... 性别和气候变化问题的专门议题，并在《巴黎协定》中纳入总体案文，让妇女和男性平等参与《公约》进程以及制定和执行促进性别平等的国家气候政策十分重要。 “性别”议题@COP27.",
+          "position": 34
+        },
+        {
+          "title": "持續推動性別平等，營造幸福社會(行政院全球資訊網-重要政策)",
+          "link": "https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/7d41b3de-a6ec-4c2b-9e7a-9ebf7feec52e",
+          "snippet": "現代社會基於自由、平等、民主與人權，性別平等已是普世價值。多年來，臺灣社會在法令政策推動及多元對話後，性別平權普遍受到重視，臺灣女性已能在各行各業中綻放光彩，從女性 ...",
+          "position": 35
+        },
+        {
+          "title": "性別平等及性別主流化 - 羅東戶政- 宜蘭縣政府",
+          "link": "https://ldhro.e-land.gov.tw/cp.aspx?n=41F51A6FA2672860&s=456A468F51C16DDF",
+          "snippet": "為何推動「性別主流化」？ 性別平等是一種價值，而不是特定人口的福利；性別平等不等於婦女福利。性別主流化要求政府全盤地檢討目前勞動、福利、教育、環保、警政、醫療等政策 ...",
+          "position": 36
+        },
+        {
+          "title": "[PDF] 将承诺变为行动: - 2030年可持续发展议程中的性别平等问题",
+          "link": "https://www.unwomen.org/sites/default/files/Headquarters/Attachments/Sections/Library/Publications/2018/SDG-report-Summary-Gender-equality-in-the-2030-Agenda-for-Sustainable-Development-2018-zh.pdf",
+          "snippet": "正如报告所示，让. 每一位妇女和女童得到平等的重视和对待，不. 仅需要对性别方面数据提高敏感度，还需要政. 策法规和问责方面的变革。本报告针对如何将. 上述实施维度与《 ...",
+          "position": 37
+        },
+        {
+          "title": "目标5：性别平等| 世界气象组织",
+          "link": "https://wmo.int/zh-hans/mubiao5xingbiepingdeng",
+          "snippet": "实现性别平等，增强所有妇女和女童的权能. 只有男女合作，才能共建具有天气和气候复原力的社会。WMO致力于实现性别平等并增强女童和妇女的权能。这不仅是一个公平正义的问题 ...",
+          "position": 38
+        },
+        {
+          "title": "[PDF] 指南：性别包容性交流",
+          "link": "https://www.unodc.org/documents/Gender/gender_sentitive_language/Gender-sensitiveCommsGuide-Chinese-final.pdf",
+          "snippet": "该办公室作为联合国系统的. 一部分，有义务制作包容性、多样性和平衡的传播材料。这将确保联合国被视为全球性别平等对. 话的领导者，并平等地满足妇女和男子的需要，同时还 ...",
+          "position": 39
+        },
+        {
+          "title": "[PDF] 中国社会男女平等吗",
+          "link": "http://www.shehui.pku.edu.cn/upload/editor/file/20171116/20171116155825_3031.pdf",
+          "snippet": "一、问题的提出. 无论从我国妇女解放的实践经历，还是从西方女权主义运动的历史来看，社会对男女平等的认识并. 非与日俱进，相反，在性别平等观念上的犹疑 ...",
+          "date": "2017年11月16日",
+          "position": 40
+        },
+        {
+          "title": "贸易是推动性别平等和发展的驱动力",
+          "link": "https://www.imf.org/zh/Publications/fandd/issues/2023/06/trade-drives-gender-equality-and-development-rocha-piermartini",
+          "snippet": "贸易为女性创造更好的就业机会。发达经济体和新兴市场经济体的工人如果在贸易量较大或与全球价值链融合程度更高的部门工作，就更有可能从事正式工作，从而获得更好的福利、 ...",
+          "position": 41
+        },
+        {
+          "title": "《中华人民共和国妇女权益保障法》_性别平等",
+          "link": "https://fgw.sh.gov.cn/ys-syjf-ss-1.1.5-%E2%91%A0/20240407/76c12749b9804bcca81e36a58cfcaf85.html",
+          "snippet": "第二条男女平等是国家的基本国策。妇女在政治的、经济的、文化的、社会的和家庭的生活等各方面享有同男子平等的权利。 国家 ...",
+          "position": 42
+        },
+        {
+          "title": "中华人民共和国妇女权益保障法 - 中国政府网",
+          "link": "https://www.gov.cn/guoqing/2021-10/29/content_5647634.htm",
+          "snippet": "为了保障妇女的合法权益，促进男女平等，充分发挥妇女在社会主义现代化建设中的作用，根据宪法和我国的实际情况，制定本法。",
+          "position": 43
+        },
+        {
+          "title": "性别平等促进 - 非洲开发银行集团",
+          "link": "https://afdb-org.cn/projects-and-operations/gender/",
+          "snippet": "Category ... 赋予和扩大女性的权力与机会将带来非洲一半人口的生产力和劳动力市场参与度的提高。 注重知识、技能发展、法律和财产权利是提高女性主动性的基础。女性承担了 ...",
+          "position": 44
+        },
+        {
+          "title": "性别平等与战争：“维护人道、尊严与和平的工作只有面向所有性别群体",
+          "link": "https://www.icrc.org/zh/document/women-conflict-and-international-humanitarian-law",
+          "snippet": "国际人道法确保在冲突中也有最低限度的人道。简而言之，法律规定：不得攻击平民和人道工作者；不得对他人实施强奸、酷刑或处决；不得攻击医院和学校；禁止使用 ...",
+          "date": "2023年3月3日",
+          "position": 45
+        },
+        {
+          "title": "可持续发展目标系列解读之五：性别平等（附深圳案例）",
+          "link": "http://www.hk-imcc.com/zh/index.php?case=archive&act=show&aid=508",
+          "snippet": "性别平等不仅是一项基本人权，也是世界和平、繁荣和可持续发展的必要基础。不幸的是，目前有五分之一的15-49岁的妇女报告称在12个月内遭受过亲密伴侣的人身暴力或性暴力，而49 ...",
+          "position": 46
+        },
+        {
+          "title": "女权在冰岛丨男女平等世界第一| Guide to Iceland",
+          "link": "https://cn.guidetoiceland.is/history-culture/gender-equality-in-iceland",
+          "snippet": "女权在冰岛丨男女平等世界第一 ... 性别平等，不分男女平等地拥有各项权利既是一项基本人权，也是社会繁荣和谐的基础之一。话虽如此，放眼世界，真正能做到重视女权、男女平等的 ...",
+          "position": 47
+        },
+        {
+          "title": "性别平等和妇女赋权",
+          "link": "https://www.fao.org/gender/learning-center/thematic-areas/gender-equality-and-women's-empowerment/zh",
+          "snippet": "它是一项战略，旨在使男女双方的关切和经验成为所有政治、经济和社会领域中政策和计划的设计、实施、监测和评估的一个不可分割的组成部分，从而使男女双方平等受益，并使不 ...",
+          "position": 48
+        },
+        {
+          "title": "2024年全球性别平等状况：完全弥合性别差距还需多少年？",
+          "link": "https://cn.weforum.org/agenda/2024/09/global-gender-gap-2024-what-to-know-cn/",
+          "snippet": "世界经济论坛的《2024年全球性别差距报告》指出，实现性别平等还需要134年。性别平等程度最高的前10个国家大多位于欧洲，爱尔兰和西班牙今年再次跻身 ...",
+          "date": "2024年9月14日",
+          "position": 49
+        },
+        {
+          "title": "[PDF] 德国政府第二次性别平权报告简介",
+          "link": "https://www.zweiter-gleichstellungsbericht.de/kontext/controllers/document.php/95.4/8/3a18d1.pdf",
+          "snippet": "德国政府在每个任期都会发布一份德国性别平权现状报告。一个由男女专家组成的独立. 专家委员会为这份报告出具鉴定意见，也在其中提出如何改善平等权利的建议。",
+          "position": 50
+        },
+        {
+          "title": "性别 - 世界银行",
+          "link": "https://www.shihang.org/zh/topic/gender/overview",
+          "snippet": "性别平等是《世界人权宣言》承认的一项国际法原则。 性别平等也是发展的必要条件。越来越多的证据表明，消除性别障碍可以释放经济生产力，减少贫困，加深社会 ...",
+          "date": "2024年10月23日",
+          "position": 51
+        },
+        {
+          "title": "5 性別平等 - 永續發展目標",
+          "link": "https://globalgoals.tw/5-gender-equality",
+          "snippet": "細項指標 · 終結所有對女性的歧視 · 結束對女性的一切暴力和剝削 · 消除強迫婚姻和切割生殖器官 · 重視無償家庭照護勞動及提倡家務分工 · 確保充分參與領導和決策 · 普遍 ...",
+          "position": 52
+        },
+        {
+          "title": "[PDF] 体育运动中的性别平等、公平及包容性表述 - Olympics",
+          "link": "https://stillmed.olympics.com/media/Documents/Beyond-the-Games/Gender-Equality-in-Sport/IOC-Portrayal-Guidelines-Simplified-Chinese.pdf",
+          "snippet": "体育是促进性别平等、为妇女和女童赋能的最强大平台，体育新. 闻报道则对形成性别规范与刻板印象有很大影响。 在国际奥委会（IOC）层面，我们都知道奥运会是高光时刻。奥. 运会 ...",
+          "position": 53
+        },
+        {
+          "title": "[PDF] 民主与性别平等：",
+          "link": "https://www.idea.int/sites/default/files/publications/democracy-and-gender-equality-ZH.pdf",
+          "snippet": "解. 决这些不平等问题和挑战需要的. 不仅仅是让妇女担任公职：它意. 味着暴露和解决选举制度中的缺. 陷，改革政治文化，在政党和全. 社会建立男女平等的承诺。 “性别平等不会 ...",
+          "position": 54
+        },
+        {
+          "title": "教育部性別平等全球資訊網",
+          "link": "https://www.gender.edu.tw/",
+          "snippet": "性別平等全球資訊網_Logo · 教案影音資源. 提供性別平等宣導影線上觀看，依影片性質分類為校園、媒體識讀、教育部宣導短片及家庭暴力防治等類別。 · 調查專業人才庫. 校園性 ...",
+          "position": 55
+        },
+        {
+          "title": "中美比一比| 两国性别平权还有哪些绊脚石？ - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_1379918",
+          "snippet": "中美两国男女同工不同酬现象明显。在女性的职业道路上，政府官员、企业管理层这一类的职位女性相比男性更难晋升，中国白领女性的仕途比美国女性更艰难。但 ...",
+          "date": "2015年9月28日",
+          "position": 56
+        },
+        {
+          "title": "联合国自由及平等运动：与所有女性团结在一起！ - YouTube",
+          "link": "https://www.youtube.com/watch?v=V7IXl_770xE",
+          "snippet": "这一运动是联合国人权事务高级专员办事处（OHCHR）领导的自由与平等运动与致力于促进性别 ...\n时长： 1:01\n发布时间： 2022年4月5日",
+          "date": "2022年4月5日",
+          "position": 57
+        },
+        {
+          "title": "广东省男女平等基本国策中小学师资能力提升活动在东莞举办",
+          "link": "http://www.pwccw.gd.gov.cn/xw/content/post_1238312.html",
+          "snippet": "截至2023年底，广东省已培育了514所性别平等示范校，培育了一支面向高等院校、中小学、学前教育等性别平等教育师资力量1400人，打造了一批性别平等精品课程。",
+          "date": "2024年4月15日",
+          "position": 58
+        },
+        {
+          "title": "[PDF] 麦肯锡专题报告∣新时代的半边天：中国职场性别平等现状与展望",
+          "link": "https://www.mckinsey.com.cn/wp-content/uploads/2023/08/%E4%B8%AD%E5%9B%BD%E8%81%8C%E5%9C%BA%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89%E7%8E%B0%E7%8A%B6%E4%B8%8E%E5%B1%95%E6%9C%9B%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf",
+          "snippet": "5. 仅有17.37%的女性认为职场上已经实现了男女平等，而近八成女性则认为尚未实现。相比而言，认为未实现的男性占比58.41%。数据见. 《2021职场女性与男性性别差异数据报告》 ...",
+          "position": 59
+        },
+        {
+          "title": "报告：全球性别平等仍需134年，STEM领域女性就业不足三成 - 财新",
+          "link": "https://m.caixin.com/m/2024-06-25/102209468.html",
+          "snippet": "报告称，要彻底消除全球性别差距，还需要134年、即大约五代人的时间。中国排名第106名，较2023年上涨了1名。全球女性在STEM岗位中就业的占比依然偏低， ...",
+          "date": "2024年6月25日",
+          "position": 60
+        },
+        {
+          "title": "推动性别平等",
+          "link": "https://www.oxfam.org.hk/sc/what-we-do/advocacy-and-campaign/global-advocacy/gender-equality-time-to-care",
+          "snippet": "港府应修补公共服务缺口 立法保障零散工 · 额外增加的经常性开支可用于，增加资助托儿服务名额、长者资助宿位及日间护理服务名额，及公立医疗服务等公共服务； · 其次，政府有 ...",
+          "position": 61
+        },
+        {
+          "title": "[PDF] 男女平等战略",
+          "link": "https://www.archive.polioeradication.org/wp-content/uploads/2020/07/Gender_Strategy_CH.pdf",
+          "snippet": "性别动态以多种方式. 在消灭脊灰的工作中发挥作用，包括妇女参与免疫. 接种活动，男女儿童是否能平等地接种疫苗，家庭和. 社区中关于是否为儿童接种疫苗的决策权，等等。 我很 ...",
+          "position": 62
+        },
+        {
+          "title": "男女平等：法国的优先事项",
+          "link": "https://cn.ambafrance.org/%E7%94%B7%E5%A5%B3%E5%B9%B3%E7%AD%89-%E6%B3%95%E5%9B%BD%E7%9A%84%E4%BC%98%E5%85%88%E4%BA%8B%E9%A1%B9-40661",
+          "snippet": "男女平等是法国政府的一个优先事项。法国欧洲与外交部通过其女权外交将这一承诺推广到国际层面。法国在各国际组织内主张男女平等，致力于将这一目标纳入到各项议题中， ...",
+          "position": 63
+        },
+        {
+          "title": "性別平等工作法 - 全國法規資料庫",
+          "link": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=N0030014",
+          "snippet": "雇主對受僱者之退休、資遣、離職及解僱，不得因性別或性傾向而有差別待遇。 工作規則、勞動契約或團體協約，不得規定或事先約定受僱者有結婚、懷孕、分娩或育兒之情事時，應行 ...",
+          "position": 64
+        },
+        {
+          "title": "促进女性职场平等的四种方法 - ADB Blogs",
+          "link": "https://blogs.adb.org/zh/four-ways-advance-equality-women-workplace",
+          "snippet": "开发性金融机构和民间社团正在共同努力，以发展可持续业务并产生影响。然而，性别不平等和多元化问题仍有待解决。 尽管在过去几年，企业界加大了性别平等的 ...",
+          "date": "2021年11月15日",
+          "position": 65
+        },
+        {
+          "title": "认真应对工作场所的性别平等问题刻不容缓",
+          "link": "https://www.ilo.org/zh-hans/resource/article/%E8%AE%A4%E7%9C%9F%E5%BA%94%E5%AF%B9%E5%B7%A5%E4%BD%9C%E5%9C%BA%E6%89%80%E7%9A%84%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89%E9%97%AE%E9%A2%98%E5%88%BB%E4%B8%8D%E5%AE%B9%E7%BC%93",
+          "snippet": "必须消除招聘和晋升方面的歧视，并考虑采取平权行动，根除顽固的性别差距。我们还必须向世界各地的女性伸出援手，包括那些经常被边缘化的具有多重身份的女性， ...",
+          "date": "2021年3月8日",
+          "position": 66
+        },
+        {
+          "title": "行政院性別平等會",
+          "link": "https://gec.ey.gov.tw/",
+          "snippet": "最新消息 · 性別平等觀測站.jpg. 性別平等觀測站logo · 性別視聽分享站.jpg. 性別視聽分享站logo · 國際資訊交流站.jpg. 國際資訊交流站logo · 地方性平有go站.jpg. 地方性 ...",
+          "position": 67
+        },
+        {
+          "title": "性別平等專區 - 經濟部",
+          "link": "https://www.moea.gov.tw/MNS/populace/content/ContentMenu.aspx?menu_id=25239",
+          "snippet": "性別平等專區 · 性平政策/計畫與成果 · 性平運作機制 · 性別統計 · 性騷擾防治專區 · 性別意識培力及宣導 · 意識培力 · 性別影響評估 · 相關連結 · 各主題網站 · 相關機關 ...",
+          "position": 68
+        },
+        {
+          "title": "性别平等，还有多遥远？ - Malaysiakini",
+          "link": "https://www.malaysiakini.com/columns/602527",
+          "snippet": "退出劳动市场不代表没有劳作。女性是家庭里的照护者，照护工作创造了价值，但却没有因此换得回馈。家庭被界定为私领域，不论是照护低幼的儿童或年迈的长辈，付 ...",
+          "date": "2021年12月10日",
+          "position": 69
+        },
+        {
+          "title": "內政部全球資訊網-中文網-性別平等專區",
+          "link": "https://www.moi.gov.tw/cl.aspx?n=116",
+          "snippet": "性別平等專區 · CEDAW教材 · 本部性別平等專案小組 · 性別統計 · 性別平等相關計畫及成果 · 性別平等業務考核 · 民眾向行政機關引用CEDAW指引及案例（民眾版） · 本部各所屬 ...",
+          "position": 70
+        },
+        {
+          "title": "目标3：促进两性平等并赋予妇女权力",
+          "link": "http://openknowledge.fao.org/items/021d9e24-d97f-473d-a607-4b3981028d28",
+          "snippet": "... 平等，确保农业政策和计划考虑性别问题，聆听妇女作为可持续发展平等伙伴的声音。农业方面实现男女平等，赋予妇女权能，不仅应该做到，而且对农业发展和粮食安全至关重要。",
+          "position": 71
+        },
+        {
+          "title": "IIGF观点| 王遥、石琳：精准投资赋能女性是助力非洲实现可持续发展 ...",
+          "link": "https://iigf.cufe.edu.cn/info/1012/9296.htm",
+          "snippet": "在此背景下，促进对非投资实施性别友好的策略，对于解决非洲面临的性别平等挑战、赋能非洲女性以及推动包容性经济增长具有深远而重大意义。 一、背景. 中非 ...",
+          "date": "6天前",
+          "position": 72
+        },
+        {
+          "title": "各國性別平等資訊 - 外交部",
+          "link": "https://www.mofa.gov.tw/News.aspx?n=446&sms=169",
+          "snippet": "... 外交部消除對婦女一切形式歧視公約（CEDAW）特色教材（第四版） · 外交部性平文宣. ::: 首頁 · 政府資訊公開 · 性別主流化專區 · 各國性別平等資訊. 各國性別平等資訊. _.",
+          "position": 73
+        },
+        {
+          "title": "国际民航组织发布关于全球航空业性别平等状况的新数据 - ICAO",
+          "link": "https://www.icao.int/Newsroom/Pages/ZH/ICAO-releases-survey-data-on-status-of-global-aviation-gender-equality.aspx",
+          "snippet": "全球女性飞行员的比例从3.6%增加到4.0%，其中亚太地区和拉丁美洲/加勒比地区的增幅最高。北美地区以4.6%的女性飞行员在全球比例最高，其次是非洲和欧洲，分别 ...",
+          "date": "2023年4月27日",
+          "position": 74
+        },
+        {
+          "title": "性別平等工作法相關權益 - 勞動部",
+          "link": "https://www.mol.gov.tw/1607/28162/28166/28268/",
+          "snippet": "性別平等工作法相關權益 · 各地方提供工作場所性騷擾被害人之相關資源 · 性別平等工作法新制上路，勞動部準備好了! · 性別平等工作法修法重點 · 職場性騷擾 ...",
+          "date": "2024年2月16日",
+          "position": 75
+        },
+        {
+          "title": "[PDF] 日本的性别差距- 金融与发展- 2019年3月号",
+          "link": "https://www.imf.org/external/chinese/pubs/ft/fandd/2019/03/pdf/gender-equality-in-japan-yamaguchi.pdf",
+          "snippet": "日本在性别平等方面并未取得进步，至少相. 对于世界其他国家来说是这样。尽管日本政府近. 年来通过了多项促进女性经济活动的立法，但根. 据世界经济论坛2018 年性别差距 ...",
+          "position": 76
+        },
+        {
+          "title": "“男女平等”长在欧洲人骨子里 - 新华网",
+          "link": "http://www.xinhuanet.com/world/2016-05/12/c_1118850180.htm",
+          "snippet": "男女平等”长在欧洲人骨子里---欧洲的性别平等观，其实是建立在一个高度均质性的社会结构基础上的。最近在做一项与中西方性别观念有关的调查， ...",
+          "date": "2016年5月12日",
+          "position": 77
+        },
+        {
+          "title": "[PDF] 平等的中断 - 中华人民共和国国史网",
+          "link": "http://hprc.cssn.cn/gsyj/shs/fnshs/201402/P020180413412402239201.pdf",
+          "snippet": "文化平等和社会平等½ \" 也有人认为男女平等主要是人格的平等,权利平. 等要建立在人格平等之上¾ \" 但在主张用性别公正代替男女平等的论述中,一般认为男女平等过. 于强调男女 ...",
+          "position": 78
+        },
+        {
+          "title": "日本政府就联合国有关男女平等建议提出强烈抗议 - RFI",
+          "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20241030-%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E5%B0%B1%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%89%E5%85%B3%E7%94%B7%E5%A5%B3%E5%B9%B3%E7%AD%89%E5%BB%BA%E8%AE%AE%E6%8F%90%E5%87%BA%E5%BC%BA%E7%83%88%E6%8A%97%E8%AE%AE",
+          "snippet": "... 性夫妇别姓”。 委员会此前已经三次就规定夫妻同姓的日本民法条款提出修正建议，此次为第四次，委员会还建议修正《皇室典范》，以保障皇位继承中的男女平等。",
+          "date": "5天前",
+          "position": 79
+        },
+        {
+          "title": "2022年01月31日--综合--2021年度性别平等十大新闻事件揭晓",
+          "link": "http://epaper.legaldaily.com.cn/fzrb/content/20220131/Articel03006GN.htm",
+          "snippet": "深圳市出台我国内地首部广告性别平等审视指南；中国女航天员迈出中国女性舱外太空行走第一步；第四期中国妇女社会地位调查数据显示，对男女平等的认同达到新 ...",
+          "date": "2022年1月31日",
+          "position": 80
+        },
+        {
+          "title": "SDGs 目標5｜實現性別平等，並賦予婦女權力 - 未來城市＠天下",
+          "link": "https://futurecity.cw.com.tw/article/1287",
+          "snippet": "SDG5 性別平權包含哪些細項目標（Targets）？ ... 5.1 終結所有對婦女和女童的各種形式歧視。 5.2 消除在公共和私人領域對女性的各種形式的暴力，包括人口走私、 ...",
+          "date": "2024年10月1日",
+          "position": 81
+        },
+        {
+          "title": "台湾举行2024年同志游行绿蓝白三大党皆到场参与 - 美国之音",
+          "link": "https://www.voachinese.com/a/taiwan-lgbt-pride-20241026/7840089.html",
+          "snippet": "未来，政府会持续落实性别平等，让每个人都可以活出骄傲的自己。 ... 萧美琴则指出，虽然推动性别平权的过程中有挫折也有进步，台湾在大家共同 ...",
+          "date": "2024年10月26日",
+          "position": 82
+        },
+        {
+          "title": "性別平等教育法 - 全國法規資料庫",
+          "link": "https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=H0080067",
+          "snippet": "學校不得因學生之性別、性別特質、性別認同或性傾向而給予教學、活動、評量、獎懲、福利及服務上之差別待遇。但性質僅適合特定性別、性別特質、性別認同或性傾向者，不在此 ...",
+          "position": 83
+        },
+        {
+          "title": "从标志性场馆到性别平等，2024年巴黎奥运会为何如此特别？",
+          "link": "https://olympics.com/zh/news/iconic-venues-gender-parity-what-makes-olympic-games-paris-2024-special",
+          "snippet": "2024年巴黎奥运会：性别平等与可持续发展. 性别平等和可持续发展是2024年巴黎奥运会的两大核心理念，也是本届奥运会与以往的区别所在。 巴黎奥运会将首次 ...",
+          "date": "2024年7月24日",
+          "position": 84
+        },
+        {
+          "title": "臺北市性別平等辦公室",
+          "link": "https://www.oge.gov.taipei/",
+          "snippet": "臺北市性別平等辦公室 · 性平辦10週年活動 · 517國際不再恐同日：快閃彩虹角落！7天限定在 · 鏡頭下SDGs x 性別平等瞬間全民影像展 · 多元性別家庭型態（連結至同志家庭摺頁）.",
+          "position": 85
+        },
+        {
+          "title": "台灣性別平等教育協會Taiwan Gender Equity Education Association ...",
+          "link": "https://tgeea.org.tw/",
+          "snippet": "TGEEA 台灣性別平等教育協會我們持續辦理種子講師培訓、各級教師研習；努力開發教材教法、編寫書籍教案；積極推動性別平等教育的立法、協助落實，並監督成效； ...",
+          "position": 86
+        },
+        {
+          "title": "日本为推动性别平等与女性赋权而付出的努力 - YouTube",
+          "link": "https://www.youtube.com/watch?v=07KtR0Uxf6E",
+          "snippet": "国际女性会议“WAW！”由日本政府于2014年发起，旨在推动实现性别平等与女性赋权。在WAW ...\n时长： 2:01\n发布时间： 2022年11月28日",
+          "date": "2022年11月28日",
+          "position": 87
+        },
+        {
+          "title": "性別平等專區 - 衛生福利部",
+          "link": "https://www.mohw.gov.tw/np-4329-1.html",
+          "snippet": "衛生福利部性別平等專案小組 · 本部性騷擾防治措施 · 教育訓練 · 性別統計專區 · 性別主流化專區 · 性別主流化人才資料庫-專家學者名單 · CEDAW消除對婦女一切形式歧視 ...",
+          "position": 88
+        },
+        {
+          "title": "20世纪妇女解放运动、女性主义与中西方女性艺术",
+          "link": "http://www.longlatifoundation.org/20%E4%B8%96%E7%BA%AA%E5%A6%87%E5%A5%B3%E8%A7%A3%E6%94%BE%E8%BF%90%E5%8A%A8%E3%80%81%E5%A5%B3%E6%80%A7%E4%B8%BB%E4%B9%89%E4%B8%8E%E4%B8%AD%E8%A5%BF%E6%96%B9%E5%A5%B3%E6%80%A7%E8%89%BA%E6%9C%AF/?lang=zh-hans",
+          "snippet": "法国哲学家西蒙·波伏娃于1949年发表的著作《第二性》首次在承认男女差异化的前提下提出了女性并无需使自身男性化去获取平等权利；相较于生理特征，性别的 ...",
+          "date": "2022年6月23日",
+          "position": 89
+        },
+        {
+          "title": "性別平等相關法規 - 臺南市政府性別主流化專區",
+          "link": "https://ge.tainan.gov.tw/cl.aspx?n=24666",
+          "snippet": "性別平等相關法規 · 消除對婦女一切形式歧視公約施行法 · 司法院釋字第七四八號解釋施行法 · 性別工作平等法 · 性別平等教育法 · 性騷擾防治法 · 家庭暴力防治法 · 性侵害 ...",
+          "position": 90
+        },
+        {
+          "title": "各國改善性別平等有哪些策略？ - 國家教育研究院電子報",
+          "link": "https://epaper.naer.edu.tw/edm.php?eg_name=%E5%9C%8B%E9%9A%9B%E8%84%88%E5%8B%95&edm_no=208&content_no=3636",
+          "snippet": "貳、各國性別平等教育政策方案 · 1. 霸凌的處置方式。 · 2. 學校制服的替代方案。 · 3. 提供性別友善廁所。 · 4. 在換衣間及校外教學活動時提供安全空間。 · 5. 提供適齡 ...",
+          "position": 91
+        },
+        {
+          "title": "联合国可持续发展集团| 跨性别女性期待着自由平等的世界",
+          "link": "https://unsdg.un.org/zh/latest/videos/kuaxingbienuxingqidaizheziyoupingdengdeshijie",
+          "snippet": "此视频讲述了墨西哥城一个简陋街区的\"Casa de las Muñecas Tiresias\"庇护所中变 ...\n时长： 2:47\n发布时间： 2020年12月10日",
+          "date": "2020年12月10日",
+          "position": 92
+        },
+        {
+          "title": "【纪念“北京+25”】媒介图景中的性别平等 - 法学学部",
+          "link": "https://fxxb.xtu.edu.cn/info/1187/3630.htm",
+          "snippet": "前言1995年，第四次世界妇女大会在北京召开，大会通过了《北京宣言》和《行动纲领》，成为全球性别平等运动的又一里程碑。在北京世界妇女大会25周年到来 ...",
+          "date": "2020年10月26日",
+          "position": 93
+        },
+        {
+          "title": "性别平等是维护家庭文化价值的重要因素 - Mega Story",
+          "link": "https://special.vietnamplus.vn/2022/03/15/binhdanggioi/",
+          "snippet": "同时高度重视预防和打击家庭暴力、虐待妇女儿童、保障家庭妇女儿童安全等工作。此外，支持妇女发展家庭经济的活动取得了良好的成效，为提高会员和妇女生活 ...",
+          "date": "2022年3月15日",
+          "position": 94
+        },
+        {
+          "title": "臺中市政府性別平等專區",
+          "link": "https://ge.taichung.gov.tw/",
+          "snippet": "活動花絮 · 遇到跟蹤騷擾怎麼辦 · 臺中市政府原住民族事務委員會111年歲時祭性別平等年曆 · 臺中市政府社會局婦女福利及性別平等科簡介 · 希朵出任務！CEDAW · 新女子臺中 ...",
+          "position": 95
+        },
+        {
+          "title": "彭博2022年性别平等指数数据征集工作启动",
+          "link": "https://www.bloombergchina.com/press/pressrelease-20210601/",
+          "snippet": "彭博于2021年6月1日宣布启动2022年彭博性别平等指数(GEI)数据征集工作，欲参与企业可依据性别平等指数(GEI)报告框架提交其性别相关数据。",
+          "date": "2021年6月1日",
+          "position": 96
+        },
+        {
+          "title": "让“她”绽放——基于CSR报告的中国企业性别平等实践调研发布",
+          "link": "https://www.csr-china.net/a/guandian/shouyeguandian/20150424/2989.html",
+          "snippet": "19.25%的企业关注到女性抚养孩子的权利。中国移动关注女性员工发展，成立女工委员会，对女员工开展专项保护。中国远洋签订了“女职工特殊保护专项集体合同”， ...",
+          "date": "2015年4月24日",
+          "position": 97
+        },
+        {
+          "title": "性別平等專區-我國相關法令",
+          "link": "https://www.pthg.gov.tw/ge/cp.aspx?n=031BCF595120AABC",
+          "snippet": "消除對婦女一切形式歧視公約施行法性別平等教育法性別平等工作法性騷擾防治法跟蹤騷擾防制法家...",
+          "position": 98
+        },
+        {
+          "title": "什么才是真正的“男女平等”？ - 搜狐",
+          "link": "https://www.sohu.com/a/351318562_120271802",
+          "snippet": "性别平等通常是一种简称，或者说简明表达，意思是说：女性和男性应该被平等对待——并且这种平等对待是正当合理的。在议会中要求两性平等的呼吁， ...",
+          "date": "2019年11月3日",
+          "position": 99
+        }
+      ],
+      "images": [
+        {
+          "title": "性别平权：如何解决性别比例失衡问题- BBC 英伦网",
+          "imageUrl": "http://c.files.bbci.co.uk/95AD/production/_105671383_p06ychs2.jpg",
+          "link": "https://www.bbc.com/ukchina/simp/vert-fut-47263934"
+        },
+        {
+          "title": "这10个国家近乎实现性别平等| 世界经济论坛",
+          "imageUrl": "https://assets.weforum.org/editor/JEgrq92HG9YVc5PBAlrNjxlodK7YgErtMssXPk9_hU4.png",
+          "link": "https://cn.weforum.org/stories/2020/01/zhe-10-ge-guo-jia-jin-hu-shi-xian-xing-bie-ping-deng/"
+        },
+        {
+          "title": "性别平等- 维基百科，自由的百科全书",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Igualtat_de_sexes.svg/170px-Igualtat_de_sexes.svg.png",
+          "link": "https://zh.wikipedia.org/zh-cn/%E6%80%A7%E5%88%A5%E5%B9%B3%E7%AD%89"
+        },
+        {
+          "title": "性别平权：如何解决性别比例失衡问题- BBC 英伦网",
+          "imageUrl": "http://c.files.bbci.co.uk/DADB/production/_105672065_gettyimages-1061464084-594x594.jpg",
+          "link": "https://www.bbc.com/ukchina/simp/vert-fut-47263934"
+        },
+        {
+          "title": "中美比一比| 两国性别平权还有哪些绊脚石？",
+          "imageUrl": "http://image.thepaper.cn/www/image/4/571/678.jpg",
+          "link": "https://m.thepaper.cn/newsDetail_forward_1379918"
+        },
+        {
+          "title": "中美比一比| 两国性别平权还有哪些绊脚石？",
+          "imageUrl": "http://image.thepaper.cn/www/image/4/571/682.jpg",
+          "link": "https://m.thepaper.cn/newsDetail_forward_1379918"
+        },
+        {
+          "title": "麦肯锡专题报告∣新时代的半边天：中国职场性别平等现状与展望 ...",
+          "imageUrl": "https://www.mckinsey.com.cn/wp-content/uploads/2023/08/feature-image_764x437.jpg",
+          "link": "https://www.mckinsey.com.cn/%E9%BA%A6%E8%82%AF%E9%94%A1%E4%B8%93%E9%A2%98%E6%8A%A5%E5%91%8A%E2%88%A3%E6%96%B0%E6%97%B6%E4%BB%A3%E7%9A%84%E5%8D%8A%E8%BE%B9%E5%A4%A9%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%81%8C%E5%9C%BA%E6%80%A7%E5%88%AB/"
+        },
+        {
+          "title": "2024年全球性别平等状况：完全弥合性别差距还需多少年？ | 世界经济论坛",
+          "imageUrl": "https://assets.weforum.org/editor/XsNua8X3YgArklXkCam07J8X1xDUAzCKSLiZ8ZVcDoM.png",
+          "link": "https://cn.weforum.org/agenda/2024/09/global-gender-gap-2024-what-to-know-cn/"
+        },
+        {
+          "title": "目标5：实现性别平等，增强所有妇女和女童的权能- 可持续发展",
+          "imageUrl": "https://www.un.org/sustainabledevelopment/wp-content/uploads/sites/6/2024/01/2309739_C_SDG_2023_infographics_5-5-225x300.jpg",
+          "link": "https://www.un.org/sustainabledevelopment/zh/gender-equality/"
+        }
+      ],
+      "peopleAlsoAsk": [
+        {
+          "question": "平权是什么意思？",
+          "snippet": "平权是一个汉语词汇，读音为píng quán，意思是权利平等，没有大小之分。",
+          "title": "平权_百度百科",
+          "link": "https://baike.baidu.com/item/%E5%B9%B3%E6%9D%83/9955624"
+        }
+      ],
+      "relatedSearches": [
+        {
+          "query": "平权主义"
+        },
+        {
+          "query": "平权意思"
+        },
+        {
+          "query": "gender男"
+        },
+        {
+          "query": "为什么平等很重要"
+        },
+        {
+          "query": "平权运动"
+        },
+        {
+          "query": "平权法案"
+        },
+        {
+          "query": "gender填什么"
+        },
+        {
+          "query": "gender中文"
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "性别平权",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "什么才是真正的“男女平等”？ - 搜狐",
+          "link": "https://www.sohu.com/a/351318562_120271802",
+          "snippet": "性别平等通常是一种简称，或者说简明表达，意思是说：女性和男性应该被平等对待——并且这种平等对待是正当合理的。在议会中要求两性平等的呼吁， ...",
+          "date": "2019年11月3日",
+          "position": 1
+        },
+        {
+          "title": "性別歧視- 平等機會委員會",
+          "link": "https://www.eoc.org.hk/zh-hk/discrimination-laws/sex-discrimination-laws",
+          "snippet": "根據《性別歧視條例》，共同工作場所內的場所使用者，對同屬場所使用者的人作出性騷擾和基於餵哺母乳的騷擾，即使兩者沒有僱傭關係或類似僱傭關係，亦屬違法。「場所使用者 ...",
+          "position": 2
+        },
+        {
+          "title": "Equality & Non-Discrimination | 平等和不歧视 - UN Free & Equal",
+          "link": "https://www.unfe.org/zh/know-the-facts/challenges-solutions/equality-non-discrimination",
+          "snippet": "每个人都无差别地有权享有所有人权，包括在法律面前受到平等对待的权利，以及获得保护免于受到基于包括性取向和性别认同在内的各种理由的歧视的权利。 歧视性法律和政策.",
+          "position": 3
+        },
+        {
+          "title": "性別平等專區-勞動部全球資訊網中文網",
+          "link": "https://www.mol.gov.tw/1607/28752/28798/nodelist",
+          "snippet": "性別平等專區. 1即時公告 · 2性別平等專案小組 · 3性別平等推動計畫 · 4性別統計 · 5本部CEDAW專區 · 6行政院性別平等會就業及經濟組專區 · 7勞動及性別研究 · 8勞動新知 ...",
+          "position": 4
+        },
+        {
+          "title": "性別平等專區- 資訊公開 - 數位發展部",
+          "link": "https://moda.gov.tw/information-service/govinfo/genderequality/1253",
+          "snippet": "性別平等專區 · 數位策略 · 韌性建設 · 資源管理 · 數位政府 · 民主網絡 · 多元創新 · 數位產業署 · 資通安全署 · 公告訊息.",
+          "position": 5
+        },
+        {
+          "title": "人工智能中的性别不平等与算法规制 - 法信",
+          "link": "https://www.faxin.cn/lib/Flwx/FlqkContent.aspx?gid=F813120",
+          "snippet": "在形形色色的人工智能技术应用场景中,存在着大量强化性别不平等的现象.如何改变这一状况,充分利用新兴技术来促进性别平等措施的落地,是算法规制的重要内容.",
+          "position": 6
+        },
+        {
+          "title": "【音频专题】科技是性别平等的关键驱动力| 联合国日内瓦",
+          "link": "https://www.ungeneva.org/zh/news-media/news/2023/03/78778/yinpinzhuanti-kejishixingbiepingdengdeguanjianqudongli",
+          "snippet": "本周在纽约总部开幕的妇女地位委员会第67 届会议的优先主题为：“创新和技术变革，以及为实现性别平等、赋予所有妇女和女童权力的数字时代教育”，以期解决 ...",
+          "date": "2023年3月8日",
+          "position": 7
+        },
+        {
+          "title": "授权发布：中国性别平等与妇女发展 - 新华网",
+          "link": "http://news.xinhuanet.com/politics/2015-09/22/c_1116636886.htm",
+          "snippet": "2005年修订的妇女权益保障法增加了禁止对妇女实施性骚扰的规定，2012年颁布实施的《女职工劳动保护特别规定》明确要求用人单位应当预防和制止对女 ...",
+          "date": "2015年9月22日",
+          "position": 8
+        },
+        {
+          "title": "中华人民共和国与斯洛伐克共和国关于建立战略伙伴关系的联合声明 ...",
+          "link": "https://www.mfa.gov.cn/zyxw/202411/t20241101_11519962.shtml",
+          "snippet": "（一）双方重视维护双边关系及中欧关系的平等性、互利性、连续性、一贯性。 （二）双方致力于加强高层往来，促进两国政府、立法机构、地方、政党 ...",
+          "date": "3天前",
+          "position": 9
+        },
+        {
+          "title": "韩媒：韩国人年龄越小，性别平等意识越强 - 国际新闻- 环球网",
+          "link": "https://world.huanqiu.com/article/47g0AbbaDlw",
+          "snippet": "调查还显示，受访者年龄越小，性别平等意识相对越强。对于“家庭生计应主要由男性负责”，47.5%的60岁以上男性和40%的60岁以上女性表示认同，20-29岁的男性 ...",
+          "date": "2022年4月19日",
+          "position": 10
+        },
+        {
+          "title": "性別平等教育相關資訊 - 國家運輸安全調查委員會",
+          "link": "https://www.ttsb.gov.tw/1133/1206/1220/1227/1470//post",
+          "snippet": "兩性平權是建立在相互尊重與合作的架構上，而不是女權主義的高漲或兩性間的對立。只有兩性和諧共處，社會與國家才能安定。 推動兩性平權其實不應向 ...",
+          "date": "2023年1月10日",
+          "position": 11
+        },
+        {
+          "title": "性別平等政策綱領 - 桃園市政府性別平等辦公室",
+          "link": "https://www.oge.tycg.gov.tw/web/news/details.aspx?nid=641&etype=0&key=&type=5",
+          "snippet": "性別平等政策綱領(以下簡稱性平綱領)整體架構為總論及7篇專論（核心議題），內容包含三大基本理念、七大核心議題。三大基本理念分別為：「性別平等是保障社會公平正義的 ...",
+          "position": 12
+        },
+        {
+          "title": "职场男女平权/沈小珍 - 南洋商报",
+          "link": "https://www.enanyang.my/%E8%A8%80%E8%AE%BA/%E8%81%8C%E5%9C%BA%E7%94%B7%E5%A5%B3%E5%B9%B3%E6%9D%83%E6%B2%88%E5%B0%8F%E7%8F%8D",
+          "snippet": "首先，我们来谈谈男女不平权的主观想法。一般人会认为，女性在职场上的竞争力没有男性强，首要原因是女性天生体质不如男性，不能爬高爬低做粗活；每个月遇 ...",
+          "date": "2020年1月4日",
+          "position": 13
+        },
+        {
+          "title": "尊重差异平等依存正确理解和认识男女平等价值观 - 中国网",
+          "link": "http://www.china.com.cn/news/2017-08/17/content_41427596.htm",
+          "snippet": "男女两性虽然自然属性不同，但差异不等于差距，正是有生理构造不同的男性与女性，才会有丰富多彩、缤纷斑斓的美丽世界。男女两性不是对立、对抗的等级关系 ...",
+          "date": "2017年8月17日",
+          "position": 14
+        },
+        {
+          "title": "教育部為何不修正性別平等教育法的英文標題，以「equality」取代 ...",
+          "link": "https://www.gender.edu.tw/web/index.php/m1/m1_03_03_c?sid=42",
+          "snippet": "問與答 ... 教育部為何不修正性別平等教育法的英文標題，以「equality」取代「equity」? ... 一、本案業於108年5月28日召開本部性別平等教育委員會政策規劃組 ...",
+          "date": "2023年9月5日",
+          "position": 15
+        },
+        {
+          "title": "东京奥运男女比近1:1，图释奥运性别平等之路 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/kuaibao_detail.jsp?contid=13901841&from=kuaibao",
+          "snippet": "东京奥运男女比近1:1，图释奥运性别平等之路 ... 东京奥运会期间，有关性别公平，争议最大的可能是——女运动员该穿几厘米的裤子，以及谁有权规定女性运动员该穿什么。 不过， ...",
+          "position": 16
+        },
+        {
+          "title": "性别平等从“娃娃”抓起！我市将全面开展中小学性别平等教育！",
+          "link": "http://www.pwccw.gd.gov.cn/gcxc/content/post_162845.html",
+          "snippet": "这是我市贯彻落实广东省妇儿工委、省教育厅、省妇联的部署，从源头上促进男女平等基本国策落实的举措之一。开展中小学（含中职学校，下同）性别平等教育，目的是从小培养 ...",
+          "position": 17
+        },
+        {
+          "title": "上海合作组织副秘书长出席第二届欧亚安全国际会议",
+          "link": "https://chn.sectsco.org/20241103/1589396.html",
+          "snippet": "... 性”的共识，表示上合组织始终主张在坚持联合国中心协调作用、遵守国际法准则、尊重文明多样性前提下，推动各国开展平等互利合作。 上海合作组织副秘书 ...",
+          "date": "1天前",
+          "position": 18
+        },
+        {
+          "title": "[PDF] 各國性別平等資訊",
+          "link": "https://www.boca.gov.tw/dl-2806-4580a64c3ec742539d98d062ccdbd9a8.html",
+          "snippet": "整體而言，瓜國男女參政比例不平等，如2011 年出現第一. 位女性副總統，內閣部會首長（男性21 名，女性8 名）女. 性比例為21.43％，國會（男性138 名，女性20 名）女議. 員 ...",
+          "position": 19
+        },
+        {
+          "title": "性別平等教育專區",
+          "link": "https://www.nocsh.ntpc.edu.tw/ischool/publish_page/91/",
+          "snippet": "提倡性別平等教育是為了造就一個兩性都能夠同樣享有個人基本人權、不受歧視及不受傳統性別角色規限的學習和成長環境，讓每個人都能發揮自己的潛能，達到充分的個人發展，並 ...",
+          "position": 20
+        },
+        {
+          "title": "性別工作平等法 - 長庚大學",
+          "link": "https://www.cgu.edu.tw/gender/Subject?nodeId=7761",
+          "snippet": "長庚大學 · 最新消息. 法令宣導 · 函文轉知 · 近期活動 · 性平會組成. 本屆委員 · 性平會歷屆委員名單 · 規章辦法. 長庚大學性平會規章 · 下載專區. 校園性侵害性騷擾或性 ...",
+          "position": 21
+        },
+        {
+          "title": "性別平等專區 - 經濟部",
+          "link": "https://www.moea.gov.tw/Mns/populace/content/Content.aspx?menu_id=25239",
+          "snippet": "性別平等專區. 性平政策/計畫與成果 · 性平運作機制 · 性別統計分析 · 性騷擾防治.",
+          "date": "2天前",
+          "position": 22
+        },
+        {
+          "title": "美国大选热点观察丨教育：美式党争之下校园难有净土 - 新华网",
+          "link": "http://www.news.cn/world/20241102/8a980293d3ed4861af18dd1935d8319e/c.html",
+          "snippet": "美国多项平权运动兴起，围绕种族、性别认同等议题的讨论变得更加尖锐，且 ... 批评人士认为，这种“择校”政策削弱了公共教育的普惠性，进一步加剧了教育不 ...",
+          "date": "2天前",
+          "position": 23
+        },
+        {
+          "title": "研报集纳｜“生”还是“升”？ 职场女性困境仍待解 - 财新指数- Caixin",
+          "link": "https://index.caixin.com/2023-05-12/102054914.html",
+          "snippet": "对于造成职场性别不平等的原因，大多数女性倾向于归因于生育，而男性归因于社会制度。57%的女性认为“生育是女性摆脱不掉的负担”。而尽管男女（44%左右）都 ...",
+          "date": "2023年5月12日",
+          "position": 24
+        },
+        {
+          "title": "性別平等 - 羅東戶政- 宜蘭縣政府",
+          "link": "https://ldhro.e-land.gov.tw/cp.aspx?n=41F51A6FA2672860",
+          "snippet": "為何推動「性別主流化」？ 性別平等是一種價值，而不是特定人口的福利；性別平等不等於婦女福利。性別主流化要求政府全盤地檢討目前勞動、福利、教育、環保、警政、醫療等 ...",
+          "position": 25
+        },
+        {
+          "title": "性平宣導-性平花精靈 - 臺中市政府性別平等專區",
+          "link": "https://ge.taichung.gov.tw/content/index.aspx?Parser=1,6,37",
+          "snippet": "性平花精靈 ... 希朵（性平花精靈）簡介：. 希朵為本市的性別平等吉祥物，以「 ...",
+          "position": 26
+        },
+        {
+          "title": "阿富汗塔利班禁女性在公共场合说话财经新闻Financial News",
+          "link": "http://www.aastocks.com/sc/mobile/news.aspx?newsid=IC4382426&newssource=INFOCAST",
+          "snippet": "#阿富汗#性别平权. 推荐本文, 你认为这是利好/ 利淡消息? 推荐. 推荐. 利好 ... AASTOCKS.com Limited对以上资讯的内容不承担任何责任，对其准确性 ...",
+          "date": "3天前",
+          "position": 27
+        },
+        {
+          "title": "性別平等專區 - 國立中科實驗高級中學",
+          "link": "https://www.nehs.tc.edu.tw/category/%E6%80%A7%E5%88%A5%E5%B9%B3%E7%AD%89%E5%B0%88%E5%8D%80/",
+          "snippet": "【轉知】教育部國民及學前教育署近期重要性別平等教育宣導事項 ... 因應112年8月16日修正公布施行之「性別平等教育法」變動幅度大(以下簡稱性平法)(https://law.m...",
+          "position": 28
+        },
+        {
+          "title": "性別平等教育 - 國立陽明交通大學國際事務處",
+          "link": "https://oia.nycu.edu.tw/oia/ch/app/artwebsite/view?module=artwebsite&id=601&serno=cfd6ba16-348c-4c09-aee1-bc004cc380d7",
+          "snippet": "性別平等教育 · 性平申訴案件受理窗口：卓專員 · 陽明校區 · 02-28267000分機62100 · escho@nycu.edu.tw.",
+          "position": 29
+        },
+        {
+          "title": "女性地位低？不宜片面强调“性别平等” - 新浪新闻",
+          "link": "https://news.sina.cn/zl/2016-05-26/zl-ifxsqxxs7683456.d.html",
+          "snippet": "性别的不平等是个历史现象，也是个文化现象。社会发展，不会允许某个性别无休止地拔高自己到地位。行政权力干预性别平等，好处固然多，但后遗症也不少 ...",
+          "date": "2016年5月26日",
+          "position": 30
+        },
+        {
+          "title": "海報專區 - 桃園市政府性別平等辦公室",
+          "link": "https://www.oge.tycg.gov.tw/web/poster/list.aspx?cid=2",
+          "snippet": "性平e摺學-挺身而進女力前行. 認識出租公地管理提升民眾性平觀念1. 認識出租公地管理提升民眾性平觀念2. 桃園市政府x 小紅帽推動月經平權文宣(正面). 桃園市政府x ...",
+          "position": 31
+        },
+        {
+          "title": "第480章《性別歧視條例》 - Hong Kong e-Legislation",
+          "link": "https://www.elegislation.gov.hk/hk/cap480!zh-Hant-HK",
+          "snippet": "(3). 任何人 ——. (a) · (5). 即使《鄉議局條例》(第1097章)或其他條例有任何規定，凡任何人或團體(或其任何成員)是經由女性並未能與男性在平等的條款下以 ...",
+          "date": "2024年8月18日",
+          "position": 32
+        },
+        {
+          "title": "自治区商务厅关于行政规范性和政策性文件清理结果的通知",
+          "link": "https://dofcom.nx.gov.cn/xwzx_274/tzgg/202411/t20241101_4715740.html",
+          "snippet": "为持续优化商务领域法治化营商环境，进一步强化法治政府建设能力水平，根据自治区全面依法治区委员会办公室关于印发《关于清理涉及不平等对待企业法规规章 ...",
+          "date": "3天前",
+          "position": 33
+        },
+        {
+          "title": "美国是如何以“性别”之名，对肯尼亚社会进行渗透的？-清华大学国际 ...",
+          "link": "https://www.guancha.cn/IIAS/2024_11_04_754056.shtml",
+          "snippet": "美国在肯尼亚的性别平等项目不仅意图赋权女性，还借助性别与其他领域项目进行交叉，强化美肯两国的社会、文化和政治等各方面的联系，助力美国在非洲的 ...",
+          "date": "34分钟前",
+          "position": 34
+        },
+        {
+          "title": "【廣宣】性別主流化與性別平權、營造友善家庭職場環境",
+          "link": "https://tiip.itnet.org.tw/news_page.php?m=6&pk=404",
+          "snippet": "性別主流化與性別平權宣導-消除性別歧視、重視性別意識營造友善家庭職場環境宣導-力行家務分擔家庭和樂升溫、員工工作安穩企業情相升等 附件下載: 性別主流化與性別 ...",
+          "position": 35
+        },
+        {
+          "title": "性別大節日－有意義的七天假之11/30性別平等日 - 婦女新知基金會",
+          "link": "https://www.awakening.org.tw/news/4572",
+          "snippet": "性別大節日－有意義的七天假之11/30性別平等日 ... 11月30日是彭婉如女士遇難的日子，也是台灣婦女運動中重要的時刻點；婦女新知基金會呼籲應將本日訂為台灣 ...",
+          "date": "2017年11月29日",
+          "position": 36
+        },
+        {
+          "title": "冰島小知識：冰島的性別平等| Guide to Iceland - 冰岛旅游",
+          "link": "https://cn.guidetoiceland.is/connect-with-locals/6640/the-gender-quality-in-iceland-women-power-and-feminism",
+          "snippet": "雖然早在1961 年冰島就已經為“Equal Pay”立過法，但並無顯著成效性別收入差距依然存在，直到2015年為止，冰島的女性平均薪金依然比男性低14-20%。而透過這項新的法案通過， ...",
+          "position": 37
+        },
+        {
+          "title": "日本政府就联合国有关男女平等建议提出强烈抗议 - 博谈网",
+          "link": "https://botanwang.com/articles/202410/%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E5%B0%B1%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%89%E5%85%B3%E7%94%B7%E5%A5%B3%E5%B9%B3%E7%AD%89%E5%BB%BA%E8%AE%AE%E6%8F%90%E5%87%BA%E5%BC%BA%E7%83%88%E6%8A%97%E8%AE%AE.html",
+          "snippet": "委员会此前已经三次就规定夫妻同姓的日本民法条款提出修正建议，此次为第四次，委员会还建议修正《皇室典范》，以保障皇位继承中的男女平等。 关键词:.",
+          "date": "4天前",
+          "position": 38
+        },
+        {
+          "title": "[PDF] 性別平等徵文第一名108 吳珮琦",
+          "link": "http://host.dyjh.tyc.edu.tw/~k51off05/New2/Data/P2/P2-3/P2-040.pdf",
+          "snippet": "你這樣的說他、笑她，可能會導. 致她心靈上的傷害，嚴重的，有可能會毀掉他們的人生。 女生和男生都是未來的主人翁，我們要提倡男女平等，. 使男生和女生都擁有一樣的機會 ...",
+          "position": 39
+        },
+        {
+          "title": "多元性別LGBTQI - NUU 國立聯合大學性別平等教育委員會",
+          "link": "https://gee.nuu.edu.tw/p/412-1026-5696.php",
+          "snippet": "大致有兩個層面的意涵，第一種是源於日本動漫遊戲（ACG，anime,comics and games）次文化的虛擬角色設定類型，在日文稱為「男の娘」、「女装少年」等等。第二種則是現實 ...",
+          "position": 40
+        },
+        {
+          "title": "七台河市市场监管局联合市禁毒办开展易成瘾性药品安全专项检查和 ...",
+          "link": "https://mpa.hlj.gov.cn/mpa/c113537/202411/c00_31781619.shtml",
+          "snippet": "执法人员与公安民警通过现场查看药品台账、访谈询问等方式，重点检查药店右美沙芬复方制剂、普瑞巴林、卡马西平等易成瘾性药品是否按处方销售，以及 ...",
+          "date": "1天前",
+          "position": 41
+        },
+        {
+          "title": "品牌如何不踩性别平权中的坑？ - 搜狐",
+          "link": "https://www.sohu.com/a/332555548_120129343",
+          "snippet": "... 性别平权”。 【品牌性别平权之路与坑】. 性别认同一致性理论（Gender-Identity Congruence Theory）指出，消费者通常会在产品性能的基础上，选择购买 ...",
+          "date": "2019年8月9日",
+          "position": 42
+        },
+        {
+          "title": "中华人民共和国与斯洛伐克共和国关于建立战略伙伴关系的联合声明",
+          "link": "https://www.farmer.com.cn/2024/11/01/wap_99968747.html",
+          "snippet": "（一）双方重视维护双边关系及中欧关系的平等性、互利性、连续性、一贯性。 （二）双方致力于加强高层往来，促进两国政府、立法机构、地方、政党 ...",
+          "date": "2天前",
+          "position": 43
+        },
+        {
+          "title": "教育：美式党争之下校园难有净土 - 四川在线",
+          "link": "https://focus.scol.com.cn/zgsz/202411/82641284.html",
+          "snippet": "美国多项平权运动兴起，围绕种族、性别认同等议题的讨论变得更加尖锐，且 ... 批评人士认为，这种“择校”政策削弱了公共教育的普惠性，进一步加剧了教育不 ...",
+          "date": "2天前",
+          "position": 44
+        },
+        {
+          "title": "为促进民营经济健康发展提供坚实法治保障 - 光明网-理论频道",
+          "link": "https://theory.gmw.cn/2024-11/02/content_37653412.htm",
+          "snippet": "依法制止行政性垄断，强化公平竞争审查刚性约束，对促进民营经济发展意义重大。 实行全国统一的市场准入负面清单制度，保证民营经济组织平等获得各种生产 ...",
+          "date": "2天前",
+          "position": 45
+        },
+        {
+          "title": "臺北市性別人才資料庫",
+          "link": "https://www.oge.gov.taipei/cp.aspx?n=A3030AE6C82EBD5B",
+          "snippet": "臺北市性別人才資料庫 · 性別平等概念檢核表-臺北市性平辦製作1081014 · 訓練教材. ::: 首頁 · 性別主流化 · 性別意識培力 · 臺北市性別人才資料庫. 臺北市性別人才資料庫.",
+          "position": 46
+        },
+        {
+          "title": "2024年性別圖像| 性別平等 - 彰化醫院- 衛生福利部",
+          "link": "https://www.chhw.mohw.gov.tw/?aid=60&pid=118&iid=3",
+          "snippet": "行政院性別平等處於1月31日發布「2023年性別圖像」，依2021年性別不平等指數（Gender Inequality Index, GII）計算，我國性別平等表現亮眼， ...",
+          "date": "2024年2月27日",
+          "position": 47
+        },
+        {
+          "title": "中华人民共和国与斯洛伐克共和国关于建立战略伙伴关系的联合声明",
+          "link": "https://toutiao.xzdw.gov.cn/ttxw/202411/t20241102_522517.html",
+          "snippet": "... 性增长、可持续发展、社会平等 ... (一)双方重视维护双边关系及中欧关系的平等性、互利性、连续性、一贯性。",
+          "date": "22小时前",
+          "position": 48
+        },
+        {
+          "title": "左支部性別平等講習營造友善安全職場 - 軍聞社",
+          "link": "https://mna.gpwb.gov.tw/news/detail/?UserKey=73e2053c-ad5e-4f45-b658-c1904096f7b6",
+          "snippet": "黃小柔首先以自身於演藝圈工作期間相關經驗，與在場官兵分享；隨後也針對兩性相處、性別平等，逐一提出個人經歷及見解，藉以引導官兵發言、分享及研討，並 ...",
+          "date": "3天前",
+          "position": 49
+        },
+        {
+          "title": "坚持用科学方法指导和推进改革 - 国务院国有资产监督管理委员会",
+          "link": "http://www.sasac.gov.cn/n2588025/n2588134/c32014804/content.html",
+          "snippet": "要坚持法律面前人人平等，平等保护全体公民和法人的合法权益，不能搞选择性执法，更不能搞法外开恩。 坚持破和立的辩证统一，这是进一步全面深化改革 ...",
+          "date": "3天前",
+          "position": 50
+        },
+        {
+          "title": "性平專區 - 國立員林崇實高級工業職業學校",
+          "link": "https://www.csvs.chc.edu.tw/MyPage.php?Wrapper=au-sa&NT_NO=MTU=&FirstPage=1&FromMenu=MTM2Nzg5NDgyMjAy",
+          "snippet": "教育部檢送「校園性別事件防治準則」（以下簡稱防治準則）第3... 3. 2024/10/25, 國教署轉知教育部辦理「114年性別平等教育日展覽」案，並 ...",
+          "position": 51
+        },
+        {
+          "title": "5.ジェンダー平等を実現しよう | SDGsクラブ - 日本ユニセフ",
+          "link": "https://www.unicef.or.jp/kodomo/sdgs/17goals/5-gender/",
+          "snippet": "ジェンダー平等を実現しよう. “男女平等を実現し、 すべての女性と女の子の能力を伸ばし可能性を広げよう”. 5 ...",
+          "position": 52
+        },
+        {
+          "title": "台灣同志遊行回顧近20年性別平權之路－ BBC News 中文- YouTube",
+          "link": "https://www.youtube.com/watch?v=T2odQXnohkA",
+          "snippet": "台灣於本週六（26日）舉辦第22屆同志遊行。主辦方表示，參加人數超過18萬，創下自2019年同婚法案通 ...\n时长： 6:56\n发布时间： 2024年10月26日",
+          "date": "2024年10月26日",
+          "position": 53
+        },
+        {
+          "title": "性別平等教育專區 - 國立臺中教育大學附設實驗國民小學",
+          "link": "https://www.ntctcps.tc.edu.tw/link/%E6%80%A7%E5%88%A5%E5%B9%B3%E7%AD%89%E6%95%99%E8%82%B2%E5%B0%88%E5%8D%80/",
+          "snippet": "性別平等教育專區 · 1.本校性別平等教育實施規定 · 2.本校校園性別事件防治規定 · 3.本校性別平等委員會設置要點 · 4.本校教職員工性騷擾防治措施及申訴處理要點 · 5.中教 ...",
+          "position": 54
+        },
+        {
+          "title": "习近平同芬兰总统斯图布会谈 - 武胜县人民政府",
+          "link": "https://www.wusheng.gov.cn/gasylbzj/c110436/zzzq/content/content_1851423012083384320.html",
+          "snippet": "中方愿同芬方加强应对气候变化、生物多样性保护、全球可持续发展、人工智能治理等问题的沟通和合作，携手维护世界和平稳定，推动构建平等有序的世界多极化 ...",
+          "date": "5天前",
+          "position": 55
+        },
+        {
+          "title": "「平等」是天賦人權讓我們一起來守護 - PeoPo 公民新聞",
+          "link": "https://www.peopo.org/news/703135",
+          "snippet": "今年是性別平等教育法上路的第20週年，新北市平溪區公所，藉由廁所整修，改造為「性別友善廁所」。打破傳統分男女廁的方式，將男女廁規劃在同一空間同一個 ...",
+          "date": "4天前",
+          "position": 56
+        },
+        {
+          "title": "联合国建议与日本政府反应：天皇继承权与性别平等之争 - 网易",
+          "link": "https://www.163.com/dy/article/JFVKBF840524K8JC.html",
+          "snippet": "根据《皇室典范》，皇位继承权历来仅限男性，这一规定在现代社会中常被批评为性别歧视。联合国的建议正是为了推动性别平等，然而日本政府对此持保留态度， ...",
+          "date": "2天前",
+          "position": 57
+        },
+        {
+          "title": "习近平同芬兰总统斯图布会谈 - 中央网络安全和信息化委员会办公室",
+          "link": "https://www.cac.gov.cn/2024-10/29/c_1731892625292155.htm",
+          "snippet": "... 平等交往的典范。当前，世界百年变局加速演进，人类社会面临的风险挑战 ... 性挑战提出的重大倡议理念，重视中方在国际事务中的重要影响以及发挥的稳定性 ...",
+          "date": "5天前",
+          "position": 58
+        },
+        {
+          "title": "习近平同芬兰总统斯图布会谈",
+          "link": "https://www.mohrss.gov.cn/SYrlzyhshbzb/dongtaixinwen/shizhengyaowen/202410/t20241030_528685.html",
+          "snippet": "芬方赞赏中方在国际关系中坚持大小国家一律平等，赞赏习近平主席为解决当今世界各种全球性挑战提出的重大倡议理念，重视中方在国际事务中的重要影响以及 ...",
+          "date": "5天前",
+          "position": 59
+        },
+        {
+          "title": "读《素食者》和男女平等的探讨| www.wenxuecity.com - 文学城",
+          "link": "https://www.wenxuecity.com/blog/202411/61309/1813.html",
+          "snippet": "事后统计，女性乘客的幸存率是男性乘客的四倍。因为在上救生船时船员们坚守“女士和儿童优先”。 这一事件令一些反对女权主义的人提出： 如果是男女平等， ...",
+          "date": "7小时前",
+          "position": 60
+        },
+        {
+          "title": "再谈谈DEI平权运动对一个社会最根本的危害。",
+          "link": "https://user.guancha.cn/main/content?id=1323846&s=fwzlwzbt",
+          "snippet": "中文互联网上对于京东杨笠事件的讨论，大多数仍然围绕着男女权力这个小议题，鲜有将其背后更大的危险给点透。什么危害呢？本质性的，也就是我在《再谈 ...",
+          "date": "5天前",
+          "position": 61
+        },
+        {
+          "title": "聯合國籲日本修改皇室典範實現性別平等日政府強烈抗議 - 橙新聞",
+          "link": "https://www.orangenews.hk/international/1243767/%E8%81%AF%E5%90%88%E5%9C%8B%E7%B1%B2%E6%97%A5%E6%9C%AC%E4%BF%AE%E6%94%B9%E7%9A%87%E5%AE%A4%E5%85%B8%E7%AF%84%E5%AF%A6%E7%8F%BE%E6%80%A7%E5%88%A5%E5%B9%B3%E7%AD%89-%E6%97%A5%E6%94%BF%E5%BA%9C%E5%BC%B7%E7%83%88%E6%8A%97%E8%AD%B0.shtml",
+          "snippet": "據共同社報道，聯合國消除對婦女歧視委員會周二（29日）發表聲明，呼籲日本修改僅限男性繼承皇位的皇室典範，以實現性別平等。對此，日本內閣官房長官 ...",
+          "date": "5天前",
+          "position": 62
+        },
+        {
+          "title": "习近平同芬兰总统斯图布会谈 - 北京市人民政府外事办公室",
+          "link": "https://wb.beijing.gov.cn/home/gjjwzx/wsyw/202410/t20241030_3930787.html",
+          "snippet": "... 平等，赞赏习近平主席为解决当今世界各种全球性挑战提出的重大倡议理念，重视中方在国际事务中的重要影响以及发挥的稳定性、建设性作用，愿同中方加强 ...",
+          "date": "5天前",
+          "position": 63
+        },
+        {
+          "title": "金砖国家领导人第十六次会晤喀山宣言（全文） - 外交部",
+          "link": "https://www.mfa.gov.cn/zyxw/202410/t20241024_11515637.shtml",
+          "snippet": "这为更加平等公正、民主平衡的多极世界秩序铺平道路，也为新兴市场和发展中国家释放建设性潜力、享受普惠包容和公平的经济全球化与合作提供更多机会。考虑 ...",
+          "date": "2024年10月24日",
+          "position": 64
+        },
+        {
+          "title": "國立基隆女子高級中學- 性別平等教育專區 - Google Sites",
+          "link": "https://sites.google.com/gml.klgsh.kl.edu.tw/gender/%E9%A6%96%E9%A0%81",
+          "snippet": "以性或性別有關之行為，作為自己或他人獲得、喪失或減損其學習或工作有關權益之條件者。 （三）性霸凌：指透過語言、肢體或其他暴力，對於他人之性別特徵、性別特質、性 ...",
+          "position": 65
+        },
+        {
+          "title": "性平辦10週年北市首創性別平等人權市集 - 焦點時報",
+          "link": "https://focus.586.com.tw/2024/10/29/p325883/",
+          "snippet": "北市性別平等辦公室成立滿十年！28日於市政府舉辦十周年活動，並首創全國「性別平等人權市集」，匯集了女性運動、LGBT+多元性別、家庭照顧關懷、女性 ...",
+          "date": "6天前",
+          "position": 66
+        },
+        {
+          "title": "《江西省实施〈中华人民共和国妇女权益保障法〉办法》11月起施行",
+          "link": "https://jx.ifeng.com/c/8eDB1i1yi2D",
+          "snippet": "《实施办法》共九章54条，针对当前结婚生育、财产分配、人身权利等领域侵害妇女合法权益的问题作出了修订，并且明确写入了男女平等评估、性别统计制度、反家庭暴力联动工作 ...",
+          "position": 67
+        },
+        {
+          "title": "中国催生政策不敌经济下滑现实今年前三季度结婚人数较去年同比下降",
+          "link": "https://www.voachinese.com/a/marriage-registrations-in-china-drop-for-the-first-nine-months-of-2024-20241103/7849360.html",
+          "snippet": "过去也有分析人士指出，中国社会始终未解决男女地位平等问题，包括天价彩礼、买房成为“结婚入场券”等畸形文化，让年轻世代更难走入婚姻。此外，经济形势差 ...",
+          "date": "15小时前",
+          "position": 68
+        },
+        {
+          "title": "联大以压倒性多数通过决议敦促美国结束对古巴封锁",
+          "link": "http://cpc.people.com.cn/n1/2024/1101/c64387-40351833.html",
+          "snippet": "决议重申各国主权平等、不干预和不干涉各国内政等原则。 联大在决议中再次呼吁所有国家根据《联合国宪章》和国际法规定的义务，避免颁布或实施限制性法律 ...",
+          "date": "3天前",
+          "position": 69
+        },
+        {
+          "title": "114年性別平等教育日展覽 - 雲林縣立東和國中",
+          "link": "https://thjh.ylc.edu.tw/News_Content.aspx?n=114074&s=286174",
+          "snippet": "結合性別議題與光影沉浸式體驗，透過科技與互動設計帶領觀展者深入探索性別的多樣性與豐富性，提升性別平等的認知與意識。 (四)本次展覽內容具教育意義，請協助轉知學校可 ...",
+          "position": 70
+        },
+        {
+          "title": "多措并举推进无障碍环境建设 - 光明网",
+          "link": "https://news.gmw.cn/2024-11/04/content_37654634.htm",
+          "snippet": "... ，让身体有缺陷、身患残疾或有特殊需求的困难群体平等 ... 性、基础性、兜底性 ... 性和有效性。 《光明日报》（2024年11月04日 06 ...",
+          "date": "4小时前",
+          "position": 71
+        },
+        {
+          "title": "新課綱016-性別平權的措施 - YouTube",
+          "link": "https://www.youtube.com/watch?v=0jj5J-jKWrA",
+          "snippet": "0:00 intro 0:20 對應章節0:37 性別平等教育法1:17 性別工作平等法3:06 除了 ...\n时长： 3:51\n发布时间： 2021年7月30日",
+          "date": "2021年7月30日",
+          "position": 72
+        },
+        {
+          "title": "文山性別平權專區 - 桃園市桃園區文山國民小學",
+          "link": "https://www.wsps.tyc.edu.tw/nss/p/genderB",
+          "snippet": "編輯器 ... 一、依據：. 性別平等教育法第12條第3款，學校應訂定性別平等教育實施規定，並公告周知。 二、宗旨：. (一) 以教育方式消除性別歧視，促進性別地位之實質平等。 ( ...",
+          "position": 73
+        },
+        {
+          "title": "林靜芸／男女平權改寫了隆乳的歷史 - 元氣網- 聯合報",
+          "link": "https://health.udn.com/health/story/7403/8316105",
+          "snippet": "女權主義者認為隆乳助長女性外貌的物化，長期反對隆乳。隨著性別平權意識的增強，女性自主權提升，對大部份女性來說，隆乳不再是為了討好男.",
+          "date": "8天前",
+          "position": 74
+        },
+        {
+          "title": "性平辦10週年北市首創性別平等人權市集 - Yahoo奇摩新聞",
+          "link": "https://tw.news.yahoo.com/%E6%80%A7%E5%B9%B3%E8%BE%A610%E9%80%B1%E5%B9%B4-%E5%8C%97%E5%B8%82%E9%A6%96%E5%89%B5%E6%80%A7%E5%88%A5%E5%B9%B3%E7%AD%89%E4%BA%BA%E6%AC%8A%E5%B8%82%E9%9B%86-180324323.html",
+          "snippet": "北市性別平等辦公室成立滿十年！28日於市政府舉辦十周年活動，並首創全國「性別平等人權市集」，匯集了女性運動、LGBT+多元性別、家庭照顧關懷、女性 ...",
+          "date": "6天前",
+          "position": 75
+        },
+        {
+          "title": "韓國捍衛「性別平等部」的女性：「有人必須先開拓一條道路出來」",
+          "link": "https://www.youtube.com/watch?v=bwJLQ6pa0sI",
+          "snippet": "韓國政府正在推動廢除「性別平等部」 —— 儘管這個國家存在著巨大的性別薪資差距與廣泛的性別 ...\n时长： 4:19\n发布时间： 2022年12月20日",
+          "date": "2022年12月20日",
+          "position": 76
+        },
+        {
+          "title": "諾貝爾經濟、和平獎皆頒予女性突顯性別平等議題 - YouTube",
+          "link": "https://www.youtube.com/watch?v=t6jEvfKbZNM",
+          "snippet": "2023年諾貝爾和平獎頒給伊朗女權鬥士穆哈瑪迪，經濟學獎則由美國經濟學家高爾丁獲獎，兩個獎 ...\n时长： 4:35\n发布时间： 2023年10月22日",
+          "date": "2023年10月22日",
+          "position": 77
+        },
+        {
+          "title": "女权主义让男性受苦？男女之间会有真正的公平吗？【#不同温层 ...",
+          "link": "https://www.youtube.com/watch?v=TErpUEfbauw",
+          "snippet": "... 男女之间可能平等吗？ 29:04 平等的定义32:33 女权的最后，就是无性别平权34:24 新加 ...\n时长： 42:34\n发布时间： 2024年4月14日",
+          "date": "2024年4月14日",
+          "position": 78
+        },
+        {
+          "title": "性別平權(彰化新聞網",
+          "link": "https://tnews.cc/047/NewsCell279470.htm",
+          "snippet": "性別平權意即主張不論生理或心理之不同性別者，在政治、經濟、社會和家庭中應受到平等的對待，不應該基於性別而歧視某一方，甚至因刻板印象而剝奪每 ...",
+          "date": "2024年10月15日",
+          "position": 79
+        },
+        {
+          "title": "航空性別平等！ 華航.星宇新設計「女性褲裝制服」 - YouTube",
+          "link": "https://www.youtube.com/watch?v=H-sriXC-3IU",
+          "snippet": "航空性別平等！ 華航.星宇新設計「女性褲裝制服」｜華視新聞20241102‪@CtsTw‬. 1.2K views · 12 ...\n时长： 0:51\n发布时间： 2天前",
+          "date": "2天前",
+          "position": 80
+        },
+        {
+          "title": "国际妇女日：作为女性，你对男女平权有什么样的主张？ - YouTube",
+          "link": "https://www.youtube.com/watch?v=UQCfl4-7HJw",
+          "snippet": "Share your videos with friends, family, and the world.\n时长： 0:36\n发布时间： 2019年3月8日",
+          "date": "2019年3月8日",
+          "position": 81
+        },
+        {
+          "title": "性別平權突破？日本最高法院針對跨性別者的罕見判決 - YouTube",
+          "link": "https://www.youtube.com/watch?v=6gdoUhwrM2s",
+          "snippet": "未來大人物報名/推薦：https://www.surveycake.com/s/Xlng3 未來大人物活動網站 ...\n时长： 11:06\n发布时间： 2023年7月15日",
+          "date": "2023年7月15日",
+          "position": 82
+        },
+        {
+          "title": "【性別平權未竟之路】跨性別者的告白｜兩岸同婚行不行？ - YouTube",
+          "link": "https://www.youtube.com/watch?v=pMdt8fWOfJQ",
+          "snippet": "性別平權#性別#華視新聞雜誌#跨性別#跨性別者#男女二分#性別平等#平權#人權#權益#身 ...\n时长： 48:18\n发布时间： 2023年12月9日",
+          "date": "2023年12月9日",
+          "position": 83
+        },
+        {
+          "title": "女性爭取權益就是自助餐？MeToo加深性別對立？ ft.政大法學院特聘 ...",
+          "link": "https://m.youtube.com/watch?v=BTSWsqbrepk",
+          "snippet": "... 性別議題有興趣嗎？一起來聽聽教授怎麼說！#MeToo # ... 為何男女理解“性別平等 ...\n时长： 43:05\n发布时间： 2023年7月6日",
+          "date": "2023年7月6日",
+          "position": 84
+        },
+        {
+          "title": "男女平权新标准：男人不再是标准？ - YouTube",
+          "link": "https://www.youtube.com/watch?v=lhlqlgVuidY",
+          "snippet": "女人需要提升自己！”提升到什么标准？提升到男人的标准，这似乎一直是整个世界和女性自我帮助运 ...\n时长： 30:01\n发布时间： 2019年11月5日",
+          "date": "2019年11月5日",
+          "position": 85
+        },
+        {
+          "title": "全球反女權風氣升溫！？年輕Z世代性別意識竟然倒退嚕！女生當兵 ...",
+          "link": "https://www.youtube.com/watch?v=PG28yvs1YoQ",
+          "snippet": "美國Z世代、南韓二代男，為何世界各地都有\"年輕人仇女\"的傾向呢? 男女平權真的那麼難嗎 ...\n时长： 14:24\n发布时间： 2024年6月28日",
+          "date": "2024年6月28日",
+          "position": 86
+        },
+        {
+          "title": "平權主義者，如何應對無處不在的對立困境？ | 觀念碰撞所- YouTube",
+          "link": "https://www.youtube.com/watch?v=PTnn-6emIDM",
+          "snippet": "... 性別對立的三種觀點02:00 烏托邦式的性別平等理論02:40 父權體制與系統性問題 ...\n时长： 32:31\n发布时间： 4天前",
+          "date": "4天前",
+          "position": 87
+        },
+        {
+          "title": "20230211 性別平等〝好好講〞，瞭解性別平權跟上國際趨勢 - YouTube",
+          "link": "https://www.youtube.com/watch?v=dGC380-Fe90",
+          "snippet": "... 平權現象，帶大家探討性平議題，先帶大家瞭解〝性別〞的定義，在知道性別並非只有以往單 ...\n时长： 22:53\n发布时间： 2023年2月11日",
+          "date": "2023年2月11日",
+          "position": 88
+        },
+        {
+          "title": "20230211 性別平等〝好好講〞，瞭解性別平權跟上國際趨勢 - YouTube",
+          "link": "https://www.youtube.com/watch?v=JUoQDNrdaa0",
+          "snippet": "... 性別不平等案例，相信今日透過呂教授專業的講解及實務案例分享，能讓更多市民朋友瞭解性別平權 ...\n时长： 22:53\n发布时间： 2023年2月11日",
+          "date": "2023年2月11日",
+          "position": 89
+        },
+        {
+          "title": "新。聞之間【性別平權夠不夠？女性主義Let's go！】 平權路上不能不 ...",
+          "link": "https://www.youtube.com/watch?v=xcjYhYpCz2M",
+          "snippet": "... 性別平權路上，我們能一起做什麼努力！ #新聞之間#新聞#女權#女性主義#世新大學#SHU ...\n时长： 48:43\n发布时间： 2021年4月23日",
+          "date": "2021年4月23日",
+          "position": 90
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

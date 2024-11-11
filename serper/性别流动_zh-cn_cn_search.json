@@ -1,0 +1,1836 @@
+{
+  "query": "性别流动",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-04T00:31:58.533039",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "性别流动",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "流性人_百度百科",
+          "link": "https://baike.baidu.com/item/%E6%B5%81%E6%80%A7%E4%BA%BA/17742147",
+          "snippet": "流性人主要指认为自己性别是流动的、随时间发生变化的人。流性人内心对自我性别的认知（性别认同）并不始终限定于某个性别，可随着时间变化而变化。性别并不是非男即女的 ...",
+          "position": 1
+        },
+        {
+          "title": "流动性别 - Nonbinary Wiki",
+          "link": "https://nonbinary.wiki/wiki/Genderfluid/zh-cn",
+          "snippet": "流动性别（Genderfluid），又称流性别/Gender-fluid，性别流动/Gender Fluid，或流体性别/Fluid Gender，是一个位于多性别，非二元性别，以及跨性别伞下的性别身份。流动性别的 ...",
+          "position": 2
+        },
+        {
+          "title": "流动的性别：除了男性/女性，我们如何描画“性别”的多样性？ - 搜狐",
+          "link": "https://www.sohu.com/a/433894719_119350",
+          "snippet": "当你在网络上搜索“性别分类”相关的关键词，将获得超过60种性别分类标签，其中不仅有人们熟知的LGBT、酷儿、无性别，还包括两性人（Androgyne）、顺性人（Cis）、 ...",
+          "date": "2020年11月24日",
+          "position": 3
+        },
+        {
+          "title": "非二元性别- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%A5",
+          "snippet": "他们一生中可能会在不同的性别表达之间波动，或是在其性别表达中同时囊括多个性别的特征。性别流动者也可能认同于双性别、三性别以及泛性别等标签。",
+          "position": 4
+        },
+        {
+          "title": "性别只有男和女？走进原始部落的“流动性别” - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_8779178",
+          "snippet": "在西方殖民者尚未踏足美洲大陆时，印第安部落中广泛承认男女之外的“流动性别”的存在。在印第安人的观念中，男性和女性并非仅有的两种性别，也并非截然对立的 ...",
+          "date": "2020年8月20日",
+          "position": 5
+        },
+        {
+          "title": "非二元性別 - 維基百科",
+          "link": "https://zh.wikipedia.org/zh-tw/%E6%80%A7%E5%88%A5%E6%B5%81%E5%8B%95",
+          "snippet": "非二元性別者可能介於傳統定義上男性和女性表現之間（中性），認同在男女之外的第三性別，認同多於一個性別（雙性別、三性別、泛性別），認為自己沒有性別（無性別）或在兩者或以上 ...",
+          "position": 6
+        },
+        {
+          "title": "我们应该如何看待性别流动下的当代男装设计？ - NOWRE现客",
+          "link": "https://nowre.com/editorial/491048/womenyinggairuhekandaixingbieliudongxiadedangdainanzhuangsheji/",
+          "snippet": "性别流动，一个在当下早已不再陌生的概念，栖身于21 世纪这样一个反复提倡包容、多元文化认同的时代，性别流动群体逐渐被赋予了更多的理解和尊重。",
+          "date": "2020年7月29日",
+          "position": 7
+        },
+        {
+          "title": "不只是雌雄：性别的起源和流动 - 浙江大学生命演化研究中心",
+          "link": "https://evolution.zju.edu.cn/science/detail55.html",
+          "snippet": "雌雄同体的独立性别演化至少需要两个突变，首先通过初始突变产生雌性/雄性个体，之后通过第二个突变产生雄性/雌性个体。通过雌全异株的中间状态，在性别类型 ...",
+          "date": "2023年8月6日",
+          "position": 8
+        },
+        {
+          "title": "性别流动者：这样的双重身份是时候放下了 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_7441148",
+          "snippet": "性别流体（Gender fluid），是指性别非二元性别理论中的一种自我性别认同。我对自己的性别认同是觉得可以接受作为女性，但心理更偏向男性。我是直到去英国上学 ...",
+          "date": "2020年5月18日",
+          "position": 9
+        },
+        {
+          "title": "关于跨性别的事实- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/healthy-lifestyle/adult-health/in-depth/transgender-facts/art-20266812",
+          "snippet": "性别流动者通常不受性别规范和期望的限制。他们可能认同并表达自己是男性、女性，两者的某种组合，还可能两者都不是。 性别角色。这 ...",
+          "date": "2023年4月21日",
+          "position": 10
+        },
+        {
+          "title": "性别是流动的吗？我们的性别表达是如何被建构的？ - 壹心理",
+          "link": "https://m.xinli001.com/info/100486399",
+          "snippet": "性别“不是一个固定点”. 性别流动性的起源源于性流动性的概念：性取向存在于异性恋、双性恋或同性恋之外，并且可能在一个人的一生中发生转变。 美国犹他大学 ...",
+          "date": "2022年9月24日",
+          "position": 11
+        },
+        {
+          "title": "性别流动，完全不是一个后现代观念 - QQ News",
+          "link": "https://news.qq.com/rain/a/20200426A06ZIM00",
+          "snippet": "性别流动，完全不是一个后现代观念. v. 新京报书评周刊. 2020年4月26日10:08新京报书评周刊官方账号. 关注. 图片. 在古代雅典，男性裸露的身体，是被凝视的对象。",
+          "position": 12
+        },
+        {
+          "title": "性别流动，完全不是一个后现代观念| 文化云客厅预告 - 新京报",
+          "link": "https://m.bjnews.com.cn/detail/158787027315980.html",
+          "snippet": "性别流动，完全不是一个后现代观念| 文化云客厅预告. 新京报编辑张婷. 2020-04-26 11:19. 文化现场. 订阅. 4月19日，新京报·文化云客厅系列直播第六期，我们邀请艺术史研究 ...",
+          "position": 13
+        },
+        {
+          "title": "全球学者流动性存在性别差异 - 中国社会科学网",
+          "link": "https://cssn.cn/skwxsdt/gjhy/202303/t20230320_5614135.shtml",
+          "snippet": "全球学者流动性存在性别差异 ... 本报综合外媒报道国际认可是学术生涯成功的关键，但英国牛津大学最新研究显示，尽管学者的国际流动性性别差距已缩小，女性学者 ...",
+          "date": "2023年3月20日",
+          "position": 14
+        },
+        {
+          "title": "[PDF] 性别、阶级和流动 - 北京大学社会学系",
+          "link": "http://www.shehui.pku.edu.cn/upload/editor/file/20181026/20181026093047_7348.pdf",
+          "snippet": "这种拟家庭化的劳动关系模式是以小型餐饮. 业的劳动性别分工和年龄分工为基础的，它为男性提供了更大的向上流动的可能性，并把女性. 固化在底层的阶级地位上 ...",
+          "date": "2018年10月26日",
+          "position": 15
+        },
+        {
+          "title": "“性别流动”部长，居然多次偷行李箱？ - 新浪新闻",
+          "link": "https://news.sina.cn/gj/2023-02-26/detail-imyhyscv1294210.d.html",
+          "snippet": "不得不说，这真是一位争议人物——山姆•布林顿（Sam Brinton），拥有麻省理工学院的双硕士学位，自称是“性别流体”，虽是男儿身，但却以爱化妆、穿女装而著称。",
+          "date": "2023年2月26日",
+          "position": 16
+        },
+        {
+          "title": "从挣扎到自信——香港跨性别人士罗小风的人生路- BBC News 中文",
+          "link": "https://www.bbc.com/zhongwen/simp/chinese-news-47289948",
+          "snippet": "香港出生的罗小风是一位健美运动员，是大学助教。她形容自己有时是“他”、有时是“她”，是一位“性别流动者”。",
+          "date": "2019年2月21日",
+          "position": 17
+        },
+        {
+          "title": "社会流动与传统性别意识——以“干得好不如嫁的好”为例",
+          "link": "http://src.ruc.edu.cn/CN/Y2021/V9/I2/92",
+          "snippet": "就社会流动对女性性别观念的影响而言，存在着三种主要的理论解释：（1）阶层无效论，认为在现代社会，每人都能自由选择自己的人生道路，阶层地位的影响已经 ...",
+          "date": "2021年5月28日",
+          "position": 18
+        },
+        {
+          "title": "性别流动创意无限 - JewelleryNet",
+          "link": "https://news.jewellerynet.com/sc/jnanews/features/25767/062624-%E6%80%A7%E5%88%AB%E6%B5%81%E5%8A%A8-%E5%88%9B%E6%84%8F%E6%97%A0%E9%99%90",
+          "snippet": "推崇中性概念的珠宝商日益增加，他们推出更多具有包容性和通用性的珠宝款式，让男士和女士都能展现个人风格。",
+          "date": "2024年6月26日",
+          "position": 19
+        },
+        {
+          "title": "「性别流动」，如何在多元与包容的时尚语境下奏起奇妙旋律 - 搜狐",
+          "link": "https://www.sohu.com/a/462826466_571328",
+          "snippet": "对于Z 世代来说，Hunter Schafer 的名字并不算陌生，借助在美剧Euphoria 中对Jules 一角本色出演般诠释，作为性别错置者的她经已成为年轻一代所热衷追求 ...",
+          "date": "2021年4月25日",
+          "position": 20
+        },
+        {
+          "title": "使用以人为本的理论与性别流动对象的共疗法监督方法 - X-MOL",
+          "link": "https://www.x-mol.com/paper/1372269874566873088/t",
+          "snippet": "作者与一名年轻的成年女性讨论了他们的工作，该成年女性被认为是性别不稳定的。客户是在一个偏僻的中南部小镇上的一名大学生。作者是两位教职员工，他们使用共同疗法监督 ...",
+          "position": 21
+        },
+        {
+          "title": "德国首位“性别流动”模特– DW – 2024年3月15日",
+          "link": "https://www.dw.com/zh/%E5%BE%B7%E5%9B%BD%E9%A6%96%E4%BD%8D%E6%80%A7%E5%88%AB%E6%B5%81%E5%8A%A8%E6%A8%A1%E7%89%B9/video-68560080",
+          "snippet": "白天在联邦议院工作，晚上在伸展台走秀。菲利斯·尼德（Felix Nieder）是德国最成功的男模之一，他可以穿着男装或女装走秀，风格百变。“性别流动”是他对自己 ...",
+          "date": "2024年3月15日",
+          "position": 22
+        },
+        {
+          "title": "我们应该如何看待性别流动下的当代男装设计？ - 时尚- 新浪",
+          "link": "https://fashion.sina.cn/s/in/2020-07-30/detail-iivhuipn5844495.d.html?from=wap",
+          "snippet": "康奈尔所著的《男性气质》中的选段：'当下是时候去拥抱自由意志，无拘无束，没有思想独裁，丢开陈规，呈现一个可以与脆弱、柔情相关，也愿意拥抱恐惧充满慈悲和 ...",
+          "date": "2020年7月30日",
+          "position": 23
+        },
+        {
+          "title": "[PDF] 关于当代中国女性流动人口性别认同的研究 - 北京大学社会学系",
+          "link": "http://www.shehui.pku.edu.cn/upload/editor/file/20240919/20240919091200_4003.pdf",
+          "snippet": "因此，我们建议，改变女性. 流动人口自我性别认同至关重要，目的是提高女. 性流动人口的地位和权利，最终实现性别平等。 二、女性流动人口性别认同的现状.",
+          "date": "2024年9月18日",
+          "position": 24
+        },
+        {
+          "title": "性別流動、順性別…世界在改變，7個你該重新認識的性別關鍵字",
+          "link": "https://www.vogue.com.tw/entertainment/article/7-keywords-for-lgbtq",
+          "snippet": "相對於「順性別」，出生性別、生理性別與心理性別不同者，則稱為「跨性別」。此外，順性別這個詞彙也帶出一些爭議，目前性別和社會運動時常使用的「生理男性」 ...",
+          "date": "2021年5月30日",
+          "position": 25
+        },
+        {
+          "title": "性别是流动的吗？ (豆瓣)",
+          "link": "https://book.douban.com/subject/35184850//",
+          "snippet": "性别表达（gender expression）是指个体怎样向世界展现他们的性别，世界如何影响和塑造他们的性别。这与性别角色以及社会如何强制个体去遵守这些角色有关。 性别流动（ ...",
+          "position": 26
+        },
+        {
+          "title": "性别是流动的吗? - Sally Hines, 海因斯 - Google Books",
+          "link": "https://books.google.com/books/about/%E6%80%A7%E5%88%AB%E6%98%AF%E6%B5%81%E5%8A%A8%E7%9A%84%E5%90%97.html?id=_61azgEACAAJ",
+          "snippet": "本书是英国作者萨莉·海因斯的一本关于性别的科普书.当我们出生时,我们每个人都先天性被分配了性别.但为什么有些人会在他们的生理性行为和他们的个人身份之间产生不和谐 ...",
+          "position": 27
+        },
+        {
+          "title": "政策流动性的理论进路与研究展望 - 地理学报",
+          "link": "https://www.geog.com.cn/CN/10.11821/dlxb202311004",
+          "snippet": "流动的政策既是一种关系现象，也是一种领域现象，即流动的政策并不是简单地脱离地方或领域，而是将彼此遥远的地方或领域联系起来。因此，政策流动性研究应当包含对关系性（显示 ...",
+          "position": 28
+        },
+        {
+          "title": "性别是流动的吗？_百度百科",
+          "link": "https://baike.baidu.com/item/%E6%80%A7%E5%88%AB%E6%98%AF%E6%B5%81%E5%8A%A8%E7%9A%84%E5%90%97%EF%BC%9F/53967165",
+          "snippet": "《性别是流动的吗？》是2020年由中信出版集团出版的书籍，作者是【英】 萨莉·海因斯， 编者是【英】马修·泰勒，译者是刘宁宁。",
+          "position": 29
+        },
+        {
+          "title": "开学第一课：尊重性别的流动性-虎嗅网",
+          "link": "https://m.huxiu.com/article/260977.html",
+          "snippet": "这首名为《只要有一个女人》的诗告诉我们，当我们强调一种男性气质的时候，实际上我们也相应地建构了一种对立的女性气质。表面上，男人因为阳刚的、主宰的、 ...",
+          "date": "2018年9月4日",
+          "position": 30
+        },
+        {
+          "title": "未婚流动人口性与生殖健康知识性别差异分析 - 中国公共卫生",
+          "link": "https://www.zgggws.com/article/id/14861",
+          "snippet": "结果 男性与女性未婚流动人口的性与生殖健康知识水平均较低, 总得分中位数分别为53.2和30.5, 男性各分类知识得分均高于女性, 中位数差值在20分以上。不同性别对象的 ...",
+          "position": 31
+        },
+        {
+          "title": "流动人口城市间流动的时空结构特征及其性别差异 - 地理科学",
+          "link": "http://geoscien.neigae.ac.cn/CN/10.13249/j.cnki.sgs.2015.06.725",
+          "snippet": "基于福建省流动人口问卷调查数据,使用多种流动指标分析和生存分析方法,探讨不同性别流动人口城市间流动的时空特征和规律。研究发现：流动人口的城市间流动是一种常见的 ...",
+          "position": 32
+        },
+        {
+          "title": "以流动看世界——基于彼得·阿迪《流动性》的研究述评 - 热带地理",
+          "link": "https://www.rddl.com.cn/CN/10.13284/j.cnki.rddl.003250",
+          "snippet": "“流动性是一种关系”是作者在本书中阐述的核心观点。具体而言，流动性是一种连接人、物和地方的方式，是一种传达意义、反抗专制政权的方式，是一种接触和理解世界的方式。",
+          "position": 33
+        },
+        {
+          "title": "中国流动人口自评健康状况影响因素及公平性 - 北京大学学报（医学版）",
+          "link": "http://xuebao.bjmu.edu.cn/CN/10.19723/j.issn.1671-167X.2024.02.004",
+          "snippet": "结果: 中国流动人口不健康率为2.71%。年龄和性别对自评健康有显著影响，即随着年龄的增长，流动人口的自评健康逐渐变差，同时女性更容易认为自己不健康。",
+          "date": "2024年4月10日",
+          "position": 34
+        },
+        {
+          "title": "福建省人民代表大会常务委员会关于废止〈福建省流动人口计划生育 ...",
+          "link": "https://wjw.fujian.gov.cn/xxgk/fgwj/flfg/202206/t20220620_5932516.htm",
+          "snippet": "... 流动人口计划生育管理办法》 《福建省禁止非医学需要鉴定胎儿性别和选择性别终止妊娠条例》的决定（2022年3月30日福建省第十三届人民代表大会常务 ...",
+          "date": "2022年4月2日",
+          "position": 35
+        },
+        {
+          "title": "GENDER-FLUID中文(繁体)翻译：剑桥词典",
+          "link": "https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%B9%81%E4%BD%93/gender-fluid",
+          "snippet": "GENDER-FLUID翻译：性別流動的（即主張性別認同是動態變化的，並非局限於特定的一種）。了解更多。",
+          "position": 36
+        },
+        {
+          "title": "性别是流动的吗？ - 图书- 豆瓣",
+          "link": "https://m.douban.com/book/subject/35184850/",
+          "snippet": "性别是流动的吗？豆瓣评分：6.6 简介：性别是流动的吗？ 美国GoldieBlox玩具公司生产了性别中立的玩具，试图挑战人们对儿童玩具的性别刻板印象。为避免对同性恋家长的歧视， ...",
+          "currency": "$",
+          "price": 47.08,
+          "position": 37
+        },
+        {
+          "title": "- YouTube",
+          "link": "https://m.youtube.com/post/UgkxKoNv4_nceGzkLORdptRLhFC2TqraxKvC",
+          "snippet": "23.跨性别（Transgender） - 性别认同与出生时分配的性别不一致。 24.双性恋性别者（Bigender） - 认同两个性别，可能会在它们之间流动。 25.三性别者（ ...",
+          "position": 38
+        },
+        {
+          "title": "流动性风险 - 上海市发展和改革委员会",
+          "link": "https://fgw.sh.gov.cn/ys-hqjrfw-1.3.1.3/index.html",
+          "snippet": "流动性风险. 商业贷款、担保交易、电子支付和绿色融资的监管质量 · 信贷基础设施中的信息可及性和融资可及性 · 商业贷款的良好监管实践 · 进行客户尽职调查和记录保存的 ...",
+          "position": 39
+        },
+        {
+          "title": "新流动范式下非流动性的研究进展与展望 - 地理研究",
+          "link": "https://www.dlyj.ac.cn/CN/10.11821/dlyj020210908",
+          "snippet": "而辩证法则认为“运动是物质的固有属性,非流动性是运动的特殊形态,运动和非流动性相互依赖、渗透和包含”。因此,新流动范式可以采用更多元的研究方法来理解世界的流动性,同时 ...",
+          "position": 40
+        },
+        {
+          "title": "海南省乡镇地区校外青年婚前性行为及其与流动经历关系的研究",
+          "link": "http://chinaepi.icdc.cn/zhlxbx/ch/reader/view_abstract.aspx?file_no=20111108&flag=1",
+          "snippet": "结果获取有效问卷760份（A县322份，B县438份，男女各380份）。女性已婚者比例(39.2%)明显高于男性（11.3%，P＜0.01）。男女被调查者报告有性行为的比例（56.8%和57.9%）以及有婚前性 ...",
+          "position": 41
+        },
+        {
+          "title": "2022年重庆人口发展概况 - 重庆市统计局",
+          "link": "https://tjj.cq.gov.cn/zwgk_233/fdzdgknr/tjxx/sjjd_55469/202304/t20230413_11873987_wap.html",
+          "snippet": "... 流动更加频繁，人口城乡和地区分布进一步优化，人口受教育程度不断提高。一、人口总量持续增长，性别结构保持稳定据2022年人口变动情况抽样调查数据 ...",
+          "date": "2023年4月13日",
+          "position": 42
+        },
+        {
+          "title": "“迄今为止，对女性科学家国际流动性的资助仍有提升潜力” - DAAD 中国",
+          "link": "https://www.daad.org.cn/zh/%E8%BF%84%E4%BB%8A%E4%B8%BA%E6%AD%A2%EF%BC%8C%E5%AF%B9%E5%A5%B3%E6%80%A7%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%9B%BD%E9%99%85%E6%B5%81%E5%8A%A8%E6%80%A7%E7%9A%84%E8%B5%84%E5%8A%A9%E4%BB%8D%E6%9C%89/",
+          "snippet": "出乎意料的是，与参考数据（即欧洲研究理事会和DAAD德国学术交流中心为相同关键国家的可类比目标群体和教授提供的奖学金）的比较清楚地表明，迄今为止，对于女性科学家国际流动 ...",
+          "position": 43
+        },
+        {
+          "title": "[PDF] 2020 年中国儿童人口状况事实与数据 - 国家统计局",
+          "link": "https://www.stats.gov.cn/zs/tjwh/tjkw/tjzl/202304/P020230419425666818737.pdf",
+          "snippet": "童的流动参与率都与男童接近，有了平等的机会跟随父母一起流动，获得更好的照料并从城市资源和公共服务中受益。 15-17 岁儿童在流动原因构成上存在性别差异。7.9%的15 ...",
+          "position": 44
+        },
+        {
+          "title": "性别代词及其重要性- PCADV",
+          "link": "https://www.pcadv.org/zh-CN/%E8%B5%84%E6%BA%90/%E6%80%A7%E5%88%AB%E4%BB%A3%E8%AF%8D%E5%8F%8A%E5%85%B6%E9%87%8D%E8%A6%81%E6%80%A7/",
+          "snippet": "一个人的代词传达了他们的性别认同。 跨性别、性别不合格、性别流动、非二元性和其他LGBTQ+ 人群使用范围广泛.",
+          "position": 45
+        },
+        {
+          "title": "流动人口基本公共卫生服务可及性及影响因素分析",
+          "link": "http://journal.healthpolicy.cn/html/20160813.htm",
+          "snippet": "流动人口基本公共卫生服务可及性既受宏观环境因素的影响，也受个体因素的影响。因此，一方面应提高流出地经济社会发展水平，增加卫生资源供给，为流动流动人口接受相关服务提供 ...",
+          "position": 46
+        },
+        {
+          "title": "CHICVEN「性别流动」设计感小众宽肩飘带中长垂感西装外套女西服",
+          "link": "https://www.taobao.com/list/item/668914922286.htm",
+          "snippet": "欢迎来到淘宝CHIC VEN，选购小众宽肩飘带西装外套，好评率100%，200+用户购后写下真实评论。尺码：XS,S,M,L，面料：涤纶，图案：纯色，风格：街头，领子：西装领，衣门襟：无扣， ...",
+          "rating": 4.9,
+          "ratingCount": 200,
+          "currency": "¥",
+          "price": 269,
+          "position": 47
+        },
+        {
+          "title": "解读《关于促进劳动力和人才社会性流动体制机制改革的意见》",
+          "link": "https://www.zhanjiang.gov.cn/zjsfw/bmdh/rsj/zwgk/zcfg/zcjd/content/post_1382750.html",
+          "snippet": "答：习近平总书记在党的十九大报告中提出，破除妨碍劳动力、人才社会性流动的体制机制弊端，使人人都有通过辛勤劳动实现自身发展的机会。这是聚焦解决当前 ...",
+          "date": "2019年12月27日",
+          "position": 48
+        },
+        {
+          "title": "资本市场制度型开放与流动性共性效应——兼论气候风险的影响",
+          "link": "http://www.jryj.org.cn/CN/abstract/abstract1187.shtml",
+          "snippet": "结果显示:资本市场制度型开放从总体上降低了流动性共性,但A股纳入MSCI指数的政策效应弱于沪深港通,未出现政策叠加效应;机构投资者关联交易作用渠道差异以及放宽跨境资本 ...",
+          "position": 49
+        },
+        {
+          "title": "亚太地区银行女高管：性别、流动与机会 - 先进材料实验室",
+          "link": "https://polysz.cuhk.edu.cn/zh-hans/event/14405",
+          "snippet": "... 性经济中的中层管理团队女性化的新趋势，并以交集性分析法来检视地理位置、性别和职业流动性之间如何相互影响。 主题： 亚太地区银行女高管：性别、流动与 ...",
+          "date": "2021年4月7日",
+          "position": 50
+        },
+        {
+          "title": "社会流动性与公共部门- 为全球财务服务 - ACCA中国",
+          "link": "https://cn.accaglobal.com/insights/c89/social-mobility-and-public-sector.html",
+          "snippet": "支持全球财会行业的发展. 发展中国家面临着日益严峻的社会、经济和环境威胁，包括过快的城市化进程、气候变化、水资源短缺、以及极端天气等一系列问题。这些危机将进一步 ...",
+          "position": 51
+        },
+        {
+          "title": "报告：城市中的性别包容性气候行动- Women4Climate - C40 Cities",
+          "link": "https://www.c40.org/zh-CN/women4climate/resources/women4climate-report-gender-inclusive-climate-action-in-cities/",
+          "snippet": "报告：城市中的性别包容性气候行动. 发表于2019. 在毛里塔尼亚南部塞内加尔 ... 性别流动信息图首页 · 巴塞罗那信息图首页 · 信息图表首页 · 巴黎信息图首页 · 旧金山信息 ...",
+          "position": 52
+        },
+        {
+          "title": "[PDF] 大会",
+          "link": "https://documents.un.org/access.nsf/get?OpenAgent&DS=A/78/227&Lang=C",
+          "snippet": "式和习俗11 的性别多样性和性别多元化历史，性别流动性反映在语言(例如马来语. 中的性别中性代词dia)和传统民间传说中，例如印度尼西亚群岛的srikandi 民间 ...",
+          "date": "2023年7月25日",
+          "position": 53
+        },
+        {
+          "title": "[PDF] 流动模式对流动人口收入影响的性别差异 - 河海大学期刊部",
+          "link": "https://jour.hhu.edu.cn/hhdxxbsk/article/pdf/20160112?file_name=CCE769F6369901D386A342760DDFE740B418BE4B73133BA009264FDF45C2A4F36EFA39DBA36C2492DEB09008B2109DABBE9311FA5F631767F78740735F34E5C5F86F2736323D5C1C&open_type=self",
+          "snippet": "自流动成为主流的情况下，与男性一起进入劳动力. 市场的女性，面对回潮的传统性别观念以及配偶相. 较于自己更为传统的性别分工观念［6］，将如何处理. 家务与工作之间的张力，而 ...",
+          "position": 54
+        },
+        {
+          "title": "Amazon.com: 中国新农村性别结构变迁研究-流动的父权(精)/随园文库 ...",
+          "link": "https://www.amazon.com/%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%86%9C%E6%9D%91%E6%80%A7%E5%88%AB%E7%BB%93%E6%9E%84%E5%8F%98%E8%BF%81%E7%A0%94%E7%A9%B6-%E6%B5%81%E5%8A%A8%E7%9A%84%E7%88%B6%E6%9D%83-%E7%B2%BE-%E9%9A%8F%E5%9B%AD%E6%96%87%E5%BA%93-%E9%87%91%E4%B8%80%E8%99%B9/dp/7565125016",
+          "snippet": "正版授权卖家: Boolee 加微信[soweinc]每天分享好书,邀你加入国际微信群学习交流.微信好友低至5优惠.书名:中国新农村性别结构变迁研究:流动的父权简介:作者:金一虹出版 ...",
+          "currency": "US$",
+          "price": 40.99,
+          "position": 55
+        },
+        {
+          "title": "亚洲的性别、道路和流动性 - X-MOL",
+          "link": "https://www.x-mol.com/paper/1360062627527823360/t",
+          "snippet": "亚洲的性别、道路和流动性 · 选择浏览器打开. 手机自带. APP内置.",
+          "position": 56
+        },
+        {
+          "title": "GENDER-FLUID中文(简体)翻译：剑桥词典",
+          "link": "https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/gender-fluid",
+          "snippet": "GENDER-FLUID翻译：性别流动的（即主张性别认同是动态变化的，并非局限于特定的一种）。了解更多。",
+          "position": 57
+        },
+        {
+          "title": "中国流动人口概念和数据的有效性与国际可比性 - 地理学报",
+          "link": "https://www.geog.com.cn/CN/10.11821/dlxb202212004",
+          "snippet": "在国家卫健委2009—2018年间一年一度的大规模全国性流动人口抽样调查数据中，“流动人口”或“人口流动”也是通过考察相关人员的现住地与其户籍所在地相比是否发生变化来判定的， ...",
+          "position": 58
+        },
+        {
+          "title": "全国妇联：单独居住的农村留守儿童高达205.7万 - 中国政府网",
+          "link": "https://www.gov.cn/jrzg/2013-05/10/content_2400061.htm",
+          "snippet": "流动儿童和留守儿童性别比的差异体现了流动人口在选择携带子女一起外出时存在的性别偏好。 全国妇联：多数流动儿童属于长期流动，平均流动时间3．74年. 新华 ...",
+          "date": "2013年5月10日",
+          "position": 59
+        },
+        {
+          "title": "[PDF] LIST OF TERMS – SEXUAL ORIENTATION, GENDER IDENTITY ...",
+          "link": "https://irb.gc.ca/en/interpreters/Documents/SOGIESC_Glossaries/SOGIESC_List_of_Terms_Mandarin.pdf",
+          "snippet": "性别不符. Gender normative / gender straight. Conforme au genre. 符合一般性别划分的. Genderfluid / gender fluid. Au genre fluide. 性别流动/性别流动. Gender ...",
+          "position": 60
+        },
+        {
+          "title": "秀场直击MAO HOUSE 髦房· 性别流动 - 嘉人",
+          "link": "http://www.mcchina.com/fashion/trend/20240606-123760.shtml",
+          "snippet": "MAOHOUSE髦房高定大秀以“性别流动”为主题拉开帷幕，在黑与白之间，髦房用38套作品演绎了它对时髦高度的探索。 髦房品牌创始人兼设计总监付正说：“性别 ...",
+          "date": "2024年6月6日",
+          "position": 61
+        },
+        {
+          "title": "“文学与流动性”全国学术研讨会会议通知（2号）",
+          "link": "https://www.bfsujournals.com/c/2023-04-03/517233.shtml",
+          "snippet": "文学与流动性”全国学术研讨会会议通知（2号） 流动性既是一种古老的现象，又具有强烈的现实性。它涉及人在空间中的移动，又关联着人在社会结构中的等级 ...",
+          "date": "2023年4月3日",
+          "position": 62
+        },
+        {
+          "title": "江苏省人力资源和社会保障厅人才人事公共服务网",
+          "link": "https://jshrss.jiangsu.gov.cn/col/col57142/index.html",
+          "snippet": "(2024-10-31)江苏省人才流动服务中心关于公布韩聪等... (2024-09-27)江苏省人才 ... 性别. 请选择, 男, 女. 出生年月. 档案号, 姓名, 性别. 320000990107828, **峰, 男.",
+          "position": 63
+        },
+        {
+          "title": "流动人口城市间流动的时空结构特征及其性别差异",
+          "link": "http://geoscien.neigae.ac.cn/article/2015/1000-0690/1000-0690-35-6-725/img_1.jpg.html",
+          "snippet": "流动人口城市间流动的时空结构特征及其性别差异：基于福建省的实证研究. 林李月, 朱宇. The Space -time Paths of the Migrants' Mobility Across Cities and Their ...",
+          "position": 64
+        },
+        {
+          "title": "流动儿童歧视知觉与心理健康水平的关系及其心理机制 - 心理学报",
+          "link": "https://journal.psych.ac.cn/xlxb/CN/Y2009/V41/I10/967",
+          "snippet": "... 流动性的交互作用; (2) 流动儿童的心理健康水平在性别、学校类型和流动性上存在显著的差异, 女孩、来自公立学校的流动儿童、流动性高的儿童的心理健康水平显著差于与之 ...",
+          "position": 65
+        },
+        {
+          "title": "法郎士· 比利亚塔: 菲律宾性别流动的历史| TED Talk",
+          "link": "https://www.ted.com/talks/france_villarta_the_gender_fluid_history_of_the_philippines?language=zh-cn",
+          "snippet": "在世界上很多地方，性别被进行了二元分化：男人或女人，各自基于生物性别，被赋予了特征和气质 ...\n时长： 10:41\n发布时间： 2020年3月9日",
+          "date": "2020年3月9日",
+          "position": 66
+        },
+        {
+          "title": "国家人口计生委办公厅关于印发2012年流动人口计划生育全国“一盘棋 ...",
+          "link": "http://www.nhc.gov.cn/rkjcyjtfzs/zcwj2/201306/18bf2a357e9044cfb0ae279024e76b4e.shtml",
+          "snippet": "建立流动人口数据定期清理、核查、评估制度，增强数据完整性和准确性。强化统计监测数据分析应用，组织开展统计监测分析报告评比。 2.扎实推进两级系统对接 ...",
+          "date": "2012年4月6日",
+          "position": 67
+        },
+        {
+          "title": "Fluid｜性别流动研究社 - 小宇宙",
+          "link": "https://www.xiaoyuzhoufm.com/podcast/660e429c075257f6ffeaabb6",
+          "snippet": "... ｜性别研究社以尊重为前提从性别视角解读社会问题，入门社会学&性别研究高中生，跨学科组合运用性别、性 ... Fluid｜性别流动研究社. llyom. 鱼缸里的探头.",
+          "date": "2024年4月4日",
+          "position": 68
+        },
+        {
+          "title": "[PDF] 中国城镇个人收入流动性研究",
+          "link": "http://www.erj.cn/UploadFiles/%E4%B8%AD%E5%9B%BD%E5%9F%8E%E9%95%87%E4%B8%AA%E4%BA%BA%E6%94%B6%E5%85%A5%E6%B5%81%E5%8A%A8%E6%80%A7%E7%A0%94%E7%A9%B6.pdf",
+          "snippet": "内容提要: 利用中国社会科学院经济研究所收入分配课题组1995 年和2002 年两次. 城镇居民住户调查数据, 本文对城镇个人收入的流动性进行了经验分析, 发现在1998 ).",
+          "position": 69
+        },
+        {
+          "title": "多维邻近性对流动人口回流意愿的影响 - 地理科学进展",
+          "link": "https://www.progressingeography.com/CN/10.18306/dlkxjz.2022.08.005",
+          "snippet": "社会邻近有助于建立信任关系和缩小心理距离,流动人口能否更好地嵌入或融入迁入地,对其信息获取、社会接纳和文化交融等均有显著影响。流动人口对流入地的嵌入程度与流入地所 ...",
+          "position": 70
+        },
+        {
+          "title": "[PDF] 农村劳动力流动的性别差异 - 社会学研究",
+          "link": "https://shxyj.ajcass.com/Admin/UploadFile/20130926008/2015-08-29/Issue/5dhqolis.pdf",
+          "snippet": "本文在概要描述农村劳动力流动中性别差异的一般状况后, 着重讨论了婚烟对. 外出女性和外出男性在发展上的不同影响,以及就业制度与性别职业的关系。 作者:谭深,女, 1951 ...",
+          "position": 71
+        },
+        {
+          "title": "流动性政治的地理学研究：缘起与议题",
+          "link": "http://www.xml-data.org/RWDL/html/20240402.htm",
+          "snippet": "80年代后期出现的“文化转向”以后现代思潮为理论基础，在其影响之下催生了一系列关于事物意义、权力和象征性景观的研究。到了20世纪90年代，学者们开始对流动性本身进行反思， ...",
+          "position": 72
+        },
+        {
+          "title": "加强流动人口管理促进社会稳定发展- 统计解读",
+          "link": "http://www.rugao.gov.cn/rgsrmzf/tjjd/content/734D587DF56DDC9EE0505B0A04FC090E.html",
+          "snippet": "抵扣从如皋市外流入的常住人口36388人，我市外出市外常住人口总数达17.8174万人，占户籍人口数的12.65%。从人口性别比看，户籍人口性别 ... 流动人口流动性强、 ...",
+          "date": "2013年1月10日",
+          "position": 73
+        },
+        {
+          "title": "新时期高校毕业生就业流动：性别图景与影响机理 - 皮书数据库",
+          "link": "https://www.pishu.com.cn/skwx_ps/bookdetail?SiteID=14&ID=14004599",
+          "snippet": "随着高校规模扩张带来大学生就业难问题的凸显以及关于女性就业歧视问题的纷争不断，在大众传媒不断建构“女人味”流行文化的影响下，高校毕业生在就业流动中已形成较明显的性别 ...",
+          "position": 74
+        },
+        {
+          "title": "[PDF] 子女随迁与流动人口的工资收入 - 上海财经大学期刊社",
+          "link": "https://qks.sufe.edu.cn/J/PDFFull/A34b2096a-6eef-4f32-8255-c6df8c5615eb.pdf",
+          "snippet": "产生这种现象. 的原因是，为降低居住成本以及获得相应的公共服务，带子女随迁的流动人口迁移地点的选择受. 限，无法在更大范围内搜寻更高收入的工作。异质性分析表明，有学龄段 ...",
+          "position": 75
+        },
+        {
+          "title": "你知道「性別流動（gender- fluid）」是什麼嗎？ - 英文學習部落格",
+          "link": "https://blog.english4u.net/blog2.aspx?id=367",
+          "snippet": "傳統「性別流動」（gender- fluid）是「跨性別」（Transgender）的一種，意指該人不認為自己有一個固定的性別，可以隨時改變，或是同時擁有不止一個性別。",
+          "position": 76
+        },
+        {
+          "title": "[PDF] 贸易开放对代际间职业流动性的影响",
+          "link": "https://journal.uibe.edu.cn/docs/2020-10/db9e0484383a429a9cf33f3f7c9c2a78.pdf",
+          "snippet": "摘要： 本文依据2000年第五次全国人口普查和2005年全国人口抽样调查的数. 据， 采用双重差分法探究了贸易开放对我国代际间的职业流动性的影响， 并得出以下.",
+          "position": 77
+        },
+        {
+          "title": "跨越世纪的无性别服饰，正在成为95后的衣柜新欢 - CBNData",
+          "link": "https://m.cbndata.com/information/161006",
+          "snippet": "它指一种不受生理性别限制的自然存在观念，无论是单性、双性、性别流动还是雌雄同体的状态，皆可能在同一个人身上发生。 电影《天鹅绒金矿》| 图源 ...",
+          "date": "2021年4月30日",
+          "position": 78
+        },
+        {
+          "title": "[PDF] 2021全国跨性别健康调研报告",
+          "link": "https://cnlgbtdata.com/files/uploads/2023/01/2021%E5%85%A8%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E5%81%A5%E5%BA%B7%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.pdf",
+          "snippet": "己是性别流动、无性别、雌雄同体、多性别，或拥有. 其TA存在于性别二元秩序之外的认同。 性别非常规者（Gender Nonconforming）. 指性别表达不同于社会规范下男/女二元划分的 ...",
+          "position": 79
+        },
+        {
+          "title": "流动劳动力收入差距有多大 - 中华人民共和国国家发展和改革委员会",
+          "link": "https://www.ndrc.gov.cn/fggz/jyysr/jysrsbxf/201503/t20150330_1124214.html",
+          "snippet": "文化程度越高， 不同性别之间的收入差距越小. 记者： 收入的性别不平等是一个世界问题。在中国，这一现象同样存在。那么，在流动劳动力中，这一状况如何？",
+          "date": "2015年3月30日",
+          "position": 80
+        },
+        {
+          "title": "论帕特里克·怀特小说中人物的性身份流动性",
+          "link": "https://xbzs.ecnu.edu.cn/CN/html/201106016.htm",
+          "snippet": "摘要：帕特利克·怀特是澳大利亚最重要的现代主义文学家、1973年诺贝尔文学奖得主。怀特是一位同性恋作家，在当时主流文化的压制下，他在作品中对于性与性身份问题的表现较为 ...",
+          "position": 81
+        },
+        {
+          "title": "性别不一致与性别焦虑- MSD诊疗手册专业版",
+          "link": "https://www.msdmanuals.cn/professional/psychiatric-disorders/gender-incongruence-and-gender-dysphoria/gender-incongruence-and-gender-dysphoria",
+          "snippet": "... 性别认同（例如，无性人或中性人）的人；具有包含或融合其他性别元素的性别认同（例如，多性别、半男孩、半女孩）；和/或性别随时间变化性别的人（例如，流动性别）。 性别二元： 将 ...",
+          "position": 82
+        },
+        {
+          "title": "「性別流動者」尋找自己身份的故事－ BBC News 中文｜Genderfluid",
+          "link": "https://www.youtube.com/watch?v=eX7AK4k9GWY",
+          "snippet": "我覺得不可以只用胸來決定是男人還是女人，」她說，「性別不是二元，可以多元、流動，我就是我。」 這是一位 ...\n时长： 2:55\n发布时间： 2019年4月27日",
+          "date": "2019年4月27日",
+          "position": 83
+        },
+        {
+          "title": "福建省人民代表大会常务委员会关于废止〈福建省流动人口计划生育 ...",
+          "link": "http://www.fjrd.gov.cn/ct/63-175179",
+          "snippet": "〔十三届〕第七十二号. 《福建省人民代表大会常务委员会关于废止〈福建省流动人口计划生育管理办法〉〈福建省禁止非医学需要鉴定胎儿性别和选择性别 ...",
+          "date": "2022年4月1日",
+          "position": 84
+        },
+        {
+          "title": "机动车流动作案，3分钟告知胎儿性别--非法胎儿性别鉴定乱象调查",
+          "link": "http://news.xinhuanet.com/politics/2017-08/15/c_1121487928.htm",
+          "snippet": "机动车流动作案，3分钟告知胎儿性别--非法胎儿性别鉴定乱象调查---只要3至5分钟，花300元到500元，通过面包车上一台小小便携式B超机，就能了解正在孕育的 ...",
+          "date": "2017年8月15日",
+          "position": 85
+        },
+        {
+          "title": "共同富裕,贸易开放与中国的代际收入流动性 - 金融研究",
+          "link": "http://www.jryj.org.cn/CN/abstract/abstract1072.shtml",
+          "snippet": "研究结果表明:(1)从整体上来看,贸易开放显著促进了中国的代际收入流动性,经内生性处理和稳健性检验,这一结论是成立的.(2)贸易开放主要通过促进子代教育,职业向上流动显著 ...",
+          "position": 86
+        },
+        {
+          "title": "2024秋冬男装周大盘点，性别流动的趋势让男女衣橱界限没那么明显",
+          "link": "https://news.qq.com/rain/a/20240128A03APD00",
+          "snippet": "橙红、墨绿、湖蓝、鲜红、棕褐等色彩堆叠，以柔和浅色为底色，与色块中一抹相衬，更好衬托色彩变换的细腻，又与色块中一抹相衬。色彩繁多却不显杂乱，只因一切 ...",
+          "date": "2024年1月28日",
+          "position": 87
+        },
+        {
+          "title": "Prism: Gender Non-Binary Mannequin Collection - Fusion Specialties",
+          "link": "https://www.fusionspecialties.com/zh/collections/prism/",
+          "snippet": "性别流动时装系列. 身体自信设计| 包容时尚. 旨在为零售业带来迫切需要的代表性的合作。Fusion联合Phluid项目，自豪地推出零售业内首批无明确性别、彰显身体自信的人体 ...",
+          "position": 88
+        },
+        {
+          "title": "《性别是流动的吗？》电子书在线阅读-【英】萨莉·海因斯 - 得到",
+          "link": "https://www.dedao.cn/ebook/detail?id=poVrgXBZpKrJvLmo89Q4bD7O1de2aWAO1dwYgXGPxBMVzqlRNk5j6yEnAa9E576Q",
+          "snippet": "《性别是流动的吗？》作者：【英】萨莉·海因斯，内容简介：性别是流动的吗？美国GoldieBlox玩具公司生产了性别中立的玩具，试图挑战人们对儿童玩具的性别刻板印象。",
+          "position": 89
+        },
+        {
+          "title": "孕育希望：宏观代际流动性对生育意愿的影响 - 社会杂志",
+          "link": "https://www.society.shu.edu.cn/CN/abstract/abstract20265.shtml",
+          "snippet": "孕育希望：宏观代际流动性对生育意愿的影响 · 发布日期: 2024-02-23 · 作者简介: 蔡韦成北京大学光华管理学院社会研究中心E-mail:caiweicheng@pku.edu.cn;谢宇北京大学光华 ...",
+          "position": 90
+        },
+        {
+          "title": "中国城城流动人口的空间分布、流动规律及其形成机制 - 地理研究",
+          "link": "https://www.dlyj.ac.cn/CN/10.11821/dlyj020180280",
+          "snippet": "开放、改革与包容性发展: 大转型大流动时期的城市流动人口管理. 学海, 2011, 21(6): 76-80. [ Zheng Hangsheng ...",
+          "position": 91
+        },
+        {
+          "title": "身体流动与性别不平等：社会性别视角下的城市家庭汽车消费 - 武汉大学",
+          "link": "http://cgrs.lib.whu.edu.cn/Qw/Paper/391890",
+          "snippet": "但是，在父权制意识形态影响之下，借助汽车而实现的身体流动遂有了性别上的差异，通过调查发现，这种差异主要体现在两个方面：一是大多数男性总是作为驾驶者，而大多数 ...",
+          "position": 92
+        },
+        {
+          "title": "农村妇女流动性增加的积极影响及限制因素 - 湖南省妇联",
+          "link": "https://www.hnwomen.org.cn/2018/10/23/207585.html",
+          "snippet": "有研究者分析其原因，认为农村妇女大规模迁移对规避自杀风险起到了决定性作用：一方面外出流动使她们远离了既往的从属地位；另一方面流动也使她们远离了既往 ...",
+          "date": "2018年10月23日",
+          "position": 93
+        },
+        {
+          "title": "中国流动人口自评健康状况影响因素及公平性- PMC",
+          "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11004974/",
+          "snippet": "流动人口的平均年龄为(36.7±11.1) 岁，平均流动时长为(6.35±6.08)年，个人月收入的对数为8.10± 1.04。93.5%的人至少参与了一种医疗保险，流动人口的两周内患 ...",
+          "date": "2024年4月18日",
+          "position": 94
+        },
+        {
+          "title": "中国流动人口专题数据库 - 国家地球系统科学数据中心",
+          "link": "https://www.geodata.cn/thematicView/Population.html?typeid=627254088304",
+          "snippet": "中国流动人口动态监测调查数据（China Migrants Dynamic Survey,简称CMDS），是国家卫生健康委自2009年起一年一度大规模全国性流动人口抽样调查数据，覆盖全国31个省（区、 ...",
+          "position": 95
+        },
+        {
+          "title": "性别流动- svg格式 - 千图网",
+          "link": "https://m.58pic.com/newpic/48175475.html",
+          "snippet": "性别流动. 取消. 取消. 性别流动. 作品详情. 文件格式：svg 文件大小：5.839 KB. 颜色模式：RGB. 版权相关: 授权方式： VRF协议. 作品标签. and · education · female · gender.",
+          "position": 96
+        },
+        {
+          "title": "术语介绍 - FtM.wiki",
+          "link": "https://ftm.wiki/zh-cn/psycho/terminology/",
+          "snippet": "除了男性和女性（可能是顺性别或跨性别）之外的其它性别认同还包括跨性别、非二元性别、性别酷儿、性别中性、无性别、性别流动和“第三” 性别等。在 ...",
+          "date": "2023年12月11日",
+          "position": 97
+        },
+        {
+          "title": "中国城市流动人口时空特征及影响因素 - 万方",
+          "link": "https://doi.wanfangdata.com.cn/10.3969/j.issn.1003-2363.2020.02.028",
+          "snippet": "... 性随城市等级的下降而递增,长期性则随城市等级而递减.农业户口仍然是流动人口的主体,\"三低一高\"(低龄化、低学历化、低技能就业化和高性别化)是流动 ...",
+          "date": "2020年4月24日",
+          "position": 98
+        },
+        {
+          "title": "德国首位“性别流动”模特| 文化经纬| DW | 15.03.2024",
+          "link": "https://www.dw.com/embed/480/av-68560080",
+          "snippet": "白天在联邦议院工作，晚上在伸展台走秀。菲利斯·尼德（Felix Nieder）是德国最成功的男模之一，他可以穿着男装或女装走秀，风格百变。“性别流动”是他对自己性别的认同。",
+          "position": 99
+        }
+      ],
+      "images": [
+        {
+          "title": "不只是雌雄：性别的起源和流动丨浙江大学生命演化研究中心",
+          "imageUrl": "https://evolution.zju.edu.cn/upload/20231207/f9d0e9b1d2b84f39bfd97b60c525f9a9.png",
+          "link": "https://evolution.zju.edu.cn/science/detail55.html"
+        },
+        {
+          "title": "性别是流动的吗？我们的性别表达是如何被建构的？-壹心理",
+          "imageUrl": "https://ossimg.xinli001.com/20220924/8d3170a90e8943126b6535c71d448e99.jpeg?x-oss-process=image/quality,Q_80",
+          "link": "https://m.xinli001.com/info/100486399"
+        },
+        {
+          "title": "性别是流动的吗？》电子书在线阅读-【英】萨莉·海因斯-得到APP",
+          "imageUrl": "https://piccdn2.umiwi.com/uploader/image/cms_ebook/2021111719/1757873175871358628?x-oss-process=image/resize,m_fill,h_320,w_240",
+          "link": "https://www.dedao.cn/ebook/detail?id=poVrgXBZpKrJvLmo89Q4bD7O1de2aWAO1dwYgXGPxBMVzqlRNk5j6yEnAa9E576Q"
+        },
+        {
+          "title": "跨性別、性別流動、順性別…世界在改變，7個你該重新認識的性別關鍵字 ...",
+          "imageUrl": "https://media.vogue.com.tw/photos/60b2fd78c05ed101c1821908/master/pass/29717-1_V.jpg",
+          "link": "https://www.vogue.com.tw/entertainment/article/7-keywords-for-lgbtq"
+        },
+        {
+          "title": "新时期高校毕业生就业流动：性别图景与影响机理_皮书数据库",
+          "imageUrl": "https://www.pishu.com.cn/skwx_ps/zpimage.zhtml?ID=14004600&SiteID=14&draft=0&type=norm",
+          "link": "https://www.pishu.com.cn/skwx_ps/bookdetail?SiteID=14&ID=14004599"
+        },
+        {
+          "title": "秀场直击MAO HOUSE 髦房· 性别流动_嘉人网",
+          "imageUrl": "https://img0.pclady.com.cn/pclady/2406/06/2000315_03300232_thumb.jpg",
+          "link": "http://www.mcchina.com/fashion/trend/20240606-123760.shtml"
+        },
+        {
+          "title": "你我他她它，没有谁应该被性别所定义",
+          "imageUrl": "https://imagepphcloud.thepaper.cn/pph/image/96/470/938.jpg",
+          "link": "https://m.thepaper.cn/newsDetail_forward_9797912"
+        },
+        {
+          "title": "Fluid｜性别流动研究社| 小宇宙- 听播客，上小宇宙",
+          "imageUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZzelRqVk5acVBRZ0dmYXlkZkhremRZbDdnR2EuanBn.jpg@small",
+          "link": "https://www.xiaoyuzhoufm.com/podcast/660e429c075257f6ffeaabb6"
+        },
+        {
+          "title": "性别流动”部长，居然多次偷行李箱？_手机搜狐网",
+          "imageUrl": "https://p5.itc.cn/images01/20230226/3bbc7f8d53654dbb880b4c4068f88913.jpeg",
+          "link": "https://www.sohu.com/a/646500838_121324712"
+        }
+      ],
+      "relatedSearches": [
+        {
+          "query": "Genderfluid"
+        },
+        {
+          "query": "Gender fluidity"
+        },
+        {
+          "query": "Nonbinary"
+        },
+        {
+          "query": "non binary gender中文"
+        },
+        {
+          "query": "non-binary是什么意思"
+        },
+        {
+          "query": "非二元人"
+        },
+        {
+          "query": "非二元是什么意思"
+        },
+        {
+          "query": "non binary中文"
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "性别流动",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "潮州市外来流动人口现状特征分析及对策建议",
+          "link": "https://www.chaozhou.gov.cn/zwgk/tjxx/tjfx/content/post_3382506.html",
+          "snippet": "外来流动人口性别比高低与产业结构有着密切的联系，我市是陶瓷和不锈钢等产业基地，产业结构决定了对男性劳动力的需求量较大。 表2 外来流动人口性别情况.",
+          "date": "2012年4月12日",
+          "position": 1
+        },
+        {
+          "title": "晋江市流动人口现状与城镇发展 - 泉州市统计局",
+          "link": "http://tjj.quanzhou.gov.cn/tjzl/tjfx/201910/t20191025_1933002.htm",
+          "snippet": "二、流动人口的主要特征: （一）流动人口的性别结构: 从表4中可以看出，在全市流动人口中，男性人口占54.12%，女性人口占45.88%，男性人口高出女性8.24个百分点， ...",
+          "date": "2004年6月8日",
+          "position": 2
+        },
+        {
+          "title": "全国妇联：单独居住的农村留守儿童高达205.7万 - 中国政府网",
+          "link": "https://www.gov.cn/jrzg/2013-05/10/content_2400061.htm",
+          "snippet": "流动儿童和留守儿童性别比的差异体现了流动人口在选择携带子女一起外出时存在的性别偏好。 全国妇联：多数流动儿童属于长期流动，平均流动时间3．74年. 新华 ...",
+          "date": "2013年5月10日",
+          "position": 3
+        },
+        {
+          "title": "[中国妇女网]流动人口女性化列为研究重点 - 新闻网",
+          "link": "https://news.swun.edu.cn/info/1009/16625.htm",
+          "snippet": "停止对妇女的暴力、为流动妇女提供法律保护和社会保障是我们推进性别平等具有挑战性的任务。 为此，中国社会性别研究与倡导基金新添9个授资机构，将继续针对家庭暴力和流动 ...",
+          "position": 4
+        },
+        {
+          "title": "【贺翠香】当代西方女性主义研究中的性别身份问题",
+          "link": "http://philosophy.cass.cn/kygz/xszm/msszyzx/202311/t20231113_5696411.html",
+          "snippet": "性别身份或认同应该是一个开放的、多元的、流动性的意义所指。尤其在当今西方社会，同性恋者、性倒错者、跨性别者、异装癖等性少数群体的自我意识觉醒和 ...",
+          "date": "2023年11月13日",
+          "position": 5
+        },
+        {
+          "title": "性别是流动的吗萨莉·海因斯(SallyHines) 中信出版社9787521721324",
+          "link": "https://www.amazon.com.br/%E6%80%A7%E5%88%AB%E6%98%AF%E6%B5%81%E5%8A%A8%E7%9A%84%E5%90%97-21%E4%B8%96%E7%BA%AA%E8%AF%BB%E6%9C%AC-Big-Idea-%E8%90%A8%E8%8E%89%C2%B7%E6%B5%B7%E5%9B%A0%E6%96%AF/dp/7521721322",
+          "snippet": "美国GoldieBlox玩具公司生产了性别中立的玩具，试图挑战人们对儿童玩具的性别刻板印象；为避免对同性恋家长的歧视，法国议会已决定将“母亲”和“父亲”这两个词从教育系统的 ...",
+          "currency": "R$",
+          "price": 537,
+          "position": 6
+        },
+        {
+          "title": "中国特色性别研究的使命与趋势展望 - 中国社会科学网",
+          "link": "https://www.cssn.cn/skgz/bwyc/202407/t20240704_5762700.shtml",
+          "snippet": "要关注多元性别、性别流动、性别与阶层、性别认同、性别与全球化、性别与移民等议题，以推动对性别议题的深入理解与探讨，促进社会对性别研究多样性的认知与 ...",
+          "date": "2024年7月4日",
+          "position": 7
+        },
+        {
+          "title": "中国女性劳动供给为何降低：来自流动人口的证据",
+          "link": "https://manu30.magtech.com.cn/sjjj/CN/Y2021/V44/I12/104",
+          "snippet": "本文总结了中国女性劳动参与率和参与强度下降的典型事实，并从\"延嗣惩罚\"和性别失衡的视角进行了解释。以流动人口为例，本文研究发现母亲在孩子出生当年 ...",
+          "date": "2021年12月21日",
+          "position": 8
+        },
+        {
+          "title": "流动女性赋权的发展型社会工作路径：以J市的两个流动女性经济小组 ...",
+          "link": "https://scholars.hkbu.edu.hk/en/publications/%E6%B5%81%E5%8A%A8%E5%A5%B3%E6%80%A7%E8%B5%8B%E6%9D%83%E7%9A%84%E5%8F%91%E5%B1%95%E5%9E%8B%E7%A4%BE%E4%BC%9A%E5%B7%A5%E4%BD%9C%E8%B7%AF%E5%BE%84%E4%BB%A5j%E5%B8%82%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%B5%81%E5%8A%A8%E5%A5%B3%E6%80%A7%E7%BB%8F%E6%B5%8E%E5%B0%8F%E7%BB%84%E4%B8%BA%E4%BE%8B",
+          "snippet": "2021年中国社会学年会性别社会学分论坛“中国特色性别平等的理论与实践”. Country/Territory, China. City, Chongqing. Period, 17/07/21 → … Scopus Subject Areas. Gender ...",
+          "position": 9
+        },
+        {
+          "title": "加强国家防治艾滋病战略的社会性别针对性",
+          "link": "https://www.ilo.org/zh-hans/projects-and-partnerships/projects/%E5%8A%A0%E5%BC%BA%E5%9B%BD%E5%AE%B6%E9%98%B2%E6%B2%BB%E8%89%BE%E6%BB%8B%E7%97%85%E6%88%98%E7%95%A5%E7%9A%84%E7%A4%BE%E4%BC%9A%E6%80%A7%E5%88%AB%E9%92%88%E5%AF%B9%E6%80%A7",
+          "snippet": "该项目旨在找出广东省女性流动人口的脆弱性，并制定出基于事实的应对策略，从而在与地方计生协和全球基金中国办公室的合作过程中，在广东女性流动人口中推动社会性别 ...",
+          "position": 10
+        },
+        {
+          "title": "高品质3*5英尺聚酯LGBT性别酷儿性别流动同性恋骄傲旗| Alibaba.com",
+          "link": "https://chinese.alibaba.com/product-detail/High-Quality-3-5ft-Polyester-LGBT-1600789816087.html",
+          "snippet": "高品质3*5英尺聚酯LGBT性别酷儿性别流动同性恋骄傲旗. 交易保障. Alibaba.com 信用保障，全方位保障交易安全。 产品质量. 准时发货. 关于航运和其他贸易服务的详细信息 ...",
+          "position": 11
+        },
+        {
+          "title": "【性別觀察】英國第一個性別流動家庭，讓孩子決定自己的性別 - 女人迷",
+          "link": "https://womany.net/read/article/14162",
+          "snippet": "gender fluid. 性別流動打破性別二元視角，主張性別認同是動態變化的，並非局限於特定的一種，而是在兩者或以上的狀態之間流動。這一流動是在連續的性別認同 ...",
+          "date": "2017年8月17日",
+          "position": 12
+        },
+        {
+          "title": "社会流动性如何影响生育率？ - 中国经济50人论坛",
+          "link": "http://www.50forum.org.cn/home/article/detail/id/10813.html",
+          "snippet": "由于这个生育率不仅是保证人口稳定的更替水平，同时也符合普遍的生育意愿，所以围绕这个生育水平便产生“趋中”现象。从潜力上说，更高的生育率会继续下降，过低 ...",
+          "date": "2024年2月22日",
+          "position": 13
+        },
+        {
+          "title": "Fluid｜性别流动研究社- Apple 播客",
+          "link": "https://podcasts.apple.com/cn/podcast/fluid-%E6%80%A7%E5%88%AB%E6%B5%81%E5%8A%A8%E7%A0%94%E7%A9%B6%E7%A4%BE/id1751141431",
+          "snippet": "fluid｜性别研究社以尊重为前提从性别视角解读社会问题，入门社会学&性别研究高中生，跨学科组合运用性别、性来研究身边有趣的现象。Kpop特辑正在更新中～.",
+          "rating": 5,
+          "ratingCount": 4,
+          "position": 14
+        },
+        {
+          "title": "跨越性别的香港人罗小风：不能只用胸来决定男女- BBC News 中文",
+          "link": "https://www.bbc.com/zhongwen/simp/chinese-news-46450690",
+          "snippet": "“性别流动”（Gender Fluid）是“跨性别”（Transgender）的一种，意指该人不认为自己有一个固定的性别，可以随时改变，或是同时拥有不止一个性别。 正如许多性别 ...",
+          "date": "2019年2月21日",
+          "position": 15
+        },
+        {
+          "title": "人权专家：阿富汗塔利班“可能要为性别隔离负责” | | 1联合国新闻",
+          "link": "https://news.un.org/zh/story/2023/06/1118967",
+          "snippet": "在阿富汗坎大哈的一个村庄里，流动诊所的护士为家庭提供营养援助。",
+          "date": "2023年6月19日",
+          "position": 16
+        },
+        {
+          "title": "性别认同",
+          "link": "https://healthyhorizons.org.au/zh-hans/general-health-information/gender-identity/",
+          "snippet": "例如：很多美国土著人在殖民化前就拥护性别流动，亚洲太平洋和非洲很多社区也是如此。 什么是性别指定？ 性别指定是指按外部生殖器官将人分为男性（男孩/男人）或女性（ ...",
+          "position": 17
+        },
+        {
+          "title": "LGBTI的权利- - 国际特赦组织",
+          "link": "https://zh.amnesty.org/what-we-do-discrimination-lgbti-rights/",
+          "snippet": "... 性取向、性别认同（和/或性别表达）和性特征的歧视，就可能会因为被迫忍受这种歧视，而对自己的身体、精神和情感健康产生毁灭性 ... 性别、跨性别流动或根本没有性别。 性取向是 ...",
+          "position": 18
+        },
+        {
+          "title": "DW 中文- 德国之声on X: \"德国首位“性别流动”模特白天在联邦议院 ...",
+          "link": "https://twitter.com/dw_chinese/status/1768644409346736628",
+          "snippet": "德国首位“性别流动”模特白天在联邦议院工作，晚上在伸展台走秀。菲利斯·尼德（Felix Nieder）是德国最成功的男模之一，他可以穿着男装或女装走秀， ...",
+          "date": "2024年3月15日",
+          "position": 19
+        },
+        {
+          "title": "项飙评论：不平等的新形式：疫情下流动性的“再分配” - 歪脑",
+          "link": "https://www.wainao.me/wainao-reads/the-new-inequality-09252020",
+          "snippet": "不平等的新形式: ... 流动性是一种资本，一个人的流动能力和机会可以带来实际收益。但在疫情下，流动不再是资本，真正掌握资源的人才可以不流动——他们把自己的 ...",
+          "date": "2020年9月25日",
+          "position": 20
+        },
+        {
+          "title": "鄢伟波：中国女性劳动供给为何降低：来自流动人口的证据",
+          "link": "https://csxy.zuel.edu.cn/2021/1222/c7105a288496/pagem.htm",
+          "snippet": "... 性别差异：若为女孩，强度会在女孩2岁时恢复正常水平；若为男孩，强度降低程度更大，一直到男孩17岁左右才恢复正常水平，但在男孩上小学后会提升15 ...",
+          "date": "2021年12月22日",
+          "position": 21
+        },
+        {
+          "title": "同胞结构影响流动人口家庭子女教育获得的性别差异 - 社会科学辑刊",
+          "link": "http://www.shkxjk.com/CN/abstract/abstract4863.shtml",
+          "snippet": "为缓解流动人口家庭内部教育获得的不平等性,制订宏观教育制度时应充分考虑同胞结构特征因素,在关注流动人口子女教育获得的同时,要从家庭和全社会层面消除流动人口家庭内部 ...",
+          "position": 22
+        },
+        {
+          "title": "[PDF] 酷儿理论视角下档案与性别身份认同的冲突与和解",
+          "link": "https://journal12.magtechjournal.com/Jwk_dax/CN/article/downloadArticleFile.do?attachType=PDF&id=4314",
+          "snippet": "... 性与性别非自然形成，而是一种文化与社会建构的结果，. 该理论已成为性少数群体甚至所有边缘群体“正名”的重要凭借。在酷儿理论视角之下，性别身份具有流动性、交叉性与. 多样 ...",
+          "position": 23
+        },
+        {
+          "title": "[PDF] 西方人文地理学的“流动性＂研究进展与启示",
+          "link": "https://journal-n.scnu.edu.cn/cn/article/pdf/preview/10.6054/j.jscnun.2014.12.063.pdf",
+          "snippet": "有关流动性的研究涉及全球化研究、通讯和媒. 体研究、移民和边境研究、旅游研究、文化地理、交通. 地理和流通人类学等方面.一直以来,归纳一种“新. 流动性范式(the new ...",
+          "position": 24
+        },
+        {
+          "title": "性别流动已成趋势，女生穿上裙子妩媚生姿，男生也想平分秋色 - 问小白",
+          "link": "https://www.wenxiaobai.com/api/expends/detail?article=fddafebd-0c75-4f99-931d-eaaa17060c7b",
+          "snippet": "在2023年纽约时装周上，男性模特穿着裙子自信亮相，这反映了性别流动趋势的兴起。男性穿裙子的历史可追溯至商代，并不仅仅是个人的穿着自由， ...",
+          "date": "2024年9月2日",
+          "position": 25
+        },
+        {
+          "title": "[PDF] 北京女性流动人口的家庭类型及其形成因素 - 人文地理",
+          "link": "http://rwdl.xisu.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=9202",
+          "snippet": "... 流动的复杂性。而结构主义的研究则解释了女. 性流动与区域、国家历史变革的关系、与性别化了的劳动力市场的关系以及与社会文化传统的关系, 其. 强调性别 ...",
+          "date": "1999年6月2日",
+          "position": 26
+        },
+        {
+          "title": "城市规模、服务业发展与流动女性就业 - 学术月刊",
+          "link": "https://www.xsyk021.com/article/id/19189664-ec4e-4816-b404-f3a2cd98150d",
+          "snippet": "... 流动性的地区差异：事实、机制及政策”（2019BJL003）的阶段性成果. 关键词: 城市规模｜服务业发展｜流动女性｜性别平等. 摘要: 为各类劳动人群提供尽可能充分的就业和 ...",
+          "position": 27
+        },
+        {
+          "title": "世界银行报告：发展中国家在过去30年代际经济流动性陷于停滞",
+          "link": "https://www.shihang.org/zh/news/press-release/2018/05/09/economic-mobility-in-developing-countries-has-stalled-for-the-last-30-years-wbg-report",
+          "snippet": "报告说，流动性在过去30年陷于停滞。流动性是跟踪父母和子女之间通过教育实现经济流动的指标，教育是影响一个人终生收入的一项重要资产。报告审视了1940年和 ...",
+          "date": "2018年5月9日",
+          "position": 28
+        },
+        {
+          "title": "段成荣邱玉鼎：当前我国人口流动新特征新趋势",
+          "link": "https://m.planning.org.cn/zx_news/14877.htm",
+          "snippet": "准确把握人口流动治理体系的发展脉络，明晰当前治理体系在人口流动问题上存在的利弊，对于后续深化人口流动领域的关键性改革，进而优化国家治理体系和释放 ...",
+          "date": "2023年11月29日",
+          "position": 29
+        },
+        {
+          "title": "「M+放映」4月主题「性别流动」多出作品探讨塑造跨界及互换性别 ...",
+          "link": "https://www.westk.hk/sc/press-release/m-screenings-genderfluid-presented-by-m-in-april-highlights-filmic-portrayals-of-transgressive-gender-identities",
+          "snippet": "「M+放映：性别流动」将于2017年4月7日至9日假油麻地百老汇电影中心举行，共放映11部作品，涵盖艺术家录像、纪录片、叙事剧情片、动画、表演录像和实验电影。",
+          "date": "2017年3月9日",
+          "position": 30
+        },
+        {
+          "title": "Top 50件性别是流动的- 2024年10月更新- Taobao",
+          "link": "https://www.taobao.com/list/product/%E6%80%A7%E5%88%AB%E6%98%AF%E6%B5%81%E5%8A%A8%E7%9A%84.htm",
+          "snippet": "淘宝海外为您精选了性别是流动的相关的83个商品，你还可以按照人气、价格、销量和评价进行筛选查找。 综合排序.",
+          "position": 31
+        },
+        {
+          "title": "性别流动是什么 - 抖音",
+          "link": "https://www.douyin.com/search/%E6%80%A7%E5%88%AB%E6%B5%81%E5%8A%A8%E6%98%AF%E4%BB%80%E4%B9%88",
+          "snippet": "新香速递法国新香水时尚品牌Genderfluid 2022年“gender-fluid”意为“性别流动”。是跨性别（Transgender）的一种。指不认为自己有一个固定的性别，可以随时改变，或者是同时 ...",
+          "position": 32
+        },
+        {
+          "title": "流动人口婚姻观念的性别差异 - 京津冀协同发展数据库",
+          "link": "https://www.jingjinjicn.com/skwx_3j/initDatabaseDetail?contentId=6326276&siteId=46&contentType=literature",
+          "snippet": "流动人口婚姻观念的性别差异——基于全国流动人口调查数据的实证研究 · 作者：孙琼如叶文振 · 出版日期：2011年12月 · 报告页数：9 页 · 报告大小：1.35MB · 报告字数：8108 字 · 所属 ...",
+          "position": 33
+        },
+        {
+          "title": "新时期高校毕业生就业流动：性别图景与影响机理 - 皮书数据库",
+          "link": "https://www.pishu.com.cn/skwx_ps/bookdetail?SiteID=14&ID=14004599",
+          "snippet": "随着高校规模扩张带来大学生就业难问题的凸显以及关于女性就业歧视问题的纷争不断，在大众传媒不断建构“女人味”流行文化的影响下，高校毕业生在就业流动中已形成较明显的性别 ...",
+          "position": 34
+        },
+        {
+          "title": "中国员工平均流动率为15.9% 就业歧视普遍 - 时政- 人民网",
+          "link": "http://politics.people.com.cn/n/2013/1010/c1001-23149903.html",
+          "snippet": "人民网北京10月10日电（记者常红）中国社会科学院今日发布的《人力资源蓝皮书》指出，劳动者就业稳定性较低，就业短期化现象突出，就业市场供求矛盾突出， ...",
+          "date": "2013年10月10日",
+          "position": 35
+        },
+        {
+          "title": "青年流动与非流动人口生活满意度水平及影响因素——基于北京",
+          "link": "http://journal.healthpolicy.cn/html/20131211.htm",
+          "snippet": "采用描述性分析、卡方检验和二分类Logistic回归分析方法进行统计分析。结果：相对于青年非流动人口而言，青年流动人口的生活满意度水平较低，在经济、健康方面处于劣势；影响 ...",
+          "position": 36
+        },
+        {
+          "title": "女性跨国婚姻移民家空间的性别、资源与权力——粤西乡村案例",
+          "link": "https://www.progressingeography.com/CN/10.18306/dlkxjz.2020.11.011",
+          "snippet": "流动性视角下流动家庭的空间实践和情感重构[J]. 地理学报, 2019,74(6):1252-1266. [ Taowei, Cai Shaoyan , Yu Xiaochen. The emotional reconstruction and spatial ...",
+          "position": 37
+        },
+        {
+          "title": "[PDF] 新就业形态下流动人口教育回报率的性别差异研究",
+          "link": "http://www.ims.sdu.edu.cn/__local/5/CC/90/CE2082139970FEC81A468BB7F98_E04766B6_132018.pdf",
+          "snippet": "现。 本文基于2018年全国流动人口动态监测调查数据（CMDS），使用工具变量法及O－B. 分解法分析新业态下流动人口教育回报率的性别差异问题。 研究结果表明：流动人口中.",
+          "position": 38
+        },
+        {
+          "title": "畢明專欄：性別流動，還是無差別？ | Wellness",
+          "link": "https://www.madamefigaro.hk/wellness/%E7%95%A2%E6%98%8E-%E6%80%A7%E5%88%A5%E6%B5%81%E5%8B%95-%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%A5-168736/",
+          "snippet": "越來越來多歐美明星公告定義自己的性別是：non-binary。非男非女，亦男亦女，不要被傳統硬性二元歸類。Non-Binary不脫俗，但非主流，所有非主流都得在千年 ...",
+          "date": "2024年2月7日",
+          "position": 39
+        },
+        {
+          "title": "结束LGBTQ+ 社区中的虐待行为- PCADV",
+          "link": "https://www.pcadv.org/zh-CN/%E9%A1%B9%E7%9B%AE/LGBTQ/",
+          "snippet": "一个人的代词传达了他们的性别认同。 跨性别、性别不合格、性别流动、非二元性和其他LGBTQ+ 人使用各种各样的代词来确认他们是谁 ...",
+          "position": 40
+        },
+        {
+          "title": "流动人口基本公共卫生服务知晓率及影响因素分析",
+          "link": "https://www.zgggws.com/article/doi/10.11847/zgggws1117247?pageType=en",
+          "snippet": "多因素分析显示，流动人口基本公共卫生服务知晓率的影响因素有：性别、年龄、流动稳定性、住房情况、每周工作时间和健康自评。",
+          "position": 41
+        },
+        {
+          "title": "警惕光棍危机人口流动与性别比失调下的新风险 - 第一财经",
+          "link": "https://m.yicai.com/news/3810639.html",
+          "snippet": "性别失衡导致的问题远远不是一部分男人被挤出婚姻这么简单，倾斜的性别天平背后，是更加严峻的社会问题。",
+          "date": "2014年5月14日",
+          "position": 42
+        },
+        {
+          "title": "[PDF] 代际流动如何影响生育意愿？ - 上海财经大学期刊社",
+          "link": "https://qks.sufe.edu.cn/j/PDFFull/a42dedf1-7175-4b1f-a1ba-6847ebf941eb.pdf",
+          "snippet": "Willis（1973）强调了女性就业率牺牲的机会成本和子女养育成本。由于房价高涨造成生育子女. 带来的改善性需求和学区房需求也进一步提高了生育成本，从而降低了生育意愿 ...",
+          "position": 43
+        },
+        {
+          "title": "黄铉辰性别流动望周知| 社区动态| 易次元：网易互动阅读平台",
+          "link": "http://avg.163.com/topic/detail/1933048",
+          "snippet": "黄铉辰性别流动望周知. 图源微博看水印.",
+          "date": "2022年7月9日",
+          "position": 44
+        },
+        {
+          "title": "都市里的农家女：性别流动与社会变迁- - 书香江苏",
+          "link": "https://www.sxjszx.com.cn/portal.php?mod=view&aid=460475",
+          "snippet": "摘要: 《都市里的农家女(性别流动与社会变迁)》是有关20世纪末加入大规模城市流动——包括流动到北京和其他城市的中国农村女性经验的一项迷人研究。",
+          "date": "2018年9月7日",
+          "position": 45
+        },
+        {
+          "title": "[PDF] 流动过程影响婚姻稳定性研究*",
+          "link": "https://rkyj.ruc.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=3454",
+          "snippet": "流动过程中. 婚姻质量的降低，替代资源可接触性的增多，再婚搜寻成本的降低，都增加了流动人口的离婚风险。 回归结果显示：丈夫独自外出务工，流动时间长、距离短，与当地文化 ...",
+          "position": 46
+        },
+        {
+          "title": "人口流动对农村妇女发展的影响 - 先晓书院",
+          "link": "https://xianxiao.ssap.com.cn/catalog/1505806.html",
+          "snippet": "人口流动对农村妇女发展的影响报告郑真真性别文化女童妇女工作留守妻子男女平等妇女地位迁移流动是人口变化的主要形态之一，也是人力资本积累或提升的途径之一。",
+          "priceRange": "JP¥5",
+          "position": 47
+        },
+        {
+          "title": "将性别平等置于气候行动的核心—— C40 城市",
+          "link": "https://www.c40.org/zh-CN/news/gender-equality-climate-action-women4climate/",
+          "snippet": "城市也在积极采取行动，通过在低碳和公平的流动性和城市规划解决方案中优先考虑女性来减少温室气体排放。 利马，例如，在其自行车运动中针对女性，而圣保罗 正在与女性 ...",
+          "position": 48
+        },
+        {
+          "title": "[PDF] 收入流动性和收入分配: 来自中国农村的经验证据 - 经济研究",
+          "link": "http://www.erj.cn/UploadFiles/%E6%94%B6%E5%85%A5%E6%B5%81%E5%8A%A8%E6%80%A7%E5%92%8C%E6%94%B6%E5%85%A5%E5%88%86%E9%85%8D_%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9D%91%E7%9A%84%E7%BB%8F%E9%AA%8C%E8%AF%81%E6%8D%AE.pdf",
+          "snippet": "内容提要: 如果在收入分配分析时考虑了收入流动性因素, 收入分配问题可能就没有. 人们所想象的那样严重, 因为今天的穷人可能成为明天的富人。我们利用中国农村的调.",
+          "position": 49
+        },
+        {
+          "title": "台湾劳动流动的模式、性别差异与年龄特征 - 汉斯出版社",
+          "link": "https://www.hanspub.org/journal/paperinformation?paperid=13946",
+          "snippet": "根据我们的分析结果显示，台湾的行、职业的结构曾有明显改变。虽然劳力市场区隔理论可以解释部分劳动力的动向，但若一并观察工作结构的变迁，方能得到更为完整的说明。",
+          "position": 50
+        },
+        {
+          "title": "若时装不再区分性别，你能接受吗？",
+          "link": "https://nowre.com/editorial/406684/ruoshizhuangbuzaiqufenxingbieninengjieshouma/",
+          "snippet": "在久远的时代里，有个挺复古的术语Androgynous（雌雄同体），现在这个时代赋予了它一个新的名字“Genderless Fashion（无性别主义时尚）”。 “性别流动性是当代人 ...",
+          "date": "2019年3月13日",
+          "position": 51
+        },
+        {
+          "title": "张春妹黄许诺｜ 农村文化适应与流动儿童宽容品质的关系",
+          "link": "https://philosophy.whu.edu.cn/info/1038/109421.htm",
+          "snippet": "显然需要从其当前直接环境因素之外，寻找其保护性因素和积极资源。 （二）流动儿童的城乡文化适应与宽容品质. 国内外已有宽恕影响因素的大量研究，主要 ...",
+          "date": "2024年3月30日",
+          "position": 52
+        },
+        {
+          "title": "《性别是条毛毛虫》作者：性别是可以流动的 - 中国新闻网",
+          "link": "https://www.chinanews.com.cn/cul/2013/11-22/5534112.shtml",
+          "snippet": "这本写就于1994的作品出自美国的跨性别先锋作者凯特·伯恩斯坦之手，记述了作者在经历变性手术之后对性别二分法的怀疑与思考。该书的中译本由新星出版社出版 ...",
+          "date": "2013年11月22日",
+          "position": 53
+        },
+        {
+          "title": "教育公平视角下流动儿童受教育质量的性别差异研究———以上海市 ...",
+          "link": "http://ericdata.com/tw/detail.aspx?no=279940",
+          "snippet": "張丹,流动儿童,性别差异,性别差距,floating children,gender difference,gender gap,ERICDATA高等教育知識庫:兩岸教育學術期刊,文獻專論,教育法規,教育案例等, ...",
+          "position": 54
+        },
+        {
+          "title": "[PDF] 中国社会流动性的变迁及影响因素研究",
+          "link": "http://rdi.cass.cn/yjcg/202409/P020240920454693827098.pdf",
+          "snippet": "摘要］将代际职业流动作为社会流动性的代理指标，基于2006—2017 年共计六轮CGSS 调查数. 据研究我国代际职业流动性的变化趋势、代际职业向上流动的主要 ...",
+          "date": "2024年2月2日",
+          "position": 55
+        },
+        {
+          "title": "男孩也开始穿裙子了，品牌正上演“无性别”大战 - CBNData",
+          "link": "https://m.cbndata.com/information/194749",
+          "snippet": "所以，「无边界主义」或许更能概括这个词的核心思想——消除惯性观念和刻板印象构筑的性别边框。无论是单性、双性、性别流动还是雌雄同体，都可以找到舒适的 ...",
+          "date": "2021年8月18日",
+          "position": 56
+        },
+        {
+          "title": "无性别之美是新规范 - Industries Cosmétiques",
+          "link": "https://www.industries-cosmetiques.fr/zh/%E9%9D%93%E5%A5%B3-%E6%97%A0%E6%80%A7%E5%88%AB-%E6%98%AF%E6%96%B0%E7%9A%84%E6%A0%87%E5%87%86/",
+          "snippet": "现在是谈论趋势的时候了，意识到在美容产品方面，性别中立的美已经成为常态。名人、影响者和普通大众，特别是年轻一代，正越来越多地接受一种性别流动 ...",
+          "date": "2022年8月25日",
+          "position": 57
+        },
+        {
+          "title": "教育公平视角下流动儿童受教育质量的性别差异研究",
+          "link": "https://xbjk.ecnu.edu.cn/CN/html/201601009.htm",
+          "snippet": "研究表明，教师对男女生的期望与认知存在明显差异，这个现象在小学阶段尤其突出。教师通常会将女生成绩优异更多归因于“乖巧懂事、态度认真”等女性性格特点，而非归因于女生的 ...",
+          "position": 58
+        },
+        {
+          "title": "A Brief Introduction to Trans - shypeople",
+          "link": "https://shypeople.cn/A-Brief-Introduction-to-Trans",
+          "snippet": "你对自己的性别认同可能既不是女性，也不是男性，这也是完全没有问题和值得去拥抱的。 一些人的性别认同是可以变化的、能够流动的、非一成不变的，TA 们常会称呼自己为「性别 ...",
+          "position": 59
+        },
+        {
+          "title": "[PDF] 跨性别者、间性人和酷儿（LGBTIQ+）融入劳动世界",
+          "link": "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@asia/@ro-bangkok/@ilo-beijing/documents/publication/wcms_856152.pdf",
+          "snippet": "5 除非另有规定，国际劳工组织. 的国际劳工标准适用于所有劳动者。《1958年就业和职业歧视公约》（第111号）适用于包括流动工人. 在内的所有劳动者和所有经济 ...",
+          "position": 60
+        },
+        {
+          "title": "性别流动Genderfluid 旗帜免费下载 - 找国旗",
+          "link": "https://www.zhaoguoqi.com/index.php/Detail/index/id/168",
+          "snippet": "找国旗提供性别流体的旗帜矢量SVG、PNG下载，Flag of Genderfluid Free Dowanlod (SVG, PNG)；各国国旗、地区旗、组织旗帜SVG矢量图、PNG素材免费下载就来找国旗网.",
+          "position": 61
+        },
+        {
+          "title": "流动模式与农民工婚姻稳定性研究:基于性别和世代的视角 - 社会杂志",
+          "link": "https://www.society.shu.edu.cn/CN/Y2019/V39/I6/23",
+          "snippet": "Migration Pattern and Marriage Instability among Migrant Workers: From a Gender and Cohort Perspective. LI Weidong.",
+          "date": "2019年11月19日",
+          "position": 62
+        },
+        {
+          "title": "我也有厌女情结| 性别流动性带来的解放| 从北大毕业生与上野千鹤子 ...",
+          "link": "https://www.youtube.com/watch?v=0wPSfepKsZs",
+          "snippet": "相关视频： https://youtu.be/RmUQ8fbWl24 女性主义心理学视角，解读李靓蕾王力宏 ...\n时长： 12:40\n发布时间： 2023年2月21日",
+          "date": "2023年2月21日",
+          "position": 63
+        },
+        {
+          "title": "【随机波动】性别非二元，想象无止境",
+          "link": "https://www.stovol.club/kering",
+          "snippet": "... 性别？能否在具体的关系中，以彼此作为照见对方的镜子，让性别在一来一回中真正流动起来？ 作为全球高端精品集团，开云汇聚了Gucci、Saint Laurent ...",
+          "date": "2023年9月27日",
+          "position": 64
+        },
+        {
+          "title": "[PDF] 职业流动的性别差异研究",
+          "link": "https://shxyj.ajcass.com/Admin/UploadFile/Issue/vsz2vb52.pdf",
+          "snippet": "了女性实现职业流动的可能性。 关键词： 职业流动 ... 从社会网络视角来探讨职业流动的性别差异问题， 可以从以往的. 研究中归纳出三个核心问题本文试图对这些问题进行分析并且 ...",
+          "position": 65
+        },
+        {
+          "title": "陕西省流动人口健康知识水平与影响因素",
+          "link": "https://doi.wanfangdata.com.cn/10.3969/j.issn.1007-0672.2018.06.012",
+          "snippet": "[3] 杨博, 李树茁. 性别失衡后果的社会风险及其社区和家庭扩散研究[J]. 南京社会科学. 2018 ,(5).89-95. DOI: 10.15937/j.cnki.issn1001-8263.2018.05.012 ...",
+          "date": "2019年1月7日",
+          "position": 66
+        },
+        {
+          "title": "农民工职业流动类型与收入效应的性别差异分析",
+          "link": "http://www.card.zju.edu.cn/2013/0910/c24475a921076/page.htm",
+          "snippet": "... 流动及其收入效应的性别差异。研究表明,不同类型的职业流动具有不同的收入效应;相同的职业流动行为,收入效应的性别差异显著。工作原因、家庭原因两类 ...",
+          "date": "2013年9月10日",
+          "position": 67
+        },
+        {
+          "title": "呼和浩特市人口变动抽样调查入户登记今日正式启动",
+          "link": "http://www.huhhot.gov.cn/2022_zwdt/zwyw/202411/t20241101_1799387.html",
+          "snippet": "市统计局：调查内容包括姓名、公民身份证号码、性别、年龄、民族、受教育程度、迁移流动、工作、婚姻生育、死亡、住房等情况。 如何保证个人填报信息 ...",
+          "date": "3天前",
+          "position": 68
+        },
+        {
+          "title": "【TED】流动的性别：性别不只是简单二分 - 网易公开课",
+          "link": "https://open.163.com/newview/movie/free?pid=MFB8RIB2A&mid=MFB8S2T0S",
+          "snippet": "【TED】流动的性别：性别不只是简单二分. 4.5万次播放; 10:51. 在世界上很多地方，性别被进行了二元分化：男人或女人，各自基于生物性别，被赋予了特征和气质。但法郎士 ...",
+          "position": 69
+        },
+        {
+          "title": "法郎士· 比利亚塔: 菲律宾性别流动的历史| TED Talk",
+          "link": "https://www.ted.com/talks/france_villarta_the_gender_fluid_history_of_the_philippines/transcript?language=zh-cn&subtitle=en",
+          "snippet": "... ，性别被进行了二元分化：男人或女人，各自基于生物性别， ... 性别流动性和包容性，并强调了不管被 ...\n时长： 10:41\n发布时间： 2020年3月9日",
+          "date": "2020年3月9日",
+          "position": 70
+        },
+        {
+          "title": "“我不是想让女孩看起来像男孩，反之亦然”，无性别理念品牌避坑指南",
+          "link": "https://pangjing.cn/genderless-brand-trend-2020/",
+          "snippet": "无性别指的是打破传统意义上对于两种性别特征的刻板印象。这一理念体现在尊重性别流动、强调个体独特性的同时包容多元的社会风潮。这本不是一个新话题， ...",
+          "date": "2020年6月30日",
+          "position": 71
+        },
+        {
+          "title": "高品质3*5英尺聚酯LGBTQAQ性别同性恋性别流动性别同性恋骄傲旗",
+          "link": "https://chinese.alibaba.com/product-detail/High-Quality-3-5ft-Polyester-LGBTQAQ-1601231987573.html",
+          "snippet": "高品质3*5英尺聚酯LGBTQAQ性别同性恋性别流动性别同性恋骄傲旗, You can get more details about 高品质3*5英尺聚酯LGBTQAQ性别同性恋性别流动性别同性恋骄傲旗from ...",
+          "position": 72
+        },
+        {
+          "title": "访谈：性别流动的漫漫长路& 在内地高校绽放过的彩虹ft. Ashton",
+          "link": "https://podcasts.apple.com/us/podcast/08-%E8%AE%BF%E8%B0%88-%E6%80%A7%E5%88%AB%E6%B5%81%E5%8A%A8%E7%9A%84%E6%BC%AB%E6%BC%AB%E9%95%BF%E8%B7%AF-%E5%9C%A8%E5%86%85%E5%9C%B0%E9%AB%98%E6%A0%A1%E7%BB%BD%E6%94%BE%E8%BF%87%E7%9A%84%E5%BD%A9%E8%99%B9-ft-ashton/id1725512952?i=1000662069518&l=ar",
+          "snippet": "【本期内容Episode contents】 本期是对嘉宾Ashton的访谈。Ashton是一位流动性别者，也曾是内地某高校彩虹社团的参与者。ta坦诚分享了其漫长的自我探索之路， ...",
+          "position": 73
+        },
+        {
+          "title": "中国新农村性别结构变迁研究: 流动的父权 - Google Books",
+          "link": "https://books.google.com/books/about/%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%86%9C%E6%9D%91%E6%80%A7%E5%88%AB%E7%BB%93%E6%9E%84%E5%8F%98%E8%BF%81%E7%A0%94%E7%A9%B6.html?id=N0aVAQAACAAJ",
+          "snippet": "本书旨在从社会性别结构变化的角度来记录,描述,分析巨大的农村社会变迁,并以父权制度作为理论分析框架,从私人(家庭,家族),公共(基于血地缘关系交织的共同体:曾经的家族 ...",
+          "position": 74
+        },
+        {
+          "title": "svg格式- 性别流动模板免费下载 - 千图网",
+          "link": "https://m.58pic.com/newpic/48745136.html",
+          "snippet": "性别流动免费下载由千图网为您提供，svg格式，0X0大小，下载源文件即可自行编辑修改源文件里的文字和图片，更多有关、icon图标、社交图标图片素材免费下载请关注千图网。",
+          "position": 75
+        },
+        {
+          "title": "表2 2020年七普中流动人口分性别的教育结构 - 先晓书院",
+          "link": "https://xianxiao.ssap.com.cn/bookpic/2410695.html",
+          "snippet": "表2 2020年七普中流动人口分性别的教育结构. 资源编号：2410695. 图表出处：中国流动儿童教育发展报告（2021～2022） 出处详情 . 文献标题：中国流动儿童教育发展 ...",
+          "position": 76
+        },
+        {
+          "title": "诺贝尔奖得主谢克曼在上海呼吁：信息的自由流动在科学研究中至关 ...",
+          "link": "https://www.jfdaily.com/news/detail?id=811156",
+          "snippet": "“科学是一项全球性事业，要享有信息的自由流动。”今天上午开幕的2024世界顶尖科学家论坛上，世界顶尖科学家协会副主席、诺贝尔生理学或医学奖得主兰迪· ...",
+          "date": "2024年10月25日",
+          "position": 77
+        },
+        {
+          "title": "性别不是连续谱 - 神经现实",
+          "link": "https://neu-reality.com/2016/07/gender-is-not-a-spectrum/",
+          "snippet": "... 性别身份是如此的复杂、闪耀、多元而独特——只有这时候，问题才会浮现。你自称非二元性别或者流动性人，然后要求别人把自己称作单性人，是故意让绝大 ...",
+          "date": "2016年7月22日",
+          "position": 78
+        },
+        {
+          "title": "“性别流动者”寻找自己身份的故事 - Facebook",
+          "link": "https://zh-cn.facebook.com/BBCChinese/videos/2102368816509594/",
+          "snippet": "我觉得不可以只用胸来决定是男人还是女人，”她说，“性别不是二元，可以多元、流动，我就是我。” 这是一位 ...\n时长： 2:55\n发布时间： 2019年2月20日",
+          "date": "2019年2月20日",
+          "position": 79
+        },
+        {
+          "title": "入户登记！敬请积极配合！ - 合肥市瑶海区人民政府",
+          "link": "https://www.hfyaohai.gov.cn/zwdt/bmts/11412785.html",
+          "snippet": "调查内容主要包括姓名、公民身份号码、性别、年龄、民族、受教育程度、迁移流动、工作、婚姻生育、死亡、住房情况等。 市统计局提醒广大市民. 为节约 ...",
+          "date": "5天前",
+          "position": 80
+        },
+        {
+          "title": "性別流動gender fluid - 性別力百科 - 女人迷",
+          "link": "https://womany.net/genderpower/pedias/6011",
+          "snippet": "性別流動打破性別二元視角，主張性別認同是動態變化的，並非局限於特定的一種，而是在兩者或以上的狀態之間流動。這一流動是在連續的性別認同光譜上變化 ...",
+          "date": "2017年8月17日",
+          "position": 81
+        },
+        {
+          "title": "性别流动与凝视流动- 360AI搜索",
+          "link": "https://www.sou.com/search/f95abe8a044343759ec3decabd8a45fd",
+          "snippet": "性别流动与凝视流动的概念解析性别流动（Gender Fluidity）是一个社会学和心理学概念，指的是一个人的性别认同不是固定不变的，而是可以在不同的时间和情境中发生变化。",
+          "position": 82
+        },
+        {
+          "title": "通知！人口抽样调查即将开始! - 固镇县人民政府",
+          "link": "https://www.guzhen.gov.cn/gzdt/tzgg/81327152.html",
+          "snippet": "调查内容姓名、公民身份号码、性别、年龄、民族、受教育程度、工作情况、迁移流动、婚姻生育、死亡、住房情况等。 3.调查时间调查标准时点是2024年11 ...",
+          "date": "5天前",
+          "position": 83
+        },
+        {
+          "title": "关于开展2024年人口变动情况抽样调查的公告 - 宝鸡市统计局",
+          "link": "http://tjj.baoji.gov.cn/art/2024/10/28/art_1951_1797432.html",
+          "snippet": "三、调查内容：姓名、公民身份号码、性别、年龄、民族、受教育程度、迁移流动、工作、婚姻生育、死亡、住房情况等。 四、调查时间：调查标准时点是 ...",
+          "date": "7天前",
+          "position": 84
+        },
+        {
+          "title": "共产党员网_中共中央组织部",
+          "link": "https://www.12371.cn/",
+          "snippet": "“牵线、筑巢、润心”让流动党员“流而不失” · 常怀“三心” 用实际行动书写佤山驻村答卷 · 致敬航天“她力量”：星河璀璨因你而美 · 摄影作品| 党群连心并肩作战全力以赴抗“康妮 ...",
+          "position": 85
+        },
+        {
+          "title": "我省首次将人口变动调查样本比例调整为5‰-辽宁信息 - 鞍山市政府",
+          "link": "http://www.anshan.gov.cn/html/ASSZF/202410/0173024802914364.html",
+          "snippet": "调查以户为单位进行，调查内容为人口和住户的基本情况，主要包括姓名、公民身份证号码、性别、年龄、民族、受教育程度、迁移流动、工作、婚姻生育、死亡、 ...",
+          "date": "4天前",
+          "position": 86
+        },
+        {
+          "title": "中国统计年鉴—2023",
+          "link": "https://www.stats.gov.cn/sj/ndsj/2023/indexch.htm",
+          "snippet": "... 性别比和户规模(2022年) · 2-10 分地区分性别、户口登记状况的人口(2022年) · 2-11 分地区人口年龄构成和抚养比(2022年) · 2-12 分地区按性别和婚姻状况分的人口(2022年) ...",
+          "position": 87
+        },
+        {
+          "title": "实施就业优先战略促进高质量充分就业 - 求是",
+          "link": "http://www.qstheory.cn/dukan/qs/2024-11/01/c_1130214644.htm",
+          "snippet": "... 性基础性工作。 ... 完善劳动者合理流动机制，保障平等就业权利，坚决纠正地域、身份、性别、年龄等影响平等就业的不合理限制和就业歧视，畅通社会流动 ...",
+          "date": "3天前",
+          "position": 88
+        },
+        {
+          "title": "女性流动人口与城镇化进程--理论 - 人民网",
+          "link": "http://theory.people.com.cn/n/2013/0716/c40531-22213412.html",
+          "snippet": "人口流动问题为主要研究内容，是目前国内外相关研究涉及较少和缺乏整体、深入研究的领域。,女性流动 ... 性女性流动劳动力状况的研究，对于中西部地区城市化 ...",
+          "date": "2013年7月16日",
+          "position": 89
+        },
+        {
+          "title": "潍坊人注意，人口变动抽样调查开始了",
+          "link": "http://m.wfnews.com.cn/content/2024-11/02/content_2623020.htm",
+          "snippet": "市统计局党组成员、四级调研员孟红表示，今年人口变动情况抽样调查的主要内容包括姓名、身份证号码、性别、年龄、民族、受教育程度、工作情况、迁移流动、 ...",
+          "date": "2天前",
+          "position": 90
+        },
+        {
+          "title": "“固执一点去追求你真正喜欢的东西” - 上海科技报",
+          "link": "https://www.shkjb.com/content.html?id=235981",
+          "snippet": "在印度长大、在美国接受高等教育的马克斯·普朗克数学研究所莉泽·迈特纳课题组负责人阿鲁妮玛·拉伊表示，在科学能力方面，男女之间并不存在性别带来的很大 ...",
+          "date": "8天前",
+          "position": 91
+        },
+        {
+          "title": "辽宁首次将人口变动调查样本比例调整为5 - 央广网",
+          "link": "https://www.cnr.cn/ln/jrln/20241030/t20241030_526958230.shtml",
+          "snippet": "调查以户为单位进行，调查内容为人口和住户的基本情况，主要包括姓名、公民身份证号码、性别、年龄、民族、受教育程度、迁移流动、工作、婚姻生育、死亡、 ...",
+          "date": "5天前",
+          "position": 92
+        },
+        {
+          "title": "湖南展开人口变动情况入户登记",
+          "link": "https://hn.rednet.cn/content/646855/95/14417707.html",
+          "snippet": "具体调查内容包括姓名、公民身份号码、性别、年龄、民族、受教育程度、工作情况、迁移流动、婚姻生育、死亡、住房情况等，对象为抽中住房内具有中华人民 ...",
+          "date": "22小时前",
+          "position": 93
+        },
+        {
+          "title": "性别是流动的吗？（The Big Idea 21世纪读本） - 起点中文",
+          "link": "https://www.qidian.com/book/1031626023/",
+          "snippet": "(英)萨莉·海因斯创作的科普读物小说《性别是流动的吗？（The Big Idea 21世纪读本）》,已更新0章,最新章节:。美国GoldieBlox玩具公司生产了性别中立的玩具，试图挑战人们对 ...",
+          "position": 94
+        },
+        {
+          "title": "美国是如何以“性别”之名，对肯尼亚社会进行渗透的？-清华大学国际 ...",
+          "link": "https://www.guancha.cn/IIAS/2024_11_04_754056.shtml",
+          "snippet": "该项目旨在通过放大女性的声音和意愿，打击性暴力和基于性别的暴力。 ... 从这一角度而言，当地的性别观念具有一定的合理性和流动性。 与此同时 ...",
+          "date": "37分钟前",
+          "position": 95
+        },
+        {
+          "title": "了解真实数据、提供更好服务，我省展开人口变动情况入户登记 - 新湖南",
+          "link": "https://m.voc.com.cn/xhn/news/202411/21231767.html",
+          "snippet": "具体调查内容包括姓名、公民身份号码、性别、年龄、民族、受教育程度、工作情况、迁移流动、婚姻生育、死亡、住房情况等，对象为抽中住房内具有中华人民 ...",
+          "date": "2天前",
+          "position": 96
+        },
+        {
+          "title": "恩利，你第一个想法也是：“他很爱穿女装”吗？ 大部分的我们因为受到 ...",
+          "link": "https://www.facebook.com/hanaxinyi/videos/%E6%80%A7%E5%88%AB%E6%98%AF%E5%85%88%E5%A4%A9%E7%9A%84%E6%9C%8D%E8%A3%85%E6%98%AF%E6%B5%81%E5%8A%A8%E7%9A%84%E4%BD%A0%E6%98%AF%E8%87%AA%E7%94%B1%E7%9A%84na%E4%B9%88%E5%8D%81%E5%9C%A8-na%E4%BA%9B%E6%95%99%E4%BC%9A%E6%88%91%E7%9A%84%E4%BA%8B-%E8%AF%B4%E5%88%B0%E5%93%88%E6%9E%97%E5%BA%BE%E6%BE%84%E5%BA%86%E5%92%8C%E4%BC%8A%E8%83%BD%E9%9D%99%E7%9A%84%E5%84%BF%E5%AD%90-%E6%81%A9%E5%88%A9%E4%BD%A0%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%83%B3%E6%B3%95%E4%B9%9F%E6%98%AF%E4%BB%96%E5%BE%88%E7%88%B1%E7%A9%BF%E5%A5%B3%E8%A3%85%E5%90%97%E5%A4%A7%E9%83%A8%E5%88%86%E7%9A%84%E6%88%91%E4%BB%AC%E5%9B%A0%E4%B8%BA%E5%8F%97%E5%88%B0%E5%AA%92%E4%BD%93%E7%9A%84%E6%8A%A5%E5%AF%BC%E5%BD%B1/1159816331668008/",
+          "snippet": "性别是先天的，服装是流动的，你是自由的。 #NA么十在#NA些教会我的事说到哈林庾澄庆 ...\n时长： 1:57\n发布时间： 2024年2月28日",
+          "date": "2024年2月28日",
+          "position": 97
+        },
+        {
+          "title": "联合国教科文组织：通过教育、科学、文化、传播和信息建设和平",
+          "link": "https://www.unesco.org/zh",
+          "snippet": "性别平等 · 性别平等. 我们的影响力. 了解教科文组织在世界各地的影响力，以及本组织 ... #共享人类价值呼吁开放科学和思想自由流动。我们如何提升公众对科技的获取 ...",
+          "position": 98
+        },
+        {
+          "title": "上海理工大学",
+          "link": "http://www.usst.edu.cn/",
+          "snippet": "... 性突破。上海城市安全运行与应急治理协同创新中心依托上海理工大学系统科学、管理科学与工程、公共管理、光学工程、动力工程及工程 ... 流动站. 20. 个. 国家级教学平台.",
+          "position": 99
+        },
+        {
+          "title": "性别流动的概念表述性别变化3D渲染3D说明 - Depositphotos",
+          "link": "https://depositphotos.com/cn/video/abstract-conceptual-representation-gender-fluid-gender-changes-rendering-illustration-549520992.html",
+          "snippet": "从Depositphotos 收集的数百万优质高分辨率库存图片、矢量图像、插图和视频中，下载免版税 ...\n时长： 0:52\n发布时间： 2022年2月23日",
+          "date": "2022年2月23日",
+          "position": 100
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "性别流动",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 3,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "联合国教科文组织：通过教育、科学、文化、传播和信息建设和平",
+          "link": "https://www.unesco.org/zh",
+          "snippet": "性别平等 · 性别平等. 我们的影响力. 了解教科文组织在世界各地的影响力，以及本组织 ... #共享人类价值呼吁开放科学和思想自由流动。我们如何提升公众对科技的获取 ...",
+          "position": 1
+        },
+        {
+          "title": "上海理工大学",
+          "link": "http://www.usst.edu.cn/",
+          "snippet": "... 性突破。上海城市安全运行与应急治理协同创新中心依托上海理工大学系统科学、管理科学与工程、公共管理、光学工程、动力工程及工程 ... 流动站. 20. 个. 国家级教学平台.",
+          "position": 2
+        },
+        {
+          "title": "性别流动的概念表述性别变化3D渲染3D说明 - Depositphotos",
+          "link": "https://depositphotos.com/cn/video/abstract-conceptual-representation-gender-fluid-gender-changes-rendering-illustration-549520992.html",
+          "snippet": "从Depositphotos 收集的数百万优质高分辨率库存图片、矢量图像、插图和视频中，下载免版税 ...\n时长： 0:52\n发布时间： 2022年2月23日",
+          "date": "2022年2月23日",
+          "position": 3
+        },
+        {
+          "title": "内容页-武定县人民政府",
+          "link": "http://www.ynwd.gov.cn/centent-details.jsp?urltype=guestbook.GbBookDetailUrl&wbtreeid=1007&wbguestbookid=34453",
+          "snippet": "性别, 女. 处理状态, 处理完成. 发言内容 ... 武定县综合行政执法局于2024年10月28日加强该路段巡逻巡查，对该路段商贩道占道经营、流动水果车辆、流动摊贩进行清理整治。",
+          "position": 4
+        },
+        {
+          "title": "News Archive - Smith Stone Walters",
+          "link": "https://smithstonewalters.com/zh-hans/news",
+          "snippet": "立即注册人力资源、全球流动性、招聘和人才管理等领域的专业人士，或企业中任何与 ... 这些要求包括：在上一个财政年度，该国的非移民签证拒签率低于3%；签发安全的旅行证件；不分 ...",
+          "position": 5
+        },
+        {
+          "title": "二零二四年人口变动情况抽样调查下月启动 - 安徽新闻",
+          "link": "http://ah.anhuinews.com/la/fp/fpyw/202410/t20241030_7960922.html",
+          "snippet": "调查主要内容包括姓名、公民身份证号码、性别、年龄、民族、受教育程度、迁移流动、工作情况、婚姻生育等。 依据《中华人民共和国统计法》规定，统计 ...",
+          "date": "5天前",
+          "position": 6
+        },
+        {
+          "title": "2024 年商学院申请在经济不确定性中增长显著 - 美通社",
+          "link": "https://www.prnasia.com/story/466699-1.shtml",
+          "snippet": "\"在此背景下，商学院鼓励区域和国际间的流动性，构建校园内多元化、跨 ... 随着越来越多的女性通过商业教育投资自己，商业领导力的人才储备将变得更加健全，我们 ...",
+          "date": "4天前",
+          "position": 7
+        },
+        {
+          "title": "山西开展2024年人口变动情况抽样调查_黄河新闻网",
+          "link": "https://sx.sxgov.cn/content/2024-11/02/content_13329360.htm",
+          "snippet": "抽中住房内2023年11月1日至2024年10月31日死亡的人口也要登记相关项目。 调查内容包括姓名、公民身份证号码、性别、年龄、民族、受教育程度、迁移流动、 ...",
+          "date": "2天前",
+          "position": 8
+        },
+        {
+          "title": "金元顺安沣泰定期开放债券型发起式证券投资基金更新招募说明书",
+          "link": "http://fund.stockstar.com/SN2024110200005919.shtml",
+          "snippet": "... 流动性风险。信用风险主要是由目前国内中小企业的发展状况所导致的发行人违约、不按时偿付本金或利息的风险；流动性风险主要是由债券非公开发行和转让 ...",
+          "date": "2天前",
+          "position": 9
+        },
+        {
+          "title": "2024年青海省人口变动情况抽样调查开始-新闻中心",
+          "link": "http://www.qhnews.com/newscenter/system/2024/11/04/030298943.shtml",
+          "snippet": "调查内容为姓名、公民身份号码、性别、年龄、民族、受教育程度、工作情况、迁移流动、婚姻生育、死亡、住房情况等，以及国家样本点2周岁至4周岁儿童早期 ...",
+          "date": "15分钟前",
+          "position": 10
+        },
+        {
+          "title": "2024年人口变动情况抽样调查正在进行感谢您的配合",
+          "link": "http://tjj.huhhot.gov.cn/xwdt/tpxw/202410/t20241029_1795219.html",
+          "snippet": "调查内容包括姓名、公民身份证号码、性别、年龄、民族、受教育程度、迁移流动、工作、婚姻生育、死亡、住房情况等。 五、如何保证个人填报信息不被 ...",
+          "date": "6天前",
+          "position": 11
+        },
+        {
+          "title": "内蒙古开始2024年人口抽样调查入户登记",
+          "link": "http://nmg.news.cn/20241102/8994d763b04348d0a324d0442ae6df00/c.html",
+          "snippet": "... 性别、年龄、民族、受教育程度、工作情况、婚姻生育和迁移流动、住房情况及相关人员死亡情况等。 本次人口抽样调查范围涉及全区12盟市的108个旗、县 ...",
+          "date": "2天前",
+          "position": 12
+        },
+        {
+          "title": "厦门人口有何变动下月入户登记-东南网",
+          "link": "http://xm.fjsen.com/2024-10/29/content_31766017.htm",
+          "snippet": "据介绍，固定样本跟访调查的内容相比人口变动调查的指标会少一些，包括调查对象的姓名、性别、年龄、身份证号码、受教育程度、迁移流动情况、工作状况、婚姻 ...",
+          "date": "6天前",
+          "position": 13
+        },
+        {
+          "title": "我省首次将人口变动调查样本比例调整为5‰-新闻 - 北国网",
+          "link": "https://news.lnd.com.cn/system/2024/10/30/030488610.shtml",
+          "snippet": "调查以户为单位进行，调查内容为人口和住户的基本情况，主要包括姓名、公民身份证号码、性别、年龄、民族、受教育程度、迁移流动、工作、婚姻生育、死亡、 ...",
+          "date": "5天前",
+          "position": 14
+        },
+        {
+          "title": "性别流动_哔哩哔哩 - Bilibili",
+          "link": "https://www.bilibili.com/video/BV1tS4y1f7cf?from=search",
+          "snippet": "性别流动 · 乌克兰美女今天被小姐姐搭讪，原因是我长得像韩国人？ · 大家再等等很快我 ...\n时长： 1:03\n发布时间： 2022年1月30日",
+          "date": "2022年1月30日",
+          "position": 15
+        },
+        {
+          "title": "为怀揣科技梦想的女生点燃心中的希望之灯",
+          "link": "https://www.shkjb.com/content.html?id=235979",
+          "snippet": "霍普金斯大学教授杰瑞米•内森斯以《女性在科学领域的代表性：进步与挑战》为题指出：“面对竞争激烈的世界， ...",
+          "date": "2024年10月26日",
+          "position": 16
+        },
+        {
+          "title": "首页－乌有之乡",
+          "link": "http://m.wyzxwk.com/",
+          "snippet": "性别战争三十年，日韩女权的惨痛 ... 非农爆冷，美国金融流动性告急. 20小时前作者：星话 ...",
+          "position": 17
+        },
+        {
+          "title": "法郎士· 比利亚塔: 菲律宾性别流动的历史| TED Talk",
+          "link": "https://zenith-feature-prismic.staging.ted.com/talks/france_villarta_the_gender_fluid_history_of_the_philippines?language=zh-cn",
+          "snippet": "... 文化情书和历史课程交织的演讲中，他详细描述了祖国菲律宾所遗留下来的性别流动性和包容性 ...\n时长： 10:41\n发布时间： 2020年3月9日",
+          "date": "2020年3月9日",
+          "position": 18
+        },
+        {
+          "title": "跨性别者和多元性别者的斗争 - ohchr",
+          "link": "https://www.ohchr.org/zh/special-procedures/ie-sexual-orientation-and-gender-identity/struggle-trans-and-gender-diverse-persons",
+          "snippet": "定义性别认同是指一个人内心深切感受到的基于个人体验的性别，可能与出生时被指派性别相同或者不同，包括对身体的个人感觉（如果能够自由选择，这可能包括使用医学、手术或 ...",
+          "position": 19
+        },
+        {
+          "title": "2024年人口变动情况抽样调查明日正式启动 - 安徽新闻- 中安在线",
+          "link": "http://ah.anhuinews.com/fy/sh/202410/t20241031_7964169.html",
+          "snippet": "调查内容包括姓名、居民身份证号码、性别、年龄、民族、受教育程度、迁移流动、工作、婚姻生育等。 市统计局工作人员提醒，调查员入户调查时佩戴统一 ...",
+          "date": "4天前",
+          "position": 20
+        },
+        {
+          "title": "辽宁省首次将人口变动调查样本比例调整为5",
+          "link": "https://www.ln.chinanews.com.cn/news/2024/1030/347325.html",
+          "snippet": "调查以户为单位进行，调查内容为人口和住户的基本情况，主要包括姓名、公民身份证号码、性别、年龄、民族、受教育程度、迁移流动、工作、婚姻生育、死亡、 ...",
+          "date": "5天前",
+          "position": 21
+        },
+        {
+          "title": "综合施策，让劳动者就业权益得到全方位保障 - 中国经济网",
+          "link": "http://www.ce.cn/xwzx/gnsz/gdxw/202410/30/t20241030_39185723.shtml",
+          "snippet": "... 流动的体制机制障碍，同步推进户籍、用人、档案等服务改革，消除地域、身份、性别、年龄等影响平等就业的不合理限制和就业歧视，畅通社会流动渠道 ...",
+          "date": "5天前",
+          "position": 22
+        },
+        {
+          "title": "金元顺安沣顺定期开放债券型发起式证券投资基金更新招募说明书",
+          "link": "https://fund.stockstar.com/SN2024110200005875.shtml",
+          "snippet": "基金管理人依照恪尽职守，诚实信用、谨慎勤勉的原则管理和运用基金财产，但不保证基金一定盈利，也不保证最低收益。 本基金的投资范围为具有良好流动性的金融 ...",
+          "date": "2天前",
+          "position": 23
+        },
+        {
+          "title": "厦门下月开展人口变动入户登记共涉及36个镇（街）200个村（居）",
+          "link": "https://news.xmnn.cn/xmxw/202410/t20241029_275597.html",
+          "snippet": "据介绍，固定样本跟访调查的内容相比人口变动调查的指标会少一些，包括调查对象的姓名、性别、年龄、身份证号码、受教育程度、迁移流动情况、工作状况、婚姻 ...",
+          "date": "6天前",
+          "position": 24
+        },
+        {
+          "title": "美国大选热点观察丨教育：美式党争之下校园难有净土 - 新华网",
+          "link": "http://www.news.cn/world/20241102/8a980293d3ed4861af18dd1935d8319e/c.html",
+          "snippet": "美国多项平权运动兴起，围绕种族、性别 ... 美国哥伦比亚大学教育学院教授贝蒂娜·洛夫说：“我们的教育制度不是社会流动的引擎，这是政策缺陷的直接结果。",
+          "date": "2天前",
+          "position": 25
+        },
+        {
+          "title": "2024年半年度报:医疗服务行业A股上市公司流动负债合计TOP10排行榜",
+          "link": "https://m.chinabgao.com/top/enterprise/94445.html",
+          "snippet": "表2：医疗服务行业流动负债合计TOP10A股上市公司高管学历统计. 职务, 性别, 学历. 男, 女, 中专, 高中, 大专, 本科, 硕士, 博士. 董事长, 75%, 25%, 0%, 0% ...",
+          "date": "1天前",
+          "position": 26
+        },
+        {
+          "title": "广西2024年人口变动情况抽样调查入户登记启动 - 手机广西网",
+          "link": "https://v.gxnews.com.cn/a/21664939",
+          "snippet": "调查主要内容包括姓名、公民身份号码、性别、年龄、民族、受教育程度、工作情况、迁移流动、婚姻生育、死亡、住房情况等。调查以户为单位进行登记 ...",
+          "date": "20小时前",
+          "position": 27
+        },
+        {
+          "title": "合肥将启动2024年人口变动情况抽样调查 - 长江网",
+          "link": "http://news.cjn.cn/zjzycsqpd/hf_20026/202410/t5023859.htm",
+          "snippet": "调查内容主要包括姓名、公民身份号码、性别、年龄、民族、受教育程度、迁移流动、工作、婚姻生育、死亡、住房情况等。（黄紫燕）. 下一篇. 合肥秋粮 ...",
+          "date": "4天前",
+          "position": 28
+        },
+        {
+          "title": "二零二四年人口变动情况抽样调查下月启动",
+          "link": "https://www.luaninfo.com/laxw/laxw1/content_207582",
+          "snippet": "调查主要内容包括姓名、公民身份证号码、性别、年龄、民族、受教育程度、迁移流动、工作情况、婚姻生育等。 依据《中华人民共和国统计法》规定,统计 ...",
+          "date": "5天前",
+          "position": 29
+        },
+        {
+          "title": "大选冲刺战：关键时刻的较量 - 新华网",
+          "link": "http://www.xinhuanet.com/globe/20241029/d8d0d93514824236b1a7e7d0f98dbe4f/c.html",
+          "snippet": "摇摆州的名单并非固定不变，可能会因为人口流动、候选人及其政策等发生变化。 ... 性别造成的分化在今年大选中格外明显，哈里斯在男性群体中面临的 ...",
+          "date": "6天前",
+          "position": 30
+        },
+        {
+          "title": "教育：美式党争之下校园难有净土 - 新闻频道- 央视网",
+          "link": "https://news.cctv.com/2024/11/02/ARTIrlVkYisIWHcLecToyeEn241102.shtml",
+          "snippet": "美国多项平权运动兴起，围绕种族、性别 ... 美国哥伦比亚大学教育学院教授贝蒂娜·洛夫说：“我们的教育制度不是社会流动的引擎，这是政策缺陷的直接结果。",
+          "date": "2天前",
+          "position": 31
+        },
+        {
+          "title": "观点｜任远：建设生育友好型社会，如何加强生育补贴制度？",
+          "link": "https://fddi.fudan.edu.cn/a9/88/c21257a698760/page.htm",
+          "snippet": "这类“生育补贴”往往是采取一次性的补贴支付，也有省份是每年支付一定金额，直到婴幼儿达到3岁为止。作为“全面二孩“和“可以三孩”的配套政策，不少地区的生育 ...",
+          "date": "2天前",
+          "position": 32
+        },
+        {
+          "title": "实施就业优先战略促进高质量充分就业 - 中国经济网",
+          "link": "http://www.ce.cn/xwzx/gnsz/gdxw/202411/01/t20241101_39189242.shtml",
+          "snippet": "... 性基础性工作。 ... 完善劳动者合理流动机制，保障平等就业权利，坚决纠正地域、身份、性别、年龄等影响平等就业的不合理限制和就业歧视，畅通社会流动 ...",
+          "date": "3天前",
+          "position": 33
+        },
+        {
+          "title": "2024重庆国际人才交流大会事业单位考核招聘紧缺高层次人才公告",
+          "link": "https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2024/202410/t20241031_13758360.html",
+          "snippet": "公示内容包括拟聘用岗位、人员姓名、性别、出生年月、学历（学位）、毕业 ... 拟聘用的博士研究生，可按规定申请进入博士后科研流动站（工作站 ...",
+          "date": "4天前",
+          "position": 34
+        },
+        {
+          "title": "Greek Women's Narratives Concerning the COVID-19 Lockdowns in ...",
+          "link": "https://www.ablesci.com/assist/detail?id=1MbZ7e",
+          "snippet": "在（不）流动性中构建自我：希腊妇女对希腊雅典新冠肺炎封锁的叙述 ... 性别研究 大流行 概念化 美学 认识论 艺术 政治学 文学类 哲学 法学 程序 ...",
+          "date": "2天前",
+          "position": 35
+        },
+        {
+          "title": "路透社：中国正考虑发行10万亿特别债券 - DW",
+          "link": "https://www.dw.com/zh/%E8%B7%AF%E9%80%8F%E7%A4%BE%E4%B8%AD%E5%9B%BD%E6%AD%A3%E8%80%83%E8%99%91%E5%8F%91%E8%A1%8C10%E4%B8%87%E4%BA%BF%E7%89%B9%E5%88%AB%E5%80%BA%E5%88%B8/a-70627221",
+          "snippet": "此举旨在提高地方政府管理土地供应的能力，缓解流动性和债务带来的压力。 消息人士认为，如果全国人大常委会全额批准发行以上债券，中国此次刺激经济 ...",
+          "date": "6天前",
+          "position": 36
+        },
+        {
+          "title": "@长治人2024年人口变动情况抽样调查开始啦--黄河新闻网",
+          "link": "https://cz.sxgov.cn/content/2024-11/02/content_13329438.htm",
+          "snippet": "... 性别、年龄、民族、受教育程度、迁移流动、工作、婚姻生育、死亡、住房情况等。社会各界及广大群众应主动予以配合，并依照《中华人民共和国统计法》等 ...",
+          "date": "2天前",
+          "position": 37
+        },
+        {
+          "title": "张怡微《四合如意》《哀眠》研讨会：我们的日常 - 中国作家网",
+          "link": "http://www.chinawriter.com.cn/n1/2024/1101/c403994-40351968.html",
+          "snippet": "... 性别之间的力量互相搏斗，呈现的声音和视角都比较复杂。 《小说界》杂志 ... 流动中的文化张力。 南京师范大学文学院副教授朱婧说，张怡微的工人 ...",
+          "date": "3天前",
+          "position": 38
+        },
+        {
+          "title": "【韩素希】性别流动的神#精选图 - Bilibili",
+          "link": "https://www.bilibili.com/video/BV1th4y1w7cJ",
+          "snippet": "她跳舞时好像换了个人，这段敦煌神女居然是综艺片段. 5.6万 --. 1:22.\n时长： 0:13\n发布时间： 2023年8月3日",
+          "date": "2023年8月3日",
+          "position": 39
+        },
+        {
+          "title": "教育政策与经济分析的深度交汇：未来的展望与建议- 美国续航教育",
+          "link": "https://www.forwardpathway.com/135890",
+          "snippet": "... 性。文章指出，高质量教育对个人和国家经济发展至关重要，尤其是在COVID-19疫情后，教育质量的下降可能对未来经济流动性产生负面影响。美国在国际教育 ...",
+          "date": "22小时前",
+          "position": 40
+        },
+        {
+          "title": "汽车零部件行业A股上市公司流动负债合计TOP20排行榜 - 报告大厅",
+          "link": "https://m.chinabgao.com/top/enterprise/94475.html",
+          "snippet": "表2：汽车零部件行业流动负债合计TOP20A股上市公司高管学历统计. 职务, 性别, 学历. 男, 女, 中专, 高中, 大专, 本科, 硕士, 博士. 董事长, 100%, 0%, 0% ...",
+          "date": "20小时前",
+          "position": 41
+        },
+        {
+          "title": "勇敢做自己: 德國首位「性別流動」模特兒 - Facebook",
+          "link": "https://www.facebook.com/dw.chinese.traditional/videos/%E5%8B%87%E6%95%A2%E5%81%9A%E8%87%AA%E5%B7%B1-%E5%BE%B7%E5%9C%8B%E9%A6%96%E4%BD%8D%E6%80%A7%E5%88%A5%E6%B5%81%E5%8B%95%E6%A8%A1%E7%89%B9%E5%85%92/1745012052691353/",
+          "snippet": "白天在聯邦議院工作，晚上在伸展台走秀。菲利斯·尼德（Felix Nieder）是德國最成功的男模之一，他可 ...\n时长： 3:04\n发布时间： 2024年3月15日",
+          "date": "2024年3月15日",
+          "position": 42
+        },
+        {
+          "title": "易富贤: 中国在人口危机上拔剑四顾心茫然 - 美国之音",
+          "link": "https://www.voachinese.com/a/china-is-at-a-loss-as-it-looks-at-the-demographic-crisis-20241018/7828138.html",
+          "snippet": "土共最怕人民抱团，更怕人口流动，极端的一胎化，与其说是土共政策失误，不如说是土共的阴谋。极端的一胎化，造成性别失衡，可以借机推高房价，加大 ...",
+          "date": "2024年10月19日",
+          "position": 43
+        },
+        {
+          "title": "疯狂，一天暴涨6692535%！ - 凤凰网",
+          "link": "https://i.ifeng.com/c/8e9CNw09Z2q",
+          "snippet": "高盛也表示，外国机构正在尽快抛售其最大、流动性最强的资产，以提取现金，然后将这些现金注入中国市场。 单日大涨6.69万倍. 当地时间周二，Elcid股价大涨6692535 ...",
+          "position": 44
+        },
+        {
+          "title": "$777横穿美国挑战，你听说过性别流动吗？ - YouTube",
+          "link": "https://www.youtube.com/watch?v=8SLSeSvimJQ",
+          "snippet": "这个家庭比想象中更多元，两个妈妈，一个跨性别儿子，一个性别流动的孩子。对于性别和性向探索 ...\n时长： 7:19\n发布时间： 2020年9月26日",
+          "date": "2020年9月26日",
+          "position": 45
+        },
+        {
+          "title": "Law Firm McCarthy Tétrault by BVN + ACDF - 谷德设计网",
+          "link": "https://www.gooood.cn/law-firm-mccarthy-tetrault-by-bvn-acdf.htm",
+          "snippet": "疫情改变了对信息技术的要求，新的设计也更加注重专用工作站的使用、流动性的提高和灵活性的增加等。 ... 性别中立的洗手间。 The new design shifts ...",
+          "date": "23小时前",
+          "position": 46
+        },
+        {
+          "title": "澳大利亚的人口变迁史——我们的故事 - ABC",
+          "link": "https://www.abc.net.au/chinese/2024-10-28/population-australia-demographics-story-of-us/104510958",
+          "snippet": "澳大利亚的人口结构，即这个国家从年龄、性别、种族到宗教的独特组合，正在慢慢浮现。 ... 有备无患对福祉至关重要，尤其是在人口流动方面，许多人选择 ...",
+          "date": "7天前",
+          "position": 47
+        },
+        {
+          "title": "综合施策，让劳动者就业权益得到全方位保障 - 中国网教育",
+          "link": "http://edu.china.com.cn/2024-10/30/content_117515308.shtml",
+          "snippet": "... 性招聘信息，影响公平就业……这些隐藏在就业市场中的不法行为，不仅侵害 ... 性别、年龄等影响平等就业的不合理限制和就业歧视，畅通社会流动渠道 ...",
+          "date": "5天前",
+          "position": 48
+        },
+        {
+          "title": "厦门：人口变动调查11月1日开启“蓝马甲”将入户登记",
+          "link": "http://xm.fjsen.com/2024-10/30/content_31766839.htm",
+          "snippet": "据悉，人口变动调查能准确了解人口素质，及时掌握老龄化、人口集聚、人口迁移流动 ... 死亡人口调查表：姓名、身份证号码、性别、出生年月、死亡月份 ...",
+          "date": "5天前",
+          "position": 49
+        },
+        {
+          "title": "2024年度北京人口抽样调查开始登记了，涉及这些社区（村） - 网易",
+          "link": "https://www.163.com/dy/article/JFTNAKFL0512D3VJ.html",
+          "snippet": "调查内容包括姓名、公民身份号码、性别、年龄、民族、受教育程度、迁移流动、工作、婚姻生育、死亡、住房情况等。 调查员入户登记时，应当出示县级及 ...",
+          "date": "3天前",
+          "position": 50
+        },
+        {
+          "title": "肖俊｜性别流动可不是开玩笑的 - Bilibili",
+          "link": "https://www.bilibili.com/video/BV1Ts4y1Q7UE/",
+          "snippet": "肖俊｜性别流动可不是开玩笑的. 铁铁什么时候和我亲亲. 相关推荐. 查看更多. 人来疯系爱 ...\n时长： 0:37\n发布时间： 2023年5月8日",
+          "date": "2023年5月8日",
+          "position": 51
+        },
+        {
+          "title": "有人入户调查?别紧张，11月1日起抽样调查人口变动情况 - 华声在线",
+          "link": "https://hunan.voc.com.cn/article/202411/202411011621413897.html",
+          "snippet": "调查内容包括：姓名、居民身份号码、性别、年龄、民族、受教育程度、工作情况、迁移流动、婚姻生育、死亡、住房情况等。2024年设置了儿童早期发展专题 ...",
+          "date": "3天前",
+          "position": 52
+        },
+        {
+          "title": "$777横穿美国挑战，你听说过性别流动吗？ - YouTube",
+          "link": "https://www.youtube.com/watch?v=iqzqAa4201M",
+          "snippet": "横穿美国挑战，你听说过性别流动吗？ 生活记录,vlog,vlog星计划,不平凡,告别,挑战.\n时长： 7:21\n发布时间： 2024年10月15日",
+          "date": "2024年10月15日",
+          "position": 53
+        },
+        {
+          "title": "国家统计局公告2024年第4号！ - 网易",
+          "link": "https://www.163.com/dy/article/JFR7NV6T05148M7V.html",
+          "snippet": "户口在本户，调查标准时点未居住在本户的人。 三、调查内容：姓名、公民身份号码、性别、年龄、民族、受教育程度、迁移流动、工作、婚姻生育、 ...",
+          "date": "4天前",
+          "position": 54
+        },
+        {
+          "title": "性別的流動 - Nameless 佚名集",
+          "link": "https://guenterchao.net/gender-mobility/",
+          "snippet": "性別的流動 ... 我小時候就納悶為何要這樣一刀劃開男生女生呢，我在幼稚園、小學無論男生女生都可以一直玩的很盡興，直到大概小四吧，女孩們發育比男孩早，我 ...",
+          "date": "2022年4月17日",
+          "position": 55
+        },
+        {
+          "title": "菲律宾性别流动的历史| TED Talk",
+          "link": "https://zenith-feature-web-2608.staging.ted.com/talks/france_villarta_the_gender_fluid_history_of_the_philippines?language=zh-cn",
+          "snippet": "... 文化情书和历史课程交织的演讲中，他详细描述了祖国菲律宾所遗留下来的性别流动性和包容性 ...\n时长： 10:41\n发布时间： 2020年3月9日",
+          "date": "2020年3月9日",
+          "position": 56
+        },
+        {
+          "title": "[ENG SUB]性別流動到底是怎麼回事？直男也會對男同志 ... - YouTube",
+          "link": "https://www.youtube.com/watch?v=RwgNzrEVafE",
+          "snippet": "Sleeping wIth Your Teacher EP209: \"Genderfluidity\" 跟老師上 ...",
+          "date": "2023年6月13日",
+          "attributes": {},
+          "position": 57
+        },
+        {
+          "title": "性向是流動的：什麼是LGBTQ？｜Sherry's Notes 雪力的心理學筆記 ...",
+          "link": "https://www.youtube.com/watch?v=ZTJpfNvUg8w",
+          "snippet": "為什麼最近常在Instagram的名稱下面看到She/Her或是They/Them？近期新增的 ...\n时长： 7:10\n发布时间： 2023年1月13日",
+          "date": "2023年1月13日",
+          "position": 58
+        },
+        {
+          "title": "性别竟然是可以流动的？？ - YouTube",
+          "link": "https://www.youtube.com/watch?v=yR4Eq4grpu4",
+          "snippet": "本期视频由@Doh原创设计赞助播出从评论里抽一位送@Doh原创设计的制定T.\n时长： 31:32\n发布时间： 2023年5月6日",
+          "date": "2023年5月6日",
+          "position": 59
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

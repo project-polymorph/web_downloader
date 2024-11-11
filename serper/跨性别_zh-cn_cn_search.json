@@ -1,0 +1,745 @@
+{
+  "query": "跨性别",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-03T23:39:51.836603",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "跨性别",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "answerBox": {
+        "snippet": "跨性别指个体的性别认同不同于其出生时被指定的生理性别。 跨性别是一个概括性术语，包括跨性别男性、跨性别女性和性别酷儿等性别认同。 跨性别是一种性别认同而不是一种性倾向。 根据国际通用的医学标准，跨性别并不属于精神疾病。",
+        "snippetHighlighted": [
+          "个体的性别认同不同于其出生时被指定的生理性别"
+        ],
+        "title": "跨性别_百度百科",
+        "link": "https://baike.baidu.com/item/%E8%B7%A8%E6%80%A7%E5%88%AB/6234644"
+      },
+      "organic": [
+        {
+          "title": "跨性别- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E8%B7%A8%E6%80%A7%E5%88%A5",
+          "snippet": "跨性别（英语：transgender）人士的性别认同与他们出生时指定性别不同。如果跨性别人士以医学手段从一种性别转换到另一种性别，则有时会认同自己为变性人。“跨性别”是一个 ...",
+          "position": 1
+        },
+        {
+          "title": "关于跨性别的事实- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/healthy-lifestyle/adult-health/in-depth/transgender-facts/art-20266812",
+          "snippet": "跨性别者的定义. 词语“跨性别者”和“多元性别者”涵盖一系列性别认同和性别表达。这些词语超出了这样一种观点，即所有人只能被归类为两种性别中的一种： ...",
+          "date": "2023年4月21日",
+          "position": 2
+        },
+        {
+          "title": "跨性别女性- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E8%B7%A8%E6%80%A7%E5%88%A5%E5%A5%B3%E6%80%A7",
+          "snippet": "跨性别女性拥有女性性别认同，并可能会经历性别不安并且进行性别转换；该过程通常包括性别肯定激素治疗（GAHT），有时还包括性别肯定手术。正如顺性别女性一样，跨性别女性也可能 ...",
+          "position": 3
+        },
+        {
+          "title": "跨性别者和多元性别者的斗争 - ohchr",
+          "link": "https://www.ohchr.org/zh/special-procedures/ie-sexual-orientation-and-gender-identity/struggle-trans-and-gender-diverse-persons",
+          "snippet": "当官方证件中的姓名和性别信息与其性别认同或表达存在冲突时，跨性别者极易遭受人权侵犯。然而，目前世界上绝大多数跨性别者和多元性别者的性别认同无法获得官方承认。这种 ...",
+          "position": 4
+        },
+        {
+          "title": "[PDF] 中国跨性别群体- 生存现状调查报告",
+          "link": "https://cnlgbtdata.com/files/uploads/2019/03/2017_%E4%B8%AD%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E7%BE%A4%E4%BD%93%E7%94%9F%E5%AD%98%E7%8E%B0%E7%8A%B6%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A-%E5%8F%AF%E8%A7%86%E5%8C%96.pdf",
+          "snippet": "指认同自己既不完全属于男性也不完全属于女性的人，是一. 种非二元性别身份的跨性别者。 • 跨性别女性（Transgender Woman）. 指认同自己是女性的跨性别者，又称男跨女（MTF） ...",
+          "position": 5
+        },
+        {
+          "title": "[PDF] 解答你的问题- 关于跨性别者",
+          "link": "https://www.apa.org/topics/lgbtq/chinese-simplified-transgender.pdf",
+          "snippet": "什么是跨性别？ 跨性别者是一个统称，是指性别认同或性别. 表达与出生时的性别不符的人。性别认同是. 指一个人认同自己身为男性、女性或其他性. 别的心理意识。",
+          "position": 6
+        },
+        {
+          "title": "男女同性恋、双性恋、跨性别者、性别奇异者和间性者| 联合国",
+          "link": "https://www.un.org/zh/fight-racism/vulnerable-groups/lgbtqi-plus",
+          "snippet": "因与基于种族、肤色、血统、民族或族裔的种族歧视相互交织，男女同性恋、双性恋、跨性别者、性别奇异者和间性者更容易受到受到歧视，且更容易遭遇出于仇恨的暴力侵害。若干 ...",
+          "position": 7
+        },
+        {
+          "title": "跨性别者的爱情：我爱你，不是因为你的性别 - 歪脑",
+          "link": "https://www.wainao.me/wainao-reads/love-of-transgender-individuals-10042023",
+          "snippet": "扩展阅读 · 跨性别者核桃：先遵循内心成为女性，再突破男性凝视，不做“亭亭玉立”的女人 · 台湾版“J.K.罗琳与性别厕所战争”：在“挤压女性空间”的恐惧情绪中，跨 ...",
+          "date": "2023年10月4日",
+          "position": 8
+        },
+        {
+          "title": "性别认同：跨性别人士权益会弱化女性权益？ - BBC News 中文",
+          "link": "https://www.bbc.com/zhongwen/simp/uk-40772676",
+          "snippet": "根据英国平等与人权委员会向服务商（如妇女庇护所）发出的现行指引，如跨性别人士在外观及其他方面，均与其后天性别相符，应以其后天性别对待。",
+          "date": "2017年7月31日",
+          "position": 9
+        },
+        {
+          "title": "跨性别人群生存困境调查：多数人有遭受校园暴力经历 - 新闻频道",
+          "link": "http://news.cctv.com/2020/02/22/ARTIJ5mYNQzX05v1IZiDuRoN200222.shtml",
+          "snippet": "《2017中国跨性别群体生存现状调查报告》（以下简称《调查报告》）的调查数据显示，跨性别人群所面临的失业风险约为社会普通人群的3倍，工作环境对跨性别者不 ...",
+          "date": "2020年2月22日",
+          "position": 10
+        },
+        {
+          "title": "[PDF] 跨性别者性别认同的法律承认",
+          "link": "https://www.undp.org/sites/g/files/zskgke326/files/migration/asia_pacific_rbap/81e35c0bbe5b80d746519d11bb00d20cb33c8990b529c6664137bf2127ce73cd.pdf",
+          "snippet": "这. 是包容性发展的根本障碍，因为它触及了跨性别者生活与工作的诸多领域，是实现其他基本人权的基础。 在撰写本报告的过程中，笔者以律师身份代理了小C 诉其雇主的就业歧视案 ...",
+          "position": 11
+        },
+        {
+          "title": "[PDF] 跨性别者 - ohchr",
+          "link": "https://www.ohchr.org/sites/default/files/Documents/Issues/Discrimination/LGBT/FactSheets/UNFE_FactSheet_Transgender_CH.pdf",
+          "snippet": "跨性别者可. 以有任何的性倾向，他们可能是异性恋，也可能. 是同性恋或双性恋，还可能是无性欲者。许多跨. 性别者希望他们的自选名字和性别认同得到官. 方身份证件在法律上的 ...",
+          "position": 12
+        },
+        {
+          "title": "跨性别女性的评估和管理- UpToDate",
+          "link": "https://www.uptodate.com/contents/zh-Hans/transgender-women-evaluation-and-management/print",
+          "snippet": "一些流行病学研究显示，与顺性别女性相比，跨性别女性发生心肌梗死和缺血性脑卒中的风险更高。然而，一篇meta分析纳入29项研究、共3200余例接受激素治疗的跨 ...",
+          "date": "2023年10月12日",
+          "position": 13
+        },
+        {
+          "title": "跨性别者的健康问题- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/healthy-lifestyle/adult-health/in-depth/transgender-health/art-20154721",
+          "snippet": "把医疗护理放在首位 · 您的性别认同。 · 您正在或曾经服用的药物或补充剂。 · 您做过的手术或医疗程序。 · 您可能存在的健康问题或担忧。 · 任何可能存在的医疗状况的家族 ...",
+          "position": 14
+        },
+        {
+          "title": "跨性别身份案终极胜诉：重温香港跨男谢浩霖争取性别“正名”之路 - BBC",
+          "link": "https://www.bbc.com/zhongwen/simp/chinese-news-64327239",
+          "snippet": "跨性别男性谢浩霖（Henry Tse）在2017年和另两名原诉申请司法复核，挑战香港入境事务处以“完成全套变性手术”才能变更身份证上性别的标准。",
+          "date": "2023年2月6日",
+          "position": 15
+        },
+        {
+          "title": "公告_中国人民大学人权研究中心",
+          "link": "http://humanrights.ruc.edu.cn/rqdt/gg/c8e75436c9f04272bb1c7a18780d0e72.htm",
+          "snippet": "... 性别者案例；四、宪法平等下跨性别者权利保障。 首先，周老师提到2018年11月6日 ... 性别认同、性取向、性别表达与生理性别的关系，周老师还例举了一些世界著名跨 ...",
+          "position": 16
+        },
+        {
+          "title": "专访：日本跨性别人士的隐蔽抗争 - Human Rights Watch",
+          "link": "https://www.hrw.org/zh-hans/news/2019/03/19/328226",
+          "snippet": "这不是好事吗？ 这部法律的问题在於限制太多。跨性别人士必须先让自己被确诊为“性别认同障碍”，还要接受具危险性的绝育手术。他们必须年满20岁，未婚且没有未 ...",
+          "date": "2019年3月19日",
+          "position": 17
+        },
+        {
+          "title": "国际跨性别现身日",
+          "link": "https://www.state.gov/translations/chinese/transgender-day-of-visibility-2-zh/",
+          "snippet": "“国际跨性别现身日”（Transgender Day of Visibility）是对生活在世界各国和各种文化中的跨性别者、非二元性别者和性别不确认者的勇气和坚韧精神的礼赞。在 ...",
+          "date": "2024年3月31日",
+          "position": 18
+        },
+        {
+          "title": "[PDF] 2021全国跨性别健康调研报告",
+          "link": "https://cnlgbtdata.com/files/uploads/2023/01/2021%E5%85%A8%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E5%81%A5%E5%BA%B7%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.pdf",
+          "snippet": "激素替代治疗（Hormone Replacement Thera- py, HRT）. 指通过服用外源性内分泌制剂，使跨性别者身体的. 第二性征与其性别认同相符，促成TA们男性化或. 女性化的改变。 性别重 ...",
+          "position": 19
+        },
+        {
+          "title": "跨性别女性_百度百科",
+          "link": "https://baike.baidu.com/item/%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E6%80%A7/16697826",
+          "snippet": "跨性别女性(英语：Transwoman or Trans woman or Trans-woman)，或跨性别女人、跨性女、跨女，意旨男跨女(英语：MTF or M2F)出生时生理性别为男性；性别认同为女性， ...",
+          "position": 20
+        },
+        {
+          "title": "[PDF] 亚太跨性别健康蓝图",
+          "link": "https://www.undp.org/sites/g/files/zskgke326/files/migration/asia_pacific_rbap/06134fe5d74f2f84023c5de3ee99656ba412f33aa87d6a66c24e6a3da2f6de19.pdf",
+          "snippet": "Suggested citation: Health Policy Project，Asia Pacific Transgender Network，United Nations Development Programme. 2015. Blueprint for the. Provision of ...",
+          "position": 21
+        },
+        {
+          "title": "关于2024年男女同性恋、双性恋、跨性别者、酷儿和间性者骄傲月的 ...",
+          "link": "https://china.usembassy-china.org.cn/zh/a-proclamation-on-lesbian-gay-bisexual-transgender-queer-and-intersex-pride-month-2024/",
+          "snippet": "为此，我，美利坚合众国总统约瑟夫·拜登（JOSEPH R. BIDEN JR.），谨以宪法和法律赋予我的权力，特此宣布2024年6月为男女同性恋、双性恋、跨性别者、酷儿和间性 ...",
+          "date": "2024年6月5日",
+          "position": 22
+        },
+        {
+          "title": "王恒| 吾栖之肤：跨性别者的性别认同与具身实践——基于在北京市 ...",
+          "link": "http://www.shehui.pku.edu.cn/wap/second/index.aspx?nodeid=2030&page=ContentPage&contentid=10195",
+          "snippet": "黄晓迪的故事在中国大陆跨性别社群内几乎无人不知，这个被父母送进两所以“矫正”为名的扭转治疗机构又三次出逃的跨性别女孩向陈军米和高国讲述了她的故事，两位导演又以纪录片 ...",
+          "position": 23
+        },
+        {
+          "title": "跨性别者- مغايرة الهوية الجنسانية - UN Free & Equal",
+          "link": "https://www.unfe.org/zh/ar/know-the-facts/challenges-solutions/transgender",
+          "snippet": "在更多情况下，其他措辞含糊的法律被用来逮捕和起诉跨性别者。许多当局拒绝承认跨性别者的性别认同，认为他们是男同性恋或女同性恋。因此，在将两厢情愿的同性性关系定为刑事 ...",
+          "position": 24
+        },
+        {
+          "title": "[PDF] 跨性别者、间性人和酷儿（LGBTIQ+）融入劳动世界",
+          "link": "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@asia/@ro-bangkok/@ilo-beijing/documents/publication/wcms_856152.pdf",
+          "snippet": "在整个就业周期中，女同性恋、男同性恋、双性恋、. 跨性别者、间性人和酷儿（LGBTIQ+）遭受着来自同事、主管以及客户的歧视、排斥、暴力和骚扰。基. 于SOGI的歧视还往往与种族 ...",
+          "position": 25
+        },
+        {
+          "title": "跨性别在线·文档库",
+          "link": "https://docs.transonline.org.cn/",
+          "snippet": "# 跨性别在线·文档库 ... 在线阅读版本仅为方便在移动设备上阅读，内容以pdf文件为准。 文档名, 在线阅读, 下载pdf, 原版 ...",
+          "position": 26
+        },
+        {
+          "title": "[PDF] 跨性别组织现状（第二版）",
+          "link": "https://gate.ngo/wp-content/uploads/2017/10/The-State-of-Trans-Organizing-2nd-Edition-2017-Executive-Summary-ZH_CN.pdf",
+          "snippet": "2016年美国犹太人世界服务组织（American Jewish World Service, AJWS）、爱斯. 翠雅正义女神女同性恋基金会（Astraea Lesbian Foundation for Justice）和跨性别.",
+          "position": 27
+        },
+        {
+          "title": "跨性别人群生存困境调查：多数人有遭受校园暴力经历 - 江西",
+          "link": "http://jx.people.com.cn/n2/2020/0222/c186330-33818908.html",
+          "snippet": "《2017中国跨性别群体生存现状调查报告》(以下简称《调查报告》)的调查数据显示，跨性别人群所面临的失业风险约为社会普通人群的3倍，工作环境对跨性别者不 ...",
+          "date": "2020年2月22日",
+          "position": 28
+        },
+        {
+          "title": "認識跨性別！ | 台灣同志諮詢熱線協會",
+          "link": "https://hotline.org.tw/news/3041",
+          "snippet": "認識跨性別！ · 或稱陰陽人、間性人、兩性人、中性人等。即 · 原生生理構造（生殖器、性腺和染色體）無法被判定成典型的男性身體與女性身體。 · 這是身體的 ...",
+          "date": "2020年11月11日",
+          "position": 29
+        },
+        {
+          "title": "跨性別- 维基词典，自由的多语言词典",
+          "link": "https://zh.wiktionary.org/wiki/%E8%B7%A8%E6%80%A7%E5%88%A5",
+          "snippet": "那些在出生的時候根據其性器官而被指定了某個性別，但是卻感覺到那個性別是對他們一種錯誤或不完整的描述的人。 跨性别是个集合名词，它涉及到各种与性别角色部分或全部 ...",
+          "position": 30
+        },
+        {
+          "title": "白宫宣布“跨性别日”撞期复活节激怒保守派特朗普阵营要求拜登道歉",
+          "link": "https://www.voachinese.com/a/the-trump-camp-assails-biden-for-declaring-easter-sunday-as-transgender-day-of-visibility-20240331/7550546.html",
+          "snippet": "乔·拜登（Joe Biden）总统因宣扬“跨性别者现身日”，引起总统大选竞争者、前总统唐纳德·特朗普（Donald Trump）竞选团队和保守派的愤怒批评，特朗普阵营并 ...",
+          "date": "2024年3月31日",
+          "position": 31
+        },
+        {
+          "title": "难以跨越的“隐形门”：跨性别者职场生存记 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/kuaibao_detail.jsp?contid=5530241&from=kuaibao",
+          "snippet": "很多跨性别者因为担心“出柜”后会失去工作或难以和同事相处，白天在职场，按照他人对生理性别的期待着装、生活，到了夜晚，才卸下伪装。一位昆明的跨性别者说，她白天兼职，为房产 ...",
+          "position": 32
+        },
+        {
+          "title": "中国跨性别群体求医难转投海外或黑市",
+          "link": "https://www.rfa.org/mandarin/yataibaodao/shehui/cc-09132019121604.html",
+          "snippet": "中国跨性别群体的生存现状，近日再次受到舆论关注。法新社披露，许多跨性别者在中国难以获得合法有效的医疗服务，不得不转投海外或黑市进行变性手术。",
+          "date": "2019年9月13日",
+          "position": 33
+        },
+        {
+          "title": "宁冒生命危险自行手术，也不愿活在谎言中：三个中国跨性别者的故事",
+          "link": "https://zh.amnesty.org/content-type/more-resources/blog/trans-gender-feature/",
+          "snippet": "在中国，性别确认手术仅提供给被诊断患有精神障碍的人，还要求取得家属同意，哪怕你是一名成年人。因此，想要做真实的自己，许多跨性别人士宁可采取激烈且 ...",
+          "date": "2019年5月14日",
+          "position": 34
+        },
+        {
+          "title": "【出圈】跨性别者：我愿用三分之二生命换女性身份Transgender",
+          "link": "https://www.youtube.com/watch?v=YQy7fTYE31c",
+          "snippet": "国内跨性别者群体长期处于比较隐秘的状态，很难得到正规的医疗帮助，外界对他们没有认知，或 ...\n时长： 17:58\n发布时间： 2023年3月3日",
+          "date": "2023年3月3日",
+          "position": 35
+        },
+        {
+          "title": "中国跨性别者非自杀倾向自残行为研究——流行率和风险因素的横断 ...",
+          "link": "https://www.hanspub.org/journal/paperinformation?paperid=48438",
+          "snippet": "一个原因可能是中国的跨性别女性生活在有限的法律保护之下，比西方国家受到更多的社会歧视(UNDP and China Women's University, 2018)。此外，与中国跨性别男性相比，跨性别 ...",
+          "position": 36
+        },
+        {
+          "title": "联合国庆祝第20个国际不再恐惧同性恋、双性恋与跨性别日 - UN News",
+          "link": "https://news.un.org/zh/story/2024/05/1128726",
+          "snippet": "5月17日是第20个国际不再恐惧同性恋、双性恋与跨性别日。今年的主题是“不让任何一个人掉队：人人享有平等、自由和正义”。联合国秘书长古特雷斯表示， ...",
+          "date": "2024年5月16日",
+          "position": 37
+        },
+        {
+          "title": "新闻多一度丨“跨性别”选手引争议，在体育竞技上男女差异有多大？",
+          "link": "https://news.sina.cn/2024-08-04/detail-inchnqma6668276.d.html",
+          "snippet": "那么是谁泄露了哈利夫的“跨性别”身份呢?那就是国际拳击协会(IBA)。在去年的新德里世锦赛上，哈利夫和中国台北的拳手林郁婷都因为DNA的检测后出现问题而被停 ...",
+          "date": "2024年8月4日",
+          "position": 38
+        },
+        {
+          "title": "“跨性别”给奥林匹克出了道难题 - 人民日报",
+          "link": "https://www.peopleapp.com/column/30046113198-500005641542",
+          "snippet": "作为曾经的男子举重运动员，哈伯德曾经是新西兰国内的青年冠军，而2015年国际奥委会修改了参赛指南——国际奥委会有关跨性别女运动员的具体规定是，运动员所 ...",
+          "date": "2024年8月3日",
+          "position": 39
+        },
+        {
+          "title": "【假】跨性别群体规模庞大，影响力巨大 - 辟谣吧",
+          "link": "https://www.piyaoba.org/transgender-data-research/",
+          "snippet": "2022年6月，加州大学洛杉矶分校法学院的公共政策研究所威廉姆斯研究所公布了研究数据。研究所根据美国疾病控制和预防中心的数据估计，有160 万人（占13 岁及 ...",
+          "date": "2023年8月3日",
+          "position": 40
+        },
+        {
+          "title": "“生而无罪，你不需要抱歉”|性别认同：“顺”或“跨”都不该被轻易定义",
+          "link": "https://xinli.swjtu.edu.cn/info/1065/5833.htm",
+          "snippet": "而就在2019年5 月25 日，世界卫生组织在第72 届世界卫生大会上通过了《国际疾病分类》第11 次修订，将“性别认同障碍”（gender identity disorder）从精神障碍 ...",
+          "date": "2021年10月13日",
+          "position": 41
+        },
+        {
+          "title": "美跨性别泳将无缘奥运赛场 - 大公网",
+          "link": "https://www.takungpao.com/news/232111/2024/0803/997318.html",
+          "snippet": "【大公报讯】据美联社、《卫报》报道：关于跨性别运动员能否参加女子比赛的问题，近年成为美国政治讨论的焦点话题之一。美国跨性别游泳运动员莉亚．汤玛斯（ ...",
+          "date": "2024年8月3日",
+          "position": 42
+        },
+        {
+          "title": "中国跨性别人群：他/她们过的怎么样？ - DW",
+          "link": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E4%BA%BA%E7%BE%A4%E4%BB%96-%E5%A5%B9%E4%BB%AC%E8%BF%87%E7%9A%84%E6%80%8E%E4%B9%88%E6%A0%B7/a-18837257",
+          "snippet": "最近一档名为《金星秀》的脱口秀节目在中国颇为红火。众所周知的是，其主持人金星是一名变性者，但这一身份并未阻碍她取得成功。然而，更多的跨性别人在 ...",
+          "date": "2015年11月14日",
+          "position": 43
+        },
+        {
+          "title": "[PDF] 跨性别者",
+          "link": "https://www.unfe.org/sites/default/files/download/Transgender%20Factsheet%20-%20CH.pdf",
+          "snippet": "跨性别者可. 能有任何性取向，包括异性恋、同性恋、双性恋和无性恋。间性. 者——也就是出生时性别特征不符合典型的男性或女性身体这. 一二元概念的人 ...",
+          "position": 44
+        },
+        {
+          "title": "性别认同- 《默沙东诊疗手册大众版》",
+          "link": "https://www.msdmanuals.cn/home/mental-health-disorders/gender-incongruence-and-gender-dysphoria/gender-identity",
+          "snippet": "有些人感到自己的性身份与其生理性别不符。这被称为跨性别者或性别多样化。 性身份包括传统的男性或女性。然而，不同文化和社会 ...",
+          "position": 45
+        },
+        {
+          "title": "泰国：跨性别人士被剥夺平等权利 - Human Rights Watch",
+          "link": "https://www.hrw.org/zh-hans/news/2021/12/16/thailand-transgender-people-denied-equal-rights",
+          "snippet": "由于泰国没有法律性别承认机制，所有跨性别人士所携带的证件上，都注记着与他们本人认同与表达不同的性别。每当跨性别人士被要求出示证件，就会让他们感到 ...",
+          "date": "2021年12月15日",
+          "position": 46
+        },
+        {
+          "title": "“跨性别”给奥林匹克出了道难题 - 新湖南",
+          "link": "https://m.voc.com.cn/xhn/news/202408/20392102.html",
+          "snippet": "那么是谁泄露了哈利夫的“跨性别”身份呢？那就是国际拳击协会（IBA）。在去年的新德里世锦赛上，哈利夫和中国台北的拳手林郁婷都因为DNA的检测后出现问题而被停 ...",
+          "date": "2024年8月3日",
+          "position": 47
+        },
+        {
+          "title": "A Brief Introduction to Trans - shypeople",
+          "link": "https://shypeople.cn/A-Brief-Introduction-to-Trans",
+          "snippet": "一些人因为自己的性别认同与自己的社会性别、生理性别或出生时被指定的性别不一样，而常会称呼自己为「跨性别」(transgender)。性别不安是跨性别的非充分与非必要条件。有的 ...",
+          "position": 48
+        },
+        {
+          "title": "居日台湾人批评“反跨团体”遭起诉，日本跨性别权益面临多重挑战",
+          "link": "https://theinitium.com/zh-hans/article/20240810-whatsnew-international-japan-transgender",
+          "snippet": "2004年，在自民党右翼弱势的情况下，《性别认同障碍者性别处理特例法》（下称特例法）最终获得通过。尽管如此，特例法对更改登记性别的要求仍然极为严格，包括 ...",
+          "date": "2024年8月9日",
+          "position": 49
+        },
+        {
+          "title": "中国的跨性别者_手机搜狐网",
+          "link": "https://www.sohu.com/a/278757709_157906",
+          "snippet": "李银河花了极大气力向大家解释，她是异性恋，而她的恋人其实是男性，是一名女跨男的跨性别男性。 “我知道在新疆一个不到一万人的小镇上，也有一个跨性别者 ...",
+          "date": "2021年12月22日",
+          "position": 50
+        },
+        {
+          "title": "[EPUB] 2019年社会概览",
+          "link": "https://www.oecd-ilibrary.org/society-at-a-glance-2019-summary-chinese_9ee3f8dc-zh.epub?itemId=%2Fcontent%2Fcomponent%2F9ee3f8dc-zh&mimeType=epub",
+          "snippet": "对跨性别者感到的不适略高于对LGB人士的不适。 LGBT人士表示歧视广泛存在. 经合组织国家平均多于三分之一的LGBT受访者表示个人感觉由于自身的性取向和/或性别认同遭到歧视 ...",
+          "position": 51
+        },
+        {
+          "title": "認識跨性別– 跨性別Transgender",
+          "link": "https://transgender.taipei/%E8%AA%8D%E8%AD%98%E8%B7%A8%E6%80%A7%E5%88%A5/",
+          "snippet": "認識多元性別基礎篇1. 順性別（Cisgender） 一個人的原生生理構造跟性別認同一致的狀態；例如：出生時有陰莖，也覺得自己是男生。 2. 跨性別（Transgender） 一個人的生理構造 ...",
+          "position": 52
+        },
+        {
+          "title": "跨性别现身日- 美国驻华大使馆和领事馆",
+          "link": "https://china.usembassy-china.org.cn/zh/on-transgender-day-of-visibility-zh/",
+          "snippet": "我们将继续与公民社会、志同道合的政府以及其他人权捍卫者共同努力，打击将男女同性恋、双性恋、跨性别者、酷儿和间性者等(LGBTQI+)群体的地位定为刑事犯罪 ...",
+          "date": "2021年4月1日",
+          "position": 53
+        },
+        {
+          "title": "学习指南：女同性恋、男同性恋、双性恋、跨性别者、间性人和酷儿 ...",
+          "link": "https://www.ilo.org/zh-hans/publications/%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97%EF%BC%9A%E5%A5%B3%E5%90%8C%E6%80%A7%E6%81%8B%E3%80%81%E7%94%B7%E5%90%8C%E6%80%A7%E6%81%8B%E3%80%81%E5%8F%8C%E6%80%A7%E6%81%8B%E3%80%81%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85%E3%80%81%E9%97%B4%E6%80%A7%E4%BA%BA%E5%92%8C%E9%85%B7%E5%84%BF%EF%BC%88lgbtiq%EF%BC%89%E8%9E%8D%E5%85%A5%E5%8A%B3%E5%8A%A8%E4%B8%96%E7%95%8C",
+          "snippet": "学习指南：女同性恋、男同性恋、双性恋、跨性别者、间性人和酷儿（LGBTIQ+）融入劳动世界. 在社会各个领域，包括工作场所，LGBTIQ+群体都面临着基于性取向、 ...",
+          "date": "2022年9月16日",
+          "position": 54
+        },
+        {
+          "title": "大学生同性恋、双性恋及跨性别者认知调查 - 中国公共卫生",
+          "link": "https://www.zgggws.com/cn/article/doi/10.11847/zgggws-2012-28-07-14",
+          "snippet": "《中国公共卫生》杂志社成立于1982年，其前身是《公共卫生与疾病控制》杂志社（编辑部）。1985年2月经卫生部（85）卫办发字第24号文件批准同意正式更名为《中国公共 ...",
+          "position": 55
+        },
+        {
+          "title": "接受雌激素治疗的跨性别女性中PSA结果或不能评估前列腺癌风险",
+          "link": "https://www.bjcancer.org/Html/News/Articles/19148.html",
+          "snippet": "美国加州大学旧金山分校Nik-Ahd等报告，接受雌激素治疗的跨性别女性中前列腺特异性抗原(PSA)中位数为0.02 ng/mL，远低于同年龄段未患前列腺癌的顺性别 ...",
+          "date": "2024年8月12日",
+          "position": 56
+        },
+        {
+          "title": "[PDF] 简报#09 跨性别性工作者的需求与权利",
+          "link": "https://www.nswp.org/sites/default/files/trans_sws_chinese.pdf",
+          "snippet": "在世界各地，有赖于法律对跨性别者和性工作者是刑事定罪还是保. 护，TSW经历着不同层次的歧视。TSW经常被刑事定罪，因为这些法律. 针对他们的性别认同和工作两个方面起作用。",
+          "position": 57
+        },
+        {
+          "title": "Queer Squad｜再谈跨性别者的厕所与相关问题",
+          "link": "https://chinadigitaltimes.net/chinese/673865.html",
+          "snippet": "一个是性别中立卫生间，要么是把已有的厕所全部改成独立的单间，就好像飞机、高铁的一些厕所，全部设置为封闭且独立的单间，那么在这个单间里，永远只有一个人。这种单间除了 ...",
+          "position": 58
+        },
+        {
+          "title": "加州通过跨性别法案，马斯克：总部搬家，去得州！-观察者网",
+          "link": "https://www.guancha.cn/internation/2024_07_17_741748.shtml",
+          "snippet": "马斯克又和美国加利福尼亚州（以下简称“加州”）“杠”上了。7月17日凌晨，马斯克在社交媒体“X”上连发几条帖.",
+          "date": "2024年7月17日",
+          "position": 59
+        },
+        {
+          "title": "跨性别女性：我的灵魂与我格格不入丨镜相 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_22457629",
+          "snippet": "国家卫健委2020年发布的《国家限制类技术临床应用管理规范》中，规定接受性别重置手术的对象必须满足对性别重置的要求至少持续五年以上且无反复过程、未婚 ...",
+          "date": "2023年3月31日",
+          "position": 60
+        },
+        {
+          "title": "中国第一个“跨性别门诊” - 36氪",
+          "link": "https://m.36kr.com/p/2838705615882887",
+          "snippet": "这种治疗形象地讲，是给他们的青春期发育按下一个暂停键，比如停止胸部发育、月经等等，让他们体验一下这是不是自己想要的状态。如果一段时间之后，对自己本来 ...",
+          "date": "2024年6月28日",
+          "position": 61
+        },
+        {
+          "title": "[PDF] “我需要家长同意才能做自己”",
+          "link": "https://www.amnesty.org/en/wp-content/uploads/2021/05/ASA1702692019CHINESE.pdf",
+          "snippet": "care: Working with transgender and gender nonconforming clients），2018 年，第130 页（下称：S. Chang 等人，《性别确认护理临床. 医学指南》）。 8 世界跨性别人士健康专业 ...",
+          "position": 62
+        },
+        {
+          "title": "跨性别/非常规性别旅客",
+          "link": "https://www.flysfo.com/cn/passengers/travel-tips/transgender-gnc-guests",
+          "snippet": "旧金山和加利福尼亚正在仿效世界上许多国家的作法，在他们的护照上提供第三种性别标记。澳大利亚、加拿大、丹麦、德国、马耳他、新西兰和巴基斯坦都提供一个“X”类别，印度、 ...",
+          "position": 63
+        },
+        {
+          "title": "跨性别者自杀意念的影响因素探析 - 汉斯出版社",
+          "link": "https://www.hanspub.org/journal/paperinformation?paperid=60667",
+          "snippet": "通过梳理文献发现，歧视、性暴力、家庭支持、社会接纳、个体自身应对策略等因素都会影响跨性别者的自杀意念。此外，通过文献搜索发现，目前我国对跨性别者的研究较少。而国外 ...",
+          "position": 64
+        },
+        {
+          "title": "[PDF] 支持性别多样化儿童和跨性别青少年 - Trans Care BC",
+          "link": "https://www.transcarebc.ca/sites/default/files/2024-03/Supporting_children_youth_and_parents_CH-Simplified.pdf",
+          "snippet": "鼓励. 鼓励家长了解到支持和肯定孩子的性别认同是可以有助于解决. 他们的担忧和达到他们对孩子的期望. 告知家长，研究表示受到家长和照护者支持的孩子比较健康.",
+          "position": 65
+        },
+        {
+          "title": "拜登将今年复活节定为“跨性别可见日” - RFI",
+          "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20240331-%E6%8B%9C%E7%99%BB%E5%B0%86%E4%BB%8A%E5%B9%B4%E5%A4%8D%E6%B4%BB%E8%8A%82%E5%AE%9A%E4%B8%BA-%E8%B7%A8%E6%80%A7%E5%88%AB%E5%8F%AF%E8%A7%81%E6%97%A5",
+          "snippet": "美国总统的乔·拜登发布了一条总统令，宣布将今年的复活节3月31日定为“跨性别可见日”，此举在当地时间3月30日引发了广泛的愤怒。",
+          "date": "2024年3月31日",
+          "position": 66
+        },
+        {
+          "title": "跨性别女性的评估和管理- UpToDate",
+          "link": "https://www.uptodate.com/contents/zh-Hans/transgender-women-evaluation-and-management",
+          "snippet": "大多数跨性别女性都在接受口服雌二醇，平均最大日剂量为4mg(1-10mg)，VTE患者的剂量没有差别。 ... ○跨性别人群与一般人群的易栓症发生率相同。因此，不建议在 ...",
+          "date": "2023年10月12日",
+          "position": 67
+        },
+        {
+          "title": "活动人士抨击香港针对跨性别者的身份证性别更改政策 - 美国之音",
+          "link": "https://www.voachinese.com/a/activists-slam-new-hong-kong-id-card-policy-for-trans-people-20240403/7555703.html",
+          "snippet": "香港活动人士和律师周三（4月3日）猛烈抨击一项关于身份证上更改性别的新政策，称这项规则转变是仍然要求跨性别者进行侵入性手术。",
+          "date": "2024年4月4日",
+          "position": 68
+        },
+        {
+          "title": "联合国可持续发展集团| 跨性别女性期待着自由平等的世界",
+          "link": "https://unsdg.un.org/zh/latest/videos/kuaxingbienuxingqidaizheziyoupingdengdeshijie",
+          "snippet": "此视频讲述了墨西哥城一个简陋街区的\"Casa de las Muñecas Tiresias\"庇护所中变 ...\n时长： 2:47\n发布时间： 2020年12月10日",
+          "date": "2020年12月10日",
+          "position": 69
+        },
+        {
+          "title": "陈润森研究团队及其合作者在《柳叶刀· 公共卫生》发表跨性别群体 ...",
+          "link": "https://vsph.tsinghua.edu.cn/info/1028/1111.htm",
+          "snippet": "图片来自文章刊发截图清华大学万科公共卫生与健康学院陈润森团队与同济大学医学院、美国威斯康星大学公共卫生学院等合作者在《柳叶刀·公共卫生》（The Lancet Public ...",
+          "position": 70
+        },
+        {
+          "title": "女性向男性跨性别者的初级医疗是什么？ - Kamol Cosmetic Hospital",
+          "link": "https://www.kamolhospital.com/zh/blog/1505/what-is-primary-care-in-female-to-male-teansgender",
+          "snippet": "女性向男性跨性别者的初级医疗 · 1. 一般健康维护: 提供常规的医疗保健服务，如疫苗接种、常见健康状况的筛查（例如高血压、糖尿病），以及根据需要管理慢性健康状况。 · 2.",
+          "position": 71
+        },
+        {
+          "title": "Know Your Rights: MA Trans Rights (普通话) - GLAD",
+          "link": "https://www.glad.org/kyr-trans-ma-sc/",
+          "snippet": "马萨诸塞州学校跨性别和性别拓展反歧视. 您有权安全上学，不受基于您的性取向、性别身份或性别表达的歧视和骚扰。 您所在学校必须为您提供平等的机会，并允许您以平等的 ...",
+          "position": 72
+        },
+        {
+          "title": "跨性别女孩遭“性别扭转治疗”：被母亲送去注射电击 - 新浪新闻",
+          "link": "https://news.sina.cn/sh/2020-07-22/detail-iivhvpwx6751147.d.html",
+          "snippet": "第11版《国际疾病分类》将于2022年生效。目前，跨性别者要做性别重置手术仍然需要去医院精神科开具“易性症”证明，条件包括有父母的知情同意书、单位或社区 ...",
+          "date": "2020年7月22日",
+          "position": 73
+        },
+        {
+          "title": "世界田联从严限制性别发育异常和跨性别运动员参赛 - 新华网",
+          "link": "http://www.news.cn/sports/2023-03/24/c_1129461122.htm",
+          "snippet": "世界田联从严限制性别发育异常和跨性别运动员参赛---世界田联24日在官网公布了世界田联理事会日前做出的一系列决定，宣布从本月31日起，加强对性别发育 ...",
+          "date": "2023年3月24日",
+          "position": 74
+        },
+        {
+          "title": "跨性别运动员：体育界该如何对待？ - DW",
+          "link": "https://www.dw.com/zh/%E8%B7%A8%E6%80%A7%E5%88%AB%E8%BF%90%E5%8A%A8%E5%91%98%E4%BD%93%E8%82%B2%E7%95%8C%E8%AF%A5%E5%A6%82%E4%BD%95%E5%AF%B9%E5%BE%85/a-66982533",
+          "snippet": "在女子职业网球协会WTA，根据规定，一个跨性别女性可以参加比赛，前提是她声明\"她的性别认同是女性\"。但这种性别认同必须持续至少四年。此外，相关运动员必须 ...",
+          "date": "2023年10月8日",
+          "position": 75
+        },
+        {
+          "title": "跨性别女性激素治疗期间的抗雄激素或雌二醇或两者结合治疗",
+          "link": "https://www.cochranelibrary.com/es/cdsr/doi/10.1002/14651858.CD013138.pub2/full/zh_HANS",
+          "snippet": "RCT是一种能够降低几类偏倚可能性的研究方法。本综述纳入研究的标准是比较用于促进跨性别女性转换的不同激素治疗（单独使用雌激素、单独使用睾酮阻滞剂或雌激素联合睾酮阻滞 ...",
+          "position": 76
+        },
+        {
+          "title": "对于跨性别者来说，真实的生活——仅仅让人看见真正的自己",
+          "link": "https://news.qq.com/rain/a/20210331A05SKS00",
+          "snippet": "就业歧视案对我的影响蛮大的，那件事之后我不敢去找工作。后来就一直在公益机构里面做事。因为我的身份证拿出来还是性别为女，这会让我遇到很多尴尬的事情。",
+          "date": "2021年3月31日",
+          "position": 77
+        },
+        {
+          "title": "[PDF] 全球跨性别健康与幸福指数议题",
+          "link": "https://transrespect.org/wp-content/uploads/2018/12/TvT-PS-Vol20-2018_CN.pdf",
+          "snippet": "跨性别相关健康计划仅与艾滋病毒、艾滋病与. 性传播疾病有关，并且为跨性别女性或出生被指派性别为男性的跨性别者提供. 避孕套和润滑剂的分类是属于“男男性接触者”（MSM）类别 ...",
+          "position": 78
+        },
+        {
+          "title": "跨性别in English - Cambridge Dictionary",
+          "link": "https://dictionary.cambridge.org/dictionary/chinese-simplified-english/%E8%B7%A8%E6%80%A7%E5%88%AB",
+          "snippet": "对跨性别持肯定态度 ... supporting transgender people , especially supporting a person's right to say what their own gender is and to be treated as a member of ...",
+          "position": 79
+        },
+        {
+          "title": "“跨性别运动员”打哭女拳手，奥委会与国际拳协有何标准争议？ - 凤凰网",
+          "link": "https://news.ifeng.com/c/8bpCz5qUZ4m",
+          "snippet": "国际奥委会允许两名带有“XY染色体”的女拳击手参加比赛，分别是哈利夫和来自中国台北的林郁婷。国际拳协曾向国际奥委会通报这两位运动员的性别检测细节，但国际奥委会未理会这 ...",
+          "position": 80
+        },
+        {
+          "title": "跨性别人群可以通过后天干预改变吗？ - 搜狐",
+          "link": "https://www.sohu.com/a/152744941_516458",
+          "snippet": "跨性别人群可以通过后天干预改变吗？ ... 世界上，有男人有女人，也有第三种人，第三种人是什么人？ 性别仿佛是每个人最重要的属性之一，男或者女，这看起来是最 ...",
+          "date": "2017年6月28日",
+          "position": 81
+        },
+        {
+          "title": "[PDF] 艾滋病与跨性别者及其它多元性别群体",
+          "link": "http://hkb980dd.pic44.websiteonline.cn/upload/16gh.pdf",
+          "snippet": "2019年,跨性别者与其它多元性别群体感染艾滋病病毒的风险是其他成. 年人的3倍。跨性别者获得艾滋病相关服务的机会低于其他人群(1)。 •. 跨性别者和 ...",
+          "date": "2021年1月26日",
+          "position": 82
+        },
+        {
+          "title": "费城跨性别治疗和永久夫妻医疗福利税收抵免 - City of Philadelphia",
+          "link": "https://www.phila.gov/zh/services/payments-assistance-taxes/taxes/tax-credits/business-tax-credits/life-partner-and-transgender-care-health-benefits-tax-credits/",
+          "snippet": "在纳税年度内，您的企业为将跨性别治疗保险纳入雇员健康保险而花费的金额。 计算跨性别治疗税收抵免，表格由市政府提供。 税务局(Department of Revenue) ...",
+          "date": "2023年1月19日",
+          "position": 83
+        },
+        {
+          "title": "跨性別 - 台灣同志諮詢熱線協會|",
+          "link": "https://hotline.org.tw/lgbt/transgender",
+          "snippet": "跨性別一詞於1960年代被發明出來。早期，它被拿來作為變性者的對照，指的是不想改變生理性別，但以另一個性別角色身份生活的人。舉例來說，就推廣跨性別一詞貢獻卓著的跨性別 ...",
+          "position": 84
+        },
+        {
+          "title": "专访藏人跨性别女性Mariko：佛法帮助我成为我想要的样子（文字稿）",
+          "link": "https://cn.vot.org/2020/12/21/%E4%B8%93%E8%AE%BF%E8%97%8F%E4%BA%BA%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E6%80%A7mariko%EF%BC%9A%E4%BD%9B%E6%B3%95%E5%B8%AE%E5%8A%A9%E6%88%91%E6%88%90%E4%B8%BA%E6%88%91%E6%83%B3%E8%A6%81%E7%9A%84-2/",
+          "snippet": "中国社交平台视频宣传“解放西藏”过程，间接承认1959年拉萨数千藏人遭屠杀 ... 【西藏之声2020年12月21日报道】Tenzin Mariko为西藏流亡社区第一位公开的跨性别女性，而她 ...",
+          "position": 85
+        },
+        {
+          "title": "你需要知道的关于在押跨性别者的待遇 - The Legal Aid Society",
+          "link": "https://legalaidnyc.org/zh-CN/%E5%BE%97%E5%88%B0%E5%B8%AE%E5%8A%A9/%E4%BF%9D%E9%87%8A%E7%9B%91%E7%A6%81/%E5%85%B3%E4%BA%8E%E8%B7%A8%E6%80%A7%E5%88%AB%E5%9C%A8%E5%9B%9A%E4%BA%BA%E5%A3%AB%E7%9A%84%E5%BE%85%E9%81%87%E4%BD%A0%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%8B/",
+          "snippet": "跨性别者的基本保护. 跨性别者应该能够获得性别确认治疗。 从法律的角度来看，“性别焦虑症”是一种严重的疾病。 医疗应符合公认的医疗标准，全面禁止治疗，例如使用激素或进行 ...",
+          "position": 86
+        },
+        {
+          "title": "超过一半的中国受访者表示同性恋、双性恋、跨性别者等多元群体 ...",
+          "link": "https://williamsinstitute.law.ucla.edu/press/china-press-release-chinese/",
+          "snippet": "超过一半的中国受访者表示同性恋、双性恋、跨性别者等多元群体应该被社会接纳 · 大多数受访者（70%）认识至少一位同性恋、双性恋、跨性别者等多元群体的人士 ...",
+          "date": "2024年7月2日",
+          "position": 87
+        },
+        {
+          "title": "跨性别者自白：“我们不是在治病” - 三联生活周刊",
+          "link": "https://www.lifeweek.com.cn/article/126127",
+          "snippet": "巧合的是，我们也曾采访一位跨性别者C先生。很多人可能听过C先生的事情。2016年，C先生受到职场性别歧视，在公益组织的帮助下，将自己的前雇主告上了法庭，并最终维权成功。该案 ...",
+          "position": 88
+        },
+        {
+          "title": "论西方当代性别与跨性别理论的缘起、内涵与特性 - 浙江大学学术期刊网",
+          "link": "https://www.zjujournals.com/soc/article/2021/2021-5-110.htm",
+          "snippet": "性别与跨性别理论的缘起和发展具有鲜明的介入和干预社会与政治中不合理、不公正的性别现状的意识。盖尔·卢宾在《女人交易》中的一段话有力地阐明了这一点： ...",
+          "date": "2021年10月28日",
+          "position": 89
+        },
+        {
+          "title": "[PDF] 雇员的权利谁是跨性别者或非性别常规者 - Civil Rights Department",
+          "link": "https://calcivilrights.ca.gov/wp-content/uploads/sites/32/2024/04/The-Rights-of-Employees-who-are-Transgender-or-Gender-Nonconforming-Poster_CH.pdf",
+          "snippet": "加州法律是否保护护跨性别和非常规性别雇员免. 受就业歧视？ 是。所有雇员、求职者、无薪实习生、志愿者和合同工在工. 作中不受基于受保护特征的歧视，如性别认同、性别 ...",
+          "position": 90
+        },
+        {
+          "title": "跨性别术语指南[1]- 中国日报网 - 文化频道",
+          "link": "http://ent.chinadaily.com.cn/2016-01/26/content_23263474.htm",
+          "snippet": "出生为女性但以男性身份生活的人自称为“跨性别男性”，与此同时，出生为男性但以女性身份生活的人自称为“跨性别女性”。这两个词是可以简称为“跨性男”和“跨性 ...",
+          "date": "2016年1月26日",
+          "position": 91
+        },
+        {
+          "title": "你的国家对跨性别者有多大的支持度？ - 世界经济论坛",
+          "link": "https://cn.weforum.org/stories/2017/01/839596e7-4293-4d70-bd24-0bf290c9bbb3/",
+          "snippet": "根据2016年12月发布的一个投票，西班牙是对跨性别者权利最为支持的国家。这个调查由新闻网站BuzzFeed、调查公司Ipsos和加州大学洛杉矶分校法律学院威廉 ...",
+          "date": "2017年1月9日",
+          "position": 92
+        },
+        {
+          "title": "[PDF] Medicare 和跨性别老年人",
+          "link": "https://justiceinaging.org/wp-content/uploads/2023/04/Chinese-Medicare-and-Trans-Older-Adults-Final-R1_SC.pdf",
+          "snippet": "如果您在. 社会保障局更改了您的性别标识符，该更. 改也将反映在您的Medicare 记录中。 手术. Medicare 批准对医疗上必要的性别. 认同手术承保，以根据具体情况应对性.",
+          "position": 93
+        },
+        {
+          "title": "《揭开面纱：好莱坞的跨性别人生》 | Netflix 官方网站",
+          "link": "https://www.netflix.com/sg-zh/title/81284247",
+          "snippet": "在这部纪录片中，顶尖跨性别创意人和思想家分享了他们在好莱坞对跨性别社区的影响方面的真诚看法和分析。播放预告片及了解详情。",
+          "currency": "US$",
+          "price": 6.99,
+          "position": 94
+        },
+        {
+          "title": "性取向和性别身份(SOGI) 歧视",
+          "link": "https://www.eeoc.gov/zh-hans/xingquxianghexingbieshenfen-sogi-qishi",
+          "snippet": "在Bostock v. Clayton County, Georgia,No. 17-1618 (S. Ct.2020年6月15)（博斯托克诉乔治亚州克莱顿县）一案中[1]，最高法院裁决，因性取向或跨性别身份而解雇个人违反了 ...",
+          "position": 95
+        },
+        {
+          "title": "正视孩子的性别不安跨性别者迎向阳光 - 联合早报",
+          "link": "https://www.zaobao.com.sg/lifestyle/familynlove/story20230827-1426972",
+          "snippet": "孩子如果有性别不安，你知道该怎么做吗？性别不安（gender dysphoria）又称性别焦虑，即性别认同与出生时被赋予的性别有异而感到不适或困扰。这里说的性别 ...",
+          "date": "2023年8月27日",
+          "position": 96
+        },
+        {
+          "title": "因跨性别而无家可归，我决定去瑞士“跳机” - 歪脑",
+          "link": "https://www.wainao.me/wainao-watches/runology-china-migrants-transgender-A4revolution",
+          "snippet": "对于跨性别者以翎来说，没有选择、不得不走的情绪大于对外面的向往。因试图纠正自己的性别，她被父母赶出家门。不久后遭遇疫情封控，她的精神急剧恶化。",
+          "date": "2023年5月1日",
+          "position": 97
+        },
+        {
+          "title": "中国跨性别群体：不再躲藏向前迈进",
+          "link": "https://www.rfa.org/mandarin/yataibaodao/shehui/hj-06142018105453.html",
+          "snippet": "中国跨性别群体：不再躲藏向前迈进 ... 法新社6月14日报道，中国的跨性别人士逐渐走出歧视阴影，认同自己的身份。 法新社的报道说，据估计，中国目前大约有超过八 ...",
+          "date": "2018年6月14日",
+          "position": 98
+        }
+      ],
+      "images": [
+        {
+          "title": "跨性别_百度百科",
+          "imageUrl": "https://bkimg.cdn.bcebos.com/smart/72f082025aafa40f4bfb7904fd30144f78f0f636b394-bkimg-process%2Cv_1%2Crw_16%2Crh_9%2Cmaxl_640%2Cpad_1%3Fx-bce-process%3Dimage/format%2Cf_auto",
+          "link": "https://baike.baidu.com/item/%E8%B7%A8%E6%80%A7%E5%88%AB/6234644"
+        },
+        {
+          "title": "跨性别- 维基百科，自由的百科全书",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Transgender_Pride_flag.svg/280px-Transgender_Pride_flag.svg.png",
+          "link": "https://zh.wikipedia.org/zh-cn/%E8%AE%8A%E6%80%A7?oldformat=true"
+        },
+        {
+          "title": "香港罕有跨性别武术家许玮枫专访：“我男变女，喜欢女生，一点不柔弱 ...",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/512xn/p08y9ws7.jpg.webp",
+          "link": "https://www.bbc.com/zhongwen/simp/chinese-news-54553312"
+        },
+        {
+          "title": "跨性别_百度百科",
+          "imageUrl": "https://bkimg.cdn.bcebos.com/smart/5882b2b7d0a20cf431adeb264e5d5c36acaf2fdd33b4-bkimg-process%2Cv_1%2Crw_16%2Crh_9%2Cmaxl_640%2Cpad_1%3Fx-bce-process%3Dimage/format%2Cf_auto",
+          "link": "https://baike.baidu.com/item/%E8%B7%A8%E6%80%A7%E5%88%AB/6234644"
+        },
+        {
+          "title": "跨性别者小小霏：在错误的身体中，人们努力成为自己",
+          "imageUrl": "https://imagepphcloud.thepaper.cn/pph/image/60/203/977.jpg",
+          "link": "https://m.thepaper.cn/newsDetail_forward_6784501"
+        },
+        {
+          "title": "出圈】跨性别者：我愿用三分之二生命换女性身份Transgender: I Would ...",
+          "imageUrl": "https://i.ytimg.com/vi/YQy7fTYE31c/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDAnPigTUzR0xUaDDYJDgCebOfVOA",
+          "link": "https://www.youtube.com/watch?v=YQy7fTYE31c"
+        },
+        {
+          "title": "跨性别女性- 维基百科，自由的百科全书",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Trans_Global_2020_Official_Photoshhot.jpg",
+          "link": "https://zh.wikipedia.org/zh-cn/%E8%B7%A8%E6%80%A7%E5%88%A5%E5%A5%B3%E6%80%A7"
+        },
+        {
+          "title": "跨性别”给奥林匹克出了道难题",
+          "imageUrl": "https://cdnjdphoto.aikan.pdnews.cn/zhbj-20240803/image/content/12e981b85ef6415b9e4d768cf20dd160.jpg",
+          "link": "https://www.peopleapp.com/column/30046113198-500005641542"
+        },
+        {
+          "title": "跨性别现身日- 美国驻华大使馆和领事馆",
+          "imageUrl": "https://gpa-mprod-mwp.s3.amazonaws.com/uploads/sites/23/2021/06/Exz6ot-WQAYurOh-1140x675-2-300x178.jpg",
+          "link": "https://china.usembassy-china.org.cn/zh/on-transgender-day-of-visibility-zh/"
+        }
+      ],
+      "relatedSearches": [
+        {
+          "query": "友跨顺男什么意思"
+        },
+        {
+          "query": "跨拉"
+        },
+        {
+          "query": "trans是什么意思"
+        },
+        {
+          "query": "酷儿是什么意思"
+        },
+        {
+          "query": "LGBT"
+        },
+        {
+          "query": "mtf群体"
+        },
+        {
+          "query": "ftm意思"
+        },
+        {
+          "query": "mtf是什么意思"
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

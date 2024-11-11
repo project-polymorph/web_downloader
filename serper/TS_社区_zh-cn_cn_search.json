@@ -1,0 +1,876 @@
+{
+  "query": "TS 社区",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-04T00:44:25.157071",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "TS 社区",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "如何配置TypeScript",
+          "link": "https://www.typescriptlang.org/zh/community/",
+          "snippet": "在线上或线下与其他Typescript 使用者交流.",
+          "position": 1
+        },
+        {
+          "title": "TS社区- 百度",
+          "link": "https://www.baidu.com/from=844b/ssid=0/s?word=TS%E7%A4%BE%E5%8C%BA&sa=re_dl_prs_34689_1&ms=1&rqid=8687240823412771017&rq=%E5%9B%BD%E5%86%85ts%E8%AE%BA%E5%9D%9B&rsf=1630008&asctag=12490",
+          "snippet": "TS社区致力于让广大程序员伙伴接触TypeScript,熟悉TypeScript,以至于可以一起推广TypeScript。 希望大家可以在此社区学有所获,各抒己见,擦出思维... 简书社区.",
+          "position": 2
+        },
+        {
+          "title": "TypeScript 社区资源",
+          "link": "https://typescript.net.cn/community",
+          "snippet": "聚会 · 汉堡TypeScript · 克拉科夫TypeScript 用户组 · 墨尔本TypeScript · 米兰TS · 西雅图TypeScript · 塞维利亚TypeScript · 旧金山TypeScript 聚会 · 悉尼TypeScript.",
+          "position": 3
+        },
+        {
+          "title": "如何配置TypeScript",
+          "link": "https://www.tslang.com.cn/zh/community",
+          "snippet": "与您的同路人互动，并使用' typescript '标签询问有关TypeScript 的问题. 交流. 在TypeScript 社区聊天室中与其他TypeScript 用户聊天。 GitHub. 找到了bug，或者有你独到 ...",
+          "position": 4
+        },
+        {
+          "title": "云舒漫漫TS的个人页面- iLOHAS乐活社区",
+          "link": "https://www.ilohas.com/user/99509",
+          "snippet": "Ta的日志 · Ta的相册 · Ta关注的达人 · Ta参加的活动 更多.",
+          "position": 5
+        },
+        {
+          "title": "10 分钟学会TS-云社区 - 华为云",
+          "link": "https://bbs.huaweicloud.com/blogs/436552",
+          "snippet": "丰富的生态系统和社区支持：TypeScript 拥有一个 活跃的社区和丰富的生态 ... TS 会通过TS编译器，生成浏览器和nodejs环境可以运行的js代码。 你 ...",
+          "date": "2024年10月12日",
+          "position": 6
+        },
+        {
+          "title": "浅谈TS 标称类型介绍及社区实现转载 - CSDN博客",
+          "link": "https://blog.csdn.net/Taobaojishu/article/details/124418278",
+          "snippet": "本文将以稍偏门的视角来看待TypeScript 的类型系统，主要介绍标签类型是什么，以及TS 社区都有哪些实现手段。 前言. 有位大神说过\"程序是类型的证明\"，我 ...",
+          "date": "2022年4月25日",
+          "position": 7
+        },
+        {
+          "title": "演练场- 一个用于TypeScript 和JavaScript 的在线编辑器",
+          "link": "https://www.typescriptlang.org/zh/play/",
+          "snippet": "这是一个给你提供编写，分享和学习 TypeScript 的网站。 // 您可以以如下三种方式使用它：. //. // - 一个不会破坏任何东西的学习 TypeScript 的地方。",
+          "position": 8
+        },
+        {
+          "title": "还没用熟TypeScript，社区已经开始抛弃了 - 腾讯云",
+          "link": "https://cloud.tencent.com/developer/news/1135285",
+          "snippet": "没错，这个问题很简单，因为TypeScript 提供了类型检查，弥补了JavaScript 只有逻辑没有类型的问题，也就是讲我们不需要TypeScript 的逻辑，只需要它的的类型 ...",
+          "date": "2023年7月18日",
+          "position": 9
+        },
+        {
+          "title": "技术分享丨TS，看你哪里逃 - 袋鼠云",
+          "link": "https://www.dtstack.com/bbs/article/525",
+          "snippet": "1、若您还不熟悉TS，那本文可帮助您完成TS 应用部分的学习，伴随众多Demo 例来引导业务应用。 · 2、若您比较熟悉TS，那本文可当作复习文，带您回顾知识，希望能 ...",
+          "date": "2023年1月29日",
+          "position": 10
+        },
+        {
+          "title": "还没用熟TypeScript 社区已经开始抛弃了 - 稀土掘金",
+          "link": "https://juejin.cn/post/7218117377052377143",
+          "snippet": "最新消息，非常确定了，就在昨天，北京时间2022 年5 月9 日，Svelte 团队发布了一个名为TS to JSDoc Conversion 的PR，开始这项浩瀚的工程，同时宣布目前Svelte ...",
+          "date": "2023年4月4日",
+          "position": 11
+        },
+        {
+          "title": "7 年TS 全栈外包接单 - 电鸭社区",
+          "link": "https://eleduck.com/posts/EQfROr",
+          "snippet": "露脸交友区7 年TS 全栈外包接单 · 个人情况 · 技术栈 · 优势 · 关于工作 · Hank · 【已招1位，新增1个HC/海外远程】25K-35K/后端开发工程师/一体化社区平台 ...",
+          "date": "2023年3月2日",
+          "position": 12
+        },
+        {
+          "title": "TypeScript 入门教程",
+          "link": "https://ts.xcatliu.com/",
+          "snippet": "本书是作者在学习TypeScript 后整理的学习笔记。 随着对TypeScript 理解的加深和TypeScript 社区的发展，本书也会做出相应的更新，欢迎大家Star 收藏。 发现文章内容有 ...",
+          "position": 13
+        },
+        {
+          "title": "TypeScript中文网· TypeScript——JavaScript的超集",
+          "link": "http://www.tslang.cn/",
+          "snippet": "命令行的TypeScript编译器可以使用Node.js包来安装。 安装: npm install -g typescript. 编译: tsc helloworld.ts ... 今天就加入我们的社区和给我们的GitHub repository发送 ...",
+          "position": 14
+        },
+        {
+          "title": "图雀社区/typescript-tea - Gitee",
+          "link": "https://gitee.com/tuture/typescript-tea",
+          "snippet": "The page will reload if you make edits. You will also see any lint errors in the console. yarn test. Launches the test runner in the interactive watch mode. See ...",
+          "position": 15
+        },
+        {
+          "title": "Ts社区的个人空间 - BiliBili",
+          "link": "https://space.bilibili.com/1863597209/",
+          "snippet": "哔哩哔哩Ts社区的个人空间，提供Ts社区分享的视频、音频、文章、动态、收藏等内容，关注Ts社区账号，第一时间了解UP注动态。。",
+          "position": 16
+        },
+        {
+          "title": "Ts全栈开发找小团体| 电鸭社区",
+          "link": "https://eleduck.com/posts/74fVYA",
+          "snippet": "露脸交友区Ts全栈开发找小团体 · ui: 能够根据大家的idea绘制漂亮的ui 设计图 · 后端开发：最好是nodeJs + graphql 技术栈，这样我们能一起合作完成后端的 ...",
+          "date": "2023年8月22日",
+          "position": 17
+        },
+        {
+          "title": "Ts简单对象池 - layabox问答社区-HTML5引擎社区",
+          "link": "https://ask.layabox.com/question/45217",
+          "snippet": "写了一份Ts版的简单的对象池 详细信息放在博客里面了 需要的可以去看一下 https://nuolo.baklib.com/ /* 使用说明： 使用必须先调用InitPool 方法将对象池初始化 ...",
+          "position": 18
+        },
+        {
+          "title": "搭建koa + TS的开发环境- CNode技术社区",
+          "link": "https://cnodejs.org/topic/5eb29441e785ec40b04fad61",
+          "snippet": "配置的具体含义自行到官网查阅，这里重点说两个：experimentalDecorators和inlineSourceMap。 inlineSourceMap是debug时用到的重要的配置，这个配置可以保证使你在debug的时候 ...",
+          "position": 19
+        },
+        {
+          "title": "ts md5 工具类 - Cocos中文社区",
+          "link": "https://forum.cocos.org/t/topic/125213",
+          "snippet": "大佬们，你们谁有ts的md5工具类，发一个给我可好:grin:",
+          "date": "2021年11月22日",
+          "sitelinks": [
+            {
+              "title": "TypeScript+cocos creator - Creator 2.x - Cocos中文社区",
+              "link": "https://forum.cocos.org/t/typescript-cocos-creator/67632"
+            },
+            {
+              "title": "原生app调试ts代码步骤- 文档反馈 - Cocos中文社区",
+              "link": "https://forum.cocos.org/t/topic/153229"
+            },
+            {
+              "title": "ts脚本编译插件- Creator 2.x - Cocos中文社区",
+              "link": "https://forum.cocos.org/t/ts/95204"
+            },
+            {
+              "title": "TS 单例模板封装 - Cocos中文社区",
+              "link": "https://forum.cocos.org/t/topic/126798"
+            }
+          ],
+          "position": 20
+        },
+        {
+          "title": "使用IntelliJ IDEA 社区版进行Vue 和TypeScript 开发 - 百度智能云",
+          "link": "https://cloud.baidu.com/article/3169425",
+          "snippet": "打开IntelliJ IDEA，进入“File”菜单，选择“Settings”（Windows/Linux）或“Preferences”（macOS）。在弹出的对话框中，选择“Plugins”。在插件市场中搜索“Vue.js”和 ...",
+          "date": "2024年2月23日",
+          "position": 21
+        },
+        {
+          "title": "TypeScript ts类型-阿里云",
+          "link": "https://www.aliyun.com/sswb/604360.html",
+          "snippet": "TypeScript 云计算背景. 阿里云 · TypeScript类型; TypeScript ts类型. TypeScript ts类型的相关内容. 文章 2024-09-25 来自：开发者社区. typeScript基础(8)_ts类型断言.",
+          "position": 22
+        },
+        {
+          "title": "PuerTS 在社区 - PUER Typescript",
+          "link": "https://puerts.github.io/docs/puerts/unity/other/community",
+          "snippet": "下列内容都来自于社区，PuerTS会不定时搜集优秀内容填进下面的列表，但更希望您通过PR 的方式将您东西分享出来。",
+          "position": 23
+        },
+        {
+          "title": "ts编程是做什么的• Worktile社区",
+          "link": "https://worktile.com/kb/ask/2506535.html",
+          "snippet": "社区支持和工具生态：TS有一个庞大的开发者社区，可以获取到大量的学习资源和开源库。此外，许多流行的前端开发工具，如Webpack、Babel等，都对TS提供了良好的 ...",
+          "date": "2024年5月27日",
+          "position": 24
+        },
+        {
+          "title": "vuepress-plugin-typescript - Netlify",
+          "link": "https://vuepress-community.netlify.app/zh/plugins/typescript/",
+          "snippet": "社区维护的VuePress 生态 ... ts-loader 的所有配置项 }, }, ], ], }. # 配置项. # tsLoaderOptions. 类型: Object; 默认值: {}. ts-loader 的Loader ...",
+          "date": "2020年12月22日",
+          "position": 25
+        },
+        {
+          "title": "【云开发】支付宝云开发如何使用TypeScript？-支付宝开发者社区",
+          "link": "https://open.alipay.com/portal/forum/post/135201041",
+          "snippet": "现在很多小游戏开发都是使用的TypeScript ，如COCOS 和Laya 游戏引擎默认都是TypeScript 语言开发，支付宝云开发同时支持JavaScript ，TypeScript 更好的支持一站式小游戏 ...",
+          "position": 26
+        },
+        {
+          "title": "第二章搭建TS环境 - 阿里云开发者社区",
+          "link": "https://developer.aliyun.com/article/1409379",
+          "snippet": "如果你主要是想执行TypeScript 文件，就像node index.js 这样快速地验证代码逻辑，这个时候你就需要ts-node 以及ts-node-dev 这一类工具了。它们能直接执行 ...",
+          "date": "2024年1月2日",
+          "position": 27
+        },
+        {
+          "title": "专业WebGPU社区| 标签为“ts js”的主题 - Orillusion",
+          "link": "https://forum.orillusion.com/tags/ts%20js",
+          "snippet": "662. 用户. 193. 主题. 510. 帖子. Your browser does not seem to support JavaScript. As a result, your viewing experience will be diminished, ...",
+          "position": 28
+        },
+        {
+          "title": "关键词： \"思科社区\"中的\" ts\" - Cisco Community",
+          "link": "https://community.cisco.com/t5/tag/ts/tg-p/tag-id/16787/category-id/chinese-community",
+          "snippet": "发帖者 Jessica Jie Han Cisco Employee 发帖时间 ‎10-24-2014 02:39 AM 最后发表 ‎11-04-2014 07:08 PM Yanli Sun Community Manager. 2 条回复 3671 次查看.",
+          "position": 29
+        },
+        {
+          "title": "为什么我总学不好TS？ - 腾讯云",
+          "link": "https://cloud.tencent.com/developer/article/2374961",
+          "snippet": "... ，使用TS的成本（改各种类型报错耽误的时间）超过了收益（TS带来的类型安全），TypeScript也学成了AnyScript ... 社区首页 >专栏 >为什么我总学不好TS？ 为什么我总 ...",
+          "date": "2023年12月27日",
+          "position": 30
+        },
+        {
+          "title": "ts文件剖析-天翼云开发者社区",
+          "link": "https://www.ctyun.cn/developer/article/465138228834373",
+          "snippet": "ts文件（或ts流）是一种常见的视频封装格式。",
+          "date": "2023年12月5日",
+          "position": 31
+        },
+        {
+          "title": "JS与TS的主要区别？ - GitCode 开源社区",
+          "link": "https://gitcode.csdn.net/66262be3a2b0512255658a0b.html",
+          "snippet": "TypeScript（TS）是JavaScript（JS）的一个超集，它包含了JavaScript 的所有特性，并添加了静态类型检查、类和接口等特性。以下是TS 与JS 的主要区别：.",
+          "date": "2023年12月19日",
+          "position": 32
+        },
+        {
+          "title": "ts编程语言做什么的 - Worktile",
+          "link": "https://worktile.com/kb/ask/2475476.html",
+          "snippet": "生态系统和社区支持：TS 有一个庞大的生态系统和活跃的社区支持，有大量的开源库和工具可供选择。这些库和工具可以帮助开发者更高效地开发和调试TS 代码， ...",
+          "date": "2024年5月26日",
+          "position": 33
+        },
+        {
+          "title": "Typescript合成Webpack中 - 京东云-开发者社区",
+          "link": "https://developer.jdcloud.com/article/1486",
+          "snippet": "前言TypeScript是JavaScript类型的超集，它可以编译成纯JavaScript，简称ts。相对于ES6,TypeScript最大的改善是增加了类型系统，",
+          "date": "2021年1月7日",
+          "position": 34
+        },
+        {
+          "title": "TypeScript 支持- 支付宝文档中心",
+          "link": "https://opendocs.alipay.com/mini/component-ext/typescript",
+          "snippet": "插件. 安全. openid 开发指南. 扩展能力. 开发质量. 社区方案. TypeScript 支持 · Bling · 开发 > 指南 > 扩展能力 > 社区方案 > TypeScript 支持 ...",
+          "date": "2023年7月28日",
+          "position": 35
+        },
+        {
+          "title": "在TS项目中不能使用ts类？ - 微信开放社区",
+          "link": "https://developers.weixin.qq.com/community/develop/doc/00000c25910150447e7f200235b000",
+          "snippet": "在小程序中使用ts类，只要给类定义属性，就不能真机调试，上传小程序。开发者工具运行正常。报错如下：",
+          "date": "2023年3月22日",
+          "position": 36
+        },
+        {
+          "title": "开始| Vite 官方中文文档",
+          "link": "https://cn.vite.dev/guide/",
+          "snippet": "... ts ， solid ， solid-ts ， qwik ， qwik-ts 。 你可以使用 . 作为项目名称，在当前目录中创建项目脚手架。 社区模板​ ... 查看Awesome Vite 仓库的社区维护模板，里面包含各种 ...",
+          "position": 37
+        },
+        {
+          "title": "开始| Vite",
+          "link": "https://www.vitejs.net/guide/",
+          "snippet": "... ts ， vue ， vue-ts ， react ， react-ts ， preact ， preact-ts ， lit ， lit-ts ， svelte ， svelte-ts 。 社区模板#. create-vite 是一个快速生成主流框架基础 ...",
+          "position": 38
+        },
+        {
+          "title": "Deno - 一个安全的JavaScript 和TypeScript 运行时环境| Deno中文 ...",
+          "link": "https://www.denojs.cn/",
+          "snippet": "可以在deno.land/x网址上找到。 文档. 参考手册 · API · 标准库 · 第三方模块. 社区. GiHub · Discord · Twitter. 同类竞品. Node.js · Bun. 友链. Bootstrap ...",
+          "position": 39
+        },
+        {
+          "title": "【TypeScript】一文带你了解什么是TypeScript-云社区 - 华为云",
+          "link": "https://bbs.huaweicloud.com/blogs/375069",
+          "snippet": "什么是TypeScript. TypeScript 是一种由微软开发的自由和开源的编程语言。它是 JavaScript 的一个超集，而且本质上向这个语言添加了可选的静态类型和基于类 ...",
+          "date": "2022年9月16日",
+          "position": 40
+        },
+        {
+          "title": "The repository for high quality TypeScript type definitions. - GitHub",
+          "link": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+          "snippet": "... TypeScript Community Discord server. What are declaration files and how do I get them? See the TypeScript handbook. npm. This is the preferred method. For ...",
+          "position": 41
+        },
+        {
+          "title": "怎么下载加密ts流的视频 - 开源社区",
+          "link": "https://www.imgeek.net/article/825367039",
+          "snippet": "怎么下载加密ts流的视频- 以某网站如下的电影《2012》为例。 在这个网站上面，电影2012是以一系列几秒的ts格式来播放的，所以没办法直接复制视频地址来 ...",
+          "date": "2024年4月12日",
+          "position": 42
+        },
+        {
+          "title": "关键词： \"思科社区\"中的\" TS Open Day_第八期\" - Cisco Community",
+          "link": "https://community.cisco.com/t5/tag/TS%20Open%20Day_%E7%AC%AC%E5%85%AB%E6%9C%9F/tg-p/tag-id/102822/category-id/chinese-community",
+          "snippet": "加入社区，提出问题或搜索答案，分享知识和经验，参与在线技术讲座或查看文档视频，并与思科技术专家交流.",
+          "position": 43
+        },
+        {
+          "title": "下载WebStorm：JetBrains 出品的JavaScript 和TypeScript IDE",
+          "link": "https://www.jetbrains.com/zh-cn/webstorm/download/",
+          "snippet": "Download the latest version of WebStorm for Windows, macOS or Linux.",
+          "position": 44
+        },
+        {
+          "title": "Tser: CDTS, 变性人，TS 伪娘，女装大佬交友社区 - App Store",
+          "link": "https://apps.apple.com/hk/app/tser-cdts-%E5%8F%98%E6%80%A7%E4%BA%BA-ts-%E4%BC%AA%E5%A8%98-%E5%A5%B3%E8%A3%85%E5%A4%A7%E4%BD%AC%E4%BA%A4%E5%8F%8B%E7%A4%BE%E5%8C%BA/id1436679914",
+          "snippet": "Tser is a transgender dating and chat app designed specifically for the transgender community, including trans women, trans men, ...",
+          "date": "2024年8月26日",
+          "position": 45
+        },
+        {
+          "title": "ArkTS文件和TS文件的区别-鸿蒙开发者社区 - 51CTO.COM",
+          "link": "https://ost.51cto.com/answer/9363",
+          "snippet": "ArkTS文件和TS文件的区别.",
+          "date": "2024年3月17日",
+          "position": 46
+        },
+        {
+          "title": "深入理解shims-vue.d.ts 和declare module - InfoQ 写作社区",
+          "link": "https://xie.infoq.cn/article/6032a0e77d047253eb39a1c23",
+          "snippet": "它通常用于为JavaScript 模块（如npm 包）或其他非TypeScript 文件（如Vue 的单文件组件）提供类型信息。这样，在TypeScript 代码中引入这些模块时，编译器会 ...",
+          "date": "2023年5月6日",
+          "position": 47
+        },
+        {
+          "title": "TypeScript 刚刚流行起来，为什么大牛们就开始抛弃了？ - 开源中国",
+          "link": "https://www.oschina.net/news/260816",
+          "snippet": "刘勇，社区昵称天猪，某大厂Node.js Infra 负责人，EggJS / CNPM 核心开发者。 刘易成，社区昵称xcatliu（流浪小猫），《TypeScript 入门教程》作者，来自 ...",
+          "date": "2023年10月8日",
+          "position": 48
+        },
+        {
+          "title": "Vue2.5+ Typescript 引入全面指南- UCloud云社区",
+          "link": "https://www.ucloud.cn/yun/89505.html",
+          "snippet": "写这篇文章时的我，Vue使用经验三个多月，Typescript完全空白，花了大概三个晚上把手头项目迁移至Typescript，因此这篇文章更像个入门指引。",
+          "date": "2019年8月21日",
+          "position": 49
+        },
+        {
+          "title": "TypeScript 在React 中干货分享 - 稀土掘金",
+          "link": "https://juejin.cn/post/6874831839224299528",
+          "snippet": "社区内或网上关于TS 的文章大部分是对官方文档的解读，从基础类型开始介绍，这种对于已经有TS 经验的开发者没有任何意义，对于刚上手同学建议阅读官方 ...",
+          "date": "2020年9月20日",
+          "position": 50
+        },
+        {
+          "title": "boundingClientRect回调函数参数ts类型有问题？ - 微信开放社区",
+          "link": "https://developers.weixin.qq.com/community/develop/doc/000662d8de0b90265dbda7b9e51c00",
+          "snippet": "在使用selectAll的时候rect的返回值应该是一个数组.",
+          "date": "2022年3月29日",
+          "position": 51
+        },
+        {
+          "title": "前端- sdk社区| 技术至上",
+          "link": "https://www.sdk.cn/frontend/TypeScript",
+          "snippet": "推荐程序员必备的10 大GitHub 仓库，前端占了7 个！ · typescript语法中react hooks写法调用子组件写法 · 初识TypeScript(二) · 初识TypeScript(一) · TypeScript 备忘录：如何在 ...",
+          "position": 52
+        },
+        {
+          "title": "Typescript 会一统江湖？ - CNode技术社区",
+          "link": "https://cnodejs.org/topic/5c35d8563898674067a7d477",
+          "snippet": "使用Webpack 编译前端应用，通过TypeScript-loader可以很轻松地将TypeScript 引入到Webpack 中。有了TypeScript-loader，就可以一边使用TypeScript 编写新代码，一边零碎地 ...",
+          "position": 53
+        },
+        {
+          "title": "本以为$特斯拉(TS - 老虎社区",
+          "link": "https://www.laohu8.com/post/360058824876216",
+          "snippet": "本以为$特斯拉(TSLA)$有望于本次行情大爆发，原来$TSLA 20241011 235.0 PUT$的也只好忍痛离场！ 免责声明：上述内容仅代表发帖人个人观点，不构成本平台的任何投资建议。",
+          "position": 54
+        },
+        {
+          "title": "TypeScript基本介绍及环境配置",
+          "link": "https://bentleysystems.service-now.com/community?id=kb_article&sysparm_article=KB0112330",
+          "snippet": "中国BDN社区- KB - - TypeScript由微软构建，旨在帮助开发人员更轻松地构建大型前端应用程序。它是JavaScript的超集，为它带来了丰富的类型系统，这种类型系统可以帮助 ...",
+          "position": 55
+        },
+        {
+          "title": "TypeScript 的class 如何转换成JSON对象- layabox问答社区",
+          "link": "https://ask.layabox.com/question/9325",
+          "snippet": "4 个回复. winnershili. 有没有类似java 中的gson 或者jackson 或者阿里巴巴fastjson 这类的方便类转换的方法! ... 不用类，直接用json，我现在就是。上层封装接口，用起来跟类 ...",
+          "position": 56
+        },
+        {
+          "title": "彭TS 的集市- 登链社区",
+          "link": "https://learnblockchain.cn/index.php/people/993/goods/show",
+          "snippet": "彭TS. 关注. 性别： 注册于2020-05-29. 江湖只有他的大名，没有他的介绍。 10学分数 ... ©2024 登链社区 版权所有| Powered By Tipask3.5| 站长统计 · 粤公网安备 ...",
+          "position": 57
+        },
+        {
+          "title": "CDN：MPEG-2 TS详解-天翼云开发者社区",
+          "link": "https://www.ctyun.cn/developer/article/502749762031685",
+          "snippet": "MPEG-2 TS，全称为MPEG-2 Transport Stream，是一种用于传输音视频数据的流媒体格式。它被广泛应用于广播电视和网络流媒体领域，特别是在需要高质量、低 ...",
+          "date": "2024年1月10日",
+          "position": 58
+        },
+        {
+          "title": "深入理解TypeScript",
+          "link": "https://jkchao.github.io/typescript-book-chinese/",
+          "snippet": "如今社区已经存在部分翻译，但都似乎已经停止更新。 于是在某天的某个冲动之下，这个RP 就诞生了。 # 翻译内容. 《TypeScript Deep Dive》 书 ...",
+          "position": 59
+        },
+        {
+          "title": "ArkTS语言-HarmonyOS Next开发语言-华为开发者联盟",
+          "link": "https://developer.huawei.com/consumer/cn/arkts/",
+          "snippet": "ArkTS是鸿蒙生态的应用开发语言。它在保持TypeScript（简称TS）基本语法风格的基础上，进一步通过规范强化静态检查和分析，使得在程序运行之前的开发期能检测更多错误，提升 ...",
+          "position": 60
+        },
+        {
+          "title": "转：Egret社区翻译的《TypeScript语言手册》 - jim.cheng - 博客园",
+          "link": "https://www.cnblogs.com/jimcheng/p/4313550.html",
+          "snippet": "《TyptScript语言手册》第1章-介绍《TypeScript语言手册》第2章-基本概念《TypeScript语言手册》第3章-类型《TypeScript语言手册》第4章-表达 ...",
+          "date": "2015年3月4日",
+          "position": 61
+        },
+        {
+          "title": "TypeScript 教程- 网道",
+          "link": "https://wangdoc.com/typescript/",
+          "snippet": "昨天就开始学习了！ Chaofei • 1 年之前. ES6教程写得很好，这一本一定也不错 感谢阮老师的付出和为开源社区的贡献. 李真 • 1 年之前. 好棒，赶紧认真学习！谢谢阮一峰 ...",
+          "position": 62
+        },
+        {
+          "title": "Steam 社区:: :: TS",
+          "link": "https://steamcommunity.com/sharedfiles/filedetails/?l=schinese&id=2895457856",
+          "snippet": "Steam 社区: Steam Artwork ... TS. Steam Artwork · 查看所有艺术作品. 0. 奖励. 收藏. 已收藏. 取消收藏. 分享. 下载. 该物品已添加至您的收藏夹。",
+          "date": "2022年11月30日",
+          "position": 63
+        },
+        {
+          "title": "ts-如何使用-有什么中文资料面包板社区",
+          "link": "https://mbb.eet-china.com/tags/30705.html",
+          "snippet": "来源： 综合作者：雷锋网近日有安全人员发现，即时通讯工具Whatsapp 的网页版存在威胁漏洞，通过这一漏洞，黑客可以散布危险恶意程序来感染用户的电脑。",
+          "position": 64
+        },
+        {
+          "title": "TypeScript 5.2 Beta 发布- OSCHINA - 中文开源技术交流社区",
+          "link": "https://www.oschina.net/news/247727/typescript-5-2-beta-released",
+          "snippet": "TypeScript 5.2 首个测试版本已发布！可以通过NuGet 或通过npm 使用以下命令获取它： npm install -D typescript@beta 以下是TypeScript 5.2 新增功能： ...",
+          "date": "2023年7月3日",
+          "position": 65
+        },
+        {
+          "title": "物业公司将业主告上法庭，社区巡回审判生动普法 - 天山网",
+          "link": "https://www.ts.cn/xwzx/fzxw/202410/t20241031_24709869.shtml",
+          "snippet": "米东南路街道同心社区负责人对法官说。 （刊用本网站稿件，务经 ... ts.cn All Rights Reserved 天山网版权所有. 24709869. 物业公司将业主告上 ...",
+          "date": "4天前",
+          "position": 66
+        },
+        {
+          "title": "JS和TS哪个在平时更常用？-鸿蒙开发者社区 - 51CTO.COM",
+          "link": "https://ost.51cto.com/answer/7816",
+          "snippet": "TypeScript 在大型项目和团队中更常用，因为它可以帮助开发人员在编码阶段捕获错误，并提供更好的代码维护和可读性。 虽然TypeScript 在某些场景下更受欢迎， ...",
+          "date": "2023年8月6日",
+          "position": 67
+        },
+        {
+          "title": "坚持创业系列1---全身心投入到ts 云社区，坚持继续外包接单的路上",
+          "link": "https://www.v2ex.com/t/1054819",
+          "snippet": "谢谢V2EX 平台给机会让更多的人看到我. 最近喜欢上了发帖，效果还是很好的，目前已经有16 位优秀的前端和后端开发工程师加入了ts 云社区，目前我们的社区 ...",
+          "date": "2024年7月4日",
+          "position": 68
+        },
+        {
+          "title": "社区质疑TypeScript与编译为JavaScript的语言 - InfoQ",
+          "link": "https://www.infoq.cn/article/2012/10/typescript-debate",
+          "snippet": "社区质疑TypeScript与编译为JavaScript的语言微软近期发布了编程语言TypeScript，这在JavaScript社区引起了轩然大波。来自雷德蒙德.",
+          "date": "2012年10月29日",
+          "position": 69
+        },
+        {
+          "title": "云舒漫漫TS的活动- iLOHAS乐活社区",
+          "link": "https://club.ilohas.com/user/99509/event",
+          "snippet": "LOHAS乐活杂志 日子by LOHAS. |. |. Toggle navigation 下载App LOHAS乐活 · 乐活时鲜送 · 每日推荐 · 节气令 · 杂志精选 · 乐活视频 · 线下活动 · 订阅和下载.",
+          "position": 70
+        },
+        {
+          "title": "[联盟赛事]bin就是没有ts的实力，却得了ts的病NGA玩家社区",
+          "link": "https://bbs.nga.cn/read.php?tid=42320046",
+          "snippet": "NGA玩家社区致力打造最专业的LOL玩家论坛拥有最新的资讯与攻略最及时的LOL赛事资讯英雄联盟(LOL)官方合作论坛.",
+          "date": "1天前",
+          "position": 71
+        },
+        {
+          "title": "【TS】文学社区",
+          "link": "https://pmtots.cn/forumdisplay.php?fid=50",
+          "snippet": "宠物小精灵文学区，把你喜欢的作品发到这里来吧，这里有口袋同人文章【天空之域】Territory of the sky www.pokemon.pm 【天空之域】——Territory of the sky|宠物小精灵 ...",
+          "position": 72
+        },
+        {
+          "title": "我在做一套TS 全栈(Nextjs+Nestjs) 开发课 - Ruby China",
+          "link": "https://ruby-china.org/topics/43193",
+          "snippet": "社区. 我们正在搭建一个社区！ 远程或坐班招聘求职资源互通; 外包需求资源互通; 免费广告发布基地; 相对于类似的社区更加友好，喷子直接T 的. 如果你对我们 ...",
+          "date": "2023年6月22日",
+          "position": 73
+        },
+        {
+          "title": "我平仓了10手$TS - 老虎社区",
+          "link": "https://www.laohu8.com/m/post/363527163363624",
+          "snippet": "我平仓了10手$TSLA 20241115 240.0 CALL$ ,来看看我最新分享的订单！ TSLA CALL. 10-24 06:38. US20241115 240.0. 方向, 价格| 数量, 已实现盈亏. 卖出. 平仓. 18.31.",
+          "position": 74
+        },
+        {
+          "title": "[分享] 8种时间序列分类方法总结",
+          "link": "https://www.iivd.net/thread-78173-1-1.html",
+          "snippet": "小桔灯网 » 社区 » 时间分辨荧光技术. [分享] 8种时间序列分类方法 ... TS 的TS 子序列转换为单个单词。 监督：计算分箱边缘，使得实例熵的杂质 ...",
+          "date": "3小时前",
+          "position": 75
+        },
+        {
+          "title": "为什么说Typescript是必学语言以及如何学会TS全栈开发 - LearnKu.com",
+          "link": "https://learnku.com/articles/69602",
+          "snippet": "这会浪费大量的学习和工作时间。然后去各种QQ 群提问基本就是答非所问，各种灌水，去一些问答社区提问则大概率得不到想要的答案 ...",
+          "position": 76
+        },
+        {
+          "title": "️ A curated list of awesome things related to Vite.js - GitHub",
+          "link": "https://github.com/vitejs/awesome-vite",
+          "snippet": "GitHub community articles. Repositories. Topics · Trending · Collections ... vite-vue2-ts-starter - Vue2 TypeScript starter template using vue-property ...",
+          "position": 77
+        },
+        {
+          "title": "TS Project论坛社区_TS Projectwiki - GameKee",
+          "link": "https://www.gamekee.com/tsprot/list?tab=17",
+          "snippet": "TS Projectwiki的TS Project论坛版块为TS Project玩家们提供互相交流的平台，快来加入TS Project社区吧！",
+          "position": 78
+        },
+        {
+          "title": "社区",
+          "link": "https://ask.dcloud.net.cn/",
+          "snippet": "... 25个回复• 7201次浏览. uni-app vue3 typescript tsconfig.json文件报错 2024-11-02 00:05 1个回复• 56次浏览. 云对象url化报错 2024-11-01 21:20 0个回复• 20次浏览.",
+          "position": 79
+        },
+        {
+          "title": "Libraries - OpenAI API",
+          "link": "https://platform.openai.com/docs/libraries",
+          "snippet": "Python library · TypeScript / JavaScript library ·.NET library · Azure OpenAI libraries · Community libraries.",
+          "position": 80
+        },
+        {
+          "title": "决赛过后，ts去年真洗白了，只能-英雄联盟丨LPL-虎扑社区",
+          "link": "https://m.hupu.com/bbs/628723601.html",
+          "snippet": "ts去年待遇跟今天宙斯差不多吧，多次军训包夹，这边宙斯被抓那边faker和小吕布就能够打回来换到东西，而ts被抓死别的路什么也没有做到. discuss-image.",
+          "date": "1天前",
+          "position": 81
+        },
+        {
+          "title": "求推荐ts类题材的作品NGA玩家社区",
+          "link": "https://ngabbs.com/read.php?tid=28267526",
+          "snippet": "NGA动漫论坛动漫爱好者的聚集地新番动画手办模型全资讯如果你是宅文化爱好者二次元国家地理将会是你的不二之选.",
+          "position": 82
+        },
+        {
+          "title": "老旧小区改造得好不好，群众说了算！ - 天山网",
+          "link": "https://www.ts.cn/xwzx/fzxw/202410/t20241031_24707557.shtml",
+          "snippet": "... 社区、万向社区等5个老旧小区70栋建筑单体做外墙和屋面保温、屋面防水及更换单元门、粉刷楼道；对白碱滩区中兴路街道钻井社区、芙蓉社区等18个老旧 ...",
+          "date": "4天前",
+          "position": 83
+        },
+        {
+          "title": "开箱即用的中台前端/设计解决方案 - Ant Design Pro",
+          "link": "https://pro.ant.design/zh-CN/",
+          "snippet": "全量使用TypeScript 开发. Let's Pro. 命令行运行下列命令，快速启动开发服务 ... 社区. Awesome Ant Design · Medium · Twitter · Ant Design 专栏 · 体验科技专栏 · seeconf ...",
+          "position": 84
+        },
+        {
+          "title": "cd，伪娘，ts性生活前期和谐练习全攻略！ - 边缘人变装社区",
+          "link": "http://www.byren.cn/thread-47001-1-1.html",
+          "snippet": "首先你要先学会清洗---灌肠：这个是每一个cd，伪娘，ts，0都要会的首先，灌肠之前要先排便灌肠的工具有很多：用带有软管的淋浴，把喷头拧下来把水温调好... cd，伪娘，ts性生活 ...",
+          "position": 85
+        },
+        {
+          "title": "Tunisair A320-neo TS-IMX 2024 Olympics livery for Inibuilds A320N v2",
+          "link": "https://zh.flightsim.to/file/84128/tunisair-a320-neo-ts-imx-2024-olympics-livery-for-inibuilds-a320n-v2",
+          "snippet": "Community Feed. 讨论和社区见解. 社区画廊. 用户上传图片展示. 创作者排行榜. 最受欢迎创作者排名. 最近的评论. 了解最新的社区评论. News Hub. 阅读飞行 ...",
+          "date": "2小时前",
+          "position": 86
+        },
+        {
+          "title": "各位谭友如果得了ts病，大概多久会交出第一次NGA玩家社区",
+          "link": "https://bbs.nga.cn/read.php?tid=42321890",
+          "snippet": "在此应用《早上起来我变成美少女了，你对这样的我有个请求？真是拿你没办法啊……可以哦。》里面的设定:ts后颜值是偶像级别，28天内不会有经期，舆论和法制 ...",
+          "date": "17小时前",
+          "position": 87
+        },
+        {
+          "title": "Vite | 下一代的前端工具链",
+          "link": "https://cn.vite.dev/",
+          "snippet": "to 社区 · 更新日志 · 贡献指南. Version. Vite v4 文档（英文） · Vite v3 文档（英文 ... Typescript. WebAssembly. PostCSS. 丰富的功能. 对TypeScript、JSX、CSS 等支持开 ...",
+          "position": 88
+        },
+        {
+          "title": "Typescript files show errors in IntelliJ IDEA Community Edition",
+          "link": "https://stackoverflow.com/questions/42461691/typescript-files-show-errors-in-intellij-idea-community-edition",
+          "snippet": "Yes and No. You are correct that typescript is integrated in IntelliJ Ultimate edition - without the need for plugins. However, in the Community ...",
+          "date": "2017年2月25日",
+          "position": 89
+        },
+        {
+          "title": "TIOBE Index",
+          "link": "https://www.tiobe.com/tiobe-index/",
+          "snippet": "The TIOBE Programming Community index is an indicator of the popularity of programming languages. ... TypeScript, 0.32%. 38, PL/SQL, 0.28%. 39, Solidity, 0.27%.",
+          "position": 90
+        },
+        {
+          "title": "一个Vue 3 组件库 - Naive UI",
+          "link": "https://www.naiveui.com/zh-CN/os-theme",
+          "snippet": "Naive UI. 一个Vue 3 组件库. 比较完整，主题可调，使用TypeScript，快. 有点意思. 换个主题. 开始使用. 资源设计资源图标库 社区精选资源. 帮助 常见问题 更新日志",
+          "position": 91
+        },
+        {
+          "title": "NG-ZORRO - Angular UI component library",
+          "link": "https://ng.ant.design/",
+          "snippet": "社区招募. Ant Design of Angular. Features Environment Support Version Angular ... Written in TypeScript with complete defined types. Support OnPush mode ...",
+          "position": 92
+        },
+        {
+          "title": "Downloads - Redis",
+          "link": "https://redis.io/downloads/",
+          "snippet": "Download what you need to start building. Redis Community Edition & Stack. Redis Software. Redis Insight ...",
+          "position": 93
+        },
+        {
+          "title": "three.js+vue智慧社区web3d数字孪生三维地图 - 博客园",
+          "link": "https://www.cnblogs.com/tiandi/p/18522337",
+          "snippet": "... ts\" setup> import * as THREE from 'three'; import TWEEN from '@tweenjs/tween.js'; import { onMounted, ref, onUnmounted } from 'vue'; import ...",
+          "date": "2天前",
+          "position": 94
+        },
+        {
+          "title": "边缘人变妆装社区app合集 - 嗨客手机站",
+          "link": "https://www.hackhome.com/zt/byrbzzsqapphj/",
+          "snippet": "边缘人变妆装社区app合集，是为边缘人这一群体提供的网络变装内容分享，妆造指导服务、摄影交流、社区交友的综合软件，让你可以找到自己的社交圈层， ...",
+          "date": "2024年1月9日",
+          "position": 95
+        },
+        {
+          "title": "HarmonyOS NEXT鸿蒙应用开发平台-华为开发者联盟",
+          "link": "https://developer.huawei.com/consumer/cn/develop/",
+          "snippet": "一站式的HarmonyOS 应用及元服务开发平台，为你提供代码开发、编译构建及调测等功能。 img. ArkTS. ArkTS 是鸿蒙原生应用的开发语言。它在保持TypeScript（简称TS）基本语法 ...",
+          "position": 96
+        },
+        {
+          "title": "极致观影体验！威联通TS-464C2配上18元一年的infuse Pro真的爽！",
+          "link": "https://post.smzdm.com/p/a964q04p/",
+          "snippet": "TS-462C采用了英特尔赛扬N4505处理器，双核心双线程，10nm制程工艺，频率2.0Ghz~2.9Ghz ... 社区首页 电脑数码 存储设备 网络存储 NAS存储 文章详情.",
+          "date": "5天前",
+          "position": 97
+        },
+        {
+          "title": "Effective incorporation of Ti atom into TS-1 zeolite assisted ... - 科研通",
+          "link": "https://www.ablesci.com/assist/detail?id=WxzX6L",
+          "snippet": "科研导航 · 即时热点 · 交流社区. 登录 · 注册 · 发布文献求助 · 首页 · 我的求助 · 捐赠本站. 待确认. 文献求助详情. 标题. [求助补充材料] Effective ...",
+          "date": "2天前",
+          "position": 98
+        },
+        {
+          "title": "Can't sign in to your Google Account",
+          "link": "https://support.google.com/accounts/troubleshooter/2402620?hl=en",
+          "snippet": "Post to the help community Get answers from community members. true. Help. 1 of 8. How to recover your Google Account or Gmail. 2 of 8. Tips to complete account ...",
+          "position": 99
+        }
+      ],
+      "images": [
+        {
+          "title": "还没用熟TypeScript 社区已经开始抛弃了😭根据rich-harris-talks ...",
+          "imageUrl": "https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a69ee0cdd85448a3a98d60676d68e24c~tplv-k3u1fbpfcp-zoom-in-crop-mark:1512:0:0:0.awebp?",
+          "link": "https://juejin.cn/post/7218117377052377143"
+        },
+        {
+          "title": "还没用熟TypeScript 社区已经开始抛弃了😭根据rich-harris-talks ...",
+          "imageUrl": "https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8c190cb45c2347ada124dee9326ba703~tplv-k3u1fbpfcp-zoom-in-crop-mark:1512:0:0:0.awebp?",
+          "link": "https://juejin.cn/post/7218117377052377143"
+        },
+        {
+          "title": "Ts社区的个人空间-Ts社区个人主页-哔哩哔哩视频",
+          "imageUrl": "https://i2.hdslb.com/bfs/face/bd16a1ad6927f3a175c129d589ed5ec8734400b7.jpg@1c.webp",
+          "link": "https://space.bilibili.com/1863597209/"
+        },
+        {
+          "title": "在TS项目中不能使用ts类？ | 微信开放社区",
+          "imageUrl": "http://mmbiz.qpic.cn/mmbiz_png/ZCyJmAeibweL494nu7PNutuY3nhvUfED892sFwstl7nomgQU1AujJRibESiaJJhavsvPOzC3mbCLibh7fzeZibdMtpA/0?wx_fmt=png",
+          "link": "https://developers.weixin.qq.com/community/develop/doc/00000c25910150447e7f200235b000"
+        },
+        {
+          "title": "TS 单例模板封装- Creator 2.x - Cocos中文社区",
+          "imageUrl": "https://forum.cocos.org/uploads/default/original/3X/c/b/cbc5f006204edef797b43a6d883a4ba6e61ec25f.png",
+          "link": "https://forum.cocos.org/t/topic/126798"
+        },
+        {
+          "title": "还没用熟TypeScript 社区已经开始抛弃了😭根据rich-harris-talks ...",
+          "imageUrl": "https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4b7d0a1d427544c59f0082889e0b3929~tplv-k3u1fbpfcp-zoom-in-crop-mark:1512:0:0:0.awebp?",
+          "link": "https://juejin.cn/post/7218117377052377143"
+        },
+        {
+          "title": "ts文件剖析-天翼云开发者社区- 天翼云",
+          "imageUrl": "https://ctyun-developers-0510.gdoss.xstore.ctyun.cn/prod/ad3043e953ad42b0ac1b8de04f0dc137.png",
+          "link": "https://www.ctyun.cn/developer/article/465138228834373"
+        },
+        {
+          "title": "TypeScript教程】# 4：TS中类型-阿里云开发者社区",
+          "imageUrl": "https://ucc.alicdn.com/pic/developer-ecology/vksqf7nht55li_d3d076c46d8140328812620097ab3c27.png?x-oss-process=image/resize,s_500,m_lfit",
+          "link": "https://developer.aliyun.com/article/1171088"
+        },
+        {
+          "title": "Steam 社区:: :: TS",
+          "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/2027212484273564883/BCCF78B5278F1946430DC4DD99ED8424F4E16000/?imw=1024&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+          "link": "https://steamcommunity.com/sharedfiles/filedetails/?l=schinese&id=2895457856"
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "TS 社区",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "TD Scholarships for Community Leadership - TD Bank",
+          "link": "https://www.td.com/ca/en/personal-banking/solutions/student-banking/community-leadership-scholarship-for-canadians",
+          "snippet": "You may be eligible for a TD Scholarship for Community Leadership valued at up to $70,000 over 4 years toward a post-secondary college or university education.",
+          "position": 1
+        },
+        {
+          "title": "ts's Groups | 乐乎社区",
+          "link": "https://sq.lehu.in/user/ts/groups",
+          "snippet": "... (i.e. NoScript). Home · ts; Groups. T. Profile · Following 0 · Followers 0 · Topics 1 · Posts 2 · Best 1 · Controversial 0 · Groups 0. ts's Groups. There are no ...",
+          "position": 2
+        },
+        {
+          "title": "V2EX",
+          "link": "https://v2ex.com/",
+          "snippet": "创意工作者的社区。讨论编程、设计、硬件、游戏等令人激动的话题。",
+          "position": 3
+        },
+        {
+          "title": "香港分區氣溫｜香港天文台(HKO)｜分區天氣",
+          "link": "https://www.hko.gov.hk/tc/wxinfo/ts/index.htm",
+          "snippet": "社區天氣觀測計劃相關項目展開 · 這連結會以新視窗打開。社區天氣觀測計劃Facebook 群組 · 社區天氣觀測計劃圖像廊 · 長者 · 觀星 · 天文台之友 · 這連結 ...",
+          "date": "2023年4月20日",
+          "position": 4
+        },
+        {
+          "title": "TS全栈开发+技术变现+岗位外包创业海外资源+奖励机制= 新3R社区",
+          "link": "https://www.bilibili.com/video/BV1FB42167Zv/",
+          "snippet": "... TS全栈开发与技术变现新课即将开更，最适合远程工作/海外外包接单工作室/被动收入与独立开发者的数字游民社区！，创业请原创，抄袭没前途，最好的技术变现与TS ...",
+          "date": "2024年2月12日",
+          "position": 5
+        },
+        {
+          "title": "Vue.js - The Progressive JavaScript Framework | Vue.js",
+          "link": "https://vuejs.org/",
+          "snippet": "Community Guide · Code of Conduct · Privacy Policy · The Documentary. Experts. Partners · Developers. Resources. Partners · Developers · Themes · UI Components ...",
+          "position": 6
+        },
+        {
+          "title": "锦江区超美ts - 四川-成都红蜻蜒社区",
+          "link": "https://www.hqt298.com/forum.php?mod=viewthread&tid=1662",
+          "snippet": "【验证地点】：成都市锦江区【服务项目】：漫游，69式，口活，深喉，毒龙，GJ，蛇吻，共浴【环境设备】：100分【价格一览】：500【联系方式】：vx：nana3136015256 ...",
+          "date": "2023年11月30日",
+          "position": 7
+        },
+        {
+          "title": "Download SonarQube | Sonar",
+          "link": "https://www.sonarsource.com/products/sonarqube/downloads/",
+          "snippet": "Community Build · Static code analysis for 20 languages and frameworks: Java, C#, JavaScript, TypeScript, CloudFormation, Terraform, Docker, Kubernetes, Helm ...",
+          "position": 8
+        },
+        {
+          "title": "Terms of Use - Instagram Help Center",
+          "link": "https://help.instagram.com/581066165581870/",
+          "snippet": "... community. Technologies like artificial intelligence and machine learning give us the power to apply complex processes across our Service. Automated ...",
+          "position": 9
+        },
+        {
+          "title": "TPL-084-TS-000-TR - Datasheet - 电子工程世界",
+          "link": "https://datasheet.eeworld.com.cn/view/30903419.html",
+          "snippet": "TPL-084-T-S-000-TR. 产品描述 IC Socket, PLCC84 ... 活动详情：[url=https://bbs.eeworld.com.cn/TI/201304_TI_C2000/index.html]>>春暖花开，我为TI C... EEWORLD社区 ...",
+          "position": 10
+        },
+        {
+          "title": "It's Nice That",
+          "link": "https://www.itsnicethat.com/",
+          "snippet": "Can neighbourhood branding projects truly serve the community? 18 July 2024 · Features · Graphic Design ... Can you ever really own an aesthetic? Creatives ...",
+          "position": 11
+        },
+        {
+          "title": "Fluent Editor 富文本开源2个月的总结：增加格式刷、截屏",
+          "link": "https://segmentfault.com/a/1190000045437074",
+          "snippet": "虽然Fluent Editor 在公司内部使用很久了，但开源之后，依然收到了更广泛的社区开发者的issue，我们持续响应，在这两个多月完成了很多实用的功能。",
+          "date": "13小时前",
+          "position": 12
+        },
+        {
+          "title": "龙凤楼社区搬迁新地址公告 - 虎头蛇尾网",
+          "link": "http://warsw.npx.ac.cn/news/949f8398967.html",
+          "snippet": "... 社区搬迁新地址公告尊敬的居民：搬迁原因为了改善社区居住环境，提高居民的居住品质，龙凤楼社区 ... 为什么ts都是卖的(为何ts广受欢迎？) 东兴高端约茶礼仪指南 ...",
+          "date": "1天前",
+          "position": 13
+        },
+        {
+          "title": "虎扑电竞- 最电竞的世界",
+          "link": "https://gg.hupu.com/",
+          "snippet": "[虎扑专访]Caps：换线会带来优势；参观熊猫体验7分 |. 社区推荐更多 . [赛后] ... ts 主播分享为什么部分直男会喜欢ts 50亮652回复 王者荣耀 . 速通晋级，大家觉得 ...",
+          "position": 14
+        },
+        {
+          "title": "TiDB 的问答社区- TiDB 社区",
+          "link": "https://asktug.com/",
+          "snippet": "TiDB社区是由TiDB 生态中的开发者、用户、Contributor、合作伙伴一起建立的分享、学习平台。在这里，我们可以自由发声，互相协助解决问题。",
+          "position": 15
+        },
+        {
+          "title": "广州TS人妖家园 - SiwaMAN",
+          "link": "https://swn.im/group-110-1.html",
+          "snippet": "社区福利2024-09-26. tscici520Lv.4. 2019-8-15. 广州人妖，广州ts 深圳人妖，深圳ts. 看名字。卫电，18575726606 q 260600774. 1.2 万. 赞 1 评论.",
+          "position": 16
+        },
+        {
+          "title": "TypeScript shadow_css.ShadowCss类代码示例 - OStack.cn",
+          "link": "https://ostack.cn/article-711152-1.html",
+          "snippet": "TypeScript shadow_css.ShadowCss类代码示例,OStack程序员社区-中国程序员成长平台.",
+          "position": 17
+        },
+        {
+          "title": "React 官方中文文档",
+          "link": "https://zh-hans.react.dev/",
+          "snippet": "加入数百万人的社区. 你并不孤单。每个月有来自世界各地的两百万开发者访问React 文档。React 可以让人们达成共识 ...",
+          "position": 18
+        },
+        {
+          "title": "STMicroelectronics Community: Home",
+          "link": "https://community.st.com/",
+          "snippet": "Welcome to the ST Community! Looking for solutions and tips to overcome your design challenges? You're in the right place! Ask questions, join discussions, or ...",
+          "position": 19
+        },
+        {
+          "title": "TS伪娘-上海 - 探花社区",
+          "link": "https://xc8866.cc/thread-2150.htm",
+          "snippet": "以前从来没搞过TS，出于新鲜感就体验了一次。最懂男人的一定是男人。我下面基本口交没感觉。第一次被他口交，口了一会我竟然有想射的感觉。我不得不夸赞一下，口活太到位 ...",
+          "position": 20
+        },
+        {
+          "title": "TypeScript core.AdalService类代码示例 - OStack.cn",
+          "link": "https://ostack.cn/article-705995-1.html",
+          "snippet": "TypeScript core.AdalService类代码示例,OStack程序员社区-中国程序员成长平台.",
+          "position": 21
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

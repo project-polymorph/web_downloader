@@ -1,0 +1,1625 @@
+{
+  "query": "非传统性别",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-04T00:35:59.723079",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "非传统性别",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "聊聊Facebook的56个非传统性别",
+          "link": "https://web.acegear.com/articles/473/ec5b040e-3401-4cec-8cb1-db30050f1132",
+          "snippet": "Agender - 无性别。没有发育性别、或者没有感觉到自己有任何强烈性别归属的人。他们不见得认为自己没有性别，但可能觉得性别不是自己的核心特质。",
+          "position": 1
+        },
+        {
+          "title": "非二元性别- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%A5",
+          "snippet": "非二元性别（英语：Non-binary gender）、性别酷儿（英语：genderqueer）和X性别（日语：Xジェンダー）是处于二元性别以外的性别认同。非二元性别认同可以归于作为伞状术语的跨 ...",
+          "position": 2
+        },
+        {
+          "title": "人类只有两种性别？不！有56种性别 - 网易",
+          "link": "https://www.163.com/dy/article/FF0731N90548JABQ.html",
+          "snippet": "两种性别未必是男和女，可以是这里提到的许多种其它非传统性别。 Cis - 顺性人。自我性别认定和出生时的生物性别相同的人。大部分人归于此类。 Cis Female ...",
+          "date": "2020年6月13日",
+          "position": 3
+        },
+        {
+          "title": "非二元性别：打破传统二元论，建造多元的性别色谱体系 - 歪脑",
+          "link": "https://www.wainao.me/wainao-watches/explainer-gender-nonbinary-12282021",
+          "snippet": "Nonbinary——非二元性别，是一种性别认同，用于统称不将自己限制在传统男女性别二元论框架的人们。Ta们认为传统理念中的男性或女性，都不能准确代表对自己的 ...",
+          "date": "2021年12月28日",
+          "position": 4
+        },
+        {
+          "title": "顺性别- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E9%A0%86%E6%80%A7%E5%88%A5",
+          "snippet": "顺性别（英语：Cisgender）是指性别认同与出生时指定性别相同的人的一个术语。例如：一个人的性别认同是女性并且出生时被指定女性，这个人就是顺性别女性。顺性别一词与跨性别 ...",
+          "position": 5
+        },
+        {
+          "title": "不只是雌雄：性别的起源和流动 - 浙江大学生命演化研究中心",
+          "link": "https://evolution.zju.edu.cn/science/detail55.html",
+          "snippet": "在传统意义上，人们对于性别的区分只有两种，即生理性别（Sex）为男或女。在当今社会，性别已经成为一个更加复杂和多样化的概念。人们对于性别的理解不止 ...",
+          "date": "2023年8月6日",
+          "position": 6
+        },
+        {
+          "title": "美国护照性别栏新增“X”标识供非传统性别认同者选择 - Caixin",
+          "link": "https://international.caixin.com/2021-10-28/101793016.html",
+          "snippet": "预计从明年年初开始，所有美国公民都将有权在自己的护照上选择“男性”或“女性”之外的“X”性别选项；美国国务院称，此举是为了保障包括性少数群体在内 ...",
+          "date": "2021年10月28日",
+          "position": 7
+        },
+        {
+          "title": "关于跨性别的事实- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/healthy-lifestyle/adult-health/in-depth/transgender-facts/art-20266812",
+          "snippet": "词语“跨性别者”和“多元性别者”涵盖一系列性别认同和性别表达。这些词语超出了这样一种观点，即所有人只能被归类为两种性别中的一种：女性或男性。",
+          "date": "2023年4月21日",
+          "position": 8
+        },
+        {
+          "title": "中文性别包容性语言指南",
+          "link": "https://www.un.org/zh/gender-inclusive-language/guidelines.shtml",
+          "snippet": "其中，“他”通常指向男性（或为未表明性别信息时的默认选项），而“她”则通常指向女性，两者在口语表达中发音相同，区别往往只在书面表达中才能区分。社会性别则以生理性别为基础， ...",
+          "position": 9
+        },
+        {
+          "title": "无性别_百度百科",
+          "link": "https://baike.baidu.com/item/%E6%97%A0%E6%80%A7%E5%88%AB/17660814",
+          "snippet": "无性别（英语：Agender），亦称精神无性别者、精神无性别人，是一种性别酷儿或性别认同。无性别人认为他们没有性别或无关性别、没有感觉到自己有任何强烈性别归属的人 ...",
+          "position": 10
+        },
+        {
+          "title": "Nonbinary：男女之外，性别的第三个选项 - 纽约时报",
+          "link": "https://cn.nytimes.com/culture/20181127/wod-nonbinary/",
+          "snippet": "Nonbinary意为“非二元的”，可指那些超越传统意义上的二元划分，不单纯属于男性或女性的自我性别认同。它也被广泛称作Genderqueer（性别酷儿）。",
+          "date": "2018年11月27日",
+          "position": 11
+        },
+        {
+          "title": "性别认同- 《默沙东诊疗手册大众版》",
+          "link": "https://www.msdmanuals.cn/home/mental-health-disorders/gender-incongruence-and-gender-dysphoria/gender-identity",
+          "snippet": "性身份包括传统的男性或女性。然而，不同文化和社会对性别角色的定义和分类可能不同。人们越来越认识到，有些人并不适合传统的 ...",
+          "position": 12
+        },
+        {
+          "title": "护照上的性别填哪个：男？女？还是X？ - BBC News 中文",
+          "link": "https://www.bbc.com/zhongwen/simp/world-50658107",
+          "snippet": "非二元 ... 护照或证件性别栏上上字母X 代表性别未注明。传统的基于性器官特征的性别认定是二元的，要么是男性，要么是女性。 联合国估计，占世界人口1.7%的人 ...",
+          "date": "2019年12月5日",
+          "position": 13
+        },
+        {
+          "title": "性别不是连续谱 - 神经现实",
+          "link": "https://neu-reality.com/2016/07/gender-is-not-a-spectrum/",
+          "snippet": "但正如我们所见，如果性别身份是连续谱，那么我们每个人都是“非二元性别”，因为没有任何人的性别落在这个频谱的两端。我们每个人，会成为谱上的一些特征点。",
+          "date": "2016年7月22日",
+          "position": 14
+        },
+        {
+          "title": "[PDF] 性取向和性别认同问题：",
+          "link": "https://www.lgbtqiahealtheducation.org/publication/sexual-orientation-and-gender-identity-questions-information-for-patients/download/zh-cn/",
+          "snippet": "男性性别认同的人。 其他性别认同包括但不限于：. • 流性人：指性别认同不固定的人。 • 性别酷儿/非二元性别的人：指性别认同超. 出传统二元性别（女孩/女人/女性或男孩/.",
+          "position": 15
+        },
+        {
+          "title": "[PDF] 解答你的问题- 关于跨性别者",
+          "link": "https://www.apa.org/topics/lgbtq/chinese-simplified-transgender.pdf",
+          "snippet": "跨性别者和非跨性别者一样，可能是异. 性恋、女同性恋、男同性恋、双性恋或 ... 性别转换(gender transition)是一个复杂的过. 程，并可能涉及转换到非传统定义上的男性.",
+          "position": 16
+        },
+        {
+          "title": "- YouTube",
+          "link": "https://m.youtube.com/post/UgkxKoNv4_nceGzkLORdptRLhFC2TqraxKvC",
+          "snippet": "1.男性（Male） 2.女性（Female） 3.非二元性别（Non-binary） 4.性别酷儿（Genderqueer） 5.性别流动（Genderfluid） 6.双性（Bigender） 7.无性别（Agender） 8.双灵（Two-Spirit） 9.跨 ...",
+          "position": 17
+        },
+        {
+          "title": "跨性别_百度百科",
+          "link": "https://baike.baidu.com/item/%E8%B7%A8%E6%80%A7%E5%88%AB/6234644",
+          "snippet": "跨性别指个体的性别认同不同于其出生时被指定的生理性别。跨性别是一个概括性术语，包括跨性别男性、跨性别女性和性别酷儿等性别认同。跨性别是一种性别认同而不是一种 ...",
+          "position": 18
+        },
+        {
+          "title": "[PDF] 近20 年中国人性别观念的延续与变迁",
+          "link": "http://hprc.org.cn/gsyj/shs/shxss/201803/P020180516323787365290.pdf",
+          "snippet": "... 女性。纳入性别视. 角，就可看到劳动力的低廉是由公/私领域的结构性分离、结构性调整人为制造出来的，而非市场“自发秩. 序”的必然结果⑦。传统性别观念的回潮，正是在 ...",
+          "position": 19
+        },
+        {
+          "title": "护照上的性别填哪个：男、女、X？ - BBC 英伦网",
+          "link": "https://www.bbc.com/ukchina/simp/50660226",
+          "snippet": "对于性别认同“非二元”群体，官方证件上设第三性别等于承认中立性别，意义深远。 在现实日常中，这可以为他们免去许多令人不适、不快甚至感到隐私受侵犯的言语 ...",
+          "date": "2019年12月5日",
+          "position": 20
+        },
+        {
+          "title": "理解非正规部门中的性别差距 - World Bank Blogs",
+          "link": "https://blogs.worldbank.org/zh/voices/understanding-gender-gaps-informal-sector",
+          "snippet": "妇女占全球总人口的一半，但她们远未享有与男性平等的参与经济活动的权利和机会。 在全球范围内，女性在劳动参与率、创业、担任高层管理职务和企业 ...",
+          "date": "2023年12月6日",
+          "position": 21
+        },
+        {
+          "title": "非二元性別之哪裡只得男或 - Gender Empowerment 性別空間",
+          "link": "https://genderempowerment.org/index.php/2021/07/16/nonbinary/",
+          "snippet": "不過Burrnesha多數是在性別表達上有別於其出生時被指定性別的既有印象，例如佢哋會將名字改得較男性化、佩帶槍械、飲酒等等，作一般在傳統社會上只有男性 ...",
+          "date": "2021年7月16日",
+          "position": 22
+        },
+        {
+          "title": "性别平等| 联合国",
+          "link": "https://www.un.org/zh/global-issues/gender-equality",
+          "snippet": "然而，联合国妇女署警告说，要充分实现男女平权和机会平等，我们还有很长的路要走。因此，不论是结束各种形式的性别暴力，还是保证妇女、女童、男人、男童有平等的机会获得优质 ...",
+          "position": 23
+        },
+        {
+          "title": "[PDF] 亚太地区女性从事科学、技术、工程和数学(STEM)(2024年1月)",
+          "link": "https://www.undp.org/sites/g/files/zskgke326/files/2024-04/yataidequnuxingcanyukejichuangxinyanjiubaogao.pdf",
+          "snippet": "这些潜在观念源于传统的性别刻板印象，常常导致女性. 认为自己不 ... 5. 扩大STEM 领域职业教育机会，增加非传统STEM 学科学习机会，如编程、网站设计、.",
+          "date": "2024年4月15日",
+          "position": 24
+        },
+        {
+          "title": "[PDF] 非传统安全理论：概念、流派与特征 - 国际政治研究",
+          "link": "https://www.jis.pku.edu.cn/docs/2018-06/20180627145937494662.pdf",
+          "snippet": "4.安全的责任主体,即谁来保障安全:是国家、个人、非政府组织还是全. 球性国际组织或某种超国家的安全结构? 5. 实现安全的方式:是军事机器、外交谈判还是 ...",
+          "date": "2018年6月26日",
+          "position": 25
+        },
+        {
+          "title": "全球安全倡议概念文件（全文） - 中国政府网",
+          "link": "https://www.gov.cn/xinwen/2023-02/21/content_5742481.htm",
+          "snippet": "当前，安全的内涵和外延更加丰富，呈现更加突出的联动性、跨国性、多样性，传统安全威胁和非传统安全威胁相互交织。我们倡导各国践行共商共建共享的 ...",
+          "date": "2023年2月21日",
+          "position": 26
+        },
+        {
+          "title": "关于非传统性取向的一点个人感悟 - 红色中国网",
+          "link": "https://smtp.redchinacn.net/forum.php?mod=viewthread&tid=28994",
+          "snippet": "在各种变态色情和以性骚扰为乐变态的影响下，你很难对异性产生信任感，对于性爱对于性别都会有一种厌恶，不想拘束在这些恶心的规矩里，不婚主义，同性恋，跨性别 ...",
+          "date": "2023年12月2日",
+          "position": 27
+        },
+        {
+          "title": "[PDF] A/HRC/56/49 大会",
+          "link": "https://cnlgbtdata.com/files/uploads/2024/07/g2405739.pdf",
+          "snippet": "例如，俄罗斯联邦所谓的“同性恋宣传”法(禁止对所谓. 的非传统性关系进行任何中性 ... 事性取向和性别认同问题工作的非政府组织。女同性恋者尤其容易 ...",
+          "date": "2024年7月12日",
+          "position": 28
+        },
+        {
+          "title": "小型航空器实施非传统仪表飞行的运行要求 - 中国民用航空局",
+          "link": "http://www.caac.gov.cn/PHONE/XXGK_17/XXGK/GFXWJ/201811/t20181127_193185.html",
+          "snippet": "主题分类：规范性文件. 体裁分类：. 办文单位：飞行标准司. 发文日期：2018-02-06. 名 称：小型航空器实施非传统仪表飞行的运行要求. 文号：AC-91-FS-2018-36, 有效性：有效.",
+          "position": 29
+        },
+        {
+          "title": "[PDF] “我需要家长同意才能做自己”",
+          "link": "https://www.amnesty.org/en/wp-content/uploads/2021/05/ASA1702692019CHINESE.pdf",
+          "snippet": "跨性别者是指那些性别认同或性别表达有别于传统期望的 ... 大部分正在进行激素疗法的受访者计划在某一阶段进行性别确认手术。 除了跨性别男性及女性之外，非二元跨性别 ...",
+          "position": 30
+        },
+        {
+          "title": "《国家安全知识问答》微视频：5.日益凸显的非传统安全威胁有哪些？",
+          "link": "https://www.12371.cn/2023/04/10/VIDE1681115402427873.shtml",
+          "snippet": "对于普及国家安全教育和提高公民“大安全”意识，具有较强针对性和实用性。 分享. 微信扫一扫 ×. 点赞. 28. 下载. 课件信息; 选集. 《国家安全知识问答》微 ...",
+          "date": "2023年4月10日",
+          "position": 31
+        },
+        {
+          "title": "IIGF观点| 王遥、石琳：精准投资赋能女性是助力非洲实现可持续发展 ...",
+          "link": "https://iigf.cufe.edu.cn/info/1012/9296.htm",
+          "snippet": "回顾历史，2000年的首届中非合作论坛主要聚焦于减贫与发展，这些目标虽未直接将性别问题置于前台，但其成果间接地惠及了女性群体。到了2006年，中国通过承诺 ...",
+          "date": "6天前",
+          "position": 32
+        },
+        {
+          "title": "[PDF] 中华人民共和国非物质文化遗产法 - 政府信息公开目录",
+          "link": "https://zwgk.mct.gov.cn/zfxxgkml/zcfg/fl/202012/P020220218490643350859.pdf",
+          "snippet": "第十八条国务院建立国家级非物质文化遗产代表性项目. 名录，将体现中华民族优秀传统文化，具有重大历史、文学、艺. 术、科学价值的非物质文化遗产项目列入名录予以保护。 省 ...",
+          "position": 33
+        },
+        {
+          "title": "[PDF] 中文包容性语言指南 - WIPO",
+          "link": "https://www.wipo.int/documents/d/gender/wipo-guidelines-inclusive-language.pdf-5",
+          "snippet": "... 非歧视性语言的各种 ... 虽然上述规则适用于大多数情况，但克服刻板印象有时可能需要明确. 指出，某些职业也可以由代表性不足的群体从事，某些技能或能力并. 非仅是传统上与之 ...",
+          "position": 34
+        },
+        {
+          "title": "“统筹传统安全和非传统安全”-新华网",
+          "link": "http://www.xinhuanet.com/politics/2020-11/23/c_1126773427.htm",
+          "snippet": "... 非传统措施和手段的重要性。2002年，党的十六大报告作出的“传统安全威胁和非传统安全威胁的因素相互交织”的判断，特别是2004年《中共中央关于加强党的 ...",
+          "date": "2020年11月23日",
+          "position": 35
+        },
+        {
+          "title": "全球安全倡议 - 习近平外交思想和新时代中国外交",
+          "link": "http://cn.chinadiplomacy.org.cn/2023-08/09/content_100104540.shtml",
+          "snippet": "当前，安全的内涵和外延更加丰富，呈现更加突出的联动性、跨国性、多样性，传统安全威胁和非传统安全威胁相互交织。我们倡导各国践行共商共建共享的全球治理观，共同应对地区 ...",
+          "position": 36
+        },
+        {
+          "title": "为什么说国家安全与我们每个人息息相关？",
+          "link": "https://whhlyt.nx.gov.cn/xxfb/wlyw/202404/t20240410_4509281.html",
+          "snippet": "除了传统领域的政治安全、军事安全、国土安全，非传统领域国家安全还包括 ... 性和必要性，进一步树牢底线思维，做到居安思危。认真学习与国家 ...",
+          "date": "2024年4月10日",
+          "position": 37
+        },
+        {
+          "title": "美国是如何以“性别”之名，对肯尼亚社会进行渗透的？-清华大学国际 ...",
+          "link": "https://www.guancha.cn/IIAS/2024_11_04_754056.shtml",
+          "snippet": "基库尤族社会是一个典型基于父系制度组织和运转的社会，实行传统的性别分工。男性和女性在家庭和农业活动中承担不同的角色和责任。在家庭内部，男性负责重 ...",
+          "date": "41分钟前",
+          "position": 38
+        },
+        {
+          "title": "中非合作论坛—北京行动计划（2025-2027） - 外交部",
+          "link": "https://www.mfa.gov.cn/web/ziliao_674904/1179_674909/202409/t20240905_11485697.shtml",
+          "snippet": "... 传统和非传统安全。 3.4.1.4双方坚持优先通过非洲方式解决非洲问题，共同 ... 根据非盟《2063年议程》和《性别平等和妇女赋权战略（2018-2028 ...",
+          "date": "2024年9月5日",
+          "position": 39
+        },
+        {
+          "title": "[PDF] 非传统的总体国家安全观 - 中国社会科学网",
+          "link": "https://www.cssn.cn/gjaqx/202307/P020230710545187071258.pdf",
+          "snippet": "特别是从1992年中共十四大开始,党政官方文件中的“国. 家安全”开始更加频繁出现,“对国家安全的概念性论述和实践”逐渐成为常态。 但是,中国官方在20世纪90年代前期对国家安全 ...",
+          "position": 40
+        },
+        {
+          "title": "澳洲华人讲述“他”与“她”之外的非二元性别 - SBS",
+          "link": "https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/non-binary-option-is-a-big-progress-for-chinese-lgbtiq-communities-in-australia/j4uavtb5f",
+          "snippet": "今年澳洲人口普查将首次包含非二元性别选项，但华人社区对男女之外的多元性别认同概念，仍“不太普及”。 · 澳洲统计局在今年的人口普查中首次提供“非二元性别” ...",
+          "date": "2021年3月5日",
+          "position": 41
+        },
+        {
+          "title": "联合国75年风雨兼程 - 中国人民外交学会",
+          "link": "https://www.cpifa.org/cms/book/175",
+          "snippet": "联合国人权的内涵不断得到丰富，从公民和政治权利到经济、社会和文化权利以及发展权。值得一提的是，发展中国家多年来一直推动联合国以公正、客观、非选择性和非政治化的方式 ...",
+          "position": 42
+        },
+        {
+          "title": "麦肯锡专题报告∣新时代的半边天：中国职场性别平等现状与展望",
+          "link": "https://www.mckinsey.com.cn/%E9%BA%A6%E8%82%AF%E9%94%A1%E4%B8%93%E9%A2%98%E6%8A%A5%E5%91%8A%E2%88%A3%E6%96%B0%E6%97%B6%E4%BB%A3%E7%9A%84%E5%8D%8A%E8%BE%B9%E5%A4%A9%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%81%8C%E5%9C%BA%E6%80%A7%E5%88%AB/",
+          "snippet": "然而，社会对职场女性的期待以及女性的自我价值定位仍然受到“男主外女主内”、“女孩长大要做一份安稳工作”等传统观念的影响。在这样的社会环境和教育理念潜移默化的影响下， ...",
+          "position": 43
+        },
+        {
+          "title": "[PDF] 日本的性别差距- 金融与发展- 2019年3月号",
+          "link": "https://www.imf.org/external/chinese/pubs/ft/fandd/2019/03/pdf/gender-equality-in-japan-yamaguchi.pdf",
+          "snippet": "然而，通过将就业类别（四大类别：正规就. 业和非正规就业，全职工作和兼职工作）和性别 ... 日本传统的劳动分工仍根深蒂固。在婚后，育儿和. 家务活的重任主要由女性承担 ...",
+          "position": 44
+        },
+        {
+          "title": "余潇枫| 跨越边界：人类安全的现实挑战与未来图景——统筹传统安全 ...",
+          "link": "https://gjaqyjy.muc.edu.cn/info/1034/1272.htm",
+          "snippet": "新近爆发的乌克兰危机，既有涉及主权、政权的国家间结构性冲突，又有涉及人权与人道的复杂历史文化中的生存性危机；既有传统战争方式的“特别军事行动”，又有非 ...",
+          "date": "2022年6月17日",
+          "position": 45
+        },
+        {
+          "title": "[PDF] “共享安全”: 非传统安全的新范式 - 浙江大学学术期刊",
+          "link": "https://www.zjujournals.com/soc/CN/article/downloadArticleFile.do?attachType=PDF&id=10906",
+          "snippet": "非传统安全的革命性意义在于:人们发现“和平”并不等于安全,“发展”甚至会成为不安全的来源,于是安全成. 为了一个开放性的领域,安全指涉对象从国家转向个体、性别、人类 ...",
+          "position": 46
+        },
+        {
+          "title": "[PDF] 中国性别暴力和男性气质研究定量调查报告 - UNFPA China",
+          "link": "https://china.unfpa.org/sites/default/files/pub-pdf/6.Research%20on%20Gender-based%20Violence%20and%20Masculinities%20in%20China_Quantitativ.pdf",
+          "snippet": "能保护男性免于其他男性的强暴，因为其规定. 只有成年女性或女孩才是可能的强暴受害者。 这一法律上的无视并非偶然，存在于半数受访. 者中的同性恋憎恶和对非传统男性的暴力， ...",
+          "position": 47
+        },
+        {
+          "title": "认知与及时、有效应对非传统安全挑战- 全民国防杂志",
+          "link": "http://tapchiqptd.vn/zh/%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E8%B7%B5/%E8%AE%A4%E7%9F%A5%E4%B8%8E%E5%8F%8A%E6%97%B6%E3%80%81%E6%9C%89%E6%95%88%E5%BA%94%E5%AF%B9%E9%9D%9E%E4%BC%A0%E7%BB%9F%E5%AE%89%E5%85%A8%E6%8C%91%E6%88%98/18420.html",
+          "snippet": "越共十三大文件已指出对我国发展事业的传统和非传统安全挑战。因此，认知与灵活、有效应对非传统安全挑战是当前紧迫性问题。",
+          "date": "2022年3月14日",
+          "position": 48
+        },
+        {
+          "title": "职场女性需要的不仅是平等，还有公平 - 世界经济论坛",
+          "link": "https://cn.weforum.org/agenda/2023/03/equity-equality-women-workplace/",
+          "snippet": "根据世界经济论坛《2022年全球性别差距报告》，只有在特定行业中，女性在领导岗位上的代表性才刚刚接近于性别平等水平，如在非政府和会员组织（47%）、教育 ...",
+          "date": "2023年3月8日",
+          "position": 49
+        },
+        {
+          "title": "推动非遗系统性保护——中华优秀传统文化绽放璀璨光彩-黑龙江省 ...",
+          "link": "https://wlt.hlj.gov.cn/wlt/c114253/202410/c00_31774531.shtml",
+          "snippet": "非遗馆中，观众沉浸式体验传统技艺；非遗工坊里，人们连连赞叹传统文化与现代审美的巧妙融合；院校课堂上，非遗传承人开阔了眼界、提升了素养；互联网空间 ...",
+          "date": "2024年10月9日",
+          "position": 50
+        },
+        {
+          "title": "第五届“非传统稳定同位素地球化学”暑期学校三号通知 - 成都理工新闻网",
+          "link": "https://news.cdut.edu.cn/info/1005/47765.htm",
+          "snippet": "非传统稳定同位素. 在行星科学中的应用. 邓正宾. 中国科学技术大学. 16:10-17:40. 非传统稳定同位素. 在宜居性方面的应用. 张飞飞. 南京大学. 08.08. 08:30-10:00. 非传统 ...",
+          "position": 51
+        },
+        {
+          "title": "[PDF] 妇女权利是人权联合国 - ohchr",
+          "link": "https://www.ohchr.org/sites/default/files/Documents/Publications/HR-PUB-14-2_ch.pdf",
+          "snippet": "被强迫或非自愿失踪问题工作组也认识到失踪具有针对特定性别. 的特点，无论 ... 进行理解，同时还要考虑到性别不平等、妇女的传统角色、性别. 化劳动力市场、全球 ...",
+          "position": 52
+        },
+        {
+          "title": "余潇枫：非传统安全与国家安全学“再定位” - 浙江省社科联",
+          "link": "https://www.zjskw.gov.cn/art/2021/12/16/art_1229556991_43665.html",
+          "snippet": "其实不管哪一类非传统安全，都有着明显的如不确定性、跨国性、非国家行为体参与性、非对称性、不易控性等“非传统性”。 国家安全学的“杂合性”. 学科的 ...",
+          "date": "2021年12月16日",
+          "position": 53
+        },
+        {
+          "title": "非传统认知的毒品知识科普 - 新田县",
+          "link": "https://www.xt.gov.cn/xtcgj/0101/202303/cb5a9b8fb3e844c187fb376334582b5a.shtml",
+          "snippet": "如果大剂量使用会引起人精神错乱及思想障碍，有人会出现类似于妄想性精神分裂症的情况，变得多疑并出现种种幻听。 “神仙水”. “神仙水它们与MDMA、氯胺酮一起 ...",
+          "date": "2023年3月22日",
+          "position": 54
+        },
+        {
+          "title": "习近平：没有网络安全就没有国家安全 - 中央网信办",
+          "link": "http://www.cac.gov.cn/2018-12/27/c_1123907720.htm",
+          "snippet": "世界面临的不稳定性不确定性突出，世界经济增长动能不足，贫富分化日益严重，地区热点问题此起彼伏，恐怖主义、网络安全、重大传染性疾病、气候变化等非传统 ...",
+          "date": "2018年12月27日",
+          "position": 55
+        },
+        {
+          "title": "国家安全，习近平总书记心中的“头等大事” - 求是网",
+          "link": "http://www.qstheory.cn/zhuanqu/2024-04/15/c_1130109410.htm",
+          "snippet": "... 传统安全和非传统安全、自身安全和共同安全”。 2021年11月，党的十九届六 ... 性谋划、整体性推进国家安全工作的系统思维方法。 总体国家安全观 ...",
+          "date": "2024年4月15日",
+          "position": 56
+        },
+        {
+          "title": "国家级非物质文化遗产代表性项目名录",
+          "link": "https://www.ihchina.cn/project.html",
+          "snippet": "国家级名录将非物质文化遗产分为十大门类，其中五个门类的名称在2008年有所调整，并沿用至今。十大门类分别为：民间文学，传统音乐，传统舞蹈，传统戏剧，曲艺，传统体育、游艺与 ...",
+          "position": 57
+        },
+        {
+          "title": "国务院关于公布第五批国家级非物质文化遗产代表性项目名录的通知",
+          "link": "https://www.gov.cn/zhengce/content/2021-06/10/content_5616457.htm",
+          "snippet": "发布日期： · 一、民间文学（共计12项） · 二、传统音乐（共计19项） · 三、传统舞蹈（共计13项） · 四、传统戏剧（共计9项） · 五、曲艺（共计18项） · 六、传统体育、游艺 ...",
+          "date": "2021年6月10日",
+          "position": 58
+        },
+        {
+          "title": "加强非传统安全领域立法保障国家安全 - 西安交通大学- 管理学院",
+          "link": "https://som.xjtu.edu.cn/info/1403/5754.htm",
+          "snippet": "“可以说，在全球化的今天，任何国家的安全都面临着传统安全和非传统安全问题的双重挑战，需要在不同层面对二者的关联性挑战保持警惕。”毕雁英说。 非传统安全 ...",
+          "date": "2021年4月13日",
+          "position": 59
+        },
+        {
+          "title": "[PDF] 跨性别者性别认同的法律承认",
+          "link": "https://www.undp.org/sites/g/files/zskgke326/files/migration/asia_pacific_rbap/81e35c0bbe5b80d746519d11bb00d20cb33c8990b529c6664137bf2127ce73cd.pdf",
+          "snippet": "... 非传统家庭。因为自2016 年1 月1. 日起施行的较之《人类辅助生殖技术管理办法》 ... 世界跨性别健康专业协会(WPATH) 制定的. 《变性者、跨性别者、和非性别常规者的 ...",
+          "position": 60
+        },
+        {
+          "title": "[PDF] 体育运动中的性别平等、公平及包容性表述 - Olympics",
+          "link": "https://stillmed.olympics.com/media/Documents/Beyond-the-Games/Gender-Equality-in-Sport/IOC-Portrayal-Guidelines-Simplified-Chinese.pdf",
+          "snippet": "会群体形成的联想或态度（Catalyst，2019年）。 性别刻板印象：仅根据对方的性别而对其传统指定⻆色、 ... 记得要展现“运动吸引⼒，而非. 性吸引⼒”。 建议：创建一个性别 ...",
+          "position": 61
+        },
+        {
+          "title": "过渡金属在非传统芳香性方面展现魅力-能源材料化学协同创新中心",
+          "link": "https://2011-ichem.xmu.edu.cn/info/1059/6711.htm",
+          "snippet": "近日，厦门大学化学化工学院朱军课题组在芳香性方面取得阶段性进展，相关成果以“Unconventional Aromaticity in Organometallics: The Power of ...",
+          "date": "2019年5月10日",
+          "position": 62
+        },
+        {
+          "title": "中美传统与非传统安全问题合作",
+          "link": "https://carnegieendowment.org/events/2014/06/us-china-cooperation-on-traditional-and-nontraditional-security?lang=zh",
+          "snippet": "一位专家还强调了通过各种机制巩固中美两国能源管理的重要性，例如发展出核同位素的高精度世界标准统计报告制度。 传统安全合作：一位专家指出，当前的中美 ...",
+          "date": "2014年6月19日",
+          "position": 63
+        },
+        {
+          "title": "[PDF] 中国关于“致命性自主武器系统”问题的工作文件 - UNODA",
+          "link": "https://documents.unoda.org/wp-content/uploads/2022/07/Working-Paper-of-the-Peoples-Republic-of-China-on-Lethal-Autonomous-Weapons-SystemsChinese.pdf",
+          "snippet": "... 传统领域和人工. 智能等非传统领域全球性问题，构建有效的治理机制。 “致命性自主武器系统”（LAWS）是人工智能技术等新兴科技发. 展的产物，既关乎国防安全，也事关人道 ...",
+          "position": 64
+        },
+        {
+          "title": "保加利亚禁宣传LGBTQ 欧洲理事会人权专员关切 - RFI",
+          "link": "https://www.rfi.fr/cn/%E8%BF%90%E5%8A%A8%E5%A4%A9%E5%9C%B0/20240813-%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%E7%A6%81%E5%AE%A3%E4%BC%A0lgbtq-%E6%AC%A7%E6%B4%B2%E7%90%86%E4%BA%8B%E4%BC%9A%E4%BA%BA%E6%9D%83%E4%B8%93%E5%91%98%E5%85%B3%E5%88%87",
+          "snippet": "法新社报导，保加利亚7日通过教育法规修正案，扩大禁止学校「宣传」非传统性别取向LGBTQ（女同性恋、男同性恋、双性恋、跨性别及酷儿）的适用范围，人权 ...",
+          "date": "2024年8月13日",
+          "position": 65
+        },
+        {
+          "title": "[PDF] 非传统安全困境的化解路径 - 汉斯出版社",
+          "link": "https://pdf.hanspub.org/ass20210900000_95676418.pdf",
+          "snippet": "如果说传统安全聚焦于军事安全与政治安全，. 那么非传统安全主要涉及非军事领域，如恐怖主义、环境问题、难民问题等，这些问题均具有跨国性的. 特征，需要国家 ...",
+          "date": "2021年9月1日",
+          "position": 66
+        },
+        {
+          "title": "非传统血脂指标与动脉粥样硬化性心血管疾病风险管理中国专家共识",
+          "link": "https://rs.yiigle.com/CN112150202204/1369531.htm",
+          "snippet": "非传统血脂指标与动脉粥样硬化性心血管疾病风险管理中国专家共识 ... 中华预防医学杂志,2022, 56 (04): 405-421. 动脉粥样硬化性心血管疾病是以动脉粥样硬化 ...",
+          "date": "2022年4月6日",
+          "position": 67
+        },
+        {
+          "title": "“十四五”新词典：“统筹传统安全和非传统安全” - 河北新闻",
+          "link": "https://heb.hebei.com.cn/system/2020/12/02/100531920.shtml",
+          "snippet": "... 非传统措施和手段的重要性。2002年，党的十六大报告作出的“传统安全威胁和非传统安全威胁的因素相互交织”的判断，特别是2004年《中共中央关于加强党的 ...",
+          "date": "2020年12月2日",
+          "position": 68
+        },
+        {
+          "title": "非传统安全视阈下网络意识形态安全治理 - 中国警察网",
+          "link": "https://www.cpd.com.cn/n15737398/n26490099/323/t_1075027.html",
+          "snippet": "传统安全主要指与国家生存发展密切相关的显性要素，主要体现为政治安全、军事安全、外交安全等。非传统安全是总体国家安全中除去传统安全部分的所有安全 ...",
+          "date": "2023年3月10日",
+          "position": 69
+        },
+        {
+          "title": "关于转发《非传统数据统计应用指导意见》的通知",
+          "link": "https://stjj.suining.gov.cn/zwgk/show/8fdae5e6e7894c8f899a6d86e3591cd1.html",
+          "snippet": "各县(区)统计局、国开区经济贸易局、河东新区经济发展局：. 为贯彻落实中央《关于深化统计管理体制改革提高统计数据真实性的意见》，加强非传统数据在 ...",
+          "date": "2018年1月24日",
+          "position": 70
+        },
+        {
+          "title": "长离子位移铁电的非传统性 - 物质科学与技术学院",
+          "link": "https://spst.shanghaitech.edu.cn/2024/0329/c2117a1093446/page.htm",
+          "snippet": "长离子位移铁电的非传统性. 时间：2024-03-29浏览：65 设置. A+ A-. 夜晚模式. Copyright © 上海科技大学版权所有. 地址：上海市浦东新区华夏中路393号物质科学与技术学院.",
+          "position": 71
+        },
+        {
+          "title": "中国非传统安全研究报告（2021～2022）_皮书数据库",
+          "link": "https://www.pishu.com.cn/skwx_ps/bookdetail?SiteID=14&ID=15248953",
+          "snippet": "当前全球不仅面临着俄乌冲突危机所带来的直接的或间接的传统安全与非传统安全相互交织的威胁，还面临气候变化、重大传染性疾病疫情、跨国犯罪、恐怖主义、 ...",
+          "date": "2024年3月1日",
+          "position": 72
+        },
+        {
+          "title": "[PDF] 非传统安全视域下中日公共卫生安全合作及其治理",
+          "link": "https://sir.sysu.edu.cn/sites/sysusir.prod.dpcms8.sysu.edu.cn/files/download/upload/%E9%9D%9E%E4%BC%A0%E7%BB%9F%E5%AE%89%E5%85%A8%E8%A7%86%E5%9F%9F%E4%B8%8B%E4%B8%AD%E6%97%A5%E5%85%AC%E5%85%B1%E5%8D%AB%E7%94%9F%E5%AE%89%E5%85%A8%E5%90%88%E4%BD%9C%E5%8F%8A%E5%85%B6%E6%B2%BB%E7%90%86_%E9%AD%8F%E5%BF%97%E6%B1%9F.pdf",
+          "snippet": "再次,主权国家是传统安全保障的唯一. 主体,但是传染病防治无法由单一主权国家进行,必须发动其他行为主体共. 同合作,甚至有非国家主体主导的可能性,即所谓 ...",
+          "date": "2020年4月14日",
+          "position": 73
+        },
+        {
+          "title": "国务院关于公布第五批国家级非物质文化遗产代表性项目名录的通知",
+          "link": "https://zwgk.mct.gov.cn/zfxxgkml/fwzwhyc/202106/t20210610_925136.html",
+          "snippet": "一、民间文学（共计12项） · 二、传统音乐（共计19项） · 三、传统舞蹈（共计13项） · 四、传统戏剧（共计9项） · 五、曲艺（共计18项） · 六、传统体育、游艺与杂技（共计 ...",
+          "date": "2021年5月24日",
+          "position": 74
+        },
+        {
+          "title": "From access to empowerment: UNESCO strategy for gender ...",
+          "link": "https://unesdoc.unesco.org/ark:/48223/pf0000371437",
+          "snippet": "... 非正规和非正式教育）方面的专业知识； f 全球号召力，包括作为联合国专门的教育 ... f 支持国家合作伙伴利用传统媒体和社交媒体扩大学习，让家长和社区参与其中 ...",
+          "position": 75
+        },
+        {
+          "title": "非传统酵母代谢工程研究进展",
+          "link": "https://cjb.ijournals.cn/html/cjbcn/2021/5/gc21051659.htm",
+          "snippet": "相比酿酒酵母，非传统酵母具有许多工业生产相关的生理代谢优势和特性，比如底物利用多样性、环境耐受性强、蛋白合成分泌能力强、生长速度快、适合高密度发酵等，这些特点吸引 ...",
+          "position": 76
+        },
+        {
+          "title": "[PDF] 中国目前面临的主要非传统安全问题及其排序",
+          "link": "http://www.ims.sdu.edu.cn/__local/9/73/57/3F046BFE779348E1D39254C97DC_4F0794BC_182CB.pdf",
+          "snippet": "非传统安全问题随着全球化的发展越来越突出,. 因为跨国的经济、社会联系使国家间的社会、经济问题. 更具传导性,国家易受外部影响的敏感性与脆弱性随. 之加深、加强,社会和 ...",
+          "position": 77
+        },
+        {
+          "title": "非物质文化遗产代表性名录中，项目类别分别有哪些？ - 深圳市人民政府",
+          "link": "https://www.sz.gov.cn/ztfw/gysy/wyw_183970/ywzsk_184570/content/post_11398848.html",
+          "snippet": "答：民间文学，传统音乐，传统舞蹈，传统戏剧，曲艺，传统体育、游艺与杂技，传统美术，传统技艺，传统医药，民俗。 分享到：. 微信扫一扫：分享. 扫一 ...",
+          "date": "2024年6月30日",
+          "position": 78
+        },
+        {
+          "title": "[PDF] 消除性别差距- 金融与发展",
+          "link": "https://www.imf.org/external/chinese/pubs/ft/fandd/2019/03/pdf/closing-the-gender-gap-dabla.pdf",
+          "snippet": "劳动力参与率较低，而且在非正式行业中，带. 薪工作的女性比例偏低。这一点尤其 ... 典，这项政策帮助母亲更快地回到工作岗位，改. 变了育儿方面潜在的性别角色的传统。",
+          "position": 79
+        },
+        {
+          "title": "[PDF] 海湾国家非传统安全现状评析＊ - 中国中东研究网",
+          "link": "http://www.mesi.shisu.edu.cn/_upload/article/56/67/a73767e6429e98c71b6430f258ed/3f745587-6529-4b17-a428-b6a854771f02.pdf",
+          "snippet": "同大多数国家一样，非传统安全因素带来的挑战使海湾国家的安全环境与安全形势面临转折. 性变化，其中既有世界各国面临的共性问题，也有该地区特殊背景下的个性问题。 （一）人口 ...",
+          "position": 80
+        },
+        {
+          "title": "非传统商标",
+          "link": "https://www.chinalawinsight.com/tags/%E9%9D%9E%E4%BC%A0%E7%BB%9F%E5%95%86%E6%A0%87/",
+          "snippet": "... 性的非传统商标的保护上更进一步。本文在这里就简要介绍一些国际上对颜色商标（主要是单一颜色）保护的经典案例以作参考。 世界上最早认可的颜色商标 ...",
+          "date": "2014年11月28日",
+          "position": 81
+        },
+        {
+          "title": "[PDF] 中国非传统安全研究",
+          "link": "http://www.tuiir.tsinghua.edu.cn/__local/F/AC/67/879445C4F53B1F6743A19B00162_24EE7C1D_EAC95.pdf?e=.pdf",
+          "snippet": "《人类发展报告》和《和平纲领》标志着. 联合国新安全观的形成。② 联合国对安全的概念从领土防御、国家利益和. 核威慑拓展至“普遍性关注”和冲突预防等领域， ...",
+          "position": 82
+        },
+        {
+          "title": "广州市从化区人民政府关于从化区区级非物质文化遗产代表性项目 ...",
+          "link": "http://www.conghua.gov.cn/zwgk/zcfg/qfwj/content/post_9949460.html",
+          "snippet": "... 性名录的通知》（从府〔2013〕1号）中的区级非遗项目传统技艺《吕田大肉》更名为《吕田大肉烹饪技艺》，及公布文件《从化市人民政府关于公布从化市第三批非 ...",
+          "date": "5天前",
+          "position": 83
+        },
+        {
+          "title": "女性的劳动收入空间：赋权的乌托邦与空间性别效益的异化",
+          "link": "http://cidrn.cau.edu.cn/art/2020/10/25/art_38604_713129.html",
+          "snippet": "基于传统的家庭性别劳动分工，而非打乱现有的分工模式设计，旨在缓解贫困的妇女发展干预项目是在传统乡村社会推动性别平等的可行路径。按照这一路径 ...",
+          "date": "2020年10月25日",
+          "position": 84
+        },
+        {
+          "title": "浙江南浔荻港古镇：探访非遗里的中国陈列馆 - 央视网",
+          "link": "https://news.cctv.com/2024/10/29/ARTI0fAJryJseGNfIa3kNRIU241029.shtml",
+          "snippet": "大型文化节目《非遗里的中国》第二季正在中央广播电视总台热播，节目生动呈现传统 ... 丝织造技艺（双林绫绢织造技艺）国家级非遗代表性传承人郑小华：今年搞了 ...",
+          "date": "6天前",
+          "position": 85
+        },
+        {
+          "title": "[PDF] 总体国家安全观视域下中国.东盟非传统安全合作探析",
+          "link": "https://iir.sass.org.cn/_upload/article/files/67/44/0639d0be40838b5976012cdc86e3/e4c15792-ce86-4a18-a70c-66077734051a.pdf",
+          "snippet": "东盟非传统安全合作的前景#虽然面临全球性的非传统安全治理困境#但. 是富含共同&综合与合作安全内涵的总体国家安全观从理念层面为中国.东盟. 非传统安全合作超越治理困境 ...",
+          "position": 86
+        },
+        {
+          "title": "[PDF] 关于非传统商标应当具有显著特征的指引",
+          "link": "https://www.cnipa.gov.cn/module/download/downfile.jsp?classid=0&showname=%E3%80%8A%E5%85%B3%E4%BA%8E%E9%9D%9E%E4%BC%A0%E7%BB%9F%E5%95%86%E6%A0%87%E5%BA%94%E5%BD%93%E5%85%B7%E6%9C%89%E6%98%BE%E8%91%97%E7%89%B9%E5%BE%81%E7%9A%84%E6%8C%87%E5%BC%95%E3%80%8B.pdf&filename=a1bc686cb3c8420cad8cecb9aee85590.pdf",
+          "snippet": "为帮助相关经营主体了解三维标志商标、. 颜色组合商标、声音商标等非传统商标在显著特征方面的. 要求，引导其正确申请注册和使用非传统商标，制定本指 ... 具体描述性内容进行 ...",
+          "position": 87
+        },
+        {
+          "title": "习近平用典｜中非那些相融相通的谚语典故 - 新华网",
+          "link": "http://www.news.cn/politics/leaders/20240906/80e3639f32f2411c864c6e03bb8f162f/c.html",
+          "snippet": "中非传统价值观的共通性拉近了彼此间距离，为中非携手共筑高水平中非命运共同体奠定了文化思想基础。中国和非洲，虽山海远隔，却理念相通。 乌班图 ...",
+          "date": "2024年9月6日",
+          "position": 88
+        },
+        {
+          "title": "2020“第三届非传统安全（杭州）国际论坛”隆重召开",
+          "link": "http://www.nts.zju.edu.cn/2020/1124/c24959a2358549/page.htm",
+          "snippet": "... 非传统安全研究。 图片 广西壮族自治区东南亚经济与政治研究院副院 ... 性学术网站，无任何商业目的因部分文章来源于网络，如有侵权请来邮或来电 ...",
+          "date": "2020年11月24日",
+          "position": 89
+        },
+        {
+          "title": "中国边疆非传统安全治理体系与能力现代化的理论建构 - 思想战线",
+          "link": "http://www.sxzx.ynu.edu.cn/CN/Y2021/V47/I2/52",
+          "snippet": "随着“一带一路”建设的推进，中国由地区性大国向全球性大国迈进...",
+          "position": 90
+        },
+        {
+          "title": "伴盟跨性別資訊平台: 認識跨性別",
+          "link": "https://transgender.tapcpr.org/",
+          "snippet": "「跨性別」三個字，從字面的含義解讀是指跨越傳統性別疆界的人。目前精神醫學與性別團體多採狹義定義，也就是：「出生指定性別」和「性別認同」狀態不一致的人，反之「出生 ...",
+          "position": 91
+        },
+        {
+          "title": "践行全球安全观建设普遍安全的世界 - 外交学会",
+          "link": "https://www.cpifa.org/cms/book/197",
+          "snippet": "各种风险挑战层出不穷，“逆全球化”暗流涌动，冷战思维沉渣泛起，世界经济增长乏力，公共卫生、恐怖主义、新型犯罪等全球性非传统安全威胁愈加突出，复杂和不确定性成为国际安全 ...",
+          "position": 92
+        },
+        {
+          "title": "非二元性別者是什麼？和傳統二元性別有何不同呢？ - Yahoo奇摩新聞",
+          "link": "https://tw.news.yahoo.com/%E5%AE%87%E5%A4%9A%E7%94%B0%E5%85%89-%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%A5%E8%80%85-nonbinary-mx-lgbtq-072148175.html",
+          "snippet": "非二元性別者是什麼？ · 流體性別（genderfluid）：性別認同會在兩個以上的性別間流動。 · 無性別者（agender）：未發育性別或自認不屬於任何一種性別，對任何性別 ...",
+          "date": "2021年6月30日",
+          "position": 93
+        },
+        {
+          "title": "国际三八妇女节:王政教授专访 - University of Michigan News",
+          "link": "https://news.umich.edu/zh-hans/%E5%9B%BD%E9%99%85%E4%B8%89%E5%85%AB%E5%A6%87%E5%A5%B3%E8%8A%82%E7%8E%8B%E6%94%BF%E6%95%99%E6%8E%88%E4%B8%93%E8%AE%BF/",
+          "snippet": "在体制内外女权主义者的共同努力下，联合国倡导的社会性别主流化也进入官方媒体，社会性别培训成为世妇会以后一项重要的中国女权行动。学界女学者也积极开展妇女学学科发展 ...",
+          "position": 94
+        },
+        {
+          "title": "認識跨性別– 跨性別Transgender",
+          "link": "https://transgender.taipei/%E8%AA%8D%E8%AD%98%E8%B7%A8%E6%80%A7%E5%88%A5/",
+          "snippet": "一個人的生理構造跟性別認同不一致的狀態；但實際上，只要在性別認同、行為舉止、外貌與裝扮等等表現上，跨越了傳統男女二分框架的表現，都可以稱為跨性別。 ... 非二元性別（Non- ...",
+          "position": 95
+        },
+        {
+          "title": "[PDF] 克拉玛依区“十四五”非传统能源规划",
+          "link": "http://www.klmyq.gov.cn/klmyq/zdjc/202401/836f2259b71b4df59295d0187cb62585/files/%E5%85%8B%E6%8B%89%E7%8E%9B%E4%BE%9D%E5%8C%BA%E2%80%9D%E5%8D%81%E5%9B%9B%E4%BA%94%E2%80%9D%E9%9D%9E%E4%BC%A0%E7%BB%9F%E8%83%BD%E6%BA%90%E8%A7%84%E5%88%92%EF%BC%88%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81%E7%A8%BF%EF%BC%89.pdf",
+          "snippet": "近年来，随着全面落. 实能源安全新战略的不断深入实施，围绕石油石化基地建设，积极推进能源供给. 侧结构性改革，着力加强能源供给保障，有序发展新能源产业已成为克拉玛依能.",
+          "position": 96
+        },
+        {
+          "title": "“东盟地区论坛（ARF）非传统安全领域预防性外交研讨会”在宁举行",
+          "link": "https://nanhai.nju.edu.cn/95/dd/c5327a169437/page.htm",
+          "snippet": "2016年11月21-23日，受中华人民共和国外交部委托，北京外交学院与南京大学在南京共同承办“2016东盟地区论坛（ARF）非传统安全领域预防性外交研讨会”。",
+          "date": "2016年11月24日",
+          "position": 97
+        },
+        {
+          "title": "非传统安全观下外语教育人才培养研究 - 光明网",
+          "link": "https://www.gmw.cn/xueshu/2023-04/27/content_36528717.htm",
+          "snippet": "总体国家安全观是指在国家安全领域中，综合考虑经济、政治、军事、文化、社会、科技等各个方面的因素，是一种综合性安全理念和战略。总体国家安全观的提出 ...",
+          "date": "2023年4月27日",
+          "position": 98
+        },
+        {
+          "title": "[PDF] 中国社会男女平等吗",
+          "link": "http://www.shehui.pku.edu.cn/upload/editor/file/20171116/20171116155825_3031.pdf",
+          "snippet": "点关注的现象之一是传统性别意识形态的回潮，[1] 近期的多项研究也从 ... 从事非农业劳动对女性的性别不平等认知有显著影响，可能也在一定程度上 ...",
+          "date": "2017年11月16日",
+          "position": 99
+        }
+      ],
+      "images": [
+        {
+          "title": "非二元性别：打破传统二元论，建造多元的性别色谱体系| 歪腦WHYNOT",
+          "imageUrl": "https://s3cdn.wainao.me/2021-12/cover-photos/1920x1080.jpg",
+          "link": "https://www.wainao.me/wainao-watches/explainer-gender-nonbinary-12282021"
+        },
+        {
+          "title": "不只是雌雄：性别的起源和流动丨浙江大学生命演化研究中心",
+          "imageUrl": "https://evolution.zju.edu.cn/upload/20231207/f9d0e9b1d2b84f39bfd97b60c525f9a9.png",
+          "link": "https://evolution.zju.edu.cn/science/detail55.html"
+        },
+        {
+          "title": "应对非传统安全威胁– Indo-Pacific Defense Forum",
+          "imageUrl": "http://ipdefenseforum.com/wp-content/uploads/2022/12/2022-02-05T051936Z_2029095494_MT1EYEIM244089_RTRMADP_3_PHILIPPINE-ARMY-TYPHOON-RELIEF.jpg",
+          "link": "https://ipdefenseforum.com/zh-hans/2022/12/%E5%BA%94%E5%AF%B9%E9%9D%9E%E4%BC%A0%E7%BB%9F-%E5%AE%89%E5%85%A8%E5%A8%81%E8%83%81/"
+        },
+        {
+          "title": "非传统安全理论图景",
+          "imageUrl": "https://pic.cp.com.cn/Images/2024/3/26/14210358c16e4101-6_hwc268268.jpg",
+          "link": "https://www.cp.com.cn/book/be1cbf9c-2.html"
+        },
+        {
+          "title": "非二元性别- 维基百科，自由的百科全书",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Non-binary_preferred_pronouns_chart.png/200px-Non-binary_preferred_pronouns_chart.png",
+          "link": "https://zh.wikipedia.org/zh-cn/%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%A5"
+        },
+        {
+          "title": "不只是雌雄：性别的起源和流动丨浙江大学生命演化研究中心",
+          "imageUrl": "https://evolution.zju.edu.cn/upload/20231207/b8bb91baa1804a22b5962dc3d2dad763.png",
+          "link": "https://evolution.zju.edu.cn/science/detail55.html"
+        },
+        {
+          "title": "56种新性别，当哪个？-观察者网",
+          "imageUrl": "http://i.guancha.cn/News/2014/02/16/635281465540230120.jpg!m.jpg",
+          "link": "https://www.guancha.cn/america/2014_02_16_206292.shtml"
+        },
+        {
+          "title": "非二元性别- 维基百科，自由的百科全书",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Marche_des_Fiert%C3%A9s_Paris_02_07_2016_06.jpg",
+          "link": "https://zh.wikipedia.org/zh-cn/%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%A5"
+        },
+        {
+          "title": "麦肯锡专题报告∣新时代的半边天：中国职场性别平等现状与展望 ...",
+          "imageUrl": "https://www.mckinsey.com.cn/wp-content/uploads/2023/08/feature-image_764x437.jpg",
+          "link": "https://www.mckinsey.com.cn/%E9%BA%A6%E8%82%AF%E9%94%A1%E4%B8%93%E9%A2%98%E6%8A%A5%E5%91%8A%E2%88%A3%E6%96%B0%E6%97%B6%E4%BB%A3%E7%9A%84%E5%8D%8A%E8%BE%B9%E5%A4%A9%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%81%8C%E5%9C%BA%E6%80%A7%E5%88%AB/"
+        }
+      ],
+      "peopleAlsoAsk": [
+        {
+          "question": "Gender有几种？",
+          "snippet": "其实，性别的定义有很多方式，严格一点说，一个个体起码具备六种性别模式，这六种性别模式都统一，才能确定其真正意义上的雄性或者雌性，否则就会出现性别模糊或性征模糊。 生物的六种性别模式包括染色体性别、基因性别、性腺性别、生殖器性别、心理性别和社会性别。",
+          "title": "六种性别_百度百科",
+          "link": "https://baike.baidu.com/item/%E5%85%AD%E7%A7%8D%E6%80%A7%E5%88%AB/11023723"
+        },
+        {
+          "question": "Nonbinary是什么意思？",
+          "snippet": "这是被一些L.G.B.T.Q. 群体成员认为是一大进步的最新例子。” Nonbinary在这里指“非二元性别的”，也被广泛称作Genderqueer（性别酷儿），用来指称那些超越传统意义上对男性或女性的二元划分、不单纯属于男性或女性的自我性别认同。\n2018年11月27日",
+          "title": "Nonbinary：男女之外，性别的第三个选项 - 纽约时报",
+          "link": "https://cn.nytimes.com/culture/20181127/wod-nonbinary/"
+        },
+        {
+          "question": "Cisgender是什么意思？",
+          "snippet": "顺性别（英语：Cisgender）是指性别认同与出生时指定性别相同的人的一个术语。 例如：一个人的性别认同是女性并且出生时被指定女性，这个人就是顺性别女性。 顺性别一词与跨性别刚好相反。 以顺性别为标准看待社会的世界观被称作“顺性别主义”（cissexism）。",
+          "title": "顺性别- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E9%A0%86%E6%80%A7%E5%88%A5"
+        },
+        {
+          "question": "Gender queer是什么意思？",
+          "snippet": "性别酷儿（genderqueer）是一种性别认同，或对性别的体验或表达方式。 不同于主流的男女性别二元观念（认为仅存在男性和女性两种性别），性别酷儿可能觉得自己的性别处在男性和女性之间，觉得自己既非男性也非女性，或者既是男性也是女性，或者完全拒绝任何“性别”。",
+          "title": "性别酷儿_百度百科",
+          "link": "https://baike.baidu.com/item/%E6%80%A7%E5%88%AB%E9%85%B7%E5%84%BF/55793875"
+        }
+      ],
+      "relatedSearches": [
+        {
+          "query": "非二元论"
+        },
+        {
+          "query": "非二元人"
+        },
+        {
+          "query": "Nonbinary"
+        },
+        {
+          "query": "non binary什么意思"
+        },
+        {
+          "query": "non binary中文"
+        },
+        {
+          "query": "非二元是什么意思"
+        },
+        {
+          "query": "non-binary gender"
+        },
+        {
+          "query": "non binary gender中文"
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "非传统性别",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "浙江南浔荻港古镇：探访非遗里的中国陈列馆 - 央视网",
+          "link": "https://news.cctv.com/2024/10/29/ARTI0fAJryJseGNfIa3kNRIU241029.shtml",
+          "snippet": "大型文化节目《非遗里的中国》第二季正在中央广播电视总台热播，节目生动呈现传统 ... 丝织造技艺（双林绫绢织造技艺）国家级非遗代表性传承人郑小华：今年搞了 ...",
+          "date": "6天前",
+          "position": 1
+        },
+        {
+          "title": "[PDF] 总体国家安全观视域下中国.东盟非传统安全合作探析",
+          "link": "https://iir.sass.org.cn/_upload/article/files/67/44/0639d0be40838b5976012cdc86e3/e4c15792-ce86-4a18-a70c-66077734051a.pdf",
+          "snippet": "东盟非传统安全合作的前景#虽然面临全球性的非传统安全治理困境#但. 是富含共同&综合与合作安全内涵的总体国家安全观从理念层面为中国.东盟. 非传统安全合作超越治理困境 ...",
+          "position": 2
+        },
+        {
+          "title": "习近平用典｜中非那些相融相通的谚语典故 - 新华网",
+          "link": "http://www.news.cn/politics/leaders/20240906/80e3639f32f2411c864c6e03bb8f162f/c.html",
+          "snippet": "中非传统价值观的共通性拉近了彼此间距离，为中非携手共筑高水平中非命运共同体奠定了文化思想基础。中国和非洲，虽山海远隔，却理念相通。 乌班图 ...",
+          "date": "2024年9月6日",
+          "position": 3
+        },
+        {
+          "title": "中国边疆非传统安全治理体系与能力现代化的理论建构 - 思想战线",
+          "link": "http://www.sxzx.ynu.edu.cn/CN/Y2021/V47/I2/52",
+          "snippet": "随着“一带一路”建设的推进，中国由地区性大国向全球性大国迈进...",
+          "position": 4
+        },
+        {
+          "title": "伴盟跨性別資訊平台: 認識跨性別",
+          "link": "https://transgender.tapcpr.org/",
+          "snippet": "「跨性別」三個字，從字面的含義解讀是指跨越傳統性別疆界的人。目前精神醫學與性別團體多採狹義定義，也就是：「出生指定性別」和「性別認同」狀態不一致的人，反之「出生 ...",
+          "position": 5
+        },
+        {
+          "title": "践行全球安全观建设普遍安全的世界 - 外交学会",
+          "link": "https://www.cpifa.org/cms/book/197",
+          "snippet": "各种风险挑战层出不穷，“逆全球化”暗流涌动，冷战思维沉渣泛起，世界经济增长乏力，公共卫生、恐怖主义、新型犯罪等全球性非传统安全威胁愈加突出，复杂和不确定性成为国际安全 ...",
+          "position": 6
+        },
+        {
+          "title": "国际三八妇女节:王政教授专访 - University of Michigan News",
+          "link": "https://news.umich.edu/zh-hans/%E5%9B%BD%E9%99%85%E4%B8%89%E5%85%AB%E5%A6%87%E5%A5%B3%E8%8A%82%E7%8E%8B%E6%94%BF%E6%95%99%E6%8E%88%E4%B8%93%E8%AE%BF/",
+          "snippet": "在体制内外女权主义者的共同努力下，联合国倡导的社会性别主流化也进入官方媒体，社会性别培训成为世妇会以后一项重要的中国女权行动。学界女学者也积极开展妇女学学科发展 ...",
+          "position": 7
+        },
+        {
+          "title": "“东盟地区论坛（ARF）非传统安全领域预防性外交研讨会”在宁举行",
+          "link": "https://nanhai.nju.edu.cn/95/dd/c5327a169437/page.htm",
+          "snippet": "2016年11月21-23日，受中华人民共和国外交部委托，北京外交学院与南京大学在南京共同承办“2016东盟地区论坛（ARF）非传统安全领域预防性外交研讨会”。",
+          "date": "2016年11月24日",
+          "position": 8
+        },
+        {
+          "title": "非二元性別者是什麼？和傳統二元性別有何不同呢？ - Yahoo奇摩新聞",
+          "link": "https://tw.news.yahoo.com/%E5%AE%87%E5%A4%9A%E7%94%B0%E5%85%89-%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%A5%E8%80%85-nonbinary-mx-lgbtq-072148175.html",
+          "snippet": "非二元性別者是什麼？ · 流體性別（genderfluid）：性別認同會在兩個以上的性別間流動。 · 無性別者（agender）：未發育性別或自認不屬於任何一種性別，對任何性別 ...",
+          "date": "2021年6月30日",
+          "position": 9
+        },
+        {
+          "title": "[PDF] 克拉玛依区“十四五”非传统能源规划",
+          "link": "http://www.klmyq.gov.cn/klmyq/zdjc/202401/836f2259b71b4df59295d0187cb62585/files/%E5%85%8B%E6%8B%89%E7%8E%9B%E4%BE%9D%E5%8C%BA%E2%80%9D%E5%8D%81%E5%9B%9B%E4%BA%94%E2%80%9D%E9%9D%9E%E4%BC%A0%E7%BB%9F%E8%83%BD%E6%BA%90%E8%A7%84%E5%88%92%EF%BC%88%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81%E7%A8%BF%EF%BC%89.pdf",
+          "snippet": "近年来，随着全面落. 实能源安全新战略的不断深入实施，围绕石油石化基地建设，积极推进能源供给. 侧结构性改革，着力加强能源供给保障，有序发展新能源产业已成为克拉玛依能.",
+          "position": 10
+        },
+        {
+          "title": "非传统安全观下外语教育人才培养研究 - 光明网",
+          "link": "https://www.gmw.cn/xueshu/2023-04/27/content_36528717.htm",
+          "snippet": "总体国家安全观是指在国家安全领域中，综合考虑经济、政治、军事、文化、社会、科技等各个方面的因素，是一种综合性安全理念和战略。总体国家安全观的提出 ...",
+          "date": "2023年4月27日",
+          "position": 11
+        },
+        {
+          "title": "[PDF] 中国社会男女平等吗",
+          "link": "http://www.shehui.pku.edu.cn/upload/editor/file/20171116/20171116155825_3031.pdf",
+          "snippet": "点关注的现象之一是传统性别意识形态的回潮，[1] 近期的多项研究也从 ... 从事非农业劳动对女性的性别不平等认知有显著影响，可能也在一定程度上 ...",
+          "date": "2017年11月16日",
+          "position": 12
+        },
+        {
+          "title": "国家安全，习近平总书记心中的“头等大事” - 求是网",
+          "link": "http://www.qstheory.cn/zhuanqu/2024-04/15/c_1130109410.htm",
+          "snippet": "... 传统安全和非传统安全、自身安全和共同安全”。 2021年11月，党的十九届六 ... 性谋划、整体性推进国家安全工作的系统思维方法。 总体国家安全观 ...",
+          "date": "2024年4月15日",
+          "position": 13
+        },
+        {
+          "title": "非二元性別者是什麼？和傳統二元性別有何不同呢？ - T-Studio",
+          "link": "https://www.t-studio.info/zh-TW/blogs/our-survival-guide/73632?srsltid=AfmBOor8iQU4kPIovXxizLnD8CvPCN_2IxzpIKcJKoAmafymrJ6mKnNT",
+          "snippet": "然而，有些人的生理性別、社會性別及性別認同並不一致，也就出現了LGBTQ此縮寫。其中，L代表Lesbian，意指女同志；G代表Gay，意指男同志；B代表Bisexual，意指雙性 ...",
+          "date": "2021年7月1日",
+          "position": 14
+        },
+        {
+          "title": "“能力”之外：男女之间无法解释的工资差距 - 世界经济论坛",
+          "link": "https://cn.weforum.org/agenda/2023/11/unexplained-gender-wage-gap-japan/",
+          "snippet": "造成这种差距的原因之一，是女性作为非正式雇员的比例很高，而正式雇员和 ... 持续沿用错误的薪资传统，正是造成这些无法解释的性别工资差距的 ...",
+          "date": "2023年11月22日",
+          "position": 15
+        },
+        {
+          "title": "刘昊｜综合治理体系下非传统安全领域立法的问题与完善 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_27357065",
+          "snippet": "非传统领域安全的立法存在着权力主体权责事项不明晰、制度设计不合理以及规范不具有实践操作性等问题，需要从制度顶层设计及实践操作可能性等方面进行 ...",
+          "date": "2024年5月13日",
+          "position": 16
+        },
+        {
+          "title": "武定县人民政府关于公布武定县第五批县级非物质文化遗产代表性 ...",
+          "link": "http://www.ynwd.gov.cn/info/1011/57624.htm",
+          "snippet": "... 非物质文化遗产代表性项目及代表性传承人各项政策、措施，扎实做好我县非物质文化遗产系统性保护，推动优秀传统文化创造性转化，创新性发展，积极鼓励 ...",
+          "date": "3天前",
+          "position": 17
+        },
+        {
+          "title": "[PDF] 传统安全与非传统安全相互交织，全球安全治理失衡",
+          "link": "http://cnsubsites.chinadaily.com.cn/2023wacscn/att/site17/20231117/1700210562040.pdf",
+          "snippet": "近年来，国际热点问题层出不穷，大国战略竞争激烈，权力政治强势回. 归，地缘政治再度兴起，国际安全的不稳定性和不确定性显著上升。 一是中美关系持续低迷，双方竞争加剧。美国 ...",
+          "position": 18
+        },
+        {
+          "title": "[PDF] 中国女性职业发展报告2023 版 - Caixin",
+          "link": "https://download.caixin.com/upload/zgnxzyfzbg2023.pdf",
+          "snippet": "图中的U 型曲线，展示了社会发展水平和生育率的非线性关系。 ... 这十大建议是经济和法律上的一些平权和福利政策，在观念上也要彻. 底平权，也要打破“男主外女主内”的传统性别 ...",
+          "position": 19
+        },
+        {
+          "title": "[PDF] 将承诺变为行动: - 2030年可持续发展议程中的性别平等问题",
+          "link": "https://www.unwomen.org/sites/default/files/Headquarters/Attachments/Sections/Library/Publications/2018/SDG-report-Summary-Gender-equality-in-the-2030-Agenda-for-Sustainable-Development-2018-zh.pdf",
+          "snippet": "传统的经济政策继续加深不平等及. 人与人之间的差距。向排斥性政治和基于恐惧 ... 《2030年议程》作为一项非约束性政治承诺，. 缺乏强制执行效力，也就是说，如果某 ...",
+          "position": 20
+        },
+        {
+          "title": "坚持以维护世界和平、促进共同发展为宗旨推动构建人类命运共同体",
+          "link": "http://cn.chinadiplomacy.org.cn/node_8020539.shtml",
+          "snippet": "同时，世界面临的不稳定性不确定性突出，世界经济增长动能不足，贫富分化日益严重，地区热点问题此起彼伏，恐怖主义、网络安全、重大传染性疾病、气候变化等非传统安全威胁持续 ...",
+          "position": 21
+        },
+        {
+          "title": "[PDF] 中国农民非传统意识的萌芽及其文化环境变迁 - 湖南农业大学",
+          "link": "https://skxb.hunau.edu.cn/hnnydxxbsk/article/pdf/200905007?file_name=FA5781DA138E6151CDEA348AB7C68ECF471BC7ACBAA75E789714BFD277825D87C71C80B3D78AD4A23736F4ADF1738FA89DD654B3C00389720D9DBAC6E535A26B06E6FDDBEBC437B3&open_type=self",
+          "snippet": "人将自己对象化并确证自己本质力量，而对象. 具有反观人的主体性之功能。乡村文化是农民对象化. 的产物，其核心是村落共同体文化或家族文化。通过. 家族文化的变迁可以透视 ...",
+          "position": 22
+        },
+        {
+          "title": "国家级非物质文化遗产代表性项目代表性传承人",
+          "link": "https://www.ihchina.cn/representative.html?tid=4",
+          "snippet": "确保非物质文化遗产的传承性，是《中华人民共和国非物质文化遗产法》所规定的非物质文化遗产保护工作重要原则之一。各级非物质文化遗产代表性传承人不仅肩负着延续传统 ...",
+          "position": 23
+        },
+        {
+          "title": "[PDF] 宗教与当前非传统外交： 理论、战略与机制*",
+          "link": "https://cas.fudan.edu.cn/__local/1/F3/65/B5B6DA35CACFD1466C234DD6479_7AA165BA_129CDC.pdf?e=.pdf",
+          "snippet": "冷战结束以来，随着全球化与全球公民社会的扩展、通讯技术的飞跃和新媒体的发展，. 外交公开化趋势日益明显。由于国家利益内涵的不断重构、非传统安全议题重要性持续上升，.",
+          "position": 24
+        },
+        {
+          "title": "法经济学视野下的非传统商标保护问题 - 汉斯出版社",
+          "link": "https://www.hanspub.org/journal/paperinformation?paperid=82587",
+          "snippet": "非传统商标，即常见的文字、图形、数字等可视性平面表达之外的新型商标，如动态影像、声音、三维立体标志等。根据信息经济学与注意力经济的基本原理，非传统商标不仅有助 ...",
+          "position": 25
+        },
+        {
+          "title": "[PDF] 非传统安全挑战下的准军事力量安全角色重塑",
+          "link": "https://www.siis.org.cn/updates/cms/cms/202403/1510382785y2.pdf",
+          "snippet": "① 这里采用美国国防高级专家约翰·柯林斯（John M. Collins）的观点，其根据美军所. 参与的冲突谱系，区分了三类冲突强度：高强度（全球性核战争与常规战争），中度（有限. 战争：核 ...",
+          "position": 26
+        },
+        {
+          "title": "论西方当代性别与跨性别理论的缘起、内涵与特性 - 浙江大学学术期刊网",
+          "link": "https://www.zjujournals.com/soc/article/2021/2021-5-110.htm",
+          "snippet": "11］33；社会性别是多重的，并不是男性和女性之间的非此即彼。因此 ... 23］44概念，即：肯定非传统的异性恋（如以女性为主导的婚恋关系等）和 ...",
+          "date": "2021年10月28日",
+          "position": 27
+        },
+        {
+          "title": "落实全球安全倡议，守护世界和平安宁 - 外交部",
+          "link": "https://www.mfa.gov.cn/web/ziliao_674904/zyjh_674906/202204/t20220424_10672812.shtml",
+          "snippet": "统筹应对传统和非传统领域安全威胁，共同完善全球安全治理体系。面对多样 ... 要进一步加强国际团结抗疫，完善全球公共卫生治理，确保疫苗在发展中国家的可及性 ...",
+          "date": "2022年4月24日",
+          "position": 28
+        },
+        {
+          "title": "[PDF] 黯严黯费只需萨萨腾恩摇撞梅奇且现L嚼蜡举 - 中央大學性／別研究室",
+          "link": "https://sex.ncu.edu.tw/members/Ning/pdf/%E6%80%A7%E5%88%A5%E8%B5%B7%E9%BB%9E%E8%AB%96%EF%BC%9A%E9%9D%9E%E5%82%B3%E7%B5%B1%E6%9C%AC%E8%B3%AA%E8%AB%96%E7%9A%84%E6%80%A7%E5%88%A5%E8%A7%80.pdf",
+          "snippet": "性别起点论:非传统本质论的性别观. 宁应我 …..277. \"性\"/社会'性别的碰撞:权力建构 ... 非传统本质论的性别现. 宁应斌. 台湾中央大学哲研所. 女性主义对于变性论者的 ...",
+          "position": 29
+        },
+        {
+          "title": "非传统商标显著性的认定- 期刊论文- 法信",
+          "link": "https://www.faxin.cn/v2/qklw/content.html?gid=F693411",
+          "snippet": "期刊名称：《学位论文》; 期刊年份：2016年; 作者：郑莹; 关键词：非传统商标司法实践商标法感官性特征. 亲爱的用户：. 您当前的权限无法查看该页面的内容，点击登录或注册。",
+          "position": 30
+        },
+        {
+          "title": "中国非传统安全研究报告（2020～2021）_皮书数据库",
+          "link": "https://www.pishu.com.cn/skwx_ps/bookdetail?SiteID=14&ID=13517217",
+          "snippet": "面对全球范围内非传统安全的共同威胁，需要各国尊重世界文明多样性，以文明交流超越文明隔阂，以文明互鉴超越文明冲突，以文明共存超越文明优越，“共商、共建、 ...",
+          "date": "2021年11月1日",
+          "position": 31
+        },
+        {
+          "title": "联合国教科文组织：非物质文化遗产与性别 - 中国民俗学网",
+          "link": "https://www.chinafolklore.org/web/index.php?Page=2&NewsID=20827",
+          "snippet": "获取和参与非物质文化遗产的具体表现形式也取决于性别。例如，传统手工艺通常有赖于以互补和性别化角色（gendered roles）为基础的特定分工。另一方面，社会实践、节庆活动和 ...",
+          "position": 32
+        },
+        {
+          "title": "德纳：“LGBT”关乎中国非传统国家安全 - 昆仑策",
+          "link": "https://www.kunlunce.com/ssjj/guojipinglun/2023-05-19/169270.html",
+          "snippet": "性少数群体在国际上也被称为“LGBTQIA+”，是女同性恋（Lesbian）、男同性恋（Gay）、双性恋（Bisexual）、跨性别（Transgender）、酷儿（Queer）、间性人（Intersex）、 ...",
+          "date": "2023年5月19日",
+          "position": 33
+        },
+        {
+          "title": "[PDF] 美国心理学会性少数人群心理实践指南",
+          "link": "https://www.apa.org/pi/lgbt/resources/practice-sexual-minority-chinese.pdf",
+          "snippet": "目前也使用“transgender and gender-nonconforming people”（跨性别和性别非常规者）. 指代，包括跨性别男性、跨性别女性、非 ... 对应非传统性别（比如性别酷儿，非常规性别或者.",
+          "position": 34
+        },
+        {
+          "title": "認識跨性別！ | 台灣同志諮詢熱線協會",
+          "link": "https://hotline.org.tw/news/3041",
+          "snippet": "比起傳統的代名詞，許多性別酷兒與非二元性別者更偏向使用ze/zim、xe/xim、they/them。 〖雙性人（intersex）是什麼意思呢？〗.",
+          "date": "2020年11月11日",
+          "position": 35
+        },
+        {
+          "title": "奋楫中流绘新篇——习近平总书记指引网络安全工作述评 - 中央网信办",
+          "link": "https://www.cac.gov.cn/2023-09/10/c_1695939263461097.htm",
+          "snippet": "... 非传统安全问题之一，在国家安全体系中的基础性、战略性、全局性地位更加凸显。党的二十大作出加快建设网络强国、数字中国的重大部署，开启了我国信息 ...",
+          "date": "2023年9月10日",
+          "position": 36
+        },
+        {
+          "title": "[PDF] 海湾国家非传统安全现状评析＊ - 中国中东研究网",
+          "link": "http://www.mesi.shisu.edu.cn/_upload/article/56/67/a73767e6429e98c71b6430f258ed/3f745587-6529-4b17-a428-b6a854771f02.pdf",
+          "snippet": "同大多数国家一样，非传统安全因素带来的挑战使海湾国家的安全环境与安全形势面临转折. 性变化，其中既有世界各国面临的共性问题，也有该地区特殊背景下的个性问题。 （一）人口 ...",
+          "position": 37
+        },
+        {
+          "title": "王兆星解读引发非传统金融风险八大因素：包括非传统金融等(全文)",
+          "link": "https://interface.sina.cn/pc_to_wap.d.html?ref=https%3A%2F%2Ffinance.sina.com.cn%2Fmoney%2Fbank%2Fbank_hydt%2F2020-09-29%2Fdoc-iivhuipp7097265.shtml",
+          "snippet": "王兆星提出引发非传统金融风险的八大因素，包括气侯与环境恶化、全球性地区性全国性的疫情等公共卫生事件、政局不稳和社会动乱、国际贸易争端与经济制裁、 ...",
+          "date": "2020年9月29日",
+          "position": 38
+        },
+        {
+          "title": "传统性别营销已过时？强调包容性才能收获海外年轻消费者欢心？ - 搜狐",
+          "link": "https://www.sohu.com/a/656551850_121660617",
+          "snippet": "但在现代社会，传统的性别营销模式缺陷也很多：由于品牌永久性地限制性别角色， ... 现今的年轻人正在接受性别不一致的概念，甚至出现了包括双性恋、非二元性别 ...",
+          "date": "2023年3月20日",
+          "position": 39
+        },
+        {
+          "title": "简报：拜登-哈里斯政府阐明协调性方针以利用人工智能之力促进美国 ...",
+          "link": "https://china.usembassy-china.org.cn/zh/fact-sheet-biden-harris-administration-outlines-coordinated-approach-to-harness-power-of-ai-for-u-s-national-security/",
+          "snippet": "... 非传统供应商合作的方式。 推进围绕人工智能的国际共识和治理：. – 这份《国家安全备忘录》以国际社会在人工智能治理方面取得的实质性进展为基础，这要 ...",
+          "date": "7天前",
+          "position": 40
+        },
+        {
+          "title": "微博",
+          "link": "https://m.weibo.cn/status/5056106990668433",
+          "snippet": "非二元个体可能会认同为性别流动（Genderfluid）、双性别（Bigender）、无性别（Agender）或其他不符合二元性别框架的性别身份。非二元性别的存在挑战了传统的性别观念，强调性别 ...",
+          "position": 41
+        },
+        {
+          "title": "2024年广东非遗周暨佛山秋色活动将于11月1日盛大开启",
+          "link": "https://whly.gd.gov.cn/news_newzwhd/content/post_4515350.html",
+          "snippet": "组委会的精心编排巡游表演节目，其中以庆祝新中国成立75周年和佛山十大传统文化为核心主题的彩车与巡游节目板块，通过创新性的节目编排，将现代时尚元素与 ...",
+          "date": "6天前",
+          "position": 42
+        },
+        {
+          "title": "[PDF] 国际移民的非传统安全挑战与全球移民治理 - 山东大学移民研究所",
+          "link": "http://www.ims.sdu.edu.cn/__local/2/B8/B7/DDEAB7D8ABDAA8DE74A87C69D48_D9D6F305_F8EF7.pdf",
+          "snippet": "因此，尽管那些将国际移民视为引入恐怖分子、罪犯. 等的工具，并进而对国家安全构成威胁的观点流行广泛，. 但却是具有相当危险的、误导性的认知。 （二）国际移民与跨国有组织 ...",
+          "position": 43
+        },
+        {
+          "title": "澳洲人口普查将首次包含非二元性别选项| SBS Chinese",
+          "link": "https://www.sbs.com.au/language/chinese/zh-hans/article/australian-census-to-include-a-gender-non-binary-option-for-the-first-time/97q148s9b",
+          "snippet": "“非二元性别”（Non-binary）指的是超越传统意义上对男性或女性的二元划分、不单纯属于男性或女性的自我性别认同。非二元性别的人可能有两种性别 ...",
+          "date": "2021年1月15日",
+          "position": 44
+        },
+        {
+          "title": "SCT讨论非传统商标、商标异议程序和工业品外观设计 - WIPO",
+          "link": "https://www.wipo.int/pressroom/zh/articles/2008/article_0066.html",
+          "snippet": "WIPO总干事弗朗西斯•加利在向代表致辞时提到SCT的活力与建设性精神，称其是“准则制定领域一个成果丰硕的委员会”。他对非传统商标和商标异议程序上的 ...",
+          "date": "2008年12月5日",
+          "position": 45
+        },
+        {
+          "title": "术语介绍 - FtM.wiki",
+          "link": "https://ftm.wiki/zh-cn/psycho/terminology/",
+          "snippet": "除了男性和女性（可能是顺性别或跨性别）之外的其它性别认同还包括跨性别、非二元性别、性别酷儿、性别中性、无性别、性别流动和“第三” 性别等。在世界范围 ...",
+          "date": "2023年12月11日",
+          "position": 46
+        },
+        {
+          "title": "非传统稳定同位素分析室 - 沉积与生物地球化学国际研究中心",
+          "link": "https://sgbg.cdut.edu.cn/info/1102/1440.htm",
+          "snippet": "仪器配备了全新的带质量筛选功能的碰撞/反应池、先进的Qtegra软件操作平台以及等一系列硬件、软件改进，在Neptune基础上进一步提升了仪器性能和易操作性。",
+          "date": "2023年5月9日",
+          "position": 47
+        },
+        {
+          "title": "非传统安全问题与国际安全合作 - 武汉大学",
+          "link": "http://cgrs.lib.whu.edu.cn/Qw/Paper/219618",
+          "snippet": "近年来，非传统安全问题更加突出，与传统安全问题相互转化的可能性增加。非传统安全威胁上升使各国在安全问题上的共同利益增多。国际安全合作应树立新安全观，注重共同 ...",
+          "position": 48
+        },
+        {
+          "title": "打破刻板印象：女性在非传统工程领域蓬勃发展 - Constructive Voices",
+          "link": "https://constructive-voices.com/zh-CN/%E5%85%8B%E6%9C%8D%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1-%E5%A5%B3%E6%80%A7%E5%9C%A8%E9%9D%9E%E4%BC%A0%E7%BB%9F%E5%B7%A5%E7%A8%8B%E5%AD%A6%E7%A7%91%E8%93%AC%E5%8B%83%E5%8F%91%E5%B1%95/",
+          "snippet": "工程师 长期以来，该领域一直被认为是男性主导的领域，女性在进入和晋升方面面临诸多障碍。然而，近年来，女性一直在打破性别刻板印象，在非传统领域表现 ...",
+          "date": "2023年8月22日",
+          "position": 49
+        },
+        {
+          "title": "[PDF] 跨性别以及间性（LGBTI）人群的问题企业行为准则 - ohchr",
+          "link": "https://www.ohchr.org/sites/default/files/documents/issues/lgbt/Standards-of-Conduct-discrimination-lgbti-CH.pdf",
+          "snippet": "宜. 家决定不在俄罗斯版线上杂志中出现同性恋父母是因为俄罗斯出台. 的所谓“反同性恋宣传”法律，这一法律禁止提倡“非传统”的关. 系。公司决定遵守这一法律是为了保护其 ...",
+          "position": 50
+        },
+        {
+          "title": "[PDF] 试论新疆地区非传统安全问题及其特点",
+          "link": "http://www.zxls.com/UploadFiles/2021/6/%E8%AF%95%E8%AE%BA%E6%96%B0%E7%96%86%E5%9C%B0%E5%8C%BA%E9%9D%9E%E4%BC%A0%E7%BB%9F%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98%E5%8F%8A%E5%85%B6%E7%89%B9%E7%82%B9_%E6%9D%8E%E6%AD%A3%E5%85%83_20216211758.pdf",
+          "snippet": "非传统安全强调安全威胁的. 多元性，如粮食安全、食品安全、金融危机、信息安全、文化安全、传染性疾病、水资源短缺、土地沙漠化、“恐怖. 主义”、“三股势力 ...",
+          "date": "2021年6月26日",
+          "position": 51
+        },
+        {
+          "title": "新媒体语境下非物质文化遗产的保护与传承 - 中国国情",
+          "link": "http://guoqing.china.com.cn/2024-10/28/content_117511301.htm",
+          "snippet": "相比传统的媒体技术，新媒体技术体现出以下几个显著特点：首先，传播手段的先进性。新媒体充分利用先进的信息技术实现信息的高速传播，比如大数据、云计算、 ...",
+          "date": "7天前",
+          "position": 52
+        },
+        {
+          "title": "哪些國家已引入第三性別身分認定？ - SWI swissinfo.ch",
+          "link": "https://www.swissinfo.ch/chi/%E8%BA%AB%E4%BB%BD%E8%AE%A4%E5%90%8C/%E5%93%AA%E4%BA%9B%E5%9C%8B%E5%AE%B6%E5%B7%B2%E5%BC%95%E5%85%A5%E7%AC%AC%E4%B8%89%E6%80%A7%E5%88%A5%E8%BA%AB%E5%88%86%E8%AA%8D%E5%AE%9A%EF%BC%9F/77697218",
+          "snippet": "非男即女？瑞士不认同这种二元性别划分的人数占比最高 ... 此内容发布于 2023年06月09日 一项最新调研发现，在参与比较的30个国家里，瑞士自认为是跨性别者、非 ...",
+          "date": "2024年5月16日",
+          "position": 53
+        },
+        {
+          "title": "[多元性別認同旗幟] 非二元性别旗 - 風城部屋",
+          "link": "https://www.gisneyland.org/column/column/detail/?id=11",
+          "snippet": "然而，並不是所有的雙性人的性別認同為X性別，或認定自己是跨性別X性別人士。 非二元性別可能介於傳統定義上男性和女性表現之間（中性），. 認同兩者兼具或兩 ...",
+          "date": "2021年9月22日",
+          "position": 54
+        },
+        {
+          "title": "[PDF] 德國鼓勵學生探索非傳統職業，打破性別刻板印象",
+          "link": "https://teric.naer.edu.tw/wSite/PDFReader?xmlId=2065141&fileName=1717143493219&format=pdf",
+          "snippet": "德國鼓勵學生探索非傳統職業，打破性別刻板印象. 駐德國代表處教育組. 德國聯邦教育及研究部（BMBF）每年支持各邦舉辦「女孩日」. （Girls'Day）和「男孩日」（Boys'Day ...",
+          "position": 55
+        },
+        {
+          "title": "多元性別  性別不是只有分男生、女生 - 健康九九",
+          "link": "https://health99.hpa.gov.tw/article/18959",
+          "snippet": "... 非男即女的性別選項 近年來，你是否發現在不少需要填寫個人 ... 傳統等因素造成的。威廉．亞伯（William L. Yarber）與芭芭拉．薩雅德 ...",
+          "date": "2022年4月25日",
+          "position": 56
+        },
+        {
+          "title": "调查显示对性别差异的刻板印象犹存 - 纽约时报",
+          "link": "https://cn.nytimes.com/education/20171208/t08up-gender/",
+          "snippet": "人们认为性别歧视十分普遍，并且自幼形成。社会高度重视男性而非女性的看法，反映在了人们养育孩子的观点之中：受访者往往更支持去告诉女孩 ...",
+          "date": "2017年12月8日",
+          "position": 57
+        },
+        {
+          "title": "让非遗在新时代焕发新活力 - 中国共产党新闻网",
+          "link": "http://cpc.people.com.cn/n1/2024/1031/c64387-40350985.html",
+          "snippet": "非物质文化遗产是中华优秀传统文化的重要组成部分，是中华文明绵延传承的 ... 性项目名录体系等，全面加强非遗系统性保护。 传播普及水平不断 ...",
+          "date": "4天前",
+          "position": 58
+        },
+        {
+          "title": "社會性別 - 性別化創新",
+          "link": "http://genderedinnovations.taiwan-gist.net/terms/gender.html",
+          "snippet": "與之相對的是順性別，也就是社會性別自我認同與其出生時被指定的生理性別相符的個體。「順性別」一詞的使用是為了抵抗將順性別視為常模而跨性別則否的觀念（Aultman, 2014） ...",
+          "position": 59
+        },
+        {
+          "title": "对谈“女攻男受”的“第四爱”情侣社群 - 歪脑",
+          "link": "https://www.wainao.me/wainao-reads/the-4th-love-couple-community-07132023",
+          "snippet": "她这样回答：“性别平等是一种理想，在第四爱的范畴也是如此。第四爱跟传统异性恋中的男强女弱模式相反，从而挑战了性别刻板印象，对性别平等的实现有一定 ...",
+          "date": "2023年7月13日",
+          "position": 60
+        },
+        {
+          "title": "新闻英语：难辨雌雄的“they” - ABC News",
+          "link": "https://www.abc.net.au/chinese/2019-11-22/gender-diversity-english-word-they/11729864",
+          "snippet": "例如，从“性别多元化”的角度来说，不可以仅凭生殖器来确定某人的性别，即传统的“非男即女”的二元分类在这种理念下就不适用。 那么问题来了，我们应该怎样指代 ...",
+          "date": "2019年11月21日",
+          "position": 61
+        },
+        {
+          "title": "109 – 关于非二元性",
+          "link": "https://www.seksediversiteit.nl/zh-CN/misvattingen/109-non-binair/",
+          "snippet": "分界线性别和Gender：双性关注生物性别，而非二元性关注gender身份，传统的男性和女性规范被拒绝。 · 每个人都可以访问的非二元性：任何人都可以识别为非二元 ...",
+          "date": "2023年11月15日",
+          "position": 62
+        },
+        {
+          "title": "性別多樣化的認識與尊重 - 教育部家庭教育資源網",
+          "link": "https://familyedu.moe.gov.tw/reDocDetail.aspx?uid=8912&pid=8905&rt=4&docid=295032",
+          "snippet": "... 非傳統性別；當性別多樣化日益成為社交媒體的熱門話題與身分標籤 ... 傳統的性別意識而相對忽略性別多樣性。 社會科學領域的研究似顯示，性 ...",
+          "date": "2023年1月4日",
+          "position": 63
+        },
+        {
+          "title": "bosie：做中国的无性别服饰品牌｜BrandStar专访",
+          "link": "https://www.brandstar.com.cn/in-depth/2427",
+          "snippet": "由此之后，「无性别」通常蕴藏着社会意识形态——男女平权，通过模糊性别特征过于明显的服饰，来解放女性，让女性身上带有更多男性层面的元素，而非单纯选择「 ...",
+          "date": "2021年7月17日",
+          "position": 64
+        },
+        {
+          "title": "中华人民共和国与斯洛伐克共和国关于建立战略伙伴关系的联合声明 ...",
+          "link": "https://www.fmprc.gov.cn/zyxw/202411/t20241101_11519962.shtml",
+          "snippet": "双方愿以两国建交75周年为契机，弘扬传统友谊，深化政治互信，发展 ... 非歧视的贸易环境，推动经济全球化朝着更加开放、包容、普惠、均衡的方向 ...",
+          "date": "3天前",
+          "position": 65
+        },
+        {
+          "title": "【如意甘肃·多彩非遗】绽放陇原非遗之美 - 甘肃日报",
+          "link": "https://gansu.gansudaily.com.cn/system/2024/11/01/031086682.shtml",
+          "snippet": "刘兰芳告诉记者，非遗工坊现有绣娘30人，并带动辐射周边4000余名村民参与香包制作工作。 近年来，我省深入挖掘传统技艺类非遗项目的当代价值，以非遗代表性 ...",
+          "date": "3天前",
+          "position": 66
+        },
+        {
+          "title": "梅荣政：中华优秀传统文化研究中需再深化思考的若干问题",
+          "link": "http://marxism.cass.cn/mksjbyl/202410/t20241031_5797807.shtml",
+          "snippet": "故此，笔者建议，要以党的创新理论为指导，进一步明确中华优秀传统文化这一概念的五个“是”与“非”，以深化相关重要问题研究。 ... 中华优秀传统文化作为历史性的 ...",
+          "date": "4天前",
+          "position": 67
+        },
+        {
+          "title": "的定义非二进制- 性别认同 - Seeking",
+          "link": "https://www.seeking.com/zh/%E6%9C%AF%E8%AF%AD/%E6%80%A7%E5%88%AB%E8%AE%A4%E5%90%8C/%E9%9D%9E%E4%BA%8C%E8%BF%9B%E5%88%B6?srsltid=AfmBOorE4koUVl7JqUmqTJC0nBROzghJKo65tPDBVvZYGQsqEyrOk8Jo",
+          "snippet": "定义. 另一个用来形容性别的人。非二元对于任何不完全认同传统男/女或男性/女性二元的人来说都是一个总称。 与性别平等一样，具有非二元性别的人可能是雌雄同体，性别 ...",
+          "position": 68
+        },
+        {
+          "title": "Autogynephilia 自我女性恋：跨性别的幽灵",
+          "link": "https://prologue.dev/blog/autogynephilia-the-ghost-of-transgender",
+          "snippet": "病因推断是男性恋MtF 是极度女性化的男性恋男性，跨性别身份来自于他们拥有女性典型的态度、行为和性偏好，而非男性恋的MtF 是传统的男性，是女性恋的男性， ...",
+          "date": "2022年12月26日",
+          "position": 69
+        },
+        {
+          "title": "简报：拜登-哈里斯政府阐明协调性方针以利用人工智能之力促进美国 ...",
+          "link": "https://www.state.gov/translations/chinese/20241024-fact-sheet_-biden-_harris-administration-outlines-coordinated-approach-to-harness-power-of-ai-for-u-s-national-security-chinese/",
+          "snippet": "... 非传统供应商合作的方式。 推进围绕人工智能的国际共识和治理：. – 这份《国家安全备忘录》以国际社会在人工智能治理方面取得的实质性进展为基础，这要 ...",
+          "date": "2024年10月24日",
+          "position": 70
+        },
+        {
+          "title": "性别是一种表演？读一读酷酷的朱迪斯·巴特勒 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_11341827",
+          "snippet": "在《性别麻烦》(Gender Trouble，1990)这部巴特勒最著名的作品中，性别被描述为我们所“做”的。这是一系列总会发生的行为。性别和性(性身份，而非性交) ...",
+          "date": "2021年2月18日",
+          "position": 71
+        },
+        {
+          "title": "[PDF] 前言- 多元性別權益保障篇",
+          "link": "https://gec.ey.gov.tw/File/DA622159EAD3CBA?A=C",
+          "snippet": "非二元性別的所有性／別少數者。女同性戀指的是認為自己是女. 生、也受到女生吸引 ... 傳統性別框架，也讓多元性別族群更. 被認識，奠定了台灣婚姻平權的基礎。於是 ...",
+          "position": 72
+        },
+        {
+          "title": "东阳“非遗+景区”成共富市集“金钥匙” - 金华市政府",
+          "link": "http://www.jinhua.gov.cn/art/2024/10/31/art_1229159979_60261432.html",
+          "snippet": "... 非遗学堂、非遗一台戏、非遗研学游、青少年非遗书画比赛等系列非遗文化活动而搭建，旨在推进传统工艺振兴，丰富非遗应用场景，从而将独特的文化资源 ...",
+          "date": "4天前",
+          "position": 73
+        },
+        {
+          "title": "非二元性别：打破传统二元论，建造多元的性别色谱体系 - YouTube",
+          "link": "https://m.youtube.com/watch?v=qnhoZ5a0bX0",
+          "snippet": "世界上大部分地方，人们还是被要求从是男还是女中做单选题，被称呼为先生或者女士，而这些非此即彼 ...\n时长： 5:12\n发布时间： 2021年12月28日",
+          "date": "2021年12月28日",
+          "position": 74
+        },
+        {
+          "title": "军队后勤部门主动适应非传统安全挑战- 全民国防杂志",
+          "link": "http://tapchiqptd.vn/zh/%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E8%B7%B5/%E5%86%9B%E9%98%9F%E5%90%8E%E5%8B%A4%E9%83%A8%E9%97%A8%E4%B8%BB%E5%8A%A8%E9%80%82%E5%BA%94%E9%9D%9E%E4%BC%A0%E7%BB%9F%E5%AE%89%E5%85%A8%E6%8C%91%E6%88%98/18336.html",
+          "snippet": "... 性，推进研究工作，提出制定后勤工作条例，相关法律文件修改与完善后勤保障方式，确保严密、科学，符合军队的发展、国家的条件，尤其是是对于特殊性的任务。",
+          "date": "2022年2月17日",
+          "position": 75
+        },
+        {
+          "title": "中国有56个民族，可美国却有97个性别 - 网易",
+          "link": "https://www.163.com/dy/article/HP439EKF0517HIAS.html",
+          "snippet": "Genderqueer - 酷儿性别，和非常规性别类似。 “酷儿”(Queer)这个词本意是奇怪，但是最近几十年来已经成为非传统性别的代称词语之一， ...",
+          "date": "2022年12月21日",
+          "position": 76
+        },
+        {
+          "title": "郑栅洁：加快经济社会发展全面绿色转型",
+          "link": "https://www.ndrc.gov.cn/fzggw/wld/zsj/zyhd/202411/t20241101_1394217.html",
+          "snippet": "新时代我国绿色发展取得历史性成就。主要表现在：. 产业结构方面，大力发展绿色低碳产业，推动传统产业绿色低碳转型。我国建成全球最大、最完整的新 ...",
+          "date": "3天前",
+          "position": 77
+        },
+        {
+          "title": "[PDF] 社会性别研究在国内外的发展",
+          "link": "https://sites.lsa.umich.edu/wangzheng/wp-content/uploads/sites/948/2021/09/2009%E7%8E%8B%E6%94%BF_%E7%A4%BE%E4%BC%9A%E6%80%A7%E5%88%AB%E7%A0%94%E7%A9%B6%E5%9C%A8%E5%9B%BD%E5%86%85%E5%A4%96%E7%9A%84%E5%8F%91%E5%B1%95.pdf",
+          "snippet": "“男性研究”. 对西方传统学术和文化现象的批判性思考,可以帮助. 我们认识知识生产 ... 她们界定为非女性, 这必然对青年女性造成强大的. 心理压力,让她们受到多重挤压 ...",
+          "position": 78
+        },
+        {
+          "title": "实话世经/非线性环境加剧市场波动\\程实 - 大公网",
+          "link": "https://www.takungpao.com/finance/236134/2024/1102/1026976.html",
+          "snippet": "随着全球经济面临的不确定性加剧，传统线性模型的预测能力逐渐失效，非线性变化引发的市场波动给投资者决策带来新挑战和机遇。非线性的预期变化或将 ...",
+          "date": "2天前",
+          "position": 79
+        },
+        {
+          "title": "新时代全民国防教育在国有企业中的重要性与实施策略 - 中国有色网",
+          "link": "https://www.cnmn.com.cn/ShowNews1.aspx?id=455018",
+          "snippet": "当前，我国面临复杂多变的安全和发展环境，各种可预测的和难以预测的风险因素显著增多，传统安全威胁和非传统安全威胁相互交织。在推进祖国统一，维护国家 ...",
+          "date": "7天前",
+          "position": 80
+        },
+        {
+          "title": "探寻信息时代网络犯罪治理的实践指引 - 最高人民检察院",
+          "link": "https://www.spp.gov.cn/spp/llyj/202410/t20241031_670521.shtml",
+          "snippet": "... 性很强，给办案人员的理解与适用带来一定困难。而且，信息网络犯罪与传统犯罪的办案思路也存在不同，更加注重电子数据的收集与利用，需要调整传统的 ...",
+          "date": "4天前",
+          "position": 81
+        },
+        {
+          "title": "一种具有高K+选择性和渗透性的非对称MXene膜Engineering—论文",
+          "link": "https://news.sciencenet.cn/htmlpaper/2024/10/20241030181043850123075.shtm",
+          "snippet": "... 性和渗透性的非对称MXene膜Engineering. 论文标题： A Matthew MXene ... 与国际同行赛跑，他们的研究突破传统认知. 6; 时评：乐见更多“不用写论文 ...",
+          "date": "4天前",
+          "position": 82
+        },
+        {
+          "title": "技术革命与全球政治经济秩序重构——第四届“中国 ... - 上海交通大学",
+          "link": "https://news.sjtu.edu.cn/jdyw/20241030/203409.html",
+          "snippet": "此外，非传统安全问题与传统安全问题日益交织，加剧了全球治理的复杂性。他提出，当前技术的应用既为治理难题带来新的解决可能，也加深了安全领域的 ...",
+          "date": "5天前",
+          "position": 83
+        },
+        {
+          "title": "建立优质文化资源直达基层机制 - 光明网-理论频道",
+          "link": "https://theory.gmw.cn/2024-11/02/content_37653428.htm",
+          "snippet": "... 传统文化，又有助于激发文化创新活力。通过设立非物质文化遗产保护基金，加强对传统艺术、民间工艺等非物质文化遗产的抢救性保护，或者设立专项基金 ...",
+          "date": "2天前",
+          "position": 84
+        },
+        {
+          "title": "除男女外美国到底还有多少其他种性别？ - 新浪",
+          "link": "http://doc.sina.cn/?id=gsps:42-296-1044",
+          "snippet": "英语中，男性，是male；女性，是female。若用我的形象记忆法， fe，谐音为非，那么很容易联想：female，非男即女。 美国的表格 ...",
+          "date": "2014年5月23日",
+          "position": 85
+        },
+        {
+          "title": "性別的多樣性- 伴盟跨性別資訊平台 - 台灣伴侶權益推動聯盟",
+          "link": "https://transgender.tapcpr.org/what-is-gender",
+          "snippet": "（五）性傾向（Sexual Orientation）：指感受浪漫愛或性吸引力對象的性別。若對象與自己為相同性別則是同性戀，反之則為異性戀，其他也還有非單性戀的雙性戀、 ...",
+          "position": 86
+        },
+        {
+          "title": "针线牵传承锦绣焕新辉_文史 - 人民论坛网",
+          "link": "http://www.rmlt.com.cn/2024/1031/715772.shtml",
+          "snippet": "... 传统技艺的传承与弘扬，也展现了人们对美好生活的向往与追求。 贵州省级非遗苗绣代表性传承人龙禄颖带来了她的作品《乡村振兴》。从起初仅有8个人，慢 ...",
+          "date": "4天前",
+          "position": 87
+        },
+        {
+          "title": "[PDF] 变性人和非二元性别客户的姓名和性别变更常见问题(FAQ)",
+          "link": "https://www.nyc.gov/assets/hra/downloads/pdf/services/lgbtqi/HRA-138b-SC.pdf",
+          "snippet": "性别标记有哪些选择？ 社会服务局(DSS)/人力资源管理局(HRA) 客户可以要求将其性别标记为F（女性）、. M（男性）或X（非男性或女性）。 “X”对于性别标记意味着什么？",
+          "position": 88
+        },
+        {
+          "title": "【GQ科普】什麼是順性別、跨性別、LGBTQ+？人的「性別認同 ...",
+          "link": "https://www.gq.com.tw/bettermen/article/%E6%80%A7%E5%88%A5%E8%AA%8D%E5%90%8C-%E6%80%A7%E5%88%A5%E5%B9%B3%E6%AC%8A-lgbtq",
+          "snippet": "間性別／兩性別／雙性別：如果從生理定義上，同時擁有男女雙方性徵的族群稱為「間性別Intersex」（請勿再用傳統的「陰陽人」一說，很沒禮貌！）。而以「認同」來說 ...",
+          "date": "2024年6月24日",
+          "position": 89
+        },
+        {
+          "title": "中华人民共和国与斯洛伐克共和国关于建立战略伙伴关系的联合声明",
+          "link": "https://www.ln.gov.cn/web/ywdt/rdgz/2024110209013183344/index.shtml",
+          "snippet": "双方愿以两国建交75周年为契机，弘扬传统友谊，深化政治互信，发展 ... 非歧视的贸易环境，推动经济全球化朝着更加开放、包容、普惠、均衡的方向 ...",
+          "date": "2天前",
+          "position": 90
+        },
+        {
+          "title": "大语言模型与非遗“共舞” - 中国经济网",
+          "link": "http://www.ce.cn/culture/gd/202411/04/t20241104_39191012.shtml",
+          "snippet": "“非物质文化遗产是中华优秀传统文化的重要组成部分，我们希望通过打造一 ... “在非物质文化遗产领域，数据的独特性与复杂性是大模型构建的关键挑战。",
+          "date": "57分钟前",
+          "position": 91
+        },
+        {
+          "title": "美国政府发布首份关于人工智能的国家安全备忘录",
+          "link": "https://www.secrss.com/articles/71668",
+          "snippet": "... 非传统供应商合作的方法。三是推进围绕人工智能的国际共识和治理。重点 ... 性、保障性和可信度风险。负责任的人工智能发展领导地位有利于美国的 ...",
+          "date": "2024年10月25日",
+          "position": 92
+        },
+        {
+          "title": "国外非传统职业男性气质研究述评 - 参考网",
+          "link": "https://www.fx361.com/page/2017/0415/21520643.shtml",
+          "snippet": "非传统职业男性气质的研究，自20世纪80年代起崭露头角，至今已有30余年的历史，进入新世纪之后，其讨论仍在继续。本文尝试梳理这30多年来非传统职业男性气质的 ...",
+          "date": "2017年4月15日",
+          "position": 93
+        },
+        {
+          "title": "李国勇主持召开廊坊市“燕京八绝”保护传承发展座谈会强调坚定文化 ...",
+          "link": "https://www.lf.gov.cn/Item/143363.aspx",
+          "snippet": "... 非物质文化遗产在新时代发挥更广泛的社会、经济和文化价值。 座谈会现场气氛热烈活跃，10名代表性传承人和有关高校专家先后发言，谈现状、谈困难、谈 ...",
+          "date": "13小时前",
+          "position": 94
+        },
+        {
+          "title": "AI写的小说，有没有版权？ - 科技日报",
+          "link": "https://www.stdaily.com/web/gdxw/2024-11/02/content_252240.html",
+          "snippet": "张洪波表示，传统的侵权认定标准在AI创作场景下也面临适用难的问题 ... 非作品性使用”，从而不应纳入著作权保护范围。 “在数据训练中，单个作品 ...",
+          "date": "2天前",
+          "position": 95
+        },
+        {
+          "title": "李岁月：马克思劳动观视域下的数字劳动 - 马克思主义研究网",
+          "link": "http://marxism.cass.cn/zyfzs/202410/t20241028_5797069.shtml",
+          "snippet": "... 性“数字化”而非关联性“数字化”。以数字化平台为例，那些利用数字平台从事 ... 数字技术基础上的数字劳动是一种不同于传统物质性劳动的新型劳动 ...",
+          "date": "7天前",
+          "position": 96
+        },
+        {
+          "title": "习近平：加强文化遗产保护传承弘扬中华优秀传统文化",
+          "link": "http://gzw.xianning.gov.cn/xwzx/qydt/202410/t20241030_3788152.shtml",
+          "snippet": "要加强非物质文化遗产保护传承，把各民族优秀传统文化发扬光大。 （2022 ... 北京历史悠久，文脉绵长，是中华文明连续性、创新性、统一性、包容性、和平性的有力 ...",
+          "date": "4天前",
+          "position": 97
+        },
+        {
+          "title": "植物检疫学 - 学习强国",
+          "link": "https://article.xuexi.cn/articles/video/index.html?art_id=9038830932689280295&&",
+          "snippet": "1 非寄生型检疫性杂草及其防控（1） · 7.3.2. 7.3.2 非寄生型检疫性杂草及其防控（2） · 7.3 ...\n发布时间： 2022年8月4日",
+          "date": "2022年8月4日",
+          "position": 98
+        },
+        {
+          "title": "哈里斯以1%的优势领先特朗普，谁将入主白宫仍充满悬念",
+          "link": "https://www.jfdaily.com/news/detail?id=813983",
+          "snippet": "... 性和不可预测性增加。特朗普的外交风格直接且非传统，可能会再次成为其政策的特色。他的政策可能会在短期内造成不稳定的格局，特别是在处理国际危机和 ...",
+          "date": "2天前",
+          "position": 99
+        },
+        {
+          "title": "新型网络犯罪的典型特征及防治路径 - 中共西藏自治区委员会",
+          "link": "https://wxb.xzdw.gov.cn/wlzl/202411/t20241103_522675.html",
+          "snippet": "受益于网络设备易获取性和接入网络的便捷性,导致行为人可以很轻易地实施网络犯罪行为,很大程度上扩大了行为主体范围,降低了实施网络犯罪行为难度,很多非 ...",
+          "date": "18小时前",
+          "position": 100
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "非传统性别",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 3,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "《关于非传统商标应当具有显著特征的指引》发布 - 国家知识产权局",
+          "link": "https://www.cnipa.gov.cn/art/2023/12/29/art_66_189401.html",
+          "snippet": "为深入贯彻落实《“十四五”国家知识产权保护和运用规划》关于加强知识产权源头保护，强化知识产权申请注册质量监管的部署，帮助经营主体了解三维标志 ...",
+          "date": "2023年12月29日",
+          "position": 1
+        },
+        {
+          "title": "2024年广东非遗周暨佛山秋色活动盛大开启- 中国日报网",
+          "link": "https://gd.chinadaily.com.cn/a/202411/02/WS6725ba7aa310b59111da14e1.html",
+          "snippet": "佛山秋色自明代永乐年间起，已有近六百年历史，包含灯色、车色、马色、水色、飘色、地色、景色等七色，是佛山人民庆丰收、展成果的民间传统习俗。自2009年 ...",
+          "date": "2天前",
+          "position": 2
+        },
+        {
+          "title": "优秀传统文化“破圈” 看戏曲如何“圈粉”年轻人 - 新华网",
+          "link": "http://www.news.cn/politics/20241104/255fb8d8116c488ea8e2fb7d794406b0/c.html",
+          "snippet": "... 性的上课方式，让在场师生领略了中华优秀传统 ... 许多同学得知是中国戏剧梅花奖获得者、赣剧非遗传承人陈俐老师的课，都慕名前来。 ... 传统剧目与新创剧目 ...",
+          "date": "2小时前",
+          "position": 3
+        },
+        {
+          "title": "非二元性別：打破傳統二元論，建造多元的性別色譜體系 ... - Facebook",
+          "link": "https://www.facebook.com/whynotwainao/videos/%E9%9D%9E%E4%BA%8C%E5%85%83%E6%80%A7%E5%88%A5%E6%89%93%E7%A0%B4%E5%82%B3%E7%B5%B1%E4%BA%8C%E5%85%83%E8%AB%96%E5%BB%BA%E9%80%A0%E5%A4%9A%E5%85%83%E7%9A%84%E6%80%A7%E5%88%A5%E8%89%B2%E8%AD%9C%E9%AB%94%E7%B3%BB/1220853635070417/?locale=ms_MY",
+          "snippet": "Nonbinary——非二元性別，是一種性別認同，用於統 稱不將自己限制在傳統男女性 ...\n时长： 5:12\n发布时间： 2021年12月25日",
+          "date": "2021年12月25日",
+          "position": 4
+        },
+        {
+          "title": "《高跷走兽》：感受非遗魅力 - 中国青年网",
+          "link": "https://wenhua.youth.cn/whyw/202411/t20241103_15623014.htm",
+          "snippet": "原创绘本与中华优秀传统文化相结合，寻找着非遗保护与传承的新路径，探索 ... 性。这本书的主册选用的是厚实的卡纸，不易撕损。圆形的书角使得握持舒适，极 ...",
+          "date": "19小时前",
+          "position": 5
+        },
+        {
+          "title": "OpenAI转变为盈利性公司的最大障碍：公司到底值多少？ - 华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3731997",
+          "snippet": "目前，微软、其他私人投资者和OpenAI员工拥有对OpenAI盈利性公益企业未来利润的权利，该子公司由OpenAI的非营利董事会控制。 风险提示及免责条款. 市场有 ...",
+          "date": "6天前",
+          "position": 6
+        },
+        {
+          "title": "专栏｜中国透视：指向包容性制度的狭窄通道– 评介2024年诺贝尔 ...",
+          "link": "https://www.rfa.org/mandarin/zhuanlan/zhongguotoushi/panel-on-2024-nobel-prize-in-economic-science-10302024111056.html",
+          "snippet": "他们还出版了面对大众、非专业性的三部著作。三本畅销书。 2012阿西莫格鲁与罗宾逊合著出版的《国家为什么会失败？权力、繁荣和贫穷的根源（Why ...",
+          "date": "4天前",
+          "position": 7
+        },
+        {
+          "title": "“新表达”让世界更好读懂中国文化 - 科技日报",
+          "link": "https://www.stdaily.com/web/gdxw/2024-11/03/content_252453.html",
+          "snippet": "张宏说，飞龙、聚宝盆、金元宝等虽然都是传统的文化元素，但更为现代的线条和色彩，为老非遗增添了新活力。 杨柳青年画《钱龙引进八方财》的木版 ...",
+          "date": "13小时前",
+          "position": 8
+        },
+        {
+          "title": "识别公司真实盈利能力更有效！AI已超越资深股票分析师？ - 全天候科技",
+          "link": "https://awtmt.com/articles/3732571",
+          "snippet": "... ”生成的指标，在大多数标准测试中的表现优于传统的基准指标，如GAAP净收入基准指标。但是，大型语言模型不太擅长应对财报非经常性调整的情况。",
+          "date": "3天前",
+          "position": 9
+        },
+        {
+          "title": "教育：美式党争之下校园难有净土 - 新闻频道- 央视网",
+          "link": "https://news.cctv.com/2024/11/02/ARTIrlVkYisIWHcLecToyeEn241102.shtml",
+          "snippet": "... 非传统公立学校就读。批评人士认为，这种“择校”政策削弱了公共教育的普惠性，进一步加剧了教育不平等。 在学贷减免问题上，民主党主张将此作为促进 ...",
+          "date": "2天前",
+          "position": 10
+        },
+        {
+          "title": "非传统安全(社会学名词) - 搜狗百科",
+          "link": "https://baike.sogou.com/v8337915.htm",
+          "snippet": "非传统安全问题从产生到解决都具有明显的跨国性特征，不仅是某个国家存在的个别问题，而且是关系到其他国家或整个人类利益的问题；不仅是对某个国家构成安全威胁，而且可能 ...",
+          "position": 11
+        },
+        {
+          "title": "江天骄：中国引领推动“大金砖合作” 为全球变局提供“南方答案”",
+          "link": "https://fddi.fudan.edu.cn/a6/f5/c18965a698101/page.htm",
+          "snippet": "在全球经济复苏乏力，贸易保护主义、脱钩断链盛行，地缘政治动荡，各类传统与非 ... 性问题日益突出，现有国际秩序中不公平、低效率 ... 中方开创性 ...",
+          "date": "7天前",
+          "position": 12
+        },
+        {
+          "title": "中国前卫文艺空间受限：从《三体》编辑被查到金星演出被拒 - 美国之音",
+          "link": "https://www.voachinese.com/a/tabooed-science-fiction-transgenderism-and-halloween-stifle-chinese-literary-and-artistic-innovation/7843781.html",
+          "snippet": "同性恋或跨性别等性少数群体，过去在中国长期 ... 非刑事化。但这只是一种默许，中国政府并不会 ... 尤其在当代中国强调走回传统与弘扬经典的 ...",
+          "date": "1天前",
+          "position": 13
+        },
+        {
+          "title": "中经评论：从“零”开始管好政府钱袋子 - 中国经济网",
+          "link": "http://m.ce.cn/bwzg/202411/04/t20241104_39190843.shtml",
+          "snippet": "传统上的预算编制方法主要是基数预算、增量预算 ... 性、合理性、可行性较强。 ... 通过零基预算管理，对预算项目逐一严格审核，可以从预算源头压减非 ...",
+          "date": "1小时前",
+          "position": 14
+        },
+        {
+          "title": "在很多文化中性别从来就不止男和女| 除了男性、女性，有 ... - Facebook",
+          "link": "https://www.facebook.com/260669183761/videos/%E5%9C%A8%E5%BE%88%E5%A4%9A%E6%96%87%E5%8C%96%E4%B8%AD%E6%80%A7%E5%88%AB%E4%BB%8E%E6%9D%A5%E5%B0%B1%E4%B8%8D%E6%AD%A2%E7%94%B7%E5%92%8C%E5%A5%B3/291319862101381/",
+          "snippet": "... ，有没有想过性别 ... 除了男性、女性，有没有想过性别可以多达28种？而且 它们不是新创的 ...\n时长： 3:10\n发布时间： 2020年8月6日",
+          "date": "2020年8月6日",
+          "position": 15
+        },
+        {
+          "title": "如何理解央行买断式逆回购 - 华尔街见闻",
+          "link": "https://wallstreetcn.com/articles/3732037",
+          "snippet": "... 非银互换便利等操作提供更多“筹码”与空间。长期 ... 传统逆回购操作兼具流动性投放和政策信号意义 ... 此前央行政策工具主要作用在短期流动性和长期流动性 ...",
+          "date": "6天前",
+          "position": 16
+        },
+        {
+          "title": "冰島婦女發起「不做家務」罷工運動！ 聯合非二元性別共同抗爭",
+          "link": "https://www.youtube.com/watch?v=Vus1hlXFzVQ",
+          "snippet": "差距跟性別暴力的關注。冰島不是全球性別最平等的國家嗎？和婦女們一起走上街頭，認為 ...\n时长： 8:13\n发布时间： 2023年10月28日",
+          "date": "2023年10月28日",
+          "position": 17
+        },
+        {
+          "title": "跨性别非人化与心理健康：微侵犯、性客体化和羞耻 - X-MOL",
+          "link": "https://www.x-mol.com/paper/1626121725758488576/t",
+          "snippet": "该项目在全国292 名跨性别女性和男性的非概率样本中使用结构方程模型，通过直接和内部测试扩展了泛理论非人化框架。 查看原文. 英文标题摘要. Transgender ...",
+          "position": 18
+        },
+        {
+          "title": "[PDF] 雇员的权利谁是跨性别者或非性别常规者 - Civil Rights Department",
+          "link": "https://calcivilrights.ca.gov/wp-content/uploads/sites/32/2024/04/The-Rights-of-Employees-who-are-Transgender-or-Gender-Nonconforming-Poster_CH.pdf",
+          "snippet": "加州法律是否保护护跨性别和非常规性别雇员免. 受就业歧视？ 是。所有雇员、求职者、无薪实习生、志愿者和合同工在工. 作中不受基于受保护特征的歧视，如性别认同、 ...",
+          "position": 19
+        },
+        {
+          "title": "性别与健康",
+          "link": "https://www.who.int/zh/news-room/fact-sheets/detail/gender",
+          "snippet": "性别是指任何社会认为适合男性和女性、男孩和女孩以及非二元身份者的社会结构角色、行为、活动、属性和机会。性别也是通过人与人之间的关系形成的，可以 ...",
+          "date": "2018年8月23日",
+          "position": 20
+        },
+        {
+          "title": "年龄、性别和多样性(AGD) | UNHCR",
+          "link": "https://emergency.unhcr.org/zh-hans/%E4%BF%9D%E6%8A%A4/%E4%BF%9D%E6%8A%A4%E5%8E%9F%E5%88%99/%E5%B9%B4%E9%BE%84%E3%80%81%E6%80%A7%E5%88%AB%E5%92%8C%E5%A4%9A%E6%A0%B7%E6%80%A7agd",
+          "snippet": "尊重多样性意味着承认和重视这些差异，并营造保护性、包容性和非歧视性的环境，从而维护每个人的权利。多样性的一般概念也呼吁我们不要将自己局限于 ...",
+          "date": "2024年1月29日",
+          "position": 21
+        },
+        {
+          "title": "Gender identity and gender expression (brochure)",
+          "link": "https://www3.ohrc.on.ca/zh-hans/%E6%80%A7%E5%88%AB%E8%AE%A4%E5%AE%9A",
+          "snippet": "跨性别（Trans）：对程度不等地不符合社会对男女定义的人的一种泛称。 歧视和骚扰. 性别认定歧视指基于人的性别，故意或非故意地给该人或群体施加其他人所 ...",
+          "position": 22
+        },
+        {
+          "title": "性存在与社会性别 - Tokyo Sexual Health",
+          "link": "http://www.tsh.ncgm.go.jp/chs/about_sexual_health/Sexuality_and_Gender.html",
+          "snippet": "（2）性别认同（GI：Gender Identity） ... 自我识别的性别。又称性别同一性、心理性别。 除了男性和女性外，还有未知（性别存疑＝Questioning）、医学上被指派的既非男性又 ...",
+          "position": 23
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

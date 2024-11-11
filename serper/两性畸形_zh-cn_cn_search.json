@@ -1,0 +1,714 @@
+{
+  "query": "两性畸形",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-04T00:14:36.329536",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "两性畸形",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "answerBox": {
+        "snippet": "真两性畸形是指在同一个体内既有睾丸又有卵巢其外生殖器与第二性征介于两性之间。 染色体核型可为正常男性型、女性型或嵌合型；假两性畸形指性腺与外生殖器不相一致，如外生殖器类似女性而内生殖器为睾丸者称男性假两性畸形，相反外生殖器类似男性，内生殖器为卵巢称为女性假两性畸形。",
+        "snippetHighlighted": [
+          "在同一个体内既有睾丸又有卵巢其外生殖器与第二性征介于两性之间"
+        ],
+        "title": "两性畸形_百度百科",
+        "link": "https://baike.baidu.com/item/%E4%B8%A4%E6%80%A7%E7%95%B8%E5%BD%A2/2722908"
+      },
+      "knowledgeGraph": {
+        "title": "间性人",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhnZA6anY0zpA2rtw5Dt0CBvV3Hk1eLMMsS0-uU5Zbd7FIKCjIwgjahg&s=0",
+        "description": "间性人，又称双性人，俗称阴阳人，根据联合国人权事务高级专员办事处的报告，性别特征包括染色体、性腺、性激素或生殖器的变异导致“不符合男性或女性身体的典型二元概念”。这种变异可能涉及生殖器的模棱两可，以及除XY男性和XX女性以外的染色体基因型和性表型特征的组合。 间性人以前被称为雌雄同体。",
+        "descriptionSource": "维基百科",
+        "descriptionLink": "https://zh.wikipedia.org/zh-cn/%E9%9B%99%E6%80%A7%E4%BA%BA"
+      },
+      "organic": [
+        {
+          "title": "[PDF] 真两性畸形1例 - 协和医学杂志",
+          "link": "https://xhyxzz.pumch.cn/cn/article/pdf/preview/10.3969/j.issn.1674-9081.2011.02.020.pdf",
+          "snippet": "真两性畸形是一种睾丸组织和卵巢组织同时存. 在于一个人体上的性发育异常, 其病因学及发病机. 制尚不完全清楚。这类患者可以有多种临床表现,.",
+          "position": 1
+        },
+        {
+          "title": "女假两性畸形一例 - 中华医学期刊网",
+          "link": "https://rs.yiigle.com/CN114657201203/203013.htm",
+          "snippet": "患者21岁,出生时发现外阴部位有一个比正常新生男要大的阴茎,但在阴茎头部并无尿道开口,在阴茎下方约3 cm处可见一个小开口,尿液从此开口排出,未见正常阴道 ...",
+          "date": "2012年6月15日",
+          "position": 2
+        },
+        {
+          "title": "间性人- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E9%9B%99%E6%80%A7%E4%BA%BA",
+          "snippet": "又称假性，可进一步分为“女性假两性畸形”和“男性假两性畸形”两种。 女性. 编辑. “女性假两性畸形”是在同一个人的体内，其生殖腺是女性卵巢，但外生殖器却像是有着男性的性征。",
+          "position": 3
+        },
+        {
+          "title": "女性假两性畸形_百度百科",
+          "link": "https://baike.baidu.com/item/%E5%A5%B3%E6%80%A7%E5%81%87%E4%B8%A4%E6%80%A7%E7%95%B8%E5%BD%A2/2428314",
+          "snippet": "简介. 其产生的原因是由于胎儿暴露于雄激素过多的环境，具体病因有三种：. ①先天性肾上腺皮质增生，皮质激素合成中21羟化酶或11羟化酶缺乏时，出现女性男性化表现。 ②孕期母亲 ...",
+          "position": 4
+        },
+        {
+          "title": "北京佑安医院泌尿外科成功实施假两性畸形高难度手术",
+          "link": "https://www.bjyah.com/Html/News/Articles/24319.html",
+          "snippet": "从医学上来说，因染色体畸变和性激素分泌异常，造成一个个体在胚胎期性器官发育异常，从而导致其性器官有着男女两性的表现被称为两性畸形，而两性畸形也有相对 ...",
+          "date": "2015年4月24日",
+          "position": 5
+        },
+        {
+          "title": "小儿两性畸形症状_病因_治疗方法_鉴别_专家咨询 - 丁香医生",
+          "link": "https://m.dxy.com/disease/29738/detail",
+          "snippet": "两性畸形是什么意思？ 两性畸形是指各种原因引起的小儿出生后内、外生殖器官和第二性征（指除了生殖器官以外的外貌特征区别，如男女身高、体态、相貌等方面的差异）的发育 ...",
+          "position": 6
+        },
+        {
+          "title": "男子B超发现有子宫，医生：患罕见“两性畸形”，要看其想以什么性别 ...",
+          "link": "https://m.thepaper.cn/newsDetail_forward_21876762",
+          "snippet": "“两性畸形又可以称之为性发育异常，指的是生殖器官同时具有男女两性特征，这是先天性生殖器官发育畸形的一种。",
+          "date": "2023年2月10日",
+          "position": 7
+        },
+        {
+          "title": "女假两性畸形一例- 中华医学美学美容杂志",
+          "link": "https://rs.yiigle.com/cmaid/203013",
+          "snippet": "患者21岁,出生时发现外阴部位有一个比正常新生男要大的阴茎,但在阴茎头部并无尿道开口,在阴茎下方约3 cm处可见一个小开口,尿液从此开口排出,未见正常阴道开口,家属认为属于 ...",
+          "position": 8
+        },
+        {
+          "title": "真两性畸形1例 - 协和医学杂志",
+          "link": "https://xhyxzz.pumch.cn/article/doi/10.3969/j.issn.1674-9081.2011.02.020?viewType=HTML",
+          "snippet": "真两性畸形是一种睾丸组织和卵巢组织同时存在于一个人体上的性发育异常, 其病因学及发病机制尚不完全清楚。这类患者可以有多种临床表现, 如原发性闭经、外生殖器模糊不 ...",
+          "position": 9
+        },
+        {
+          "title": "重庆男子患假两性畸形过22年“双性”生活(图) - 新华网",
+          "link": "http://www.xinhuanet.com/politics/2015-11/09/c_128406178.htm",
+          "snippet": "男科主任杨小宁说，陈清的内外生殖器均为男性。他腹腔内无卵巢、子宫，下身展现出的女性特征是“像”而非“是”。真实病症是“尿道下裂”，尿道口在会阴部。陈清 ...",
+          "date": "2015年11月9日",
+          "position": 10
+        },
+        {
+          "title": "懵了！养了半年的“女儿”其实是“儿子”？这些情况不容忽视",
+          "link": "http://wsjkw.hangzhou.gov.cn/art/2021/2/1/art_1229113673_58925895.html",
+          "snippet": "最常见的是男性患两侧隐睾症，兼因尿道畸形，使外生殖器形似女阴。 女性假两性畸形. 绝大多数患者是在其母怀孕早期（12周或之前），受雄激素的作用，使 ...",
+          "date": "2021年2月1日",
+          "position": 11
+        },
+        {
+          "title": "18F-FDGPET/CT发现男性假两性畸形1例 - 浙江医学杂志社",
+          "link": "http://www.zjyxzzs.com/ch/reader/view_abstract.aspx?file_no=2023-1783&flag=1",
+          "snippet": "假两性畸形主要是男女个体的表现型性别与其染色体性别和性腺性别相矛盾的性别分化异常病。既往报道的男性假两性畸形患者多为先天性无子宫，子宫逐渐萎缩者少见， ...",
+          "position": 12
+        },
+        {
+          "title": "女童两性畸形 - 疾病详情-疾病-人卫临床助手-人民卫生出版社",
+          "link": "https://ccdas.pmphai.com/appdisease/toPcDetail?sessionId=&knowledgeLibPrefix=disease&id=16656",
+          "snippet": "具有男性性腺者为男性假两性畸形，具有女性性腺者为女性假两性畸形。前者比后者多见。①女性假两性畸形（female pseudohermaphroditism）是指患者性腺为卵巢，染色体核型为46，XX ...",
+          "position": 13
+        },
+        {
+          "title": "真两性畸形_常见疾病 - 中国公众健康网--",
+          "link": "http://www.chealth.org.cn/mon/diseases/article/MA144007018.html",
+          "snippet": "概述. 真两性畸形是在机体内同时存在卵巢和睾丸组织，染色体核型可以为正常男性型、女性型或嵌合型，生殖导管和外生殖器往往为两性畸形。 真两性畸形生殖腺 ...",
+          "date": "2014年5月28日",
+          "position": 14
+        },
+        {
+          "title": "16岁中学生患两性畸形做手术恢复女儿身(图) - 新浪新闻",
+          "link": "https://news.sina.cn/sa/2005-04-16/detail-ikkntiam3265191.d.html",
+          "snippet": "昨天早上8时，丁纯被推到手术室门前。手术非常复杂，3名妇产科专家首先在腹腔镜下进行探查，发现病人体内有子宫、卵巢，但其中一侧无性腺，而另一侧可能是男女 ...",
+          "date": "2005年4月16日",
+          "position": 15
+        },
+        {
+          "title": "男性假两性畸形（雄激素不敏感综合征）1例报道 - Semantic Scholar",
+          "link": "https://www.semanticscholar.org/paper/%E7%94%B7%E6%80%A7%E5%81%87%E4%B8%A4%E6%80%A7%E7%95%B8%E5%BD%A2%EF%BC%88%E9%9B%84%E6%BF%80%E7%B4%A0%E4%B8%8D%E6%95%8F%E6%84%9F%E7%BB%BC%E5%90%88%E5%BE%81%EF%BC%891%E4%BE%8B%E6%8A%A5%E9%81%93-%E5%B7%A6%E6%AC%A3%E6%9B%8C-%E8%B0%AD%E6%96%87%E4%BD%B3/260f0f71975d823f2b9569a48cdce58f65927aa9",
+          "snippet": "男女生物学性别可根据性染色体核型、内生殖器性腺结构、外生殖器形态以及第二性征等区分,但某些患者同时具有男女两性特征,称为两性畸形[1]。1953年Morris首先详细描述 ...",
+          "position": 16
+        },
+        {
+          "title": "重庆男子患假两性畸形过22年“双性”生活(图) - 中国新闻网",
+          "link": "https://www.chinanews.com.cn/m/sh/2015/11-09/7612179.shtml",
+          "snippet": "吴擢江指出，保守估计国内每年约有二三百例就诊患者，其中多为30岁以下人群。原因是外生殖器异常在多数患者青春期时就能突显，但也有个例。曾有一位患者，外貌 ...",
+          "date": "2015年11月9日",
+          "position": 17
+        },
+        {
+          "title": "真两性畸形",
+          "link": "http://hjzyy.mil.cn/Mobile/Disease/Index_NotSite/581",
+          "snippet": "真两性畸形. 外生殖器分化异常；男女难辨，有数种染色体核型，但体内有睾丸、卵巢两种性腺同时存在。一、诊断(一)临床表现1．外生殖器异常，难以区分男女。2．",
+          "position": 18
+        },
+        {
+          "title": "两性畸形的概述，怎样判别两性畸形的性别 - JD.com",
+          "link": "https://www.jd.com/pccontent/231459",
+          "snippet": "二、两性畸形的性别判别. 两性畸形有真两性畸形与假两性畸形之分，其中假两性畸形又分为男性假两性畸形与女性假两性畸形。 ... 有时真两性畸形人会同时出现男女的第二性征， ...",
+          "position": 19
+        },
+        {
+          "title": "假雌雄同体- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E5%81%87%E9%9B%8C%E9%9B%84%E5%90%8C%E4%BD%93",
+          "snippet": "女性假两性畸形病人的性腺为卵巢，染色体核型为46，XX，但外生殖器部分男性化。 参考文献.",
+          "position": 20
+        },
+        {
+          "title": "男性假两性畸形(雄激素不敏感综合征)1例报道",
+          "link": "https://www.sinomed.ac.cn/article.do?ui=2015342630",
+          "snippet": "男女生物学性别可根据性染色体核型、内生殖器性腺结构、外生殖器形态以及第二性征等区分,但某些患者同时具有男女两性特征,称为两性畸形[1]。1953年Morris首先详细描述 ...",
+          "position": 21
+        },
+        {
+          "title": "男性假两性畸形超声表现1例 - 梅斯医学",
+          "link": "https://m.medsci.cn/article/show_article.do?id=241815282967",
+          "snippet": "超声检查发现个体双侧性腺不一致或双侧卵睾可提示真两性畸形；男性假两性畸形超声可测及两侧睾丸，未探及卵巢；女性假两性畸形超声则可探及双侧卵巢，未测及 ...",
+          "date": "2018年11月5日",
+          "position": 22
+        },
+        {
+          "title": "一半是女的“两性人”真的存在吗？医生给出答案 - QQ News",
+          "link": "https://news.qq.com/rain/a/20220517A02TNW00",
+          "snippet": "在这个过程中，如果性染色体异常、性腺发育异常或者是内分泌激素异常，就会形成两性畸形。也就是说，一个人同时拥有男女两性的性器官，俗称阴阳人。 图片来源： ...",
+          "date": "2022年5月18日",
+          "position": 23
+        },
+        {
+          "title": "两性畸形 - A+医学百科",
+          "link": "http://www.a-hospital.com/w/%E4%B8%A4%E6%80%A7%E7%95%B8%E5%BD%A2",
+          "snippet": "两性畸形. 定义：. 外生殖器既有男性特征也有女性特征。 分类：. 1. 真两性畸形：在同一个人身体上，既有男性睾丸，又有女性卵巢两种生殖腺的畸形现象。",
+          "position": 24
+        },
+        {
+          "title": "两性畸形真的存在吗？有女性器官也有男性器官？医生给出答案 - 网易",
+          "link": "https://www.163.com/dy/article/I375HIQU0553ETNW.html",
+          "snippet": "但事实上，并没有传说中那么神秘，他们真实存在，医学上一般称为两性畸形。不过不论是哪种说法，都对患者带有一定的歧视或贬损色彩，故在2005年的芝加哥共识中， ...",
+          "date": "2023年4月25日",
+          "position": 25
+        },
+        {
+          "title": "两性畸形分真假 - 健康时报",
+          "link": "http://www.jksb.com.cn/html/2020/rmdby_0430/162318.html",
+          "snippet": "假两性畸形的患者，实质是体内只有一种性腺，或男性性腺，或女性性腺。具有男性性腺者，其外生殖器的外观却是女性特征，貌似女性，实为男性；具有女性性腺者，其外 ...",
+          "date": "2020年4月30日",
+          "position": 26
+        },
+        {
+          "title": "两性畸形 - 智汇三农",
+          "link": "https://www.pwsannong.com/c/2016-04-13/563641.shtml",
+          "snippet": "两性畸形可分为真两性畸形与假两性畸形，前者指同时具备雌雄性腺的个体，如一侧为睾丸，另一侧为卵巢，或一侧为睾丸或卵巢，另一侧为卵睾体；或两侧均为卵巢体，内外生殖器官均 ...",
+          "position": 27
+        },
+        {
+          "title": "两性畸形，宜在上幼儿园前治疗 - 育儿- 新浪",
+          "link": "http://baby.sina.com.cn/health/14/0707/2014-07-07/0708273999.shtml",
+          "snippet": "这种疾病非常罕见，有的患者一部分细胞的染色体核型是XY(男性)，另一部分细胞的染色体核型是XX(女性)，他们的身体相应地具有两套生殖腺，既有卵巢又有睾丸，外 ...",
+          "date": "2014年7月7日",
+          "position": 28
+        },
+        {
+          "title": "32例女性假两性畸形临床分析 - 北京大学期刊网",
+          "link": "http://ccj.pku.edu.cn/article/info?aid=289462295",
+          "snippet": "陈延琴. 1. ; · 石东红. 1. ; · 谢鲁文. 1. ; · 盛燕. 1. ; · 冷启刚. 2.",
+          "position": 29
+        },
+        {
+          "title": "两性畸形知识库 - 微医",
+          "link": "https://wy.guahao.com/kbjb/37306",
+          "snippet": "两性畸形又称两性人，它包括各种因染色体异常、性腺发育异常和内分泌紊乱所引起的内、外生殖器官及第二性征的发育畸形。 两性畸形(hermaphroditism 或ambiguous ...",
+          "position": 30
+        },
+        {
+          "title": "两性畸形罕见病例：冰城4岁孩童“女儿芯”却是“男儿身” - 转化医学网",
+          "link": "https://www.360zhyx.com/home-research-index-rid-28522.shtml",
+          "snippet": "然而，手术之前对于芊芊爸妈来说，是漫长的煎熬。哈医大二院儿外科崔清波教授介绍，两性畸形分为男性假两性畸形、女性假两性畸形以及真两性畸形，经过相关的影像检查可知，患者 ...",
+          "position": 31
+        },
+        {
+          "title": "真两性畸形--掌上医讯| 做医生关注的新闻 - doctorpda.cn",
+          "link": "https://www.doctorpda.cn/baike/%E7%9C%9F%E4%B8%A4%E6%80%A7%E7%95%B8%E5%BD%A2",
+          "snippet": "真两性畸形是在机体内同时存在卵巢和睾丸组织，染色体核型可以为正常男性型、女性型或嵌合型，生殖导管和外生殖器往往为两性畸形。 真两性畸形生殖腺必须是完整的，即睾丸必须 ...",
+          "position": 32
+        },
+        {
+          "title": "两性畸形是男还是女？ - 环球医学",
+          "link": "https://www.g-medon.com/Item/51787.aspx",
+          "snippet": "两性畸形是男还是女？ 来源： 时间：2017年08月03日 点击数: 84 5星. 男性患者60岁，左侧腹股沟区肿物20天，表面较光滑，无触痛，表面皮肤无红肿，轻微胀满感，平卧位不能自行还 ...",
+          "position": 33
+        },
+        {
+          "title": "男女同体和两性畸形-孙学军的博文 - 科学网",
+          "link": "https://wap.sciencenet.cn/blog-41174-869443.html?mobile=1",
+          "snippet": "正常情况下，男性的性染色体是XY，女性的性染色体是XX，少数存在染色体疾病的人可能存在XXY等情况，这个孩子完全不一样，因为有的细胞是XY，也有的细胞是XX，这个 ...",
+          "date": "2015年2月22日",
+          "position": 34
+        },
+        {
+          "title": "两性畸形",
+          "link": "https://www.yihu.com/jb/7464.shtml",
+          "snippet": "若同一个体内既有睾丸又有卵巢其外生殖器与第二性征介于两性之间，称为真两性畸形。若性腺与外生殖器不相一致称假两性畸形。如外生殖器类似女性而内生殖器为睾丸者称男性假 ...",
+          "position": 35
+        },
+        {
+          "title": "超声诊断小儿真两性畸形1例 - 中国医学影像技术",
+          "link": "http://www.cjmit.com/cjmit/ch/reader/download_pdf.aspx?file_no=20070943&year_id=2007&quarter_id=9&falg=1",
+          "snippet": "真两性畸形在性别. 畸形中约占20%。从表型而言,根据性腺分化程度,外生殖器可. 有男性、女性及混合型3种。男性表型多数 ...",
+          "position": 36
+        },
+        {
+          "title": "男子B超发现有子宫，医生：患罕见两性畸形，要看其想以什么性别生活",
+          "link": "https://news.qq.com/rain/a/20230210A08SJD00",
+          "snippet": "视觉中国图一名年轻男子经B超检查发现有子宫，16岁时就来了例假，有周期性下腹部疼痛的情况，但染色体46XY，确定为男性。2月9日晚，澎湃新闻记者从上海交通 ...",
+          "date": "2023年2月10日",
+          "position": 37
+        },
+        {
+          "title": "两性畸形是男还是女？ - 医学论坛网",
+          "link": "https://m.cmt.com.cn/detail/1312540.html",
+          "snippet": "两性畸形是男还是女？ 作者：佚名来源：泌尿外科疑难病例讨论精选日期：17-08-05. 男性患者60岁，左侧腹股沟区肿物20天，表面较光滑，无触痛，表面皮肤无红肿，轻微胀满感，平卧 ...",
+          "position": 38
+        },
+        {
+          "title": "两性畸形 - 智汇三农",
+          "link": "https://www.pwsannong.com/bk/xmy/jxyc/ycqx/lxjx/",
+          "snippet": "两性畸形. 两性畸形 2016-04-13 18:04:26. 一个体同时具备雌雄全部或部分生殖器官的现象，又称半雌雄体或间性。分类 两性畸形可分为真两性畸形与假两.",
+          "position": 39
+        },
+        {
+          "title": "两性畸形是什么回事？ - 家庭医生在线",
+          "link": "https://www.familydoctor.com.cn/sex/a/201805/2477602.html",
+          "snippet": "两性畸形，俗称“阴阳人”，是指一私人的外生殖器官、性腺及副性征互相矛盾。两性畸形通常主要根据体内的主性腺将两性畸形分为真两性畸形和假两性畸形两大 ...",
+          "date": "2018年11月23日",
+          "position": 40
+        },
+        {
+          "title": "两性畸形",
+          "link": "https://weixin.91160.com/baike/illness/details?illId=5265",
+          "snippet": "两性畸形（hermaphroditism）是指一个个体的性器官有着男女两性的表现。其发生原因在于性染色体畸变，雄激素分泌异常导致胚胎期性器官发育异常。若同一个体内既有睾丸又有 ...",
+          "position": 41
+        },
+        {
+          "title": "男性假两性畸形 - 疾病详情-疾病-人卫临床助手-人民卫生出版社",
+          "link": "https://ccdas.pmphai.com/appdisease/toPcDetail?sessionId=&knowledgeLibPrefix=disease&id=19688",
+          "snippet": "雄激素不敏感综合征（androgen insensitivity syndrome，AIS），X连锁隐性遗传病，决定雄激素受体AR基因（在Xq11-12）发生突变，引起雄激素靶细胞膜上的雄激素受体缺陷，造成对雄 ...",
+          "position": 42
+        },
+        {
+          "title": "重庆男子患假两性畸形过22年“双性”生活(图) - 海口+",
+          "link": "http://m.hkwb.net/content/2015-11/09/content_2702405_3.htm",
+          "snippet": "专家释疑. “两性畸形”有真假之分. 万州国防医院主治医师吴擢江说，两性畸形由胚胎发育分化异常引起，可分为男性假两性畸形、女性假两性畸形和真两性畸形 ...",
+          "date": "2015年11月9日",
+          "position": 43
+        },
+        {
+          "title": "两性畸形是什么病 - 好大夫在线",
+          "link": "https://m.haodf.com/jibing/liangxingjixing/article_1001.htm",
+          "snippet": "两性畸形，又称为性发育异常，是指生殖器官同时具有男女两性特征，是先天性生殖器官发育畸形的一种。 查看百科详情. 精选文章; 精选小视频.",
+          "position": 44
+        },
+        {
+          "title": "女性假两性畸形 - 中国人民解放军总医院第六医学中心",
+          "link": "http://hjzyy.mil.cn/Mobile/Disease/Index_NotSite/579",
+          "snippet": "女性假两性畸形. 患者染色体核型为46，XX，为常染色体隐性遗传病。因21羟化酶缺陷造成皮质醇合成障碍而雄激素和孕激素增加，导致不同程度男性化，有卵巢、子宫、宫颈、 ...",
+          "position": 45
+        },
+        {
+          "title": "假两性畸形的临床治疗分析",
+          "link": "https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjQwNzA0EhNzeW1yenh3a3p6MjAxMDA3MDA3Ggh2NWwzbWtjbA%253D%253D",
+          "snippet": "目的探讨假两性畸形患者的临床诊断和有效治疗方法.方法对男性假两性畸形的患者,采用阴茎延长加粗术结合阴茎再造术来治疗小阴茎畸形;对女性假两性畸形的患者, ...",
+          "position": 46
+        },
+        {
+          "title": "[PDF] 真两性畸形伴右侧睾丸异位一例",
+          "link": "http://www.fsxsj.net/ch/reader/download_pdf_file.aspx?journal_id=fsxsjzz&file_name=B3147901C258E490D979EE43861CEE2773CD65F42F800F43CADF50EFB1C6593D36CA80617A37C096F352A11B4DAC2E90E8794D1A72B898A53E012244F438FAD6&open_type=self&file_no=20150229",
+          "snippet": "讨论两性畸形系性别发育畸形，分真假两种，可出现不. 同程度的内外生殖器、性腺及第二性征的两性特点。真两性畸. 形只有在睾丸和卵巢组织同时存在于同一机体时才能诊断；睾.",
+          "position": 47
+        },
+        {
+          "title": "少女患两性畸形有男性生殖器被取笑为“人妖” - 央广网",
+          "link": "http://news.cnr.cn/native/gd/20160329/t20160329_521735426.shtml",
+          "snippet": "两名从深圳赶来的专家到了，术前讨论时，小马和妈妈也坐下来旁听。专家说，小马这种情况是人类群体中五十万分之一的双性人，她是女人，但是体内雄性激素过高，长 ...",
+          "date": "2016年3月29日",
+          "position": 48
+        },
+        {
+          "title": "男假两性畸形 - A+医学百科",
+          "link": "http://www.a-hospital.com/w/%E7%94%B7%E5%81%87%E4%B8%A4%E6%80%A7%E7%95%B8%E5%BD%A2",
+          "snippet": "男假两性畸形 ... 假两性畸形是遗传性别、性腺性别和表型性别的不均一性，即性腺性别与遗传性别一致，而生殖导管和尿生殖窦的发育却具有异性的成分或兼有两性的特征。以遗传 ...",
+          "position": 49
+        },
+        {
+          "title": "药物性女性假两性畸形9例临床分析 - 蚌埠医科大学学报",
+          "link": "https://xuebao.bbmu.edu.cn/article/id/3c84240b-5e06-4289-a8bf-053b94d27def",
+          "snippet": "出版历程 ... 摘要: 目的: 探讨药物导致女性假两性畸形的原因、临床特点、治疗方法和预后。方法: 9例均经手术矫正外阴畸形。结果: 9例患者均恢复女性性征。结论: 药物性女性 ...",
+          "position": 50
+        },
+        {
+          "title": "两性畸形患者性别定位的选择及思考 - 医学与哲学",
+          "link": "https://yizhe.dmu.edu.cn/article/id/6412e7f5fa89b2af1f8758ac?viewType=HTML",
+          "snippet": "两性畸形患者性别定位的选择及思考. 朱建莹 1,; 陈星星 2,; 梁晓琴 2,; 唐胜建 2, ,. 1. 淄博市张店区人民医院整形外科山东淄博255000;.",
+          "position": 51
+        },
+        {
+          "title": "16岁两性畸形人性别难辨渴望想通过手术成为女人",
+          "link": "https://m.huanqiu.com/article/9CaKrnK1qWn",
+          "snippet": "阿德想通过手术成为真正的女人。后来发现婴儿身体特别，属“两性畸形”，便放弃了这个念头。",
+          "date": "2017年3月21日",
+          "position": 52
+        },
+        {
+          "title": "小儿两性畸形知识点介绍 - 医学教育网",
+          "link": "https://www.med66.com/erkezhuzhiyishi/fudaoziliao/gg1904131629.shtml",
+          "snippet": "小儿两性畸形是儿科主治医师考试会涉及的内容，为了帮助大家了解，医学教育网为大家搜集整理如下： 1.真两性畸形：性腺生殖器及性征具有男女两性的特点， ...",
+          "date": "2019年4月13日",
+          "position": 53
+        },
+        {
+          "title": "女性型男性假两性畸形1例 - 医联",
+          "link": "https://www.medlinker.com/m/share/casem/10716753",
+          "snippet": "男性假两性畸形，即患者性腺为睾丸，但生殖道及外生殖器缺少正常完整的雄性发育，而在一定程度上出现女性的表型。根据外生殖器的情况可分为：①男性型；②女性型； ...",
+          "date": "2014年12月27日",
+          "position": 54
+        },
+        {
+          "title": "双性人是真实存在，还是性别幻想？真相刷新你的世界观 - 凤凰网",
+          "link": "https://i.ifeng.com/c/8Cc7AhietnM",
+          "snippet": "两性畸形是指由于各种原因（包括性染色体异常、性腺异常及激素异常）而致出生后内外生殖器的发育畸形，可分为真两性畸形、男性假两性畸形和女性假两性畸形。",
+          "date": "2022年1月7日",
+          "position": 55
+        },
+        {
+          "title": "女性假两性畸形1例 - 湘雅医学期刊",
+          "link": "http://www.xyyxqks.com/zgyxgc/article/html/201104104?st=search",
+          "snippet": "正>1病例资料患者,女,12岁,出生后阴蒂进行性增大,近两年增大明显似阴茎,伴声音低沉,皮肤黑,喉结突出,前来就诊。查体:外生殖器处大小阴唇完整,阴蒂肥大似阴茎样长约7 ...",
+          "position": 56
+        },
+        {
+          "title": "真两性畸形7例报告",
+          "link": "https://zhjbkz.ahmu.edu.cn/article/id/JBKZ199903049",
+          "snippet": "王益春, 李希麟, 展望. 真两性畸形7例报告[J]. 中华疾病控制杂志, 1999, 3(3): 240-240.",
+          "position": 57
+        },
+        {
+          "title": "疾病搜索/ 妇产科/ 两性畸形 - 世界医疗网",
+          "link": "https://www.sjyl.com/liangxingjixing/",
+          "snippet": "两性畸形 · 1．先天性肾上腺皮质增生 确诊后应立即开始并终身给予可的松类药物，抑制促肾上腺皮质激素过量分泌，和防止外阴进一步男性化及骨骺提前闭合，还可促进女性生殖器官 ...",
+          "position": 58
+        },
+        {
+          "title": "一例超声诊断真两性畸形病例分析",
+          "link": "https://m.antpedia.com/news/2708303.html",
+          "snippet": "真两性畸形是一种体内同时具有睾丸和卵巢两种性腺组织的罕见的性分化异常疾病，其发病机制尚不明确，该畸形的发生可能与胎盘或胎儿接受了过量或者不足量的雄 ...",
+          "date": "2022年3月9日",
+          "position": 59
+        },
+        {
+          "title": "46岁男子每个月都来“大姨妈” 两性畸形如何治疗？ - 家庭医生",
+          "link": "https://www.familydoctor.cn/a/201704/1842244.html",
+          "snippet": "据报道，46岁许先生既不是完全的女人也不是完全的男人，医学诊断为两性畸形，就是俗称的双性人、雌雄同体。",
+          "date": "2017年4月19日",
+          "position": 60
+        },
+        {
+          "title": "两性畸形患者王梓淇：我就是一个正常的女孩子，只是生病了 - 搜狐",
+          "link": "https://www.sohu.com/a/713934468_121434717",
+          "snippet": "两性畸形患者王梓淇：我就是一个正常的女孩子，只是生病了 ... “自出生起被发现生殖器异常，存在男性外生殖器，子宫，卵巢等结构，染色体为46XX……”这是门诊病历上 ...",
+          "date": "2023年8月22日",
+          "position": 61
+        },
+        {
+          "title": "困在身体里的人：两性畸形罕见病患者的33年 - 华龙网",
+          "link": "https://news.cqnews.net/1/detail/1143142735502036992/app/content_1143142735502036992.html",
+          "snippet": "真两性畸形是指同一个个体内既有睾丸又有卵巢，其外生殖器与第二性征介于两性之间。王梓淇的身体同时存在男女两种性别的生殖器官，但其染色体核型分析检测 ...",
+          "date": "2023年8月21日",
+          "position": 62
+        },
+        {
+          "title": "一男性假两性畸形患者近日顺利接受隆胸手术 - 厦门大学附属第一医院",
+          "link": "https://www.xmfh.com.cn/info/1724/5526.htm",
+          "snippet": "真两性畸形是指体内既有男性性腺又有女性性腺，即睾丸和卵巢都具备，医学上称这种性腺为“卵睾”，临床上极为少见。假两性畸形的特点表现为性腺是单一的，或只有男性睾丸，或只有 ...",
+          "position": 63
+        },
+        {
+          "title": "男性假两性畸形2例误治分析",
+          "link": "https://www.sinomed.ac.cn/article.do?ui=2006249260",
+          "snippet": "男假两性畸形是指染色体核型为46,XY,生殖腺为睾丸,但生殖管道,特别是外生殖器,或为女性或为男女两性特征者,第二性征亦发育不良。男假两性畸形病情复杂,临床表现多样, ...",
+          "position": 64
+        },
+        {
+          "title": "超声微课堂～两性畸形",
+          "link": "https://www.yihu.com/jb/lxjx/87767.html",
+          "snippet": "两性畸形是在胚胎发育期间分化异常所致的性别畸形，一般根据性染色体、梁色质、性腺及外生殖器的不一致，可分型为男性假两性畸形、女性假两性畸形和真两性畸形。 疾病 ...",
+          "position": 65
+        },
+        {
+          "title": "DNA检验结合临床检查确定男性假两性畸形1例- 法信",
+          "link": "https://www.faxin.cn/lib/Flwx/FlqkContent.aspx?gid=F425631",
+          "snippet": "DNA检验结合临床检查确定男性假两性畸形1例. 期刊名称： 《中国法医学杂志》. 期刊年份： 2014年. 期号： 5. 页码： 496. 作者： 曾国文;张盛壮;杨永浩;陈馨扬. 作者单位 ...",
+          "position": 66
+        },
+        {
+          "title": "儿童女性假两性畸形的外科治疗进展-【维普期刊官网】",
+          "link": "https://qikan.cqvip.com/Qikan/Article/Detail?id=666097982&from=Qikan_Article_Detail",
+          "snippet": "摘要 女性假两性畸形是指内生殖器为女性生殖腺而外生殖器类似男性的一种疾病,是一类常染色体隐性遗传疾病,在新生儿性别畸形中的发病率为1/16 000-1/20 000, ...",
+          "position": 67
+        },
+        {
+          "title": "天生拥有双份生殖系统，他们背负的争议与痛苦远不止双倍 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_8224680",
+          "snippet": "检查的结果让小刘的所有亲友都大惊失色，小刘的染色体核型为46XY，即男性，CT、B超都未能找到子宫和卵巢，反而找到了疑似隐睾的组织，确诊为“男性假两性畸形”。",
+          "date": "2020年7月11日",
+          "position": 68
+        },
+        {
+          "title": "男性假两性畸形——睾丸退化综合征一例报告 - 北京大学期刊网",
+          "link": "http://ccj.pku.edu.cn/Article/info?aid=289462924",
+          "snippet": "闫桂英,郑慕白,李文荣等.男性假两性畸形——睾丸退化综合征一例报告[J].中国生育健康杂志,1996(04):44-45.",
+          "position": 69
+        },
+        {
+          "title": "真两性畸形(疾病症状) - 搜狗百科",
+          "link": "https://baike.sogou.com/v6548711.htm",
+          "snippet": "疾病介绍 ... 两侧各自均有睾丸和卵巢，即不仅左侧有睾丸和卵巢，而且右侧也有睾丸和卵巢。 ... 一侧兼有卵巢和睾丸，另一侧则只有卵巢或只有睾丸。 ... 一侧只有睾丸，另一侧只有 ...",
+          "position": 70
+        },
+        {
+          "title": "妇科成功开展保留神经和血管的阴蒂成形术治疗两性畸形",
+          "link": "https://www.qduh.cn/xinwendongtai/yiyuanxinwen/8-yiyuanxinwen/194-2016-01-25-08-50-03",
+          "snippet": "本网讯（妇科 韩毅）日前，妇科成功开展保留神经和血管的阴蒂成形术治疗真假两性畸形三例，取得良好效果。 三例患者中假两性畸形2例，真两性畸形1例。",
+          "date": "2012年12月5日",
+          "position": 71
+        },
+        {
+          "title": "男性假两性畸形– Seksediversiteit.nl",
+          "link": "https://www.seksediversiteit.nl/zh-CN/woordenlijst/mannelijk-pseudo-hermafroditisme/",
+          "snippet": "男性假两性畸形一个过时的术语，通常被相关人员视为冒犯，用于描述性别多样性的形式，其中染色体模式为XY，身体（部分）为女性。男性一词指的是XY 染色体。",
+          "date": "2024年1月5日",
+          "position": 72
+        },
+        {
+          "title": "妇科女性生殖系统发育异常——两性畸形 - Semantic Scholar",
+          "link": "https://www.semanticscholar.org/paper/%E5%A6%87%E7%A7%91-%E5%A5%B3%E6%80%A7%E7%94%9F%E6%AE%96%E7%B3%BB%E7%BB%9F%E5%8F%91%E8%82%B2%E5%BC%82%E5%B8%B8%E2%80%94%E2%80%94%E4%B8%A4%E6%80%A7%E7%95%B8%E5%BD%A2-%E7%94%B0%E6%B0%B8%E6%9D%B0/27fe66c3bedc1925f8bcb4423903043587ddc013",
+          "snippet": "男女性别可根据性染色体、生殖腺结构、外生殖器形态以及第二性征加以区分。但有些患者生殖器官同时具有某些男女两性特征，称两性畸形。两性畸形为先天性生殖器发育畸形 ...",
+          "position": 73
+        },
+        {
+          "title": "假两性畸形 - 生物百科",
+          "link": "https://wiki.bioguider.com/doc-view-2885.html",
+          "snippet": "假两性畸形身具此种畸形者，体内实际只有一种性腺，或者是男性性腺，或者是女性性腺。但是，具有男性性腺者，其外生殖器的外观，却是女性特征；具有女性性腺者，其外生殖器的 ...",
+          "position": 74
+        },
+        {
+          "title": "真假两性畸形 - 山东省立医院",
+          "link": "https://www.sph.com.cn/Html/Diseases/Main/Index_1776.html",
+          "snippet": "山东第一医科大学附属省立医院组… 我院院史馆被遴选命名为“山东省… 我院离退休老干部演绎的《盛世鸿… 山东第一医科大学附属省立医院儿… 国家卫生健康委党组成员、副主任…",
+          "position": 75
+        },
+        {
+          "title": "男性假两性畸形合并附睾炎1例 - 汉斯出版社",
+          "link": "https://www.hanspub.org/journal/paperinformation?paperid=75482",
+          "snippet": "男性假两性畸形常常以原发性闭经就诊，而AIS、性腺发育异常与先天性无阴道是原发性闭经的三大主要原因，其中AIS占10%。就本文案例为例，患者出生时医生发现外阴结构异常就诊， ...",
+          "position": 76
+        },
+        {
+          "title": "先天性双侧唇裂伴男性假两性畸形1例报告",
+          "link": "https://www.cjoms.org/CN/abstract/abstract1065.shtml",
+          "snippet": "该患者左侧上睑下垂；双侧上唇自唇红缘向上至双侧鼻底全部裂开，双侧鼻翼扁平，中唇短小、前翘、左偏；前颌突与双侧上颌突完全分离；外阴部在自然状态下极似女性，可见“大阴唇”， ...",
+          "position": 77
+        },
+        {
+          "title": "两性畸形 - 微医",
+          "link": "https://wy.guahao.com/disease/37306",
+          "snippet": "两性畸形又称两性人，它包括各种因染色体异常、性腺发育异常和内分泌紊乱所引起的内、外生殖器官及第二性征的发育畸形。两性畸形(hermaphroditism或am...",
+          "position": 78
+        },
+        {
+          "title": "广西夫妻7个孩子中3个患两性畸形：器官是女，染色体显示男",
+          "link": "https://www.guancha.cn/society/2017_01_12_389053.shtml?web",
+          "snippet": "今年41岁的来宾男子黄某和妻子共育有7个孩子，其中前面生下的4个女儿都正常，后面生下的3个孩子却患上了少见的先天性两性畸形：从外生殖器看，“他们”是 ...",
+          "date": "2017年1月12日",
+          "position": 79
+        },
+        {
+          "title": "假两性畸形_常见疾病 - 中国公众健康网--",
+          "link": "http://www.chealth.org.cn/mon/diseases/article/MA144004315.html",
+          "snippet": "假两性畸形(pseudohermaphroditism)患者只有一种性腺，但第二性征和外生殖器兼有两性特征或倾向于与性腺相反的性别。",
+          "date": "2016年1月8日",
+          "position": 80
+        },
+        {
+          "title": "先天性肾上腺增生症致女性假两性畸形1例 - 临床泌尿外科杂志",
+          "link": "https://lcmw.whuhzzs.com/article/id/6bdf5ef0-b997-41a1-a774-3737ad737d4c",
+          "snippet": "先天性肾上腺增生症致女性假两性畸形1例. 王蓓蓓 1,; 俞咏梅 1, , ,; 卓栋 2,; 黄群联 2,; 翟建 1. 1. 皖南医学院弋矶山医院影像中心(安徽芜湖, 241001);.",
+          "position": 81
+        },
+        {
+          "title": "尿道延长在女性假两性畸形矫治术中的应用",
+          "link": "https://xuebao.bbmu.edu.cn/article/id/c4ac12df-4b9a-44b4-8146-226c25569b01",
+          "snippet": "Urethral canal lengthening in female pseudoherma phroditism diorthosis · 假两性畸形 / · 生殖器疾病 / · 女性/外科手术.",
+          "position": 82
+        },
+        {
+          "title": "世界首例单孔腹腔镜下男假两性畸形整形术 - 南方医科大学学报",
+          "link": "https://www.j-smu.com/CN/Y2011/V31/I06/933",
+          "snippet": "术后6月复查，新阴道生长良好，无明显挛缩，固定适当，会阴部外形构建良好。结论LESS 手术创伤小，恢复快，对两性畸形的美容效果十分明显，有望成为治疗两性畸形的更加微创、美观 ...",
+          "position": 83
+        },
+        {
+          "title": "两性畸形-疾病百科 - 广汉市人民医院【官方网站】",
+          "link": "https://www.ghsrmyy.com/disease/show2727/",
+          "snippet": "两性畸形是指一个个体的性器官有着男女两性的表现其发生原因在于性染色体畸变，雄激素分泌异常导致胚胎期性器官发育异常。若同一个体内既有睾丸又有卵巢其外生殖器与第 ...",
+          "position": 84
+        },
+        {
+          "title": "小儿两性畸形的临床表现 - 分析测试百科网",
+          "link": "https://m.antpedia.com/news/2922076.html",
+          "snippet": "1.真两性畸形性腺生殖器及性征具有男女两性的特点，即具有卵巢和睾丸，或为一个性腺内具有两种性腺组织（又称卵睾）。染色体为46XX或46XY，或二者嵌合体。",
+          "date": "2023年3月5日",
+          "position": 85
+        },
+        {
+          "title": "两性畸形的超声特征 - 中国医学影像技术",
+          "link": "http://www.cjmit.com/ch/reader/download_pdf_file.aspx?journal_id=cjiit&file_name=3618E016C89268ECF7344DB75FDAF7462B5132EC3B3E3608A39CC6D469C918926609C43A01E2CB88D5CCC773EB7613EE4F6DC0F774D6D2C85B51D4EBB30E9343&open_type=self&file_no=20141211",
+          "snippet": "性畸形超声特征暎结果暋真两性畸形棻棾例棳其中双侧卵睾棽例棳一侧卵睾暍另侧睾丸或隐睾椀例棳一侧睾丸暍另侧卵巢椂. 例暎假两性畸形棽棽例棳其中男性假两性畸形棻棽例 ...",
+          "position": 86
+        },
+        {
+          "title": "真两性畸形伴性母细胞瘤含内胚窦瘤1例报告 - 肿瘤防治研究",
+          "link": "http://www.zlfzyj.com/article/id/8266",
+          "snippet": "摘要: 患者,社会性别女,18岁,1991年就诊。现身高147cm,体重47.5kg。患者出生时即发现阴蒂肥大,但至青春期前变化不明显,并有乳房发育。 HTML全文. 参考文献 (0).",
+          "position": 87
+        },
+        {
+          "title": "男宝6个月性早熟，背后原因竟是这个 - 深圳市卫生健康委员会",
+          "link": "https://wjw.sz.gov.cn/gzcy/ywzs/jhsy/content/post_3194047.html",
+          "snippet": "虽然外生殖器有两性畸形，但内生殖器仍为女性型，有卵巢、输卵管、子宫。患儿在2-3岁后可出现阴毛、腋毛。于青春期，女性性征缺乏，无乳房发育和月经来潮。",
+          "date": "2020年8月20日",
+          "position": 88
+        },
+        {
+          "title": "二维超声联合剪切波技术诊断新生儿假两性畸形1例 - 梅斯医学",
+          "link": "https://m.medsci.cn/article/show_article.do?id=4149159e790b",
+          "snippet": "两性畸形是一种性别畸形，发病率约1/10万至1/30万，大多数患者确诊一般在出生时。临床表现复杂多样，可分真两性畸形和假两性畸形，假两性畸形又可分为男性假 ...",
+          "date": "2019年2月11日",
+          "position": 89
+        },
+        {
+          "title": "四川治疗两性畸形的医生 - 好大夫在线",
+          "link": "https://www.haodf.com/citiao/jibing-liangxingjixing/tuijian-doctor-51.html",
+          "snippet": "四川治疗两性畸形的医生 ... 根据156位患者真实就诊评价，结合医生诊疗经验推荐89位医生。 ... 擅长：小儿泌尿生殖系统疾病的治疗，包括外阴畸形、肾输尿管先天性畸形、性别发育 ...",
+          "position": 90
+        },
+        {
+          "title": "成人真两性畸形的性别鉴定1例- 法信- 懂法",
+          "link": "https://www.faxin.cn/lib/Flwx/FlqkContent.aspx?gid=F363748",
+          "snippet": "作者单位： 新乡医学院心理学系;四川大学华西基础医学与法医学院. 学科分类：. 摘要：. 关键词：. 法医临床学 真两性畸形 性别. 英文摘要：. 英文关键词：. 亲爱的用户：.",
+          "position": 91
+        },
+        {
+          "title": "河北15岁“女孩”被诊断两性畸形将只能做男孩 - 新闻",
+          "link": "http://news.sohu.com/20130412/n372532775.shtml",
+          "snippet": "... 两性畸形”，只能做男孩. 15岁“女孩”的男孩梦. 在那家医院，他的手术或被排在一年后，但他胡须冒出、声音变粗，已经等不及了。您能帮他吗？ 美国作家杰弗 ...",
+          "date": "2013年4月12日",
+          "position": 92
+        },
+        {
+          "title": "新生儿假两性畸形医生难辨男女 - 妇产科在线",
+          "link": "http://www.cogonline.com/info/132067874242970129_1",
+          "snippet": "“这是一种先天性常染色体隐性遗传病。”儿童医院儿保科副主任医师张立琴告诉记者，这种病比较罕见，发病率约为1/15000，这个孩子就是典型的女性假两性畸形， ...",
+          "date": "2011年7月20日",
+          "position": 93
+        },
+        {
+          "title": "女性假两性畸形-北京整形美容医院",
+          "link": "https://www.sar.com.cn/xbjx/1869.html",
+          "snippet": "女性假两性畸形首先它必定具有卵巢组织，性染色体为XX，性染色质为阳性，之所以有两性畸形，主要是外生殖器表现有不等程度的男性化。",
+          "date": "2013年1月16日",
+          "position": 94
+        },
+        {
+          "title": "一名假两性畸形男童手术后康复出院 - 中国宁波网",
+          "link": "http://news.cnnb.com.cn/system/2008/01/03/005433328.shtml",
+          "snippet": "中国宁波网讯(记者蒋炜宁通讯员马蝶翼)来自象山的1岁小男孩除拥有男性生殖器外，腹腔里还有女性的子宫和输卵管。近日，这名患有假两性畸形的小男孩在市 ...",
+          "date": "2008年1月3日",
+          "position": 95
+        },
+        {
+          "title": "湘雅三医院泌尿外科为两性畸形患者成功手术",
+          "link": "https://hnxxzk.xy3yy.com/news/zhxw/3850.html",
+          "snippet": "近日，湘雅三医院为一名两性畸形患者成功实施了手术，患者于3月27日康复出院。据了解，湘雅三医院泌尿外科两性畸形手术成功率将达95%以上。 患者吴某，女，7岁，家住湖南省 ...",
+          "position": 96
+        },
+        {
+          "title": "他还是她？两性畸形患者追寻真我的34年 - 羊城晚报",
+          "link": "https://wap.ycwb.com/2023-08/26/content_52163181.htm",
+          "snippet": "王梓淇是一名真两性畸形患者，她拥有双重性腺，体内既有卵巢又有睾丸，外生殖器与第二性征介于两性之间。从有性别意识起，王梓淇就觉得自己是个女生。她的 ...",
+          "date": "2023年8月26日",
+          "position": 97
+        },
+        {
+          "title": "16岁两性畸形人性别难辨渴望想通过手术成为女人 - 中国青年网",
+          "link": "http://news.youth.cn/sh/201703/t20170321_9331728.htm",
+          "snippet": "16年前，阿德（化名）被人遗弃在北流汽车总站的厕所通道，被人抱起发现，他的身体与众不同，生殖器既有男性又有女性的特征，即“两性畸形”。后来，阿德辗转来到北流 ...",
+          "date": "2017年3月21日",
+          "position": 98
+        }
+      ],
+      "images": [
+        {
+          "title": "真两性畸形- 抖音百科",
+          "imageUrl": "https://p3-sdbk2-media.byteimg.com/tos-cn-i-xv4ileqgde/4e59deb75a6e4d3dac29294e8dcdbef6~tplv-xv4ileqgde-image.image",
+          "link": "https://m.baike.com/wikiid/7265998218336026678"
+        },
+        {
+          "title": "男子B超发现有子宫，医生：患罕见两性畸形，要看其想以什么性别生活 ...",
+          "imageUrl": "http://inews.gtimg.com/newsapp_bt/0/15656695267/641",
+          "link": "https://news.qq.com/rain/a/20230210A08SJD00"
+        },
+        {
+          "title": "男性假两性畸形介绍男性假两性畸形是什么病有来医生- YouTube",
+          "imageUrl": "https://i.ytimg.com/vi/4bQdNEM99aw/sddefault.jpg",
+          "link": "https://www.youtube.com/watch?v=4bQdNEM99aw"
+        },
+        {
+          "title": "北京佑安医院泌尿外科成功实施假两性畸形高难度手术医院动态-首都医科 ...",
+          "imageUrl": "http://www.bjyah.com/Sites/Uploaded/UserUpLoad/20150424/20150424092901.JPG",
+          "link": "https://www.bjyah.com/Html/News/Articles/24319.html"
+        },
+        {
+          "title": "两性畸形是什么意思",
+          "imageUrl": "https://selfpage-gips.cdn.bcebos.com/selfvideo/00d0046c45a656aeff5d63e687f80b31.jpg",
+          "link": "https://m.baidu.com/bh/m/detail/sv_4858662513464860154"
+        },
+        {
+          "title": "什么是男性假两性畸形有来医生- YouTube",
+          "imageUrl": "https://i.ytimg.com/vi/CGez7sJRckA/sddefault.jpg",
+          "link": "https://www.youtube.com/watch?v=CGez7sJRckA"
+        },
+        {
+          "title": "从“发现自己竟然是男性”解释“两性畸形”",
+          "imageUrl": "http://img.mp.itc.cn/upload/20170307/f1d0f2500cc4414eaf3709afc938ec54_th.jpg",
+          "link": "https://m.sohu.com/n/482579153/"
+        },
+        {
+          "title": "男子B超发现有子宫，医生：患罕见“两性畸形”，要看其想以什么性别生活_ ...",
+          "imageUrl": "https://k.sinaimg.cn/n/sinakd20230210s/17/w1035h582/20230210/a2af-f66c0cc3ac48a9672772aa90beefac67.jpg/w300h300z1l10t10q100293.jpg",
+          "link": "https://news.sina.cn/2023-02-10/detail-imyffmtk6228310.d.html"
+        },
+        {
+          "title": "广西夫妻7个孩子中3个患两性畸形：器官是女，染色体显示男",
+          "imageUrl": "http://image.thepaper.cn/www/image/5/410/594.jpg",
+          "link": "https://m.thepaper.cn/newsDetail_forward_1598782"
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

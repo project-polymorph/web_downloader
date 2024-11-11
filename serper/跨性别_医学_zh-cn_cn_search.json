@@ -1,0 +1,1614 @@
+{
+  "query": "跨性别 医学",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-03T23:47:06.005984",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "跨性别 医学",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "knowledgeGraph": {
+        "title": "跨性别医疗",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4zPP9umv_Og2c1HUETR42odIX492ASbM39FKImH0i64FVVH_0B8wvmQ&s=0",
+        "description": "跨性别医疗包括对跨性别人士的身心健康问题的预防、诊断和治疗，也包括性别重置疗法。性别肯定治疗作为性别转换中的医疗手段，是跨性别医疗的重要组成部分。跨性别医疗涉及到非常规性别、性别重置疗法、健康风险、世界各国各地区跨性别者获取医疗资源的不同境况等多个领域。",
+        "descriptionSource": "维基百科",
+        "descriptionLink": "https://zh.wikipedia.org/zh-cn/%E8%B7%A8%E6%80%A7%E5%88%AB%E5%8C%BB%E7%96%97"
+      },
+      "organic": [
+        {
+          "title": "跨性别医疗- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E8%B7%A8%E6%80%A7%E5%88%AB%E5%8C%BB%E7%96%97",
+          "snippet": "跨性别医疗包括对跨性别人士的身心健康问题的预防、诊断和治疗，也包括性别重置疗法。性别肯定治疗作为性别转换中的医疗手段，是跨性别医疗的重要组成部分。跨性别医疗 ...",
+          "position": 1
+        },
+        {
+          "title": "跨性别者的健康问题- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/healthy-lifestyle/adult-health/in-depth/transgender-health/art-20154721",
+          "snippet": "跨性别者的健康问题 ; 情感虐待和精神虐待。 身体暴力和性暴力。 性传播感染。 ; 您的性别认同。 您正在或曾经服用的药物或补充剂。 您做过的手术或医疗程序。 ; 乳腺癌。",
+          "position": 2
+        },
+        {
+          "title": "关于跨性别的事实- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/healthy-lifestyle/adult-health/in-depth/transgender-facts/art-20266812",
+          "snippet": "跨性别或性别多样化与特定性取向无关。不能基于性别认同或性别表达来假设一个人的性取向。 了解性别焦虑症. 性别焦虑是指 ...",
+          "date": "2023年4月21日",
+          "position": 3
+        },
+        {
+          "title": "[PDF] 2021全国跨性别健康调研报告",
+          "link": "https://cnlgbtdata.com/files/uploads/2023/01/2021%E5%85%A8%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E5%81%A5%E5%BA%B7%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.pdf",
+          "snippet": "是一个概括性术语，指代性别认同和/或性别表达不同. 于其被指派性别的个体。包括但不限于：. 跨性别女性（Transgender Woman）. Male-to-Female，MtF，指其出生时被指派 ...",
+          "position": 4
+        },
+        {
+          "title": "[PDF] 亚太跨性别健康蓝图",
+          "link": "https://www.undp.org/sites/g/files/zskgke326/files/migration/asia_pacific_rbap/06134fe5d74f2f84023c5de3ee99656ba412f33aa87d6a66c24e6a3da2f6de19.pdf",
+          "snippet": "跨性别者实现医学转换所需的卫生保健服务在上述两份文件中均被分类为心理健康诊断 ... 跨性别女人和与男性发生性关系的跨性别男人可能面临较高的甲肝、乙肝和人类 ...",
+          "position": 5
+        },
+        {
+          "title": "分类:跨性别与医学 - 维基百科",
+          "link": "https://zh.wikipedia.org/zh-cn/Category:%E8%B7%A8%E6%80%A7%E5%88%A5%E8%88%87%E9%86%AB%E5%AD%B8",
+          "snippet": "雙性人與醫學 (1个分类， 4个页面). 分类“跨性别与医学”中的页面. 以下27个页面属于本分类，共27个页面。 B. 本·巴雷斯. L. User:LT1211/跨性别语音疗法. 世. 世界跨性別健康 ...",
+          "position": 6
+        },
+        {
+          "title": "潘柏林：跨性别治疗很冷门，但TA们需要医学支持 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_8786958",
+          "snippet": "“跨性别综合序列医疗”是指循序渐进地对跨性别者提供帮助：从第一次诊断开始，提供基础关怀、进行心理疏导，包括对其家庭的宣传教育，然后根据跨性别者的自我 ...",
+          "date": "2020年8月19日",
+          "position": 7
+        },
+        {
+          "title": "跨性别女性的评估和管理- UpToDate",
+          "link": "https://www.uptodate.com/contents/zh-Hans/transgender-women-evaluation-and-management/print",
+          "snippet": "“跨性别”和“性别不一致”都是指个体的性别认同与其生殖生物学其他方面(通常是出生时的外生殖器)不一致。医护人员应熟悉常用术语(表1)。",
+          "date": "2023年10月12日",
+          "position": 8
+        },
+        {
+          "title": "[PDF] 北京大学第三医院- 跨性别序列医疗",
+          "link": "https://cnlgbtdata.com/files/uploads/2023/12/2022%E7%89%88%E8%B7%A8%E6%80%A7%E5%88%AB%E5%8C%BB%E7%96%97%E7%85%A7%E6%8A%A4%E6%89%8B%E5%86%8C_4JGB5o5.pdf",
+          "snippet": "跨性别既不是病,也不是罪,而是人类社会中一种正常的现象。 长久以来,医学界存在对跨性别的污名化,错误地认为跨性别是一种精神疾病(如DSM4 当中的性别认同障. 碍),或将跨 ...",
+          "position": 9
+        },
+        {
+          "title": "一位妇科医生开了跨性别医疗门诊-腾讯新闻 - QQ News",
+          "link": "https://news.qq.com/rain/a/20240908A05UYK00",
+          "snippet": "今年2月，暨南大学附属第一医院正式开设跨性别序列医疗门诊，诊疗服务包括心理诊断、内分泌治疗、性别重置手术和面部胸部整形、生殖细胞冻存，出诊专家涉及 ...",
+          "date": "2024年9月8日",
+          "position": 10
+        },
+        {
+          "title": "中国第一个“跨性别门诊” - 36氪",
+          "link": "https://m.36kr.com/p/2838705615882887",
+          "snippet": "有一次我们门诊来了一个来诊者，也是医学生，刚找到工作。我问TA选择了哪个专业，跟我说去了儿科，而且就打算从事跨性别医疗里面的“青春期阻断”这 ...",
+          "date": "2024年6月28日",
+          "position": 11
+        },
+        {
+          "title": "[PDF] 解答你的问题- 关于跨性别者",
+          "link": "https://www.apa.org/topics/lgbtq/chinese-simplified-transgender.pdf",
+          "snippet": "跨性别. 者通常透过荷尔蒙疗法、外科手术及其他. 方式去改变身体，使身体尽可能符合他们. 的心理性别认同。这种透过医学方法去转. 换性别的过程，一般称为性别重建(gender.",
+          "position": 12
+        },
+        {
+          "title": "跨性别群体抑郁、焦虑与防御机制研究 - 预防医学",
+          "link": "http://www.zjyfyxzz.com/CN/10.19485/j.cnki.issn2096-5087.2023.05.006",
+          "snippet": "男性抑郁检出率为54.74%,高于女性的22.58%;有过自伤自杀行为者抑郁和焦虑检出率分别为62.79%和41.86%,均高于无自伤自杀行为者的38.55%和18.07%（均P<0.05） ...",
+          "date": "2023年5月10日",
+          "position": 13
+        },
+        {
+          "title": "宁冒生命危险自行手术，也不愿活在谎言中：三个中国跨性别者的故事",
+          "link": "https://zh.amnesty.org/content-type/more-resources/blog/trans-gender-feature/",
+          "snippet": "对跨性别社群的歧视和污名普遍存在于各行各业，包括医学及法律界在内，这让像惠明一样的人在实现做真实的自己这一目标的过程中采取激烈且往往具有风险的措施 ...",
+          "date": "2019年5月14日",
+          "position": 14
+        },
+        {
+          "title": "跨性别男性免疫反应差异需关注 - 新闻- 科学网",
+          "link": "https://news.sciencenet.cn/htmlnews/2024/9/529355.shtm",
+          "snippet": "卡罗林斯卡医学院的Petter Brodin和同事通过为23名跨性别男性在性别肯定睾酮治疗之前和期间进行分析，揭示出性激素对免疫反应的影响。他们在治疗开始 ...",
+          "date": "2024年9月5日",
+          "position": 15
+        },
+        {
+          "title": "性少数群体医疗照顾3例经验分享- 中华全科医师杂志",
+          "link": "https://rs.yiigle.com/cmaid/1504756",
+          "snippet": "除非特别声明，本刊刊出的所有文章不代表中华医学会和本刊编委会的观点。 ... 如缺乏这方面的意识，医生可能会错配跨性别者的性别，增加医疗决策的风险。",
+          "date": "2024年6月4日",
+          "position": 16
+        },
+        {
+          "title": "巴黎奥运“性别风暴”：医学研究能解释对林郁婷等选手资格的质疑吗？",
+          "link": "https://www.bbc.com/zhongwen/simp/world-69254813",
+          "snippet": "跨性别男性谢浩霖（Henry Tse）获终审法院判上诉终极胜诉。 跨性别身份案终极胜诉：重温香港跨男谢浩霖争取性别“正名”之路. 2023年2月6日. 她认为，肌肉不分 ...",
+          "date": "2024年8月9日",
+          "position": 17
+        },
+        {
+          "title": "[PDF] 全球跨性别健康与幸福指数议题",
+          "link": "https://transrespect.org/wp-content/uploads/2018/12/TvT-PS-Vol20-2018_CN.pdf",
+          "snippet": "在南非和博. 茨瓦纳，跨性别者可获得医学监督的荷尔蒙替代治疗但是需要精神病学的诊. 断。南非只有两处医疗设备能够进行性别转换相关的手术。在东非国家，如卢旺. 达，乌干达， ...",
+          "position": 18
+        },
+        {
+          "title": "“为什么我们在后退？”——跨性别遭拒的医疗权",
+          "link": "https://www.khloewong.com/post/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E5%9C%A8%E5%90%8E%E9%80%80%EF%BC%9F-%E8%B7%A8%E6%80%A7%E5%88%AB%E9%81%AD%E6%8B%92%E7%9A%84%E5%8C%BB%E7%96%97%E6%9D%83",
+          "snippet": "苏巴特菈可说是算是医疗体系里的极少数。此前，她在悉尼大学修读医学系，主攻性健康和生殖健康，修习的课程内容包括跨性别的医疗。",
+          "date": "2021年2月9日",
+          "position": 19
+        },
+        {
+          "title": "中国跨性别人群医疗现况的调查及分析",
+          "link": "http://ccj.pku.edu.cn/Article/info?aid=266525351",
+          "snippet": "目的报道中国跨性别人群的跨性别医疗需求和诊治现状。方法本研究为2017年开展 ... 医学生跨文化医疗能力现状调查与分析. [4]. 日本的医疗现况及医院管理. [5]. 急诊科 ...",
+          "position": 20
+        },
+        {
+          "title": "跨性别女性激素治疗期间的抗雄激素或雌二醇或两者结合治疗",
+          "link": "https://www.cochranelibrary.com/es/cdsr/doi/10.1002/14651858.CD013138.pub2/full/zh_HANS",
+          "snippet": "... 性别女性实现转换的医学治疗方法之一是合成女性荷尔蒙。这些激素可以通过口服、皮肤吸收或肌肉注射摄入。 研究特征. 我们寻找纳入从男性向女性转换的跨性别女性（16岁及 ...",
+          "position": 21
+        },
+        {
+          "title": "常用抗雄激素药物在中国跨性别女性中的有效性和安全性",
+          "link": "https://www.linkresearcher.com/theses/2c7653fc-0b0f-495d-89a4-7200d365295b",
+          "snippet": "此外，VAS评分显示，与SPL相比，使用CPA的患者对勃起的满意度降低，身材女性化更高。 查看更多. 所属学科：. 药学. 医学.",
+          "date": "2024年7月6日",
+          "position": 22
+        },
+        {
+          "title": "“病态化——成为男女同性恋、双性恋和/或跨性别者不是疾病” 致国际 ...",
+          "link": "https://www.ohchr.org/zh/press-releases/2016/05/pathologization-being-lesbian-gay-bisexual-andor-trans-not-illness",
+          "snippet": "... 医学分类正被作为借口，使跨性别者——甚至在幼年时——就在强制或胁迫下接受绝育、荷尔蒙疗法、手术和精神病评估，并通过其他方式使其人权受到严重制约 ...",
+          "date": "2016年5月12日",
+          "position": 23
+        },
+        {
+          "title": "世卫组织将性别认同障碍从精神疾患分类中移除 - UN News",
+          "link": "https://news.un.org/zh/story/2019/05/1035391",
+          "snippet": "萨伊表示，这一修订是综合了外部专家咨询小组对所有已知医学证据的认真审核及讨论，同时听取医学 ... 跨性别及性别多样化人群(LGBT)的幸福、性别和生活 ...",
+          "date": "2019年5月30日",
+          "position": 24
+        },
+        {
+          "title": "两性医学：提供方对跨性别和性别多样化患者的护理障碍 - X-MOL",
+          "link": "https://www.x-mol.com/paper/1755525291719757824/t",
+          "snippet": "在医疗保健就诊期间经历过的和预期的歧视导致医疗保健利用率较低，从而导致跨性别者和性别之间持续存在的健康差距...... 查看原文. 英文标题摘要.",
+          "position": 25
+        },
+        {
+          "title": "Table: 有关性别和性身份的术语定义 - 默沙东诊疗手册",
+          "link": "https://www.msdmanuals.cn/home/multimedia/table/definitions-of-terminology-regarding-sex-and-gender",
+          "snippet": "跨性别男性： 出生时指定为女性(AFAB) 并已采用男性性身份的人，无论他们是否经历过任何医学性别转换。 跨性别肯定： 意识到、尊重和支持跨性别者和性别错位者的需求。",
+          "position": 26
+        },
+        {
+          "title": "跨性别_百度百科",
+          "link": "https://baike.baidu.com/item/%E8%B7%A8%E6%80%A7%E5%88%AB/6234644",
+          "snippet": "... 医学标准，跨性别并不属于精神疾病。由于社会刻板的性别认知及目前法律政策的限制，跨性别者目前在社会中受到普遍歧视。此外由于自我认同、出柜、医疗等方面的困难，跨性别 ...",
+          "position": 27
+        },
+        {
+          "title": "[PDF] “我需要家长同意才能做自己”",
+          "link": "https://www.amnesty.org/en/wp-content/uploads/2021/05/ASA1702692019CHINESE.pdf",
+          "snippet": "care: Working with transgender and gender nonconforming clients），2018 年，第130 页（下称：S. Chang 等人，《性别确认护理临床. 医学指南》）。 8 世界跨性别人士健康专业 ...",
+          "position": 28
+        },
+        {
+          "title": "跨性别身份案终极胜诉：重温香港跨男谢浩霖争取性别“正名”之路 - BBC",
+          "link": "https://www.bbc.com/zhongwen/simp/chinese-news-64327239",
+          "snippet": "跨性别男性谢浩霖（Henry Tse）在2017年和另两名原诉申请司法复核，挑战香港入境事务处以“完成全套变性手术”才能变更身份证上性别 ... 医学及外科手术治疗取得 ...",
+          "date": "2023年2月6日",
+          "position": 29
+        },
+        {
+          "title": "[PDF] 跨性别者性别认同的法律承认",
+          "link": "https://www.undp.org/sites/g/files/zskgke326/files/migration/asia_pacific_rbap/81e35c0bbe5b80d746519d11bb00d20cb33c8990b529c6664137bf2127ce73cd.pdf",
+          "snippet": "Transgender. 跨性别. 性别认同异于指派性别（即出生时基于生理特征被指. 派的性别，或身份证上登记的性别）的人。一部分跨. 性别者会对身体进行医学干预来使他们的指派性别与.",
+          "position": 30
+        },
+        {
+          "title": "陈润森研究团队及其合作者在《柳叶刀· 公共卫生》发表跨性别群体 ...",
+          "link": "https://vsph.tsinghua.edu.cn/info/1028/1111.htm",
+          "snippet": "... 医学院、美国威斯康星大学公共卫生学院等合作者在《柳叶刀·公共卫生》（The Lancet Public Health）发表了“中国跨性别及性別不一致群体的心理健康状况系统性综述”（The ...",
+          "position": 31
+        },
+        {
+          "title": "专访：日本跨性别人士的隐蔽抗争 - Human Rights Watch",
+          "link": "https://www.hrw.org/zh-hans/news/2019/03/19/328226",
+          "snippet": "特别是争取合法承认的困难。一般而言，大多数民众不知道日本法律规定跨性别人士必须接受医学鑑定和不可逆的手术。他们并不关心为了得到 ...",
+          "date": "2019年3月19日",
+          "position": 32
+        },
+        {
+          "title": "跨性别者和多元性别者的斗争 - ohchr",
+          "link": "https://www.ohchr.org/zh/special-procedures/ie-sexual-orientation-and-gender-identity/struggle-trans-and-gender-diverse-persons",
+          "snippet": "定义性别认同是指一个人内心深切感受到的基于个人体验的性别，可能与出生时被指派性别相同或者不同，包括对身体的个人感觉（如果能够自由选择，这可能包括使用医学、手术或 ...",
+          "position": 33
+        },
+        {
+          "title": "亚博打鱼跨性别医学服务",
+          "link": "https://m.productshows.com/patient-services/transgender-medicine-services",
+          "snippet": "跨性别医学服务. 亚博打鱼UCONN健康组织坚决致力于向变性人和性别不兼容社区成员提供全方位综合服务服务提供商欢迎有机会与你合作,在安全支持环境实现福利亚博打鱼由 ...",
+          "position": 34
+        },
+        {
+          "title": "日本法院推翻跨性别者强制绝育规定 - Human Rights Watch",
+          "link": "https://www.hrw.org/zh-hans/news/2023/10/16/japan-court-rules-against-mandatory-transgender-sterilization",
+          "snippet": "... 医学角度来看，强制接受这种手术是否欠缺必要性或合理性。” 在日本，跨性别人士若欲合法变更性别，必须向家事法院提出申请。根据《性别认同障碍者特例 ...",
+          "date": "2023年10月16日",
+          "position": 35
+        },
+        {
+          "title": "UCSF指南 - 跨性别在线·文档库",
+          "link": "https://docs.transonline.org.cn/ucsf/",
+          "snippet": "指南的总体结构和涵盖的主题列表是与促进中心的医学咨询委员会（MAB）协商制定的，该委员会由来自各类学术领域和社区卫生服务领域的专业临床医生组成。对总体设计和结构做出 ...",
+          "position": 36
+        },
+        {
+          "title": "政府拒绝未完成全面性别重置手术的跨性别男性更改身份证性别",
+          "link": "https://www.lexology.com/library/detail.aspx?g=f6598b19-2249-40ea-bdf6-4be17b771681",
+          "snippet": "... 男性性别认同。二人的性别认同障碍经医学证明已充分缓解，不再需要额外的手术治疗。在医学上，两名上诉人可被视为已从原本的女性性别过渡至男性性别。",
+          "date": "2023年2月28日",
+          "position": 37
+        },
+        {
+          "title": "跨性别友好医生（心理咨询） - MtF.wiki",
+          "link": "https://mtf.wiki/zh-cn/docs/psyco/friendly/",
+          "snippet": "国际医学中心医院整形医院| 郭树忠 · 深圳市罗湖区人民医院 · 四川大学华西医院 ... 跨性别友好医生（心理咨询）. MtF.wiki · 欢迎 · 心理科／精神科; 跨性别友好医生（心理 ...",
+          "position": 38
+        },
+        {
+          "title": "「跨性別」的醫學新發現Being Transgender - 百禾文化",
+          "link": "https://www.e-harvest.com.tw/product.php?id=2353",
+          "snippet": "看看最新的醫學進展，還要探索我們的大腦，荷爾蒙和性器官如何定義我們對性別和性的理解。女性和男性的二元選擇是生物事實還是心理建構？孩子是否應該定義為試圖跨性別的 ...",
+          "currency": "$",
+          "price": 7900,
+          "position": 39
+        },
+        {
+          "title": "香港终审法院裁决给予跨性别人士更改身份证权利 - 美国之音",
+          "link": "https://www.voachinese.com/a/hk-court-makes-ruling-protecting-transgender-02262023/6950113.html",
+          "snippet": "... 性别重置手术，涉及具高度侵入性的外科手术，对很多跨性别人士而言并没有医学需要。终审法院并不接受完整性别重置手术是更改香港身份证性别标记的唯一 ...",
+          "date": "2023年2月7日",
+          "position": 40
+        },
+        {
+          "title": "跨性别激素治疗_百度百科",
+          "link": "https://baike.baidu.com/item/%E8%B7%A8%E6%80%A7%E5%88%AB%E6%BF%80%E7%B4%A0%E6%B2%BB%E7%96%97/54212022",
+          "snippet": "... （Transgender Hormone Therapy）是肯定跨性别者性别认同的一种卫生保健服务，透过外源性内分泌制剂的投药，使跨性别 ... 性别不安（Gender Dysphoria）：跨性别曾经被医学届贴上名为 ...",
+          "position": 41
+        },
+        {
+          "title": "什么是跨性别？给一般通过人士的科普｜存档",
+          "link": "https://sauri.ca/posts/what-is-trans/",
+          "snippet": "首先，跨性别者是一群自己的性别身份（性别认同）和出生时候被指派的医学性别不一样的人。比如mtf 其实就是指出生时候是男性，但性别认同为女性的人。除了二元 ...",
+          "date": "2022年5月10日",
+          "position": 42
+        },
+        {
+          "title": "[PDF] 北京2019 年跨性别医疗学术研讨会 - WPATH",
+          "link": "https://www.wpath.org/media/cms/Documents/GEI/Global%20Impact/FINAL%20-%20Beijing%20Course%20Summary%20GEI%20Mandarin.pdf",
+          "snippet": "2019 年11 月29 日由北京大学第三医院整形外科医师潘柏林医. 生举办了第三届中国跨性别者医学研讨会，共邀请了来自两岸. 三地共26 位专业人士参加了此次会议。",
+          "position": 43
+        },
+        {
+          "title": "跨性别女孩遭“性别扭转治疗”：被母亲送去注射电击 - 新浪新闻",
+          "link": "https://news.sina.cn/sh/2020-07-22/detail-iivhvpwx6751147.d.html",
+          "snippet": "跨性别，指性别认同异于原生性别的人。 朱亦今年的生日 ... 除“个案小组”，北京同志中心跨性别部门还设有跨性别热线、跨儿空间等服务项目，并和医学 ...",
+          "date": "2020年7月22日",
+          "position": 44
+        },
+        {
+          "title": "[PDF] 我认为我可能会是跨性别者",
+          "link": "https://advocatesforyouth.org/wp-content/uploads/storage//advfy/documents/Chinese/chinese_trans_web.pdf",
+          "snippet": "跨性别者还包括那些被认为是“性取向模糊(genderqueer)”、中性人的人、和/或. -. 无性人- 不能断定是男性还是女性的人。变性的人是那些选择医学手段将其变成. 适合于他们的 ...",
+          "position": 45
+        },
+        {
+          "title": "北医三院“跨性别门诊”医生的内心独白-虎嗅网",
+          "link": "https://m.huxiu.com/article/426094.html?type=text",
+          "snippet": "北京大学第三医院的整形医生潘柏林习惯了被骂。作为北医三院跨性别序列医疗门诊的发起医生，这十年来，潘柏林一直为跨性别者提供医疗服务——从心理辅导、 ...",
+          "date": "2021年5月6日",
+          "position": 46
+        },
+        {
+          "title": "复旦大学附属儿科医院",
+          "link": "https://ch.shmu.edu.cn/paper/news/content/id/258/nid/11/pid/80",
+          "snippet": "近日，国家儿童医学中心、复旦大学附属儿科医院开设跨性别多学科门诊，旨在通过多学科专家的专业评估、诊断及干预，减少特殊儿童青少年人群的负面情绪、改善家庭关系以及 ...",
+          "position": 47
+        },
+        {
+          "title": "跨性别者是赶时髦？多数人后悔终身？了解性别确认护理的真相",
+          "link": "https://www.justicepatch.org/2024/10/31/debunking-myths-about-gender-affirming-care/",
+          "snippet": "美国医学会、美国儿科学会和美国心理学会等主要医疗组织都承认，帮助人们确认性别认同在医学上是必要的。全国有130多万名医生支持这一观点。 误解：接受性别 ...",
+          "date": "3天前",
+          "position": 48
+        },
+        {
+          "title": "“救救孩子们，为何美国还在假装认为'性别确认护理'有效？”-观察者网",
+          "link": "https://www.guancha.cn/internation/2024_07_28_743009.shtml",
+          "snippet": "... 跨性别健康专业协会（WPATH）在其性别医学指南发布之前删除了年龄要求。 莱文认为，出于政治和公共卫生方面的考虑，性别治疗禁令的支持者可能会引用 ...",
+          "date": "2024年7月28日",
+          "position": 49
+        },
+        {
+          "title": "認識跨性別– 跨性別Transgender",
+          "link": "https://transgender.taipei/%E8%AA%8D%E8%AD%98%E8%B7%A8%E6%80%A7%E5%88%A5/",
+          "snippet": "跨性別男性（Trans Man / FTM）：指從女性跨越到男性，也可簡稱跨男。 跨性別女性（Trans Woman / MTF）：指從男性跨越到女性，也可簡稱跨女。 非二元性別（ ...",
+          "position": 50
+        },
+        {
+          "title": "跨性别者是否都会选择性别重建？",
+          "link": "https://www.daishujianbao.com/health/article-detail?id=188%3E",
+          "snippet": "跨性别者通常透过荷尔蒙疗法、外科手术及其他方式去改变身体，使身体尽可能符合他们的心理性别认同。这种透过医学方法去转换性别的过程，一般称为性别重建( ...",
+          "date": "2017年8月2日",
+          "position": 51
+        },
+        {
+          "title": "蔡泳研究组首次阐述中国跨性别男男性行为者人群HIV/AIDS感染风险",
+          "link": "https://xuebao.shsmu.edu.cn/CN/abstract/abstract11339.shtml",
+          "snippet": "编辑推荐; Metrics. 回顶部. 网站版权所有© 《上海交通大学学报（医学版）》编辑部地址：上海市重庆南路280号邮编：200025 电话：021-63846590 E-mail：xuebao@shsmu.edu.cn.",
+          "position": 52
+        },
+        {
+          "title": "不為性別加上框架——專訪醫科生跨性別人士Ming Chan - 新報人",
+          "link": "https://spyan-jour.hkbu.edu.hk/2021/12/26/%E4%B8%8D%E7%82%BA%E6%80%A7%E5%88%A5%E5%8A%A0%E4%B8%8A%E6%A1%86%E6%9E%B6-%E5%B0%88%E8%A8%AA%E8%B7%A8%E6%80%A7%E5%88%A5%E4%BA%BA%E5%A3%AB-ming-chan/",
+          "snippet": "她的生理性別是男性，但自我身份認同是一名女生，也即是所稱的跨女，現已以女性身份生活近三年。 Ming是一名醫科生。 早在醫學院上課時，Ming連進入手術室也是 ...",
+          "date": "2021年12月26日",
+          "position": 53
+        },
+        {
+          "title": "[PDF] 跨性别者",
+          "link": "https://www.unfe.org/sites/default/files/download/Transgender%20Factsheet%20-%20CH.pdf",
+          "snippet": "联合国记录了对女性跨性别者和. 被拘留跨性别者尤其残忍的攻击。 欧洲联盟基本 ... 改变将跨性别归为疾病的国家医学分类。 对警察、司法官员和提供收容者开展培训 ...",
+          "position": 54
+        },
+        {
+          "title": "[PDF] 跨性别者、间性人和酷儿（LGBTIQ+）融入劳动世界",
+          "link": "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@asia/@ro-bangkok/@ilo-beijing/documents/publication/wcms_856152.pdf",
+          "snippet": "对一些人来说，这表示那些经历过医学或外科手术改造的人。与跨性别者不同，跨性者 ... 它不包括与顺性别男性或跨性别女性发. 生性关系的跨性别男性。 与女性发生性 ...",
+          "position": 55
+        },
+        {
+          "title": "[PDF] 第三章認識跨性別者（T）及其處境",
+          "link": "https://www.boca.gov.tw/dl-2331-7e983e47d7e043f3b9c6d19c66e9d68a.html",
+          "snippet": "但許多跨性別者，從小就感受到了自己的性別表現與原生性別不太一樣，其中一部. 份人進一步符合醫學中的「性別不安」（gender dysphoria）或「性別不一致」. （gender ...",
+          "position": 56
+        },
+        {
+          "title": "跨性别男性的性别确认激素治疗及其安全监测 - 中国生物医学文献数据库",
+          "link": "https://www.sinomed.ac.cn/article.do?ui=2024111920",
+          "snippet": "性别确认激素治疗(gender affirming hormone therapy,GAHT)是跨性别者进行性别转化不可避免且最为主要的方式,治疗安全性需要更多关注。对于跨性别男性,雄激素的使用 ...",
+          "position": 57
+        },
+        {
+          "title": "诊断和治疗。 - NEJM医学前沿",
+          "link": "https://nejmqianyan.cn/article/YXQYms1913140?sg=AbW1N",
+          "snippet": "从阿里阿德涅之线到迷宫本身——疾病分类学和现代医学的基础架构 · 在ICD-11的制定过程中，最大争议之一是就跨性别者身份的病理化或去病理化所做的斗争。 · ， ...",
+          "date": "2020年3月25日",
+          "position": 58
+        },
+        {
+          "title": "关于本站 - 女性倾向跨性别者科学- MtF.wiki",
+          "link": "https://tfsci.mtf.wiki/zh-cn/about/",
+          "snippet": "Mitzi 对医学界有广泛兴趣，而对内分泌学与精神药理学尤为关注。她对英国的跨性别医疗系统作了直言不讳的批评，在其性别转变过程中也采取了自行用药的方式。",
+          "position": 59
+        },
+        {
+          "title": "世界醫師會對跨性別人士的聲明- 協會通訊",
+          "link": "https://www.depression.org.tw/communication/info.asp?/10.html",
+          "snippet": "世界醫師會對跨性別人士的聲明 · WMA 強調每個人都有權力去決定自己擁有的性別和基於這樣的尊重去認識多元的可能。 · WMA 聲明性別不一致本身不是心理疾病；然而，可能引起不 ...",
+          "position": 60
+        },
+        {
+          "title": "LGBTQ +-兰乔洛斯阿米戈斯国家康复中心",
+          "link": "https://dhs.lacounty.gov/zh-CN/%E7%89%A7%E5%9C%BA/%E7%97%85%E4%BA%BA%E5%92%8C%E8%AE%BF%E5%AE%A2-a/LGBTQ/",
+          "snippet": "Swati Rao，医学博士精神病学和家庭医学委员会认证. LGBTQ +信息资源手册. 兰 ... 跨性别法律中心 · 跨青年家庭同盟 · 世界跨性别健康专业协会. LGBTQ相关健康信息. 美国 ...",
+          "position": 61
+        },
+        {
+          "title": "跨性別醫療資源 - 台灣同志諮詢熱線協會|",
+          "link": "https://hotline.org.tw/pagegeneral/3244",
+          "snippet": "【台灣同志諮詢熱線協會】全國跨性別醫療資源彙整區 ; 台北市立聯醫昆明院區. 衛漢庭、陳裕雄 ; 三軍總醫院北投分院（性別友善門診）. 陳泰宇 ; 台北醫學大學附設醫院. 黃宇銳*.",
+          "position": 62
+        },
+        {
+          "title": "我是社工鹿苹，关于我所了解的跨性别群体现状，问吧！ - 澎湃新闻",
+          "link": "https://m.thepaper.cn/asktopic_detail_10027872",
+          "snippet": "我国的代表们曾在2018年的联合国非定期审议会议上公开表示：“中国不歧视LGBT群体”和“保障跨性别者的健康权”。在医疗领域，世界级的跨性别医学论文、论坛均有 ...",
+          "date": "2024年10月8日",
+          "position": 63
+        },
+        {
+          "title": "英国跨性别权益猛倒车，托利党在打什么算盘？ - QQ News",
+          "link": "https://news.qq.com/rain/a/20231208A09N6O00",
+          "snippet": "消息称，英国政府已经制定了一个黑名单，列出了50多个国家，声称这些国家让人们修改法定性别“过于容易”。这些国家的跨性别公民移居英国后须提交医学报告后，方 ...",
+          "date": "2023年12月8日",
+          "position": 64
+        },
+        {
+          "title": "检察风云- 跨性别者",
+          "link": "http://www.shchangning.jcy.gov.cn/jcfy/msbd/32418.jhtml",
+          "snippet": "... 性别认同的多元性。另外，陆教授强调，随着社会－心理－生物医学模式的发展，疾病的定义已经不局限于病理学改变或心理状态异常。在目前将跨性别者作为一个医学问题来 ...",
+          "position": 65
+        },
+        {
+          "title": "为什么修改身份证上的性别如此困难？中港台跨性别群体漫长的平权 ...",
+          "link": "https://www.wainao.me/wainao-reads/equal-rights-transgender-groups-China-HK-Taiwan-04132023",
+          "snippet": "... ，一路如何走来？近年跨性别相关议题亦广泛进入华语地区，中国与台湾的跨性别人士又各自面对什么挑战？ ... 其实生理上、医学上，性别过渡没有所谓'做足全套'的 ...",
+          "date": "2023年4月13日",
+          "position": 66
+        },
+        {
+          "title": "[PDF] 跨性别女性人群心理特征及相关行为分析* - 中国公共卫生",
+          "link": "https://www.zgggws.com/cn/article/pdf/preview/10.11847/zgggws1118684.pdf",
+          "snippet": "中国跨性别 MSM 人群高危性行. 为特征及HIV/梅毒检测研究[J]. 现代预防医学, 2016, 43(11):. 2052 – 2057, 2061. [ 5 ]. 陈 ...",
+          "date": "2018年11月1日",
+          "position": 67
+        },
+        {
+          "title": "Transgender Health - 期刊影响因子2.20 - JCR 2 区- 中科院4 区- 医学",
+          "link": "https://ivysci.com/journals/2380-193X/?lang=zh",
+          "snippet": "学术期刊Transgender Health，期刊ISSN: 2380-193X, 2688-4887。期刊参考文献引用方法举例，期刊最新文献浏览，版面费以及投稿经验分享。",
+          "position": 68
+        },
+        {
+          "title": "2024中华医学会整形外科学分会第二十一次学术交流会",
+          "link": "https://mm.sciconf.cn/cn/web/program/21802?hall_id=24578&date_id=11135&session_id=681864",
+          "snippet": "医学人文; 四肢整形; 减重代谢外科; 疑难杂症; 临床质量安全与临床试验; 神经 ... 分会场2（九州厅2）. 09:40-10:40 | 跨性别与性别重置专题研讨会【会阴整形】. 主持 ...",
+          "position": 69
+        },
+        {
+          "title": "跨性别者自杀意念的影响因素探析 - 汉斯出版社",
+          "link": "https://www.hanspub.org/journal/paperinformation?paperid=60667",
+          "snippet": "目前，从对自我认同的角度出发，跨性别者主要包括跨性别男性、跨性别女性和性别酷儿三种。 ... 国外医学(精神病学分册), 2003, 30(1): 31-34. [11], 李献云, 费立鹏, 童永胜 ...",
+          "position": 70
+        },
+        {
+          "title": "性別重置手術及性別矯正手術 - 臺北榮民總醫院",
+          "link": "https://wd.vghtpe.gov.tw/ps/Fpage.action?muid=15126&fid=13850",
+          "snippet": "許多跨性別者，從小就感受到了自己的性別表現與原生性別不太一樣，其中一部份人進一步符合醫學中的「性別不安」（gender dysphoria）或「性別不一致」（gender ...",
+          "date": "2023年7月7日",
+          "position": 71
+        },
+        {
+          "title": "性别不一致与性别焦虑- MSD诊疗手册专业版",
+          "link": "https://www.msdmanuals.cn/professional/psychiatric-disorders/gender-incongruence-and-gender-dysphoria/gender-incongruence-and-gender-dysphoria",
+          "snippet": "跨性别者： 出生时被指定为女性(AFAB) 并采用男性性别认同的人，无论他们是否经历过任何医学性别转变。 宦官： 出生时被指定为男性的个体，其睾丸已被手术切除或丧失功能，并被 ...",
+          "position": 72
+        },
+        {
+          "title": "跨儿心理工作手册 - 跨性别在线·文档库",
+          "link": "https://docs.transonline.org.cn/kexl-work",
+          "snippet": "2013年发布的美国精神医学学会《精神疾病诊断与统计手册第5版（DSM-5）》中，将跨性别的认同和表达描述为“性别不安（Gender dysphoria）“、”异装障碍（Transvestic disorder）”。",
+          "position": 73
+        },
+        {
+          "title": "伴您同行 - Congregaytion",
+          "link": "https://www.congregaytion.com/ill-walk-with-you/zh",
+          "snippet": "... 跨性别儿童的父母服务，帮助您回答有关跨性别和性别 ... 虽然许多跨性别者有出柜并性别转换（社交或医学上），但非常规性别的人通常不觉得 ...",
+          "position": 74
+        },
+        {
+          "title": "UNM 加强、扩大性别肯定医疗保健服务",
+          "link": "https://zh-cn.hsc.unm.edu/news/2023/06/clinician-discusses-gender-affirming-health-care.html",
+          "snippet": "莫莉麦克莱恩, 医学博士, 每小时英里数. 在最近的全国趋势中，几个州已经通过了禁止对跨性别青年进行性别肯定护理的禁令。 如果临床医生向18 岁以下的跨 ...",
+          "date": "2023年6月7日",
+          "position": 75
+        },
+        {
+          "title": "一位妇科医生开了跨性别医疗门诊 - 新浪财经",
+          "link": "https://finance.sina.cn/2024-09-08/detail-incnmzsa6529072.d.html?oid=%E4%B9%90%E5%8A%A8%E4%B8%8B%E6%B3%A8%20",
+          "snippet": "转自：医学界撰文| 田栋梁中国内地大约有400万跨性别者，为TA们提供医疗帮助的医生屈指可数，暨南大学附属第一医院的高绿芬医生是其中之一。",
+          "date": "2024年9月8日",
+          "position": 76
+        },
+        {
+          "title": "接受激素治疗的成年跨性别者：50年内死亡率趋势调查 - 环球医学",
+          "link": "https://www.g-medon.com/Item/64581.aspx",
+          "snippet": "跨性别女性的心血管疾病、肺癌、HIV相关疾病和自杀的特定原因死亡率较高。在跨性别男性中，44人（2.7%）死亡，高于一般人群女性的预期值（SMR 1.8，95% CI 1.3～ ...",
+          "date": "2021年10月22日",
+          "position": 77
+        },
+        {
+          "title": "你的国家对跨性别者有多大的支持度？ - 世界经济论坛",
+          "link": "https://cn.weforum.org/stories/2017/01/839596e7-4293-4d70-bd24-0bf290c9bbb3/",
+          "snippet": "多数受访者都表示他们支持更换身份证明信息的权利，但也有很多人认为这需要医学方面和政府的规定。在二十一个国家中，调查对象表示他们支持禁止歧视跨性别者 ...",
+          "date": "2017年1月9日",
+          "position": 78
+        },
+        {
+          "title": "[PDF] 性別不安 - 健康九九",
+          "link": "https://health99.hpa.gov.tw/media/public/pdf/21920.pdf",
+          "snippet": "跨性別自助社群也提供了各種心理支持或團. 體教育資源。隨著當代精神醫學界將性別不安「去疾. 病化」，精神科醫師的角色由判定有無疾病的「仲裁.",
+          "position": 79
+        },
+        {
+          "title": "“如果要死，我宁愿死在手术台上”，跨性别者做手术有多难？ - 全知识",
+          "link": "https://m2.allhistory.com/ah/article/5f561d90550c6f000106efcc",
+          "snippet": "这本书阐明了有关性别焦虑的精神、心理、医学和外科治疗的专业共识。WPATH 网站上写道，“我们设想的世界中，所有性别认同和性别表达者都将获得合理的医疗保健，社会服务，正义 ...",
+          "position": 80
+        },
+        {
+          "title": "王恒| 吾栖之肤：跨性别者的性别认同与具身实践——基于在北京市 ...",
+          "link": "http://www.shehui.pku.edu.cn/wap/second/index.aspx?nodeid=2030&page=ContentPage&contentid=10195",
+          "snippet": "如今，晓迪的父母终于同意带她去医院，她也获得了易性症的医学证明，但在所有需要身份证的场合——当然也包括求职，晓迪都面临几乎无法克服的阻碍。性别重置手术成了她唯一的希望 ...",
+          "position": 81
+        },
+        {
+          "title": "[PDF] 指导简报- 性别简介 - FHI 360",
+          "link": "https://niwl.fhi360.org/wp-content/uploads/2021/01/STEM2D-Tips-IntroToGender_Chinese.pdf",
+          "snippet": "4虽然性别通常是永久性的，但在这种情. 况下，它可能会改变。 ○ {跨性别者也可能包括变性人（一个较古老的、聚. 焦于医学的术语 ...",
+          "position": 82
+        },
+        {
+          "title": "一次意外，25岁已婚姑娘，居然发现自己是男人！这种病会遗传",
+          "link": "https://hznews.hangzhou.com.cn/kejiao/content/2021-03/10/content_7925021_3.html",
+          "snippet": "跨性别者是指在性别认同、性别表达或性别行为方面与出生时指定的生理性别 ... 医学生称为性别认同障碍，或者易性癖，对此会造成严重的性别焦虑和 ...",
+          "date": "2021年3月10日",
+          "position": 83
+        },
+        {
+          "title": "跨性别者和性别不符合者之间的社交焦虑：确认性别的医疗干预措施 ...",
+          "link": "https://www.x-mol.com/paper/1213012986339463193/t?recommendPaper=1357020302004305920",
+          "snippet": "跨性别和性别不符合（TGNC）的人遭受心理困扰的风险更高，包括社交焦虑症（SA）。当前的研究旨在检查性别确认医学干预（GAMI）是否与TGNC个体中较低的SA相关。211名跨性别女性 ...",
+          "position": 84
+        },
+        {
+          "title": "性别差异与医学实践:当代人类学视角中的性别医学",
+          "link": "https://xbzs.ecnu.edu.cn/CN/html/2019-2-110.htm",
+          "snippet": "性别医学主要的研究对象是性别，包括生物性别和社会性别与健康之间的复杂关系 ... 跨地域、跨种族、跨文化的共性，他们侧重女性的共同生命健康体验，希望产生一种 ...",
+          "position": 85
+        },
+        {
+          "title": "中华医学会科普图文“与众不同”的女孩",
+          "link": "https://www.cma.org.cn/art/2024/2/21/art_4584_55417.html",
+          "snippet": "它与跨性别有部分交叉，但自身包含更多的临床表型。性发育异常（DSD）是一大类先天性疾病，可表现为患者的染色体核型与性腺类型和/或生殖器的 ...",
+          "date": "2024年2月21日",
+          "position": 86
+        },
+        {
+          "title": "跨性别男性免疫反应差异需关注—论文 - 科学网",
+          "link": "https://news.sciencenet.cn/htmlpaper/2024/9/20249911948189118533.shtm",
+          "snippet": "卡罗林斯卡医学院的Petter Brodin和同事通过为23名跨性别男性在性别肯定睾酮治疗之前和期间进行分析，揭示出性激素对免疫反应的影响。他们在治疗开始 ...",
+          "date": "2024年9月9日",
+          "position": 87
+        },
+        {
+          "title": "認識跨性別- 元照出版, 月旦知識庫",
+          "link": "http://lawdata.com.tw/tw/detail.aspx?no=233106",
+          "snippet": "林彥慈,王紫菡,成令方,跨性別,性別,醫療,法律,transgender,gender,medicine,law,跨性別，拍的是對自身性別認同與原生理性別不一致。本文探討跨性別者的社會與醫療的困境 ...",
+          "position": 88
+        },
+        {
+          "title": "探索跨性别者在医疗保健方面的经历- 美国大学新闻",
+          "link": "https://petbyus.com/50065/",
+          "snippet": "发表在《家庭医学年鉴》（Annals of Family Medicine ）上的一项新研究探讨了30名跨性别者与其医疗保健临床医生之间的遭遇。",
+          "date": "2023年10月2日",
+          "position": 89
+        },
+        {
+          "title": "特别报告员：德国《性别自决法》未充分保障妇女和女童权益",
+          "link": "https://news.un.org/zh/story/2024/10/1133046",
+          "snippet": "该法案允许个人基于自我认同更改法定性别，取消了原有的司法和医学审查要求。 萨利姆指出，尽管该法案旨在增强跨性别群体的权利，但在实际操作中却 ...",
+          "date": "4天前",
+          "position": 90
+        },
+        {
+          "title": "关注跨性别者多元需求—九院整复外科首次组织召开跨性别MDT会诊",
+          "link": "https://www.9hospital.com.cn/djy_web/html/djy/jy_xwgg_xwdt/2021-10-07/Detail_148580.htm",
+          "snippet": "开展跨性别MDT会诊，可以关注跨性别者的生理、心理和社会不同维度的 ... 医学院附属第九人民医院信息科地址：上海市制造局路639号邮编：200011 ...",
+          "date": "2021年10月7日",
+          "position": 91
+        },
+        {
+          "title": "[PDF] LIST OF TERMS – SEXUAL ORIENTATION, GENDER IDENTITY ...",
+          "link": "https://irb.gc.ca/en/interpreters/Documents/SOGIESC_Glossaries/SOGIESC_List_of_Terms_Mandarin.pdf",
+          "snippet": "恋、双性恋、跨性别者、双性. 人、酷儿或性别存疑者、双. 灵）生活方式和个人 ... 未经同意的医学和科学实验. Non—heterosexual orientation. Orientation non ...",
+          "position": 92
+        },
+        {
+          "title": "美国旧金山卫生署Erin Wilson博士来宁考察江苏省跨性别项目研究工作",
+          "link": "https://www.jscdc.cn/zxzx/zhongxinzixun/202310/t20231026_81231.html",
+          "snippet": "性病与艾滋病防制所（健康咨询中心）. 美国旧金山卫生署Erin Wilson博士来宁考察江苏省跨性别项目研究工作 ... 版权所有：江苏省疾病预防控制中心（江苏省预防医学科学院） 技术 ...",
+          "position": 93
+        },
+        {
+          "title": "复旦儿科开设国内首个跨性别儿童与青少年多学科门诊",
+          "link": "https://ch.shmu.edu.cn/news/content/pid/13742.html",
+          "snippet": "近日，国家儿童医学中心、复旦大学附属儿科医院开设跨性别多学科门诊，旨在通过多学科专家的专业评估、诊断及干预，减少特殊儿童青少年人群的负面情绪、 ...",
+          "date": "2021年11月9日",
+          "position": 94
+        },
+        {
+          "title": "跨性别运动员：体育界该如何对待？ - DW",
+          "link": "https://www.dw.com/zh/%E8%B7%A8%E6%80%A7%E5%88%AB%E8%BF%90%E5%8A%A8%E5%91%98%E4%BD%93%E8%82%B2%E7%95%8C%E8%AF%A5%E5%A6%82%E4%BD%95%E5%AF%B9%E5%BE%85/a-66982533",
+          "snippet": "2020年在《英国运动医学杂志》上发表的一项研究显示，药物治疗也无法弥补这一差异。相反，在接受睾酮治疗后，跨性别女性在做俯卧撑和跑步速度上与男性持平， ...",
+          "date": "2023年10月8日",
+          "position": 95
+        },
+        {
+          "title": "[PDF] 解答你的問題",
+          "link": "https://www.apa.org/topics/lgbtq/chinese-transgender.pdf",
+          "snippet": "相. 反，出生時為男性，但性別認同和生活如同. 女性，並且透過或希望透過醫學方法去變成. 女性，此類人士稱為跨性別女性，也稱為男. 變女（male to female／MTF）。有些改變了.",
+          "position": 96
+        },
+        {
+          "title": "跨越性别的共情 - 人民日报",
+          "link": "http://paper.people.com.cn/rmrbhwb/html/2023-01/19/content_25960525.htm",
+          "snippet": "... 跨性别共情、关怀的可能。 如何做到这一点？据说借助一些先进技术可以 ... 书中讲述了诸多医患之间的动人故事，比如一对热心医学教育的平凡夫妇 ...",
+          "date": "2023年1月19日",
+          "position": 97
+        },
+        {
+          "title": "\"LGBTI\"中的\"I\"指“intersex”（间性者） | ShareAmerica",
+          "link": "https://archive-share.america.gov/zh-hans/lgbti%E4%B8%AD%E7%9A%84i%E6%8C%87intersex%EF%BC%88%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85%EF%BC%89/",
+          "snippet": "间性者群体以及男女同性恋、双性恋和跨性别 ... 值得注意的是，很多间性者接受了不必要的手术和荷尔蒙治疗，而跨性别者往往需要努力争取才能得到这些医学手段 ...",
+          "date": "2016年6月13日",
+          "position": 98
+        },
+        {
+          "title": "[PDF] 简报#09 跨性别性工作者的需求与权利",
+          "link": "https://www.nswp.org/sites/default/files/trans_sws_chinese.pdf",
+          "snippet": "... 跨性别者针对性服务）。由于. 缺少医生监督下的激素治疗和变性手术，一些TSW只能出国，或者去黑市. 上找替代品。很多TSW在没有医学指导下使用黑市激素，或使用工业硅胶.",
+          "position": 99
+        }
+      ],
+      "images": [
+        {
+          "title": "跨儿心理工作手册| 跨性别在线·文档库",
+          "imageUrl": "https://docs.transonline.org.cn/assets/img/KEXL.b4326193.jpeg",
+          "link": "https://docs.transonline.org.cn/kexl-work"
+        },
+        {
+          "title": "跨性别- 维基百科，自由的百科全书",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Transgender_Pride_flag.svg/280px-Transgender_Pride_flag.svg.png",
+          "link": "https://zh.wikipedia.org/zh-cn/%E8%B7%A8%E6%80%A7%E5%88%A5"
+        },
+        {
+          "title": "复旦大学附属儿科医院",
+          "imageUrl": "https://ch.shmu.edu.cn/uploads/image/211215/16395573492767.jpg",
+          "link": "https://ch.shmu.edu.cn/paper/news/content/id/258/nid/11/pid/80"
+        },
+        {
+          "title": "一位妇科医生开了跨性别医疗门诊_手机新浪网",
+          "imageUrl": "https://k.sinaimg.cn/n/sinakd20240908s/242/w1032h810/20240908/7e7f-07701720ac8917f92e07090fcf6ab008.jpg/w700d1q75cms.jpg?by=cms_fixed_width",
+          "link": "https://finance.sina.cn/2024-09-08/detail-incnmzsa6529072.d.html?oid=ld%E4%B9%90%E5%8A%A8%E4%BD%93%E8%82%B2%E8%A7%86%E8%AE%AF%E5%85%AC%E5%8F%B8%E5%AF%BC%E8%88%AA%E7%9B%B4%E8%90%A5%E7%AB%99%3E%3ELD2069.CC&vt=4&cid=76524&node_id=76524"
+        },
+        {
+          "title": "为什么我们在后退？”——跨性别遭拒的医疗权",
+          "imageUrl": "https://static.wixstatic.com/media/e3f225_1ca43a50c718408fabad0a85022672f6~mv2.jpeg/v1/fill/w_980,h_588,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/e3f225_1ca43a50c718408fabad0a85022672f6~mv2.jpeg",
+          "link": "https://www.khloewong.com/post/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E5%9C%A8%E5%90%8E%E9%80%80%EF%BC%9F-%E8%B7%A8%E6%80%A7%E5%88%AB%E9%81%AD%E6%8B%92%E7%9A%84%E5%8C%BB%E7%96%97%E6%9D%83"
+        },
+        {
+          "title": "复旦大学附属儿科医院",
+          "imageUrl": "https://ch.shmu.edu.cn/uploads/image/211215/16395573635114.jpg",
+          "link": "https://ch.shmu.edu.cn/paper/news/content/id/258/nid/11/pid/80"
+        },
+        {
+          "title": "跨性别_百度百科",
+          "imageUrl": "https://bkimg.cdn.bcebos.com/smart/72f082025aafa40f4bfb7904fd30144f78f0f636b394-bkimg-process%2Cv_1%2Crw_16%2Crh_9%2Cmaxl_640%2Cpad_1%3Fx-bce-process%3Dimage/format%2Cf_auto",
+          "link": "https://baike.baidu.com/item/%E8%B7%A8%E6%80%A7%E5%88%AB/6234644"
+        },
+        {
+          "title": "跨儿心理工作手册| 跨性别在线·文档库",
+          "imageUrl": "https://docs.transonline.org.cn/assets/img/07-SOC.4a864d63.jpeg",
+          "link": "https://docs.transonline.org.cn/kexl-work"
+        },
+        {
+          "title": "巴黎奥运“性别风暴”：医学研究能解释对林郁婷等选手资格的质疑吗 ...",
+          "imageUrl": "https://ichef.bbci.co.uk/images/ic/1024x576/p08y9ws7.jpg",
+          "link": "https://www.bbc.com/zhongwen/simp/world-69254813"
+        }
+      ],
+      "relatedSearches": [
+        {
+          "query": "友跨顺男什么意思"
+        },
+        {
+          "query": "trans是什么意思"
+        },
+        {
+          "query": "MTF"
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "跨性别 医学",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "Nature：雄激素治疗后的跨性别男性，免疫系统被重塑 - 生物谷",
+          "link": "https://news.bioon.com/article/b6b884204611.html",
+          "snippet": "... 性别女性，但自我认同为男性）在性别肯定睾酮治疗之前和期间进行分析，揭示出性激素对免疫反应的影响。 瑞典卡罗林斯卡医学院、隆德大学、乌普萨拉 ...",
+          "date": "2024年9月6日",
+          "position": 1
+        },
+        {
+          "title": "跨性別基本知識",
+          "link": "http://www.tehk.org.hk/trans101_tc.html",
+          "snippet": "跨性别女性是出生時被分配為男性的女性。 這通常被稱為男跨女(MTF或M2F) ... 直至現時為止，醫學界仍未能確定性別不一致或性別不安的成因，學者相信成因有多種 ...",
+          "position": 2
+        },
+        {
+          "title": "性存在与社会性别 - Tokyo Sexual Health",
+          "link": "http://www.tsh.ncgm.go.jp/chs/about_sexual_health/Sexuality_and_Gender.html",
+          "snippet": "虽然医学上的性别判断是通过观察外生殖器来进行的，但也存在难以通过外表来 ... 性倾向既是“女性”又是“男性”的人。 T：Transgender（跨性别者） 因生理性别与性别 ...",
+          "position": 3
+        },
+        {
+          "title": "子宫移植专家表示，跨性别女性自然怀孕是“医学上可能的” - 搜狐",
+          "link": "https://www.sohu.com/a/713884638_121684222",
+          "snippet": "由于并发症的风险增加，并且许多需要手术的女性在阴道和其他性器官中存在结构差异，因此该手术在顺性别女性中已经被认为是高风险的。",
+          "date": "2023年8月22日",
+          "position": 4
+        },
+        {
+          "title": "跨性别雌激素治疗有什么目的？-京东健康 - JD.com",
+          "link": "https://www.jd.com/pccontent/12055224",
+          "snippet": "激素治疗是会伴随跨性别人群很长一段时间的状况，在用药的期间一定要保持非常良好的心态。 本站内容仅供医学知识科普使用，任何关于疾病、用药建议都不能替代执业医师当面 ...",
+          "position": 5
+        },
+        {
+          "title": "关于爱思唯尔| 包容性和多元化咨询委员会 - Elsevier",
+          "link": "https://www.elsevier.cn/about/inclusion-diversity-and-equity/board/",
+          "snippet": "我们正在帮助增强跨性别、种族和族裔以及地理维度的研究的多元化和包容性，并确保 ... Gary L. Darmstadt, 医学博士(MD)、理学硕士(MS)。 妇幼健康副院长兼新生儿 ...",
+          "position": 6
+        },
+        {
+          "title": "LGBTQ健康信息-橄榄景观–加州大学洛杉矶分校医学中心",
+          "link": "https://dhs.lacounty.gov/zh-CN/%E5%A5%A5%E5%88%A9%E7%BB%B4%E5%B0%A4/%E8%80%90%E5%BF%83%E7%9A%84%E8%AE%BF%E5%AE%A2/LGBTQ-%E5%81%A5%E5%BA%B7%E4%BF%A1%E6%81%AF/",
+          "snippet": "手术简杨（医学博士）. 跨性别健康服务. DHS 能够为跨性别者提供知识渊博的特殊护理而感到自豪。 有关跨性别护理或转诊的更多信息，请与您的初级保健提供者联系。 洛杉矶 ...",
+          "position": 7
+        },
+        {
+          "title": "臺灣跨性別醫學學會 - Facebook",
+          "link": "https://www.facebook.com/transgendermedicaltw/",
+          "snippet": "服裝DRESS CODE｜(非強制) 醫學會夥伴可以借白袍 、聽診器 類的道具或是白 色外衣⬜️, 讓我們走出更多不一樣的樣貌。 2023第5屆跨性別遊行資訊 > 活動地點：台北西門町紅樓 ...",
+          "position": 8
+        },
+        {
+          "title": "中国跨性别群体求医难转投海外或黑市",
+          "link": "https://www.rfa.org/mandarin/yataibaodao/shehui/cc-09132019121604.html",
+          "snippet": "中国跨性别群体的生存现状，近日再次受到舆论关注。法新社披露，许多跨性别者在中国难以获得合法有效的医疗服务，不得不转投海外或黑市进行变性手术。",
+          "date": "2019年9月13日",
+          "position": 9
+        },
+        {
+          "title": "【勵馨觀點】看見台灣跨性別者之「多重困境」",
+          "link": "https://www.goh.org.tw/perspectives/multi-dilemma-of-transgender-in-taiwan/",
+          "snippet": "目前醫學界如何看待跨性別？ 跨性別者(Transgender)，是指其性別認同或性別表現與其原生生理性別的不同的人，性別認同 ...",
+          "date": "2020年1月13日",
+          "position": 10
+        },
+        {
+          "title": "為什麼要推動免術換證？ - 伴盟跨性別資訊平台",
+          "link": "https://transgender.tapcpr.org/home",
+          "snippet": "過去精神醫學界曾錯誤地把跨性別當作疾病。 但這個觀念已在近年來被修正，普遍認為跨性別認同是人類多樣性的一部分。",
+          "position": 11
+        },
+        {
+          "title": "跨性别者- مغايرة الهوية الجنسانية - UN Free & Equal",
+          "link": "https://www.unfe.org/zh/ar/know-the-facts/challenges-solutions/transgender",
+          "snippet": "改变将跨性别归为疾病的国家医学分类。 保护跨性别者和不符合传统性别身份的儿童和青年免遭暴力和歧视，允许其性别认同得到承认。 采取具体措施，尊重被拘留的跨性别者的性别 ...",
+          "position": 12
+        },
+        {
+          "title": "临床医生资源- 跨性别和性别扩展健康中心 - 全球十大外围足球平台",
+          "link": "http://www.hokkaidopc.com/center-transgender-health/clinician-resources",
+          "snippet": "寻找有关跨性别和性别多样化医疗保健的资源? 在这里，我们提供来自约翰霍普金斯大学和其他医院的各种临床资源，帮助您为患者提供高质量的护理.",
+          "position": 13
+        },
+        {
+          "title": "2022 WPATH 跨性别者和性别多元化人群健康护理标准，第8 版",
+          "link": "https://m.cmt.com.cn/detail/1463293.html",
+          "snippet": "2022 WPATH 跨性别者和性别 ... 关键字：,跨性别,性别多元化,. 分享到：. 新浪微博微信腾讯微博更多. 更多评论. 首页|PC版. copyright©医学论坛网版权所有. // ...",
+          "date": "2023年1月30日",
+          "position": 14
+        },
+        {
+          "title": "德国医学大会呼吁限制未成年人接受跨性别手术和青春期阻断剂",
+          "link": "http://www.chinachristiantimes.com/news/41559/%E5%BE%B7%E5%9B%BD%E5%8C%BB%E5%AD%A6%E5%A4%A7%E4%BC%9A%E5%91%BC%E5%90%81%E9%99%90%E5%88%B6%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%8E%A5%E5%8F%97%E8%B7%A8%E6%80%A7%E5%88%AB%E6%89%8B%E6%9C%AF%E5%92%8C%E9%9D%92%E6%98%A5%E6%9C%9F%E9%98%BB%E6%96%AD%E5%89%82",
+          "snippet": "医学大会在通过的第一份决议中呼吁，联邦政府只能允许18岁以下的未成年人在“多学科小组和临床伦理委员会的参与下”，“在可控科学研究的背景下”接受改变身体的 ...",
+          "date": "2024年6月4日",
+          "position": 15
+        },
+        {
+          "title": "EP02#上·西方医学凝视下的身体：跨性别的近代谱系 - 小宇宙",
+          "link": "https://www.xiaoyuzhoufm.com/episode/65146b2519dde7bf6ab34b46",
+          "snippet": "EP02#上·西方医学凝视下的身体：跨性别的近代谱系 · 《云端与彼岸》第二期节目·上 · 主播：镜子（Ta）+Albert（任意代词） · 本期节目录制于2023年9月22日 · *由于 ...",
+          "date": "2023年9月29日",
+          "position": 16
+        },
+        {
+          "title": "立法会二十二题：为性别认同障碍患者提供医疗服务",
+          "link": "https://sc.isd.gov.hk/gb/www.info.gov.hk/gia/general/201310/09/P201310090461.htm",
+          "snippet": "... 跨性别人士。现时，全港只有两间分别设於沙田威尔斯亲王医院及屯门青山医院的性诊所（诊所）提供跨性别医学诊断服务。有跨性别人士指出，该等诊所未有 ...",
+          "date": "2013年10月9日",
+          "position": 17
+        },
+        {
+          "title": "跨性别者性别认同的法律承认—中国相关法律和政策评估报告 - Issuu",
+          "link": "https://issuu.com/undp-china/docs/_____________",
+          "snippet": "一部分跨性别者会对身体进行医学干预来使他们的指派性别与性别认同一致。 指性别认同为男性的跨性别者（原生性别为女，性别认同为男） 指性别认同为女性的跨 ...",
+          "date": "2018年8月6日",
+          "position": 18
+        },
+        {
+          "title": "张田勘：跨性别正蚕食奥运会公平公正 - 联合早报",
+          "link": "https://www.kzaobao.com/mon/keji/20240814/167315.html",
+          "snippet": "这或许可以用跨性别来解释。跨性别是目前国际上的一种风潮，也就是一个人认为自己是什么性别就是什么性别，不管实际上自身的生物医学性别。这被认为是 ...",
+          "date": "2024年8月14日",
+          "position": 19
+        },
+        {
+          "title": "大型体育运动中有跨性别人士的位置吗？ - 俄罗斯卫星通讯社",
+          "link": "https://sputniknews.cn/20210621/1033934908.html",
+          "snippet": "然而，即使测量睾酮水平也不能完全解决比赛中的跨性别问题。根据英国运动医学杂志最近的一项研究，在48 名年龄在18 至35 岁之间的健康、运动女性的样本中 ...",
+          "date": "2021年6月21日",
+          "position": 20
+        },
+        {
+          "title": "跨性别群体的伤痛需要社会合力抚平 - 时刻新闻",
+          "link": "https://moment.rednet.cn/content/2021/11/06/10370904.html",
+          "snippet": "医学界认为，胚胎期性染色体分化对脑部的发育影响和性激素分泌水平异常在一定程度上是个体产生性别认同障碍的原因之一，即先天性跨性别者。 ... 性跨性别 ...",
+          "date": "2021年11月6日",
+          "position": 21
+        },
+        {
+          "title": "领悟社会支持量表在50岁以上中老年群体的跨性别测量等值性",
+          "link": "https://rs.yiigle.com/cmaid/1315356",
+          "snippet": "... 号. 互联网药品信息服务资格证：(京)-非经营性-2021-0070. 出版物经营许可证：新出发京零字第东130025号. © 2022《中华医学杂志》社有限责任公司版权所有. 分享.",
+          "position": 22
+        },
+        {
+          "title": "[PDF] 跨性别群体抑郁、焦虑与防御机制研究 - 预防医学",
+          "link": "http://www.zjyfyxzz.com/CN/article/downloadArticleFile.do?attachType=PDF&id=2630",
+          "snippet": "承德医学院心理系，河北承德067000；2. ... 跨性别指个体的性别身份或性别表达与出生时的. 生理性别不一致，包括跨性别女性（生理性别为男. 性）和跨性别男性（生理性别为女性）［1］ ...",
+          "position": 23
+        },
+        {
+          "title": "多样性、公平性、包容性 - | 医学院",
+          "link": "https://zh-cn.hsc.unm.edu/medicine/departments/surgery/diversity1/",
+          "snippet": "使命. UNM 外科致力于解决歧视问题（例如性别歧视、种族主义/民族种族主义、仇外心理、同性恋恐惧症、跨性别恐惧症等），承认历史上被边缘化社区的资产，消除医疗保健差距， ...",
+          "position": 24
+        },
+        {
+          "title": "奥委会用激素水平决定“能否参加女子组比赛”，这合理吗？ - 读特",
+          "link": "https://m.dutenews.com/p/3426824.html",
+          "snippet": "当肌肉量有明显差异时，力量的差异只会更大。 2021年，自己就是跨性别女性的研究者乔安娜·哈珀，在《英国运动医学杂志》（British Journal of Sports ...",
+          "date": "2021年8月6日",
+          "position": 25
+        },
+        {
+          "title": "“生而无罪，你不需要抱歉”|性别认同：“顺”或“跨”都不该被轻易定义",
+          "link": "https://xinli.swjtu.edu.cn/info/1065/5833.htm",
+          "snippet": "只是因为，他们是跨性别群体。 只是因为，他们不一样。 过去，他们的出现从生物医学上被定义为：性别认同障碍。 而就在2019年5 月25 日，世界卫生组织 ...",
+          "date": "2021年10月13日",
+          "position": 26
+        },
+        {
+          "title": "《经济学人》双语：变性医疗的风险？ - Bilibili",
+          "link": "https://www.bilibili.com/read/cv23028880/",
+          "snippet": "原文标题：Trans treatmentsThe dangers of gender medicineToo many doctors have suspended their professional judgment跨性别治疗性别医学的风险 ...",
+          "date": "2023年4月13日",
+          "position": 27
+        },
+        {
+          "title": "【健康报】跨性别男男性行为者染艾超16%-上海交通大学医学院-新闻网",
+          "link": "https://www.shsmu.edu.cn/news/info/1007/4494.htm",
+          "snippet": "本报讯（记者胡德荣）中国跨性别男男性行为者艾滋病病毒（HIV）感染率超过16%，远高于目前中国男男性行为人群8%~9%的HIV感染率。这是上海交通大学公共卫生 ...",
+          "date": "2016年11月11日",
+          "position": 28
+        },
+        {
+          "title": "跨性别人士在荷兰过得怎么样？",
+          "link": "https://helanonline.cn/article/16811",
+          "snippet": "在荷兰，希望通过医学改变生理性别的人，一度被诊断为精神错乱。 荷兰的第一例变性手术出现在上世纪五十年代。不过这也不是欧洲首例：早在1912年，理 ...",
+          "date": "2021年11月24日",
+          "position": 29
+        },
+        {
+          "title": "跨性別女性化賀爾蒙療法| 最新消息 - 中國醫藥大學附設醫院",
+          "link": "https://www.cmuh.cmu.edu.tw/NewsInfo/NewsArticle?no=6907",
+          "snippet": "跨性別女性化賀爾蒙療法 · 口服女性荷爾蒙開始劑量每日2mg，最高劑量至每日6mg。年紀大於45歲、有靜脈栓塞的病史、心臟血管疾病的風險因子、或抽菸則建議 ...",
+          "date": "2020年10月26日",
+          "position": 30
+        },
+        {
+          "title": "Facebook新推性别系统新增56种含医学术语令人迷惑",
+          "link": "https://www.guancha.cn/america/2014_02_16_206292.shtml?web",
+          "snippet": "Transgender - 跨性别。和Trans基本意思相同。参见Cis和cisgender的相关讨论。下同。 Transgender Female - 跨性女。 Transgender Male - 跨 ...",
+          "date": "2014年2月16日",
+          "position": 31
+        },
+        {
+          "title": "报告揭示中国跨性别者暗不见光的生活 - 纽约时报",
+          "link": "https://cn.nytimes.com/china/20150128/c28transgender/",
+          "snippet": "“跨性别女性性工作者是当今中国最边缘化和最脆弱的群体之一，”报告 ... 在中国，变装和变性手术并不违法，但中华医学会精神病学分会将寻求改变 ...",
+          "date": "2015年1月28日",
+          "position": 32
+        },
+        {
+          "title": "跨性别女性的特征及艾滋病相关知识行为调查",
+          "link": "http://html.rhhz.net/zhlxbx/20160116.htm",
+          "snippet": "中华医学会主办。 0. 文章信息. 陈吴康, 张晓菲, 吕翠霞, 董蕾, 杜以慧, 傅继华. Chen Wukang, Zhang ...",
+          "date": "2016年1月16日",
+          "position": 33
+        },
+        {
+          "title": "[PDF] 背景总览性别健康中心Gender Health Center (GHC) 是南湾地区第一 ...",
+          "link": "https://scvmc.scvh.org/sites/g/files/exjcpb911/files/CH-6194-The%20Gender%20Health%20Center.pdf",
+          "snippet": "总览. 性别健康中心Gender Health Center (GHC) 是南湾地区第一家专门照顾跨性别，非二元性別者和泛. 性别認同者的不分龄诊所。我们提供医疗，精神/情绪保健，针对实际 ...",
+          "position": 34
+        },
+        {
+          "title": "跨性别人士的真实生态 - 新民周刊",
+          "link": "https://m.xinminweekly.com.cn/content/973.html",
+          "snippet": "所谓的“跨性别人士”，是指一些从心理上否定自己的性别，认为自己的性别与生理性别相反的人群，在医学上，这样的情况还有另一个名称——易性病。 近年来，随着社会 ...",
+          "date": "2018年11月30日",
+          "position": 35
+        },
+        {
+          "title": "跨性别语音疗法和手术 - 西安国际医学中心医院",
+          "link": "http://jkzs.imc-xa.cn/detail308629354.html",
+          "snippet": "跨性别语音疗法和手术，又称性别确认嗓音保健，包括帮助跨性别者改变其嗓音，从而形成与性别认同相匹配的交流模式。治疗可能有助于改变嗓音特征和非语言交流模式。",
+          "position": 36
+        },
+        {
+          "title": "上海率先开设跨性别多学科门诊帮助特殊未成年人",
+          "link": "https://www.sh.chinanews.com.cn/bdrd/2021-11-05/92886.shtml",
+          "snippet": "中新网上海11月4日电(陈静奚晓蕾)记者4日获悉，国家儿童医学中心、复旦大学附属儿科医院率先开设跨性别多学科门诊，旨在通过多学科专家的专业评估 ...",
+          "date": "2021年11月5日",
+          "position": 37
+        },
+        {
+          "title": "性史学者巴里·瑞：跨性别者的历史比跨性别的历史更漫长而广泛",
+          "link": "https://en.jiemian.com/article/4306897.html",
+          "snippet": "巴里·瑞谈了谈跨性别史前的跨性别者、外科手术在跨性别者生活中扮演的角色，以及为何我们应该反对“医学模式”。 奥克兰大学荣誉退休教授巴里·瑞（Barry ...",
+          "date": "2020年4月27日",
+          "position": 38
+        },
+        {
+          "title": "报告：跨性别青年的医疗保健系统失败了Egalia 反歧视中心AS",
+          "link": "https://egalia.org/zh-CN/barn-og-kjonnsinkongruens/",
+          "snippet": "哈佛医学院内分泌学家兼医学博士Ole-Petter Hamnvik 和人权律师Lene Løvdal 记录了严重侵犯人权的行为.",
+          "date": "2024年10月25日",
+          "position": 39
+        },
+        {
+          "title": "A Brief Introduction to Trans - shypeople",
+          "link": "https://shypeople.cn/A-Brief-Introduction-to-Trans",
+          "snippet": "后者越来越强烈地遭受科学家、医学工作者、伦理学家等的批评。这是因为，这样 ... 在父权制下，顺性别与跨性别女性、跨性别男性、间性别、非二元性别、酷儿性别等 ...",
+          "position": 40
+        },
+        {
+          "title": "【医学科普】跨性别人群的关怀 - BiliBili",
+          "link": "https://www.bilibili.com/video/BV1Wg4y1s7hh?from=search",
+          "snippet": "... 【医学科普】过度健身的隐患，【医学科普】社交媒体与心理健康，我的性别是我的困境（三·下 ...\n时长： 0:55\n发布时间： 2023年3月24日",
+          "date": "2023年3月24日",
+          "position": 41
+        },
+        {
+          "title": "至今缺少指南共识，这群中国医生30 年摸石头过河_性别 - 搜狐",
+          "link": "https://www.sohu.com/a/547964638_296660",
+          "snippet": "如今，国际上不再将跨性别划分为疾病。但在国内，其引起的性别焦虑状态，仍旧迫切需要医学的帮助。 今天，我们一起来聊聊中国跨 ...",
+          "date": "2022年5月17日",
+          "position": 42
+        },
+        {
+          "title": "International Journal of Transgender Health 国际跨性别健康杂志",
+          "link": "https://m.zhichengyz.com/qk-10270",
+          "snippet": "《International Journal Of Transgender Health》是一本专注于社会科学生物医学领域的English学术期刊，由TAYLOR & FRANCIS INC出版商出版，出版周期4 issues/year。",
+          "position": 43
+        },
+        {
+          "title": "“药娘”是个怎样的群体？ 我们能为他们做些什么？ - 温州新闻网",
+          "link": "https://news.66wz.com/system/2021/12/21/105426896.shtml",
+          "snippet": "... 跨性别男性、跨性别女性和性别酷儿。跨性别与同性恋不是一回事，简单来说 ... ”温州医科大学精神医学学院副院长、温州医科大学附属康宁医院副院 ...",
+          "date": "2021年12月21日",
+          "position": 44
+        },
+        {
+          "title": "在醫療科技發展的同時，跨性別者能發聲嗎？ - 苦勞網",
+          "link": "https://www.coolloud.org.tw/node/75995",
+          "snippet": "在醫療科技發展的同時，跨性別者能發聲嗎？ ... 拜讀十月七日中央社報導《研究：變性人大腦反應特殊》一文，報導指出榮總與陽明大學醫學團隊，發表了變性者的心理 ...",
+          "date": "2013年10月21日",
+          "position": 45
+        },
+        {
+          "title": "[PDF] Standards of Care for the Health of Transgender and Gender ...",
+          "link": "https://www.wpath.org/media/cms/Documents/SOC%20v8/Translations/SOC-8-Final_Mandarin.pdf",
+          "snippet": "... 医学院家庭医学和社区健康系性与性别健康研究所博士. Page 10. INTERNATIONAL JOURNAL OF TRANSGENDER HEALTH. S8. 翻译参与者（按拼音顺序排列）. 内容 ...",
+          "date": "2022年9月15日",
+          "position": 46
+        },
+        {
+          "title": "遭遇家长威胁| 跨性别手术医生那些不为人知的事- 日记- 豆瓣",
+          "link": "https://m.douban.com/note/732630741/",
+          "snippet": "A:跨性别者（Trans/Transgender）：指性别认同或性别表达不同于其出生时被指派的生理性别的人。包括：跨性别男性(Transgender Man)：指认同自己是男性的跨性别 ...",
+          "date": "2019年9月1日",
+          "position": 47
+        },
+        {
+          "title": "咖蒙医院的跨性别心理健康照护",
+          "link": "https://www.kamolhospital.com/zh/service/1115/mental-healthcare",
+          "snippet": "咖蒙医院为跨性别和性别非二元者提供心理健康筛查和支持。我们的专家团队，包括精神科医生、心理学家和护士，帮助个人探索其性别认同并实现长期的幸福感。",
+          "position": 48
+        },
+        {
+          "title": "【出圈】跨性别者：我愿用三分之二生命换女性身份Transgender",
+          "link": "https://www.youtube.com/watch?v=YQy7fTYE31c",
+          "snippet": "国内跨性别者群体长期处于比较隐秘的状态，很难得到正规的医疗帮助，外界对他们没有认知，或 ...\n时长： 17:58\n发布时间： 2023年3月3日",
+          "date": "2023年3月3日",
+          "position": 49
+        },
+        {
+          "title": "大学生同性恋、双性恋及跨性别者认知调查 - 医学论坛网",
+          "link": "https://www.cmt.com.cn/detail/97101.html?nomobile",
+          "snippet": "近日，武汉大学哲学学院、西南大学心理健康教育研究中心教育科学研究所和安徽建筑工业学院等机构的研究人员共同发表论文，旨在了解大学生同性恋、双性恋 ...",
+          "date": "2012年11月15日",
+          "position": 50
+        },
+        {
+          "title": "Transgender Health 最新文献和重要文献 - 研飞ivySCI",
+          "link": "https://www.ivysci.com/journals/2380-193X/articles/?type=reading",
+          "snippet": "美国医学院和公共卫生学院项目中跨性别和非二元性别学生的结构和社会包容性 ... 医学(4区)医学心理学临床(4区)医学公共卫生、环境卫生与职业卫生(4区)医学社会 ...",
+          "position": 51
+        },
+        {
+          "title": "跨性别医学 - 我爱自然语言处理",
+          "link": "https://www.52nlp.cn/tag/%E8%B7%A8%E6%80%A7%E5%88%AB%E5%8C%BB%E5%AD%A6",
+          "snippet": "标签： 跨性别医学. Coursera · 推荐Coursera中的《跨性别医学与普通医疗提供者》课程 · 2024年10月16号 课程图谱. 课程主页: https://www.coursera.org… 关注我们的微信 ...",
+          "position": 52
+        },
+        {
+          "title": "跨性别者医美之路",
+          "link": "https://m.medsci.cn/article/show_article.do?id=ca77e84043e2",
+          "snippet": "CaHA以1:1的比例稀释，用22G的钝针注射到前颞区和前额区，以改善新胶原生成，而粘性的、有延展性的和易于成形的玻尿酸在皮下平面用22G钝针注射，在骨膜上平面 ...",
+          "date": "2023年8月1日",
+          "position": 53
+        },
+        {
+          "title": "性別承認 - Transgender Equality Hong Kong 香港跨性別平權協會",
+          "link": "http://www.tehk.org.hk/recognition_tc.html",
+          "snippet": "一般來說，有關人士可憑藉醫學證明書，根據《人事登記規例》(香港法例第177A章)第14及18條申請更改香港身分證上的性別標記，以反映其重置性別。倘性別重置手術是在香港以外 ...",
+          "position": 54
+        },
+        {
+          "title": "为什么跨性别医疗很重要 - PushAsRx体育训练中心",
+          "link": "https://zh-cn.pushasrx.com/why-transgender-healthcare-is-important/",
+          "snippet": "摄入表格中的术语包括性别不合格、非二元、跨性别女性和跨性别男性，以及男性和女性。 ... 我们的信息范围仅限于脊椎治疗，肌肉骨骼和神经健康问题或功能性医学文章，主题和讨论 ...",
+          "position": 55
+        },
+        {
+          "title": "跨性別男性化賀爾蒙療法| 最新消息 - 中國醫藥大學附設醫院",
+          "link": "https://www.cmuh.cmu.edu.tw/NewsInfo/NewsArticle?no=6906",
+          "snippet": "跨性別賀爾蒙治療的關鍵原則是盡可能地達到與個人的所認同之性別環境，以減緩性別不安，這其中包括一些抑制的內源激素或替代療法的賀爾蒙。賀爾蒙療法會部分 ...",
+          "date": "2020年10月26日",
+          "position": 56
+        },
+        {
+          "title": "2024口腔医学人文论坛举办，共谱口腔医学人文新篇章 - 上海交通大学",
+          "link": "https://news.sjtu.edu.cn/jdyw/20241031/203458.html",
+          "snippet": "会前，九院医生代表、交大附属中小学的“医二代”“久蔚”公益项目实践团的医学生代表，带来一首《医学人文赞歌》诗朗诵，这一跨代际的对话，浓缩了“生命、希望与 ...",
+          "date": "4天前",
+          "position": 57
+        },
+        {
+          "title": "麥棨諾醫生：跨性別人士身份證案遲來的公義 - Yahoo新聞",
+          "link": "https://hk.news.yahoo.com/%E9%BA%A5%E6%A3%A8%E8%AB%BE%E9%86%AB%E7%94%9F-%E8%B7%A8%E6%80%A7%E5%88%A5%E4%BA%BA%E5%A3%AB%E8%BA%AB%E4%BB%BD%E8%AD%89%E6%A1%88-%E6%80%A7%E5%88%A5%E9%87%8D%E7%BD%AE-%E6%80%A7%E5%88%A5%E8%AA%8D%E5%90%8C-%E8%B7%A8%E6%80%A7%E5%88%A5%E4%BA%BA%E5%A3%AB-%E9%81%B2%E4%BE%86%E7%9A%84%E5%85%AC%E7%BE%A9-025901511.html",
+          "snippet": "... 跨性別人士於終審法院上訴得直， ... 醫學顧問之一，但最終不了了之。由於跨仔（即女跨男）重置陰莖的手術有 ...",
+          "date": "2023年3月5日",
+          "position": 58
+        },
+        {
+          "title": "伴盟跨性別資訊平台: 認識跨性別",
+          "link": "https://transgender.tapcpr.org/",
+          "snippet": "「跨性別」三個字，從字面的含義解讀是指跨越傳統性別疆界的人。目前精神醫學與性別團體多採狹義定義，也就是：「出生指定性別」和「性別認同」狀態不一致的人，反之「出生 ...",
+          "position": 59
+        },
+        {
+          "title": "性别确认非手术服务 - 全球十大外围足球平台",
+          "link": "http://www.hokkaidopc.com/health/wellness-and-prevention/gender-affirmation-nonsurgical-services",
+          "snippet": "另外, 这对跨性别男性来说很重要, 跨性别女性和她们的家庭寻找一个了解她们特殊 ... 约翰霍普金斯大学医学标志 约翰霍普金斯医学院标志. 提供语言协助: 西班牙语 ...",
+          "position": 60
+        },
+        {
+          "title": "跨性别(性别认同)_搜狗百科",
+          "link": "https://baike.sogou.com/v7512421.htm",
+          "snippet": "... 跨性别女孩. 视频解读; 18.97万观看. 跨性别是一种性别认同而不是一种性倾向。根据国际通用的医学标准，跨性别并不属于精神疾病。 反馈有用. 基本信息. 中文名跨性别. 外文 ...",
+          "position": 61
+        },
+        {
+          "title": "特药事业部-医学信息沟通代表-安庆 - Sanofi Careers",
+          "link": "https://jobs.sanofi.com/en/job/hangzhou/-/2649/18495129536",
+          "snippet": "具有团队精神，跨部门沟通、协作能力 ... 享受各种健康和保健福利，以照顾好自己和家人，这些福利包括高质量的医疗保健、预防和健康计划以及至少14周的不分性别 ...",
+          "date": "5天前",
+          "position": 62
+        },
+        {
+          "title": "第四届中国健康生活方式医学大会（CLMC2024）在京召开 - 新华网",
+          "link": "http://www.news.cn/mrdx/20241103/b6a89e80c3da4db7af7f1d1715fc4a0e/c.html",
+          "snippet": "陈君石院士在应对全球性健康挑战（如肥胖、糖尿病、心血管疾病）时，跨学科合作的重要性和实现路径，并对这些重大突破技术在促进健康生活方式和个性化医疗方面 ...",
+          "date": "16小时前",
+          "position": 63
+        },
+        {
+          "title": "BBC跨性別的醫學新發現 - YouTube",
+          "link": "https://www.youtube.com/watch?v=7wGTxRZrzSA",
+          "snippet": "百禾文化提供/ copyright by BBC Active 探討六個人的心理和身理的變化歷程。看看 ...\n时长： 3:03\n发布时间： 2018年10月22日",
+          "date": "2018年10月22日",
+          "position": 64
+        },
+        {
+          "title": "天津大学医学院召开学习习近平总书记给中国国际大学生创新大赛 ...",
+          "link": "https://news.tju.edu.cn/info/1017/72971.htm",
+          "snippet": "科技创新能否持续发展，关键在于三大要素：实用性、技术的先进性以及是否具备经济价值。 ... 这种跨学科的合作在一次次的思想碰撞中激发了许多新的想法，让整个 ...",
+          "date": "2天前",
+          "position": 65
+        },
+        {
+          "title": "表彰有重大发现还未获国际大奖的科学家世界顶尖科学家协会奖在沪 ...",
+          "link": "https://www.shanghai.gov.cn/nw4411/20241026/9d0681f42cfd476b9f46b3802f41a3e9.html",
+          "snippet": "... 性贡献；“生命科学或医学奖”授予约翰斯·霍普金斯大学医学院讲席教授杰瑞米·内森斯，以表彰他在发现人类颜色视觉的基因、调控和可塑性方面的杰出贡献。",
+          "date": "2024年10月26日",
+          "position": 66
+        },
+        {
+          "title": "科大成功研发四大AI医学大模型革新医疗保健领域 - HKUST",
+          "link": "https://hkust.edu.hk/zh-hans/news/research-and-innovation/hkust-spearheads-four-large-ai-models-revolutionize-healthcare",
+          "snippet": "系统的准确度能与具有5年或以上经验的放射科医生相媲美，对为病人开创非入侵性及个人化的治疗管理有莫大帮助。 ... 跨学科学院 · 香港科技大学赛马会高等研究 ...",
+          "date": "4天前",
+          "position": 67
+        },
+        {
+          "title": "医学研究中领导力与跨学科合作的重要性及其影响 - 续航教育",
+          "link": "https://www.forwardpathway.com/135932",
+          "snippet": "本文探讨了医学研究中领导力与跨学科合作的重要性，特别是佛罗里达州立大学（FSU）医学院新任高级副院长Xian Jin Xie的任命如何推动这一趋势。",
+          "date": "17小时前",
+          "position": 68
+        },
+        {
+          "title": "改革“四重”奏丨一通行业交流电话两个省级重点实验室“跨省携手”",
+          "link": "https://sichuan.scol.com.cn/ggxw/202410/82638191.html",
+          "snippet": "奋楫争上游改革'四重'奏——'川渝一盘棋·唱好双城记'”网络主题活动走进西南医科大学附属医院代谢性血管疾病川渝共建重点实验室。",
+          "date": "6天前",
+          "position": 69
+        },
+        {
+          "title": "跨性別遊行2000人夜行西門町疾呼「免術換證」是人權",
+          "link": "https://www.civilmedia.tw/archives/129048",
+          "snippet": "熱線諮詢協會跨性別小組志工湯姆是一位跨男，他說明自己歷經9年更換法定性別及進行性別重置手術的艱難。 台灣跨性別醫學學會理事長陳敏嘉表示，跨性別者要換 ...",
+          "date": "8天前",
+          "position": 70
+        },
+        {
+          "title": "2024-10-25【新聞稿】2024第6屆台灣跨性別遊行",
+          "link": "https://hotline.org.tw/news/3476",
+          "snippet": "台灣非二元酷兒浪子、臺灣跨性別醫學學會、台灣同志諮詢熱線協會分享他們推動性別平等的工作經驗，並為跨性別社群加油打氣。 台灣非二元酷兒浪子的代表歪歪 ...",
+          "date": "2024年10月26日",
+          "position": 71
+        },
+        {
+          "title": "多机构共同发布骨动活力版“健骨操” - 科技日报",
+          "link": "https://www.stdaily.com/web/gdxw/2024-10/31/content_250977.html",
+          "snippet": "科技日报记者马爱平. 10月29日，中国健康知识传播激励计划全生命周期骨骼健康科普传播活动在京举办。中华医学会骨质疏松和骨矿盐疾病分会、中华预防 ...",
+          "date": "4天前",
+          "position": 72
+        },
+        {
+          "title": "爱和性别无关，这是一种严重的性别歧视 - 乌有之乡",
+          "link": "http://m.wyzxwk.com/content.php?classid=19&id=499791",
+          "snippet": "... 跨物种的爱，我们也承认是爱，但是你人和蛇还生出了一个儿子，这有点不符合科学啊，医学上有一种“生殖隔离”的说法，也就是说，“人是人他妈生的，妖是 ...",
+          "date": "21小时前",
+          "position": 73
+        },
+        {
+          "title": "广西重点产业投资合作项目| 防城港国际生物安全评价中心项目",
+          "link": "http://tzcjj.gxzf.gov.cn/gzdt/t19202372.shtml",
+          "snippet": "... 医学开放试验区，继续推动上海合作组织医学创新合作”。明确表示支持在 ... 跨境自由流动，从而吸引各类优质医学资源聚集试验区。目前，防城港 ...",
+          "date": "5天前",
+          "position": 74
+        },
+        {
+          "title": "广东省省长王伟中：奋力在推进中国式现代化建设中走在前列",
+          "link": "http://www.gd.gov.cn/xxts/content/post_4516834.html",
+          "snippet": "大力推进规则衔接机制对接，实施“湾区通”工程，推进政务事项跨境通办 ... 加快国家医学中心、区域医疗中心建设，实现21个地市高水平医院全覆盖 ...",
+          "date": "3天前",
+          "position": 75
+        },
+        {
+          "title": "跨性别诊疗——心理支持治疗",
+          "link": "https://www.sar.com.cn/huiyin/yxp/13028.html",
+          "snippet": "医学美学 · 专家介绍 · 科室新闻 · 60年专题 · 案例展示 · 教学科研 · 临床试验招募 ... ………… 关键词：跨性别诊疗 跨性别 心理支持治疗. \"跨性别的心理支持 ...",
+          "date": "2023年6月7日",
+          "position": 76
+        },
+        {
+          "title": "中山醫學大學",
+          "link": "https://www.csmu.edu.tw/",
+          "snippet": "... 跨育企業共創. 中山校訓橫幅. 本校64週年校慶訂於113/11/9舉行校慶慶祝大會 · 第 ... 本校參與歐洲醫學教育年會推動醫學教育創新與多樣性 · 中山醫大走入越南與偏鄉展現 ...",
+          "position": 77
+        },
+        {
+          "title": "《Nature》报道北航程群峰教授课题组和合作者在二维纳米复合材料 ...",
+          "link": "https://news.buaa.edu.cn/info/1002/63886.htm",
+          "snippet": "... 性，在航空航天、柔性电子、生物医学等领域 ... 第十四届全国政协委员，中国医学科学院学部委员，北京大学口腔医学院院长，北京大学跨学部生物医学工程系常务副系主任。",
+          "position": 78
+        },
+        {
+          "title": "学习贯彻习近平总书记回信精神出征“挑战杯”创业计划竞赛国赛",
+          "link": "https://news.ccmu.edu.cn/syyw_12977/63d67652b95545ba929761a3b1adefb7.htm",
+          "snippet": "作为本科生，不仅掌握了科研方法，也让大家以跨学科、跨学院的合作模式，将理论知识与实践应用相结合。 ... 医学青年人才脱颖而出，为医学创新发展注入不竭动力 ...",
+          "date": "7天前",
+          "position": 79
+        },
+        {
+          "title": "上海市胸科医院成功主办“2024年中欧胸部疾病学术论坛”",
+          "link": "https://www.shkjb.com/content.html?id=236085",
+          "snippet": "本次大会主题是“浦江心韵，胸怀未来”，诚邀国内外心胸领域专家共同参与，通过热烈深入的学术交流，分享临床研究及前沿技术的最新进展，激发心胸医学领域创新性 ...",
+          "date": "2天前",
+          "position": 80
+        },
+        {
+          "title": "浙江省科学技术厅关于组织申报2025年度省软科学研究计划项目的通知",
+          "link": "https://kjt.zj.gov.cn/art/2024/10/31/art_1229225203_5391543.html",
+          "snippet": "研究内容：我省加快推进“双一流196工程”的建议研究；研究支持高校参与建设大科学装置和前沿交叉学科等大型科研平台的思路与对策；研究支持鼓励高校跨 ...",
+          "date": "4天前",
+          "position": 81
+        },
+        {
+          "title": "河南省推动“人工智能+”行动计划 - 全国投资项目在线审批监管平台",
+          "link": "https://new.tzxm.gov.cn/zckd/fzgh/202410/t20241031_1394152.shtml",
+          "snippet": "... 医学研究设施建设。汇聚全民健康信息平台数据，挖掘我省医疗数据及样本 ... 跨平台支撑的智能教育基础环境。汇集优质教学案例、讲义素材、施教 ...",
+          "date": "4天前",
+          "position": 82
+        },
+        {
+          "title": "北京大学坚持扎根中国大地建设中国特色、世界一流大学",
+          "link": "http://www.moe.gov.cn/jyb_sjzl/s3165/202411/t20241101_1160206.html",
+          "snippet": "... 医学等“101计划”，发掘并培养立志扎根基础学科、投身基础研究的一代代 ... 开设236门数智领域课程、一批学科交叉的通识教育课程及跨学科课程 ...",
+          "date": "3天前",
+          "position": 83
+        },
+        {
+          "title": "2024世界顶尖科学家协会奖颁发，两位获奖人首次来到上海 - 上观新闻",
+          "link": "https://www.jfdaily.com/news/detail?id=810484",
+          "snippet": "以表彰他在计算机科学与社会科学交叉领域的开创性贡献；“生命科学或医学奖”授予约翰斯·霍普金斯大学医学 ... 我的工作得益于跨学科共同合作，它可以极 ...",
+          "date": "2024年10月25日",
+          "position": 84
+        },
+        {
+          "title": "北京大学药学院PekingHSC团队在第21届iGEM比赛中斩获金奖并获 ...",
+          "link": "https://bynews.bjmu.edu.cn/zhxw/2024/ebe0893cb71846f4b7056d3fa613745c.htm",
+          "snippet": "iGEM由美国麻省理工学院于2003年创办，现已发展成为全球合成生物学领域最具影响力的国际性学术竞赛。作为顶级的跨学科大学生赛事，它融合了生命科学 ...",
+          "date": "3天前",
+          "position": 85
+        },
+        {
+          "title": "聚焦跨界战略赋能主动健康首届主动健康上海论坛在沪举办 - 上海新闻",
+          "link": "https://www.sh.chinanews.com.cn/yljk/2024-10-31/129946.shtml",
+          "snippet": "... 性疾病的防控和诊治：一是把握医学和生命科学的发展趋势，特别是适应当前人类也包括不同国家面临的健康挑战，二是研究慢性非传染性疾病发病的状态以及 ...",
+          "date": "4天前",
+          "position": 86
+        },
+        {
+          "title": "自动化学报",
+          "link": "http://www.aas.net.cn/",
+          "snippet": "... 跨句子推理和上下文信息感知等问题提出了新的挑战. ... 自动化学报, 2024, 50(10): 1977−1987. doi: 10.16383/j.aas.c230545. 一种迭代边界优化的医学图像小样本分割网络.",
+          "position": 87
+        },
+        {
+          "title": "“数据要素×”全国总决赛收官广东夺12项大奖排名第一",
+          "link": "http://zfsg.gd.gov.cn/xxfb/ywsd/content/post_4514242.html",
+          "snippet": "项目名称：基于多源跨域数据融通，构建全省一体化城市经济治理中枢 ... 医学影像的流通与筛查创新。 图片. 项目名称：应急管理人口热力图智慧应用 ...",
+          "date": "7天前",
+          "position": 88
+        },
+        {
+          "title": "中國第壹個“跨性別門診” China's First \"Transgender Clinic\" - YouTube",
+          "link": "https://www.youtube.com/watch?v=D4ObSaLN2NQ",
+          "snippet": "潘柏林，壹位從業20年的整形外科醫生。2016年，他發起了國內第壹個“跨性別多學科綜合門診”，爲性 ...\n时长： 5:05\n发布时间： 2024年7月1日",
+          "date": "2024年7月1日",
+          "position": 89
+        },
+        {
+          "title": "全球首创！我国研制鼻咽癌诊断试剂盒获批上市 - 科技日报",
+          "link": "https://www.stdaily.com/web/gdxw/2024-10/29/content_249832.html",
+          "snippet": "... 性可进一步提高至99.8%，阳性预测值提高至44.6%，可大幅降低鼻咽镜检查的数量。 据了解，上述研究结果于2023年发表在医学期刊《新英格兰医学杂志》。",
+          "date": "6天前",
+          "position": 90
+        },
+        {
+          "title": "AI如何助力重塑肿瘤诊疗模式 - 国际科技创新中心",
+          "link": "https://www.ncsti.gov.cn/kjdt/kjrd/rgzn_kjrd/202410/t20241028_183681.html",
+          "snippet": "... 跨科室的数据融合。在此基础上，模型能提取关键病灶信息及潜在病理特征，进而开展跨科室的全方位分析。 提高癌症认知水平. 推动医学 ... 性。虽然这种 ...",
+          "date": "7天前",
+          "position": 91
+        },
+        {
+          "title": "配套活动抢先看｜国际文旅健康高峰论坛 - 中国国际进口博览会",
+          "link": "https://www.ciie.org/zbh/bqgffb/20241103/46406.html",
+          "snippet": "... 跨专业产业促进服务。 本届论坛将围绕国际文旅与健康产业协同发展，汇聚 ... 亮点二：东盟肿瘤医学防治中心年产值200亿的生物医药产业，落户西 ...",
+          "date": "19小时前",
+          "position": 92
+        },
+        {
+          "title": "难度大、周期长、费用高如何探索儿童重大疾病救助新模式？ - 新闻频道",
+          "link": "https://news.cctv.com/2024/10/31/ARTIKlLzOSivHhXFj5FhFzsW241031.shtml",
+          "snippet": "在我国，近三成肿瘤患儿存在跨省就医情况，治疗过程中，非医疗费用占治疗总费用近半。国家儿童医学中心主任、首都医科 ... 性的儿童肿瘤经济负担与生存 ...",
+          "date": "4天前",
+          "position": 93
+        },
+        {
+          "title": "多机构共同发布骨动活力版“健骨操” - 新华网",
+          "link": "http://www.news.cn/health/20241030/d2a3cd3ee5214befaeabe15f75c743ad/c.html",
+          "snippet": "10月29日，中国健康知识传播激励计划全生命周期骨骼健康科普传播活动在京举办。中华医学会骨质疏松和骨矿盐疾病分会、中华预防医学会健康传播分会、 ...",
+          "date": "5天前",
+          "position": 94
+        },
+        {
+          "title": "东南大学团队牵头完成中国首个器官芯片国家标准 - 新华日报",
+          "link": "https://www.xhby.net/content/s67248f69e4b019ce565a3dc6.html",
+          "snippet": "... 医学研究带来系统性的解决方案，是中国未来潜在的卡脖子技术领域。 目前 ... 跨尺度结构可控制造、器官芯片多模态原位/在线测量等科学技术瓶颈 ...",
+          "date": "3天前",
+          "position": 95
+        },
+        {
+          "title": "社论：中医学角色的进一步提升 - 联合早报",
+          "link": "https://www.zaobao.com.sg/forum/editorial/story20241101-5279623",
+          "snippet": "讲话涉及三大方面：教育与培训、预防性保健，以及与主流医疗体系的协同效应，相当清晰地勾勒出当局对本地中医药未来发展的思路。 在教育与培训方面，在中医 ...",
+          "date": "3天前",
+          "position": 96
+        },
+        {
+          "title": "校长办公会召开第2024-27次会议 - 中国农业大学新闻网",
+          "link": "https://news.cau.edu.cn/ttgznew/8515959a065f4d1e918c1e3134c14420.htm",
+          "snippet": "... 性和连续性，敢干敢拼、攻坚克难、狠抓落实，把国农港建设好 ... “全健康”是兽医学、医学、环境科学和食品科学等跨学科领域的研究热点，由 ...",
+          "date": "5天前",
+          "position": 97
+        },
+        {
+          "title": "达特茅斯医学院院长选拔的重要性与未来展望 - 续航教育",
+          "link": "https://www.forwardpathway.com/136046",
+          "snippet": "新院长的角色不仅仅是管理学院的日常运作，更是在医疗教育和研究领域中引领变革的关键人物。随着医疗行业的不断演变，新院长需要具备跨学科合作的能力，能够 ...",
+          "date": "7小时前",
+          "position": 98
+        },
+        {
+          "title": "生态圈负责人- 眼科治疗领域— 杭州, 浙江, 中国大陆 - Roche",
+          "link": "https://careers.roche.com/cn/zh/job/202411-128063/%E7%94%9F%E6%80%81%E5%9C%88%E8%B4%9F%E8%B4%A3%E4%BA%BA-%E7%9C%BC%E7%A7%91%E6%B2%BB%E7%96%97%E9%A2%86%E5%9F%9F",
+          "snippet": "罗氏促进多元化、公平性和包容性，代表我们所服务的社区。在全球范围内处理 ... • 7 年以上销售，市场，医学或准入工作经验. • 跨地区/跨部门/跨疾病领域的工作经验优先.",
+          "position": 99
+        },
+        {
+          "title": "东北三省一区共建高价值专利转移生态 - 地方经济",
+          "link": "http://district.ce.cn/newarea/roll/202411/01/t20241101_39189037.shtml",
+          "snippet": "“从三省一区盘点入库专利的战略性新兴产业分布情况看，智能制造装备产业、生物医学工程产业和人工智能产业专利数量最多。 ... 王伟群表示，东北三省一区将广泛 ...",
+          "date": "3天前",
+          "position": 100
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "跨性别 医学",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 3,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "跨性别健康常见问题",
+          "link": "http://156opk6.cnru-online.com/transgender-health-program/faq",
+          "snippet": "我们定期为医务人员和工作人员提供全面的性别肯定护理教育. 我们继续与永利app新版本官网地址的盖泽尔医学院合作，为医科学生提供关于性别 ...",
+          "position": 1
+        },
+        {
+          "title": "手術改善生活.然後? 德紀錄片揭跨性別困境｜方念華 - YouTube",
+          "link": "https://www.youtube.com/watch?v=dPz3p8TRMWM",
+          "snippet": "跨性別#手術#我變性故我在#TVBS新聞#TVBS直播#TVBS新聞網面對變動的世局 ...\n时长： 5:24\n发布时间： 2023年10月26日",
+          "date": "2023年10月26日",
+          "position": 2
+        },
+        {
+          "title": "2024世界顶尖科学家论坛开幕式举行并颁奖，陈吉宁出席并致辞",
+          "link": "https://www.shkjb.com/content.html?id=235969",
+          "snippet": "... 性、颠覆性科技成果。我们将一体推动教育科技人才 ... 约翰斯·霍普金斯大学医学院分子生物学与遗传学、神经科学和眼科学讲席教授，霍华德·休斯医学 ...",
+          "date": "2024年10月25日",
+          "position": 3
+        },
+        {
+          "title": "商汤医疗大模型获2024“CCF十大技术公益优秀案例”_文汇",
+          "link": "https://www.whb.cn/commonDetail/955121",
+          "snippet": "在上述广泛合作中，医疗大模型作为智慧医院建设的“中枢大脑”，智能调度覆盖医学文本、放射影像、病理图像等多种数据模态的专用模型，辅助医生完成跨科室、跨 ...",
+          "date": "4天前",
+          "position": 4
+        },
+        {
+          "title": "十二部门：到2026年，力争核技术应用产业年直接经济产值达4000亿元",
+          "link": "https://news.youth.cn/gn/202411/t20241101_15619903.htm",
+          "snippet": "围绕核技术在医学诊疗、农业育种、食品加工、材料改性、安检安保等重点方向或领域的应用，突破一批关键技术，建设一批创新平台，培育一批专精特新企业，力争核 ...",
+          "date": "3天前",
+          "position": 5
+        },
+        {
+          "title": "张馨玲：优化香港医疗服务提升市民就医体验",
+          "link": "https://zijing.com.cn/article/2024-11/01/content_1301953895203213312.html",
+          "snippet": "... 医学院修读一般的基础课程。相信这将使教育过程更加专注于临床技能和专业 ... 香港入境處與內地聯手瓦解跨境偽證集團. 夏寶龍會見香港理工大學校 ...",
+          "date": "3天前",
+          "position": 6
+        },
+        {
+          "title": "南方医科大学皮肤病医院牵头成立广东省白癜风专病联盟 - 金羊健康",
+          "link": "https://health.ycwb.com/2024-11/02/content_53029439.htm",
+          "snippet": "白癜风是一种常见的后天性色素脱失性皮肤黏膜疾病，表现为白斑或白发。白癜风虽不危及生命，但却好发于暴露部位，影响容貌美观，给患者带来极大的心理负担 ...",
+          "date": "1天前",
+          "position": 7
+        },
+        {
+          "title": "攀登数字化医疗\"智\"高点《中国数字医疗发展蓝皮书》编撰正式启动",
+          "link": "https://www.prnasia.com/story/467011-1.shtml",
+          "snippet": "... 跨学科的和有价值的参考框架，促进数字医疗的规范化发展，提高医疗服务的 ... 医学研究院共同打造了武田数智创新研究院，旨在推动数字技术与药物 ...",
+          "date": "2天前",
+          "position": 8
+        },
+        {
+          "title": "数字化赋能高等医学教育，医学数字教育与领军人才培养论坛在京 ...",
+          "link": "https://www.163.com/dy/article/JG0UARAI05148T50.html",
+          "snippet": "... 性和灵活性 ... Claire Jane Stewart院长强调，数字医学教育不仅有助于培养学生的临床技能和批判性思维，还能促进跨学科合作，推动医学研究的深入发展。",
+          "date": "2天前",
+          "position": 9
+        },
+        {
+          "title": "跨科收治、共享床位，能否解决住院难? - 天山网",
+          "link": "https://www.ts.cn/xwzx/gnxw/202411/t20241102_24746003.shtml",
+          "snippet": "... 性培训，让护士朝着“全科护理”的方向发展。 中国工程院院士北京 ... 中国工程院院士北京清华长庚医院院长董家鸿：这个小组是由重症医学科、心 ...",
+          "date": "1天前",
+          "position": 10
+        },
+        {
+          "title": "衛生福利部疾病管制署: 首頁",
+          "link": "https://www.cdc.gov.tw/",
+          "snippet": "旅遊醫學 · 檢疫業務 · 外國人健康管理 · 流感新冠一起打最新防疫資訊專區 · 預防登革熱 ... 女性愛滋篩檢(疾病管制署致醫界通函第547號) · 2024 - 8. 16. WHO宣布M痘疫情為 ...",
+          "position": 11
+        },
+        {
+          "title": "科大新学年推五个全新本科课程| 香港科技大学 - HKUST",
+          "link": "https://hkust.edu.hk/zh-hans/news/teaching-and-learning/hkust-information-day-unveil-five-new-undergraduate-programs",
+          "snippet": "香港科技大学（科大）将于本周六举办本科入学资讯日，并于今日率先公布将在下学年（2025/26）推出五个新课程，涵盖生物医学及健康科学、数据分析、人工 ...",
+          "date": "6天前",
+          "position": 12
+        },
+        {
+          "title": "诺贝尔奖得主谢克曼在上海呼吁：信息的自由流动在科学研究中至关 ...",
+          "link": "https://www.jfdaily.com/news/detail?id=811156",
+          "snippet": "“科学是一项全球性事业，要享有信息的自由流动。”今天上午开幕的2024世界顶尖科学家论坛上，世界顶尖科学家协会副主席、诺贝尔生理学或医学奖得主兰迪· ...",
+          "date": "2024年10月25日",
+          "position": 13
+        },
+        {
+          "title": "变性手术后能活多少年 - 有来医生",
+          "link": "https://m.youlai.cn/video/article/C25F1AUUOE.html",
+          "snippet": "变性手术后是否会影响寿命或者是手术以后的存活年限，可能是很多跨性别者或者家人所关心的问题 ...\n时长： 2:19",
+          "position": 14
+        },
+        {
+          "title": "中核医疗（北京）重离子接诊处正式揭牌成立 - 甘肃日报",
+          "link": "https://gansu.gansudaily.com.cn/system/2024/11/02/031087463.shtml",
+          "snippet": "同时，甘肃省武威肿瘤医院还积极构建多种核素协同治疗的示范性医院，建立了规范化的核医学科和核素治疗病房，并配备了同位素核心技术研发、关键核心 ...",
+          "date": "1天前",
+          "position": 15
+        },
+        {
+          "title": "粤语报道丨跨性别人士须完成指定手术才可改身份证性别",
+          "link": "https://h5.ifeng.com/c/vivoVideo/v0027gNx3FJWnxPreMOKUKFpDN2HpylIq995qF--EDgsDuyY__?isNews=1&showComments=0&disableRecommendVideo=1",
+          "snippet": "粤语报道丨跨性别人士须完成指定手术才可改身份证性别. 2.1万次播放. 我要举报. 粤语报道｜医学会料冬季出现肺炎球菌感染高峰期. 凤凰卫视大中华 4.3万次播放.",
+          "position": 16
+        },
+        {
+          "title": "【Cell】突破性进展！TRIM21介导的多聚蛋白选择性降解技术",
+          "link": "https://bydrug.pharmcube.com/news/detail/ef380fdcc7ebd202a62608a5d35e4389",
+          "snippet": "通过跨学科的协作，研究团队成功开发出 ... 今天，我们有幸与您分享一项来自北京生命科学研究所/清华大学生物医学交叉研究院的重大研究成果，该研究在《Cell》 杂志上 ...",
+          "position": 17
+        },
+        {
+          "title": "【公告】康芮​颱風來襲! 10/31(四)本院門診調整說明 - 恩主公醫院",
+          "link": "https://www.eck.org.tw/2024/10/30/%E3%80%90%E5%85%AC%E5%91%8A%E3%80%91%E5%BA%B7%E8%8A%AE%E2%80%8B%E9%A2%B1%E9%A2%A8%E4%BE%86%E8%A5%B2-10-31%E5%9B%9B%E6%9C%AC%E9%99%A2%E9%96%80%E8%A8%BA%E8%AA%BF%E6%95%B4%E8%AA%AA%E6%98%8E%EF%BC%8C/",
+          "snippet": "友善面對跨性別-從門診的迴響談起. 2024-10-16. 【疫苗施打公告】10月15日 ... © 2022 行天宮醫療志業醫療財團法人恩主公醫院En Chu Kong Hospital.",
+          "date": "4天前",
+          "position": 18
+        },
+        {
+          "title": "“75后”邢程，跨省履新 - 新京报",
+          "link": "https://www.bjnews.com.cn/detail/1730595875129110.html",
+          "snippet": "公开信息显示，邢程，男，汉族，1975年12月生，研究生学历，医学博士，中共党员。 ... 上海全市性封控还会持续多久？官方回应15个热点问题. 第一看点. 2022-4 ...",
+          "date": "23小时前",
+          "position": 19
+        },
+        {
+          "title": "欧莱雅中国科技女生赋能论坛暨2024世界顶尖科学家科学教育论坛召开",
+          "link": "http://www.inewsweek.cn/observe/2024-10-29/23499.shtml",
+          "snippet": "上海交通大学医学遗传研究所所长、科学艺术家、著名医学遗传学家曾凡一教授也从自己的故事出发，强调了遵从内心、享受科研旅程的重要性。“遗传学的 ...",
+          "date": "6天前",
+          "position": 20
+        },
+        {
+          "title": "女性向男性跨性别者的初级医疗是什么？ - Kamol Cosmetic Hospital",
+          "link": "https://www.kamolhospital.com/zh/blog/1505/what-is-primary-care-in-female-to-male-teansgender",
+          "snippet": "女性向男性跨性别者的初级医疗涉及解决他们的一般健康需求，同时考虑他们变性过程中的独特方面。",
+          "position": 21
+        },
+        {
+          "title": "东南大学团队牵头完成中国首个器官芯片国家标准 - 人民网－江苏频道",
+          "link": "http://js.people.com.cn/n2/2024/1102/c360307-41028762.html",
+          "snippet": "... 医学研究带来系统性的解决方案，是中国未来潜在的卡脖子技术领域。 目前 ... 跨尺度结构可控制造、器官芯片多模态原位/在线测量等科学技术瓶颈 ...",
+          "date": "2天前",
+          "position": 22
+        },
+        {
+          "title": "AI如何赋能生物医学？跟随四川网信走进新质生产力前沿 - 网易",
+          "link": "https://www.163.com/dy/article/JFUBS39V0514D3UH.html",
+          "snippet": "... 性、颠覆性的创新成果的涌现和转化。 ... 立足于新医科建设大背景，聚焦医学数据科学交叉人才培养，广泛涵盖了医学数据交叉融合的各个领域，跨学科解析生物医学 ...",
+          "date": "3天前",
+          "position": 23
+        },
+        {
+          "title": "跨性別｜喝下轉骨湯就輸了？困在女生身體的少年掙脫性別刻板印象",
+          "link": "https://www.youtube.com/watch?v=XL07Xj40VCw",
+          "snippet": "隨著台灣首例申請免術換證的案例出現，跨性別者的處境逐漸受到重視，然而社會大眾較熟知的仍 ...\n时长： 16:26\n发布时间： 2021年12月26日",
+          "date": "2021年12月26日",
+          "position": 24
+        },
+        {
+          "title": "【跨性別者揭露裝UU過程！被醫生狠嗆到淚崩超心酸】｜@s_ala",
+          "link": "https://www.youtube.com/watch?v=IgViDEH9FR4",
+          "snippet": "勇敢做自己很讓人佩服~~ (大器晚成編) #創作授權【 @s_ala 】 https://youtu.be ...\n时长： 10:36\n发布时间： 2024年5月30日",
+          "date": "2024年5月30日",
+          "position": 25
+        },
+        {
+          "title": "跨性別系列之十七：Kate (男跨女) 的故事：醫療篇 - YouTube",
+          "link": "https://www.youtube.com/watch?v=g5aGnLhUGvc",
+          "snippet": "Kate 開始看醫生是在2011 年，那時她還是全時間男性生活，她還未下定主意，只覺活得有點不開 ...\n时长： 2:02\n发布时间： 2016年6月3日",
+          "date": "2016年6月3日",
+          "position": 26
+        },
+        {
+          "title": "女醫跨性別卻遇歧視！前輩嘲笑：切掉沒？【‪@57healthy‬ 】 - YouTube",
+          "link": "https://www.youtube.com/watch?v=pLthqhmiMbQ",
+          "snippet": "... 跨性別卻遇歧視！前輩嘲笑：切掉沒？ 影片授權：愛最大慈善光協會○自殺防治安心專線1925 ...\n时长： 3:17\n发布时间： 2022年7月21日",
+          "date": "2022年7月21日",
+          "position": 27
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

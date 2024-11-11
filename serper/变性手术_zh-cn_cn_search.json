@@ -1,0 +1,743 @@
+{
+  "query": "变性手术",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-04T04:53:02.485344",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "变性手术",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "answerBox": {
+        "snippet": "变性手术是一种经过外科手术的方法来改变外观上的性别特征。 它包括两种手术类型。 一种是生殖外科性再分配类型：该类型手术主要对生殖器官/或乳房的形态上做改变来满足外观上的另一性别的形态。",
+        "snippetHighlighted": [
+          "一种经过外科手术的方法来改变外观上的性别特征"
+        ],
+        "title": "变性手术（SRS）",
+        "link": "https://www.bangkokplasticsurgery.com/?page_id=865&lang=zh-hans"
+      },
+      "organic": [
+        {
+          "title": "女性化手术- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/tests-procedures/feminizing-surgery/about/pac-20385102",
+          "snippet": "女性化手术包括几种选项，如通过上半身手术增大乳房。该手术也称为丰胸术。下半身手术可能包括切除睾丸，或切除睾丸和阴茎，再造阴道、阴唇和阴蒂。也可以 ...",
+          "date": "2024年5月14日",
+          "position": 1
+        },
+        {
+          "title": "性别肯定手术- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E6%80%A7%E5%88%A5%E8%82%AF%E5%AE%9A%E6%89%8B%E8%A1%93",
+          "snippet": "性别肯定手术（英语：Gender-affirming surgery）是一种外科手术或一系列外科手术，其可以改变一个人的生理特征，使其符合个体所认同的性别。该手术也被称为性别重置手术（ ...",
+          "position": 2
+        },
+        {
+          "title": "性别确认手术| Bangkok Hospital",
+          "link": "https://www.bangkokhospital.com/zh/content/sex-affirmation-surgery",
+          "snippet": "阴囊皮肤用于重建阴道。 如果没有足够的皮肤，则进行阴囊植皮。 外观与女性生殖器相似。阴蒂、阴唇内侧和尿道周围有神经产生感觉。 这种方法是首次变性手术的标准手术。",
+          "position": 3
+        },
+        {
+          "title": "变性手术",
+          "link": "https://www.kamolhospital.com/zh/blog/660/sex-change-operation",
+          "snippet": "变性手术是一个改变生命的重要时刻，它带来从身体到心理各方面的一系列变化。性别转变手术在澳大利亚的概念是由哈罗德·吉利斯爵士于1951年引入的医疗技术。",
+          "position": 4
+        },
+        {
+          "title": "性别重置手术_百度百科",
+          "link": "https://baike.baidu.com/item/%E6%80%A7%E5%88%AB%E9%87%8D%E7%BD%AE%E6%89%8B%E6%9C%AF/1301503",
+          "snippet": "性别重置手术，又称性别肯定手术，旧称变性手术。性别重置手术是指通过外科手段（组织移植和器官再造）使受术者的生理性别与其性别认同（即心理性别）相符，即切除原有的生殖器官 ...",
+          "position": 5
+        },
+        {
+          "title": "3种泰国变性手术 - RubikHealth",
+          "link": "https://rubikhealth.com/zh/articles/3-techniques-male-to-a-female-sex-reassignment-surgery-in-thailand",
+          "snippet": "3种泰国变性手术 · 1.普通型（阴茎皮肤倒置）从阴茎皮肤构建阴道。 阴茎皮肤插入阴道吗这是一种简单而不复杂的方法低并发症外科医生通常广泛地将该技术用于性别再分配手术。",
+          "position": 6
+        },
+        {
+          "title": "变性手术怎么办 - 丁香医生",
+          "link": "https://m.dxy.com/surgery/29747/detail?dxa_adplatform=m.dxy.com",
+          "snippet": "变性手术是什么？ 变性手术「SRS」，又称「性别重置手术」「异性术」，指通过外科手术手段（组织移植和器官再造），让手术对象的生物学性别与其性别认同相符合的医疗操作。",
+          "position": 7
+        },
+        {
+          "title": "变性手术",
+          "link": "https://www.yanhee.net/cn/sex-reassignment-surgery-thailand/",
+          "snippet": "这项手术的目的是封闭阴道，并延长尿道，以便与第三阶段塑形的阴茎做好整合准备。这项手术能够让患者用站立的方式顺利排尿。",
+          "position": 8
+        },
+        {
+          "title": "MTF变性手术的步骤",
+          "link": "https://www.kamolhospital.com/zh/blog/694/steps-of-mtf-transformation-surgery",
+          "snippet": "有些人通常出生时患有性别认同障碍，他们的心理性别与生理性别不符。变性手术可以帮助这些人转变到他们所偏好的性别，从而提高他们在社会环境中的生活质量。",
+          "position": 9
+        },
+        {
+          "title": "卫生部印发《变性手术技术管理规范征求意见稿》 - 中国政府网",
+          "link": "https://www.gov.cn/jrzg/2009-06/16/content_1341988.htm",
+          "snippet": "管理规范还要求手术前患者必须满足以下条件：对变性的要求至少持续5年以上，且无反复过程；患者以其选择的性别公开地生活和工作至少2年；术前接受心理、精神 ...",
+          "date": "2009年6月16日",
+          "position": 10
+        },
+        {
+          "title": "全世界每年有多少人去泰国做变性手术？ - 新浪新闻",
+          "link": "http://news.sina.cn/global/szzx/2021-04-13/detail-ikmxzfmk6493510.d.html",
+          "snippet": "据彭博社6年前数据显示，泰国变性手术每年吸引超过200万来自全球各地的游客，为当地创造了约1，400亿泰铢（40亿美元）的可观收入。而到了2019年，游客数量较过去 ...",
+          "date": "2021年4月13日",
+          "position": 11
+        },
+        {
+          "title": "卫生部办公厅关于印发《变性手术技术管理规范（试行）》的通知",
+          "link": "http://www.nhc.gov.cn/wjw/gfxwj/201304/5a310ec69d264d4a890949d0b2fbcaf7.shtml",
+          "snippet": "委厅文件 ... 各省、自治区、直辖市卫生厅局，新疆生产建设兵团卫生局：. 为贯彻落实《医疗技术临床应用管理办法》，做好变性手术技术审核和临床应用管理，保障 ...",
+          "date": "2009年11月20日",
+          "position": 12
+        },
+        {
+          "title": "主页",
+          "link": "https://www.bangkokplasticsurgery.com/?lang=zh-hans",
+          "snippet": "位于泰国曼谷的美容整容手术和变性手术/性功能转换手术(SRS) 中心。我们能提供整容手术的背景资料和各种美容整容的资料咨询并且提供整容服务。",
+          "position": 13
+        },
+        {
+          "title": "变性手术患者的心理分析及其护理- 中华医学美学美容杂志",
+          "link": "https://rs.yiigle.com/cmaid/1012706",
+          "snippet": "易性癖又称性别变换癖，属精神病范畴，该病主要是主观的心理意识与客观的解剖生理错位。目前，易性症的治疗方法有心理治疗、药物治疗和外科变性手术。而外科变性手术被认为是 ...",
+          "position": 14
+        },
+        {
+          "title": "关于公民实施变性手术后变更户口登记性别项目有关问题的通知-河南 ...",
+          "link": "https://hnga.henan.gov.cn/2021/11-19/2350238.html",
+          "snippet": "一、公民实施变性手术后，申请变更户口登记性别项目的，须出具地级市（含外省）级以上医院为其成功实施变性手术的证明，经县市公安机关审核后，公安派出所应予 ...",
+          "date": "2021年11月19日",
+          "position": 15
+        },
+        {
+          "title": "性别变更业务办理流程（实施变性手术后） - 泾县人民政府",
+          "link": "https://www.ahjx.gov.cn/OpennessContent/show/2786750.html",
+          "snippet": "一、项目名称. 性别变更更正[性别变更（实施变性手术后）]. 二、设立依据. 《安徽省户政管理工作规范》. 三、受理部门. 泾县公安局下辖的各派出所.",
+          "date": "2023年7月27日",
+          "position": 16
+        },
+        {
+          "title": "变性手术20年合法路 - 新浪新闻",
+          "link": "https://news.sina.cn/sa/2009-08-28/detail-ikftssap3189440.d.html",
+          "snippet": "《法律与生活》杂志 ... 提要：2009年6月卫生部《变性手术规范》的出台，意味着中国的性别转换手术终将要披上“合法的外衣”，而承接变性手术的医院、实施变性 ...",
+          "date": "2009年8月28日",
+          "position": 17
+        },
+        {
+          "title": "变性手术患者的心理分析及护理 - 中华医学期刊网",
+          "link": "https://rs.yiigle.com/m/CN211501201131/528590.htm",
+          "snippet": "变性手术患者的心理分析及护理. 王晓微 , 朱春莲. 中国实用护理杂志2011,27(31): 76-77. 男性假两性畸形指患者本身是男性,生殖腺只有睾丸,其外生殖器 ...",
+          "date": "2011年11月1日",
+          "position": 18
+        },
+        {
+          "title": "卫生部办公厅关于印发《变性手术技术管理规范（试行）》的通知",
+          "link": "http://www.nhc.gov.cn/zwgk/wtwj/201304/5a310ec69d264d4a890949d0b2fbcaf7.shtml",
+          "snippet": "各省、自治区、直辖市卫生厅局，新疆生产建设兵团卫生局：. 为贯彻落实《医疗技术临床应用管理办法》，做好变性手术技术审核和临床应用管理，保障医疗质量和 ...",
+          "date": "2009年11月20日",
+          "position": 19
+        },
+        {
+          "title": "马来西亚变性手术费用| 马来西亚程序 - Medsurge India",
+          "link": "https://medsurgeindia.com/zh-CN/cost/gender-reassignment-surgery-cost-in-malaysia/",
+          "snippet": "马来西亚变性手术的平均费用在10500 泰铢至25600 泰铢（4500 美元至11000 美元）之间。总体费用可能会因多种因素而有很大差异。",
+          "position": 20
+        },
+        {
+          "title": "变性手术技术管理规范_百度百科",
+          "link": "https://baike.baidu.com/item/%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF%E6%8A%80%E6%9C%AF%E7%AE%A1%E7%90%86%E8%A7%84%E8%8C%83/6308300",
+          "snippet": "规范内容 · 1.设置整形外科10年以上+，床位20张以上，有较强的整形外科工作基础。 · 2.能独立完成整形外科各种手术，包括器官再造和组织移植。 · 3.病房设施便于保护变性手术 ...",
+          "position": 21
+        },
+        {
+          "title": "性别变更业务办理流程（实施变性手术后） - 泾县人民政府",
+          "link": "https://www.ahjx.gov.cn/OpennessContent/show/2784994.html",
+          "snippet": "泾县人民政府网站是由泾县人民政府办公室主办、泾县政府政务新媒体中心承办的市政府门户网站。是泾县政府信息公开和宣传泾县的重要窗口，是政务服务的 ...",
+          "date": "2023年7月26日",
+          "position": 22
+        },
+        {
+          "title": "做了24年上千例变性手术医生的心与术：术前先好好聊一次 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/uc.jsp?contid=1617301",
+          "snippet": "“为什么这个手术这么难做？”赵烨德觉得自己像个孩子，被要求“盖起一栋房子”，却无从下手。直到他得知上海的何清濂教授在尿道和阴茎的重建上早有建树，并完成了我国第一例女变男 ...",
+          "position": 23
+        },
+        {
+          "title": "变性手术是如何进行的？最新动画揭示整个变性手术过程 - 新浪视频",
+          "link": "http://video.sina.cn/tech/2015-12-08/detail-ifxmnurf8414178.d.html",
+          "snippet": "变性手术是如何进行的？最新动画揭示整个变性手术过程...|sina.cn.",
+          "date": "2015年12月8日",
+          "position": 24
+        },
+        {
+          "title": "揭秘变性手术全过程[组图]【5】 - 时政- 人民网",
+          "link": "http://politics.people.com.cn/n/2013/0627/c70731-21990668-5.html",
+          "snippet": "一位化名贝拉的患者在接受变性手术前在医院阅读手术相关的手册。泰国的医疗旅游业一直享誉盛名，不但医术高超而且价格实惠，这其中，前往泰国进行变性 ...",
+          "date": "2013年6月27日",
+          "position": 25
+        },
+        {
+          "title": "实拍变性手术全过程男人如何变成女人 - 中国青年网",
+          "link": "http://news.youth.cn/sh/201607/t20160714_8284263.htm",
+          "snippet": "3月19日，来自重庆的25岁男子小想在广州接受变性手术，为了爱情准备接受一系列手术变成女人，在未来的半年时间里，他还将通过五官整形、性别整形， ...",
+          "date": "2016年7月14日",
+          "position": 26
+        },
+        {
+          "title": "关于公民手术变性后变更户口登记性别项目有关问题的批复",
+          "link": "https://gaj.cq.gov.cn/zwgk/jczwgk/zcwj_224735/gabzcwj/202111/t20211112_9968748.html",
+          "snippet": "实施变性手术的公民申请变更户口登记性别项目时，应当提供国内三级医院出具的性别鉴定证明和公证部门出具的公证书，或司法鉴定部门出具的证明，经地（市）级 ...",
+          "date": "2021年11月12日",
+          "position": 27
+        },
+        {
+          "title": "变性手术-",
+          "link": "https://realteamclinic.com/srs-thailand-chainese/",
+          "snippet": "计划术后至少14天或手术前后至少15天停留在泰国 · 在尿道、前列腺、膀胱和直肠之间创建阴道空间 · 两侧睾丸切除 · 阴茎轴脱套 · 将尿道从阴茎分离 · 将龟头连同2根背神经和 ...",
+          "position": 28
+        },
+        {
+          "title": "史上首个做变性手术的医院，怎样了？-腾讯新闻",
+          "link": "https://news.qq.com/rain/a/20210513A0DC5F00",
+          "snippet": "史上首个做变性手术的医院，怎样了？ v. 医学界. 2021年5月13日21:00医学界官方账号. 关注. 会有一天，科学将战胜错误，正义战胜不公正，人类之爱将战胜仇恨和无知.",
+          "position": 29
+        },
+        {
+          "title": "给树木做“变性手术”、用有机物覆盖地表…… 防治花粉飞絮远离“会 ...",
+          "link": "http://www.news.cn/tech/20240409/6ab960a985304baf83d4c6f8e9ca4cd7/c.html",
+          "snippet": "给杨、柳树做“变性手术”是抑制飞絮的重要方法。“变性手术”的原理并不复杂，即将雌性树木的树枝砍掉，把雄树枝条嫁接到雌树上，使雄性树枝代替雌性树枝生长， ...",
+          "date": "2024年4月9日",
+          "position": 30
+        },
+        {
+          "title": "变性手术到底有多难？揭秘变性手术全过程，比想象中要残忍得多 - 网易",
+          "link": "https://www.163.com/dy/article/HM9P9RK905148PF4.html",
+          "snippet": "一般来说，手术需要耗时3.5-6个月左右，相对女变男来说安全，但是术后也有可能出现愈合不良、皮瓣坏死、阴道挛缩及排尿困难等情况。",
+          "date": "2022年11月16日",
+          "position": 31
+        },
+        {
+          "title": "变性手术 - 好大夫在线",
+          "link": "https://www.haodf.com/citiao/zhiliao-bianxingshoushu.html",
+          "snippet": "变性手术，是一系列的整形外科手术的统称。需要多次手术才能最终完成变性。可以细分为男变女手术和女变男手术两种。好大夫在线为您精选了22篇医生发布的关于变性手术的 ...",
+          "position": 32
+        },
+        {
+          "title": "纪实变性手术全过程男人如何变成女人 - 中国四川",
+          "link": "http://sc.china.com.cn/index.php?a=show_wap&catid=180&id=2753&m=wap&remains=true",
+          "snippet": "纪实变性手术全过程男人如何变成女人 · 变性手术到底是怎么做的，现在就让我们一起来揭开男人变女人的神秘面纱。 · 1、人妖准备接受手术 · 2.玻尿酸注射隆 ...",
+          "date": "2014年6月15日",
+          "position": 33
+        },
+        {
+          "title": "变性手术小群落的话题 - 光明网",
+          "link": "https://www.gmw.cn/01shsb/2002-02/05/11-362C317538E53FF448256B560006130F.htm",
+          "snippet": "夏兆骥教授向记者介绍，变性手术是一门很复杂、很精细、外科整形手术要求很高的医学科学，国外称之为“性别工程”。变性手术，不仅仅要对男或女的生殖器进行 ...",
+          "date": "2002年2月5日",
+          "position": 34
+        },
+        {
+          "title": "香港过去5年变性手术数字升3倍共40人完成手术 - 央广网",
+          "link": "http://news.cnr.cn/native/gd/20151210/t20151210_520756411.shtml",
+          "snippet": "据香港《星岛日报》网站报道，随着跨性别医疗服务需求渐增，香港食卫局数字显示，香港过去5年的变性手术数字飙升3倍，由2010年的4人，增至去年的16人，5年间 ...",
+          "date": "2015年12月10日",
+          "position": 35
+        },
+        {
+          "title": "变性手术多年后，一位终身共和党人决定投票给哈里斯 - 凤凰网",
+          "link": "https://news.ifeng.com/c/8dto21wSVPf",
+          "snippet": "变性手术多年后，一位终身共和党人决定投票给哈里斯 ... 据美联社报道，十年前，杰西·麦格拉斯开始进行“身体转变”，使自己的身体符合自己的性别认同。最近，她又经历了政治转变。",
+          "position": 36
+        },
+        {
+          "title": "组图：揭秘泰国变性手术全过程 - 国际新闻",
+          "link": "https://world.huanqiu.com/gallery/9CaKrnQauGk",
+          "snippet": "... 变性手术前在医院阅读手术相关的手册。 这组图片展示了一名男性在泰国的Yanhee医院接受变性手术的全过程。这名男子在很小的时候就希望自己能够变成女孩，近日他在泰国 ...",
+          "position": 37
+        },
+        {
+          "title": "变性手术 - A+医学百科",
+          "link": "http://www.a-hospital.com/w/%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF",
+          "snippet": "变性手术步骤. 易性术(sex reassignment surgery)是指把原有的外生殖器改变成异性的结构并切除性腺。其标志手术是阴道再造术、阴茎再造术。同时进行表形重塑，如喉结整形、 ...",
+          "position": 38
+        },
+        {
+          "title": "建议变性手术太轻率英国名医遭病人投诉和索赔 - 东方律师网",
+          "link": "http://www.lawyers.org.cn/info/8e575244a3a040b6bf8d25999d62d815",
+          "snippet": "根据英国相关部门的规定，医生在对病人实施变性手术之前，要对他们的心理进行全面的评估，还要建议他们参加一些进行心理适应的计划。在真正实施手术之前，至少 ...",
+          "date": "2007年5月28日",
+          "position": 39
+        },
+        {
+          "title": "媒体揭隐私“导致做变性手术老师自杀” - BBC UKChina - 留学英伦",
+          "link": "https://www.bbc.com/ukchina/simp/uk_education/2013/05/130529_edu_teacher_transgenda",
+          "snippet": "英国一名死因裁判官指责媒体公开一名做变性手术、从男变成女的小学教师的隐私是导致其自杀的原因。",
+          "date": "2013年5月29日",
+          "position": 40
+        },
+        {
+          "title": "整形变性手术（不包含功能性阴道） - Dr.Chettawut",
+          "link": "https://www.chet-plasticsurgery.com/zh-hans/%E6%95%B4%E5%BD%A2%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF%EF%BC%88%E4%B8%8D%E5%8C%85%E5%90%AB%E5%8A%9F%E8%83%BD%E6%80%A7%E9%98%B4%E9%81%93%EF%BC%89/",
+          "snippet": "Skip to content. Dr. Chettawut Tulayaphanich. info@wihhospital.com · 02-078-8919. Dr. Chettawut Tulayaphanich. Dr.Chettawut- Sex reassignment and Facial ...",
+          "position": 41
+        },
+        {
+          "title": "在瑞士，变性手术的问题出在哪儿了？ - SWI swissinfo.ch",
+          "link": "https://www.swissinfo.ch/chi/business/%E5%9C%A8%E7%91%9E%E5%A3%AB-%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF%E7%9A%84%E9%97%AE%E9%A2%98%E5%87%BA%E5%9C%A8%E5%93%AA%E5%84%BF%E4%BA%86/48081238",
+          "snippet": "在瑞士，变性手术的问题出在哪儿了？ ... 在瑞士，许多人在做完变性手术后出现了严重的术后并发症。他们大多更愿意在国外进行手术。相关协会和专家指出，瑞士的 ...",
+          "date": "2022年12月9日",
+          "position": 42
+        },
+        {
+          "title": "变性手术",
+          "link": "https://www.edhacare.com/zh-CN/treatments/gender-reassignment-surgery",
+          "snippet": "性别重建手术，有时也称为变性手术，旨在将患有性别不安的个体转变为他们想要的性别。 有性别不安的人很多时候都会觉得自己生错了性别。 生理上的男性可能更多地将自己视为 ...",
+          "position": 43
+        },
+        {
+          "title": "卫生部规定申请变性手术须超20岁未在婚姻状态",
+          "link": "http://news.cctv.com/china/20091121/100333.shtml",
+          "snippet": "卫生部规定申请变性手术须超20岁未在婚姻状态,",
+          "date": "2009年11月21日",
+          "position": 44
+        },
+        {
+          "title": "全球变性手术市场规模 - Mordor Intelligence",
+          "link": "https://www.mordorintelligence.com/zh-CN/industry-reports/sex-reassignment-surgery-market",
+          "snippet": "例如，疾病控制和预防中心于2021 年7 月更新的题为跨性别和性别多元化人士的文章报道称，美国每年进行约9,000 例跨性别手术。报告还报道，最新统计数据表明，0.6%的美国人口自 ...",
+          "position": 45
+        },
+        {
+          "title": "广西男子身患艾滋病扮女子卖淫筹变性手术费 - 新华网",
+          "link": "http://www.xinhuanet.com/politics/2016-04/01/c_128857861.htm",
+          "snippet": "广西男子身患艾滋病扮女子卖淫筹变性手术费---(邓粒雨)广西柳州市公安局柳东派出所1日通报，一身患艾滋病男子为筹集变性手术费，通过男扮女装的方式招揽 ...",
+          "date": "2016年4月1日",
+          "position": 46
+        },
+        {
+          "title": "性別肯定手術- 維基百科，自由的百科全書",
+          "link": "https://zh.wikipedia.org/zh-tw/%E6%80%A7%E5%88%A5%E9%87%8D%E7%BD%AE%E6%89%8B%E8%A1%93",
+          "snippet": "該手術也被稱為性別重置手術（英語：Sex Reassignment Surgery）、性別確認手術（英語：Gender Confirmation Surgery）、變性手術等。 ... 纠正上帝的错误: \"中国变性手术之父\" ...",
+          "position": 47
+        },
+        {
+          "title": "变性| 简体中文-英语翻译——剑桥词典 - Cambridge Dictionary",
+          "link": "https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93-%E8%8B%B1%E8%AF%AD/%E5%8F%98%E6%80%A7",
+          "snippet": "In 1946, Gillies carried out the first female-to-male sex reassignment surgery. 1946年，吉利斯进行了第一个从女性到男性的变性手术。 SRS ...",
+          "position": 48
+        },
+        {
+          "title": "变性手术 - 中国人民公安大学出版社",
+          "link": "http://211.103.209.164/news/show.aspx?id=7877",
+          "snippet": "赵林和华平的老家都在广西，两人14岁时分别从各自所在乡村来到县城中学读初中，成为同桌。赵林至今记得新生开课第一天，班主任让大家自我介绍，轮到华平时，他涨红着脸，身体直打 ...",
+          "position": 49
+        },
+        {
+          "title": "男子花千元旅馆内做变性手术主刀“网友”被诉 - 国内新闻",
+          "link": "https://china.huanqiu.com/article/9CaKrnJYuoq",
+          "snippet": "正义网11月8日电（通讯员蒋凤静）日前，媒体报道一男子在上海花千元让一名网友为其做变性手术，术后出现大出血，“主刀网友”被捕。近日该案有了新进展，上海市浦东新区检察院 ...",
+          "position": 50
+        },
+        {
+          "title": "艾伯塔省对学生性别认同、体育和变性手术政策全面改革",
+          "link": "https://ici.radio-canada.ca/rci/zh-hans/%E6%96%B0%E9%97%BB/2046271/%E8%89%BE%E4%BC%AF%E5%A1%94%E7%9C%81-%E5%AD%A6%E7%94%9F-%E6%80%A7%E5%88%AB%E8%AE%A4%E5%90%8C-%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF-%E6%94%BF%E7%AD%96",
+          "snippet": "艾伯塔省对学生性别认同、体育和变性手术政策全面改革. 笔架上一面LGBTQ 旗帜。 艾伯塔省长认为，政策是为保护未成年人士，父母和领袖有责任维护青少年\"成长 ...",
+          "date": "2024年2月1日",
+          "position": 51
+        },
+        {
+          "title": "道德模范做变性手术成女人：望社会能包容我 - 中国法院网",
+          "link": "https://www.chinacourt.org/article/detail/2014/08/id/1366484.shtml",
+          "snippet": "顶着全国道德模范光环，我不断命令自己：刘霆，所有人都在看着你，你要像个真正的男生。当时我觉得自己必须成为众人眼中的道德模范，向社会传递一种正能量，不能 ...",
+          "date": "2014年8月18日",
+          "position": 52
+        },
+        {
+          "title": "卫生部规定申请变性手术须超20岁未在婚姻状态 - 中国新闻网",
+          "link": "https://www.chinanews.com/jk/jk-zcdt/news/2009/11-21/1976834.shtml",
+          "snippet": "(二)手术者：取得《医师执业证书》的本院在职医师，执业范围为整形外科，具有副主任医师及以上专业技术职务任职资格；从事整形外科临床工作10年以上，其中有5年 ...",
+          "date": "2009年11月21日",
+          "position": 53
+        },
+        {
+          "title": "医生知识【跨性别的“激素科技”泰国变性手术前的变更点】",
+          "link": "https://rubikhealth.com/zh/articles/interesting-doctors-fact-on-taking-hormones-for-transgender-turning-point-before-sex-reassignment-surgery-in-thailand",
+          "snippet": "医生知识【跨性别的“激素科技”泰国变性手术前的变更点】 · 停止激素后，，恢复正常包括月经不足 · 增加肌肉质量和力量 · 面部，身体和四肢毛茸茸 · 乳房较小 · 可能有更高的的 ...",
+          "position": 54
+        },
+        {
+          "title": "小伙花6000元在宾馆做了个“变性”手术网友“医生”的技术竟是从视频里 ...",
+          "link": "https://hznews.hangzhou.com.cn/kejiao/content/2018-08/30/content_7059632_0.htm",
+          "snippet": "在“药娘群”，小斌认识了小俊（化名）。在听说小斌想做变性手术后，小俊表示自己有经验，能做。但是，他仍然劝小俊要想清楚，这个手术是不可逆的，变性心切的小斌 ...",
+          "date": "2018年8月30日",
+          "position": 55
+        },
+        {
+          "title": "泰国变性手术费用 - EdhaCare",
+          "link": "https://www.edhacare.com/zh-CN/blogs/gender-reassignment-surgery-cost-in-thailand/",
+          "snippet": "变性手术是一种变革性手术，适用于希望让自己的外表与真实性别认同保持一致的人。这种手术涉及改变身体特征以匹配一个人认同的性别，帮助他们对自己的身体 ...",
+          "date": "2023年10月18日",
+          "position": 56
+        },
+        {
+          "title": "性別重置手術（變性手術）-陰莖成形術 - 中國醫藥大學附設醫院",
+          "link": "https://www.cmuh.cmu.edu.tw/NewsInfo/NewsArticle?no=7676",
+          "snippet": "現今國內女變男變性手術的醫療常規，在手術前須有兩位精神科（身心科）醫師鑑定通過且經跨性別團隊會議審查，始得進行手術。由於手術是不可逆的， ...",
+          "date": "2021年12月8日",
+          "position": 57
+        },
+        {
+          "title": "男子做变性手术后色诱抢劫被判刑4年 - 东方律师网",
+          "link": "http://www.lawyers.org.cn/info/eb3502370158a57679c8dcc92d5e71d9",
+          "snippet": "1990年11月，张海龙出生在冀中平原河间市的一个农家，他还有一个大他两岁的姐姐张娟娟。作为传宗接代的“根”，张海龙自来到人世间的那天起，就被父亲张吉强和 ...",
+          "date": "2011年6月24日",
+          "position": 58
+        },
+        {
+          "title": "神秘的变性手术：一项科学与艺术高度结合的医学实践-MedSci.cn",
+          "link": "https://www.medsci.cn/article/show_article.do?id=34a25210e30",
+          "snippet": "具体康复时间根据手术不同而略有变化。 整容手术是变性手术中的“上半部分”（既是第一部分手术，又是对身体上半身完成的手术）。除了对面部进行改造之 ...",
+          "date": "2015年6月15日",
+          "position": 59
+        },
+        {
+          "title": "耳鼻喉科】变性人嗓音变性手术 - 广东省人民医院",
+          "link": "https://www.gdghospital.org.cn/medicaltechnology/info_itemid_1133.html",
+          "snippet": "经过全科的集体讨论和会诊后，葛平江作为主刀医生决定为小莉做变音手术，手术采用局麻，采用环甲融合术，同时将小莉的另一块心病——“喉结”也切除。手术顺利进行，术后小莉恢复的 ...",
+          "position": 60
+        },
+        {
+          "title": "追求想要的生活网友热议七旬老汉变老妪- BBC News 中文",
+          "link": "https://www.bbc.com/zhongwen/simp/chinese-news-39008036",
+          "snippet": "虽然变性早已不是禁忌话题，但72岁老汉近日通过变性手术成为女性，引发中国网友的热议。",
+          "date": "2017年2月17日",
+          "position": 61
+        },
+        {
+          "title": "专家称为大虾做变性手术可提升产量惊呆网友 - 新华网",
+          "link": "http://www.xinhuanet.com/world/2015-12/01/c_128488456_4.htm",
+          "snippet": "专家称为大虾做变性手术可提升产量惊呆网友---【为大虾做变性手术产量可提升60%】美媒称，巨型淡水虾是世界上被培育最广泛的虾种之一，也是人们最爱吃的 ...",
+          "date": "2015年12月1日",
+          "position": 62
+        },
+        {
+          "title": "丈夫私自做了变性手术，婚姻关系合法吗？ - 河南省高级人民法院",
+          "link": "https://www.hncourt.gov.cn/public/detail.php?id=48902",
+          "snippet": "当前位置： 法律援助 -> 专家回复. 无此文件. 〖关闭窗口〗. 最高人民法院 人民网 新华网 中国法院网 人民法院报 中国裁判文书网 河南省人民政府网 大河网 华东政法大学.",
+          "position": 63
+        },
+        {
+          "title": "员工做变性手术被公司按旷工解雇，法官判出史诗级判例",
+          "link": "http://lawyeredu.pkulaw.cn:8091/index.php?m=content&c=index&a=show&catid=11&id=1255",
+          "snippet": "公安部治安管理局《关于公民手术变性后变更户口登记性别项目有关问题的批复》为变性人在户口登记中进行性别项目变更提供了明确依据、原国家卫生计生委办公厅发布的《性别重 ...",
+          "position": 64
+        },
+        {
+          "title": "[新闻开讲]惠州：72岁老汉要做变性手术获全家支持",
+          "link": "http://news.cctv.com/2017/02/18/VIDEpc69AMKO7DS55W34Ki5z170218.shtml",
+          "snippet": "... 变性手术. 视频简介. 惠州：72岁老汉要做变性手术，获全家支持。 [新闻开讲]惠州：72岁老汉要做变性手术获全家支持. 简介. 央视网更新时间：2017年02月18 ...",
+          "date": "2017年2月18日",
+          "position": 65
+        },
+        {
+          "title": "【纪录片】变性手术双语字幕(1)（上） - 网易公开课",
+          "link": "https://m.open.163.com/mobile/free/gb/video?plid=OIALHOPP0&mid=",
+          "snippet": "This is a modal window. No compatible source was found for this media. Beginning of dialog window. Escape will cancel and close ...",
+          "position": 66
+        },
+        {
+          "title": "泰国变性手术费用| 泰国程序|印度医疗外科 - Medsurge India",
+          "link": "https://medsurgeindia.com/zh-CN/cost/gender-reassignment-surgery-cost-in-thailand/",
+          "snippet": "泰国变性手术的平均费用从11000 美元起。泰国变性手术(SRS) 的费用比美国便宜约三分之一。",
+          "position": 67
+        },
+        {
+          "title": "当变性人后悔变性-虎嗅网",
+          "link": "https://m.huxiu.com/article/328280.html",
+          "snippet": "变性手术后，他们的焦虑并没有得到缓解。”最近，英国一家慈善机构的创始人埃文斯，在接受英国电视台采访时称，英国有数百名变性人因变性而反悔。",
+          "date": "2019年11月27日",
+          "position": 68
+        },
+        {
+          "title": "男性化手术- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/tests-procedures/masculinizing-surgery/about/pac-20385105",
+          "snippet": "目的 · 手术切除乳房组织。 · 放置胸植入物手术，创造男性轮廓胸部。 · 切除子宫和宫颈的生殖器手术（全子宫切除术），或者切除输卵管和卵巢（输卵管卵巢切除术）的 ...",
+          "date": "2024年5月14日",
+          "position": 69
+        },
+        {
+          "title": "接受变性手术之后的六年-腾讯新闻",
+          "link": "https://news.qq.com/rain/a/20220719A098IH00",
+          "snippet": "很多情况下，朴实的语言最能反映人的第一感受和情绪，我从林尧身上感受到的是没有经过思考和加工的、来自人类本能的欢愉。 但获得新性别所需要付出的远不止 ...",
+          "date": "2022年7月19日",
+          "position": 70
+        },
+        {
+          "title": "图文：泰国变性手术旅游背后的秘密 - 北方网",
+          "link": "http://news.enorth.com.cn/system/2012/01/19/008523653_07.shtml",
+          "snippet": "泰国有些开业诊所在网络上以其低廉的价格吸引来自世界各国的'自称'变性欲患者。因为美国、日本先进国家一者消费水准高，再者社会尚无法接受变性手术 ...",
+          "date": "2012年1月19日",
+          "position": 71
+        },
+        {
+          "title": "变性手术全程首度公开Behind the scenes of a sex change operation",
+          "link": "http://china.org.cn/chinese/2012-08/06/content_26144084_10.htm",
+          "snippet": "变性手术全程首度公开. Behind the scenes of a sex change operation. 0 Comment(s) 打印 E-mail Sina.com 2012-08-06 ...",
+          "position": 72
+        },
+        {
+          "title": "变性手术医生的“心”与“术” - 中国新闻网",
+          "link": "https://www.chinanews.com.cn/m/gn/2017/02-13/8148021.shtml",
+          "snippet": "变性手术医生的“心”与“术” ... 医院的同事跟赵烨德开玩笑，只有他科室的病人在被推进手术室时是笑嘻嘻的。那些没法接受自己与生俱来性别的人们，甚至厌恶身体 ...",
+          "date": "2017年2月13日",
+          "position": 73
+        },
+        {
+          "title": "Chettawut医生通过植皮技术完成的变性手术",
+          "link": "https://www.chet-plasticsurgery.com/zh-hans/chettawut%E5%8C%BB%E7%94%9F%E9%80%9A%E8%BF%87%E6%A4%8D%E7%9A%AE%E6%8A%80%E6%9C%AF%E5%AE%8C%E6%88%90%E7%9A%84%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF/",
+          "snippet": "Skip to content. Dr. Chettawut Tulayaphanich. info@wihhospital.com · 02-078-8919. Dr. Chettawut Tulayaphanich. Dr.Chettawut- Sex reassignment and Facial ...",
+          "position": 74
+        },
+        {
+          "title": "动变性手术遭强制除役韩23岁军人传自杀身亡 - RFI",
+          "link": "https://www.rfi.fr/cn/%E5%8A%A8%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF%E9%81%AD%E5%BC%BA%E5%88%B6%E9%99%A4%E5%BD%B9-%E9%9F%A923%E5%B2%81%E5%86%9B%E4%BA%BA%E4%BC%A0%E8%87%AA%E6%9D%80%E8%BA%AB%E4%BA%A1",
+          "snippet": "动变性手术遭强制除役韩23岁军人传自杀身亡 ... （法新社首尔4日电） 韩国警方今天表示，因动了变性手术而遭军方强制除役的士官边希秀（Byun Hee-soo，音译）被人 ...",
+          "date": "2021年3月4日",
+          "position": 75
+        },
+        {
+          "title": "变性手术需要经过怎样的过程 - 家庭医生在线",
+          "link": "https://www.familydoctor.com.cn/zhengxing/a/201704/1825393.html",
+          "snippet": "性别认知倒错普通人或许很难理解，但对这些人来说，就像是灵魂被困在一个错误的地方一样，十分难受，通过变性手术则可以使他们达到身心一直。那么变性手术 ...",
+          "date": "2017年4月12日",
+          "position": 76
+        },
+        {
+          "title": "塞尔维亚成世界变性手术中心 - 青年参考",
+          "link": "http://qnck.cyol.com/html/2012-08/01/nw.D110000qnck_20120801_2-20.htm",
+          "snippet": "塞尔维亚正在成为变性手术中心，部分原因是变性手术颇具争议而且复杂，该地区的奥地利、匈牙利、罗马尼亚、保加利亚、希腊和其他前南斯拉夫国家避之唯恐不及 ...",
+          "date": "2012年8月1日",
+          "position": 77
+        },
+        {
+          "title": "变性手术减少寿命 - JD.com",
+          "link": "https://www.jd.com/pccontent/1248066",
+          "snippet": "关于变性手术是否会减少寿命，医学界并没有明确的数据支持这一说法。事实上，人妖由于长期大量服用激素，导致机体过速成长，寿命相对较短。而变性手术则不需要大量激素，手术 ...",
+          "position": 78
+        },
+        {
+          "title": "女生居然也能体验“勃起”的感觉？变性手术全过程揭秘 - 凤凰网",
+          "link": "https://i.ifeng.com/c/82qwqDlG6cL",
+          "snippet": "女生居然也能体验“勃起”的感觉？变性手术全过程揭秘 · 相信不少人小时候都试过角色反串 · 会对异性身体产生好奇 · 被称为易性症者 · 渴望变成相反的性别.",
+          "date": "2021年1月7日",
+          "position": 79
+        },
+        {
+          "title": "变性手术-翻译为英语-例句中文 - Reverso Context",
+          "link": "https://context.reverso.net/%E7%BF%BB%E8%AF%91/%E4%B8%AD%E6%96%87-%E8%8B%B1%E8%AF%AD/%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF",
+          "snippet": "使用Reverso Context: 因为他们很多都接受了变性手术觉得自己比没接受手术的人高一等，在中文-英语情境中翻译\"变性手术\"",
+          "position": 80
+        },
+        {
+          "title": "打造全美首个变性手术中心帮助特殊群体变性人纪念日华裔医生受赞扬",
+          "link": "https://www.uschinapress.com/static/content/HS/2020-11-22/780064790096912384.html",
+          "snippet": "也正是因为这个44%的数字，令丁医生在数年前决定全职投入变性手术的领域，来帮助这一特殊群体。2015年，纽约州通过历史性的法案，将变性手术纳入医保范围，西奈 ...",
+          "date": "2020年11月21日",
+          "position": 81
+        },
+        {
+          "title": "美国变性手术市场规模和份额分析- 行业研究报告- 增长趋势",
+          "link": "https://www.mordorintelligence.com/zh-CN/industry-reports/united-states-gender-reassignment-surgery-market",
+          "snippet": "未来5 年，美国变性手术市场将以12.5% 的复合年增长率增长。Rumer Cosmetic Surgery、Mount Sinai Centre for Transgender Medicine and Surgery ...",
+          "position": 82
+        },
+        {
+          "title": "【医学喵】男孩子怎么变成女孩子？｜变性手术怎么做？ - bilibili",
+          "link": "https://www.bilibili.com/video/BV1PH4y1r74p/",
+          "snippet": "【医学喵】男孩子怎么变成女孩子？｜变性手术怎么做？ 医学喵博士. 相关推荐. 查看更多. 我醒啦，已经是女孩子了. 百万播放. 160.1万 303. 0:18.",
+          "date": "2023年10月28日",
+          "position": 83
+        },
+        {
+          "title": "尴尬，越来越多人变性后悔了-观察者网",
+          "link": "https://www.guancha.cn/europe/2017_10_05_429857.shtml",
+          "snippet": "欧美变性逆转手术量上升：缺少辅导、黑心机构，未成年手术……",
+          "date": "2017年10月5日",
+          "position": 84
+        },
+        {
+          "title": "变性后能过性生活吗？揭变性手术那些事｜名医专访 - 时尚- 搜狐",
+          "link": "https://fashion.sohu.com/20160708/n458474348.shtml",
+          "snippet": "功能上就是可以站立排尿，性生活也没有问题，但性快感稍微差一些，肯定没有天生的好。然后，正常的男性阴茎是可以疲软勃起的，再造的阴茎做不了这些，它只能是 ...",
+          "date": "2016年7月8日",
+          "position": 85
+        },
+        {
+          "title": "天津变性手术专家排行榜 - 好大夫在线",
+          "link": "https://www.haodf.com/citiao/zhiliao-bianxingshoushu/tuijian-doctor-12.html",
+          "snippet": "好大夫在线推荐天津地区的0位变性手术最好的专家。好大夫变性手术专家排行榜由变性手术患者投票得出。去医院看变性手术前，可通过在线问诊，提前与变性手术专家沟通。",
+          "position": 86
+        },
+        {
+          "title": "托福阅读材料之美国男女同时接受变性手术后成为情侣 - 新航道",
+          "link": "https://www.xhd.cn/toefl/113384.html",
+          "snippet": "这一对年轻的情侣和其他情侣看起来没有区别，但其实他们都进行过变性手术。 Pretty Katie Hill, 18, spent the first 15 years of her life as Luke ...",
+          "date": "2013年9月26日",
+          "position": 87
+        },
+        {
+          "title": "變性手術(男變女)常見問題| 最新消息",
+          "link": "https://www.cmuh.cmu.edu.tw/NewsInfo/NewsArticle?no=6857",
+          "snippet": "在進行男變女手術之前需要先將陰囊進行除毛。陰囊皮膚用於增加陰莖皮膚的長度，以增加陰道深度。如果將毛髮留在陰囊皮膚上，它可以繼續在陰道內生長， ...",
+          "date": "2020年9月24日",
+          "position": 88
+        },
+        {
+          "title": "一千美元安一对乃子，泰国的廉价变性手术吸引了多少老外？",
+          "link": "https://m.163.com/dy/article/JAOLTCJM0521C2G2.html",
+          "snippet": "曼谷某服装批发市场，一家贴着女郎海报的底商访客频繁进出，络绎不绝。这是自1988年开设的老字号变性诊所，以低廉的价格，便捷的手术流程吸引了来自全球的 ...",
+          "date": "2024年8月29日",
+          "position": 89
+        },
+        {
+          "title": "请问老法师丨变性手术后被辞退，到底是因为旷工还是歧视？ - 搜狐",
+          "link": "https://www.sohu.com/a/405888431_651791",
+          "snippet": "这两天，一份今年1月的判决书突然火了起来：做了变性手术的一位当当网员工，被公司以所请病假没有被批准为理由，认定为旷工，遭到解雇。",
+          "date": "2020年7月5日",
+          "position": 90
+        },
+        {
+          "title": "变性手术该“整形” - 光明网",
+          "link": "https://www.gmw.cn/01gmrb/2001-04/16/GB/04%5E18753%5E0%5EGMB2-112.htm",
+          "snippet": "中国医学科学院整形外科医院变性手术方面的专家陈焕然博士，几乎每年都要收治一些来自各地因手术失败的患者。记者从陈医生自己制作的幻灯片上看到，由于庸医 ...",
+          "date": "2001年4月16日",
+          "position": 91
+        },
+        {
+          "title": "变性手术或可增加大虾供应量 - YouTube",
+          "link": "https://www.youtube.com/watch?v=goZf0yn688k",
+          "snippet": "巨型淡水虾是世界上被培育最广泛的虾种之一，也是人们最爱吃的河虾。但很显然，这类虾的培育量 ...\n时长： 1:53\n发布时间： 2015年10月26日",
+          "date": "2015年10月26日",
+          "position": 92
+        },
+        {
+          "title": "解密变性人：“她”们到底能不能啪啪啪 - 界面新闻",
+          "link": "https://m.jiemian.com/article/938357.html",
+          "snippet": "相对于中国古代太监来说，泰国的人妖大多是那些失去双亲或家庭收入很低的男孩，为求生被卖并做变性手术，经过严格训练及各种激素催化最后变成人妖。 变性人 ...",
+          "date": "2016年11月4日",
+          "position": 93
+        },
+        {
+          "title": "男子变性手术做一半时没钱扮成女人行窃筹钱 - 海口+",
+          "link": "http://m.hkwb.net/content/2013-01/31/content_1054067.htm",
+          "snippet": "做了一半变性手术的男子刘某，为了筹钱将手术做完，打扮成女人到酒吧寻找“猎物”，伺机盗窃对方财物。记者昨天获悉，丰台法院一审以盗窃罪判处刘某有期 ...",
+          "date": "2013年1月31日",
+          "position": 94
+        },
+        {
+          "title": "60岁男子做变性手术以女人身份参加妻子葬礼 - 海外网",
+          "link": "http://news.haiwainet.cn/n/2016/0515/c3541083-29924952.html",
+          "snippet": "... 变性手术。 Margaret来自埃塞克斯，她从小就不喜欢自己的男性身体，然而 ... 2002年，Anita的病情恶化，被送进了疗养院，而此时此刻的Margaret想趁这个机会接受 ...",
+          "date": "2016年5月15日",
+          "position": 95
+        },
+        {
+          "title": "一年做3次变性手术：妻离子散，但我终于活得像个人了-虎嗅网",
+          "link": "https://m.huxiu.com/article/291160.html",
+          "snippet": "2010年，56岁的黄欣琴做了三次手术——摘掉喉结、隆胸、改变性器官，让她如愿以偿地变成了一个真正的女人。黄欣琴是一名跨性别女性，她曾经有一个完整的 ...",
+          "date": "2019年3月27日",
+          "position": 96
+        },
+        {
+          "title": "变性手术技术管理规范（试行） - 中国大陆跨性别相关法律法规变迁",
+          "link": "https://project-trans.org/china-legal/spec/2009-11-13/srs/readme/",
+          "snippet": "为规范变性手术技术审核和临床应用，保证医疗质量和医疗安全，制定本规范。 本规范为技术审核机构对医疗机构申请临床应用变性手术技术进行技术审核的依据，是医疗机构及其 ...",
+          "position": 97
+        },
+        {
+          "title": "加拿大这个省政府的神福利：变性手术医保买单，看眼看牙政府不管",
+          "link": "https://realmaster.com/1.5/wecard/prop/5b6db53981f57828d69b4da0/5bf1808ab2c82539e2af1df0",
+          "snippet": "如果在加拿大接受变性手术，阴道成型术开销在1万至3万加元左右，去掉男性生殖器注入雌性激素手术在6000至3万加元之间，阴茎成型术开支更高，在2万至5万加元之 ...",
+          "date": "2018年11月18日",
+          "position": 98
+        }
+      ],
+      "images": [
+        {
+          "title": "变性手术是如何进行的？动画揭示整个手术过程_手机新浪网",
+          "imageUrl": "https://k.sinaimg.cn/n/tech/transform/20151209/nPID-fxmifzh4423484.jpg/w700d1q75cms.jpg?by=cms_fixed_width",
+          "link": "https://tech.sina.cn/d/bk/2015-12-09/detail-ifxmnurf8459384.d.html"
+        },
+        {
+          "title": "变性手术需要做什么准备有来医生- YouTube",
+          "imageUrl": "https://i.ytimg.com/vi/PevT2LdlNf0/sddefault.jpg",
+          "link": "https://www.youtube.com/watch?v=pqUtWi47mRk"
+        },
+        {
+          "title": "男变女到底有多难？揭秘变性手术全过程！看着都心疼！ - YouTube",
+          "imageUrl": "https://i.ytimg.com/vi/kB1DYfnIc8s/sddefault.jpg",
+          "link": "https://www.youtube.com/watch?v=kB1DYfnIc8s"
+        },
+        {
+          "title": "变性手术是如何进行的？最新动画揭示整个变性手术过程_手机新浪网",
+          "imageUrl": "https://p3.ivideo.sina.com.cn/video/250/345/631/250345631.jpg",
+          "link": "http://video.sina.cn/tech/2015-12-08/detail-ifxmnurf8414178.d.html"
+        },
+        {
+          "title": "澳大利亚变性手术| Cosmetic Plastic Surgery | Aesthetic Surgeons ...",
+          "imageUrl": "https://www.kamolhospital.com/uploads/blog/659/data/649980c8d911e.jpg",
+          "link": "https://www.kamolhospital.com/zh/blog/659/sex-change-operation-australia"
+        },
+        {
+          "title": "微博视频",
+          "imageUrl": "https://wx4.sinaimg.cn/orj480/68d6c193ly1gcbc7lvqdqj20bu06kq3h.jpg",
+          "link": "https://video.h5.weibo.cn/1034:4476710499057676/4476710546353849"
+        },
+        {
+          "title": "旅游-150318-实拍泰国“人妖”变性手术全过程_旅游_高清在线观看-PP视频 ...",
+          "imageUrl": "http://v-img.pplive.cn/e1/57/e15710c0880d9c55dbab6b03d91b56c5/3.jpg",
+          "link": "https://m.pptv.com/show/g5I2tejJI2HEQqo.html"
+        },
+        {
+          "title": "新西兰变性手术| Cosmetic Plastic Surgery | Aesthetic Surgeons ...",
+          "imageUrl": "https://www.kamolhospital.com/uploads/blog/661/data/649980c8e0955.jpg",
+          "link": "https://www.kamolhospital.com/zh/blog/661/sex-change-operation-new-zealand"
+        },
+        {
+          "title": "全世界每年有多少人去泰国做变性手术？_手机新浪网",
+          "imageUrl": "https://k.sinaimg.cn/n/front20210413ac/112/w550h362/20210413/3963-knqqqmv1298294.jpg/w700d1q75cms.jpg?by=cms_fixed_width",
+          "link": "http://news.sina.cn/global/szzx/2021-04-13/detail-ikmxzfmk6493510.d.html"
+        }
+      ],
+      "relatedSearches": [
+        {
+          "query": "srs手术费用"
+        },
+        {
+          "query": "零深度手术"
+        },
+        {
+          "query": "ffs手术"
+        },
+        {
+          "query": "gender-affirming surgery"
+        },
+        {
+          "query": "变形人"
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

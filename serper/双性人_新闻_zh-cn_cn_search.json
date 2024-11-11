@@ -1,0 +1,1346 @@
+{
+  "query": "双性人 新闻",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-04T00:15:08.366670",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "双性人 新闻",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "间性人的自白：“我是一个会来月经的男孩” - BBC News 中文",
+          "link": "https://www.bbc.com/zhongwen/simp/science-54970542",
+          "snippet": "间性人是一些同时拥有不同性征的人，他们很多时小时候就被父母或医生强行决定其性别。三个间性人接受BBC访问，分享了他们的挣扎和寻求自我的故事。",
+          "date": "2020年11月23日",
+          "position": 1
+        },
+        {
+          "title": "湘雅二医院多学科联合打造“双性人”新人生 - 中南大学新闻网",
+          "link": "https://news.csu.edu.cn/info/1018/157508.htm",
+          "snippet": "2021年7月，小特第一次来到中南大学湘雅二医院，被精准诊断为染色体核型为45，X [68] / 46，XY [32] 表型为男性的性发育异常患者。经过2年的系统治疗，今年11月 ...",
+          "date": "2023年12月4日",
+          "position": 2
+        },
+        {
+          "title": "泰国“双性人”的故事：歧视与重生 - BBC",
+          "link": "https://www.bbc.com/zhongwen/simp/world-53426775",
+          "snippet": "EK出生时具有女性生殖器和（在生理上隐蔽的）男性生殖器，并且自出生以来就被视为女孩。 成长时期，他仍不知道自己的阴道 ...",
+          "date": "2020年7月17日",
+          "position": 3
+        },
+        {
+          "title": "主动公布双性人身份的“他”：想勇敢面对，感谢网友的善意 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_11277607?from=",
+          "snippet": "2020年6月19日，经过将近一年的思考，小千在B站发布了第一条关于双性人的视频，标题为《身为一名双性人是什么体验》。",
+          "date": "2021年2月9日",
+          "position": 4
+        },
+        {
+          "title": "双性人吴清纯：雌雄同体23年，具备男女两性器官，现状令人唏嘘",
+          "link": "https://www.163.com/dy/article/J6HC7BOT0553IVW3.html",
+          "snippet": "吴清纯很受同事喜欢，经常会有同事追求她，她也试着谈了一两次恋爱，然而一旦提及自己的真实身份，一个个都避退三舍，不愿意交往下去，更有人觉得她“恶心”，她深 ...",
+          "date": "2024年7月7日",
+          "position": 5
+        },
+        {
+          "title": "女子变成双性人续：拥有两套生殖系统全国罕见 - 新浪新闻",
+          "link": "https://news.sina.cn/sa/2005-01-11/detail-ikknscsi5479858.d.html",
+          "snippet": "第一，染色体性别异常。众所周知，男性染色体是46XY，女性是46XX，但有可能因某种原因，染色体发生变异，出现47XX或45XY等，于是性别畸形就出现了。",
+          "date": "2005年1月11日",
+          "position": 6
+        },
+        {
+          "title": "美国务院向双性人表示团结但面临歧视官司 - 美国之音",
+          "link": "https://www.voachinese.com/a/us-intersex-awarness-20171026/4087941.html",
+          "snippet": "美国国务院星期四承认“双性人意识日”，并说，美国与世界各地的双性人团结站在一起。国务院发表这项声明之际，正因同一问题被告上法庭。",
+          "date": "2017年10月27日",
+          "position": 7
+        },
+        {
+          "title": "美国纽约一名双性人获发全美首张双性出生证明 - 中国新闻网",
+          "link": "https://www.chinanews.com.cn/m/gj/2017/01-03/8111966.shtml",
+          "snippet": "中新网1月3日电据外媒报道，美国纽约一名双性人经过了多年的等待，终于获发全美首张“双性”(intersex)出生证明，令她喜出望外，并强调这是美国在“第三性别”议题 ...",
+          "date": "2017年1月3日",
+          "position": 8
+        },
+        {
+          "title": "香港唯一公开身分的双性人：我们应该拥有自主选择性别的权利",
+          "link": "https://www.wainao.me/wainao-reads/HKs-only-openly-intersex-person-07122023",
+          "snippet": "她被要求进行性器官手术的时候，问父母：“为何我要手术？我做错了什么？为何我要受这些苦？” “你是男人，是长子，有责任为家族传宗接代！”",
+          "date": "2023年7月12日",
+          "position": 9
+        },
+        {
+          "title": "困在“双性”身体里的34年，她渴望成为真正的女性 - QQ News",
+          "link": "https://news.qq.com/rain/a/20230829A02AIJ00",
+          "snippet": "几天前，王梓淇刚刚上过热搜，关键词是“双性人”，镜头里她样貌清秀，长发梳成马尾，看起了与普通女性并无差别。 从染色体来看，王梓淇的染色体为46XX，与正常女性 ...",
+          "date": "2023年8月29日",
+          "position": 10
+        },
+        {
+          "title": "【紫牛头条】主动公布双性人身份的“他”：想勇敢面对，感谢网友的善意",
+          "link": "https://news.sina.cn/2021-02-08/detail-ikftpnny5854991.d.html?cre=wappage&mod=r&loc=4&r=0&rfunc=1&tj=wap_news_relate",
+          "snippet": "扬子晚报·紫牛新闻未经授权不得转载转载拒绝任何形式删改否则保留追究法律责任的权利2月8日，当大多数人因为不能回家过年而感到遗憾时，山东人小千却长 ...",
+          "date": "2021年2月8日",
+          "position": 11
+        },
+        {
+          "title": "重庆男子患假两性畸形过22年“双性”生活(图) - 新华网",
+          "link": "http://www.xinhuanet.com/politics/2015-11/09/c_128406178.htm",
+          "snippet": "陈清不同于真正的“双性人”。会诊记录同时显示，陈清染色体异常，为嵌合体 ... 来源：百度新闻新闻热搜榜. 习主席领导推进强军兴军纪实 · 省级GDP ...",
+          "date": "2015年11月9日",
+          "position": 12
+        },
+        {
+          "title": "漂亮双性人遭男子施暴性别鉴定决定是否算强奸(图) - 中国新闻网",
+          "link": "https://www.chinanews.com/fz/2011/06-14/3109803.shtml",
+          "snippet": "17岁的小燕，是重庆大足县邮亭镇红林村七组人。打从出生起，她的生殖器官就畸形，看上去既不像男孩也不像女孩。在家里的户口本上，小燕的性别先是：“女”，后来又 ...",
+          "date": "2011年6月14日",
+          "position": 13
+        },
+        {
+          "title": "天生拥有双份生殖系统，他们背负的争议与痛苦远不止双倍 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_8224680",
+          "snippet": "当患者成长至青春期，外周雄激素抵抗可导致转化的雌激素增高，还会出现女性化的乳房和毛发发育。 当然这只是其中一种假两性畸形，双性人的情况还要更复杂。",
+          "date": "2020年7月11日",
+          "position": 14
+        },
+        {
+          "title": "双性者受关注度与人权的进步 - ohchr",
+          "link": "https://www.ohchr.org/zh/stories/2015/09/step-forward-intersex-visibility-and-human-rights",
+          "snippet": "他们在我两个月的时候做了阉割手术，在我七岁时去除了我的生殖器。”特鲁佛说道。她是国际非政府组织Zwischengeschlecht.org的双性人活动家。她总觉得自己被 ...",
+          "date": "2015年9月25日",
+          "position": 15
+        },
+        {
+          "title": "短史记｜奥运史上的“双性人”纷争-腾讯新闻",
+          "link": "https://news.qq.com/rain/a/20210730A0CZFC00",
+          "snippet": "因为1936年的奥运会与纳粹有关，朵拉的故事后来被拍摄成了电影，他参加奥运会的举动，被渲染为帮助纳粹以不公平的方式夺取奖牌的“性别欺诈”。但这种演绎只是 ...",
+          "date": "2021年7月30日",
+          "position": 16
+        },
+        {
+          "title": "增进全世界男女同性恋、双性恋、跨性别者、酷儿及间性人群体的 ...",
+          "link": "https://china.usembassy-china.org.cn/zh/%E5%A2%9E%E8%BF%9B%E5%85%A8%E4%B8%96%E7%95%8C%E7%94%B7%E5%A5%B3%E5%90%8C%E6%80%A7%E6%81%8B%E3%80%81%E5%8F%8C%E6%80%A7%E6%81%8B%E3%80%81%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85%E3%80%81%E9%85%B7%E5%84%BF/",
+          "snippet": "国务院. 发言人办公室. 增进全世界男女同性恋、双性恋、跨性别者、酷儿及间性人群体的人权的新闻声明. 美国国务卿（Secretary of State）安东尼·布 ...",
+          "date": "2021年2月8日",
+          "position": 17
+        },
+        {
+          "title": "联合国机构联手保护男女同性恋、双性恋、跨性别者和双性人权利",
+          "link": "https://news.un.org/zh/story/2015/09/243602",
+          "snippet": "联合国系统12个机构今天发表了一份前所未有的联合声明，呼吁国际社会采取行动，结束针对男女同性恋、双性恋、跨性别者和双性人的暴力和歧视。 |",
+          "date": "2015年9月29日",
+          "position": 18
+        },
+        {
+          "title": "我的双性人故事",
+          "link": "https://humanists.international/zh-CN/2016/03/%E6%88%91%E7%9A%84%E5%8F%8C%E6%80%A7%E4%BA%BA%E6%95%85%E4%BA%8B/",
+          "snippet": "我的双性人故事. 回到新闻. 帖子类型 / 国际青年人文主义者; 日期 / 8 March 2016. 乔尼·维奥莱特·斯凯男孩. 在这篇文章中，我将批评医疗机构。这并不是为了阻止临床 ...",
+          "position": 19
+        },
+        {
+          "title": "英双性人自幼被当男孩抚养41岁决定做女人(图) - 新闻频道- 央视网",
+          "link": "http://news.cntv.cn/20120302/113221.shtml",
+          "snippet": "英双性人自幼被当男孩抚养41岁决定做女人(图),金茜（左）曾经的结婚照。资料照片英国人卡罗琳·金茜出生时同时具有两性生殖器官，父母选择把她当作男孩 ...",
+          "date": "2012年3月2日",
+          "position": 20
+        },
+        {
+          "title": "双性者宣传日——周三，10月26日 - ohchr",
+          "link": "https://www.ohchr.org/zh/2016/10/intersex-awareness-day-wednesday-26-october",
+          "snippet": "新闻稿 多个机制 ... **编辑须知： 双性者是先天带有不符合典型男性或女性身体的外表或生理性征（例如性构造、生殖器官、荷尔蒙形态和/或染色体形态）的人。",
+          "date": "2016年10月24日",
+          "position": 21
+        },
+        {
+          "title": "德国政府通过“第三性别”法规承认“双性人” - RFI",
+          "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20180816-%E5%BE%B7%E5%9B%BD%E6%94%BF%E5%BA%9C%E9%80%9A%E8%BF%87%E7%AC%AC%E4%B8%89%E6%80%A7%E5%88%AB%E6%B3%95%E8%A7%84-%E6%89%BF%E8%AE%A4%E5%8F%8C%E6%80%A7%E4%BA%BA",
+          "snippet": "... 人都不应该因其“性别认同”而受到歧视。她认为这样的“公民身份现代化”进步措施，早就应该落实。 电邮新闻头条新闻就在您的每日新闻信里. 订阅. 下载法广 ...",
+          "date": "2018年8月16日",
+          "position": 22
+        },
+        {
+          "title": "11岁双性人拥有两性生殖器手术成功变成乖乖女 - 新闻- 搜狐",
+          "link": "http://news.sohu.com/20060508/n243130070_1.shtml",
+          "snippet": "1995年3月16日，小燕燕呱呱落地，但娃娃的出生却没有给家人带来一丝喜悦，因为小家伙不但长了“雀雀”，另外还多出了个女娃娃的生殖器。周贵军夫妇焦急万分，连忙 ...",
+          "date": "2006年5月8日",
+          "position": 23
+        },
+        {
+          "title": "联合国庆祝第20个国际不再恐惧同性恋、双性恋与跨性别日 - UN News",
+          "link": "https://news.un.org/zh/story/2024/05/1128726",
+          "snippet": "5月17日是第20个国际不再恐惧同性恋、双性恋与跨性别日。今年的主题是“不让任何一个人掉队：人人享有平等、自由和正义”。联合国秘书长古特雷斯表示， ...",
+          "date": "2024年5月16日",
+          "position": 24
+        },
+        {
+          "title": "雙性人人權問題長期受忽視監察院糾正衛福部及內政部",
+          "link": "https://www.cy.gov.tw/News_Content.aspx?n=124&sms=8912&s=12908",
+          "snippet": "「據訴：聯合國資料顯示，雙性人（天生性器官或染色體等性特徵不符合典型之男性或女性）人口約占0.05％到1.7％，如以上限值推估，臺灣可能有40萬雙性人，但政府並無雙性人人權 ...",
+          "position": 25
+        },
+        {
+          "title": "深入认识身边的1.7%，你需要澄清关于双性人的五个迷思",
+          "link": "https://zh.amnesty.org/content-type/more-resources/blog/intersex-five-myths/",
+          "snippet": "全世界有数以百万计人的性别特征并不符合典型的男性或女性身体的二元概念。在他们当中，即便不是所有也有许多属于双性人。 双性是一个统称，用于描述一系列 ...",
+          "date": "2018年11月7日",
+          "position": 26
+        },
+        {
+          "title": "【司法案例】首例强奸“双性人”案宣判 - 隆安律师事务所-",
+          "link": "https://www.longanlaw.com/legals/6359.html/",
+          "snippet": "此文转自隆安律师事务所郑磊律师来源于微信公号：刑事实务，作者深海鱼。 泉州新闻网8月6日讯去年3月发生在南安市仑苍镇的一起强奸案，到底能不能定为 ...",
+          "date": "2014年8月11日",
+          "position": 27
+        },
+        {
+          "title": "[超级新闻场]双性人申请办理残疾证被告知无先例",
+          "link": "http://news.cntv.cn/china/20111129/103311.shtml",
+          "snippet": "[超级新闻场]双性人申请办理残疾证被告知无先例,央视网视频点播.",
+          "date": "2011年11月29日",
+          "position": 28
+        },
+        {
+          "title": "“双性人”姐妹：有卵巢子宫也有喉结 - 新闻- 搜狐",
+          "link": "https://news.sohu.com/20140103/n392899250.shtml",
+          "snippet": "崇左市某县17岁的阳阳（化名），不幸患上“男性化”怪病—假两性畸形。据《新快报》报道，广州一家医院近日免费为阳阳检查发现，她不仅长着女性的生殖器，而且本 ...",
+          "date": "2014年1月3日",
+          "position": 29
+        },
+        {
+          "title": "关于2024年男女同性恋、双性恋、跨性别者、酷儿和间性者骄傲月的 ...",
+          "link": "https://china.usembassy-china.org.cn/zh/a-proclamation-on-lesbian-gay-bisexual-transgender-queer-and-intersex-pride-month-2024/",
+          "snippet": "去年，我们在白宫南草坪庆祝“骄傲月”时，我有幸见到了Q俱乐部（Club Q）和Pulse枪击案的幸存者，这两起枪击案不幸夺去了LGBTQI+美国人的生命。 ... 新闻, 美国 ...",
+          "date": "2024年6月5日",
+          "position": 30
+        },
+        {
+          "title": "纪念双性人意识日",
+          "link": "https://legalaidatwork.org/zh/honoring-intersex-awareness-day/",
+          "snippet": "今天，10月26日，是双性人意识日。双性人生来就有性别特征或生殖解剖学方面的变异，或者在他们生命中的某个阶段出现变异。这一天是为了纪念1996年10月26 ...",
+          "date": "2020年10月26日",
+          "position": 31
+        },
+        {
+          "title": "强奸双性人的犯罪形态如何认定 - 中国法院网",
+          "link": "https://www.chinacourt.org/article/detail/2014/10/id/1470878.shtml",
+          "snippet": "本案争议焦点是：没有户籍、以女性身份生活的双性人在DNA 的AMEL基因座检测为X/Y即男性的情况下，二被告人是否构成强奸既遂。 一种意见认为，二被告人构成 ...",
+          "date": "2014年10月30日",
+          "position": 32
+        },
+        {
+          "title": "立法會十六題：雙性人",
+          "link": "https://www.info.gov.hk/gia/general/201603/02/P201603020528.htm",
+          "snippet": "新聞公報. 簡體版 · 英文版 · 寄給朋友 · 政府新聞網. 立法會十六題：雙性人 ＊＊＊＊＊＊＊＊＊＊. 以下為今日（三月二日）在立法會會議上劉慧卿議員的提問和 ...",
+          "date": "2016年3月2日",
+          "position": 33
+        },
+        {
+          "title": "间性人- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E9%9B%99%E6%80%A7%E4%BA%BA",
+          "snippet": "间性人（英语：Intersex），又称双性人，俗称阴阳人，根据联合国人权事务高级专员办事处的报告，性别特征包括染色体、性腺、性激素或生殖器的变异导致“不符合男性或女性身体的典型 ...",
+          "position": 34
+        },
+        {
+          "title": "非男即女吗？或者有其他？ | 端传媒Initium Media",
+          "link": "https://theinitium.com/zh-hans/article/20160204-taiwan-gender-identity",
+          "snippet": "阴阳人（Intersex）有着独立于跨性别（Transgender）的性别认同过程，暂依当前男女二元的架构下，他们会依着自己的性别认同，判定自身属于异性恋或同性恋。 双性 ...",
+          "date": "2016年2月3日",
+          "position": 35
+        },
+        {
+          "title": "学习指南：女同性恋、男同性恋、双性恋、跨性别者、间性人和酷儿 ...",
+          "link": "https://www.ilo.org/zh-hans/publications/%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97%EF%BC%9A%E5%A5%B3%E5%90%8C%E6%80%A7%E6%81%8B%E3%80%81%E7%94%B7%E5%90%8C%E6%80%A7%E6%81%8B%E3%80%81%E5%8F%8C%E6%80%A7%E6%81%8B%E3%80%81%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85%E3%80%81%E9%97%B4%E6%80%A7%E4%BA%BA%E5%92%8C%E9%85%B7%E5%84%BF%EF%BC%88lgbtiq%EF%BC%89%E8%9E%8D%E5%85%A5%E5%8A%B3%E5%8A%A8%E4%B8%96%E7%95%8C",
+          "snippet": "学习指南：女同性恋、男同性恋、双性恋、跨性别者、间性人和酷儿（LGBTIQ+）融入劳动世界 ... 订阅我们的新闻简报. © 1996-2024 国际劳工组织（ILO）. Rights and ...",
+          "date": "2022年9月16日",
+          "position": 36
+        },
+        {
+          "title": "理解LGBTI 中的I - 国际特赦组织中文",
+          "link": "https://zh.amnesty.org/content-type/more-resources/lgbti-%E5%90%8C%E6%80%A7%E6%81%8B-%E5%8F%8C%E6%80%A7%E6%81%8B-%E5%8F%8C%E6%80%A7%E4%BA%BA-%E6%AD%A7%E8%A7%86-%E4%BA%BA%E6%9D%83/",
+          "snippet": "我们中许多人都熟悉女同性恋、男同性恋、双性恋、跨性别者这些术语，但双性人又是什么意思？许多人无法回答，也不能说出双性人面临的问题。主要的双性人 ...",
+          "date": "2017年4月4日",
+          "position": 37
+        },
+        {
+          "title": "双性人医疗处置- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E9%9B%99%E6%80%A7%E4%BA%BA%E9%86%AB%E7%99%82%E8%99%95%E7%BD%AE",
+          "snippet": "双性人医疗处置（英语：Intersex medical interventions）是使用手术、激素和其他医疗处置措施，旨在修改非典型或模棱两可的生殖器和其他性别特征，主要是为了使人的外表 ...",
+          "position": 38
+        },
+        {
+          "title": "终止针对女同性恋、男同性恋、双性恋、跨性别者和双性人的暴力和 ...",
+          "link": "https://www.who.int/zh/publications/m/item/Joint_LGBTI_Statement",
+          "snippet": "联合国机构呼吁各国政府尽快行动起来，终止针对各年龄段女同性恋、男同性恋、 双性恋、跨性别者和双性人(统称为LGBTI)* 的暴力和歧视。",
+          "date": "2015年9月1日",
+          "position": 39
+        },
+        {
+          "title": "[PDF] 第四章認識陰陽人（雙性人）議題及其處境",
+          "link": "https://gec.ey.gov.tw/File/BB6090A3DC795CBA?A=C",
+          "snippet": "I 指的就是Intersex，指. 的是性徵（sex characteristics），不同於性傾向（sexual orientation）. 與性別認同（gender identity），所以有必要獨立指出。LGBTI 的 ...",
+          "date": "2020年6月14日",
+          "position": 40
+        },
+        {
+          "title": "雙性人相關新聞報導、懶人包",
+          "link": "https://www.ettoday.net/news/tag/%E9%9B%99%E6%80%A7%E4%BA%BA/",
+          "snippet": "雙性人相關新聞報導、懶人包.",
+          "position": 41
+        },
+        {
+          "title": "间性人_百度百科",
+          "link": "https://baike.baidu.com/item/%E9%97%B4%E6%80%A7%E4%BA%BA/60604763",
+          "snippet": "间性人，有时被称为阴阳人或双性人，指那些出生时的性特征（包括生殖器官、性腺和染色体模式）不符合男性或女性身体的典型特征的人。需要注意的是，阴阳人是较为污名化的 ...",
+          "position": 42
+        },
+        {
+          "title": "雙性人 - 香港01",
+          "link": "https://www.hk01.com/tag/5318",
+          "snippet": "... 深度報道. 2018-04-17. 【LGBT】從被拒參加成人嘉年華說起勿讓性小眾淪二等公民 · 社會新聞. 2018-01-21. 5千嬰兒1個患性發展障礙雙性人：身體構造不同不一定要糾正.",
+          "position": 43
+        },
+        {
+          "title": "纽约将允许在出生证明上填写第三性别 - 美国之音",
+          "link": "https://www.voachinese.com/a/third-gender-20181009/4606236.html",
+          "snippet": "双性人萨拉·吉南说：“这也是关于结束对儿童生殖器手术的问题，应推迟手术，直到拥有该性器官的人能做出抉择为止。手术可能会使他们失去某种感觉，如果他们愿意 ...",
+          "date": "2018年10月10日",
+          "position": 44
+        },
+        {
+          "title": "双性人_标签_网易出品",
+          "link": "https://tech.163.com/keywords/5/c/53cc60274eba/1.html",
+          "snippet": "2_既不是男性也不是女性，双性人该如何定义自己的性别 · 视频. Sera养的猫2024 ... 热点新闻. 直击佳士得2024秋拍丨劳力士等顶奢大牌“降温” 独立机表已涨超10倍 · 男子 ...",
+          "position": 45
+        },
+        {
+          "title": "自由选择登记的性别和姓名 - deutschland.de",
+          "link": "https://www.deutschland.de/zh-hans/news/ziyouxuanzedengjidexingbiehexingming",
+          "snippet": "... 性别与姓名。所谓的《自决法》即日起生效。现仅需向登记处提交更改声明，即可将性别更改为女性、男性、多样性或选择放弃。“对于所有跨性别者、双性人 ...",
+          "date": "3天前",
+          "position": 46
+        },
+        {
+          "title": "77岁双性人白天当慈父晚上当妓女妻子默默支持 - 新闻",
+          "link": "https://news.66wz.com/system/2014/04/09/104066331.shtml",
+          "snippet": "77岁双性人白天当慈父晚上当妓女妻子默默支持,温网,新闻,体育,娱乐,交友,旅游,文化,论坛,短信,数码,汽车,手机,财经,科技,温州地区门户网站.",
+          "date": "2014年4月9日",
+          "position": 47
+        },
+        {
+          "title": "湖北双性人成功在桂变身女性 - 广西新闻网",
+          "link": "http://www.gxnews.com.cn/staticpages/20080722/newgx488523d7-1579390.shtml",
+          "snippet": "终于变成了真正的女性,巧巧美美地给自己擦上了指甲油。张若凡摄来自湖北的双性人田巧巧（化名)远赴南宁“找”性别，在解放军303医院获得了免费手术的 ...",
+          "date": "2008年7月22日",
+          "position": 48
+        },
+        {
+          "title": "关于反对仇视同性恋、双性恋、间性恋与变性者国际日",
+          "link": "https://www.state.gov/translations/chinese/on-the-international-day-against-homophobia-biphobia-interphobia-and-transphobia-zh/",
+          "snippet": "在这一天，我们反思全世界男女同性恋、双性恋、跨性别者、酷儿及间性人（LGBTQI+）群体所遭受的暴力和歧视，再次承诺反对这些暴力和歧视行为。今年与往年一样， ...",
+          "date": "2024年5月17日",
+          "position": 49
+        },
+        {
+          "title": "探索生活百态，寻找身边趣事，分享国内外新闻21岁女孩“双性人”",
+          "link": "https://m.iqiyi.com/v_19rqywue4s.html",
+          "snippet": "探索生活百态，寻找身边趣事，分享国内外新闻，是原创类高清视频，于20180814发布。视频主要内 ...\n发布时间： 2018年8月14日",
+          "date": "2018年8月14日",
+          "position": 50
+        },
+        {
+          "title": "[PDF] 阴阳人/双性人/间性人组织现状[1]",
+          "link": "https://ajws.org/wp-content/uploads/2017/10/Intersex-executive-summary-ch.pdf",
+          "snippet": "2016年美国犹太人世界服务组织（American Jewish World Service, AJWS）、爱斯. 翠雅正义女神女同性恋基金会（Astraea Lesbian Foundation for Justice）和跨性别.",
+          "position": 51
+        },
+        {
+          "title": "重庆男子患假两性畸形过22年“双性”生活(图) - 海口+",
+          "link": "http://m.hkwb.net/content/2015-11/09/content_2702405_3.htm",
+          "snippet": "... 新闻门户网站，看新闻 ... 在见到他以前，我曾怀有担忧，他是个怎样的人？会介意聊到过去吗？我该怎样和他交流？ “揭人疮疤”在我看来是份 ...",
+          "date": "2015年11月9日",
+          "position": 52
+        },
+        {
+          "title": "博雷利代表欧洲联盟在2020年5月17日反对仇视同性恋、变性者和双 ...",
+          "link": "https://www.eeas.europa.eu/delegations/china/%E5%A4%96%E4%BA%A4%E4%B8%8E%E5%AE%89%E5%85%A8%E6%94%BF%E7%AD%96%E9%AB%98%E7%BA%A7%E4%BB%A3%E8%A1%A8%E8%8B%A5%E4%BD%95%E5%A1%9E%C2%B7%E5%8D%9A%E9%9B%B7%E5%88%A9%E4%BB%A3%E8%A1%A8%E6%AC%A7%E6%B4%B2%E8%81%94%E7%9B%9F%E5%9C%A82020%E5%B9%B45%E6%9C%8817%E6%97%A5%E5%8F%8D%E5%AF%B9%E4%BB%87%E8%A7%86%E5%90%8C%E6%80%A7%E6%81%8B%E3%80%81%E5%8F%98%E6%80%A7%E8%80%85%E5%92%8C%E5%8F%8C%E6%80%A7%E6%81%8B%E5%9B%BD%E9%99%85%E6%97%A5%E4%B9%8B%E9%99%85%E5%8F%91%E8%A1%A8%E7%9A%84%E5%A3%B0%E6%98%8E_zh-hans",
+          "snippet": "新闻中心及资源 · 赠款 · 招标 · 拍卖销售. 新闻中心及资源. microphones ... 将性取向定为犯罪，不承认变性者和双性人的身份，导致LGBTI人士的污名化 ...",
+          "date": "2020年5月17日",
+          "position": 53
+        },
+        {
+          "title": "你需要知道的关于在押跨性别者的待遇 - The Legal Aid Society",
+          "link": "https://legalaidnyc.org/zh-CN/%E5%BE%97%E5%88%B0%E5%B8%AE%E5%8A%A9/%E4%BF%9D%E9%87%8A%E7%9B%91%E7%A6%81/%E5%85%B3%E4%BA%8E%E8%B7%A8%E6%80%A7%E5%88%AB%E5%9C%A8%E5%9B%9A%E4%BA%BA%E5%A3%AB%E7%9A%84%E5%BE%85%E9%81%87%E4%BD%A0%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%8B/",
+          "snippet": "监狱和监狱官员应认真考虑跨性别者或双性人自己对可以安全安置在哪里的看法，包括在将他们分配到男性或女性设施时。在纽约市，人权委员会已确定住房应假定基于性别认同。出生 ...",
+          "position": 54
+        },
+        {
+          "title": "人权专家：柬埔寨法律承认男女同性恋、双性恋和跨性别者家庭是 ...",
+          "link": "https://www.ungeneva.org/zh/news-media/news/2023/01/77037",
+          "snippet": "新闻与媒体 · 最新消息 ... 他补充道：“在我访问之前和访问期间，我没有收到任何针对与我交谈过的人或他们认识的人的大规模或系统性人身暴力的消息。",
+          "date": "2023年1月20日",
+          "position": 55
+        },
+        {
+          "title": "新闻_中国人民大学人权研究中心",
+          "link": "http://humanrights.ruc.edu.cn/rqdt/xw/5326d7d5de7c4bd18cb44b9f76c35f69.htm",
+          "snippet": "周老师也结合相关国际文件联合国《联合国宪章》、《世界人权宣言》、《经济、社会和文化权利国际公约》、WHO《终止针对女同性恋、男同性恋、双性恋、跨性别者和双性人的 ...",
+          "position": 56
+        },
+        {
+          "title": "温州警方抓获一“卖淫女” 不是女人是双性人 - 浙江新闻",
+          "link": "https://zjnews.zjol.com.cn/system/2009/12/02/016121141.shtml",
+          "snippet": "404 Not Found ... 浙江在线12月02日讯日前，温州鹿城警方在市区松台山上抓获了一对卖淫嫖娼者，而令人意外的是，这“卖淫女”居然不是女人。 近来，警方陆续接到 ...",
+          "date": "2009年12月2日",
+          "position": 57
+        },
+        {
+          "title": "《KHUNSA》一部关于双性人的故事。 天生双性的他在成长的路上遇 ...",
+          "link": "https://www.facebook.com/astroaec/videos/khunsa%E4%B8%80%E9%83%A8%E5%85%B3%E4%BA%8E%E5%8F%8C%E6%80%A7%E4%BA%BA%E7%9A%84%E6%95%85%E4%BA%8B%E5%A4%A9%E7%94%9F%E5%8F%8C%E6%80%A7%E7%9A%84%E4%BB%96%E5%9C%A8%E6%88%90%E9%95%BF%E7%9A%84%E8%B7%AF%E4%B8%8A%E9%81%87%E5%88%B0%E4%BA%86%E5%90%84%E7%A7%8D%E7%9A%84%E9%9A%9C%E7%A2%8D%E4%BD%86%E5%B9%B8%E8%BF%90%E7%9A%84%E6%98%AF%E4%BB%96%E9%81%87%E5%88%B0%E4%BA%86mei-yin-%E8%BA%AB%E4%B8%BAche-khun%E7%9A%84%E5%A5%BD%E6%9C%8B%E5%8F%8Bmei-yin-%E4%BB%96%E4%BC%9A%E5%A6%82%E4%BD%95%E6%94%AF/871491518203511/",
+          "snippet": "《KHUNSA》一部关于双性人的故事。 天生双性的他在成长的路上遇到了各种的障碍，但幸运的 ...\n时长： 0:36\n发布时间： 2024年7月1日",
+          "date": "2024年7月1日",
+          "position": 58
+        },
+        {
+          "title": "“双性儿”的命运与性别文化 - 光明网",
+          "link": "https://www.gmw.cn/02blqs/2008-09/07/content_859331.htm",
+          "snippet": "2007年度广受关注的阿根廷电影《我是女生，也是男生》（英文片名：XXY，另一译名《双性传奇》），讲述了一个从小被父母当成女孩来养育的双性人，进入青春期时 ...",
+          "date": "2008年9月7日",
+          "position": 59
+        },
+        {
+          "title": "俄罗斯双性人涉毒警方无法判断性别难拘捕(图) - 贺州新闻网",
+          "link": "http://www.gxhzxw.com/index.php/cms/item-view-id-9263.shtml",
+          "snippet": "德米特里·果如霍夫果如霍夫和妻子去年8月在莫斯科同时身穿婚纱高调完婚国际在线专稿：据俄罗斯生活新闻网9月15日报道，24岁的俄罗斯双性人德米特里·果如 ...",
+          "date": "2015年9月17日",
+          "position": 60
+        },
+        {
+          "title": "70岁双性人公证自己是女性曾娶妻生子还想被爱 - 中国发展门户网",
+          "link": "http://cn.chinagate.cn/health/2010-11/22/content_21396114.htm",
+          "snippet": "【新闻链接】 双性人为何染色体只表现出XX. 人的性别是由性染色体决定的，XX就是女性，XY就是男性。而性别紊乱者的染色体很复杂，分成好多种，主要是 ...",
+          "date": "2010年11月22日",
+          "position": 61
+        },
+        {
+          "title": "媒体推动进步：促进中国性少数群体的权益",
+          "link": "https://www.undp.org/zh/china/news/meitituidongjinbucujinzhongguoxingshaoshuquntidequanyi",
+          "snippet": "... 性少数群体议题的关注以及在引导社会大众尊重社会多样性中发挥的作用。 对于女同性恋者、男同性恋者、双性恋者、跨性别者和间性人（LGBTI）的报道在新闻 ...",
+          "date": "2018年1月1日",
+          "position": 62
+        },
+        {
+          "title": "公告「衛生福利部未成年雙性人之醫療矯正手術共同性建議原則」",
+          "link": "https://dep.mohw.gov.tw/DOMA/cp-2708-45096-106.html",
+          "snippet": "(一)具兒童內分泌科、兒童外科、兒童泌尿科及兒童青少年精神科等專科醫師。 (二)具青少年衡鑑經驗之心理師。 附件下載. 公告-未成年雙性人之 ...",
+          "position": 63
+        },
+        {
+          "title": "转胎丸易造“双性人” - 杭州网",
+          "link": "https://hznews.hangzhou.com.cn/kejiao/content/2012-04/06/content_4138558.htm",
+          "snippet": "杭州阿波罗男子医院泌尿外科主任薛建平说，这些都是含有较高雄性激素的材料，平时用来给男性“壮阳”的，“这些大量的雄性激素，怀孕女性早期使用可引起母体 ...",
+          "date": "2012年4月6日",
+          "position": 64
+        },
+        {
+          "title": "40萬雙性人人權問題嚴重陳情監察院副院長孫大川",
+          "link": "https://www.cy.gov.tw/News_Content.aspx?n=124&sms=8912&s=7962",
+          "snippet": "雙性人具狀向監察院副院長孫大川、監察委員高鳳仙陳情，指出雙性人是天生性器官或染色體等性特徵，不符合典型之男性或女性身體，例如，具有xxy染色體等。聯合國資料顯示，雙 ...",
+          "position": 65
+        },
+        {
+          "title": "史上7位著名的双性化女子 - 文化频道",
+          "link": "http://ent.chinadaily.com.cn/2016-01/14/content_23089785.htm",
+          "snippet": "有些人可能认为，女性的中性化就是匆忙穿上裤子，或是找剃头匠剪一个短发（这样比去理发店要便宜得多）。",
+          "date": "2016年1月14日",
+          "position": 66
+        },
+        {
+          "title": "77岁双性人白天当慈父晚上当妓女妻子默默支持 - 青岛新闻网",
+          "link": "https://news.qingdaonews.com/shehui/2014-04/09/content_10376992.htm",
+          "snippet": "我从不觉得身为双性人是种困扰，拥有天使般的性别，不需要感到羞愧”。克劳地拒绝被别人同情，也不在乎外人的眼光，他认为自己不需受到外界的道德谴责， ...",
+          "date": "2014年4月9日",
+          "position": 67
+        },
+        {
+          "title": "立法会十六题：双性人",
+          "link": "https://sc.isd.gov.hk/gb/www.info.gov.hk/gia/general/201603/02/P201603020528.htm",
+          "snippet": "新闻公报. 繁体版 · 英文版 · 寄给朋友 · 政府新闻网. 立法会十六题：双性人 ＊＊＊＊＊＊＊＊＊＊. 以下为今日（三月二日）在立法会会议上刘慧卿议员的提问和 ...",
+          "date": "2016年3月2日",
+          "position": 68
+        },
+        {
+          "title": "LGBTIQ+ 中的“I”：在澳大利亚身为双性人意味着什么？ | SBS Chinese",
+          "link": "https://www.sbs.com.au/language/chinese/zh-hans/article/intersex-what-its-like-to-be-i-in-lgbtiq/ni9voiv7v",
+          "snippet": "双性人可以包括那些天生具有荷尔蒙、染色体或解剖学上的性别特征变异，这些变异不符合男性或女性身体的社会或医学规范。 它可以用来描述患有先天性肾上腺 ...",
+          "date": "2023年2月28日",
+          "position": 69
+        },
+        {
+          "title": "既有子宫卵巢，又有睾丸阴茎？双性人的生殖构造到底是怎样的？",
+          "link": "https://i.ifeng.com/c/8CfmMRaGGbu",
+          "snippet": "性别在大多数人的常识中，不过就是非男即女。 但其实在现实社会中，还有我们想象不到的第三性——间性（即雌雄同体性），也就是民间流传的“双性人”。",
+          "date": "2022年1月10日",
+          "position": 70
+        },
+        {
+          "title": "姐妹皆为“双性人” 有卵巢子宫却有男性特征 - 东南网",
+          "link": "http://news.fjsen.com/2014-01/03/content_13272070_all.htm",
+          "snippet": "姐妹皆为“双性人” 有卵巢子宫却有男性特征. 来源：广西新闻网 | 作者：梁乾胜| 时间：2014-01-03. 崇左一对姐妹同为“双性人”. 有卵巢和子宫，外生殖器却有男性特征千里寻医 ...",
+          "position": 71
+        },
+        {
+          "title": "“跨性别”给奥林匹克出了道难题 - 中青在线",
+          "link": "http://m.cyol.com/gb/articles/2024-08/03/content_Lgay3gtG7P.html",
+          "snippet": "“跨性别”给奥林匹克出了道难题. 澎湃新闻 | 2024-08-03. 当地时间8月1日，巴黎奥运会拳击女子66公斤级16强赛，46秒“脆败”的意大利 ... 即便此后有媒体爆出塞门亚的双性人身份，国际田联也没有立刻对塞门亚进行停赛。",
+          "position": 72
+        },
+        {
+          "title": "奧運掀性別爭議雙性人團體：性別不只男、女倡奥運摒棄性別分組籲 ...",
+          "link": "https://hk.news.yahoo.com/%E5%A5%A7%E9%81%8B%E6%8E%80%E6%80%A7%E5%88%A5%E7%88%AD%E8%AD%B0-%E9%9B%99%E6%80%A7%E4%BA%BA%E5%9C%98%E9%AB%94%EF%BC%9A%E6%80%A7%E5%88%A5%E4%B8%8D%E5%8F%AA%E7%94%B7%E3%80%81%E5%A5%B3-%E5%80%A1%E5%A5%A5%E9%81%8B%E6%91%92%E6%A3%84%E6%80%A7%E5%88%A5%E5%88%86%E7%B5%84-%E7%B1%B2%E5%A4%A7%E7%9C%BE%E5%81%9C%E6%AD%A2%E4%BB%87%E6%81%A8%E8%A8%80%E8%AB%96%EF%BD%9Cyahoo-110544250.html",
+          "snippet": "【Yahoo 新聞報道】今屆巴黎奧運的性別爭議引起關注，台灣林郁婷和阿爾及利亞Imane Khelif 兩位拳手，因性別身分而受質疑。多個華人雙性人團體發表聯合 ...",
+          "date": "2024年8月12日",
+          "position": 73
+        },
+        {
+          "title": "下身有男女生殖器3小时手术后双性人恢复女儿身 - 广西新闻网",
+          "link": "http://www.gxnews.com.cn/staticpages/20130507/newgx518844f7-7516571.shtml",
+          "snippet": "女患者”长着男女两套生殖器官，“她”到底是男人还是女人？近日，柳州市人民医院为一名双性人成功进行了整形手术，恢复了她的女儿身。",
+          "date": "2013年5月7日",
+          "position": 74
+        },
+        {
+          "title": "出生时以为是男孩但看上去又不像5岁“双性人”手术成功 - 中国宁波网",
+          "link": "http://news.cnnb.com.cn/system/2021/07/09/030267388.shtml",
+          "snippet": "近日，宁波市妇儿医院北部院区钟红继医生带领的小儿泌尿外科团队，成功为5岁双性人小慧(化名)实施手术，还给她真正意义上的女儿身。",
+          "date": "2021年7月9日",
+          "position": 75
+        },
+        {
+          "title": "菲尔普斯41岁女友承认曾是双性人 - 南海网",
+          "link": "http://www.hinews.cn/news/system/2014/11/20/017130277.shtml",
+          "snippet": "据英国《每日邮报》11月19日报道，美国泳坛名将菲尔普斯的41岁女友日前公开承认自己曾经是一名双性人，在大约20岁时服用药物并进行了矫形手术。",
+          "date": "2014年11月20日",
+          "position": 76
+        },
+        {
+          "title": "美科学家培育出双性人胚胎招争议 - 中国科学院",
+          "link": "https://www.cas.cn/xw/kjsm/gjdt/200307/t20030708_1007659.shtml",
+          "snippet": "您现在的位置： 首页 > 新闻 > 科技动态 > 国际动态. 美科学家培育出双性人胚胎招争议 ... 美国科学家最近宣布首次在实验室中培育出双性人类胚胎，它们由男性 ...",
+          "date": "2003年7月8日",
+          "position": 77
+        },
+        {
+          "title": "人文主义者在强烈反对中表示支持联合国关于双性人的决议",
+          "link": "https://humanists.international/zh-CN/2024/03/%E4%BA%BA%E6%96%87%E4%B8%BB%E4%B9%89%E8%80%85%E5%9C%A8%E5%BC%BA%E7%83%88%E5%8F%8D%E5%AF%B9%E4%B8%AD%E8%A1%A8%E7%A4%BA%E6%94%AF%E6%8C%81%E8%81%94%E5%90%88%E5%9B%BD%E5%85%B3%E4%BA%8E%E5%8F%8C%E6%80%A7%E4%BA%BA%E7%9A%84%E5%86%B3%E8%AE%AE/",
+          "snippet": "... 双性人的决议. 回到新闻. 帖子类型 / 宣传新闻; 日期 / 22 2024三月. 在联合国人权理事会第55届会议上，人文主义者国际公开表达了对双性人权利的支持，并呼吁理事会通过 ...",
+          "position": 78
+        },
+        {
+          "title": "帅气男孩有难言之隐周期性“血尿”竟是来例假 - 北方网",
+          "link": "http://news.enorth.com.cn/system/2010/08/04/004907343.shtml",
+          "snippet": "新闻 | 论坛 | 财经 | 体育 | 时尚 | 地产 | IT | 健康 | 环保 ... 一位帅气逼人的小伙子却有着不为人知的秘密：他是一个双性人！近日，在沪 ...",
+          "date": "2010年8月4日",
+          "position": 79
+        },
+        {
+          "title": "[PDF] #我的雙性人生 - OII Europe",
+          "link": "https://www.oiieurope.org/wp-content/uploads/2024/03/OIIEU_MIS_CN_web.pdf",
+          "snippet": "根據聯合國的定義，我認識的所有雙性人運動者都同意，「雙性人天生的性別特徵不. 符合男性和女性的典型定義」。性別特徵包括：「生殖器、性腺、荷爾蒙水平和 ...",
+          "date": "2024年3月14日",
+          "position": 80
+        },
+        {
+          "title": "被逼服藥降睪固酮奧運奪金牌「雙性人」獲勝訴 - YouTube",
+          "link": "https://www.youtube.com/watch?v=l-Kva-0jghI",
+          "snippet": "台灣拳擊選手林郁婷，奪金光榮返國，她和阿爾及利亞選手【克莉芙】，讓體壇的「性別判定」爭議，再度成為焦 ...\n时长： 4:47\n发布时间： 2024年8月13日",
+          "date": "2024年8月13日",
+          "position": 81
+        },
+        {
+          "title": "美国纽约一名双性人获发全美首张双性出生证明 - 岳阳网",
+          "link": "http://www.803.com.cn/Tianxia/content/201701/03/c16146.html",
+          "snippet": "作者： 来源：中国新闻网 发布时间：2017年01月03日 责任编辑：李璇. 资料图片：出生证明。 中新网1月3日电 据外媒报道，美国纽约一名双性人经过了多年的等待，终于获发全美首 ...",
+          "position": 82
+        },
+        {
+          "title": "双性人24年异样人生:曾被扒裤子父亲不堪压力自杀 - 中国青年网",
+          "link": "http://news.youth.cn/sh/201711/t20171122_11045054.htm",
+          "snippet": "11月21日，假双性畸形人周磊（化名）长有胡子，而身份证上的性别为\" 女\"。 一头短发，身材微胖，身着黑色外套，声音粗狂，当24岁的周磊（化名）出现在外人面前 ...",
+          "date": "2017年11月22日",
+          "position": 83
+        },
+        {
+          "title": "双性人新闻资料 - 星洲日报",
+          "link": "https://www.sinchew.com.my/tag/%E5%8F%8C%E6%80%A7%E4%BA%BA/",
+          "snippet": "德国性别自决法1日上路柏林收千份申请| 杨丽琴.五月雪.双性花那些曾不能说的禁忌| 天生没有阴茎的男人他用手臂打造一根|",
+          "position": 84
+        },
+        {
+          "title": "德国双性人打赢性别官司 - DW",
+          "link": "https://www.dw.com/zh/%E5%BE%B7%E5%9B%BD%E5%8F%8C%E6%80%A7%E4%BA%BA%E6%89%93%E8%B5%A2%E6%80%A7%E5%88%AB%E5%AE%98%E5%8F%B8/a-3004557",
+          "snippet": "德国一名妇女幼时即被误认为是男孩，少年时被摘除女性生殖器官，手术30年后起诉当年的外科医生要求赔偿。",
+          "date": "2007年12月14日",
+          "position": 85
+        },
+        {
+          "title": "遗传学家性别发育研究遇尴尬 - 论文- 科学网",
+          "link": "https://news.sciencenet.cn/htmlnews/2016/6/348793.shtm",
+          "snippet": "“我不希望科学诚信打折扣，即便事情与科学界的言论发生冲突。” ... 世界上仅有两种性别的概念在社会上已经根深蒂固，很多人在得知妻子怀孕后的第一个问题往往 ...",
+          "date": "2016年6月16日",
+          "position": 86
+        },
+        {
+          "title": "香港LGBTQIA+】被忽略的性小眾：什麼是雙性人（Intersex ...",
+          "link": "https://www.socialcareer.org/blogs/lgbtq-gender-diversity-intersex",
+          "snippet": "雙性人天生具有不符合典型男性或女性身體二元概念的生理性別特徵（包括生殖器、性腺和染色體模式）。 以下是部份雙性人的生殖或性解剖結構例子：. 1. 一名雙 ...",
+          "date": "2022年10月12日",
+          "position": 87
+        },
+        {
+          "title": "22岁网坛双性人终获女性身份鉴定可战女子比赛- 网球 - 体育",
+          "link": "https://sports.sohu.com/20090414/n263371144.shtml",
+          "snippet": "当理查兹被确认为女性而获准参加新泽西州南奥兰治锦标赛时，有25位女选手退出比赛以示抗议。理查兹随即告上法院，成为轰动一时的新闻。打赢官司后，理查兹 ...",
+          "date": "2009年4月14日",
+          "position": 88
+        },
+        {
+          "title": "[PDF] 醫生說是陰莖，其實是一條肉— 專訪雙性人－細細老師",
+          "link": "https://teric.naer.edu.tw/wSite/PDFReader?xmlId=2042025&fileName=1556854435019&format=pdf",
+          "snippet": "雙性人定義可以很廣泛，根據聯合國人權辦公室所指，雙性人是. 指一個人出生時在生理結構、生殖器官及∕ 或染色體，並不符合典型. 男性或女性的定義。和其他人一樣，雙性人可以 ...",
+          "position": 89
+        },
+        {
+          "title": "小孩一出生，就有男性、女性生殖器#XUAN #khunsa #双性人",
+          "link": "https://www.facebook.com/ASTROXUAN/videos/%E5%B0%8F%E5%AD%A9%E4%B8%80%E5%87%BA%E7%94%9F%E5%B0%B1%E6%9C%89%E7%94%B7%E6%80%A7%E5%A5%B3%E6%80%A7%E7%94%9F%E6%AE%96%E5%99%A8-xuan-khunsa-%E5%8F%8C%E6%80%A7%E4%BA%BA/996931392220034/",
+          "snippet": "... ，就有男性、女性生殖器#XUAN #khunsa #双性人. ... 八度空间华语新闻 ...\n时长： 0:55\n发布时间： 2024年6月18日",
+          "date": "2024年6月18日",
+          "position": 90
+        },
+        {
+          "title": "陕视新闻：如果孩子是“双性人”，你会怎么做？ - 搜狐",
+          "link": "https://www.sohu.com/a/84971632_355330",
+          "snippet": "陕视新闻：如果孩子是“双性人”，你会怎么做？ · 陕视提要 · Jun 2016 · 这世上 · 所有的底线 · 都是人心 · 最后一块柔软.",
+          "date": "2016年6月21日",
+          "position": 91
+        },
+        {
+          "title": "双性人能参加奥运会女子800米么？ - CN-Healthcare",
+          "link": "http://www.cn-healthcare.com/api/third/article/484989",
+          "snippet": "今天我们要说的是女子800米选手Caster Semenya。 今年，她将参加里约奥运会的女子800米跑…然而，熟悉她的很多人都知道，这次只要她参赛，金牌基本稳赢.",
+          "position": 92
+        },
+        {
+          "title": "奸淫“双性人”构成强奸罪吗？ - 民间法与法律方法网",
+          "link": "http://www.xhfm.com/2013/1117/2981.html",
+          "snippet": "奸淫“双性人”构成强奸罪吗？ 陈国艺 蔡雅萍. 2013年9月26日，互联网正义网刊发一条新闻，简要内容为：2013年3月，犯罪嫌疑人魏某与黄某在某市一小摊吃 ...",
+          "date": "2013年11月17日",
+          "position": 93
+        },
+        {
+          "title": "重庆男子患假两性畸形过22年“双性”生活(图) - 福州新闻网",
+          "link": "https://m.fznews.com.cn/fuzhou/20151109/56400ef9e4fa7_2.shtml",
+          "snippet": "丁碧莲屡次想给他改户口，未能成行。 陈清小时候只管玩，田间小路疯跑，都是一块儿长大的伙伴，他不懂户口是什么，同龄人 ...",
+          "date": "2015年11月9日",
+          "position": 94
+        },
+        {
+          "title": "小伙雌雄同体32年当事人自述双性人是何种体验 - 中国网浪潮新闻",
+          "link": "http://zjnews.china.com.cn/redian/2015-11-17/27471_2.html",
+          "snippet": "“两性畸形是在胚胎发育期间分化异常所致的性别畸形，可分为男性假两性畸形、女性假两性畸形和真两性畸形。”吴毅表示，虽然双性人的概率很低，但是儿童中尿道 ...",
+          "date": "2015年11月17日",
+          "position": 95
+        },
+        {
+          "title": "揭秘“双性人”背后的分子生物学原理",
+          "link": "https://m.ebiotrade.com/newsf/2010-2/20102892412267.htm",
+          "snippet": "这是因为，在人类和大多数哺乳动物中，遗传性别（如XX或XY）在胎儿生命过程中控制着睾丸或卵巢的发育，所有第二性征（生殖器、肌肉、输精管或输卵管）是由来自 ...",
+          "date": "2010年2月9日",
+          "position": 96
+        },
+        {
+          "title": "双性人是真实存在，还是性别幻想？真相刷新你的世界观 - 凤凰网",
+          "link": "https://i.ifeng.com/c/8Cc7AhietnM",
+          "snippet": "性别在大多数人的常识中，不过就是非男即女。 但其实在现实社会中，还有我们想象不到的第三性——间性（即雌雄同体性），也就是民间流传的“双性人”。",
+          "date": "2022年1月7日",
+          "position": 97
+        },
+        {
+          "title": "77岁双性人拥两套生殖器白天当爹晚上当妓女",
+          "link": "http://news.cjn.cn/shxw/201404/t2455062.htm",
+          "snippet": "新闻中心 > 首页社会 ... 根据英国《赫芬顿邮报》报导，克劳地从1937年出生起，就拥有男生和女性的生殖器官，虽然他父母考量到社会竞争力问题，赋予他男生的身分 ...",
+          "date": "2014年4月9日",
+          "position": 98
+        },
+        {
+          "title": "株洲双性人15岁来\"大姨妈\" 喜欢过女孩又看上小伙",
+          "link": "https://moment.rednet.cn/rednetcms/news/localNews/20150623/162128.html",
+          "snippet": "他15岁时来了“大姨妈”，不敢就医常裹胸出门. 读书时喜欢过女孩，工作后又看上单位的一个小伙. 如今，22岁的他求助晚报，想做手术变成真正的女儿身.",
+          "date": "2015年6月23日",
+          "position": 99
+        },
+        {
+          "title": "一个双性人的真实生活:想做个女人渴望爱情的眷顾 - 荆楚网",
+          "link": "http://www.cnhubei.com/xw/gn/201702/t3787529_8.shtml",
+          "snippet": "荆楚网由湖北日报传媒集团主办，湖北荆楚网络科技股份有限公司运营，是湖北地区最大的网络平台。业务涉及新闻资讯、财经房产、时尚娱乐、旅游信息、教育 ...",
+          "date": "2017年2月16日",
+          "position": 100
+        }
+      ],
+      "relatedSearches": [
+        {
+          "query": "intersex意思"
+        },
+        {
+          "query": "雌雄同體生物"
+        },
+        {
+          "query": "克氏综合征"
+        },
+        {
+          "query": "queer意思"
+        },
+        {
+          "query": "xy染色体"
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "双性人 新闻",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "双性婴儿_百度百科",
+          "link": "https://baike.baidu.com/item/%E5%8F%8C%E6%80%A7%E5%A9%B4%E5%84%BF/2349812",
+          "snippet": "... 性别的分化，造成两性畸形。 中文名. 双性人，两性人，阴阳人，两性畸形. 外文名. hermaphroditism. 常见发病. 生殖器. 常见病因. 胚胎发育分化异常. 快速导航. 相关新闻; 专家 ...",
+          "position": 1
+        },
+        {
+          "title": "不要害羞！“性少数”人群今后在湖南可以看门诊了！ - 中南大学新闻网",
+          "link": "https://news.csu.edu.cn/info/1062/159161.htm",
+          "snippet": "性少数通常是指在性倾向、性别认同、性身份或性行为等方面不同于主流异性恋规范的群体，包括但不限于同性恋、双性恋、跨性别、无性恋、间性人等。 请 ...",
+          "date": "2024年8月2日",
+          "position": 2
+        },
+        {
+          "title": "男性混入女子拳击比赛？奥运历史上的性别鉴定难题| 歪脑WHYNOT",
+          "link": "https://www.wainao.me/wainao-reads/olympic-gender-verification-08072024",
+          "snippet": "经过相关媒体的事实核查，这两人都不是跨性别运动员，而是从小就被认作 ... 歪脑新闻 · 工作机会 · 联系我们 · 隐私条款 · 服务协议. © 2024 WHYNOT ...",
+          "date": "2024年8月7日",
+          "position": 3
+        },
+        {
+          "title": "做了40多年男人的他竟是双性人余生他想做个女人 - 浙江新闻",
+          "link": "https://zjnews.zjol.com.cn/zjnews/hznews/201704/t20170419_3481080.shtml",
+          "snippet": "他叫许文涛，今年46岁，既不是完全的女人也不是完全的男人，医学诊断为两性畸形，就是俗称的双性人，雌雄同体。直到2015年的3月，他在一次体检时， ...",
+          "date": "2017年4月19日",
+          "position": 4
+        },
+        {
+          "title": "奇闻！高三女生是双性人无子宫生殖器只有花生米一般大 - 北京晚报",
+          "link": "http://www.takefoto.cn/viewnews-336295.html",
+          "snippet": "新闻国内. 奇闻！高三女生是双性人无子宫生殖器只有花生米一般大. 2015-03-13 07:11 网络 admin. 19岁高三女生，马上要参加高考了，因迟迟没来例假最近上医院检查，才发现 ...",
+          "position": 5
+        },
+        {
+          "title": "【重推】女人有标准？睪酮浓度、染色体，并不是女性运动员的唯一 ...",
+          "link": "https://theinitium.com/zh-hans/opinion/20210730-opinion-repost-olympics-female-equality",
+          "snippet": "... 新闻的网民抨击其为“男扮女”。 且不论跨性别运动员是否就该遭受此类质疑 ... 症状再明显还可能拥有双性特征，即俗称的阴阳人或双性人（Intersex）。",
+          "date": "2021年7月30日",
+          "position": 6
+        },
+        {
+          "title": "美国防部称正等待白宫关于跨性别者服兵役的正式指引-新华网",
+          "link": "http://news.xinhuanet.com/world/2017-07/28/c_129665863.htm",
+          "snippet": "这份由五角大楼新闻发言人达娜·怀特发表的声明称，国防部正在等待来自 ... 特朗普的言论一出即引起美国舆论哗然，因为此前在竞选期间他曾明确表态支持LGBT(女 ...",
+          "date": "2017年7月28日",
+          "position": 7
+        },
+        {
+          "title": "男子自称双性人广场上征婚对象为男女各一 - 海口+",
+          "link": "http://m.hkwb.net/content/2010-08/17/content_40147_0.htm",
+          "snippet": "... 新闻网站,汇集海口新闻,生活资讯,汽车,体育,娱乐,视频,人文,健康,教育,旅游,彩票,婚庆,美食等为一体的海口权威新闻门户网站，看新闻就上海口网。",
+          "date": "2010年8月17日",
+          "position": 8
+        },
+        {
+          "title": "广东发现一对同胞亲姐妹都是双性人(图)-新闻中心-中国宁波网",
+          "link": "http://news.cnnb.com.cn/system/2004/04/25/000802178.shtml",
+          "snippet": "阿英小金 倾诉希望“是男是女要活个明白” 连山来穗的两姐妹来电向本报倾诉希望“是男是女要活个明白”据介绍双性人发生率仅百万分之一而同胞双性人更罕见 ...",
+          "date": "2004年4月25日",
+          "position": 9
+        },
+        {
+          "title": "“双性人”获助担忧如故--24小时滚动新闻 - 人民网",
+          "link": "http://www.people.com.cn/24hour/n/2013/0927/c25408-23050481.html",
+          "snippet": "唐阳阳常常独自望着窗外，不知自己的未来将是如何。京华时报记者谭青摄□《“双性人”的生存挣扎》追踪出生在广西农村的唐阳阳从幼年开始，外形生理特征 ...",
+          "date": "2013年9月27日",
+          "position": 10
+        },
+        {
+          "title": "就最近猴痘疫情对同性恋、双性恋和其他男男性行为者的公共卫生建议",
+          "link": "https://www.who.int/zh/publications/m/item/monkeypox-public-health-advice-for-men-who-have-sex-with-men",
+          "snippet": "所有新闻 · 新闻发布 · 声明 · 世卫组织宣传活动 · 要事 · 特写故事 · 演讲 ... 任何人如果与具有传染性的人密切接触，都会有危险。不过，考虑到当前正在 ...",
+          "date": "2023年3月9日",
+          "position": 11
+        },
+        {
+          "title": "探索双性人怪像揭开双性人之谜",
+          "link": "https://www.biodiscover.com/reaseach/98390.html",
+          "snippet": "最后，保留“他”的男性器官，用手术封住女性器官，让尿液从男性器官排除。现在，“他”形似男性，却没有男性功能。 双性人，俗称阴阳人，是指生殖器官发生变异 ...",
+          "date": "2011年11月28日",
+          "position": 12
+        },
+        {
+          "title": "双性人是什么结构 - 抖音",
+          "link": "https://www.douyin.com/search/%E5%8F%8C%E6%80%A7%E4%BA%BA%E6%98%AF%E4%BB%80%E4%B9%88%E7%BB%93%E6%9E%84",
+          "snippet": "雌雄同体双性人。 ‍ 双性人是由阴茎、阴道、乳房组成的。 ‍ 长相：有的长相偏向于男的，有的长相偏向于女的。 心理：内心是很女人的，或者是女的长相，内心就是男女两方面 ...",
+          "position": 13
+        },
+        {
+          "title": "小伙雌雄同体32年当事人自述双性人是何种体验",
+          "link": "http://zjnews.china.com.cn/redian/2015-11-17/27471.html",
+          "snippet": "今天小张将进行手术，恢复男儿身，摆脱32年来的心理阴影，和他的女朋友过上正常的生活。 来源： | 作者： | 责编：赵皓月 审核：张渊. 新闻投稿：184042016@qq.com ...",
+          "date": "2015年11月17日",
+          "position": 14
+        },
+        {
+          "title": "[PDF] 双性INTERSEX",
+          "link": "https://www.unfe.org/sites/default/files/download/Intersex%20Factsheet%20-%20CH.pdf",
+          "snippet": "这种做法经常将文化和性别常规以及对. 双性人应融入社会的歧视看法当作正. 当理由。 歧视的态度决不能为强迫治疗和侵犯身. 体完整权等侵犯人权的行为做辩护。各. 国有 ...",
+          "position": 15
+        },
+        {
+          "title": "長期遭社會漠視雙性人爭權益| 華視新聞20180614 - YouTube",
+          "link": "https://www.youtube.com/watch?v=w60A2YBJ5KI",
+          "snippet": "全國約有40萬雙性人，身體或生理性徵不符合男性或女性定義，但雙性人的人權問題長期被忽 ...\n时长： 2:19\n发布时间： 2018年6月14日",
+          "date": "2018年6月14日",
+          "position": 16
+        },
+        {
+          "title": "2024年10月29日外交部发言人林剑主持例行记者会",
+          "link": "https://www.mfa.gov.cn/web/wjdt_674879/zcjd/202410/t20241029_11517777.shtml",
+          "snippet": "日本经济新闻记者：关于朝鲜向俄罗斯派兵的问题。 ... 彭博社记者：台湾“国防部”与美国签订正式条约，从两家美国公司采购进攻性无人机，以提升自身防御能力。",
+          "date": "5天前",
+          "position": 17
+        },
+        {
+          "title": "体制机制改革创新的“试验田”——苏州工业园区成立30周年系列报道 ...",
+          "link": "https://jiangsu.chinatax.gov.cn/art/2024/10/30/art_8265_476297.html",
+          "snippet": "... 新闻动态 · 政策文件 · 纳税服务 · 互动交流 · 首页. >新闻动态, >税务新闻 ... 其中，有两个数据格外引人注目：. 单位土地税收产出2.7亿元/平方公里，位 ...",
+          "date": "5天前",
+          "position": 18
+        },
+        {
+          "title": "我身體裡的「他」和「她」－香港雙性人・細細老師  詹婉如《專題 ...",
+          "link": "https://www.youtube.com/watch?v=ocSrERRg01g",
+          "snippet": "我身體裡的「他」和「她」－香港雙性人細細老師採訪製作：詹婉如什麼是雙性人(Intersex)？這是身體是 ...\n时长： 3:22\n发布时间： 2017年10月25日",
+          "date": "2017年10月25日",
+          "position": 19
+        },
+        {
+          "title": "湖南罕见“双性人”，上半身女性下半身男性，因屈辱经历想变女人",
+          "link": "https://c.m.163.com/news/a/H7BDN1G90543L1HK.html",
+          "snippet": "医学上将具有雌雄同体现象的人称为雌雄同体人，又称双性人。现实...",
+          "date": "2022年5月14日",
+          "position": 20
+        },
+        {
+          "title": "杭州、海盐两地审计机关锻造高素质专业化审计队伍",
+          "link": "https://sjt.zj.gov.cn/art/2024/10/30/art_1320652_58904506.html",
+          "snippet": "... 性审计业务交流会议上 ... 海盐县审计局坚持人才强审战略，通过强化、固化、细化一批内部管理制度，以制度选人、育人、管人，着力建强高素质干部队伍。",
+          "date": "5天前",
+          "position": 21
+        },
+        {
+          "title": "中华人民共和国与斯洛伐克共和国关于建立战略伙伴关系的联合声明 ...",
+          "link": "https://www.fmprc.gov.cn/zyxw/202411/t20241101_11519962.shtml",
+          "snippet": "... 两国各领域各层级交往合作，推动双边关系持续向更高水平发展。 一、政治领域. （一）双方重视维护双边关系及中欧关系的平等性、互利性、连续性、一贯性。",
+          "date": "3天前",
+          "position": 22
+        },
+        {
+          "title": "人民日报：大国重器亮相“双11”电商平台",
+          "link": "http://www.sasac.gov.cn/n2588025/n2588139/c31998986/content.html",
+          "snippet": "“天衍”量子计算云平台由中国电信自主研发，是具备“量子优越性”能力的超量融合云平台。 ... 其中，中国航空工业集团推出的“祥云”AS700载人飞艇备受关注，还参加 ...",
+          "date": "5天前",
+          "position": 23
+        },
+        {
+          "title": "今天，国际双性人日 - 搜狐",
+          "link": "https://www.sohu.com/a/595441747_121123705",
+          "snippet": "拥抱双性人，意味着我们接纳他们为与男性、女性、跨性别平等的一种性别。 很多人不了解什么是双性人，这不奇怪，因为 ...",
+          "date": "2022年10月26日",
+          "position": 24
+        },
+        {
+          "title": "载人月球车进入初样研制阶段，两款并行 - 科学网",
+          "link": "https://news.sciencenet.cn/htmlnews/2024/10/532811.shtm",
+          "snippet": "神舟十九号载人飞行任务新闻发布会今天（10月29日）上午在酒泉卫星发射 ... 性和先进性上各具特色，都获得了月球车初样研制合同，并行开展研制 ...",
+          "date": "6天前",
+          "position": 25
+        },
+        {
+          "title": "培育新型消费突出首发经济——中国国际消费中心城市精品消费月前瞻",
+          "link": "https://www.gov.cn/zhengce/202411/content_6984482.htm",
+          "snippet": "国务院新闻办公室11月1日举行新闻 ... 一般这些产品和服务都具有时尚、新潮和高品质等特征，有效契合消费者多样性、高品质需求。",
+          "date": "2天前",
+          "position": 26
+        },
+        {
+          "title": "银川:两年内收购1万套保障性住房让近3万人\"有房住\" - 地方经济",
+          "link": "http://district.ce.cn/newarea/roll/202410/30/t20241030_39186101.shtml",
+          "snippet": "... 性住房需求，让更多人“住好房”。 这是记者从宁夏银川市10月28日召开的相关新闻发布会上了解到的消息。 最新出台的《银川市关于进一步促进房地产市场 ...",
+          "date": "5天前",
+          "position": 27
+        },
+        {
+          "title": "一府一中心同谋划让更多人在县城安居乐业 - 黄石住房公积金",
+          "link": "http://gjj.huangshi.gov.cn/xwdt/gzdt/gzdt_700/202411/t20241103_1163049.html",
+          "snippet": "会上，阳新办事处汇报了开展“双集中”工作以来主要指标完成情况及公积金政策在鼓励灵活就业人员、大中专毕业生和退伍军人建缴公积金、支持多孩家庭改善性 ...",
+          "date": "1天前",
+          "position": 28
+        },
+        {
+          "title": "第三次全国时间利用调查公报（第一号） - 国家统计局",
+          "link": "https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957217.html",
+          "snippet": "根据科学性、规范性、创新性原则，国家统计局充分总结前两次时间利用调查 ... 人；城镇6.4万人，农村4.3万人。调查对象首次增加6—14周岁年龄段 ...",
+          "date": "4天前",
+          "position": 29
+        },
+        {
+          "title": "同／異／雙性戀、扮裝者、變性人，他／她們都可以是跨性別- YouTube",
+          "link": "https://www.youtube.com/watch?v=EK0R7eb_4uc",
+          "snippet": "... ▷contact@thenewslens.com. 同／異／雙性戀、扮裝者、變性人，他／她們都 ...\n时长： 2:17\n发布时间： 2017年10月26日",
+          "date": "2017年10月26日",
+          "position": 30
+        },
+        {
+          "title": "精准规范开展突发事件应对检察公益诉讼 - 最高人民检察院",
+          "link": "https://www.spp.gov.cn/spp/llyj/202410/t20241031_670535.shtml",
+          "snippet": "... 性和规范性。 一是紧盯安全生产领域容易造成重大事故隐患或者导致重大 ... 国家在突发事件应对工作中，应当对未成年人、老年人、残疾人、孕产期 ...",
+          "date": "4天前",
+          "position": 31
+        },
+        {
+          "title": "成华区召开专题会议研究区域协同发展有关工作",
+          "link": "https://www.chenghua.gov.cn/chqrmzf/c145498/2024-10/31/content_a2b859bd0acd4f259cb8ecd24769536a.shtml",
+          "snippet": "首页 / 新闻中心 / 头条新闻. 成华区召开专题会议研究区域协同发展有关 ... 他强调，要坚决贯彻落实党中央、省委、市委相关决策部署，充分发挥“双 ...",
+          "date": "4天前",
+          "position": 32
+        },
+        {
+          "title": "【文汇APP】这场论坛上，中国、新加坡两国院士为何要给AI“泼冷水”？",
+          "link": "https://news.tongji.edu.cn/info/1006/88986.htm",
+          "snippet": "... 人遗憾的是， ... 会上，多位专家分析，看似强大的人工智能、大模型也存在消耗大、安全性、伦理方面的缺陷。",
+          "date": "3天前",
+          "position": 33
+        },
+        {
+          "title": "国家能源局2024年第四季度新闻发布会文字实录",
+          "link": "https://www.nea.gov.cn/2024-10/31/c_1310787069.htm",
+          "snippet": "我是综合司副司长、新闻发言人张星。各位司长发布内容之后，统一安排回答 ... 一、全国新型储能装机稳步增加，重点省份加速新型储能建设随着“双 ...",
+          "date": "4天前",
+          "position": 34
+        },
+        {
+          "title": "万开云同城化发展水网建设先导工程开工推动区域“卉”字型水网格局形成",
+          "link": "http://www.cq.gov.cn/ywdt/jrcq/202411/t20241104_13765581.html",
+          "snippet": "“万开云同城化发展现代水网工程是川渝东北水资源配置工程的重要节点，也是落实成渝地区双城经济圈建设国家战略的重要支撑。”市水利局相关负责人介绍 ...",
+          "date": "47分钟前",
+          "position": 35
+        },
+        {
+          "title": "图文直播：“知识产权助力新时代西部大开发”新闻发布会",
+          "link": "https://www.cnipa.gov.cn/col/col3450/index.html",
+          "snippet": "搭建粤港澳大湾区及成渝两地互动桥梁，举办成渝双城经济圈—粤港澳大 ... [国家知识产权局新闻发言人、办公室主任衡付广] 各位媒体朋友，大家下午 ...",
+          "date": "5天前",
+          "position": 36
+        },
+        {
+          "title": "2024年11月1日外交部发言人林剑主持例行记者会",
+          "link": "http://lk.china-embassy.gov.cn/fyrth/202411/t20241101_11519943.htm",
+          "snippet": "... 两台车，导致10名警察殉职。请问中方对此有何 ... 也希望欧方不要介入地区国家领土和海洋权益争端，为地区和平、稳定与发展发挥建设性作用。 澎湃新闻 ...",
+          "date": "2天前",
+          "position": 37
+        },
+        {
+          "title": "中国气象局党组2024年第二轮巡视完成进驻",
+          "link": "https://www.cma.gov.cn/2011xwzx/2011xqxxw/2011xqxyw/202411/t20241104_6672450.html",
+          "snippet": "... 新闻 视频新闻 图解 数读 · 政府信息公开 规章库 政策文件 政策解读 ... 人用人进人工作专项检查。 被巡视单位分别召开巡视进驻动员会。会前，各 ...",
+          "date": "18分钟前",
+          "position": 38
+        },
+        {
+          "title": "国防部新闻发言人就近期涉军问题答记者问 - 新华网",
+          "link": "http://www.news.cn/politics/20241101/56eb947bea6e4442a1d6b684a7d5b8b0/c.html",
+          "snippet": "请问发言人中越两军将如何进一步推进交往合作？ 张晓刚介绍，今年8月 ... 中央军委副主席张又侠出席会议，观摩示范课目演练和夜间实弹检验性演习，参加合成训练 ...",
+          "date": "3天前",
+          "position": 39
+        },
+        {
+          "title": "江苏省粮食和物资储备局江苏新闻江苏“双创计划”吸引两千余名英才带 ...",
+          "link": "https://lsj.jiangsu.gov.cn/art/2024/11/4/art_74732_11409965.html",
+          "snippet": "“评审中，无论是在苏人才还是省外人才，他们所展示项目的前瞻性、前沿性 ... 人兼首席技术官的南京安赛欧轨道交通科技有限公司不断突破技术难关 ...",
+          "date": "1小时前",
+          "position": 40
+        },
+        {
+          "title": "驻叙利亚大使史宏微拜会叙新任新闻部长齐亚德 - 外交部",
+          "link": "https://www.mfa.gov.cn/zwbd_673032/wshd_673034/202410/t20241031_11519173.shtml",
+          "snippet": "齐亚德表示，叙中关系历久弥新，两国元首历史性会晤是两国关系发展史的重要里程碑。叙政府和人民高度赞赏中国经济社会发展成就，叙方支持加强两国媒体 ...",
+          "date": "5天前",
+          "position": 41
+        },
+        {
+          "title": "守护平安｜大峪街道聚焦食品安全推进“两个责任”及包保工作落实",
+          "link": "https://www.bjmtg.gov.cn/mtg11J213/bmdt52/202411/d6e0ddc76181449cbc942f79c08ac896.shtml",
+          "snippet": "信息有效性：有效. 生成日期：2024 ... 积极开展各类食品安全宣传教育活动，筛选精准案例，通过以案警示、张贴海报、发放宣传资料等形式，准确针对老年人 ...",
+          "date": "2天前",
+          "position": 42
+        },
+        {
+          "title": "2024年10月国防部例行记者会文字实录",
+          "link": "http://www.mod.gov.cn/gfbw/qwfb/16348697.html",
+          "snippet": "发布人：国防部新闻发言人张晓刚大校. 10月31日下午，国防部举行例行记者 ... 请问发言人中越两军将如何进一步推进交往合作？ 张晓刚：今年8月 ...",
+          "date": "4天前",
+          "position": 43
+        },
+        {
+          "title": "国防部新闻发言人就近期涉军问题答记者问",
+          "link": "http://cn.chinadiplomacy.org.cn/2024-11/01/content_117520254.shtml",
+          "snippet": "请问发言人中越两军将如何进一步推进交往合作？ 张晓刚介绍，今年8月 ... 中央军委副主席张又侠出席会议，观摩示范课目演练和夜间实弹检验性演习，参加合成训练 ...",
+          "date": "3天前",
+          "position": 44
+        },
+        {
+          "title": "简阳：促进高质量充分就业筑牢人民群众幸福根基",
+          "link": "http://www.scjy.gov.cn/jianyang/c136305/2024-11/03/content_2b12754298034fdfbdd6c0c04d7cdaef.shtml",
+          "snippet": "简阳市零工市场不仅为求职者提供了便捷的求职途径，还为用工主体搭建了一个高效的招聘平台。 “在双十一期间，我们的用工量大涨，通过市人社局'简单就业'线上 ...",
+          "date": "16小时前",
+          "position": 45
+        },
+        {
+          "title": "欧洲头条丨欧盟对华电动车加征关税将沉重打击欧洲竞争力",
+          "link": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=6324002742964595541&toc_style_id=feeds_default&share_to=copy_url&track_id=2d93d9ff-38a8-4404-b7a8-dcde84d0d62d",
+          "snippet": "加征关税有百害而无一利，不管是对消费者还是市场相关方，在我们看来，这是误导性的保护主义行为。 ... 进博会新闻中心正式启用注册中外媒体记者近3800人. 11月 ...",
+          "date": "2天前",
+          "position": 46
+        },
+        {
+          "title": "历史性突破！两金两银两铜！首医学子首捧全国优胜杯",
+          "link": "https://news.ccmu.edu.cn/syyw_12977/314d9a9223e3481b8906209659c8cd69.htm",
+          "snippet": "自今年2月备赛以来，校党委高度重视挑战杯竞赛育人工作，相关职能部门 ... 版权所有首都医科大学党委宣传部新闻中心 地址：北京右安门外西头条10 ...",
+          "date": "10小时前",
+          "position": 47
+        },
+        {
+          "title": "省委常委会召开扩大会议许勤主持并讲话 - 黑龙江省政府",
+          "link": "https://www.hlj.gov.cn/hlj/c107856/202411/c00_31781863.shtml",
+          "snippet": "会议指出，习近平总书记在研讨班开班式上的重要讲话，立意高远、思想深邃、视野宏阔、内涵丰富，深刻总结新时代全面深化改革取得的历史性成就，深刻阐明进一步 ...",
+          "date": "1小时前",
+          "position": 48
+        },
+        {
+          "title": "【再走青藏线——传承弘扬“两路”精神】青藏公路的生命底色",
+          "link": "http://www.qinghai.gov.cn/zwgk/system/2024/11/03/030057252.shtml",
+          "snippet": "新闻动态 · 国家政策信息 | 青海要闻 | 通知公告 | 部门动态 | 地区 ... 生活在这座戈壁城市，格尔木人深知绿水青山对永续发展的重要性。这些年来 ...",
+          "date": "1天前",
+          "position": 49
+        },
+        {
+          "title": "供需两侧发力，房地产金融政策落地见效 - 上观新闻",
+          "link": "https://www.jfdaily.com/news/detail?id=813602",
+          "snippet": "中国工商银行南京分行消费信贷部相关负责人说，落实存量房贷利率调整相关政策，该行将符合条件的首套、二套存量商业性个人住房贷款进行了统一批量利率调整， ...",
+          "date": "3天前",
+          "position": 50
+        },
+        {
+          "title": "乌克兰正遭受俄罗斯两年来最猛烈的攻击 - 半岛电视台",
+          "link": "https://chinese.aljazeera.net/news/2024/11/3/%E4%B9%8C%E5%85%8B%E5%85%B0%E6%AD%A3%E9%81%AD%E5%8F%97%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%A4%E5%B9%B4%E6%9D%A5%E6%9C%80%E7%8C%9B%E7%83%88%E7%9A%84%E6%94%BB%E5%87%BB",
+          "snippet": "... ，它正在遭受自俄罗斯入侵该国以来最强烈的俄罗斯袭击之一，俄罗斯则宣布回应乌克兰无人 ... 性无人机袭击和炮击，试图转移人们对去年6月 ...",
+          "date": "10小时前",
+          "position": 51
+        },
+        {
+          "title": "就近期涉军问题国防部新闻发言人答记者问",
+          "link": "http://www.81.cn/yw_208727/16348780.html",
+          "snippet": "中央军委副主席张又侠出席会议，观摩示范课目演练和夜间实弹检验性演习，参加合成训练交流总结并讲话。 ... 我们希望印方与中方相向而行，以两国领导人重要共识 ...",
+          "date": "3天前",
+          "position": 52
+        },
+        {
+          "title": "向绿而行：多部法律草案回应社会热点话题 - 科技日报",
+          "link": "https://www.stdaily.com/web/gdxw/2024-11/03/content_252437.html",
+          "snippet": "记者会上，全国人大常委会法制工作委员会发言人黄海华回应立法热点问题。 ... 性地质调查工作作出专门规定；完善矿业用地制度，增加规定编制国土空间 ...",
+          "date": "13小时前",
+          "position": 53
+        },
+        {
+          "title": "Broadcom® 5720 尔双端口1GbE BASE-T 适配器, PCIe 全高 ... - Dell",
+          "link": "https://www.dell.com/zh-cn/shop/broadcom-5720-%E5%B0%94%E5%8F%8C%E7%AB%AF%E5%8F%A3-1gbe-base-t-%E9%80%82%E9%85%8D%E5%99%A8-pcie-%E5%85%A8%E9%AB%98-v2-firmware-restrictions-apply/apd/540-bdht/%E7%BD%91%E7%BB%9C%E8%AE%BE%E5%A4%87",
+          "snippet": "新闻编辑室 · 回收 · ESG 及影响 · 客户案例. 我们的合作伙伴 我们的合作伙伴. 查找 ... 性和市场行情波动，品牌专柜标价、商品吊牌价、正品零售价等可能会与您在上述渠道 ...",
+          "currency": "¥",
+          "price": 363,
+          "position": 54
+        },
+        {
+          "title": "存量增量政策叠加发力中国经济韧性强潜力足 - 清华大学",
+          "link": "https://www.tsinghua.edu.cn/info/1182/114918.htm",
+          "snippet": "在同日国务院新闻办新闻发布会上，国家发展改革委主任郑栅洁在介绍 ... 药学院杜娟娟课题组提出“双表位交联策略”构建离子通道功能性抗体 · 10.30.",
+          "date": "3天前",
+          "position": 55
+        },
+        {
+          "title": "都市时报2024-11-03 云师大实施“151战略行动计划” 助力云南基础 ...",
+          "link": "https://www.ynnu.edu.cn/info/1102/31529.htm",
+          "snippet": "... ，云南师范大学在充分发挥学校教师教育的主责和基础教育资源优势的基础上，创新性 ... 双教协同”发展战略为引领。高等师范教...",
+          "date": "9小时前",
+          "position": 56
+        },
+        {
+          "title": "公评世界/美国大选的终局演变成为性别大战\\周德武 - 大公网",
+          "link": "https://www.takungpao.com/news/232111/2024/1104/1027567.html",
+          "snippet": "在接下来的两天时间里，两党候选人将全力争取独立派选民或本党“惰性”选民出来投票，以拉抬选情。 对于哈里斯来说，好消息之一是，联邦最高法院裁定宾夕法尼亚 ...",
+          "date": "3小时前",
+          "position": 57
+        },
+        {
+          "title": "国务院10月重要政策 - 中国政府网",
+          "link": "https://www.gov.cn/yaowen/liebiao/202410/content_6984076.htm",
+          "snippet": "事关房地产市场，多部门最新发声！ 允许专项债券用于土地储备、用好专项债券收购存量商品房用作保障性住房. 财政部有关负责人在10月12日国新办新闻发布 ...",
+          "date": "4天前",
+          "position": 58
+        },
+        {
+          "title": "市民们都买了什么消费理念有何变化“双十一”成为消费热点“放大镜”",
+          "link": "https://www.wxrb.com/doc/2024/11/04/373224.shtml",
+          "snippet": "他们更加注重商品的实用性和性价比，不再盲目跟风购买网红产品。以女装为 ... 家长们要加强对未成年人使用这项功能的监管。 最后，“双十一”期间 ...",
+          "date": "1小时前",
+          "position": 59
+        },
+        {
+          "title": "云南昆明五华区：实质性化解六年行政争议，助唐氏儿成功落户",
+          "link": "https://www.spp.gov.cn/spp/zdgz/202411/t20241102_670771.shtml",
+          "snippet": "检察新闻 · 最高检新闻 · 权威发布 · 新闻发布会 · 网上发布厅 · 直播访谈 · 视频 ... 经过与李茂商量，两人决定以父母身份收养这个孩子，并为其取名为李时 ...",
+          "date": "2天前",
+          "position": 60
+        },
+        {
+          "title": "如果文物会说话｜相隔400年的两幅《清明上河图》有这样的渊源",
+          "link": "http://www.news.cn/politics/20241102/e6a555e75c40433e9c9a202543141642/c.html",
+          "snippet": "... 人并不多. 更多的人是通过书籍记录的方式来了解张择端的《清明上河图》 ... 在大致结构上有着共通性. 在细节上则反映了不同的地域特征. 两幅画虽然 ...",
+          "date": "2天前",
+          "position": 61
+        },
+        {
+          "title": "江苏教育教育要闻省教育厅举行“教育强国建设江苏在行动”（泰州专场 ...",
+          "link": "https://jyt.jiangsu.gov.cn/art/2024/11/1/art_57807_11408553.html",
+          "snippet": "泰州市委教育工委书记、教育局局长万永良作综合发布，省教育厅办公室（新闻宣传办公室）负责人主持发布会。 ... 海陵区实施“双减”背景下育人方式转型 ...",
+          "date": "3天前",
+          "position": 62
+        },
+        {
+          "title": "2024年花滑法国大奖赛：萧传文强势反击 - Olympics",
+          "link": "https://olympics.com/zh/news/grand-prix-de-france-2024-angers-figure-skating-men-free-results-siao-him-fa-retains",
+          "snippet": "... 两届欧洲冠军得主凭借在自由滑比赛中的精彩表演完成了短节目后从第八到第一的反超，实现了历史性 ... 人滑冠军。而他第八到第一的逆转也 ...",
+          "date": "1天前",
+          "position": 63
+        },
+        {
+          "title": "“建设美丽重庆区县在行动”系列主题新闻发布会（第二场）",
+          "link": "https://sthjj.cq.gov.cn/zwgk_249/xwfb_67131/202410/t20241031_13757812_wap.html",
+          "snippet": "建设水位调节坝，湖内水位常年保持在170.28～175米之间，消落区水位变幅由35米降至4.72米，发挥“湖在城中、城在山中、人 ... 双城经济圈建设标志性成果。 接下来 ...",
+          "date": "4天前",
+          "position": 64
+        },
+        {
+          "title": "【澎湃APP】让脊梁不再怕受伤 - 同济大学新闻网",
+          "link": "https://news.tongji.edu.cn/info/1006/88969.htm",
+          "snippet": "他们通过医工交叉，改良了促进修复的材料，并开展了国家卫健委批准的唯一一项人源性神经干细胞移植治疗脊髓损伤的临床研究。 ... 双氢氧化物（LDH）纳米材料—— ...",
+          "date": "4天前",
+          "position": 65
+        },
+        {
+          "title": "美国大选倒计时：两位“美国拯救者”关键州的激烈交锋 - RFI",
+          "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20241103-%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89%E5%80%92%E8%AE%A1%E6%97%B6-%E4%B8%A4%E4%BD%8D-%E7%BE%8E%E5%9B%BD%E6%8B%AF%E6%95%91%E8%80%85-%E5%85%B3%E9%94%AE%E5%B7%9E%E7%9A%84%E6%BF%80%E7%83%88%E4%BA%A4%E9%94%8B",
+          "snippet": "选情让整个国家紧张不安，言语暴力、媒体争议充斥，不少人担心在11月5日大选结果公布后可能出现暴力冲突。共和党阵营已开始对选举公正性提出质疑，指控可能 ...",
+          "date": "12小时前",
+          "position": 66
+        },
+        {
+          "title": "【坚定信心勇挑大梁】改革新成效④“双盲”评审有效提升我省招投标 ...",
+          "link": "http://www.xiongan.gov.cn/2024-11/02/c_1212406458.htm",
+          "snippet": "不管是对招标人，还是对咱们投标人是吧，对评审的专家，都做到了公平公正。 只要实力突出，就能胜出，感受到公平公正的不只是招标方，还有中标方。在邢台，一家 ...",
+          "date": "2天前",
+          "position": 67
+        },
+        {
+          "title": "“正面保质期4天， 背面1年”！山姆超市卤水现“阴阳标签”，监管部门",
+          "link": "https://m.163.com/v/video/VEF23PK1A.html",
+          "snippet": "山姆超市卤水现“阴阳标签”，监管部门：全部下架整改！ 大象 ... 湖南罕见双性人，上半身女性下半身男性，被男人求婚该如何 · 三清山抬狗 ...",
+          "date": "2天前",
+          "position": 68
+        },
+        {
+          "title": "保护女同性恋、男同性恋、双性恋、变性人、间性人和酷儿(LGBTIQ+)",
+          "link": "https://emergency.unhcr.org/zh-hans/protection/%E5%A4%84%E5%A2%83%E5%8D%B1%E9%99%A9%E7%9A%84%E4%BA%BA/%E4%BF%9D%E6%8A%A4%E5%A5%B3%E5%90%8C%E6%80%A7%E6%81%8B%E3%80%81%E7%94%B7%E5%90%8C%E6%80%A7%E6%81%8B%E3%80%81%E5%8F%8C%E6%80%A7%E6%81%8B%E3%80%81%E5%8F%98%E6%80%A7%E4%BA%BA%E3%80%81%E9%97%B4%E6%80%A7%E4%BA%BA%E5%92%8C%E9%85%B7%E5%84%BFlgbtiq",
+          "snippet": "性取向：每个人对某一性别或多个性别的人产生情感和性吸引并与其发生亲密关系的能力。它包括异性恋、同性恋、双性恋、泛性恋和无性恋以及一系列其他性取向 ...",
+          "date": "2024年1月29日",
+          "position": 69
+        },
+        {
+          "title": "华盛顿新开一家同性、双性及变性无家可归者收容所 - YouTube",
+          "link": "https://www.youtube.com/watch?v=8AXDySQ2xW8",
+          "snippet": "美国首都华盛顿新开张了一家专门为同性恋、双性恋和变性年轻人服务的无家可归者收容所。这家 ...\n时长： 2:51\n发布时间： 2015年5月5日",
+          "date": "2015年5月5日",
+          "position": 70
+        },
+        {
+          "title": "美国大选“月月惊奇”，美国民众“步步惊心” - 新华日报",
+          "link": "https://www.xhby.net/content/s672707e3e4b019ce565a4196.html",
+          "snippet": "... 人“不具合法性”。 对于双方阵营激烈的相互攻击，美国媒体和专家认为，哈里斯和特朗普将展开一场持续到最后的“缠斗”，而两人间的斗争是这个国家分裂的缩影。",
+          "date": "19小时前",
+          "position": 71
+        },
+        {
+          "title": "李希对意大利进行正式友好访问 - 科技日报",
+          "link": "https://www.stdaily.com/web/2024-11/02/content_252280.html",
+          "snippet": "双方要落实好两国领导人达成的重要共识，推动构建更加成熟稳定、更加富有 ... 希望意方以开放态度从长远角度看待中欧经贸关系，为中欧协商谈判发挥建设性作用 ...",
+          "date": "1天前",
+          "position": 72
+        },
+        {
+          "title": "Intel® E810 双端口100GbE QSFP28 适配器, PCIe 低调 ... - Dell",
+          "link": "https://www.dell.com/zh-cn/shop/intel-e810-%E5%8F%8C%E7%AB%AF%E5%8F%A3-100gbe-qsfp28-%E9%80%82%E9%85%8D%E5%99%A8-pcie-%E4%BD%8E%E8%B0%83-100gbe-%E6%9C%80%E5%A4%A7%E5%B8%A6%E5%AE%BD/apd/540-bdds/%E7%BD%91%E7%BB%9C%E8%AE%BE%E5%A4%87",
+          "snippet": "兼容性. 此产品与以下系统兼容：. PowerEdge C6520; PowerEdge C6525; PowerEdge C6620; PowerEdge HS5610; PowerEdge HS5620; PowerEdge R640; PowerEdge R650; PowerEdge ...",
+          "currency": "¥",
+          "price": 5366,
+          "position": 73
+        },
+        {
+          "title": "台风“康妮”继续影响东南沿海两部门持续调度部署相关地区落实落细各 ...",
+          "link": "https://news.cctv.com/2024/11/01/ARTIpbgzbLhnVyvVdFuBy1KL241101.shtml",
+          "snippet": "新闻频道 > 中国新闻. 台风“康妮”继续影响东南沿海两部门持续调度 ... 要高度警惕山洪地质灾害的突发性、滞后性，落实临灾预警“叫应”机制，压实 ...",
+          "date": "3天前",
+          "position": 74
+        },
+        {
+          "title": "我身體裡的「他」和「她」－台灣雙性人・貓哥  詹婉如《專題採訪》",
+          "link": "https://www.youtube.com/watch?v=cETMe-lrtEo",
+          "snippet": "我身體裡的「他」和「她」－台灣雙性人貓哥採訪製作：詹婉如活了大半生後，才知道自己不是男人，是什麼 ...\n时长： 2:05\n发布时间： 2017年10月25日",
+          "date": "2017年10月25日",
+          "position": 75
+        },
+        {
+          "title": "雙性相關新聞報導、懶人包 - ETtoday",
+          "link": "https://www.ettoday.net/news/tag/%E9%9B%99%E6%80%A7/",
+          "snippet": "雙性 ; 吃「轉胎丸」女變男嬰長大後「父母又驚又悔」. 2020年12月7日17:27 ; 一直被當男孩養大！ 18歲男意外發現「擁有子宮」如今懷孕4個月. 2020年11月18日14:52 ; 影／男子肚 ...",
+          "position": 76
+        },
+        {
+          "title": "双性人易慧民现状-抖音",
+          "link": "https://www.douyin.com/zhuanti/7428765516413749288",
+          "snippet": "您在查找“双性人易慧民现状”吗？抖音短视频，帮你找到更多更精彩视频内容！让每一个人看见并连接更大的世界，让现实生活更美好。",
+          "date": "2024年10月22日",
+          "position": 77
+        },
+        {
+          "title": "《香港態度》細細老師｜雙性人不是變性人 - YouTube",
+          "link": "https://www.youtube.com/watch?v=2Rk6fz2X5PM",
+          "snippet": "... 雙性人更經常被錯誤歸類為變性人。今集《香港態度》，本地雙性人平權先鋒細細老師，勇敢地為大 ...\n时长： 4:55\n发布时间： 2019年1月16日",
+          "date": "2019年1月16日",
+          "position": 78
+        },
+        {
+          "title": "[PDF] 双性恋",
+          "link": "https://www.unfe.org/sites/default/files/download/Bisexuality%20factsheet%202023%2C%20CH.pdf",
+          "snippet": "任何性取向的人，包括男同性恋者. 和女同性恋者，都可能助长双性恋. 恐惧症。 双性恋者也可能遭受恐同或恐同暴. 力。 联合国自由和平等 ...",
+          "position": 79
+        },
+        {
+          "title": "生理性別：（二）雙性人&性發展障礙（DSD） - YouTube",
+          "link": "https://www.youtube.com/watch?v=8ehkG85jjus",
+          "snippet": "... 性染色體4:05 性腺4:52 內生殖管道6:52 荷爾蒙8:17 外生殖器官8：17 醫生怎樣決定我 ...\n时长： 14:01\n发布时间： 2019年12月9日",
+          "date": "2019年12月9日",
+          "position": 80
+        },
+        {
+          "title": "台灣邁出亞洲第一步雙性人官方檢討報告將出爐 - 民報",
+          "link": "https://www.peoplemedia.tw/news/e80d88c6-fac6-4874-b953-5555955af5d1",
+          "snippet": "在父母的期盼下，1965年，醫院產房內發出宏亮的哭聲，台灣和香港各有一名可愛的嬰孩兒誕生，只是萬萬没想到，這2個孩子和多數人不同，他們是「雙性人」（Intersex ...",
+          "date": "2018年8月12日",
+          "position": 81
+        },
+        {
+          "title": "各國罕見雙性人！上半身女性下半身男性，卻過得比誰都好？",
+          "link": "https://www.youtube.com/watch?v=83W_AAWcu0s",
+          "snippet": "全世界最漂亮的小孩，擁有傾國傾城的美貌，卻無法像正常人一樣生活https://www.youtube.com/watch ...\n时长： 19:27\n发布时间： 2024年5月14日",
+          "date": "2024年5月14日",
+          "position": 82
+        },
+        {
+          "title": "双性人最新新闻-アンドロジナス-苇原旭-最新章节第6话",
+          "link": "https://www.costcoshop.net/costcocw/748887.html",
+          "snippet": "双性人最新新闻苇原旭完结. 日漫 19r 双性 执著攻 健气受 年龄差 体型差 雌雄同体. 只要能与你并肩. 章节列表2024-08-22 16:03:08 倒序.",
+          "position": 83
+        },
+        {
+          "title": "双性人其实不止是大家认知的那一种#双性人#雌雄同体#科普- 抖音",
+          "link": "https://www.douyin.com/video/7042978856994753830",
+          "snippet": "双性人其实不止是大家认知的那一种#双性人#雌雄同体#科普- 南千代于20211218发布 ...\n时长： 1:45\n发布时间： 2022年5月6日",
+          "date": "2022年5月6日",
+          "position": 84
+        },
+        {
+          "title": "流亡瑞士的中国跨性别人士：中国性少数群体生存状况堪忧 - YouTube",
+          "link": "https://www.youtube.com/watch?v=Up3raJ7ILro",
+          "snippet": "... 。由于长时间面临着不同形式的歧视、威胁和暴力对待，她患上了双相情感障碍，并且出现了严重的自 ...\n时长： 3:11\n发布时间： 2023年7月16日",
+          "date": "2023年7月16日",
+          "position": 85
+        },
+        {
+          "title": "告诉双性人",
+          "link": "https://www.seksediversiteit.nl/zh-CN/basis/vertellen/",
+          "snippet": "双性人谈论双性人谈论双性人意味着什么很重要。只有这样，其他人才会明白当人们因性别特征而被社会排斥时意味着什么。只有这样社会才会放慢脚步.",
+          "date": "2024年1月16日",
+          "position": 86
+        },
+        {
+          "title": "美国驻华使领馆US MissionCN on X: \"值此反对仇视同性恋、变性者与 ...",
+          "link": "https://twitter.com/USA_China_Talk/status/1792503033009725733",
+          "snippet": "值此反对仇视同性恋、变性者与双性恋国际日，本届政府与世界各地寻求充分活出自我的男女同性恋、双性恋、跨性别者、酷儿及间性人等（LGBTQI+）人士团结 ...",
+          "date": "2024年5月20日",
+          "position": 87
+        },
+        {
+          "title": "我是雌雄同体珍珍，大家看完视频就了解更多的我 - 抖音",
+          "link": "https://www.douyin.com/video/7373965764006661430",
+          "snippet": "我是雌雄同体珍珍，大家看完视频就了解更多的我- 双性人珍珍于20240528发布在抖音，已经收 ...\n时长： 1:50\n发布时间： 2024年8月4日",
+          "date": "2024年8月4日",
+          "position": 88
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

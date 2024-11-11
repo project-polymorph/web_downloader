@@ -1,0 +1,1545 @@
+{
+  "query": "跨性别 青少年 教育",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-03T23:49:26.270922",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "跨性别 青少年 教育",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "中国跨性别者受教育权实现状况及法律对策",
+          "link": "https://www.jianpincn.com/skwx_jp/LiteratureDetail.aspx?ID=795553",
+          "snippet": "跨性别者，尤其是跨性别儿童和青少年，是一个非常复杂且容易被边缘化又最容易受到歧视的群体。他们在受教育权享有上的脆弱性和具体需求应该被仔细评估和有针对性地提供 ...",
+          "position": 1
+        },
+        {
+          "title": "跨性别或性别多元化儿童和青少年的管理- UpToDate",
+          "link": "https://www.uptodate.com/contents/zh-Hans/management-of-transgender-and-gender-diverse-children-and-adolescents",
+          "snippet": "随着为TGD孩子提供治疗的多学科中心增多，指导儿童和青少年性别多元化管理的证据也在积累[1-4]。这些信息补充了相关经验，从而不再局限于接受性别确认手术 ...",
+          "date": "2024年9月3日",
+          "position": 2
+        },
+        {
+          "title": "[PDF] LGBTIQ+青少年: 学校中的欺凌与暴力",
+          "link": "https://www.unfe.org/sites/default/files/download/Bullying%20factsheet%202023%2C%20CH.pdf",
+          "snippet": "一项关于LGBTIQ+. 青少年的包容性教育和卫生保健的全球. 调查发现，超过33% 的跨性别女孩和. 30% 的跨性别男孩因为这些问题而考. 虑离开学校。来自萨尔瓦多的一项研究.",
+          "position": 3
+        },
+        {
+          "title": "[PDF] 性别变异和跨性别青少年父母和家人的疑问解答 - VSB BLOGS",
+          "link": "https://blogs.vsb.bc.ca/pride/files/2016/04/Q-A-booklet.pdf",
+          "snippet": "每个孩子和青少年都需要健康的自我形象。要我们的. 孩子和青少年健康快乐地成长，他们需要感到安全，. 得到支持，并且可以表现真我。这对于跨性别的孩子.",
+          "position": 4
+        },
+        {
+          "title": "在跨性别青少年门诊，目睹中国家庭的撕裂 - QQ News",
+          "link": "https://news.qq.com/rain/a/20230114A06MUS00?no-redirect=1",
+          "snippet": "不同人对跨性别门诊的印象，大致是两个极端。有人将这里当成精神世界的避风港，残酷生活的逃难所，有人将这里视为蛊惑、毒害青少年的窝点，以及一群 ...",
+          "date": "2023年1月14日",
+          "position": 5
+        },
+        {
+          "title": "[PDF] 我的跨性别孩子- ——父母手册（上册）",
+          "link": "https://cnlgbtdata.com/files/uploads/2020/04/%E6%88%91%E7%9A%84%E8%B7%A8%E6%80%A7%E5%88%AB%E5%AD%A9%E5%AD%90%E7%88%B6%E6%AF%8D%E6%89%8B%E5%86%8C%E4%B8%8A%E5%86%8C.pdf",
+          "snippet": "性别认同作为一种心理状态，教育水平、所处的社会环境、所处的文化环境、所. 处的历史环境等等诸多后天因素都可能对性别认同产生影响，但这种影响是复杂. 而且非人力可以 ...",
+          "position": 6
+        },
+        {
+          "title": "跨性别人群生存困境调查：多数人有遭受校园暴力经历 - 新闻频道",
+          "link": "http://news.cctv.com/2020/02/22/ARTIJ5mYNQzX05v1IZiDuRoN200222.shtml",
+          "snippet": "由于国内缺乏性教育，处于青少年的跨性别者在初期会很迷惑，得不到专业的帮助和解答，有些通过网络找到相关社群的，才能够得到律师、医生和有经验的跨性别 ...",
+          "date": "2020年2月22日",
+          "position": 7
+        },
+        {
+          "title": "中国推动教育改革让男孩更有“阳刚之气” - BBC News 中文",
+          "link": "https://www.bbc.com/zhongwen/simp/chinese-news-55946503",
+          "snippet": "中国教育部近日在一份文件中称，为了防止中国男性青少年变得“女性化”，将改革学校的体育教育，更多注重学生“阳刚之气”培养。",
+          "date": "2021年2月8日",
+          "position": 8
+        },
+        {
+          "title": "LGBTQ+政策: 我们该如何做青少年群体事工? - 九标志",
+          "link": "https://cn.9marks.org/article/lgbtq-policies-what-do-we-do-about-youth-group",
+          "snippet": "大多数美国人都熟悉1972年《教育修正案》的第九条。这些是插入先前立法中的法规，用以扩大对学生基于性别的保护。目标是保护女生的权益。这条法律规定 ...",
+          "date": "2023年3月16日",
+          "position": 9
+        },
+        {
+          "title": "超越二元：为跨性别青少年提供安全的学校- 国家女同性恋权利中心",
+          "link": "https://zh-cn.nclrights.org/get-help/resource/beyond-the-binary-making-schools-safe-for-transgender-youth-2/",
+          "snippet": "超越二元：让跨性别青少年的学校安全. 青年 > 跨性别青年 · 青年 > 教育. 目的. 青年; 变性人/变性人; 父母/潜在父母; 倡导者. 由NCLR 创建， 同性恋异性恋联盟网络，并 跨 ...",
+          "position": 10
+        },
+        {
+          "title": "加州“全面性教育法” 为何惹怒家长？ - 美国之音",
+          "link": "https://www.voachinese.com/a/ca-sex-educatino-law-20190829/5060857.html",
+          "snippet": "这是教育孩子，性别是相通的，是可互 ... 性别混乱的儿童或者青少年，症状最终都自然消失了。 ... 联合国权利专家敦促各国保护、接纳跨性别者 · VOA ...",
+          "date": "2019年8月29日",
+          "position": 11
+        },
+        {
+          "title": "让华人家长恐慌的新西兰性教育，到底教什么？ - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_3065228",
+          "snippet": "请愿书要求新西兰众议院敦促教育部删除性教育中关于多元性别 ... 这些评论往往混淆了“跨性别”（一个关于性别认同 ... 自我认同为同性恋或双性恋的青少年常常 ...",
+          "date": "2019年3月5日",
+          "position": 12
+        },
+        {
+          "title": "LGBTIQ+青少年：学校中的欺凌与暴力 - UN Free & Equal",
+          "link": "https://www.unfe.org/zh/know-the-facts/challenges-solutions/lgbtiq-youth-bullying-and-violence-at-school",
+          "snippet": "每个人——包括儿童和青少年——都有接受教育的权利。这包括安全和包容的学校环境。校园欺凌和其他形式的暴力侵犯了世界各地的女同性恋、男同性恋、双性恋、跨性别者、间性 ...",
+          "position": 13
+        },
+        {
+          "title": "帮助学校保障跨性别学生的民权 - StopBullying.gov",
+          "link": "https://zh.stopbullying.gov/blog/2016/06/29/helping-schools-ensure-civil-rights-transgender-students",
+          "snippet": "帮助学校保障跨性别学生的民权. 2016年6月29日 作者：Catherine E. Lahmon，美国教育部公民权利助理部长，以及Vanita Gupta，美国司法部民权司司长，首席副助理部长.",
+          "position": 14
+        },
+        {
+          "title": "我们有什么顾虑，如果我们有跨性别的孩子？",
+          "link": "https://www.kamolhospital.com/zh/blog/1502/what-are-our-concerns-if-we-have-transgender-children",
+          "snippet": "教育自己: 学习关于跨性别身份、经历和问题的知识 ... 考虑寻求心理健康专业人士、儿科医生或专门支持跨性别青少年的支持团体的指导。 ... 支持跨性别的孩子可能具有挑战性 ...",
+          "position": 15
+        },
+        {
+          "title": "直面事实：开展全面性教育的理由",
+          "link": "https://unesdoc.unesco.org/ark:/48223/pf0000368231_chi",
+          "snippet": "以学校为基础的全面性教育还降低了低龄青少年性交 ... 跨性别和间性青少年被边缘化（Santelli 等，2017 ... 不仅仅是关于性：全面性教育有助于实现性别平等尽管 ...",
+          "position": 16
+        },
+        {
+          "title": "[PDF] 跨性別和性別多樣化青少年父母和照顧者的",
+          "link": "https://media.vsb.bc.ca/docs/6f758317-71e8-4b00-a299-f683816449a7_T56778Chinese%20Traditional_Q%26A%20Trans%20Booklet%20English%202017_Web.pdf.pdf",
+          "snippet": "想知多點有關如何支持. 您的女同性戀、男同性戀或雙性戀孩子，請參看資源部分。 Page 3. 溫哥華教育局：跨性別和性別多樣化青少年父母和照顧者的疑問 ...",
+          "position": 17
+        },
+        {
+          "title": "跨性别人群生存困境调查：多数人有遭受校园暴力经历 - 江西",
+          "link": "http://jx.people.com.cn/n2/2020/0222/c186330-33818908.html",
+          "snippet": "... 性别，主要包括跨性别男性、跨性别女性和性别酷儿. 跨性别人群所 ... 由于国内缺乏性教育，处于青少年的跨性别者在初期会很迷惑，得不到专业的 ...",
+          "date": "2020年2月22日",
+          "position": 18
+        },
+        {
+          "title": "跨性别或性别多元化儿童和青少年的管理- UpToDate",
+          "link": "https://www.uptodate.com/contents/zh-Hans/management-of-transgender-and-gender-diverse-children-and-adolescents/print",
+          "snippet": "... 跨性别或性别多元化儿童和青少年的管理. Authors ... 性别。大多数儿童的指派性别与性别认同一致 ... 本专题旨在使初级保健医护人员能够为TGD孩子及其家庭提供教育 ...",
+          "position": 19
+        },
+        {
+          "title": "探索LGBTQ+青少年对学校性教育的经历和反应 - 美国中文网",
+          "link": "https://www.sinovision.net/home/space/do/blog/uid/83465/id/427137.html",
+          "snippet": "... 性恋、跨性别、质疑、双性人、双灵（two spirit）[1]和酷儿(LGBTQ+) 青年接受学校性教育(SBSE) 的经历，并记录LGBTQ+ 青年的策略正在用于解决他们在 ...",
+          "date": "2022年1月13日",
+          "position": 20
+        },
+        {
+          "title": "变性从娃娃抓起？欧美的“性别教育”，让人细思极恐 - 网易",
+          "link": "https://www.163.com/dy/article/HB3SGAKQ0512856T.html",
+          "snippet": "自2017年以来，认定自己为跨性别者的美国青少年（13-24岁）数量，翻了一番； 2009—2019年期间，在接受变性治疗的英国青少年中，生物学女性增加了4400%， ...",
+          "date": "2022年6月30日",
+          "position": 21
+        },
+        {
+          "title": "[PDF] 为儿童和青少年保留选择权 - Translated government of Alberta news",
+          "link": "https://www.alberta.ca/system/files/news-preserving-choice-for-children-and-youth-20240201-langsc.pdf",
+          "snippet": "对阿省跨性别人士的医疗保健支持至关重要，鉴于此，省政府正在努力将专门为成人提供术前和. 术后跨性别护理的医疗专业人员引进阿尔伯塔省。在省内拥有这种 ...",
+          "date": "2024年2月1日",
+          "position": 22
+        },
+        {
+          "title": "跨性别青少年健康福祉：图画小说《Breathe》的重要性 - 续航教育",
+          "link": "https://www.forwardpathway.com/125075",
+          "snippet": "跨性别青少年健康福祉：图画小说《Breathe》的重要性- 美国留学领军品牌美国续航教育提供最权威的美国大学申请、美国大学转学、美国高中申请、美国 ...",
+          "date": "2024年9月18日",
+          "position": 23
+        },
+        {
+          "title": "妙佑医疗国际- 跨性别和性别多样化青少年使用的青春期阻滞剂",
+          "link": "https://www.mayoclinic.org/zh-hans/diseases-conditions/gender-dysphoria/in-depth/pubertal-blockers/art-20459075",
+          "snippet": "性别认同是一种认为自己是男性、女性、二者都不是或二者某些组合的内在感受。性别焦虑是指因性别认同与出生指定性别或身体性别特征不同而感到困扰。一些跨 ...",
+          "date": "2023年9月9日",
+          "position": 24
+        },
+        {
+          "title": "要送孩子出国，最好先了解下国外开放的性别教育 - 搜狐",
+          "link": "https://www.sohu.com/a/273149067_220095",
+          "snippet": "有统计显示，过去12个月中，同性恋和双性恋青少年有过自杀尝试的是异性恋青少年的7倍（28％对4％）。 研究表明，以多性别认同理念（SOGI）制定的反 ...",
+          "date": "2018年11月4日",
+          "position": 25
+        },
+        {
+          "title": "王恒| 吾栖之肤：跨性别者的性别认同与具身实践——基于在北京市 ...",
+          "link": "http://www.shehui.pku.edu.cn/wap/second/index.aspx?nodeid=2030&page=ContentPage&contentid=10195",
+          "snippet": "因此，本文以进入高校并接受精英教育的自我认同为跨 ... 跨性别者的跨性别身份无法被察觉。大多数访谈对象 ... 银狐为自己无法在性别焦虑严重的青少年时期获得就诊 ...",
+          "position": 26
+        },
+        {
+          "title": "“变性手术后后悔”上热搜：恐跨迷思之外，看到跨性别青少年现实境遇",
+          "link": "https://www.tycommonlanguage.com/post/%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF%E5%90%8E%E5%90%8E%E6%82%94-%E4%B8%8A%E7%83%AD%E6%90%9C%EF%BC%9A%E6%81%90%E8%B7%A8%E8%BF%B7%E6%80%9D%E4%B9%8B%E5%A4%96%EF%BC%8C%E7%9C%8B%E5%88%B0%E8%B7%A8%E6%80%A7%E5%88%AB%E9%9D%92%E5%B0%91%E5%B9%B4%E7%8E%B0%E5%AE%9E%E5%A2%83%E9%81%87",
+          "snippet": "... 青少年接受全面性教育、反对性别肯定医疗服务，但却忽视了跨性别群体的真实困境。 佛罗里达州作为恐同恐跨急先锋（此前，佛州还通过《亲子教育权利 ...",
+          "date": "2022年7月12日",
+          "position": 27
+        },
+        {
+          "title": "[PDF] 的生活与权益未成年人中国多元性别 - 文件资料索引库",
+          "link": "https://cnlgbtdata.com/files/uploads/2022/03/%E4%B8%AD%E5%9B%BD%E5%A4%9A%E5%85%83%E6%80%A7%E5%88%AB%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B4%BB%E4%B8%8E%E6%9D%83%E7%9B%8A%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf",
+          "snippet": "表39 媒体上的性少数可见度. 88. 表40 媒体上的性少数形象呈现效果. 88. 图1 父母对跨性别青少年跨性别身份接受程度. 27. 图2 校园暴力与欺凌的受教育阶段分布. 33. 图3 ...",
+          "position": 28
+        },
+        {
+          "title": "守护成长·重视儿童青少年性教育丨青少年需要掌握这些正确的“性认知”",
+          "link": "https://m.voc.com.cn/xhn/news/202307/18387045.html",
+          "snippet": "心理性别又叫性别认同，是主观个体上认为自己属于哪种性别。心理性别与生理性别一致称为顺性别，不一致则称为跨性别。 顺性别、 ...",
+          "date": "2023年7月24日",
+          "position": 29
+        },
+        {
+          "title": "复旦儿科开设国内首个跨性别儿童与青少年多学科门诊",
+          "link": "https://ch.shmu.edu.cn/news/content/pid/13742.html",
+          "snippet": "近日，国家儿童医学中心、复旦大学附属儿科医院开设跨性别多学科门诊，旨在通过多学科专家的专业评估、诊断及干预，减少特殊儿童青少年人群的负面 ...",
+          "date": "2021年11月9日",
+          "position": 30
+        },
+        {
+          "title": "[PDF] 支持性别多样化儿童和跨性别青少年 - Trans Care BC",
+          "link": "https://www.transcarebc.ca/sites/default/files/2024-03/Supporting_children_youth_and_parents_CH-Simplified.pdf",
+          "snippet": "鼓励. 鼓励家长了解到支持和肯定孩子的性别认同是可以有助于解决. 他们的担忧和达到他们对孩子的期望. 告知家长，研究表示受到家长和照护者支持的孩子比较健康.",
+          "position": 31
+        },
+        {
+          "title": "跨性别者和多元性别者的斗争 - ohchr",
+          "link": "https://www.ohchr.org/zh/special-procedures/ie-sexual-orientation-and-gender-identity/struggle-trans-and-gender-diverse-persons",
+          "snippet": "采取有力的积极措施，包括教育和宣传活动，以消除与多元性别相关的社会污名化现象：; 向跨性别者提供高质量的医疗服务和与健康有关的信息，并考虑将提供变性者护理作为一项 ...",
+          "position": 32
+        },
+        {
+          "title": "[PDF] 亚太跨性别健康蓝图",
+          "link": "https://www.undp.org/sites/g/files/zskgke326/files/migration/asia_pacific_rbap/06134fe5d74f2f84023c5de3ee99656ba412f33aa87d6a66c24e6a3da2f6de19.pdf",
+          "snippet": "... 跨性别者都强调要开展对宗. 教领袖的工作，以确保跨性别者免于歧视的普世权利同样得到保护。 3.3.4 教育. 歧视和对性别多元的不尊重有损跨性别儿童及青少年的受教育权。",
+          "position": 33
+        },
+        {
+          "title": "陈润森研究团队及其合作者在《柳叶刀· 公共卫生》发表跨性别群体 ...",
+          "link": "https://vsph.tsinghua.edu.cn/info/1028/1111.htm",
+          "snippet": "研究总结了国内跨性别及性别不一致（TGNC）群体 ... 家庭经济水平低、教育水平低、性别焦虑程度高等。 ... · 青少年性别焦虑流行病学特征调查以及发生发展的机制研究。",
+          "position": 34
+        },
+        {
+          "title": "建立校园文明关系：预防校园性别暴力",
+          "link": "https://unesdoc.unesco.org/ark:/48223/pf0000243252_chi",
+          "snippet": "教育可通过向青少年开展健康文明关系以及对于多样性 ... 教育、健康教育、性教育和德育等课程和教育活动。 ... 跨性别青少年会觉得他们的身体与自身的性别身份不符 ...",
+          "position": 35
+        },
+        {
+          "title": "美国：跨性别学生面临危险",
+          "link": "https://www.hrw.org/zh-hans/news/2016/09/14/united-states-transgender-students-risk",
+          "snippet": "联邦和各州政府均应立法禁止基于性别认同的歧视，包括在教育界，以及公共场所，如零售业、娱乐业和服务机构。 在基层，各校行政人员应当发布指导原则阐明 ...",
+          "date": "2016年9月14日",
+          "position": 36
+        },
+        {
+          "title": "[PDF] 跨性别者性别认同的法律承认",
+          "link": "https://www.undp.org/sites/g/files/zskgke326/files/migration/asia_pacific_rbap/81e35c0bbe5b80d746519d11bb00d20cb33c8990b529c6664137bf2127ce73cd.pdf",
+          "snippet": "40% 的教科书仍然将同性恋视为疾病和变态，超过50% 的教科书认定同性恋者需要接受以成为异性恋. 为目的的“扭转治疗”。 2015 年5 月19 日，同城青少年资源中心教育政策 ...",
+          "position": 37
+        },
+        {
+          "title": "LGBT青少年",
+          "link": "https://zh.stopbullying.gov/blog/tags/lgbt-youth",
+          "snippet": "所有孩子都应该得到一个机会——一个获得安全、受教育并忠于自我的机会。 校园霸凌和女同性恋者、男同性恋者、双性恋者以及跨性別 ...",
+          "position": 38
+        },
+        {
+          "title": "马斯克18岁儿子变女儿，「觉醒病毒」正在“杀死”美国青少年",
+          "link": "https://news.qq.com/rain/a/20240730A06I4P00",
+          "snippet": "事实上，性别焦虑是人为塑造出来的概念，一些团体将跨性别塑造成“觉醒”，这种“觉醒”已经成为一种病毒，在青少年群体中广为流行。 图片. 可怕的性别教育.",
+          "date": "2024年7月31日",
+          "position": 39
+        },
+        {
+          "title": "标签： 跨性别青少年- 美国续航教育",
+          "link": "https://www.forwardpathway.com/tag/%E8%B7%A8%E6%80%A7%E5%88%AB%E9%9D%92%E5%B0%91%E5%B9%B4",
+          "snippet": "在美国，跨性别青少年的健康和福祉问题正日益成为社会关注的焦点。最近，马里兰大学的行为与社区健康助理教授Sarah Peitzmeier与《Gender Queer》的作者Maia Kobabe ...",
+          "position": 40
+        },
+        {
+          "title": "美国如何操纵青少年变性？物色人选、思想灌输、偷偷带去手术 - 网易",
+          "link": "https://www.163.com/dy/article/IH8N67JP0550B4VC.html",
+          "snippet": "学校在性教育缺失、青少年性别观念未成熟的情况 ... 通过监控学生的网上搜索记录和电子邮件，一旦有学生搜索跨性别相关的话题词，就会用尽手段拉拢他们参加 ...",
+          "date": "2023年10月17日",
+          "position": 41
+        },
+        {
+          "title": "[PDF] “我需要家长同意才能做自己”",
+          "link": "https://www.amnesty.org/en/wp-content/uploads/2021/05/ASA1702692019CHINESE.pdf",
+          "snippet": "... 教育活动，以消除针对跨性别者的歧视；提. 升大家对 ... 青少年（Embrace diversity and protect trans and gender ... 出生时的生理性别为男性的松娅*在刚进入青春期时，便 ...",
+          "position": 42
+        },
+        {
+          "title": "[PDF] 跨性别者 - ohchr",
+          "link": "https://www.ohchr.org/sites/default/files/Documents/Issues/Discrimination/LGBT/FactSheets/UNFE_FactSheet_Transgender_CH.pdf",
+          "snippet": "联合国特别记录了. 残暴攻击跨性别女人和在押跨性别 ... 在卫生保健、教育、就业和住房方面，. 甚至在进出厕所 ... 其权利问题。 • 保护跨性别和性别不驯的儿童及青少年，使 ...",
+          "position": 43
+        },
+        {
+          "title": "Fundación Todo Mejora - Google 公益支持",
+          "link": "https://www.google.com/intl/zh-CN/nonprofits/success-stories/fundacion-todo-mejora/",
+          "snippet": "... 性恋和跨性别(LGBT) 青少年的福祉。 运营规模. Small. 领域. 公众服务. 目标. 更高效地 ... 青少年选择结束自己的生命2。联合国儿童基金会(UNICEF)、社会发展与教育部 ...",
+          "position": 44
+        },
+        {
+          "title": "“生而无罪，你不需要抱歉”|性别认同：“顺”或“跨”都不该被轻易定义",
+          "link": "https://xinli.swjtu.edu.cn/info/1065/5833.htm",
+          "snippet": "与性别认同相关联的一个概念：性别表达，近年来广受热议。 说白了就是，男性化和女性化。 日前，教育部在答复全国政协委员提出《关于防止男性青少年 ...",
+          "date": "2021年10月13日",
+          "position": 45
+        },
+        {
+          "title": "[PDF] 為兒童和青少年保留選擇權 - Translated government of Alberta news",
+          "link": "https://www.alberta.ca/system/files/news-preserving-choice-for-children-and-youth-20240201-langtc.pdf",
+          "snippet": "... 性別認同、性取向或人類性行 ... 教育人員使用的姓名或代詞。 • 16 歲和17 歲的 ... 亞伯達省政府還將開發一項輔導試點專案，以幫助被認定為跨性別者的青少年 ...",
+          "date": "2024年2月1日",
+          "position": 46
+        },
+        {
+          "title": "高中生自费拍“跨性别”电影校方认为题材敏感超前 - 新华网",
+          "link": "http://news.xinhuanet.com/politics/2017-07/24/c_1121367227.htm",
+          "snippet": "所谓的“跨性别者”（transgender ... 经过探索路上的挣扎，张望安最终认识到自己是一位跨性别者，喜欢男性。 ... 青少年对性的羞耻，普及性教育常识。肉豆蔻 ...",
+          "date": "2017年7月24日",
+          "position": 47
+        },
+        {
+          "title": "性教育：与青少年谈论性- 妙佑医疗国际 - Mayo Clinic",
+          "link": "https://www.mayoclinic.org/zh-hans/healthy-lifestyle/sexual-health/in-depth/sex-education/art-20044034",
+          "snippet": "如果我不清楚自己是否是女同性恋、男同性恋、双性恋、跨性别者还是性别酷儿（LGBTQ），该怎么办？许多青少年都对自己的性取向、性别认同或性别表达感到 ...",
+          "date": "2023年3月10日",
+          "position": 48
+        },
+        {
+          "title": "[PDF] A/HRC/50/27 大会",
+          "link": "https://documents.un.org/access.nsf/get?OpenAgent&DS=A/HRC/50/27&Lang=C",
+          "snippet": "托·马德里加尔－博尔洛斯审查了男女同性恋、双性恋、跨性别者、多元性别者 ... 青少年经常得接受旨在改变其生殖器外观的手术。 ... 实行包容性取向和性别认同 ...",
+          "date": "2022年11月22日",
+          "position": 49
+        },
+        {
+          "title": "[PDF] 解答你的问题- 关于跨性别者",
+          "link": "https://www.apa.org/topics/lgbtq/chinese-simplified-transgender.pdf",
+          "snippet": "许多专家. 认为生理因素(如遗传或产前荷尔蒙水平的. 影响)，及童年、青少年或成年的经历，都 ... 跨性别者和非跨性别者一样，可能是异 ... 性别与性的提倡与教育(Gender and.",
+          "position": 50
+        },
+        {
+          "title": "性别认同_百度百科",
+          "link": "https://baike.baidu.com/item/%E6%80%A7%E5%88%AB%E8%AE%A4%E5%90%8C/10483807",
+          "snippet": "... 性别”理论应当涵盖所有不同性倾向、性别认同、性别 ... 跨性别女性（Male to Female，MtF），指被指派性别为男性、性别认同为女性的跨性别者。 ... 《中国青少年健康教育核心 ...",
+          "position": 51
+        },
+        {
+          "title": "跨性别者是赶时髦？多数人后悔终身？了解性别确认护理的真相",
+          "link": "https://www.justicepatch.org/2024/10/31/debunking-myths-about-gender-affirming-care/",
+          "snippet": "这种社会转型对跨性别青少年的心理健康有很大帮助。研究表明，能够通过社会性转型并得到姓名和性别认同确认的跨性别青年，其自杀风险和抑郁程度明显低于未 ...",
+          "date": "3天前",
+          "position": 52
+        },
+        {
+          "title": "跨性别_百度百科",
+          "link": "https://baike.baidu.com/item/%E8%B7%A8%E6%80%A7%E5%88%AB/6234644",
+          "snippet": "跨性别指个体的性别认同不同于其出生时被指定的生理性别。跨性别是一个概括性术语，包括跨性别男性、跨性别女性和性别酷儿等性别认同。跨性别是一种性别认同而不是一种 ...",
+          "position": 53
+        },
+        {
+          "title": "Know Your Rights: MA Trans Rights (普通话) - GLAD",
+          "link": "https://www.glad.org/kyr-trans-ma-sc/",
+          "snippet": "教育; 医疗护理; 州或地方政府服务. 您在获取医疗护理 ... 马萨诸塞州反歧视法律条款将继续保护跨性别和性别不符人士使用公共设施的机会。 ... 青少年. 对性取向、性别 ...",
+          "position": 54
+        },
+        {
+          "title": "跨性别医疗- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E8%B7%A8%E6%80%A7%E5%88%AB%E5%8C%BB%E7%96%97",
+          "snippet": "... 性工作者必须接受关于性健康和人权的教育。 跨性别青少年的医疗. 编辑 · 跨性别青少年的医疗性别转换的选择较跨性别成年人有限许多。青春期前的跨性别儿童可通过更改性别 ...",
+          "position": 55
+        },
+        {
+          "title": "【假】加州通过禁止通知家长的跨性别法案 - 辟谣吧",
+          "link": "https://www.piyaoba.org/transgender-school-notification/",
+          "snippet": "... 青年教育法案，又称“安全法案”。 该法案禁止学区在未经学生许可的情况下，要求教师向家长或监护人透露有关学生性别认同、性取向或性别表达的任何信息。",
+          "date": "2024年7月28日",
+          "position": 56
+        },
+        {
+          "title": "社交媒体在LGBTQ 青少年支持网络中的作用：一项定性研究 - X-MOL",
+          "link": "https://www.x-mol.com/paper/1454835535445917696/t",
+          "snippet": "社交媒体被描述为女同性恋、男同性恋、双性恋、跨性别 ... 性、关系和性健康的信息。参与者描述 ... 结论：社交媒体是LGBTQ 青少年可以相互联系、教育 ...",
+          "date": "2021年10月28日",
+          "position": 57
+        },
+        {
+          "title": "“药娘”是个怎样的群体？ 我们能为他们做些什么？ - 温州新闻网",
+          "link": "https://news.66wz.com/system/2021/12/21/105426896.shtml",
+          "snippet": "此外，我们关工委也要起到帮扶作用，联合医疗、教育、公安等单位，为青少年跨性别者提供援助，并引导市民理性平等对待跨性别群体，不能歧视他们。” 温州市 ...",
+          "date": "2021年12月21日",
+          "position": 58
+        },
+        {
+          "title": "[PDF] 雙性戀及跨性別中學生在校園遇到的騷擾和歧視經歷」研究報告",
+          "link": "https://www.eoc.org.hk/EOC/Upload/UserFiles/File/Funding%20Programme/policy/1314/20150526/HKIEd_Research%20Report_C.pdf",
+          "snippet": "質性研究包括三類受訪者：42位同性/雙性戀及跨性別的青少年、13位有同性/雙性 ... 這使同性/雙性戀/跨性別學生無法得到準確的性教育知識。大多數的受訪者表示一般 ...",
+          "position": 59
+        },
+        {
+          "title": "学校针对学生的性别认同制定的管理办法，家长应该知道些什么",
+          "link": "https://www.crbcrdu.org/my-postd0a8187b",
+          "snippet": "社会层面的性别转变是指儿童或青少年采用与跨性别 ... 蒙哥马利县教育委员会在2020-2021学年实施了这 ... 性别与自己的生物性别不一致的信息”。",
+          "date": "2023年9月8日",
+          "position": 60
+        },
+        {
+          "title": "美利坚合众国总统公告2021年男女同性恋、双性恋、跨性别者和酷儿 ...",
+          "link": "https://china.usembassy-china.org.cn/zh/a-proclamation-on-lesbian-gay-bisexual-transgender-and-queer-pride-month-2021-zh/",
+          "snippet": "我们国家继续看到对有色人种跨性别女性的暴力攻击的不幸激增。LGBTQ+人士——尤其是违抗性或性别常规的青少年——在学校受到霸凌和骚扰，面临超常的自残和 ...",
+          "date": "2021年6月3日",
+          "position": 61
+        },
+        {
+          "title": "教育部等八部门关于印发《全国青少年学生读书行动实施方案》的通知",
+          "link": "https://www.gov.cn/zhengce/zhengceku/2023-03/29/content_5748940.htm?eqid=c69e87a9000191be0000000664849e9a",
+          "snippet": "结合各学科课程教学和跨学科主题教学活动，有针对性地指导学生阅读相关课内外读物，重视“整本书”阅读、沉浸式阅读。义务教育学校要将读书行动纳入“双减” ...",
+          "date": "2023年3月29日",
+          "position": 62
+        },
+        {
+          "title": "艺术教育对青少年心理健康的积极作用 - 人民论坛网",
+          "link": "http://www.rmlt.com.cn/2024/0102/691841.shtml",
+          "snippet": "除了培养绘画、音乐、舞蹈和戏剧等领域的技能，艺术教育还为学生提供了独特的机会，通过创作来探索内心世界、表达情感和培养创新性思维。由于青少年时期 ...",
+          "date": "2024年1月2日",
+          "position": 63
+        },
+        {
+          "title": "[PDF] 跨性别者、间性人和酷儿（LGBTIQ+）融入劳动世界",
+          "link": "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@asia/@ro-bangkok/@ilo-beijing/documents/publication/wcms_856152.pdf",
+          "snippet": "46 国际劳工组织的研究. 表明，跨性别者有时会推迟或隐瞒性别肯定医疗程序47 以及社会性或躯体的性别过渡，以便获得. 教育和就业。48 这些现实严重阻碍了LGBTIQ+人群的 ...",
+          "position": 64
+        },
+        {
+          "title": "[PDF] 背景总览性别健康中心Gender Health Center (GHC) 是南湾地区第一 ...",
+          "link": "https://scvmc.scvh.org/sites/g/files/exjcpb911/files/CH-6194-The%20Gender%20Health%20Center.pdf",
+          "snippet": "... 跨男性/非二元性別者男性胸廓重建 ... 支持和教育团体. 在接下来的几个月中，我们将在性别健康中心內提供支持和教育团体班。 ... 每月一次由同躋主导的支持小组会议，针对跨 ...",
+          "position": 65
+        },
+        {
+          "title": "新报告的四项发现帮助我们认识儿童变性药物 - 福音联盟",
+          "link": "https://www.tgcchinese.org/article/transgender-meds-kids",
+          "snippet": "社会普遍认为跨性别身份认同是与生俱来的，而且这一观念不容质疑。这种说法认为，出现性别焦虑症的儿童或青少年就是跨性别者，因此必须允许他们在此基础上 ...",
+          "date": "2024年6月10日",
+          "position": 66
+        },
+        {
+          "title": "公益组织 - MtF.wiki",
+          "link": "https://mtf.wiki/zh-cn/docs/useful-info/organizations/",
+          "snippet": "同城青少年资源中心（简称同城或GLCAC）是国内专注于推动校园性别平等教育，应对基于性别的校园暴力与欺凌及推动性与性别多元教育落实的民间团体组织。",
+          "date": "2022年7月13日",
+          "position": 67
+        },
+        {
+          "title": "[PDF] 全球跨性别健康与幸福指数议题",
+          "link": "https://transrespect.org/wp-content/uploads/2018/12/TvT-PS-Vol20-2018_CN.pdf",
+          "snippet": "全球南方和东方的许多国家缺乏针对性别认同或性别表达的犯罪进行保护的. 法律措施，将同性性行为定为犯罪的法律危害到跨性别者，鼓励在教育和就业. 的排斥以及医疗保健中对 ...",
+          "position": 68
+        },
+        {
+          "title": "教育部等八部门关于印发《全国青少年学生读书行动实施方案》的通知",
+          "link": "http://www.moe.gov.cn/srcsite/A06/s7053/202303/t20230328_1053070.html",
+          "snippet": "各级各类学校要将青少年学生读书行动与教育教学有机结合，鼓励学校开设阅读课。结合各学科课程教学和跨学科主题教学活动，有针对性地指导学生阅读相关课 ...",
+          "date": "2023年3月28日",
+          "position": 69
+        },
+        {
+          "title": "社会环境促青少年变性美华裔母亲急求助",
+          "link": "https://www.epochtimes.com/gb/23/6/6/n14010747.htm",
+          "snippet": "该消息在评论区遭到强烈反对，数以千计的回复谴责教育部支持儿童考虑变性的运动。LGBT是女同性恋者、男同性恋者、双性恋者与跨性别者的英文首字母缩写。",
+          "date": "2023年6月7日",
+          "position": 70
+        },
+        {
+          "title": "跨性别人群生存困境调查：求职困难，多数曾遭受校园暴力 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/kuaibao_detail.jsp?contid=6073208&from=kuaibao",
+          "snippet": "... 性别，主要包括跨性别男性、跨性别女性和性别酷儿. ○ 跨性别人群所面临的失业 ... 由于国内缺乏性教育，处于青少年的跨性别者在初期会很迷惑，得不到专业的帮助和 ...",
+          "position": 71
+        },
+        {
+          "title": "被骂到下架的澳洲性教育书：我们专访其亚裔作者，聊性 - 歪脑",
+          "link": "https://www.wainao.me/wainao-reads/Australian-sex-education-book-02282024",
+          "snippet": "《欢迎来到性世界》推出后，一些长期在跨性别 ... 不过，Melissa强调，如今在澳洲反对为青少年提供全面性教育 ... “我认为大部分人都支持性教育，但他们并不想 ...",
+          "date": "2024年2月28日",
+          "position": 72
+        },
+        {
+          "title": "针对跨性别者的暴力- 维基百科",
+          "link": "https://zh.wikipedia.org/zh-cn/%E9%87%9D%E5%B0%8D%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85%E7%9A%84%E6%9A%B4%E5%8A%9B",
+          "snippet": "跨性别和非二元性别的青少年可能会遭受霸凌和骚扰的攻击。 ... 跨性别者死亡”（No More Trans Death）的跨性别旗 ... LGBT性教育（英语：LGBT sex education）; 非暴力 ...",
+          "position": 73
+        },
+        {
+          "title": "遭电击治疗，一位跨性别者决定起诉 - 新浪财经",
+          "link": "https://finance.sina.com.cn/jjxw/2024-09-24/doc-incqfhau9380637.shtml",
+          "snippet": "... 教育证书中的性别时遇到困难，12%被拒绝。这会 ... 有34.1%的跨性别者曾因跨性别 ... 青少年提供多项住房计划。跨性别经济赋权项目（TEEP）为跨性别、性别 ...",
+          "date": "2024年9月24日",
+          "position": 74
+        },
+        {
+          "title": "庆祝跨性别能见日",
+          "link": "https://www.sjpl.org/zh-CN/blogs/post/celebrating-transgender-day-of-visibility/",
+          "snippet": "前青少年和青少年. 学龄前和 ... 来自运动促进项目的信息图，其中包含有关跨性别青年的各 ... 通过故事体验跨性别的各种经历可以培养教育和同理心。",
+          "date": "2022年3月26日",
+          "position": 75
+        },
+        {
+          "title": "上海率先开设跨性别多学科门诊帮助特殊未成年人",
+          "link": "https://www.sh.chinanews.com.cn/bdrd/2021-11-05/92886.shtml",
+          "snippet": "此前，针对跨性别儿童青少年群体的多学科综合门诊此前中国未有报道。复旦大学附属儿科医院跨性别多学科门诊是由内分泌遗传代谢科发起，由心理科、内分泌 ...",
+          "date": "2021年11月5日",
+          "position": 76
+        },
+        {
+          "title": "跨性別(Transgender)學生參加全大運及全中運試辦計畫資訊",
+          "link": "https://www.sa.gov.tw/PageContent?n=7364",
+          "snippet": "教育部體育署.",
+          "position": 77
+        },
+        {
+          "title": "纽约州教育厅规定：必须用跨性别学生自己选择的名字称呼他们 - 侨报",
+          "link": "https://www.uschinapress.com/static/content/SZ/2023-06-15/1119058446701178880.html",
+          "snippet": "州教育厅学生支持服务办公室的系统主管德卡塔尔多（Kathleen DeCataldo）表示，新规旨在打击LGBTQ+青少年中较高的欺凌率、退学率和自杀率。该部门援引 ...",
+          "date": "2023年6月15日",
+          "position": 78
+        },
+        {
+          "title": "【假】跨性别群体规模庞大，影响力巨大 - 辟谣吧",
+          "link": "https://www.piyaoba.org/transgender-data-research/",
+          "snippet": "... 跨性别获得医疗保健、教育政策和参与体育运动的机会。 ... 跨性别男性或女性，3%认同为非二元性别。 ... 跨性别青少年参加学校体育活动和性别确认医疗的政策。",
+          "date": "2023年8月3日",
+          "position": 79
+        },
+        {
+          "title": "【同城（GLCAC）】全国高校“性/别”公选课项目 - Google Groups",
+          "link": "https://groups.google.com/g/academicluncheon02/c/nPhvIYgHGuY/m/eWUfIbxy75kJ",
+          "snippet": "女同性恋者、男女双性恋者、跨性别人士的青少年争取平等权利为使命。 我们通过青少年社群发展和支持、校园教育和教师参与、研究与媒介倡议的策略来倡议中国. LGBT青少年所 ...",
+          "position": 80
+        },
+        {
+          "title": "家庭關係：家長與子女 - 跨性別Transgender",
+          "link": "https://transgender.taipei/life/%E9%9D%92%E5%B0%91%E5%B9%B4-%E5%85%92%E7%AB%A5-%E5%AE%B6%E5%BA%AD/",
+          "snippet": "... ，接納與支持，在探索性別認同的路上十分重要。想了解你的跨性別 ... 青少年. 「感謝剪紙工作坊學員、協會及跨性別朋友分享 ... 教育哪裡有誤，或是孩子受到不良影視影響，才 ...",
+          "position": 81
+        },
+        {
+          "title": "《美国公共卫生杂志》：跨性别青少年与感染艾滋的风险之间存在 ...",
+          "link": "http://www.cqaidsw.com/index.php?m=content&c=index&a=show&catid=41&id=9064",
+          "snippet": "一项新研究揭示了实证证据，表明研究人员长期以来对艾滋病毒风险的怀疑——多种风险因素比只有一种更糟糕。这项研究最近发表在《美国公共卫.",
+          "position": 82
+        },
+        {
+          "title": "性别新知：性别认同（下） - 中国数字科技馆",
+          "link": "https://www.cdstm.cn/videos/sounds/broadcast/201712/t20171228_672666.html",
+          "snippet": "教育活动 · 科技馆 · 中国科技馆 · 博物馆荟萃 · 科普 ... 2013年，华盛顿大学心理学教授奥尔森开展了一项“跨性别青少年项目（TransYouth Project）”，希望 ...",
+          "date": "2017年12月28日",
+          "position": 83
+        },
+        {
+          "title": "申鹏：从“儿子”到“女儿”？放过孩子吧！ - 昆仑策",
+          "link": "https://www.kunlunce.com/ssjj/guojipinglun/2023-05-26/169443.html",
+          "snippet": "... 青少年教育领域，从小给孩子和家长洗脑。 如今 ... 跨性别意味着什么。 ... 十几岁叛逆期的孩子，有几个TM的能搞清楚自己是“心理男”、“心理女”、“同性恋”、“双 ...",
+          "date": "2023年5月26日",
+          "position": 84
+        },
+        {
+          "title": "与青少年讨论跨性別问题- 爱家华语网站",
+          "link": "https://focf.org/sc/blog/aijia_magazine/discussingtransgenderwithteens/",
+          "snippet": "... 性。您可以通过网站上的“行动中心”将整套法律信息和专业的讯息直接电邮发送给相关的教育工作者。其中“帮助父母应对校园里令人混淆的跨性别信息”(Equipping Parents to ...",
+          "position": 85
+        },
+        {
+          "title": "关于2024年男女同性恋、双性恋、跨性别者、酷儿和间性者骄傲月的 ...",
+          "link": "https://www.state.gov/translations/chinese/a-proclamation-on-lesbian-gay-bisexual-transgender-queer-and-intersex-pride-month-2024-zh/",
+          "snippet": "LGBTQI+人士以教育工作者、艺人、企业家、运动员、演员、艺术家、科学家、学者、外交官、医生、军人、退伍军人等多种身份，继续丰富着美国生活的方方面面 ...",
+          "date": "2024年5月31日",
+          "position": 86
+        },
+        {
+          "title": "[PDF] 摘要",
+          "link": "https://upr-info.org/sites/default/files/documents/2019-04/js16_upr31_chn_e_annexe1.pdf",
+          "snippet": "建议5) 中国教育部出台政策及文件，允许所有已完成性别重置手术的跨性别者变更学. 历证书、学位证书和其他学业证书上的性别信息，包括已毕业的并已获得相应学历、. 学位 ...",
+          "position": 87
+        },
+        {
+          "title": "[DOC] 如何支持LGBTQ+青少年",
+          "link": "https://www.oregon.gov/ode/students-and-family/mental-health/Documents/How%20to%20Support%20LGBTQ+%20Youth%20(SCH).docx",
+          "snippet": "... 跨性别青少年的自残风险也同样较高。 我们知道边缘化 ... 健康教育者还应优先考虑LGBTQ+ 包容性sexuality education (性教育) ... 性教育和性健康促进的信息。要了解 ...",
+          "position": 88
+        },
+        {
+          "title": "丁香园又在鼓吹将孩子培养成同性恋！ - 红色文化网",
+          "link": "https://m.hswh.org.cn/wzzx/llyd/zz/2023-05-25/81946.html",
+          "snippet": "... 青少年教育领域，从小给孩子和家长洗脑。 如今 ... “我看到网上的跨性别者获得了压倒性的支持 ... ”她12岁时认定自己是跨性别者；. 13岁向父母 ...",
+          "date": "2023年5月25日",
+          "position": 89
+        },
+        {
+          "title": "[PDF] 「很高興認識你」，跨性別者！",
+          "link": "https://ws.dgbas.gov.tw/public/attachment/0827152049l3e53fl6.pdf",
+          "snippet": "事實上，在一些性別主題的學術性參考書籍. 中已經查不到Gender Identity Disorder 這個詞彙，卻可以很. 容易查到transgender 或transsexuality 等概念。也就是說，具. 有 ...",
+          "position": 90
+        },
+        {
+          "title": "自杀身亡的跨性别青少年受到联邦性别歧视保护 - 国家女同性恋权利中心",
+          "link": "https://zh-cn.nclrights.org/about-us/press-release/trans-teen-who-died-by-suicide-protected-by-federal-sex-discrimination-protections/",
+          "snippet": "... 青少年受到联邦性别歧视保护. 即时发布联系我们 ... 医疗服务提供者必须了解，如果他们歧视跨性别青年 ... 教育促进女同性恋、男同性恋、双性恋和跨性别社区的 ...",
+          "position": 91
+        },
+        {
+          "title": "Know Your Rights, MA Students! (普通话) - GLAD",
+          "link": "https://www.glad.org/kyr-students-ma-sc/",
+          "snippet": "在某些情况下，对同性恋或跨性别学生的骚扰属于 ... 意在嘲弄、羞辱或恐吓；并严重干扰了学生接受安全教育的权利，无论是在校内还是校外。 ... LGBTQ青少年有权公开他们的性 ...",
+          "position": 92
+        },
+        {
+          "title": "跨性別青年中學成長路揭香港校園對性小眾學生不公待遇",
+          "link": "https://www.hk01.com/%E7%A4%BE%E5%8D%80%E5%B0%88%E9%A1%8C/848843/%E8%B7%A8%E6%80%A7%E5%88%A5%E9%9D%92%E5%B9%B4%E4%B8%AD%E5%AD%B8%E6%88%90%E9%95%B7%E8%B7%AF-%E6%8F%AD%E9%A6%99%E6%B8%AF%E6%A0%A1%E5%9C%92%E5%B0%8D%E6%80%A7%E5%B0%8F%E7%9C%BE%E5%AD%B8%E7%94%9F%E4%B8%8D%E5%85%AC%E5%BE%85%E9%81%87",
+          "snippet": "... 跨性別青少年，冀為他們提供朋輩支援平台、轉介資源及進行公眾教育。現時機構已聚集超過150名跨性別人士，當中有十多位是中學生。他形容其他組織以往 ...",
+          "date": "2022年12月30日",
+          "position": 93
+        },
+        {
+          "title": "平等视角| “对跨性别人群和性别多样人群尊重、细致且准确的展现，会 ...",
+          "link": "https://equal-eyes.org/chinese/2019/9/9/-",
+          "snippet": "二人指出，流浪会剥夺年轻人生活中各个方面的机会，导致诸如受教育程度低，身心不健康，以及缺乏经济选择权等问题。 ... “对跨性别人群和性别 ... 2018年通过 ...",
+          "date": "2019年9月9日",
+          "position": 94
+        },
+        {
+          "title": "阿肯色州立法禁止跨性别者依自认性别取向使用公立学校公共厕所",
+          "link": "https://www.voachinese.com/a/arkansas-enacts-law-restricting-school-bathroom-use-by-transgender-people-20230322/7016692.html",
+          "snippet": "“州长说过她会签署聚焦于保护和教育我们孩子而 ... 跨性别青少年提供治疗的家长和医生提出虐待儿童的指控。 ... 而开放厕所这个政策也有漏洞，因为会有异性恋 ...",
+          "date": "2023年3月23日",
+          "position": 95
+        },
+        {
+          "title": "上海青少年科创教育蓝皮书发布，把前沿科技“降维”成孩子研学内容",
+          "link": "https://stcsm.sh.gov.cn/xwzx/mtjj/20240617/8d1f4a622ad54c1b9ae96a77acd38302.html",
+          "snippet": "在这一新形势下，青少年科创教育的重要性将日益提升。 ... 科学教育要增强现代性和前沿性，把 ... 科学教育课程要走向综合，形成跨学科一体化教学 ...",
+          "date": "2024年6月17日",
+          "position": 96
+        },
+        {
+          "title": "2023 1018 当孩子想要改变性别时，父母应该做的8件事",
+          "link": "https://bcfudao.com/?p=11250",
+          "snippet": "在跨性别青少年中，抑郁、焦虑和自杀的比率非常高，他们的性别认同与生物性别不符。无论原因是什么，很明显，经历性别认同障碍的人们都在受苦。他们 ...",
+          "date": "2023年10月18日",
+          "position": 97
+        },
+        {
+          "title": "最新研究《中国多元性别未成年人的生活与权益》全文首发（另附 ...",
+          "link": "https://commonlanguage.github.io/TYarchives2022-2/20220322_1%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%9B%BD%E5%A4%9A%E5%85%83%E6%80%A7%E5%88%AB%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B4%BB%E4%B8%8E%E6%9D%83%E7%9B%8A%E5%85%A8%E6%96%87%E9%A6%96%E5%8F%91%E5%8F%A6%E9%99%84%E6%B2%99%E9%BE%99%E5%9B%9E%E9%A1%BE%E2%91%A4.html",
+          "snippet": "希望未来有更多的研究能聚焦多元性别/跨性别/间性人未成年群体，提高议题和社群的可见度。 沈旭 陕西光合行动青少年教育与发展研究院联合创始人 报告 ...",
+          "date": "2022年3月22日",
+          "position": 98
+        },
+        {
+          "title": "越南为保障儿童和LGBT青少年的权利做出努力",
+          "link": "https://zh.vietnamplus.vn/%E8%B6%8A%E5%8D%97%E4%B8%BA%E4%BF%9D%E9%9A%9C%E5%84%BF%E7%AB%A5%E5%92%8Clgbt%E9%9D%92%E5%B0%91%E5%B9%B4%E7%9A%84%E6%9D%83%E5%88%A9%E5%81%9A%E5%87%BA%E5%8A%AA%E5%8A%9B-post162443.vnp",
+          "snippet": "3月31日下午，芹苴市友好组织联合会举行了“儿童权——越南儿童和LGBT（女同性恋、男同性恋、双性恋以及跨性别者)青少年获取教育、医疗卫生和社会服务” ...",
+          "date": "2022年4月1日",
+          "position": 99
+        },
+        {
+          "title": "关于2024年男女同性恋、双性恋、跨性别者、酷儿和间性者骄傲月的 ...",
+          "link": "https://china.usembassy-china.org.cn/zh/a-proclamation-on-lesbian-gay-bisexual-transgender-queer-and-intersex-pride-month-2024/",
+          "snippet": "教育部和司法部还在处理针对LGBTQI+学生或有色 ... 此外，我们通过全国危机热线为感到孤立和不堪压力的LGBTQI+青少年 ... 跨性别者、酷儿和间性者骄傲月。",
+          "date": "2024年6月5日",
+          "position": 100
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "跨性别 青少年 教育",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "大纪元纪录片揭美青少年变性运动之黑幕 - 博谈网",
+          "link": "https://botanwang.com/articles/202306/%E5%A4%A7%E7%BA%AA%E5%85%83%E7%BA%AA%E5%BD%95%E7%89%87%E6%8F%AD%E7%BE%8E%E9%9D%92%E5%B0%91%E5%B9%B4%E5%8F%98%E6%80%A7%E8%BF%90%E5%8A%A8%E4%B9%8B%E9%BB%91%E5%B9%95.html",
+          "snippet": "... （Gender Transformation）追踪了几位变性青年的经历，揭示了变性运动兴起背后的复杂性，以及推动该运动的社会机制——从教育 ... 跨性别者的态度发生了180 ...",
+          "date": "2023年6月23日",
+          "position": 1
+        },
+        {
+          "title": "民團調查青少年同志仍處困境籲調整教育促進理解接納",
+          "link": "https://news.pts.org.tw/article/712042",
+          "snippet": "勇敢接受變性手術、用音樂為跨性別族群發聲，樂團成員Rachel注意到，越來越多LGBTQ+的小朋友來聽團，有時會向他訴說自身煩惱。 樂團P!SCO成員，同時也是跨性別 ...",
+          "date": "2024年8月28日",
+          "position": 2
+        },
+        {
+          "title": "聚焦\"问题学生和问题教育\"，第三届青少年心理安全论坛举办",
+          "link": "https://cn.chinadaily.com.cn/a/202410/28/WS671f5476a310b59111da04d3.html",
+          "snippet": "李玫瑾谈到，在养育和教育过程中，应尊重和顺应个体心理发展的自然性，避免过度强加外在目的，以预防心理疾病的发生。她表示，在孩子成长的早期应重视外周神经 ...",
+          "date": "7天前",
+          "position": 3
+        },
+        {
+          "title": "马斯克18岁儿子变女儿，「觉醒病毒」正在“杀死”美国青少年 - 搜狐",
+          "link": "https://www.sohu.com/a/798821978_121948389",
+          "snippet": "T是跨性别者（transgender)，. Q 代表酷儿（queer）或对其性别认同感到 ... 在性教育缺失、青少年性别观念未成熟的情况下，诱导未成年自定义性别 ...",
+          "date": "2024年8月6日",
+          "position": 4
+        },
+        {
+          "title": "[PDF] 家庭接受和支持,培養健康孩子",
+          "link": "https://familyproject.sfsu.edu/sites/default/files/documents/FAP_Chinese%20Booklet_pst.pdf",
+          "snippet": "性別頻譜教育及培訓. 性別頻譜的教育和培訓每年召開年度會議，為多元性別特質 ... 順從(gender nonconforming)和跨性別的孩子和青少年的學校與機構提供. 對性別認同 ...",
+          "position": 5
+        },
+        {
+          "title": "捐赠接收信– 同城青少年资源中心 - 上海骄傲节ShanghaiPRIDE",
+          "link": "https://shpride.com/2017/07/12/thank-you-letter-glcac-at-shpride-open-day/?lang=zh",
+          "snippet": "根据我们过去的调查，在120多位教师中，96%的教师均不了解什么是跨性别。 ... 性别教育培训！努力地让更多的老师与我们走在一起。 如果你是教育工作者 ...",
+          "date": "2017年7月12日",
+          "position": 6
+        },
+        {
+          "title": "家长如何帮助孩子思考变性和性别问题 - 福音联盟",
+          "link": "https://www.tgcchinese.org/article/kids-navigate-transgender-ideology",
+          "snippet": "在美国，孩子们也会从教室前听到跨性别/变性方面的教导。美国几乎每个州的每个学区都包括性教育课程，这些课程教导孩子，有时甚至是幼儿园的孩子 ...",
+          "date": "2022年6月20日",
+          "position": 7
+        },
+        {
+          "title": "跨性別青年剖白他們的中學成長路 - 大學線",
+          "link": "https://ubeat.com.cuhk.edu.hk/163_trans/",
+          "snippet": "... 跨青時刻（Quarks），主要服務跨性別青少年，冀為他們提供朋輩支援平台、轉介資源及進行公眾教育。現時機構已聚集超過150名跨性別人士，當中有十多位是中學生。",
+          "date": "2022年12月1日",
+          "position": 8
+        },
+        {
+          "title": "[PDF] 性別認同",
+          "link": "https://www.montgomeryschoolsmd.org/contentassets/2bcd99470c9f44f891cc5be276c25d19/genderidentityguidelinesforstudents_chinese.pdf",
+          "snippet": "做或學生自己授權披露這項資訊。 1 如果您希望了解更多信息和其它資源的列表, 請查看馬里蘭州教育廳, 為跨性別和非標準性別的青少年提供安全空間: 您可以在以下網站 ...",
+          "position": 9
+        },
+        {
+          "title": "司法部长詹姆斯为保护跨性别学生的权利而战",
+          "link": "https://zh.ag.ny.gov/press-release/2022/attorney-general-james-fights-protect-transgender-students-rights-0",
+          "snippet": "法院作出这一裁决的依据是，禁止她加入球队的印第安纳州法规可能违反了1972年《教育修正案》第九章，因为它剥夺了跨性别女孩获得与其他男孩和女孩相同的运动 ...",
+          "date": "2022年11月11日",
+          "position": 10
+        },
+        {
+          "title": "功能追随性别：儿童玩具设计的性别身份映射 - 《装饰》杂志",
+          "link": "https://www.izhsh.com.cn/doc/315/3295.html",
+          "snippet": "关于玩具设计与儿童的相关研究，目前主要有三个类型：第一类来自于关注儿童发展与教育 ... 正因为女孩在跨性别实践方面的灵活性要大于男孩，所以中性类或无性别 ...",
+          "date": "2015年9月22日",
+          "position": 11
+        },
+        {
+          "title": "香港性教育教材惹争议，到底应该如何跟中学生谈“性” - BBC News 中文",
+          "link": "https://www.bbc.com/zhongwen/simp/chinese-news-69325584",
+          "snippet": "近日，香港教育局上载了一份中三级的“公民、经济与社会科”支援教材，当中有关“青少年与亲密关系”的部分引起社会广泛关注，里面提及有关学生需坚决拒绝婚前性 ...",
+          "date": "2024年9月9日",
+          "position": 12
+        },
+        {
+          "title": "父母禁止孩子变性属于“犯罪”，或将面临7年监禁？",
+          "link": "https://lisaslaw.co.uk/zh-hant/%E7%88%B6%E6%AF%8D%E7%A6%81%E6%AD%A2%E5%AD%A9%E5%AD%90%E5%8F%98%E6%80%A7%E5%B1%9E%E4%BA%8E%E7%8A%AF%E7%BD%AA%EF%BC%8C%E6%88%96%E5%B0%86%E9%9D%A2%E4%B8%B47%E5%B9%B4%E7%9B%91%E7%A6%81/",
+          "snippet": "大量研究表明，拒绝支持跨性别青少年可能会损害他们的身心健康。这类跨 ... 阿什现在正在家庭接受教育，而特丽希望呼吁学校可以开展类似的教育 ...",
+          "date": "2024年1月20日",
+          "position": 13
+        },
+        {
+          "title": "涵蓋「跨性別共融性語言」的性健康教育",
+          "link": "https://medium.com/gender-equity-education-quarterly/%E6%B6%B5%E8%93%8B-%E8%B7%A8%E6%80%A7%E5%88%A5%E5%85%B1%E8%9E%8D%E6%80%A7%E8%AA%9E%E8%A8%80-%E7%9A%84%E6%80%A7%E5%81%A5%E5%BA%B7%E6%95%99%E8%82%B2-c40986bb71b3",
+          "snippet": "1.使用「跨性別共融性語言」教導所有全面性健康教育應該包含的內容。例如：器官、生理、成長、愉悅、關係、避孕、同意、性病等。 2.幫助跨性別兒童青少年 ...",
+          "date": "2024年7月31日",
+          "position": 14
+        },
+        {
+          "title": "Journal of LGBT Youth - 期刊影响因子2.15 - JCR 1 区· 研飞ivySCI",
+          "link": "https://ivysci.com/journals/1936-1653/?lang=zh",
+          "snippet": "涉及主题, 心理学社会学性别研究精神分析政治学法学社会心理学同性恋人类性学医学变性人女同性恋哲学性取向奇怪的发展心理学生物艺术物理性认同教育学.",
+          "position": 15
+        },
+        {
+          "title": "当代青少年性别身份议题 - 香港浸会大学宗教及哲学系",
+          "link": "https://rel.hkbu.edu.hk/sc/activities/contemporary-issues-on-transgenderism",
+          "snippet": "当代青少年性别身份议题. LIF2023 研讨会讲座（信仰、教育及社会科学部分）. 【zoom ID: 991 1122 8272, PW: 308428】. 简介：. 跨性别文化在西方变得主流 ...",
+          "date": "2023年5月6日",
+          "position": 16
+        },
+        {
+          "title": "联合国机构促韩国改革性教育 - Human Rights Watch",
+          "link": "https://www.hrw.org/zh-hans/news/2019/10/21/334817",
+          "snippet": "相关措施对于韩国回应所有青少年需求、遏止有害的性别 ... 同性恋、双性恋或跨性别（LGBT）儿童需要全方位的性教育，理由和其他孩子 ...",
+          "date": "2019年10月21日",
+          "position": 17
+        },
+        {
+          "title": "艾伯塔省提出了关于跨性别青年保健、学生代词、选择性教育的法案",
+          "link": "http://m.tigfd.com/news/show-403027.html",
+          "snippet": "她说：“这三项立法都是为了在我省所有儿童和青少年的健康、安全和福祉方面取得适当的平衡而制定、起草和提交的。” “我们也在维护父母照顾、教育和保护孩子 ...",
+          "date": "3天前",
+          "position": 18
+        },
+        {
+          "title": "转| 高三学生之死：天才少年为何走向死亡？ - BiliBili",
+          "link": "https://www.bilibili.com/read/cv6287977/",
+          "snippet": "社会了解一下跨性别者面临的困境，学校教育工作者应该对“肯定跨性别青少年的认同”这个议题的重要性有更进一步的认识。正文中字体加粗带括号的部分为 ...",
+          "date": "2020年6月2日",
+          "position": 19
+        },
+        {
+          "title": "为什么中国学校需要性别平等教育？ - 奥一网",
+          "link": "https://m.mp.oeeee.com/a/BAAFRD000020210103408263.html",
+          "snippet": "... 性别表达是LGBT（性倾向为同性恋、双性恋以及性别认同为跨性别的人）学生受到校园暴力和欺凌的重要原因。 一项对国内751名LGBT学生基于性倾向和性别 ...",
+          "date": "2021年1月3日",
+          "position": 20
+        },
+        {
+          "title": "体育总局教育部关于印发深化体教融合促进青少年健康发展意见的通知",
+          "link": "https://www.gov.cn/zhengce/zhengceku/2020-09/21/content_5545112.htm",
+          "snippet": "... 跨区域（县、市、省、国家）的四级青少年体育赛事体系，利用课余时间组织校内比赛、周末组织校际比赛、假期组织跨区域及全国性比赛。 （十一）合并全国青年 ...",
+          "date": "2020年9月21日",
+          "position": 21
+        },
+        {
+          "title": "学校性别教育触及底线，加拿大家长权利运动卷土重来 - 无忧资讯",
+          "link": "https://info.51.ca/articles/1201600",
+          "snippet": "LGBTQ组织、教师工会和家长团体等批评人士认为，美国公立教育系统中的家长权利一直是铲除异见的武器，现在又被拿出来用于针对跨性别青少年和他们的家庭。",
+          "date": "2023年4月15日",
+          "position": 22
+        },
+        {
+          "title": "跨性别人群生存困境调查：求职困难，多数曾遭受校园暴力 - 新浪新闻",
+          "link": "https://news.sina.cn/gn/2020-02-22/detail-iimxyqvz4868465.d.html",
+          "snippet": "... 性别，主要包括跨性别男性、跨性别女性和性别酷儿. ○跨性别人群所 ... 由于国内缺乏性教育，处于青少年的跨性别者在初期会很迷惑，得不到专业的 ...",
+          "date": "2020年2月22日",
+          "position": 23
+        },
+        {
+          "title": "​“消失”的青少年性教育- 中国新闻周刊网",
+          "link": "http://www.inewsweek.cn/society/2023-11-06/20334.shtml",
+          "snippet": "2022年，最高检起诉强奸、猥亵儿童等性侵未成年人犯罪36957人，较2021年同比上升20.4％。 成都大学师范学院教授、四川青少年性教育普及基地首席专家胡珍对《 ...",
+          "date": "2023年11月6日",
+          "position": 24
+        },
+        {
+          "title": "跨性別(Transgender)學生參加全大運及全中運試辦計畫資訊",
+          "link": "https://www.gender.edu.tw/web/index.php/m1/m1_01_01?sid=584",
+          "snippet": "教育部性別平等教育全球資訊網.",
+          "date": "2023年8月7日",
+          "position": 25
+        },
+        {
+          "title": "[PDF] 教育工作者看如何關顧跨性別人士",
+          "link": "https://catholic.org.hk/2016updated/wp-content/uploads/2018/01/20171216_Miss-Yeung.pdf",
+          "snippet": "性」的天空》教育小冊子. POST GAY ALLIANCE. • 「跨越隔膜—與跨性別青少年同行」講座. 康貴華精神科醫生. • CARE FOR GD STUDENTS. DR. WILLIAM TONG.",
+          "date": "2017年12月16日",
+          "position": 26
+        },
+        {
+          "title": "[PDF] 无主题",
+          "link": "https://digitallibrary.un.org/record/1654647/files/A_HRC_WG-6_32_URY_3-ZH.pdf?ln=ar",
+          "snippet": "统中执行一项根据国际标准向男女同性恋、双性恋和跨性别者提供包容性和强制 ... 的青少年重返教育系统的方案。137. 44. 俄克拉荷马 ... 权、性别、性别认同、性取向和种族/族裔 ...",
+          "position": 27
+        },
+        {
+          "title": "[PDF] 性別認同與兒童成長教育",
+          "link": "https://tpl.ncl.edu.tw/NclService/pdfdownload?filePath=lV8OirTfsslWcCxIpLbUfvtkl6y56mnswVGA-gT_gmvR70Xj0OOT60bw9UWP4zbv&imgType=Bn5sH4BGpJw=&key=0Aummsp-k6x3DPlxoBcGUy-Gujx2TRRvDX8WCDk3yXMeVVU9OyINO4qBZJhLTxWd&xmlId=0006855958",
+          "snippet": "主流. 社會文化對跨性別和性別認同的認知，. 在過去幾年雖大為增加，然而卻不被共 ... 青少年時期的性別教教育. 社會上已經有一個共識，就是性教. 育在孩子成長的過程 ...",
+          "position": 28
+        },
+        {
+          "title": "跨儿心理咨询手册 - 跨性别在线·文档库",
+          "link": "https://docs.transonline.org.cn/kexl-counseling/",
+          "snippet": "歧视知觉的影响效应及其机制. 心理发展与教育, 27(2), 216-223. [2]Testa, R. J. , Habarth, J. , Peta, J ...",
+          "position": 29
+        },
+        {
+          "title": "2023-11-18跨性別友善校園暨友善醫療工作坊（已額滿）",
+          "link": "https://hotline.org.tw/civicrm/event/info?reset=1&id=582",
+          "snippet": "跨性別友善校園暨友善醫療工作坊《性別平等教育法》在台灣已經實施快20年，現今校園環境比起過去性別 ... 國外研究也顯示，跨性別青少年有較高的自殺率。",
+          "date": "2023年11月18日",
+          "position": 30
+        },
+        {
+          "title": "《跨性別友善校園》座談會紀錄：跨性別學生能在校內安心就學嗎？",
+          "link": "https://transgender.tapcpr.org/archives/5777",
+          "snippet": "這引發了伴盟近一步想要深入探討：為什麼台灣擁有數一數二進步的《性別平等教育法》，且其中條文明確寫入對性別認同的保障、以及學校有義務建立安全的校園 ...",
+          "date": "2023年8月30日",
+          "position": 31
+        },
+        {
+          "title": "[PDF] 研究摘要",
+          "link": "https://www.eoc.org.hk/compass/wp-content/uploads/2022/12/SexEduReport-%E7%A0%94%E7%A9%B6%E6%91%98%E8%A6%81-CHN.pdf",
+          "snippet": "善的整體策略，為全港青少年提供成效更好的性教育。 3. 這項研究聚焦於香港實施性 ... 23. 至於與女同性戀、男同性戀、雙性戀、跨性別（「LGBT」）相關的議題，有.",
+          "position": 32
+        },
+        {
+          "title": "第三届青少年心理安全论坛举办 - 中国教育报",
+          "link": "http://www.jyb.cn/rmtzcg/xwy/wzxw/202410/t20241029_2111262829.html",
+          "snippet": "他强调了“家”在化解教育问题中的重要性，学校应该像家一样，提供一个安全 ... 跨界分享研究成果和实践探索经验，为“问题学生”提供有效帮助，为 ...",
+          "date": "6天前",
+          "position": 33
+        },
+        {
+          "title": "芬兰青少年精神病学家：变性治疗已失控",
+          "link": "https://www.epochtimes.com/gb/23/11/1/n14107448.htm",
+          "snippet": "美国有数百所儿童性别诊所，为儿童提供性别意识教育和青春期阻断剂和跨性别激素治疗，是全球最大胆变性的国家。然而，近来一些变性领域的吹哨者纷纷发出 ...",
+          "date": "2023年11月2日",
+          "position": 34
+        },
+        {
+          "title": "国际跨性别可见日| San Jose Public Library",
+          "link": "https://www.sjpl.org/zh-CN/blogs/post/international-trans-day-of-visibility/",
+          "snippet": "... ，致力于庆祝成就和胜利tor跨性别者和性别扩张的问题…… ... 教育与数据資訊教育 · 教师与教育者 · 教育者圖書館卡 ... 前青少年和青少年. 学龄前和青少年主页 · 学生协助 ...",
+          "position": 35
+        },
+        {
+          "title": "家长怒了！加拿大各大城市游行反对学校性取向和性别认同教育",
+          "link": "https://m.vanfun.com/Article/Detail/27955",
+          "snippet": "在加拿大，双侧乳房切除术已成为跨性别青少年中最受欢迎的性别确认手术。 在美国公共广播电台（NPR）的一个纪录片中， 一个3岁孩子接受了变性手术，虽然 ...",
+          "date": "2023年9月21日",
+          "position": 36
+        },
+        {
+          "title": "教育部等八部门关于印发《综合防控儿童青少年近视实施方案》的通知",
+          "link": "http://www.moe.gov.cn/srcsite/A17/moe_943/s3285/201808/t20180830_346672.html",
+          "snippet": "... 性课余训练和常规性体育作业）“赛”（广泛开展班级、年级和跨校体育竞赛活动）“养”（养成健康行为和健康生活方式），深化学校体育、健康教育教学改革 ...",
+          "date": "2018年8月30日",
+          "position": 37
+        },
+        {
+          "title": "跨性别和性别多样化的青年在学校抵制顺从性 - X-MOL",
+          "link": "https://www.x-mol.com/paper/1361813145216389120/t?recommendPaper=1360034484804947968",
+          "snippet": "实施这样的抵抗总会使跨性别青年受到伤害，但这些同样的行为揭示了他们在破坏和分裂教育顺应性方面的潜力。 查看原文 公开下载. 英文标题摘要. Trans and gender diverse ...",
+          "position": 38
+        },
+        {
+          "title": "LGBTQ學生與學校連結低，學校如何建立包容環境？ - 翻轉教育",
+          "link": "https://flipedu.parenting.com.tw/article/009633",
+          "snippet": "其中，又以女生和LGBTQ＋的學生和學校連結最少，跨性別青少年則面臨更嚴重的憂鬱、自傷或自殺的困境。 CDC 每兩年會針對全國2 ...",
+          "date": "2024年10月18日",
+          "position": 39
+        },
+        {
+          "title": "公告_中国人民大学人权研究中心",
+          "link": "http://humanrights.ruc.edu.cn/rqdt/gg/c8e75436c9f04272bb1c7a18780d0e72.htm",
+          "snippet": "... 性别者案例；四、宪法平等下跨性别者权利保障。 首先，周老师提到2018年11月6日 ... 教育歧视、工作环境、性别重置手术等现实问题。这也就是为什么跨性别者少数人 ...",
+          "position": 40
+        },
+        {
+          "title": "你願意孩子接受性別多元的教育嗎？ - 明光社|",
+          "link": "https://www.truth-light.org.hk/nt/article/%E4%BD%A0%E9%A1%98%E6%84%8F%E5%AD%A9%E5%AD%90%E6%8E%A5%E5%8F%97%E6%80%A7%E5%88%A5%E5%A4%9A%E5%85%83%E7%9A%84%E6%95%99%E8%82%B2%E5%97%8E%EF%BC%9F",
+          "snippet": "美國有一套全面的性教育教材SIECUS，對青少年提倡「人們可以在一生的不同 ... 學童變性手術 性別肯定照護 跨性別 兒童福祉 兒童權利 性器官切除 變性 ...",
+          "date": "2015年1月29日",
+          "position": 41
+        },
+        {
+          "title": "在人间| 一位跨性别者的17岁：逃离，流浪，自残 - 凤凰网",
+          "link": "https://news.ifeng.com/c/86JniSEpZQg",
+          "snippet": "... 青少年素质培训学校” ）的时候，刚过17岁生日。 ... 与黄晓迪一样的性少数个体，常被家长以诱骗或强制手段送往“励志教育学校”或“戒网瘾学校”等机构，进行全封闭 ...",
+          "date": "2021年5月17日",
+          "position": 42
+        },
+        {
+          "title": "[PDF] LGBTQ+ 青少年资源 - Fairfax County Public Schools",
+          "link": "https://www.fcps.edu/sites/default/files/2023-07/PRC-LBTQIA%20Resources%20for%20Youth%20Guide-Chinese.pdf",
+          "snippet": "Trans Lifeline — 1-877-565-8860 跨性别生命热线提供了一条热线——由跨性别者工 ... 跨性别教育协会(TGEA)在每月第二个星期五为跨性别 ... 该项目解释了家庭接纳在支持跨性别 ...",
+          "position": 43
+        },
+        {
+          "title": "教育機構：師生與同儕 - 跨性別Transgender",
+          "link": "https://transgender.taipei/life/%E6%95%99%E8%82%B2-%E5%AD%B8%E6%A0%A1-%E6%80%A7%E5%B9%B3%E8%B3%87%E6%BA%90/",
+          "snippet": "跨性別朋友在校園容易遭遇同儕霸凌，也經常受挫於男女二元性別思維，例如宿舍的分配，需要特別提出來和校方溝通，但是校方與老師的性別意識是否充足，以及處理事情的態度， ...",
+          "position": 44
+        },
+        {
+          "title": "教师性／别教育工作坊（长三角地区） - 上海骄傲节ShanghaiPRIDE",
+          "link": "https://shpride.com/beneficiaries2017-sgtcp/?lang=zh",
+          "snippet": "... 教育，从而建立包容的校园环境支持LGBT青少年。 关于同城中小学性/别平等教育及 ... 性恋者、跨性别（LGBT）青少年的平等权益。目前，我们主要在广州、武汉、上海 ...",
+          "position": 45
+        },
+        {
+          "title": "Journal of LGBT Youth 最新文献和重要文献 - 研飞ivySCI",
+          "link": "https://www.ivysci.com/journals/1936-1653/articles?type=reading",
+          "snippet": "... 跨性别和性别多样性大学生整体健康状况及积极医疗互动. 2023-12-28. 查看 · How ... 性别多样性与顺性别青少年自杀意念和尝试的风险与保护因素比较. 2024-1-31. 查看 ...",
+          "position": 46
+        },
+        {
+          "title": "法律、家庭、学校可以怎样减少LGBT+青少年面对的歧视和暴力？",
+          "link": "https://commonlanguage.github.io/TYarchives2021/20210706_1%E9%9D%92%E8%A8%80%E6%8F%90%E9%97%AE%E7%AE%B1%E2%91%A0%E2%80%9C%E6%B3%95%E5%BE%8B%E3%80%81%E5%AE%B6%E5%BA%AD%E3%80%81%E5%AD%A6%E6%A0%A1%E5%8F%AF%E4%BB%A5%E6%80%8E%E6%A0%B7%E5%87%8F%E5%B0%91LGBT+%E9%9D%92%E5%B0%91%E5%B9%B4%E9%9D%A2%E5%AF%B9%E7%9A%84%E6%AD%A7%E8%A7%86%E5%92%8C%E6%9A%B4%E5%8A%9B%EF%BC%9F%E2%80%9D.html",
+          "snippet": "... 跨性别青少年）表达进行激素干预的想法，被家长当作是孩子不成熟的 ... 北大有位教师，十几年坚持开设关于性健康教育的课程，她的课堂为讨论LGBT ...",
+          "date": "2021年7月6日",
+          "position": 47
+        },
+        {
+          "title": "高校多元性别公选课（湖工大） 第六讲《性别平等与反歧视》",
+          "link": "https://groups.google.com/g/academicluncheon02/c/3aaU8Ik4LDQ",
+          "snippet": "... 跨性别、性健康与艾滋、感染者生命历程、性工作者 ... 如你想订阅我们更多、更全面的性教育、多元性别和同志青少年议题的活动资讯、热点文章、资源。",
+          "date": "2013年12月5日",
+          "position": 48
+        },
+        {
+          "title": "何清涟| 美国共产主义2.0运动：性别多元化（3） - 学人动向",
+          "link": "http://scholarsupdate.hi2net.com/news.asp?NewsID=34492",
+          "snippet": "... 教育系统中戮力推行青少年变性的邪恶政策。对于全美众多家长的反对、变性 ... 琼斯于2020 年5 月出狱，现在是旧金山跨性别性别变异和双性人司法项目的法律 ...",
+          "date": "2023年9月20日",
+          "position": 49
+        },
+        {
+          "title": "青少年人工智能普及教育校长论坛举行，共绘AI教育新蓝图 - 上观新闻",
+          "link": "https://www.jfdaily.com/sgh/detail?id=1451560",
+          "snippet": "同时，褚院士也指出了培养人工智能领域人才对于国家科技实力提升的重要性，为当前教育改革指明了方向。 ... 校长们一致认为，跨学科学习是培养学生综合 ...",
+          "date": "4天前",
+          "position": 50
+        },
+        {
+          "title": "江苏泰州开展青少年科教“点亮工程” - 中青在线",
+          "link": "http://m.cyol.com/gb/articles/2024-11/02/content_R48qEZIG0L.html",
+          "snippet": "自泰州市青少年科学教育 ... 小学阶段，聚焦科学兴趣养成，不仅开齐开足国家课程，更开发实施具有学校、地方特色的STEM等跨学科综合性学习课程，培育学生科学 ...",
+          "date": "2天前",
+          "position": 51
+        },
+        {
+          "title": "性別平等教育法 - 全國法規資料庫",
+          "link": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0080067",
+          "snippet": "三、校園性別事件：指事件之一方為學校校長、教師、職員、工友或學生，他方為學生，並有下列情形之一者：. （一）性侵害：指性侵害犯罪防治法所稱性侵害犯罪之行為。 （二）性騷擾： ...",
+          "position": 52
+        },
+        {
+          "title": "跨性别者权利如何被拉丁美洲右翼民粹主义者“武器化” - ZNetwork",
+          "link": "https://znetwork.org/zh-CN/%E7%BD%91%E7%BB%9C%E6%96%87%E7%AB%A0/%E6%8B%89%E4%B8%81%E7%BE%8E%E6%B4%B2%E5%8F%B3%E7%BF%BC%E6%B0%91%E7%B2%B9%E4%B8%BB%E4%B9%89%E8%80%85%E5%A6%82%E4%BD%95%E5%B0%86%E8%B7%A8%E6%80%A7%E5%88%AB%E8%80%85%E6%9D%83%E5%88%A9%E6%AD%A6%E5%99%A8%E5%8C%96/?noamp=mobile&amp=1",
+          "snippet": "拉丁美洲拟议的立法改革也破坏了性教育，而性教育是打击性暴力以及儿童和青少年怀孕的工具。 拉丁美洲和加勒比地区已经拥有 青少年怀孕率世界第二 – 根据联合国人口 ...",
+          "position": 53
+        },
+        {
+          "title": "江苏教育教育要闻省教育厅举行“教育强国建设江苏在行动”（泰州专场 ...",
+          "link": "https://jyt.jiangsu.gov.cn/art/2024/11/1/art_57807_11408553.html",
+          "snippet": "教育法律教育行政法规地方性教育法规 · 首页. > 新闻中心, > 教育要闻 ... 泰州在全省率先实施青少年科学教育“点亮工程”，针对各学段特点，系统谋划 ...",
+          "date": "3天前",
+          "position": 54
+        },
+        {
+          "title": "高中生自费拍“跨性别”电影校方认为题材敏感超前 - 中国新闻网",
+          "link": "https://www.chinanews.com.cn/m/sh/2017/07-24/8285525.shtml",
+          "snippet": "清华附中学生曾在两年前拍摄过关于中学生意外怀孕的微电影；十一学校国际部学生创办了中学生性教育社团——肉豆蔻，专门致力于消除青少年对性的羞耻，普及性 ...",
+          "date": "2017年7月24日",
+          "position": 55
+        },
+        {
+          "title": "瑞典與臺灣給青少年的性教育 - Medium",
+          "link": "https://medium.com/gender-equity-education-quarterly/%E7%91%9E%E5%85%B8%E8%88%87%E8%87%BA%E7%81%A3%E7%B5%A6%E9%9D%92%E5%B0%91%E5%B9%B4%E7%9A%84%E6%80%A7%E6%95%99%E8%82%B2-b1f9e1d6e63b",
+          "snippet": "More from GEEQ編輯部and 性別平等教育季刊gender-equity-education-quarterly. 賈寶玉是跨性別的女同性戀者？",
+          "date": "2023年12月14日",
+          "position": 56
+        },
+        {
+          "title": "「我就是佛州的青少年」——被噤聲的童年、遭抹煞的性別教育",
+          "link": "https://news.pts.org.tw/article/572957",
+          "snippet": "然而，20多年過去，佛州並未接納LGBTQ社群，反而開倒車，在佛州州長德桑提斯（Ron DeSantis）的主導下，陸續否決了「脈衝夜店槍擊案」倖存者的補助金、反對跨性別 ...",
+          "date": "2022年3月24日",
+          "position": 57
+        },
+        {
+          "title": "今天是全国青少年艾滋病毒和艾滋病宣传日：接受教育、检测和治疗 ...",
+          "link": "https://cookcountyhealth.org/zh/%E6%96%B0%E9%97%BB%E7%A8%BF/%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%85%A8%E5%9B%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E8%89%BE%E6%BB%8B%E7%97%85%E6%AF%92%E8%89%BE%E6%BB%8B%E7%97%85%E5%AE%A3%E4%BC%A0%E6%95%99%E8%82%B2%E6%A3%80%E6%B5%8B%E5%92%8C/",
+          "snippet": "在年轻人中，2015 年大多数新增HIV 病例发生在男同性恋和双性恋男性中，尤其是非裔美国人或西班牙裔/拉丁裔。跨性别女性和有色人种女性的HIV 感染率也很高。 “总体而言 ...",
+          "position": 58
+        },
+        {
+          "title": "跨性别者科学：青少年性别焦虑- 哔哩哔哩 - Bilibili",
+          "link": "http://www.bilibili.com/read/cv37992515/",
+          "snippet": "该样本中，6% 的转诊跨性别青少年报告参与了性交易。 性教育是促进青少年负责任的性行为的重要方式。不同国家和学校的计划课程和实际应用可能存在很大 ...",
+          "date": "2024年9月1日",
+          "position": 59
+        },
+        {
+          "title": "问号墙“留住孩子们的好奇心！一起来看泰州激活科学教育的“打开方式”",
+          "link": "https://www.yangtse.com/zncontent/4119220.html",
+          "snippet": "学前阶段，聚焦科学启蒙引导；小学阶段，聚焦科学兴趣养成，不仅开齐开足国家课程，更开发实施具有学校、地方特色的STEM等跨学科综合性学习课程，培育学生科学 ...",
+          "date": "12小时前",
+          "position": 60
+        },
+        {
+          "title": "临港少年宫发布34门精品课程，并与诸多知名学校、博物馆 - 上观新闻",
+          "link": "https://www.jfdaily.com/news/detail?id=814134",
+          "snippet": "... 青少年提供更优质的课程与专业的教育。 作为临港新片区首个区域性综合性青少年 ... 有数字素养、跨学科“一专多能”人才很吃香. 热门推荐. 乌议员：超10万 ...",
+          "date": "1天前",
+          "position": 61
+        },
+        {
+          "title": "台灣同志諮詢熱線協會|",
+          "link": "https://hotline.org.tw/",
+          "snippet": "... 青少年同志、女同志、跨性別等的聚會；同時也針對社會大眾提供性別教育、愛滋防治教育，並積極進行性別相關議題的政策倡導，以消除社會對同志的歧視與不平等對待，為了 ...",
+          "position": 62
+        },
+        {
+          "title": "兒童與青少年| No Self ID Taiwan 反對自我宣稱性別",
+          "link": "https://noselfidtw.cc/impact/teenager/",
+          "snippet": "國外目前主流對於跨性別者採取肯認式療法（affirmative approach），主張肯定跨性別兒童（對自身性別感到焦慮的人）的感受，盡早讓他們變性，以免他們傷害自己，甚至自殺。",
+          "position": 63
+        },
+        {
+          "title": "青少年性取向常识－教育界人士须知 - txlyd",
+          "link": "http://www.txlyd.net/2014-02-03-08-06-44/17-2014-02-03-05-52-04",
+          "snippet": "对自身性取向有疑问的学生，大多数只是经历短暂的性别混淆，或处于尝试、探索阶段而已。 不少研究显示，大多数曾经历同性吸引、或性别混淆的青少年，在二十五岁后即不再 ...",
+          "position": 64
+        },
+        {
+          "title": "“未”爱普法，守护青少年“触网”安全 - 中国经济网",
+          "link": "http://www.ce.cn/xwzx/gnsz/gdxw/202411/03/t20241103_39190542.shtml",
+          "snippet": "合肥市未成年人法治宣传教育基地内，来自合肥市卫岗小学的孩子们正“沉浸式”感受一起校园案件庭审的全过程。 “模拟小法庭”正在“开庭办案”。中国青年网记者 ...",
+          "date": "16小时前",
+          "position": 65
+        },
+        {
+          "title": "[PDF] 费郡家庭生活教育",
+          "link": "https://www.fcps.edu/sites/default/files/media/forms/chinese_19.pdf",
+          "snippet": "将为性取向术语异性恋、同性恋和双性恋以及性别认同术语跨性别提供定义。 ____ 第二课: 友谊. 学生将探索青春期同龄人关系的变化。 •. 同龄人关系和兴趣变化对友谊的影响.",
+          "position": 66
+        },
+        {
+          "title": "做自己好難！？跨性別少年的故事 - YouTube",
+          "link": "https://www.youtube.com/watch?v=Ntv6PF4M8lQ",
+          "snippet": "... 青少年一同培養思辨能力。節目內容涵蓋兩性平權、生命教育、轉型正義、情感教育及性教育等 ...\n时长： 5:13\n发布时间： 2019年6月28日",
+          "date": "2019年6月28日",
+          "position": 67
+        },
+        {
+          "title": "美媒：改变性别后，后悔的青少年人数正在惊人增长-观察者网",
+          "link": "https://www.guancha.cn/internation/2022_06_19_645328.shtml",
+          "snippet": "（观察者网讯）每年6月份是包括跨性别者在内的美国性少数群体的“骄傲月”（pride month），但美媒《纽约邮报》18日发表的一篇报道，却给美国的跨性别运动泼了 ...",
+          "date": "2022年6月19日",
+          "position": 68
+        },
+        {
+          "title": "不要让“问题教育”产出“问题学生”：专家纵论教育如何包容个性发展",
+          "link": "http://www.eeo.com.cn/2024/1030/694688.shtml",
+          "snippet": "青少年心理安全论坛是由教育智库中国教育三十人论坛发起的跨界交流平台 ... 他强调了“家”在化解教育问题中的重要性，学校应该像家一样，提供一个 ...",
+          "date": "5天前",
+          "position": 69
+        },
+        {
+          "title": "粤澳教育合作开启新篇章！横琴国际教育论坛落幕 - 珠海新闻网",
+          "link": "https://pub-zhtb.hizh.cn/a/202411/02/AP67261d26e4b080be7be62d84.html",
+          "snippet": "... 性，特别是在当前全球化背景下，加强青少年对“一带一路”国家的理解和交流，对于培养具有国际视野和跨文化交际能力的人才至关重要。 活动期间，来自 ...",
+          "date": "1天前",
+          "position": 70
+        },
+        {
+          "title": "芜湖：全面落实做好科学教育加法 - 安徽新闻",
+          "link": "http://ah.anhuinews.com/wh/news/202410/t20241030_7962492.html",
+          "snippet": "加快在课后服务中普及人工智能教育、提升青少年科技创新素养，着重将优质 ... 师大附小制定《2024年学校科技活动推荐项目指引》，通过线上线下方式开展跨 ...",
+          "date": "4天前",
+          "position": 71
+        },
+        {
+          "title": "从“有学上”走向“上好学”， 办出家门口的好学校 - 上海科技报",
+          "link": "https://www.shkjb.com/content.html?id=236014",
+          "snippet": "截至今年9月，本市义务教育阶段学校的厕所独立蹲位达标率达到87%，学生教室空调达标率超过80%，跨学科综合学习空间建设完成率超过60%。预计到2025年年底前 ...",
+          "date": "5天前",
+          "position": 72
+        },
+        {
+          "title": "北京市发布首份教育领域人工智能应用指南 - 中国青年网",
+          "link": "https://news.youth.cn/jsxw/202410/t20241026_15606525.htm",
+          "snippet": "... 跨学科主题学习。人工智能在这 ... “目前，该领域已有较多大模型产品推出，但仍缺乏教育教学理论指导，教育专业性不足，生成结果存在幻觉和安全问题。",
+          "date": "2024年10月26日",
+          "position": 73
+        },
+        {
+          "title": "运用青年参与的方法开发跨性别及性别膨胀青少年的技术性教育干预",
+          "link": "http://9h4.huazhongpengye.com/cejs/sustainability-in-academics/sustainability-research/repository/posts/using-youth-engaged-methods-to-develop-a-technology-based-sexual-education-intervention-for-transgender-and-gender-expansive-youth.php",
+          "snippet": "运用青年参与的方法开发跨性别及性别膨胀青少年的技术性教育干预 · 目标2：回应穷人的呼声 · 目标7：社区复原力和赋权.",
+          "position": 74
+        },
+        {
+          "title": "黑龙江省人民政府办公厅关于印发《2024—2025年黑龙江省冬季冰雪 ...",
+          "link": "https://www.hlj.gov.cn/hlj/c108381/202410/c00_31779724.shtml",
+          "snippet": "... 教育厅、龙江森工集团；完成时限：2024年11月底前〕. （二）实施“娱悦龙江 ... 跨境电商等销售平台，将俄罗斯食品、饰品、工艺品等特色商品打造 ...",
+          "date": "2024年10月25日",
+          "position": 75
+        },
+        {
+          "title": "加拿大少年变性：加拿大留学的跨性别青少年问题与对策- 留加规划帝",
+          "link": "https://www.caplanking.com/article/73771",
+          "snippet": "具体而言，我们应该： 1、加强性别认同和性别多元性的教育，让跨性别青少年受到更加包容的环境； 2、提高公众对跨性别问题的认识，消除歧视和偏见； 3、采取措施保障跨性别 ...",
+          "position": 76
+        },
+        {
+          "title": "不断书写中华民族治水安邦、兴水利民新篇章 - 甘肃省水利厅",
+          "link": "http://slt.gansu.gov.cn/slt/c106785/c106851/c10685102/202410/174013371.shtml",
+          "snippet": "要用这些精神教育人民特别是广大青少年，社会主义是拼出来、干出来、拿命 ... 党的十八大以来，建成了一批跨流域跨区域重大引调水工程。习近平总 ...",
+          "date": "4天前",
+          "position": 77
+        },
+        {
+          "title": "西安市教育局最新通知！ - 西部网（陕西新闻网）",
+          "link": "http://m.cnwest.com/sxxw/a/2024/10/30/22847246.html",
+          "snippet": "市、区县教研部门和各学校在校内外科学教育中探索构建素养导向的综合评价体系，倡导跨学科融合、校内校外结合的过程性评价和增值性评价，建立西安市中 ...",
+          "date": "5天前",
+          "position": 78
+        },
+        {
+          "title": "南京东路街道开展“青春期青少年性别教育实践活动”公益服务项目",
+          "link": "https://www.shhuangpu.gov.cn/yqyw/010002/010002001/010002001001/010002001001001/20150522/8d7b769a-3551-4b83-8df8-09e81ba4c174.html",
+          "snippet": "5月15日，在黄浦区储能中学的课堂上，2015年黄浦区妇联公益服务项目“青春期青少年性别教育实践活动”项目正式启动。 青春期是最美好的时期，也是充满了 ...",
+          "date": "2015年5月20日",
+          "position": 79
+        },
+        {
+          "title": "奋力谱写新时代人民城市建设新画卷- 求是网",
+          "link": "http://www.qstheory.cn/qshyjx/2024-11/01/c_1130215483.htm",
+          "snippet": "... 跨省通办服务173项。努力消除“数字鸿沟”，推进网站和APP适老化改造，提供 ... 青少年开展红色大寻访，让红色血脉代代相传。以可视可感可参与的 ...",
+          "date": "3天前",
+          "position": 80
+        },
+        {
+          "title": "院士郑泉水谈人工智能时代的人才培养：包容性环境至关重要",
+          "link": "https://m.mp.oeeee.com/a/BAAFRD0000202410281015188.html",
+          "snippet": "为寻找教育体制改革的突破口、给有潜力的青少年提供更好的成长环境 ... 通过构建跨学科的教育体系，以“颠覆挑战性问题（X-Challenge）”为引领 ...",
+          "date": "6天前",
+          "position": 81
+        },
+        {
+          "title": "江苏泰州开展青少年科教“点亮工程” - 教育 - 网易",
+          "link": "https://m.163.com/news/article/JG00TIV00514CDBK.html?clickfrom=subscribe",
+          "snippet": "小学阶段，聚焦科学兴趣养成，不仅开齐开足国家课程，更开发实施具有学校、地方特色的STEM等跨学科综合性学习课程，培育学生科学思维习惯。中学阶段 ...",
+          "date": "2天前",
+          "position": 82
+        },
+        {
+          "title": "德国《性别自决法》正式生效简化更改性别程序 - 东方日报",
+          "link": "https://www.orientaldaily.com.my/news/international/2024/11/02/690335",
+          "snippet": "（柏林2日讯）德国周五起让民众更容易变更法律性别，这项新法律被视为LGBTQ（同性恋、双性恋、跨性别 ... 青少年福利服务机构寻求建议。 更改性别 ...",
+          "date": "2天前",
+          "position": 83
+        },
+        {
+          "title": "为怀揣科技梦想的女生点燃心中的希望之灯",
+          "link": "https://www.shkjb.com/content.html?id=235979",
+          "snippet": "... 教育论坛举办欧莱雅中国科技女生教育论坛。跨国、跨界、跨时代的嘉宾以 ... 倡议提出，在科学启蒙期，呼吁家长们培养孩子对科学的兴趣和自信心，无论性别 ...",
+          "date": "2024年10月26日",
+          "position": 84
+        },
+        {
+          "title": "性別平等教育研習-青少年性教育(第二輯 - YouTube",
+          "link": "https://www.youtube.com/watch?v=9Pnwwaqyj48",
+          "snippet": "研習名稱:性別平等教育教材研發及專業知能研習(2013.11.02) 課程名稱:青少年性教育.\n时长： 17:37\n发布时间： 2016年1月6日",
+          "date": "2016年1月6日",
+          "position": 85
+        },
+        {
+          "title": "全国网络普法行安徽站丨这家未成年人法治宣传教育基地好玩又“好学”",
+          "link": "http://news.china.com.cn/2024-10/31/content_117518608.shtml",
+          "snippet": "“让未成年人走进检察机关,旨在增强他们的规则意识和法治观念,引导青少年知法、懂法、守法、用法。 ... 跨域化。很多犯罪行为,如贩毒、隔空猥亵等,都 ...",
+          "date": "4天前",
+          "position": 86
+        },
+        {
+          "title": "培养AI时代科技少年，猿编程李翊与专家学者共话教育未来 - DoNews",
+          "link": "https://www.donews.com/news/detail/4/4586194.html",
+          "snippet": "猿编程创始人李翊表示，在编程教育的过程中，我们不是仅仅向孩子们解释科学、技术的概念，而是要实现一种跨学科的教育模式。 ... 科学体系多元产品，助力青少年 ...",
+          "date": "6天前",
+          "position": 87
+        },
+        {
+          "title": "福州鼓楼：社区“幸福里”提升群众幸福感 - 新华网",
+          "link": "http://www.news.cn/politics/20241030/4cac625e52c545af8e044a1093be1cd8/c.html",
+          "snippet": "记者看到，“树兜幸福里”的一楼设有长者食堂、便利店、零工就业驿站等，二楼是社区综合办事大厅和“睦邻中心”，三楼及以上是综合服务区，开设了青少年活动中心， ...",
+          "date": "5天前",
+          "position": 88
+        },
+        {
+          "title": "天津日报数字报刊平台-我们共“城”长——看见国防",
+          "link": "http://epaper.tianjinwe.com/tjrb/html/2024-11/01/content_143080_1458534.htm",
+          "snippet": "... 教育盛宴。 活动中，师生现场观看了国防电影《云霄之上》，影片真实 ... “这部电影让我了解到了国防的重要性，也明白了青少年肩负的重任。我要 ...",
+          "date": "3天前",
+          "position": 89
+        },
+        {
+          "title": "大学生同性恋、双性恋及跨性别者认知调查 - 中国公共卫生",
+          "link": "https://www.zgggws.com/cn/article/doi/10.11847/zgggws-2012-28-07-14",
+          "snippet": "香港大学教育学院学习、发展与多样性学部;. 3. 西南大学心理健康教育研究中心教育科学研究所;. 4. 安徽建筑工业学院.",
+          "position": 90
+        },
+        {
+          "title": "北京大学药学院PekingHSC团队在第21届iGEM比赛中斩获金奖并获 ...",
+          "link": "https://bynews.bjmu.edu.cn/zhxw/2024/ebe0893cb71846f4b7056d3fa613745c.htm",
+          "snippet": "作为顶级的跨学科大学生赛事，它融合了生命科学、化学、数学、信息 ... 比赛内容涵盖了教育、企业孵化、安全性等多个方面，旨在激发团队从多角度 ...",
+          "date": "3天前",
+          "position": 91
+        },
+        {
+          "title": "【好评中国·追光青年】为青年发展提供坚实保障 - 人民论坛",
+          "link": "http://www.rmlt.com.cn/2024/1029/715507.shtml",
+          "snippet": "... 青年）运动会；共青团12355青少年服务台开展心理健康自护教育65万人次。这些举措促进了青年民生发展的进步，赢得了青年的肯定。 青年对民生发展方面的 ...",
+          "date": "6天前",
+          "position": 92
+        },
+        {
+          "title": "2024WRCT世界机器人大赛选拔赛在汉举行 - 极目新闻",
+          "link": "https://www.ctdsb.net/c1673_202411/2295648.html",
+          "snippet": "... 性竞赛活动名单，并实现了多个竞赛项目的大赛成绩国际互认。 2024 ... 机器人教育作为科技教育的重要组成部分，不仅能培养青少年的创新创造性思维和跨 ...",
+          "date": "13小时前",
+          "position": 93
+        },
+        {
+          "title": "南方财经全媒体集团",
+          "link": "http://www.sfccn.com/2024/11-2/1NMDE1MTRfMTk2Mzg1NQ.html",
+          "snippet": "随着安徽站活动进入尾声，这场历时近一年，横跨京津冀、江苏 ... 教育体验基地，青少年可以通过VR设备抢答游戏学习法律知识。这些有创意够 ...",
+          "date": "2天前",
+          "position": 94
+        },
+        {
+          "title": "一个大学驻村工作队的教育帮扶实践： “咱们，一起向未来！”",
+          "link": "http://h5.hljnews.cn/h5/detail/normal/6043096761205760",
+          "snippet": "“参加完培训班，让我明晰了未来的就业大环境，也认识到了职业生涯规划的重要性。”大货郎屯的唐欣欣在哈市一所高校读大二，一度为考研还是找工作而纠结，在她看 ...",
+          "date": "23小时前",
+          "position": 95
+        },
+        {
+          "title": "“死亡游戏”蔓延校园，危及生命！多地紧急呼吁关注青少年安全",
+          "link": "http://m.itbear.com.cn/html/2024-11/574521.html",
+          "snippet": "教育部门已对此事表示高度关注，并呼吁家长和学校加强对学生的安全教育 ... 《恐鬼症》销量破2000万，跨平台联机玩恐怖游戏新潮流？ 近日，开发 ...",
+          "date": "20小时前",
+          "position": 96
+        },
+        {
+          "title": "法润江淮丨普法“七进”，网络安全护苗助企兴村 - 国际在线",
+          "link": "https://news.cri.cn/20241103/f667a817-19ce-e757-bd41-8c71f40359cd.html",
+          "snippet": "如何将法治种子“播”进校园、“种”进心里？安徽各地切实加强校园法治教育力度，厚植法治精神，护航青少年在法治阳光下健康成长。 在安徽凤阳县小 ...",
+          "date": "16小时前",
+          "position": 97
+        },
+        {
+          "title": "守护孩子成长净土，对“烟卡”说不！",
+          "link": "https://m.gmw.cn/2024-11/01/content_37649878.htm",
+          "snippet": "... ，“烟卡”游戏在小学生群体一传十、十传百，已然成为青少年群体共同的话题和兴趣， ... 有教育专家建议，家长应积极 ...",
+          "date": "3天前",
+          "position": 98
+        },
+        {
+          "title": "不断书写中华民族治水安邦、兴水利民新篇章 - 时政- 人民网",
+          "link": "http://politics.people.com.cn/n1/2024/1030/c1001-40349937.html",
+          "snippet": "要用这些精神教育人民特别是广大青少年，社会主义是拼出来、干出来、拿命 ... 党的十八大以来，建成了一批跨流域跨区域重大引调水工程。习近平总 ...",
+          "date": "5天前",
+          "position": 99
+        }
+      ],
+      "images": [
+        {
+          "title": "跨性别青少年健康福祉：图画小说《Breathe》的重要性- 美国续航教育",
+          "imageUrl": "https://www.forwardpathway.com/wp-content/uploads/2024/09/breathe_graphic_novel_cover.jpg",
+          "link": "https://www.forwardpathway.com/125075"
+        },
+        {
+          "title": "复旦大学附属儿科医院",
+          "imageUrl": "https://ch.shmu.edu.cn/uploads/image/211109/16364444982879.jpg",
+          "link": "https://ch.shmu.edu.cn/news/content/pid/13742.html"
+        },
+        {
+          "title": "变性手术后后悔”上热搜：恐跨迷思之外，看到跨性别青少年现实境遇",
+          "imageUrl": "https://static.wixstatic.com/media/405718_732aa61c310f42dfaacaf47d94b87e08~mv2.png/v1/fill/w_726,h_720,al_c,q_90,enc_auto/405718_732aa61c310f42dfaacaf47d94b87e08~mv2.png",
+          "link": "https://www.tycommonlanguage.com/post/%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF%E5%90%8E%E5%90%8E%E6%82%94-%E4%B8%8A%E7%83%AD%E6%90%9C%EF%BC%9A%E6%81%90%E8%B7%A8%E8%BF%B7%E6%80%9D%E4%B9%8B%E5%A4%96%EF%BC%8C%E7%9C%8B%E5%88%B0%E8%B7%A8%E6%80%A7%E5%88%AB%E9%9D%92%E5%B0%91%E5%B9%B4%E7%8E%B0%E5%AE%9E%E5%A2%83%E9%81%87"
+        },
+        {
+          "title": "守护成长·重视儿童青少年性教育丨青少年需要掌握这些正确的“性认知”",
+          "imageUrl": "https://vod-benshipin-xhncloud.voc.com.cn/2023/07/24/20230724194016995515.jpg",
+          "link": "https://m.voc.com.cn/xhn/news/202307/18387045.html"
+        },
+        {
+          "title": "如果我们有变性孩子，我们要担心什么？ | Cosmetic Plastic Surgery ...",
+          "imageUrl": "https://www.kamolhospital.com/uploads/blog/1502/thumb-66153ff01fa65-banner.jpg",
+          "link": "https://www.kamolhospital.com/zh/blog/1502/what-are-our-concerns-if-we-have-transgender-children"
+        },
+        {
+          "title": "变性手术后后悔”上热搜：恐跨迷思之外，看到跨性别青少年现实境遇",
+          "imageUrl": "https://static.wixstatic.com/media/405718_d411cb865a514aa08cde9e3b19e8258b~mv2.png/v1/fill/w_980,h_449,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/405718_d411cb865a514aa08cde9e3b19e8258b~mv2.png",
+          "link": "https://www.tycommonlanguage.com/post/%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF%E5%90%8E%E5%90%8E%E6%82%94-%E4%B8%8A%E7%83%AD%E6%90%9C%EF%BC%9A%E6%81%90%E8%B7%A8%E8%BF%B7%E6%80%9D%E4%B9%8B%E5%A4%96%EF%BC%8C%E7%9C%8B%E5%88%B0%E8%B7%A8%E6%80%A7%E5%88%AB%E9%9D%92%E5%B0%91%E5%B9%B4%E7%8E%B0%E5%AE%9E%E5%A2%83%E9%81%87"
+        },
+        {
+          "title": "在跨性别青少年门诊，目睹中国家庭的撕裂_腾讯新闻",
+          "imageUrl": "http://inews.gtimg.com/newsapp_bt/0/15597759048/641",
+          "link": "https://news.qq.com/rain/a/20230114A06MUS00?no-redirect=1"
+        },
+        {
+          "title": "直面事实：开展全面性教育的理由",
+          "imageUrl": "https://unesdoc.unesco.org/in/rest/Thumb/image?id=p%3A%3Ausmarcdef_0000368231_chi&author=Global+Education+Monitoring+Report+Team&title=%E7%9B%B4%E9%9D%A2%E4%BA%8B%E5%AE%9E%EF%BC%9A%E5%BC%80%E5%B1%95%E5%85%A8%E9%9D%A2%E6%80%A7%E6%95%99%E8%82%B2%E7%9A%84%E7%90%86%E7%94%B1&year=2019&publisher=UNESCO&TypeOfDocument=UnescoPhysicalDocument&mat=PGD&ct=true&size=512&isPhysical=1",
+          "link": "https://unesdoc.unesco.org/ark:/48223/pf0000368231_chi"
+        },
+        {
+          "title": "变性手术后后悔”上热搜：恐跨迷思之外，看到跨性别青少年现实境遇",
+          "imageUrl": "https://static.wixstatic.com/media/405718_1cda29c621fd4b2ca87a02e369fa45e6~mv2.png/v1/fill/w_568,h_138,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/405718_1cda29c621fd4b2ca87a02e369fa45e6~mv2.png",
+          "link": "https://www.tycommonlanguage.com/post/%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF%E5%90%8E%E5%90%8E%E6%82%94-%E4%B8%8A%E7%83%AD%E6%90%9C%EF%BC%9A%E6%81%90%E8%B7%A8%E8%BF%B7%E6%80%9D%E4%B9%8B%E5%A4%96%EF%BC%8C%E7%9C%8B%E5%88%B0%E8%B7%A8%E6%80%A7%E5%88%AB%E9%9D%92%E5%B0%91%E5%B9%B4%E7%8E%B0%E5%AE%9E%E5%A2%83%E9%81%87"
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "跨性别 青少年 教育",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 3,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "法润江淮丨普法“七进”，网络安全护苗助企兴村 - 国际在线",
+          "link": "https://news.cri.cn/20241103/f667a817-19ce-e757-bd41-8c71f40359cd.html",
+          "snippet": "如何将法治种子“播”进校园、“种”进心里？安徽各地切实加强校园法治教育力度，厚植法治精神，护航青少年在法治阳光下健康成长。 在安徽凤阳县小 ...",
+          "date": "16小时前",
+          "position": 1
+        },
+        {
+          "title": "守护孩子成长净土，对“烟卡”说不！",
+          "link": "https://m.gmw.cn/2024-11/01/content_37649878.htm",
+          "snippet": "... ，“烟卡”游戏在小学生群体一传十、十传百，已然成为青少年群体共同的话题和兴趣， ... 有教育专家建议，家长应积极 ...",
+          "date": "3天前",
+          "position": 2
+        },
+        {
+          "title": "不断书写中华民族治水安邦、兴水利民新篇章 - 时政- 人民网",
+          "link": "http://politics.people.com.cn/n1/2024/1030/c1001-40349937.html",
+          "snippet": "要用这些精神教育人民特别是广大青少年，社会主义是拼出来、干出来、拿命 ... 党的十八大以来，建成了一批跨流域跨区域重大引调水工程。习近平总 ...",
+          "date": "5天前",
+          "position": 3
+        },
+        {
+          "title": "第四届中国健康生活方式医学大会（CLMC2024）在京召开 - 新华网",
+          "link": "http://www.news.cn/mrdx/20241103/b6a89e80c3da4db7af7f1d1715fc4a0e/c.html",
+          "snippet": "... 教育方式，第四、建立青少年健康监测体系。希望全社会共同努力，为青少年 ... 陈君石院士在应对全球性健康挑战（如肥胖、糖尿病、心血管疾病）时，跨 ...",
+          "date": "16小时前",
+          "position": 4
+        },
+        {
+          "title": "为青年发展提供坚实保障 - 中国青年网",
+          "link": "https://m.youth.cn/qwtx/xxl/202410/t20241029_15612394.htm",
+          "snippet": "... 青年）运动会；共青团12355青少年服务台开展心理健康自护教育65万人次。这些举措促进了青年民生发展的进步，赢得了青年的肯定。 青年对民生发展方面的 ...",
+          "date": "6天前",
+          "position": 5
+        },
+        {
+          "title": "深圳：“教育、科技、人才”联动改革的“光明样板” - 中国新闻周刊网",
+          "link": "http://www.inewsweek.cn/observe/2024-10-29/23498.shtml",
+          "snippet": "深圳市光明区是一个生态型高新技术产业新城，是高端科研、高等院校、高尚社区、高新产业、高端人才集聚的全球科技创新高地，是大湾区综合性国家科学中心先行 ...",
+          "date": "6天前",
+          "position": 6
+        },
+        {
+          "title": "大中小思政一体化教学核心概念提确理论建构方法创新逻辑设计研究",
+          "link": "https://wap.sciencenet.cn/blog-40486-1458333.html?mobile=1",
+          "snippet": "... 教育的理论创新和实践发展。 再次，遵循循序渐进、螺旋上升的方法论。青少年思政教育是一个接续的过程，需要针对不同阶段的特点有针对性地开展教育。",
+          "date": "16小时前",
+          "position": 7
+        },
+        {
+          "title": "广发银行深圳分行推动金融教育走深走实 - 中国日报网",
+          "link": "https://cn.chinadaily.com.cn/a/202411/03/WS672785e8a310b59111da165b.html",
+          "snippet": "... 性地开展金融教育活动。对于老年人，着重讲解防范金融诈骗的知识，帮助他们守护好自己的养老钱；针对青少年，注重培养他们的基础金融意识和正确的消费 ...",
+          "date": "10小时前",
+          "position": 8
+        },
+        {
+          "title": "跨过“鸿沟”掉进“陷阱”？老年人怎么办|教育 - 网易",
+          "link": "https://m.163.com/news/article/JG0TH0990514D3UH.html?clickfrom=subscribe&spss=adap_pc",
+          "snippet": "如何尽量减少互联网“负外部性”对于老年群体的侵害？除了不断加强 ... 众所周知，由于青少年涉世未深，很容易在网上受到不良信息的侵害，通过家 ...",
+          "date": "2天前",
+          "position": 9
+        },
+        {
+          "title": "任正非力挺人工智能竞赛，盛通股份引领科技竞赛浪潮 - 界面新闻",
+          "link": "https://m.jiemian.com/article/11925024.html",
+          "snippet": "盛通股份作为青少年科技教育的先行者，深刻理解任正非所强调的人工智能竞赛的重要性，并将其转化为实际行动。公司已拥有完备的“产品+内容+平台”的青少年科技教育体系和全产业 ...",
+          "position": 10
+        },
+        {
+          "title": "润物无声，戏剧为美育赋能 - 光明网",
+          "link": "https://news.gmw.cn/2024-10/30/content_37645040.htm",
+          "snippet": "近年来，包括中央戏剧学院、中国戏曲学院等在内的艺术院校陆续开设相关的戏剧（戏曲）教育专业，培养面向青少年开展戏剧（戏曲）教育活动的师资，很多文艺院团也 ...",
+          "date": "5天前",
+          "position": 11
+        },
+        {
+          "title": "华中外展获得外展国际完全认证——探索自我，成就潜力 - 中国网",
+          "link": "http://tech.china.com.cn/sx/20241031/406378.shtml",
+          "snippet": "户外教育机构外展(Outward Bound)始于1930年代，由著名的德国教育家库尔特·哈恩(Kurt Hahn)于80年前创立的一项创新教育项目，以突破性的教育理念和课程体系 ...",
+          "date": "4天前",
+          "position": 12
+        },
+        {
+          "title": "等待美国大选结果，乌克兰如在“末日前夕”-安东·尼尔曼-观察者网",
+          "link": "https://www.guancha.cn/AntonNeeleman/2024_10_31_753657.shtml",
+          "snippet": "10月初，教育部长奥克森·利索沃伊在最高拉达发表讲话说：“对于（青少年）离开，我和你们一样担心。我们看到很多初高中的孩子出国留学，所以我们要鼓励他们以各种 ...",
+          "date": "4天前",
+          "position": 13
+        },
+        {
+          "title": "培训下一步，寻找新增长 - 中国经济网",
+          "link": "http://www.ce.cn/xwzx/gnsz/gdxw/202411/03/t20241103_39190524.shtml",
+          "snippet": "最近，生活在宁夏银川的家长陈晨，发现附近一家运营了14年的商场，其定位在今年转变为“一站式亲子教育娱乐中心”。 一种新兴的业态今年受到关注：形成聚集的 ...",
+          "date": "17小时前",
+          "position": 14
+        },
+        {
+          "title": "跨性别青少年激素治疗一年后性别不安、人际少数族裔压力和心理 ...",
+          "link": "https://www.x-mol.com/paper/1760540383582588928/t",
+          "snippet": "横断面研究发现，少数族裔人际压力与跨性别青年的心理健康之间存在密切联系。然而，人们对少数群体的压力经历如何随时间变化以及这些变化与心理健康的关系知之甚少。",
+          "position": 15
+        },
+        {
+          "title": "跨性别青少年起诉体育禁令，争平等权利 - Listen2.AI",
+          "link": "https://listen2.ai/news/zh/sports/f45f8902-7f16-4c26-b663-eb8cda859bf1",
+          "snippet": "... 教育的机会，并因他们的跨性别身份而受到歧视。法律明确规定运动员必须根据出生证明上的性别参赛，这使得两人无法继续参与她们热爱的体育项目。",
+          "date": "2024年8月18日",
+          "position": 16
+        },
+        {
+          "title": "社会性别与性教育/高等教育系列/四川省青少年性教育普及基地丛书",
+          "link": "https://www.amazon.com/%E7%A4%BE%E4%BC%9A%E6%80%A7%E5%88%AB%E4%B8%8E%E6%80%A7%E6%95%99%E8%82%B2-%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2%E7%B3%BB%E5%88%97-%E5%9B%9B%E5%B7%9D%E7%9C%81%E9%9D%92%E5%B0%91%E5%B9%B4%E6%80%A7%E6%95%99%E8%82%B2%E6%99%AE%E5%8F%8A%E5%9F%BA%E5%9C%B0%E4%B8%9B%E4%B9%A6-%E5%8C%BF%E5%90%8D/dp/7569023439",
+          "snippet": "Amazon.com: 社会性别与性教育/高等教育系列/四川省青少年性教育普及基地丛书: 9787569023435: 匿名: Books.",
+          "position": 17
+        },
+        {
+          "title": "https://www.facebook.com/fashionsex1069/posts/7075...",
+          "link": "https://www.facebook.com/fashionsex1069/posts/707595105954671/?locale=zh_TW",
+          "snippet": "没有此网页的信息。 · 了解原因",
+          "position": 18
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

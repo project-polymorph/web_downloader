@@ -1,0 +1,1107 @@
+{
+  "query": "性别重置 法律 中国",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2024-11-03T23:46:29.276419",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "性别重置 法律 中国",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "answerBox": {
+        "snippet": "我国采用第一、第二性征认定法。 我国法律保护性别重置手术实施者的受教育权、就业权和其他基本人权。 2017年，中华人民共和国卫生健康委员会发布《性别重置技术管理规范（2017年版）》和《性别重置技术临床应用质量控制指标（2017年版）》，保证医疗质量和医疗安全。 我国法律支持已完成性别重置手术的易性症者修改身份证性别。",
+        "snippetHighlighted": [
+          "第一、第二性征认定法"
+        ],
+        "title": "性别重置手术_百度百科",
+        "link": "https://baike.baidu.com/item/%E6%80%A7%E5%88%AB%E9%87%8D%E7%BD%AE%E6%89%8B%E6%9C%AF/1301503"
+      },
+      "organic": [
+        {
+          "title": "[DOC] 性别重置技术管理规范（2017年版） - 国家卫生健康委员会",
+          "link": "http://www.nhc.gov.cn/ewebeditor/uploadfile/2017/02/20170220145848193.docx",
+          "snippet": "本规范所称性别重置技术，是指通过外科手段（组织移植和器官再造）使手术对象的生理性别与其心理性别相符，即切除原有的性器官并重建新性别的体表性器官和与之 ...",
+          "date": "2017年2月20日",
+          "position": 1
+        },
+        {
+          "title": "[PDF] 跨性别者性别认同的法律承认",
+          "link": "https://www.undp.org/sites/g/files/zskgke326/files/migration/asia_pacific_rbap/81e35c0bbe5b80d746519d11bb00d20cb33c8990b529c6664137bf2127ce73cd.pdf",
+          "snippet": "中国对跨性别者性别认. 同的法律承认的最新规定仍然仅限于政策层面：《性别重. 置技术管理规范（国卫办医发〔2017〕7 号）》，且条件. 十分苛刻——必须做完性别肯定手术才能修改 ...",
+          "position": 2
+        },
+        {
+          "title": "政策法规| 我该怎么“回归”属于我的性别- 法律Law",
+          "link": "https://poa.cgpi.org.cn/article/819",
+          "snippet": "一、由上述可知，我国规定的可以进行性别重置手术的手术对象很严格，以必须要由有资质的精神科医生诊断后开具的“易性癖”诊断证明为合法前提。同时，根据目前我国有关变性手术 ...",
+          "position": 3
+        },
+        {
+          "title": "性别- 法律，允许人变性吗？|重置 - CN-Healthcare",
+          "link": "https://www.cn-healthcare.com/articlewm/20220408/content-1335946.html",
+          "snippet": "律师维钦 · 1.对性别重置的要求至少持续5年以上，且无反复过程。 · 2.术前接受心理、精神治疗1年以上且无效。 · 3.未在婚姻状态。 · 4.年龄大于20岁，具备 ...",
+          "date": "2022年4月8日",
+          "position": 4
+        },
+        {
+          "title": "概述- 中国大陆跨性别相关法律法规变迁 - Project Trans",
+          "link": "https://project-trans.org/china-legal/",
+          "snippet": "规定“本人或者监护人应当凭国内三级医院出具的性别鉴定证明，或者具备资格的司法鉴定机构出具的证明，向户口所在地公安派出所申请”可变更性别。相当于取消了此前全国性规定的 ...",
+          "position": 5
+        },
+        {
+          "title": "中国为变性手术设“标准红线”-政策法规",
+          "link": "http://www.chinazxymr.com/132.html",
+          "snippet": "管理规范规定，变性手术前患者必须提交以下法律文件及证明：当地公安部门出具的患者无在案犯罪记录证明;当地公安部门备案同意术后更改身份证上的性别;精 ...",
+          "date": "2017年8月15日",
+          "position": 6
+        },
+        {
+          "title": "[PDF] G05 性别重置技术临床应用管理规范",
+          "link": "https://cnlgbtdata.com/files/uploads/2022/08/%E6%80%A7%E5%88%AB%E9%87%8D%E7%BD%AE%E6%8A%80%E6%9C%AF%E4%B8%B4%E5%BA%8A%E5%BA%94%E7%94%A8%E7%AE%A1%E7%90%86%E8%A7%84%E8%8C%832022%E5%B9%B4%E7%89%88.pdf",
+          "snippet": "本规范所称性别重置技术，是指通过外科手段（组织移. 植和器官再造）使手术对象的生理性别与其心理性别相符，. 即切除原有的性器官并重建新性别的体表性器官和与之相. 匹配的第 ...",
+          "position": 7
+        },
+        {
+          "title": "中华人民共和国跨性别相关法律法规变迁 - GitHub",
+          "link": "https://github.com/project-trans/legal-spec",
+          "snippet": "2022-04-20: 性别重置技术临床应用管理规范（2022 年版）; 2022-06-27: 中国易性症多学科诊疗专家共识收稿; 2022-07-11: 《GB/T 41575-2022 未成年人互联网不健康内容 ...",
+          "position": 8
+        },
+        {
+          "title": "性别重置技术临床应用管理规范（2022年版） - 文件资料索引库",
+          "link": "https://cnlgbtdata.com/law/160/",
+          "snippet": "... 法律法规 · 人权文件. 性别重置技术临床应用管理规范（2022年版）. 发文字号：国卫办医发〔2022〕6号附件. 发布部门：None. 发布日期：2022年4月20日. 生效日期：2022年4 ...",
+          "position": 9
+        },
+        {
+          "title": "跨性别权益- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E8%B7%A8%E6%80%A7%E5%88%A5%E6%AC%8A%E7%9B%8A",
+          "snippet": "许多国家现在通过允许改变个人出生证明上的法定性别来合法地承认性别的重新指定。许多跨性别需要进行永久性手术来改变自己的身体，例如性别重置手术（SRS）。或者是通过荷尔蒙 ...",
+          "position": 10
+        },
+        {
+          "title": "关于性别医疗变更行为的法律思考 - 法信",
+          "link": "https://www.faxin.cn/lib/Flwx/FlqkContent.aspx?gid=F10158",
+          "snippet": "目前,我国法律对变性手术实施的对象、法律条件、法律程序等缺乏明确的法律规定,如何让\"变性\"、法律、社会三者相互协调,既保证公民选择自己性别的权利,又保障整个社会的协调 ...",
+          "position": 11
+        },
+        {
+          "title": "性别重置技术临床应用管理规范（2022 年版） - Project Trans",
+          "link": "https://project-trans.org/china-legal/spec/2022-04-20/srs/readme/",
+          "snippet": "本规范所称性别重置技术，是指通过外科手段（组织移植和器官再造）使手术对象的生理性别与其心理性别相符， 即切除原有的性器官并重建新性别的体表性器官和与之相匹配的第二性 ...",
+          "position": 12
+        },
+        {
+          "title": "变性手术20年合法路 - 新浪新闻",
+          "link": "https://news.sina.cn/sa/2009-08-28/detail-ikftssap3189440.d.html",
+          "snippet": "提要：2009年6月卫生部《变性手术规范》的出台，意味着中国的性别转换手术终将要披上“合法的外衣”，而承接变性手术的医院、实施变性手术的医师以及接受变性 ...",
+          "date": "2009年8月28日",
+          "position": 13
+        },
+        {
+          "title": "公告_中国人民大学人权研究中心",
+          "link": "http://humanrights.ruc.edu.cn/rqdt/gg/c8e75436c9f04272bb1c7a18780d0e72.htm",
+          "snippet": "首先，周老师提到2018年11月6日中国首次在联合国UPR正面回应LGBT+问题，中国代表发言称我国一贯尊重LGBT+群体的健康权，并给予其平等的社会保障；保护进行性别重置手术的权利； ...",
+          "position": 14
+        },
+        {
+          "title": "泰国变性手术不被中国承认，变性人身份是难题 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_1357343",
+          "snippet": "目前，我国现有法律对变性手术没有任何规定，但法律不承认心理性别，也不承认更改后的性别。现实生活中，更多人与小林有着相同的遭遇，由于多数变性者术后法定 ...",
+          "date": "2015年7月28日",
+          "position": 15
+        },
+        {
+          "title": "中华人民共和国LGBT权益- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BDLGBT%E6%9D%83%E7%9B%8A",
+          "snippet": "时至今日，同性性行为和跨越着装在中国已不再违法，但中国的法律和民事体系并不承认同性婚姻或民事结合等同性伴侣关系，不保护同性伴侣的收养权益和家庭财产权益。跨性别者的 ...",
+          "position": 16
+        },
+        {
+          "title": "【专题报道】中国“同志”等性和性别少数群体境遇有待改善 - UN News",
+          "link": "https://news.un.org/zh/story/2019/06/1036281",
+          "snippet": "刘明辉：“跨性别的人如果想做性别肯定手术，也就是我们说的变性手术，必须要'提供已告知直系亲属拟行性别重置手术的相关证明'，另外，中国成年人的年龄是18岁， ...",
+          "date": "2019年6月24日",
+          "position": 17
+        },
+        {
+          "title": "论离婚不应成为变性的前提条件_民事法学",
+          "link": "http://old.civillaw.com.cn/article/default.asp?id=52807",
+          "snippet": "根据这一答复，一方变性并不必然导致婚姻关系的终结，在法院基于当事人一方的申请判决离婚之前，变性人与其原配偶之间仍然存在着法律上的婚姻关系。这是我国 ...",
+          "date": "2011年4月23日",
+          "position": 18
+        },
+        {
+          "title": "为少年变性被捕未成年人变性要符合法律规定(图) - 人民政协网",
+          "link": "http://www.rmzxb.com.cn/c/2015-09-25/587392.shtml",
+          "snippet": "2009年6月卫生部出台了《变性手术技术管理规范(征求意见稿)》，根据该规范变性患者需同时满足5个条件：自己对变性的要求至少持续5年以上;以其选择的性别公开 ...",
+          "date": "2015年9月25日",
+          "position": 19
+        },
+        {
+          "title": "变性人婚姻家庭法律问题探析 - 法信",
+          "link": "https://www.faxin.cn/lib/flwx/FlqkContent.aspx?gid=F110860&libid=040101",
+          "snippet": "但我们应该看到，人的性别决不是单纯的个人私事，而是具有广泛的社会意义。变性会带来一系列社会、伦理道德及法律问题，特别是将对婚姻家庭问题形成巨大的挑战。本文拟对变性 ...",
+          "position": 20
+        },
+        {
+          "title": "性别变更业务办理流程（实施变性手术后） - 泾县人民政府",
+          "link": "https://www.ahjx.gov.cn/OpennessContent/show/2784994.html",
+          "snippet": "一、项目名称. 性别变更更正[性别变更（实施变性手术后）]. 二、设立依据. 安徽省户政管理工作规范. 三、申报材料. 1、变更人《居民户口簿》；.",
+          "date": "2023年7月26日",
+          "position": 21
+        },
+        {
+          "title": "常见法律问题 - MtF.wiki",
+          "link": "https://mtf.wiki/zh-cn/docs/useful-info/legal-faq/",
+          "snippet": "要求跨性别者在手术时“未在婚姻状态”是《性别重置技术临床应用管理规范（2022年版）》的规定。这一规定从效力层级上而言属于“规范性文件”，从管辖范围而言，因系国家卫生健康委 ...",
+          "position": 22
+        },
+        {
+          "title": "报告：中国跨性别群体缺乏法律保护，承受过多歧视 - 政经",
+          "link": "https://china.caixin.com/2018-08-07/101312508.html",
+          "snippet": "【财新网】（实习记者王瑞琪）联合国开发计划署和中华女子学院共同发布的一份评估报告显示，由于缺乏法律保护，跨性别者在中国面临着巨大的挑战，承受了过 ...",
+          "date": "2018年8月7日",
+          "position": 23
+        },
+        {
+          "title": "潘柏林：跨性别治疗很冷门，但TA们需要医学支持 - 澎湃新闻",
+          "link": "https://m.thepaper.cn/newsDetail_forward_8786958",
+          "snippet": "性别重置手术：改变生殖器的手术，即“变性手术”。在中国仅能通过性别重置手术来改变法律指定性别，即身份证上的性别。 两种跨性别者：原生性别为男性而性别 ...",
+          "date": "2020年8月19日",
+          "position": 24
+        },
+        {
+          "title": "民政部：变性人的结婚登记合法有效 - 中国法院网",
+          "link": "https://www.chinacourt.org/article/detail/2003/01/id/32951.shtml",
+          "snippet": "如果夫妻双方中有一个人做了变性手术，已成为同性的两个人的婚姻关系怎么处理呢？民政部日前对此作出明确答复：变性人的结婚登记合法有效，解除婚姻关系 ...",
+          "date": "2003年1月16日",
+          "position": 25
+        },
+        {
+          "title": "[PDF] “我需要家长同意才能做自己”",
+          "link": "https://www.amnesty.org/en/wp-content/uploads/2021/05/ASA1702692019CHINESE.pdf",
+          "snippet": "秀明等人，〈变性手术患者的心理分析及其护理〉，《中华医学美学美容杂志》，第23 卷第4 期，2017 年，第276 页。 48 北京大学第三医院是中国其中一家带头提倡为跨性别者提供 ...",
+          "position": 26
+        },
+        {
+          "title": "中国跨性别群体求医难转投海外或黑市",
+          "link": "https://www.rfa.org/mandarin/yataibaodao/shehui/cc-09132019121604.html",
+          "snippet": "中国国家卫计委办公厅发布的《性别重置技术管理规范（2017年版）》，是中国唯一一份有关跨性别者医疗服务的官方指导意见。该文件提出，手术对象须被诊断为有“ ...",
+          "date": "2019年9月13日",
+          "position": 27
+        },
+        {
+          "title": "[PDF] 公众对变性人士权利的看法: 中国 - Williams Institute",
+          "link": "https://williamsinstitute.law.ucla.edu/wp-content/uploads/Public-Opinion-Trans-China-Chinese-Jun-2021.pdf",
+          "snippet": "(2018). Legal Gender Recognition in China: A. Legal and Policy Review (跨性别者性别认同的法律承认：中国相关法律和政策的评估报告). Beijing, China: UNDP China.",
+          "position": 28
+        },
+        {
+          "title": "卫生部规定申请变性手术须超20岁未在婚姻状态",
+          "link": "http://news.cctv.com/china/20091121/100333.shtml",
+          "snippet": "中新网11月21日电为做好变性手术技术审核和临床应用管理，保障医疗质量和医疗安全，卫生部组织制定了《变性手术技术管理规范(试行)》，并于日前印发给各地 ...",
+          "date": "2009年11月21日",
+          "position": 29
+        },
+        {
+          "title": "员工做变性手术被公司按旷工解雇，法官判出史诗级判例",
+          "link": "http://lawyeredu.pkulaw.cn:8091/index.php?m=content&c=index&a=show&catid=11&id=1255",
+          "snippet": "我们习惯于按照我们对于生物性别的认识去理解社会，但仍然会有一些人要按照自己的生活体验来表达他们的性别身份，对于这种表达，需要我们重新去审视和认识，更需要我们选择 ...",
+          "position": 30
+        },
+        {
+          "title": "终迎来法律保障！澳跨性别者可更换新出生证明 - 新华网",
+          "link": "http://www.xinhuanet.com/world/2016-08/19/c_129241068.htm",
+          "snippet": "澳跨性别者可更换新出生证明---据澳洲网18日报道，根据澳大利亚维州18日出台的一项新法律，变性者、多样性别者(gender diverse)或跨性别 ... 中国新闻网. 我有 ...",
+          "date": "2016年8月19日",
+          "position": 31
+        },
+        {
+          "title": "变性人结婚合法有效民政部就此作出明确答复 - 中国新闻网",
+          "link": "https://www.chinanews.com.cn/n/2003-01-17/26/264535.html",
+          "snippet": "这位负责人同时强调，变性人同我国其他公民一样，有权按照婚姻法与异性自愿登记结婚，这在法律上没有任何障碍设置。 编辑:叶晓刚. 【打印稿件】 ...",
+          "date": "2003年1月17日",
+          "position": 32
+        },
+        {
+          "title": "关于公民实施变性手术后变更户口登记性别项目有关问题的通知-河南 ...",
+          "link": "https://hnga.henan.gov.cn/2021/11-19/2350238.html",
+          "snippet": "一、公民实施变性手术后，申请变更户口登记性别项目的，须出具地级市（含外省）级以上医院为其成功实施变性手术的证明，经县市公安机关审核后，公安派出所应予 ...",
+          "date": "2021年11月19日",
+          "position": 33
+        },
+        {
+          "title": "生殖器相关手术 - MtF.wiki",
+          "link": "https://mtf.wiki/zh-cn/docs/srs/",
+          "snippet": "性别重置技术，是指通过外科手段（组织移植和器官再造）使手术对象的生理性别与其心理性别相符， 即切除原有的性器官并重建新性别的体表性器官和与之相匹配的第二性征的医疗 ...",
+          "position": 34
+        },
+        {
+          "title": "变性人有权以新性别结婚 - 人民日报",
+          "link": "http://paper.people.com.cn/rmrbhwb/html/2013-05/14/content_1239353.htm",
+          "snippet": "本报香港5月13日电（记者李永宁）香港终审法院今天裁定，变性人W指控香港现行婚姻法律禁止变性人结婚违宪成立，变性人有权在变性手术后以新的性别与异性结婚。",
+          "date": "2013年5月14日",
+          "position": 35
+        },
+        {
+          "title": "港府拟修法准许变性人结婚 - 中国法院网",
+          "link": "https://www.chinacourt.org/article/detail/2014/01/id/1174236.shtml",
+          "snippet": "日前香港特区政府向立法会提交修订婚姻条例的建议：准许变性人“男女”结婚。 2013年5月，香港终审法院裁定变性人享有结婚权利，宣告现行婚姻登记的相关 ...",
+          "date": "2014年1月9日",
+          "position": 36
+        },
+        {
+          "title": "对变性手术进行立法已成燃眉之急 - 新浪新闻",
+          "link": "https://news.sina.cn/sa/2007-04-26/detail-ikftpnny3859117.d.html",
+          "snippet": "“没有相关法律法规的保护，我们在选择手术对象的时候必须慎之又慎。”陈焕然解释原因。 身在南方的另一位“大师”、上海长征医院整形外科主任何清濂博士同样“ ...",
+          "date": "2007年4月26日",
+          "position": 37
+        },
+        {
+          "title": "[PDF] 性别选择权:性质界定与法权塑造 - 民商法律网",
+          "link": "https://www.civillaw.com.cn/uploadfile/lmpic/20180315/20180315200557734.pdf",
+          "snippet": "中国性科学,2004(6). [15]李岩.法律中性别二元范式的批判及重构[J].法制与. 社会发展,2013(3). [16]梁明玉.论中国古代文学中的变性人现象与文化[J].",
+          "date": "2018年3月15日",
+          "position": 38
+        },
+        {
+          "title": "[PDF] 摘要",
+          "link": "https://upr-info.org/sites/default/files/documents/2019-04/js16_upr31_chn_e_annexe1.pdf",
+          "snippet": "7. 在第二轮普遍定期审议中，中国政府接受了来自爱尔兰与荷兰的两条建议：. “设立反歧视法律法规，确保男女同性恋、双性恋和变性者享有平等待遇，包. 括在学校和工作场所享有 ...",
+          "position": 39
+        },
+        {
+          "title": "跨性别人群生存困境调查：多数人有遭受校园暴力经历 - 新闻频道",
+          "link": "http://news.cctv.com/2020/02/22/ARTIJ5mYNQzX05v1IZiDuRoN200222.shtml",
+          "snippet": "有跨性别者反映，毕业后做完性别重置手术，如果想要修改学历证件上的性别的话，即使拿着公安机关提供的证明材料，学校负责人还是会以“没有法律规定毕业后可以 ...",
+          "date": "2020年2月22日",
+          "position": 40
+        },
+        {
+          "title": "女-男变性手术的护理14例- 中国实用护理杂志",
+          "link": "https://rs.yiigle.com/cmaid/534525",
+          "snippet": "易性癖被认为是个体性角色中表现出的性别自我认知障碍性疾病.变性手术是针对易性癖患者进行的性别重塑整形外科手术[1].目前,国际上大多数专家认为,对真正的易性癖患者, ...",
+          "position": 41
+        },
+        {
+          "title": "中国的法律允许变性吗 - 法行宝",
+          "link": "https://ailegal.baidu.com/legalarticle/qadetail?id=5aaea0c7bbc32d000703",
+          "snippet": "中国法律允许并保护公民变性的权益，但需满足医学上易性症的诊断条件。变性人可申请更换身份证以反映新性别身份，需提交书面申请、户口簿、身份证及性别鉴定证明等材料。",
+          "position": 42
+        },
+        {
+          "title": "香港法院撤销对跨性别男性的强制手术要求 - Human Rights Watch",
+          "link": "https://www.hrw.org/zh-hans/news/2023/02/13/hong-kong-court-rejects-compulsory-surgery-trans-men",
+          "snippet": "... ，裁定香港政府要求跨性别男性接受“完整的性别重置手术”才能更改法定性别 ... 日本通过法律 ...",
+          "date": "2023年2月13日",
+          "position": 43
+        },
+        {
+          "title": "性别的挣扎 - 中国青年报",
+          "link": "http://zqb.cyol.com/content/2002-07/24/content_497432.htm",
+          "snippet": "遗憾的是，从卫生部有关部门我了解到，我国在变性手术方面，至今还没有一部相关的法规和规定。除了弥补身体上的生理缺陷以外，公民有没有要求改变自身性别的 ...",
+          "date": "2002年7月24日",
+          "position": 44
+        },
+        {
+          "title": "越南国会通过民事法律承认变性权 - 中国日报网",
+          "link": "http://world.chinadaily.com.cn/2015-11/26/content_22521704.htm",
+          "snippet": "越南（为同性、双性、变性人的权利活动组织）ICS中心的媒体管理人员荧草先生认为，11月24日国会通过的修改民事法中承认变性权，这是变性人乃至同性、双性、 ...",
+          "date": "2015年11月26日",
+          "position": 45
+        },
+        {
+          "title": "香港终审法院裁决给予跨性别人士更改身份证权利 - 美国之音",
+          "link": "https://www.voachinese.com/a/hk-court-makes-ruling-protecting-transgender-02262023/6950113.html",
+          "snippet": "香港终审法院星期一（2月6日）在未完成变性手术跨性别人士被入境处拒绝更改身分证性别案的上诉中裁定，政府规定跨性别人士必须接受整个性别重置手术， ...",
+          "date": "2023年2月7日",
+          "position": 46
+        },
+        {
+          "title": "香港终院称婚姻性质已变化变性人有权结婚 - 时政- 人民网",
+          "link": "http://politics.people.com.cn/n/2013/0514/c70731-21475682.html",
+          "snippet": "特区终院13日以四比一裁定变性人可结婚，认为将性别局限于生理上的男性或女性，会抵触宪法保护的结婚权。惟终院下令将裁决暂缓执行12个月，以便当局修改《 ...",
+          "date": "2013年5月14日",
+          "position": 47
+        },
+        {
+          "title": "中国法律服务网",
+          "link": "https://www.moj.gov.cn/zwfw/zwfwsfjd/",
+          "snippet": "我已阅读并接受《中国法律服务网注册协议》 ... 您对中国法律服务网提的每一条投诉和建议，都是我们宝贵的财富！ 姓名, 地区. 手机号, 性别. 标题. 内容. 验证码. 提交. 重置.",
+          "position": 48
+        },
+        {
+          "title": "变性手术怎么办 - 丁香医生",
+          "link": "https://m.dxy.com/surgery/29747/detail?dxa_adplatform=m.dxy.com",
+          "snippet": "我国目前允许开展变性手术。为了进一步规范性别重置技术临床应用，保证医疗质量和医疗安全，中华人民共和国卫生健康委员会在2017 年发布《性别重 ...",
+          "position": 49
+        },
+        {
+          "title": "法内有情：英国变性人转送女性监狱服刑 - BBC",
+          "link": "https://www.bbc.com/zhongwen/simp/uk/2015/10/151030_uk_tara_hudson_prison",
+          "snippet": "在英国司法部网站的资料显示，必须按囚犯的“法律承认”性别监禁，通常是以出生证书上列出的性别作准。假若一个人获得“性别承认证书”，此人也会获发反映变性的 ...",
+          "date": "2015年10月30日",
+          "position": 50
+        },
+        {
+          "title": "变性人为爱来华陪伴男友失去爱情生活窘迫非法居留",
+          "link": "https://gaj.sh.gov.cn/shga/wzXxfbGj/detail?pa=110ef360e4374a4148919931244dda86032e6025e79f8ab042d18e69f09b9c7a",
+          "snippet": "东南亚人简（化名）所持护照的性别项登记为男性，但曾在日本接受过变性手术，故具备部分女性生理特征。他在日本的酒吧里以跳舞表演为生。在酒吧里，他结识了外籍男友 ...",
+          "position": 51
+        },
+        {
+          "title": "[DOC] 变性手术技术管理规范（试行）",
+          "link": "http://www.nhc.gov.cn/cmsresources/mohyzs/cmsrsdocument/doc6592.doc",
+          "snippet": "本规范所称变性手术，是指通过整形外科手段（组织移植和器官再造）使易性癖病患者的生理性别与其心理性别相符，即切除其原有的性器官并重建新性别的体表性器官和第二性征。 一 ...",
+          "position": 52
+        },
+        {
+          "title": "中华人民共和国劳动法 - 中国政府网",
+          "link": "https://www.gov.cn/banshi/2005-05/25/content_905.htm",
+          "snippet": "第十二条劳动者就业，不因民族、种族、性别、宗教信仰不同而受歧视。 第十三条妇女享有与男子平等的就业权利。在录用职工时，除国家规定的不适合妇女的工种或者岗位 ...",
+          "position": 53
+        },
+        {
+          "title": "德国通过性别自决法 - 维基新闻:首页",
+          "link": "https://zh.wikinews.org/zh-cn/%E5%BE%B7%E5%9C%8B%E9%80%9A%E9%81%8E%E6%80%A7%E5%88%A5%E8%87%AA%E6%B1%BA%E6%B3%95",
+          "snippet": "新法要求变更性别后的名字必须与新的法定性别相符──男性须使用公认的男性名字，女性须使用公认的女性名字。法律亦容许如女子健身房及更衣室等场所自行决定 ...",
+          "date": "2024年4月15日",
+          "position": 54
+        },
+        {
+          "title": "J. 变性人的婚姻",
+          "link": "https://www.clic.org.hk/cn/topics/familyMatrimonialAndCohabitation/marraige_and_cohabitant_issues/transsexual_marriage",
+          "snippet": "在 W诉婚姻登记官 一案中，终审法院承认变性人婚姻的权利，裁定「女人」及「女性」的定义包括医学上证明已因手术转换性别，由男性变为女性的变性人。 因此，法院认为，W可在法律 ...",
+          "position": 55
+        },
+        {
+          "title": "香港完成性征改变者可申请改身份证性别 - 南美侨报网",
+          "link": "http://www.br-cn.com/static/content/news/ch_news/2024-04-04/1225408262419028097.html",
+          "snippet": "新加坡《联合早报》报道，在新修订的政策下，未完成整项性别重置手术的人士，若能提交相关医学证明和文件，证明完成切除乳房、由女性重置为男性；或切除阴茎和 ...",
+          "date": "2024年4月3日",
+          "position": 56
+        },
+        {
+          "title": "中国裁判文书网 - 最高人民法院",
+          "link": "https://wenshu.court.gov.cn/",
+          "snippet": "指导性案例; 优秀文书. 公开类型. 请选择. 请选择; 文书公开; 信息公开. 审判人员. 当事人. 律所. 律师. 法律依据. 检索 重置 ... 中国审判流程信息公开网| 中国司法大数据 ...",
+          "position": 57
+        },
+        {
+          "title": "越南：跨性别人权迈进一步",
+          "link": "https://www.hrw.org/zh-hans/news/2015/11/30/284029",
+          "snippet": "（柏林）－越南国民大会已于2015年11月24日通过立法，使变性手术合法化，并允许已完成该手术的跨性别人士有权获得法律承认。 新法允许人民在越南境内而非国外 ...",
+          "date": "2015年11月30日",
+          "position": 58
+        },
+        {
+          "title": "你需要知道的关于在押跨性别者的待遇 - The Legal Aid Society",
+          "link": "https://legalaidnyc.org/zh-CN/%E5%BE%97%E5%88%B0%E5%B8%AE%E5%8A%A9/%E4%BF%9D%E9%87%8A%E7%9B%91%E7%A6%81/%E5%85%B3%E4%BA%8E%E8%B7%A8%E6%80%A7%E5%88%AB%E5%9C%A8%E5%9B%9A%E4%BA%BA%E5%A3%AB%E7%9A%84%E5%BE%85%E9%81%87%E4%BD%A0%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%8B/",
+          "snippet": "在城市监狱中，有一个变性人住房单元（THU），许多变性妇女被安全地安置在那里。 THU 现在在女子监狱中，因此跨性别女性可以与顺性别女性一起编程，有时也与顺性别女性同住。",
+          "position": 59
+        },
+        {
+          "title": "英国年底前将修订法律允许变性人更改出生纪录",
+          "link": "https://legal-theory.org/?mod=info&act=view&id=696",
+          "snippet": "中新网12月11日电英国当局将在今年底前宣布一项司法改革，使英国法律和欧洲法律一样，允许进行过变性手术的人可以在出生证书上更改他们的性别，从而让 ...",
+          "date": "2002年12月12日",
+          "position": 60
+        },
+        {
+          "title": "瑞典通过新法合法变性年龄从18降到16 - RFI",
+          "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85%E6%8A%A5%E9%81%93/20240418-%E7%91%9E%E5%85%B8%E9%80%9A%E8%BF%87%E6%96%B0%E6%B3%95-%E5%90%88%E6%B3%95%E5%8F%98%E6%80%A7%E5%B9%B4%E9%BE%84%E4%BB%8E18%E9%99%8D%E5%88%B016",
+          "snippet": "（法新社斯德哥尔摩17日电） 瑞典国会今天通过备受争议的法律，将合法变性的最低年龄从18岁降至16岁，并让取得手术干预的途径变得更为简单。",
+          "date": "2024年4月18日",
+          "position": 61
+        },
+        {
+          "title": "变性手术专家夏兆骥教授 - China today",
+          "link": "http://www.chinatoday.com.cn/china/20024/bianxing.htm",
+          "snippet": "我们不能回避这样一个事实：性别转换症的发病率男性为四万分之一，女性为十万分之一。专门为那些固执要求改变自己性别的易性癖患者实施整形美容外科手术的医务人员，肩上 ...",
+          "position": 62
+        },
+        {
+          "title": "男女平等：从法律的基本原则到具体措施",
+          "link": "http://iolaw.cssn.cn/zxzp/201607/t20160707_4642617.shtml",
+          "snippet": "实行男女婚姻自由、一夫一妻、男女权利平等，保护妇女和子女合法利益的新民主主义婚姻制度。”（第1条）为基本任务。这部法律触及中国封建社会以男性为中心，男尊女卑的婚姻家庭 ...",
+          "position": 63
+        },
+        {
+          "title": "美国之音中文网on X: \"【中国一跨性别女士不满被解雇起诉前雇主 ...",
+          "link": "https://twitter.com/VOAChinese/status/1204928856454565888",
+          "snippet": "【中国一跨性别女士不满被解雇起诉前雇主】今年早些时候，一位杨姓的中国变性女士在完成性别重置手术后不久被公司解雇。被解雇的原因是长期办事拖拖拉 ...",
+          "date": "2019年12月12日",
+          "position": 64
+        },
+        {
+          "title": "活动人士抨击香港针对跨性别者的身份证性别更改政策 - 美国之音",
+          "link": "https://www.voachinese.com/a/activists-slam-new-hong-kong-id-card-policy-for-trans-people-20240403/7555703.html",
+          "snippet": "此前香港最高法院于2023年裁定，政府要求一个人完成全面的变性手术才能更改身份证上的“性别条目”的政策是违宪的。 终审法院当时裁定，这项政策“对个别有关 ...",
+          "date": "2024年4月4日",
+          "position": 65
+        },
+        {
+          "title": "中国法律服务网",
+          "link": "https://www.meizhou.gov.cn/ct_outlink_displace=c2lnPTFlZGI2ZTg1ODI5NGYzMWY0YTBmOTJlYzBlM2JjZjQ4JnRpbWVzPTEmbG9jPSUyMyUyRmhvbWVwYWdlJnNjaGVtZT1odHRwJmhvc3Q9d3d3LjEyMzQ4Lmdvdi5jbiZocmVmPTE=/",
+          "snippet": "中国政务服务平台账号登录. {{smsLogin ... 您对中国法律服务网提的每一条投诉和建议，都是我们宝贵的财富！ 姓名, 地区. 手机号, 性别. 标题. 内容. 验证码. 提交. 重置. img.",
+          "position": 66
+        },
+        {
+          "title": "香港未完成重置手术的跨性别者可改身份证性别 - 联合早报",
+          "link": "https://www.zaobao.com.sg/realtime/china/story20240403-3255461",
+          "snippet": "香港政府星期三（4月3日）宣布，未完成重置手术的跨性别者，若已完成指定手术改变其性别特征等，即日起可申请更改其香港身份证上的性别记项。",
+          "date": "2024年4月3日",
+          "position": 67
+        },
+        {
+          "title": "报告揭示中国跨性别者暗不见光的生活 - 纽约时报",
+          "link": "https://cn.nytimes.com/china/20150128/c28transgender/",
+          "snippet": "在中国，变装和变性手术并不违法，但中华医学会精神病学分会将寻求改变性别的个体归为精神病患者。很多维权人士希望变更这种判断。 该报告建议采取更高效的 ...",
+          "date": "2015年1月28日",
+          "position": 68
+        },
+        {
+          "title": "[PDF] 跨性别证件修改手册",
+          "link": "https://docs.transonline.org.cn/files/%E8%B7%A8%E6%80%A7%E5%88%AB%E8%AF%81%E4%BB%B6%E4%BF%AE%E6%94%B9%E6%89%8B%E5%86%8C.pdf",
+          "snippet": "目前尚未有裁判文书记载，公安部门拒绝为已完成性别重置手术的跨性. 别者 ... 中国相关法律和政策的评估报告》，第18-19 页. 6 跨儿说：《经验分享 ...",
+          "date": "2019年9月28日",
+          "position": 69
+        },
+        {
+          "title": "在跨性别青少年门诊，目睹中国家庭的撕裂 - QQ News",
+          "link": "https://news.qq.com/rain/a/20230114A06MUS00?no-redirect=1",
+          "snippet": "一位家长迫于孩子的压力，在性别重置手术知情同意书上签了字，为了阻止这场手术，只能转移目标，在医院多次举报投诉潘柏林“毒害国家青少年”，怀疑他“有国外势力 ...",
+          "date": "2023年1月14日",
+          "position": 70
+        },
+        {
+          "title": "中国跨性主持人金星：“不公平，我不接受” - BBC News 中文",
+          "link": "https://www.bbc.com/zhongwen/simp/chinese-news-42149172",
+          "snippet": "金星回忆说，她在6岁时就有做女人的想法，等到28岁才做变性手术。她说，中国社会对于跨性人士的态度在发生积极的变化。2017年年初，中国贵州一家法院就一起跨 ...",
+          "date": "2018年1月25日",
+          "position": 71
+        },
+        {
+          "title": "眼光美国最高法院将第七章保护范围扩大到性取向和变性身份",
+          "link": "https://hawleytroxell.com/zh-CN/insights/u-s-supreme-court-extends-title-vii-protections-to-sexual-orientation-and-transgender-status/",
+          "snippet": "15 年2020 月6 日，美国最高法院裁定，禁止基于“性别”的歧视的联邦法律现在将包括对基于性取向、跨性别和性别认同的个人的保护。 在博斯托克诉佐治亚州克莱顿县一案中，戈 ...",
+          "position": 72
+        },
+        {
+          "title": "在中國，跨性別手術何其難！",
+          "link": "https://insidechina.rti.org.tw/news/view/id/2114902",
+          "snippet": "在中國，跨性別人士如果想要更改身分證上性別，仍需要完成性別重置手術。而這一強迫人承受身體上巨大痛苦和心裡壓力的要求，竟然只是通過中央的公安部對地方 ...",
+          "date": "2021年10月25日",
+          "position": 73
+        },
+        {
+          "title": "变性人的婚姻 - Family CLIC",
+          "link": "https://familyclic.hk/cn/topics/matrimonial-matters/marriage-and-co-habitant-issues/transsexual-marriage/",
+          "snippet": "在 W诉婚姻登记官 一案中，终审法院承认变性人婚姻的权利，裁定「女人」及「女性」的定义包括医学上证明已因手术转换性别，由男性变为女性的变性人。 因此，法院认为，W可在法律 ...",
+          "position": 74
+        },
+        {
+          "title": "中华人民共和国民法典_滚动新闻 - 中国政府网",
+          "link": "https://www.gov.cn/xinwen/2020-06/01/content_5516649.htm",
+          "snippet": "第十九条八周岁以上的未成年人为限制民事行为能力人，实施民事法律行为由其法定代理人代理或者经其法定代理人同意、追认；但是，可以独立实施纯获利益的民事 ...",
+          "date": "2020年6月1日",
+          "position": 75
+        },
+        {
+          "title": "中国跨性别就业平权第一案 - Radio Free Asia",
+          "link": "https://www.rfa.org/mandarin/yataibaodao/shehui/hj-12112019143336.html",
+          "snippet": "她于去年完成性别重置手术后，被公司以“多次迟到”为由辞退，也没有获得 ... 无论从中国最高法院修订法律，还是有法院受理相关案件来看，中国在 ...",
+          "date": "2019年12月11日",
+          "position": 76
+        },
+        {
+          "title": "中国跨性别性工作者亲述：广受歧视最怕警察 - DW",
+          "link": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E6%80%A7%E5%B7%A5%E4%BD%9C%E8%80%85%E4%BA%B2%E8%BF%B0%E5%B9%BF%E5%8F%97%E6%AD%A7%E8%A7%86-%E6%9C%80%E6%80%95%E8%AD%A6%E5%AF%9F/a-18212879",
+          "snippet": "中国官方只允许做过完整变性手术的人在身份证上更改性别。赵飞燕说：\"但因为手术价格昂贵，只有少数人可以承担该费用。而且手术不无风险，失败的话他们也因为 ...",
+          "date": "2015年1月26日",
+          "position": 77
+        },
+        {
+          "title": "丈夫私自做了变性手术，婚姻关系合法吗？ - 河南省高级人民法院",
+          "link": "https://www.hncourt.gov.cn/public/detail.php?id=48902",
+          "snippet": "当前位置： 法律援助 -> 专家回复. 无此文件. 〖关闭窗口〗. 最高人民法院 人民网 新华网 中国法院网 人民法院报 中国裁判文书网 河南省人民政府网 大河网 华东政法大学.",
+          "position": 78
+        },
+        {
+          "title": "当当网产品总监做变性手术后疑遭歧视被解雇，法院在判决书里写了 ...",
+          "link": "https://www.jfdaily.com/wx/detail.do?id=265915",
+          "snippet": "法院认为，高某某所患的易性症是一种少见的性别身份认同障碍，属于精神类疾病。根据原国家卫生计生委办公厅发布的《性别重置技术管理规范（2017年版）》之规定 ...",
+          "date": "2020年7月4日",
+          "position": 79
+        },
+        {
+          "title": "马里兰州卫生部- 性别重置- 人民法律图书馆",
+          "link": "https://peoples-law.org/zh-CN/maryland-dept-health-gender-reassignment",
+          "snippet": "马里兰州卫生部- 性别重置. 立即退出按钮. 没有. 这是法律建议吗？ 本网站提供法律信息，而不是法律建议。我们尽一切努力确保信息的准确性并清楚地解释您的 ...",
+          "date": "2004年5月15日",
+          "position": 80
+        },
+        {
+          "title": "“变性手术后后悔”上热搜：恐跨迷思之外，看到跨性别青少年现实境遇",
+          "link": "https://www.tycommonlanguage.com/post/%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF%E5%90%8E%E5%90%8E%E6%82%94-%E4%B8%8A%E7%83%AD%E6%90%9C%EF%BC%9A%E6%81%90%E8%B7%A8%E8%BF%B7%E6%80%9D%E4%B9%8B%E5%A4%96%EF%BC%8C%E7%9C%8B%E5%88%B0%E8%B7%A8%E6%80%A7%E5%88%AB%E9%9D%92%E5%B0%91%E5%B9%B4%E7%8E%B0%E5%AE%9E%E5%A2%83%E9%81%87",
+          "snippet": "性别肯定手术是指通过外科手段（组织移植和器官再造）使手术对象的生理性别与其性别认同相符的一种手术。出于缓解性别不安、获得更理想身体特征、改变法律 ...",
+          "date": "2022年7月12日",
+          "position": 81
+        },
+        {
+          "title": "跨性别人士的真实生态 - 新民周刊",
+          "link": "https://m.xinminweekly.com.cn/content/973.html",
+          "snippet": "但目前国家并没有法律明确规定，变性者必须将其变性经历告知配偶。所以，对于变性者对配偶隐瞒的做法，我们也只能劝导。”另外据了解，变性后再造的女性生殖 ...",
+          "date": "2018年11月30日",
+          "position": 82
+        },
+        {
+          "title": "易性症研究进展- 中华整形外科杂志",
+          "link": "https://rs.yiigle.com/cmaid/903662",
+          "snippet": "易性症是一种由持续的生物性别与心理性别的严重不协调导致的性别身份障碍性疾病，患者深信自身为异性，强烈要求通过激素、变性手术等改变性别解剖结构及性征，直到获得 ...",
+          "position": 83
+        },
+        {
+          "title": "变性人买保险接连吃到闭门羹保险公司称有风险 - 央广网",
+          "link": "http://news.cnr.cn/native/gd/20150701/t20150701_519020768.shtml",
+          "snippet": "王姝律师说，有关保险公司要不要给变性人做保险的相关法律条文目前还没有法律的界定，属于空白，她个人认为，遵从法律，尊重双方个人意见，或许能寻求更好地处理 ...",
+          "date": "2015年7月1日",
+          "position": 84
+        },
+        {
+          "title": "营业性演出管理条例 - 中华人民共和国文化和旅游部",
+          "link": "https://zwgk.mct.gov.cn/zfxxgkml/zcfg/xzfg/202012/t20201204_905467.html",
+          "snippet": "个体演员、个体演出经纪人应当自领取营业执照之日起20日内向所在地县级人民政府文化主管部门备案。 第十条外国投资者可以依法在中国境内设立演出经纪机构、演出场所经营 ...",
+          "position": 85
+        },
+        {
+          "title": "性别重置手术概论 - FtM.wiki",
+          "link": "https://ftm.wiki/zh-cn/srs/overview/",
+          "snippet": "在内的部分功能，以及在一些国家得以修改法律性别的权利（在大陆地区为一期）。 在社会身份等方面，SRS 的影响是相对间接的。此外在进行良好的HRT 的基础上，. SRS（或单 ...",
+          "position": 86
+        },
+        {
+          "title": "新版《妇女权益保障法》九大亮点解读 - 北京政法网",
+          "link": "https://www.bj148.org/123/202301/t20230101_1644493.html",
+          "snippet": "禁止虐待、遗弃、残害、买卖以及其他侵害女性生命健康权益的行为。禁止进行非医学需要的胎儿性别鉴定和选择性别的人工终止妊娠。医疗机构施行生育手术、 ...",
+          "date": "2023年1月1日",
+          "position": 87
+        },
+        {
+          "title": "变更身份证遭遇管理空白：“变性人”的性别尴尬 - 新闻- 搜狐",
+          "link": "http://news.sohu.com/80/76/news200587680.shtml",
+          "snippet": "4月3日，豫北某市男子张某在河南省人民医院做了变性手术，30岁的男子变成了女儿身。由此带来的户籍登记和身份证如何变更的问题，已引起公安部门的重视。 我国 ...",
+          "date": "2002年4月24日",
+          "position": 88
+        },
+        {
+          "title": "卫生部：变性手术前患者须提交无在案犯罪证明 - 中国新闻网",
+          "link": "https://www.chinanews.com/jk/news/2009/06-16/1736036.shtml",
+          "snippet": "本规范所称变性手术，是指通过整形外科手段(组织移植和器官再造)使易性癖病患者的生物学性别与其心理性别相符。即切除其原有的性器官并重建新性别的体表 ...",
+          "date": "2009年6月16日",
+          "position": 89
+        },
+        {
+          "title": "第三性成为正式性别部分国家已区别对待_热点聚焦 - 明德公法网",
+          "link": "http://www.calaw.cn/article/default.asp?id=5888",
+          "snippet": "而变性人只要出具医生证明，便可更改护照上的性别选项。政府发言人称，实施这项新政策是为了消除对变性人和双性人的性别歧视。在这个政策出台之前，性别 ...",
+          "date": "2011年9月26日",
+          "position": 90
+        },
+        {
+          "title": "性別重置手術（變性手術）-陰道成形術 - 中國醫藥大學新竹附設醫院",
+          "link": "https://www.cmu-hch.cmu.edu.tw/NewsInfo/NewsArticle?no=2173",
+          "snippet": "目前國內男變女變性手術的醫療常規建議，在手術前須有兩位精神科(身心科)醫師鑑定通過，始得進行申請。由於手術是不可逆的，可事前保留精子以待將來國內 ...",
+          "date": "2021年12月7日",
+          "position": 91
+        },
+        {
+          "title": "国内允许变性手术吗？身体可以改变性别，身份证的性别能改吗 - 搜狐",
+          "link": "https://www.sohu.com/a/442577116_120136146",
+          "snippet": "根据《公安部关于公民实施变性手术后变更户口登记性别项目有关问题的批复》，因为实施变性手术变更性别 ... 接下来说一说重点，中国法律允许变性手术吗？ 2009 ...",
+          "date": "2021年1月5日",
+          "position": 92
+        },
+        {
+          "title": "“变性人结婚”引发的法律问题-法搜 - FSou.Com",
+          "link": "http://www.fsou.com/Html/text/art/3355695/335569519.html",
+          "snippet": "这条消息再次引起人们对变性问题的关注。实际上，变性的现象在中国早就存在，但变性人能得到婚姻登记部门的认可并准予结婚，这还是第一次。 变性人一般是由于患有医学上所称的 ...",
+          "position": 93
+        },
+        {
+          "title": "普京签署法案禁止变性手术-观察者网",
+          "link": "https://www.guancha.cn/internation/2023_07_25_702294.shtml",
+          "snippet": "据塔斯社报道，俄罗斯法律信息官方网站当天公布了法案内容。该法案补充了关于俄罗斯国民健康保护的条款，规定禁止为试图改变性别的人士提供变性手术等 ...",
+          "date": "2023年7月25日",
+          "position": 94
+        },
+        {
+          "title": "变性后丢了工作？杭州法院公开审理一起跨性别平等就业权纠纷案",
+          "link": "https://ori.hangzhou.com.cn/ornews/content/2019-12/04/content_7315445.htm",
+          "snippet": "被告公司诉称平等对待所有员工，解除劳动合同的根本原因是小蓝多次迟到严重违反公司的规章制度，而不是不合理的区别对待和跨性别身份歧视的侵权事实。",
+          "date": "2019年12月4日",
+          "position": 95
+        },
+        {
+          "title": "（2008年）公安部治安管理局关于公民手术变性后变更户口登记性别 ...",
+          "link": "https://m.055110.com/law/1/20701.html",
+          "snippet": "实施变性手术的公民申请变更户口登记性别项目时，应当提供国内三级医院出具的性别鉴定证明和公证部门出具的公证书，或司法鉴定部门出具的证明，经地（市）级 ...",
+          "date": "2023年10月28日",
+          "position": 96
+        },
+        {
+          "title": "跨性別者的平等承認：中國內地、香港和台灣的平權實踐 - HKU Law",
+          "link": "https://www.law.hku.hk/events/%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85%E7%9A%84%E5%B9%B3%E7%AD%89%E6%89%BF%E8%AA%8D%EF%BC%9A%E4%B8%AD%E5%9C%8B%E5%85%A7%E5%9C%B0%E3%80%81%E9%A6%99%E6%B8%AF%E5%92%8C%E5%8F%B0%E7%81%A3%E7%9A%84%E5%B9%B3/",
+          "snippet": "性別承認（gender recognition）是指跨性別人士、雙性人士基於自我認同而主張自己的性別，並獲得法律承認和保障的權利。性別承認作為一項基本人權，被聯合國 ...",
+          "date": "2021年10月22日",
+          "position": 97
+        },
+        {
+          "title": "大法院公布变性人通过法律改变性别的许可标准 - 中央日报",
+          "link": "https://chinese.joins.com/news/articleView.html?idxno=35576",
+          "snippet": "大法院公布了接受变性手术的人通过法律改变性别的许可标准。为了防止由于修改性别使韩国《民法》不允许的同性婚姻实际上变得可能等副作用， ...",
+          "date": "2011年9月3日",
+          "position": 98
+        },
+        {
+          "title": "名镇、名村保护范围内的违法行为的处罚 - 湖北政务服务网",
+          "link": "http://zwfw.hubei.gov.cn/webview/bszn/bsznpage.html?transactCode=633252691102924800",
+          "snippet": "警告罚款法律、行政法规规定的其他行政处罚. 简易程序. 无. 主体性质. 法定机关. 权力 ... 由案件审理部门就案件程序、案件事实和其他事项进行合法性和合理性审查, 无.",
+          "position": 99
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "性别重置 法律 中国",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "名镇、名村保护范围内的违法行为的处罚 - 湖北政务服务网",
+          "link": "http://zwfw.hubei.gov.cn/webview/bszn/bsznpage.html?transactCode=633252691102924800",
+          "snippet": "警告罚款法律、行政法规规定的其他行政处罚. 简易程序. 无. 主体性质. 法定机关. 权力 ... 由案件审理部门就案件程序、案件事实和其他事项进行合法性和合理性审查, 无.",
+          "position": 1
+        },
+        {
+          "title": "1. 我在香港合法结婚。如果后来我的配偶变性，我的婚姻还有效吗？",
+          "link": "https://www.clic.org.hk/cn/topics/familyMatrimonialAndCohabitation/marraige_and_cohabitant_issues/transsexual_marriage/spouse_changes_sex",
+          "snippet": "在香港每一段婚姻都必须是一男一女的结合。任何人接受过变性手术后将被视为手术后该人被重新分配的性别。变性后该人的婚姻会因双方已非男女间的结合为由而无效，因该人 ...",
+          "position": 2
+        },
+        {
+          "title": "法治是中国式现代化的重要保障 - 光明网-理论频道",
+          "link": "https://theory.gmw.cn/2024-10/31/content_37648367.htm",
+          "snippet": "党的十八大以来，以习近平同志为核心的党中央明确法律是治国之重器，把全面依法治国纳入“四个全面”战略布局，充分发挥法治引导、推动、规范、保障改革，防范 ...",
+          "date": "4天前",
+          "position": 3
+        },
+        {
+          "title": "无讼阅读｜变性人犯罪后该关押在哪里？",
+          "link": "http://victory.itslaw.cn/victory/api/v1/articles/article/179599e8-8ce7-4c04-ad48-ecf9dd470593",
+          "snippet": "根据《公安部治安管理局关于公民手术变性后变更户口登记性别项目有关问题的批复》（公治[2008]478号）：“实施变性手术的公民申请变更户口登记性别项目时，应当提供国内三级医院 ...",
+          "position": 4
+        },
+        {
+          "title": "职场人必看：中国首个跨性别平等就业权案背后的法律问题 - 虎嗅",
+          "link": "https://m.huxiu.com/article/380270.html",
+          "snippet": "同样是跨性别女性，同样是在完成性别肯定手术（旧称“变性手术”）后被单位辞退。除了判决结果一胜一负之外，两个案件的不同之处还在于：. 使用了“劳动争议纠纷” ...",
+          "date": "2020年9月4日",
+          "position": 5
+        },
+        {
+          "title": "民政部解答：变性人怎样处理原婚姻关系 - 中国青年报",
+          "link": "https://zqb.cyol.com/content/2003-01/17/content_598709.htm",
+          "snippet": "新华社北京1月16日电（记者李薇薇翟伟）如果夫妻双方中有一个人做了变性手术，已成为同性的两个人的婚姻关系怎么处理呢？民政部日前对此作出明确答复：变性 ...",
+          "date": "2003年1月17日",
+          "position": 6
+        },
+        {
+          "title": "史上首个做变性手术的医院，怎样了？-腾讯新闻",
+          "link": "https://news.qq.com/rain/a/20210513A0DC5F00",
+          "snippet": "中华精神病学会推出第三版“中国精神疾病诊断标准”（CCMD-3），将同性恋从精神疾病分类中删除。 德国刑事法第175条在赫希菲尔德死后60年，终告废除。 2011年， ...",
+          "date": "2021年5月13日",
+          "position": 7
+        },
+        {
+          "title": "高世瑜：中国古代性别制度的法典化 - 国际经济法网",
+          "link": "https://ielaw.uibe.edu.cn/zyflrcjy/9492.htm",
+          "snippet": "睡虎地秦简《法律答问》中便有多条关于男女婚姻关系的问答。汉代是儒家礼教发展的重要时期，关于性别的法律也有所发展。如《白虎通》载：“女子淫，执置 ...",
+          "date": "2012年3月6日",
+          "position": 8
+        },
+        {
+          "title": "[PDF] 法律中性别二元范式的批判及重构",
+          "link": "https://en.lnu.edu.cn/__local/3/44/BD/DA31CB5EFF34AE73F3EFC00D771_B5E2E5D0_6275F.pdf",
+          "snippet": "尽管法律承认人的三种性别分类但认为法律不需要设置三种规则调整. 社会生活。从 ... 受到法律的保护成为合法的中国公民，在性别上必须妥协，选择男或者女。 法律上 ...",
+          "position": 9
+        },
+        {
+          "title": "性別承認議題公眾諮詢展開 - 政府資訊中心",
+          "link": "https://www.info.gov.hk/gia/general/201706/23/P2017062300566.htm",
+          "snippet": "目前，香港並無法例讓一個人就所有法律目的而言，承認其重置的、後天取得的或屬意的性別。法律亦沒有規定政府部門和私人機構必須接受某人香港身份證上所標示 ...",
+          "date": "2017年6月23日",
+          "position": 10
+        },
+        {
+          "title": "跨性别者核桃：先遵循内心成为女性，再突破男性凝视 - 歪脑",
+          "link": "https://www.wainao.me/wainao-reads/transgender-walnut-interview-09202021",
+          "snippet": "跨性别者发起的劳动争议中，2020年罕见的胜诉引起不少关注。原告高某某休两个月病假、完成性别重置手术后，却被公司辞退。最终，北京市第二中级人民法院判定， ...",
+          "date": "2021年9月20日",
+          "position": 11
+        },
+        {
+          "title": "政府拒絕未完成全面性別重置手術的跨性別男性更改身份證性別",
+          "link": "https://www.onc.hk/zh_HK/publication/court-of-final-appeal-finds-government-s-refusal-to-allow-transgender-men-using-their-acquired-gender-on-identity-cards-without-undergoing-full-sex-reassignment-surgery-unconstitutional",
+          "snippet": "終審法院認為，拒絕上訴人更改性別標記會導致他們在需要被檢查身份證的日常活動中受到侮辱、痛苦和尊嚴受損。此外，該政策規定申請人必須接受全面性別重置 ...",
+          "date": "2023年2月28日",
+          "position": 12
+        },
+        {
+          "title": "性别重置技术管理规范(2017年版)-北京整形美容医院",
+          "link": "https://www.sar.com.cn/industry/12296.html",
+          "snippet": "为规范性别重置技术临床应用,保证医疗质量和医疗安全,制定本规范。本规范所称性别重置技术，是指通过外科手段(组织移植和器官再造)使手术对象的生理 ...",
+          "date": "2022年8月31日",
+          "position": 13
+        },
+        {
+          "title": "国家法律法规数据库",
+          "link": "https://flk.npc.gov.cn/",
+          "snippet": "社会法 刑法 诉讼与非诉讼程序法. 法律解释 有关法律问题和重大问题的决定（部分） 修改、废止的决定. 行政法规. 监察法规. 地方性法规. 地方性法规. 全选 省级地方性法规 设 ...",
+          "position": 14
+        },
+        {
+          "title": "男人变女人不公平！奥运会第一位变性选手参加女子举重将 ... - 上观新闻",
+          "link": "https://m.jfdaily.com/wx/detail.do?id=389658",
+          "snippet": "与她同级别的中国名将李雯雯是东京奥运会夺冠大热门。 东京奥运会的举重赛场将出现变性选手的身影！新西兰举重运动员劳蕾尔· ...",
+          "date": "2021年7月26日",
+          "position": 15
+        },
+        {
+          "title": "《云南省女职工劳动保护特别规定》政策解读",
+          "link": "https://www.yn.gov.cn/zwgk/zcjd/bmjd/202410/t20241017_304921.html",
+          "snippet": "二十大报告中提出“坚持男女平等基本国策，保障妇女儿童合法权益”。习近平总书记高度重视和关心妇女事业发展，明确指出“要把保障妇女权益系统纳入法律法规， ...",
+          "date": "2024年10月17日",
+          "position": 16
+        },
+        {
+          "title": "国内允许变性手术吗？身体可以改变性别，身份证的性别能改吗 - 网易",
+          "link": "https://www.163.com/dy/article/FVJACBER05498MWA.html",
+          "snippet": "1983年，一个叫做张克沙的大哥进行了中国首例变性手术，从此张克沙变成了张克莎，张大哥变成张大姐，她也成了中国变性第一人！ 接下来说一说重点，中国法律允许 ...",
+          "date": "2021年1月5日",
+          "position": 17
+        },
+        {
+          "title": "金砖国家领导人第十六次会晤喀山宣言（全文） - 外交部",
+          "link": "https://www.mfa.gov.cn/zyxw/202410/t20241024_11515637.shtml",
+          "snippet": "通过促进和平，构建更具代表性、更加公平的国际秩序，重振和改革多边体系 ... 我们还认识到在金砖国家间建立信息通信技术安全合作法律框架的重要性。",
+          "date": "2024年10月24日",
+          "position": 18
+        },
+        {
+          "title": "两名小伙在泰国做变性手术回国后申请更改性别 - 央广网",
+          "link": "http://news.cnr.cn/native/gd/20160927/t20160927_523162602.shtml",
+          "snippet": "最后，在公证书上，小钱把两位公证申请人的性别仍旧写作了“男”。小钱说，在户籍性别没更改之前，两人在法律上仍然是男性，等到更改生效后，她们就能过上法律意义 ...",
+          "date": "2016年9月27日",
+          "position": 19
+        },
+        {
+          "title": "俄罗斯下议院通过法案禁止变性手术 - RFI",
+          "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85%E6%8A%A5%E9%81%93/20230714-%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%8B%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E6%B3%95%E6%A1%88-%E7%A6%81%E6%AD%A2%E5%8F%98%E6%80%A7%E6%89%8B%E6%9C%AF",
+          "snippet": "（法新社莫斯科14日电） 俄罗斯国会下议院国家院（State Duma）议员今天以压倒性多数通过一项新法案，这项法案将性别重置手术（俗称变性手术）视为非法， ...",
+          "date": "2023年7月14日",
+          "position": 20
+        },
+        {
+          "title": "第一观察|抓好改革这项“系统工程”，总书记阐明四对关系",
+          "link": "http://gjw.gxzf.gov.cn/xwdt/safqsf/t19210722.shtml",
+          "snippet": "重置. 2024年11月3日星期日. 简体版|繁体 ... 党的十八大以来，坚持在改革中完善法治，国家立法节奏更快、质量更高，中国特色社会主义法律体系日臻完善。",
+          "date": "4天前",
+          "position": 21
+        },
+        {
+          "title": "变性手术法律标准研究-【维普期刊官网】",
+          "link": "https://lib.cqvip.com/Qikan/Article/Detail?id=40552676",
+          "snippet": "摘要 变性手术具有高度伦理性、高侵袭性、高风险性及后果的不可逆性,国家法律必须对其进行规制。\"变性人法律与就业政策国际联合会\"制定的《变性人医疗法律标准》和\" ...",
+          "position": 22
+        },
+        {
+          "title": "“变性人结婚”引发的法律问题-法搜 - FSou.Com",
+          "link": "http://www.fsou.com/Html/text/art/3355695/335569519.html",
+          "snippet": "这条消息再次引起人们对变性问题的关注。实际上，变性的现象在中国早就存在，但变性人能得到婚姻登记部门的认可并准予结婚，这还是第一次。 变性人一般是由于患有医学上所称的 ...",
+          "position": 23
+        },
+        {
+          "title": "未完成变性手术被拒改身份证性别香港终审法院裁定政府违法",
+          "link": "https://zh.wikinews.org/zh-cn/%E6%9C%AA%E5%AE%8C%E6%88%90%E8%AE%8A%E6%80%A7%E6%89%8B%E8%A1%93%E8%A2%AB%E6%8B%92%E6%94%B9%E8%BA%AB%E4%BB%BD%E8%AD%89%E6%80%A7%E5%88%A5_%E9%A6%99%E6%B8%AF%E7%B5%82%E5%AF%A9%E6%B3%95%E9%99%A2%E8%A3%81%E5%AE%9A%E6%94%BF%E5%BA%9C%E9%81%95%E6%B3%95",
+          "snippet": "跨性别人士遭拒绝更改身份证上性别，上诉至香港终审法院获胜诉。法院裁定港府违宪，指更改身份证上必须接受整个性别重置手术，作为更改身份证性别标记的准则， ...",
+          "date": "2023年2月8日",
+          "position": 24
+        },
+        {
+          "title": "网站隐私保护条款（试行） - 福州市医疗保障局",
+          "link": "https://ybj.fuzhou.gov.cn/bzzx/ysbh/",
+          "snippet": "... 性核验，如您不提供上述信息，本网站将无法向您提供个人中心、收藏、评论、纠错及其他需要登录才能使用的服务。 （六）当您重置本网站登录密码时，您 ...",
+          "date": "4天前",
+          "position": 25
+        },
+        {
+          "title": "2020年中國十大性/別法律事件",
+          "link": "https://www.equalityrights.hku.hk/post/2020%E5%B9%B4%E4%B8%AD%E5%9C%8B%E5%8D%81%E5%A4%A7%E6%80%A7-%E5%88%A5%E6%B3%95%E5%BE%8B%E4%BA%8B%E4%BB%B6",
+          "snippet": "撇去了對性少數人群不切實際浪漫幻想后的Ta們，才是塵世間的真實個體。 同志亦凡人。 我國現行法律不承認同性婚姻，不允許代孕生殖，A卵B懷的做法並不能保障 ...",
+          "date": "2021年1月19日",
+          "position": 26
+        },
+        {
+          "title": "第一观察丨抓好改革这项“系统工程”，总书记阐明四对关系",
+          "link": "https://www.spp.gov.cn/tt/202410/t20241029_670450.shtml",
+          "snippet": "党的十八大以来，坚持在改革中完善法治，国家立法节奏更快、质量更高，中国特色社会主义法律体系日臻完善。 ... 性变革、系统性重塑、整体性重构。 （三 ...",
+          "date": "5天前",
+          "position": 27
+        },
+        {
+          "title": "大马华裔女子赴泰做变性手术欲更改姓名性别遭拒 - 中国侨网",
+          "link": "http://www.chinaqw.com/hqhr/2017/01-06/120713.shtml",
+          "snippet": "中国侨网1月6日电据马来西亚《星洲日报》报道，马来西亚29岁华裔女子在泰国进行变性手术后，入禀法庭要求更改其身份证上的姓名及性别，不过，上诉庭5日 ...",
+          "date": "2017年1月6日",
+          "position": 28
+        },
+        {
+          "title": "变性人结婚合法吗？带你看看法律是怎么规定的！ - 搜狐",
+          "link": "https://www.sohu.com/a/340399688_120295273",
+          "snippet": "【法律规定】. 我国婚姻法规定，结婚双方须为男女，男男、女女当然不能结婚，经变性手术改变性别的，如不 ...",
+          "date": "2019年9月11日",
+          "position": 29
+        },
+        {
+          "title": "《甘肃统计年鉴2024》正式出版发行 - 甘肃省统计局",
+          "link": "http://tjj.gansu.gov.cn/tjj/c109451/202410/174013332.shtml",
+          "snippet": "2024-09-20 · “数览发展向新而行”－甘肃省第十五届“中国统计开放日”活... 统计服务 · 统计数据 ... 重置; 声音; 语速; 阅读方式; 配色; 放大; 缩小; 大鼠标 ...",
+          "date": "4天前",
+          "position": 30
+        },
+        {
+          "title": "跨性別法律專題／法律的眼中，「我是誰？」－性別認同障礙與變更 ...",
+          "link": "https://www.lawbank.com.tw/treatise/pl_article.aspx?AID=P000203215",
+          "snippet": "性別重置；性別變更；性別認同法；變更性別登記；跨性別；婚姻關係. 中文摘要：, 在台灣，目前關於變性慾者的界定、變性慾者在從事相關變性手術的要件、程序，以及於變性 ...",
+          "position": 31
+        },
+        {
+          "title": "性別重置手術（變性手術）-陰莖成形術 - 中國醫藥大學新竹附設醫院",
+          "link": "https://www.cmu-hch.cmu.edu.tw/NewsInfo/NewsArticle?no=2174",
+          "snippet": "女變男變性手術分三個階段完成，第一階段由婦產科完成子宮及卵巢摘除，第二階段由整形外科及泌尿科進行尿道延伸及陰莖成形手術，第三階段由泌尿科進行假體的 ...",
+          "date": "2021年12月7日",
+          "position": 32
+        },
+        {
+          "title": "铁西区：开展自主就业退役士兵适应性培训 - 鞍山市政府",
+          "link": "http://www.anshan.gov.cn/html/ASSZF/202410/0172984081591330.html",
+          "snippet": "重置; 关闭. 语音辅助. 语音开关. 增加音量; 减小音量. 加快语速; 减慢语速. 全文 ... 法律服务团为退役军人提供法律服务的热情，并从反诈手段、合同诈骗 ...",
+          "date": "2024年10月25日",
+          "position": 33
+        },
+        {
+          "title": "政府拒绝未完成全面性别重置手术的跨性别男性更改身份证性别",
+          "link": "https://www.lexology.com/library/detail.aspx?g=f6598b19-2249-40ea-bdf6-4be17b771681",
+          "snippet": "终审法院认为，拒绝上诉人更改性别标记会导致他们在需要被检查身份证的日常活动中受到侮辱、痛苦和尊严受损。此外，该政策规定申请人必须接受全面性别重置 ...",
+          "date": "2023年2月28日",
+          "position": 34
+        },
+        {
+          "title": "性别重置术临床应用管理规范（2022年版） - 北京北医三院整形外科",
+          "link": "https://www.sar.com.cn/huiyin/yxp/13033.html",
+          "snippet": "本规范所称性别重置技术，是指通过外科手段(组织移植和器官再造)使手术对象的生理性别与其心理性别相符，即切除原有的性器官并重建新性别的体表性器官和与之 ...",
+          "date": "2023年6月9日",
+          "position": 35
+        },
+        {
+          "title": "第一观察｜抓好改革这项“系统工程”，总书记阐明四对关系",
+          "link": "https://www.cac.gov.cn/2024-10/30/c_1731982790664132.htm",
+          "snippet": "党的十八大以来，坚持在改革中完善法治，国家立法节奏更快、质量更高，中国特色社会主义法律体系日臻完善。 ... 性变革、系统性重塑、整体性重构。 （三 ...",
+          "date": "5天前",
+          "position": 36
+        },
+        {
+          "title": "关于公民手术变性后变更户口登记性别项目有关问题的批复 - 江北区",
+          "link": "https://www.cqjb.gov.cn/bm/qgafj_71938/zwgk_73798/jczwgk/hjgllyxxgk/zcwj/gabwj/202304/t20230413_11873187.html",
+          "snippet": "实施变性手术的公民申请变更户口登记性别项目时，应当提供国内三级医院出具的性别鉴定证明和公证部门出具的公证书，或司法鉴定部门出具的证明，经地（市）级 ...",
+          "date": "2023年4月13日",
+          "position": 37
+        },
+        {
+          "title": "我的性別，誰決定！？淺談國內免術換證相關判決與跨國制度比較",
+          "link": "https://medium.com/ntulawazaleafestival/%E6%88%91%E7%9A%84%E6%80%A7%E5%88%A5-%E8%AA%B0%E6%B1%BA%E5%AE%9A-%E6%B7%BA%E8%AB%87%E5%9C%8B%E5%85%A7%E5%85%8D%E8%A1%93%E6%8F%9B%E8%AD%89%E7%9B%B8%E9%97%9C%E5%88%A4%E6%B1%BA%E8%88%87%E8%B7%A8%E5%9C%8B%E5%88%B6%E5%BA%A6%E6%AF%94%E8%BC%83-3e3855d248f6",
+          "snippet": "強醫療模式下，性別重置手術或賀爾蒙療法等侵入性醫療措施為變更性別之必要條件，採行國家有台灣、日本、中國、捷克、羅馬尼亞、土耳其。弱醫療模式則 ...",
+          "date": "2024年2月16日",
+          "position": 38
+        },
+        {
+          "title": "跨性別者在中國的待遇與威脅—守舊思想趕得上新時代嗎？",
+          "link": "https://insidechina.rti.org.tw/news/view/id/2165571",
+          "snippet": "此外，跨性別人士也可能面臨到醫療保險的限制，例如：中國政府對跨性別人士的態度也是相對複雜的。一方面，政府在一些地區已經開始推行性別重置手術，並且逐漸 ...",
+          "date": "2023年4月22日",
+          "position": 39
+        },
+        {
+          "title": "王文涛部长会见法国外交部外贸部长级代表普里马",
+          "link": "http://www.mofcom.gov.cn/syxwfb/art/2024/art_0f3d15c6f7d549ab82052f65652fd951.html",
+          "snippet": "... 中国法律法规。中方将继续严格依法依规开展调查，保障包括法国在内的欧盟 ... 重置; 智能导盲; 帮助; 关闭. 页面类型. 导航区 (0). Alt+1. 视窗区 (0).",
+          "date": "46分钟前",
+          "position": 40
+        },
+        {
+          "title": "湛江市2024年下半年中小学教师资格考试面试公告",
+          "link": "https://www.zhanjiang.gov.cn/zjsfw/bmdh/jyj/zwgk/tzgg/content/post_1974167.html",
+          "snippet": "（二）遵守宪法和法律，热爱教育事业，具有良好的思想品德。 （三）未达到 ... （五）考生忘记注册密码可通过以下途径重置：. 1. 如果考生手机号未更换，请通过 ...",
+          "position": 41
+        },
+        {
+          "title": "杭州市人民政府办公厅关于印发杭州市保障性住房配售管理办法 ...",
+          "link": "https://www.hangzhou.gov.cn/art/2024/10/31/art_1229063382_1846635.html",
+          "snippet": "（二十二）保障性住房申请家庭取得不动产权证后，有因辞职已离开本市机关事业单位、企业，或因人民法院、仲裁机构生效法律 ... 重置; 声音; 语速; 阅读方式 ...",
+          "date": "7天前",
+          "position": 42
+        },
+        {
+          "title": "以法治的确定性增强民营经济发展预期 - 光明网-理论频道",
+          "link": "https://theory.gmw.cn/2024-11/02/content_37653414.htm",
+          "snippet": "由此，改善营商环境，重振市场信心。 形成政府开展市场监管的法律规范和刚性约束。“八八战略”实施以来，浙江以优化民营企业发展环境为目标 ...",
+          "date": "2天前",
+          "position": 43
+        },
+        {
+          "title": "北医三院“跨性别门诊”医生的内心独白-虎嗅网",
+          "link": "https://m.huxiu.com/article/426094.html?type=text",
+          "snippet": "... 性别重置手术。跨性别者，指性别认同与生理性别或性别表现不同的人士。很少有人能准确说出中国到底有多少跨性别者。2012年，香港大学一位学者根据 ...",
+          "date": "2021年5月6日",
+          "position": 44
+        },
+        {
+          "title": "在中國，跨性別手術何其難！ - Yahoo奇摩新聞",
+          "link": "https://tw.news.yahoo.com/%E5%9C%A8%E4%B8%AD%E5%9C%8B-%E8%B7%A8%E6%80%A7%E5%88%A5%E6%89%8B%E8%A1%93%E4%BD%95%E5%85%B6%E9%9B%A3-062000243.html",
+          "snippet": "除此之外，中國對跨性別群體進行變性手術沒有法律層面的規定，只有衛生健康委員會發布的《性別重置技術管理規範2017》（下簡稱《規範》），而這一規範主要是對 ...",
+          "date": "2021年10月25日",
+          "position": 45
+        },
+        {
+          "title": "公开市场业务添新工具",
+          "link": "https://jrj.wuhan.gov.cn/ynzx_57/xwzx/202410/t20241030_2476360.shtml",
+          "snippet": "辅助线高对比页面放大页面缩小局部放大语音指读重置关闭. 当前位置: 首页 > 金融动态 > 新闻资讯. 公开市场业务添新工具. 2024-10-30 11:34. 来源：中国银行保险报.",
+          "position": 46
+        },
+        {
+          "title": "中央气象台继续发布台风橙色预警 - 地方经济",
+          "link": "http://district.ce.cn/newarea/roll/202410/31/t20241031_39187687.shtml",
+          "snippet": "仍不排除“康妮”在闽浙近海东北行过程中登陆福建和浙江沿海的可能性。 大风预报：10月31日8时至11月1日8时，受冷空气和“康妮”的共同影响， ...",
+          "date": "4天前",
+          "position": 47
+        },
+        {
+          "title": "普京打压跨性别者：签署新法律禁止变性手术 - 网易",
+          "link": "https://www.163.com/dy/article/IATBRAQ2055633EY.html",
+          "snippet": "普京打压跨性别者：签署新法律禁止变性手术 ... 俄罗斯总统普京近日签署了一项新法律，对跨性别者进行了严厉的限制。 根据这项法律，俄罗斯不再允许人们在身体 ...",
+          "date": "2023年7月30日",
+          "position": 48
+        },
+        {
+          "title": "建立轻微犯罪记录封存制度的深层要义与基本面向 - 最高人民检察院",
+          "link": "https://www.spp.gov.cn/spp/llyj/202410/t20241031_670520.shtml",
+          "snippet": "在限度的设定与具体把握上，应当以中国特色刑事法学及其理论为基本遵循，在合法性的前提下有序推进。二是立法与司法的协同共进。尽管立法是建立轻微 ...",
+          "date": "4天前",
+          "position": 49
+        },
+        {
+          "title": "性别重置手术(手术类型)_搜狗百科",
+          "link": "https://baike.sogou.com/v7425021.htm",
+          "snippet": "中国法律保护性别重置手术实施者的受教育权、就业权和其他基本人权，支持已完成性别重置手术的易性症者修改身份证性别。2022年4月20日，国家卫生健康委办公厅发布 ...",
+          "position": 50
+        },
+        {
+          "title": "变性手术 - 抖音百科",
+          "link": "https://m.baike.com/wikiid/7158714377397338119",
+          "snippet": "无论是国际社会还是中国，都有明确的法律法规或政策保护易性症者接受性别重置手术的权利和其他合法权益；无论是国际 ...",
+          "position": 51
+        },
+        {
+          "title": "杨文杰范国睿：持续推进教育治理体系和治理能力现代化 - 华东师范大学",
+          "link": "https://www.ecnu.edu.cn/info/1425/67879.htm",
+          "snippet": "教育改革是一个不断变革、创新和发展的过程。75年来，中国教育治理深化变革，探索出符合中国 ... 性教育法规规章为重要组成部分的教育法律法规体系。 合理配置 ...",
+          "date": "20小时前",
+          "position": 52
+        },
+        {
+          "title": "《党建》杂志刊发云南省委书记王宁署名文章：深入学习贯彻党的二 ...",
+          "link": "https://www.yn.gov.cn/ywdt/ynyw/202411/t20241101_305288.html",
+          "snippet": "在以中国式现代化全面推进强国建设、民族复兴伟业的关键时期，党的二十届三中全会对进一步全面深化改革、推进中国式现代化发出总动员、作出总部署。我们将 ...",
+          "date": "3天前",
+          "position": 53
+        },
+        {
+          "title": "7家银行已落地SFISF工具债券回购 - 中共武汉市委金融委员会办公室",
+          "link": "https://jrj.wuhan.gov.cn/ynzx_57/xwzx/202410/t20241028_2475077.shtml",
+          "snippet": "... 重置关闭. 当前位置: 首页 > 金融动态 > 新闻资讯. 7家银行已落地SFISF工具 ... 当市场面临流动性危机或资产价格螺旋式下跌时，中国人民银行可通过 ...",
+          "date": "7天前",
+          "position": 54
+        },
+        {
+          "title": "《求是》杂志发表习近平总书记重要文章《促进高质量充分就业》",
+          "link": "http://www.anshan.gov.cn/html/ASSZF/202411/0173042088712897.html",
+          "snippet": "重置; 关闭. 语音辅助. 语音开关. 增加音量; 减小音量. 加快语速; 减慢语速. 全文 ... 要加快建构中国就业理论体系，积极讲好中国就业故事，有效提升我国 ...",
+          "date": "3天前",
+          "position": 55
+        },
+        {
+          "title": "关于推进中芬面向未来的新型合作伙伴关系的联合工作计划（2025 ...",
+          "link": "http://wsb.gxzf.gov.cn/xwyw_48149/wsyw_48152/t19218832.shtml",
+          "snippet": "重置. 2024年11月3日星期日. 简| 繁 | 新媒体矩阵. 无障碍. 长者专区. 支持IPv6. 集 · 广西壮族自治区外事办公室网站 · 网站首页 · 政府信息公开 · 网上 ...",
+          "date": "4天前",
+          "position": 56
+        },
+        {
+          "title": "跨性别者性别认同的法律承认—中国相关法律和政策评估报告",
+          "link": "https://www.undp.org/zh/china/publications/kuaxingbiezhexingbierentongdefaluchengren-zhongguoxiangguanfaluhezhengcepinggubaogao",
+          "snippet": "该报告提出了具体的建议和行动，以促进跨性别者的性别认同法律承认和法律保护。这些建议一旦实现，将为跨性别人群获得教育、就业、医疗和其它公共服务提供 ...",
+          "date": "2018年8月5日",
+          "position": 57
+        },
+        {
+          "title": "中华人民共和国公安部关于公民手术变性后变更户口登记性别项目 ...",
+          "link": "https://www.ahlx.gov.cn/OpennessContent/show/1974834.html",
+          "snippet": "实施变性手术的公民申请变更户口登记性别项目时， 应当提供国内三级医院出具的性别鉴定证明和公证部门出具的公证书，或司法鉴定部门出具的证明，经地（市）级 ...",
+          "date": "2020年11月12日",
+          "position": 58
+        },
+        {
+          "title": "跨性别者和多元性别者的斗争 - ohchr",
+          "link": "https://www.ohchr.org/zh/special-procedures/ie-sexual-orientation-and-gender-identity/struggle-trans-and-gender-diverse-persons",
+          "snippet": "无法获得法律承认的性别认同会对人们的生活的各个方面产生负面影响：包括其健康权、住房权、获得社会保障的权利，以及行动和居住自由的权利；还会助长包括教育和工作场所在内 ...",
+          "position": 59
+        },
+        {
+          "title": "法治是中国式现代化的重要保障- 求是网",
+          "link": "http://www.qstheory.cn/qshyjx/2024-10/31/c_1130215029.htm",
+          "snippet": "党的十八大以来，以习近平同志为核心的党中央明确法律是治国之重器，把全面依法治国纳入“四个全面”战略布局，充分发挥法治引导、推动、规范、保障改革，防范 ...",
+          "date": "4天前",
+          "position": 60
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}
