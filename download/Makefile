@@ -12,6 +12,9 @@ news:
 	python .github/downloader/download/download.py --output-dir webpage_archive/raw/unclassify_news1 --download-type webpage --pattern ".*news.*"
 
 
-
 pdf:
 	python .github/downloader/download/download.py --output-dir workspace --download-type pdf --pattern ".*pdf.*"
+
+site:
+	python .github/downloader/download/download.py --output-dir webpage_archive/raw/douban.com --download-type webpage --pattern ".*douban.com.*"
+	python .github/downloader/download/download.py --output-dir webpage_archive/raw/douban1.com --download-type webpage --pattern ".*(www|site|wap)\.douban\.com.*"
