@@ -56,7 +56,7 @@ def check_link_exists(url, visited_data):
             return True
     return False
 
-def process_links_file(yaml_path, output_dir, related_filter='true', file_pattern=r'.*pdf.*', download_type='both'):
+def process_links_file(yaml_path, output_dir, related_filter='true', file_pattern=r'.*pdf.*', download_type='both', sleep_duration=30):
     """Process YAML file and download files based on is_related filter and file pattern"""
     print("\n" + "="*50)
     print(f"Starting download process:")
@@ -129,8 +129,10 @@ def process_links_file(yaml_path, output_dir, related_filter='true', file_patter
         
         print(f"→ Downloading from: {url}")
 
-        # add random sleep 10-20s
-        time.sleep(random.randint(10, 20))
+        # add random sleep with configured duration
+        sleep_time = random.randint(sleep_duration // 2, sleep_duration)
+        time.sleep(sleep_time)
+        
         # Download file
         try:
             title = info.get('title', '')
@@ -261,6 +263,13 @@ def main():
         help='Directory where downloaded files will be saved'
     )
 
+    parser.add_argument(
+        '--sleep',
+        type=int,
+        default=30,
+        help='Maximum sleep duration between downloads in seconds (default: 30)'
+    )
+
     args = parser.parse_args()
     
     print("\nStarting download script with settings:")
@@ -269,9 +278,17 @@ def main():
     print(f"  Related filter: {args.related}")
     print(f"  File pattern: {args.pattern}")
     print(f"  Download type: {args.download_type}")
+    print(f"  Sleep duration: {args.sleep}s")
 
     # Process the files
-    results = process_links_file(args.yaml_path, args.output_dir, args.related, args.pattern, args.download_type)
+    results = process_links_file(
+        args.yaml_path, 
+        args.output_dir, 
+        args.related, 
+        args.pattern, 
+        args.download_type,
+        args.sleep
+    )
 
     # Return non-zero exit code if there were any failures
     return 0
