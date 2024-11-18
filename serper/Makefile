@@ -303,6 +303,175 @@ human:
 	python serper.py "变性 陈焕然" --pages 3
 	python serper.py "变性 替迪" --pages 3
 
+year:
+	python serper.py "易性癖 1990" --pages 3
+	python serper.py "易性癖 1991" --pages 3
+	python serper.py "易性癖 1992" --pages 3
+	python serper.py "易性癖 1993" --pages 3
+	python serper.py "易性癖 1994" --pages 3
+	python serper.py "易性癖 1995" --pages 3
+	python serper.py "易性癖 1996" --pages 3
+	python serper.py "易性癖 1997" --pages 3
+	python serper.py "易性癖 1998" --pages 3
+	python serper.py "易性癖 1999" --pages 3
+	python serper.py "易性癖 2000" --pages 3
+	python serper.py "易性癖 2001" --pages 3
+	python serper.py "易性癖 2002" --pages 3
+	python serper.py "易性癖 2003" --pages 3
+	python serper.py "易性癖 2004" --pages 3
+	python serper.py "易性癖 2005" --pages 3
+	python serper.py "易性癖 2006" --pages 3
+	python serper.py "易性癖 2007" --pages 3
+	python serper.py "易性癖 2008" --pages 3
+	python serper.py "易性癖 2009" --pages 3
+	python serper.py "易性癖 2010" --pages 3
+
+	python serper.py "变性手术 1990" --pages 3
+	python serper.py "变性手术 1991" --pages 3
+	python serper.py "变性手术 1992" --pages 3
+	python serper.py "变性手术 1993" --pages 3
+	python serper.py "变性手术 1994" --pages 3
+	python serper.py "变性手术 1995" --pages 3
+	python serper.py "变性手术 1996" --pages 3
+	python serper.py "变性手术 1997" --pages 3
+	python serper.py "变性手术 1998" --pages 3
+	python serper.py "变性手术 1999" --pages 3
+
+	python serper.py "变性手术 2000" --pages 3
+	python serper.py "变性手术 2001" --pages 3
+	python serper.py "变性手术 2002" --pages 3
+	python serper.py "变性手术 2003" --pages 3
+	python serper.py "变性手术 2004" --pages 3
+	python serper.py "变性手术 2005" --pages 3
+	python serper.py "变性手术 2006" --pages 3
+	python serper.py "变性手术 2007" --pages 3
+	python serper.py "变性手术 2008" --pages 3
+	python serper.py "变性手术 2009" --pages 3
+	python serper.py "变性手术 2010" --pages 3
+
+	python serper.py "变性人 1990" --pages 3
+	python serper.py "变性人 1991" --pages 3
+	python serper.py "变性人 1992" --pages 3
+	python serper.py "变性人 1993" --pages 3
+	python serper.py "变性人 1994" --pages 3
+	python serper.py "变性人 1995" --pages 3
+	python serper.py "变性人 1996" --pages 3
+	python serper.py "变性人 1997" --pages 3
+	python serper.py "变性人 1998" --pages 3
+	python serper.py "变性人 1999" --pages 3
+
+	python serper.py "变性人 2000" --pages 3
+	python serper.py "变性人 2001" --pages 3
+	python serper.py "变性人 2002" --pages 3
+	python serper.py "变性人 2003" --pages 3
+	python serper.py "变性人 2004" --pages 3
+	python serper.py "变性人 2005" --pages 3
+	python serper.py "变性人 2006" --pages 3
+	python serper.py "变性人 2007" --pages 3
+	python serper.py "变性人 2008" --pages 3
+	python serper.py "变性人 2009" --pages 3
+	python serper.py "变性人 2010" --pages 3
+
+	python serper.py "人妖 1990" --pages 3
+	python serper.py "人妖 1991" --pages 3
+	python serper.py "人妖 1992" --pages 3
+	python serper.py "人妖 1993" --pages 3
+	python serper.py "人妖 1994" --pages 3
+	python serper.py "人妖 1995" --pages 3
+	python serper.py "人妖 1996" --pages 3
+	python serper.py "人妖 1997" --pages 3
+	python serper.py "人妖 1998" --pages 3
+	python serper.py "人妖 1999" --pages 3
+
+	python serper.py "人妖 2000" --pages 3
+	python serper.py "人妖 2001" --pages 3
+	python serper.py "人妖 2002" --pages 3
+	python serper.py "人妖 2003" --pages 3
+	python serper.py "人妖 2004" --pages 3
+	python serper.py "人妖 2005" --pages 3
+	python serper.py "人妖 2006" --pages 3
+	python serper.py "人妖 2007" --pages 3
+	python serper.py "人妖 2008" --pages 3
+	python serper.py "人妖 2009" --pages 3
+	python serper.py "人妖 2010" --pages 3
+
+	python serper.py "异装癖 1990" --pages 3
+	python serper.py "异装癖 1991" --pages 3
+	python serper.py "异装癖 1992" --pages 3
+	python serper.py "异装癖 1993" --pages 3
+	python serper.py "异装癖 1994" --pages 3
+	python serper.py "异装癖 1995" --pages 3
+	python serper.py "异装癖 1996" --pages 3
+	python serper.py "异装癖 1997" --pages 3
+	python serper.py "异装癖 1998" --pages 3
+	python serper.py "异装癖 1999" --pages 3
+
+	python serper.py "异装癖 2000" --pages 3
+	python serper.py "异装癖 2001" --pages 3
+	python serper.py "异装癖 2002" --pages 3
+	python serper.py "异装癖 2003" --pages 3
+	python serper.py "异装癖 2004" --pages 3
+	python serper.py "异装癖 2005" --pages 3
+	python serper.py "异装癖 2006" --pages 3
+	python serper.py "异装癖 2007" --pages 3
+	python serper.py "异装癖 2008" --pages 3
+	python serper.py "异装癖 2009" --pages 3
+	python serper.py "异装癖 2010" --pages 3
+
+	python serper.py "CD TS 2000" --pages 3
+	python serper.py "CD TS 2001" --pages 3
+	python serper.py "CD TS 2002" --pages 3
+	python serper.py "CD TS 2003" --pages 3
+	python serper.py "CD TS 2004" --pages 3
+	python serper.py "CD TS 2005" --pages 3
+	python serper.py "CD TS 2006" --pages 3
+	python serper.py "CD TS 2007" --pages 3
+	python serper.py "CD TS 2008" --pages 3
+	python serper.py "CD TS 2009" --pages 3
+	python serper.py "CD TS 2010" --pages 3
+
+	python serper.py "伪娘 2008" --pages 3
+	python serper.py "伪娘 2009" --pages 3
+	python serper.py "伪娘 2010" --pages 3
+	python serper.py "伪娘 2011" --pages 3
+	python serper.py "伪娘 2012" --pages 3
+	python serper.py "伪娘 2013" --pages 3
+	python serper.py "伪娘 2014" --pages 3
+	python serper.py "伪娘 2015" --pages 3
+	python serper.py "伪娘 2016" --pages 3
+	python serper.py "伪娘 2017" --pages 3
+
+	python serper.py "女装大佬 2013" --pages 3
+	python serper.py "女装大佬 2014" --pages 3
+	python serper.py "女装大佬 2015" --pages 3
+	python serper.py "女装大佬 2016" --pages 3
+	python serper.py "女装大佬 2017" --pages 3
+	python serper.py "女装大佬 2018" --pages 3
+	python serper.py "女装大佬 2019" --pages 3
+
+	python serper.py "药娘 2010" --pages 3
+	python serper.py "药娘 2011" --pages 3
+	python serper.py "药娘 2012" --pages 3
+	python serper.py "药娘 2013" --pages 3
+	python serper.py "药娘 2014" --pages 3
+	python serper.py "药娘 2015" --pages 3
+	python serper.py "药娘 2016" --pages 3
+	python serper.py "药娘 2017" --pages 3
+	python serper.py "药娘 2018" --pages 3
+	python serper.py "药娘 2019" --pages 3
+
+	python serper.py "跨性别 2010" --pages 3
+	python serper.py "跨性别 2011" --pages 3
+	python serper.py "跨性别 2012" --pages 3
+	python serper.py "跨性别 2013" --pages 3
+	python serper.py "跨性别 2014" --pages 3
+	python serper.py "跨性别 2015" --pages 3
+	python serper.py "跨性别 2016" --pages 3
+	python serper.py "跨性别 2017" --pages 3
+	python serper.py "跨性别 2018" --pages 3
+	python serper.py "跨性别 2019" --pages 3
+
+
 other:
 	python serper.py "性转 体验" --pages 3
 	python serper.py "性转 幻想" --pages 3
