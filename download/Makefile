@@ -31,3 +31,4 @@ all:
 
 random:
 	python .github/downloader/download/download.py --output-dir .github/downloader/webpage_archive/raw/all_webpage --download-type webpage --pattern ".*" --order random
+	python .github/downloader/download/download.py --output-dir .github/downloader/webpage_archive/raw/all_webpage1 --download-type webpage --pattern ".*" --order random
