@@ -18,6 +18,8 @@ date:
 	QUERY="变性人 site:www.chinanews.com/ before:2006-12-31" node search_wait.js
 	QUERY="变性人 site:news.sohu.com/ before:2006-12-31" node search_wait.js
 
+	QUERY="chinese transgender research paper filetype:pdf" node search_wait.js
+
 
 date_news:
 	QUERY="变性 新闻 before:2000-12-31" node search_wait.js

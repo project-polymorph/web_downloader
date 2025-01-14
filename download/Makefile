@@ -28,3 +28,6 @@ site:
 
 all:
 	python .github/downloader/download/download.py --output-dir .github/downloader/webpage_archive/raw/unclassify_news1 --download-type webpage --pattern ".*news.*"
+
+random:
+	python .github/downloader/download/download.py --output-dir .github/downloader/webpage_archive/raw/all_webpage --download-type webpage --pattern ".*" --order random

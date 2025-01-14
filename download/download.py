@@ -56,7 +56,7 @@ def check_link_exists(url, visited_data):
             return True
     return False
 
-def process_links_file(yaml_path, output_dir, related_filter='true', file_pattern=r'.*pdf.*', download_type='both', sleep_duration=30):
+def process_links_file(yaml_path, output_dir, related_filter='true', file_pattern=r'.*pdf.*', download_type='both', sleep_duration=30, download_order='sequential'):
     """Process YAML file and download files based on is_related filter and file pattern"""
     print("\n" + "="*50)
     print(f"Starting download process:")
@@ -65,6 +65,7 @@ def process_links_file(yaml_path, output_dir, related_filter='true', file_patter
     print(f"  Filter: is_related='{related_filter}'")
     print(f"  File pattern: {file_pattern}")
     print(f"  Download type: {download_type}")
+    print(f"  Download order: {download_order}")
     print("="*50 + "\n")
     
     # Create output directory if it doesn't exist
@@ -97,9 +98,14 @@ def process_links_file(yaml_path, output_dir, related_filter='true', file_patter
     # Initialize seen_md5s from visit_links.yml
     seen_md5s = set(visited_data.keys())
     
-    # Process each entry
-    total = len(data)
-    for idx, (url, info) in enumerate(data.items(), 1):
+    # Convert data items to list and randomize if needed
+    data_items = list(data.items())
+    if download_order == 'random':
+        random.shuffle(data_items)
+    
+    # Process each entry (modified to use data_items instead of data.items())
+    total = len(data_items)
+    for idx, (url, info) in enumerate(data_items, 1):
         print(f"\nProcessing entry {idx}/{total}:")
         print(f"URL: {url}")
         print(f"is_related: '{info.get('is_related', 'unknown')}'")
@@ -270,6 +276,13 @@ def main():
         help='Maximum sleep duration between downloads in seconds (default: 30)'
     )
 
+    parser.add_argument(
+        '--order',
+        choices=['sequential', 'random'],
+        default='sequential',
+        help='Order of processing downloads (sequential or random)'
+    )
+
     args = parser.parse_args()
     
     print("\nStarting download script with settings:")
@@ -279,6 +292,7 @@ def main():
     print(f"  File pattern: {args.pattern}")
     print(f"  Download type: {args.download_type}")
     print(f"  Sleep duration: {args.sleep}s")
+    print(f"  Download order: {args.order}")
 
     # Process the files
     results = process_links_file(
@@ -287,7 +301,8 @@ def main():
         args.related, 
         args.pattern, 
         args.download_type,
-        args.sleep
+        args.sleep,
+        args.order
     )
 
     # Return non-zero exit code if there were any failures
