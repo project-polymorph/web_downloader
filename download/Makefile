@@ -32,3 +32,8 @@ all:
 random:
 	python .github/downloader/download/download.py --output-dir .github/downloader/webpage_archive/raw/all_webpage --download-type webpage --pattern ".*" --order random
 	python .github/downloader/download/download.py --output-dir .github/downloader/webpage_archive/raw/all_webpage1 --download-type webpage --pattern ".*" --order random
+
+	python .github/downloader/download/download.py --output-dir .github/downloader/webpage_archive/raw/all_webpage1 --download-type webpage --pattern ".*" --order random
+
+jina:
+	python .github/downloader/download/download.py --download-type jina --output-dir .github/downloader/webpage_archive/new_all_results/jinabatch1  --pattern ".*" --order random

@@ -153,6 +153,11 @@ def process_links_file(yaml_path, output_dir, related_filter='true', file_patter
                 success, result = download_webpage(url, output_dir, title)
             elif download_type == 'jina':
                 success, result = download_jina(url, output_dir, title)
+            elif download_type == 'both':
+                # Try PDF first, if it fails try webpage
+                success, result = download_pdf(url, output_dir, title)
+                if not success:
+                    success, result = download_webpage(url, output_dir, title)
             else:
                 print(f"✗ Invalid download type: {download_type}")
                 continue
@@ -257,7 +262,7 @@ def main():
         '--download-type',
         choices=['pdf', 'webpage', 'jina', 'both'],
         default='pdf',
-        help='Type of download to perform (default: both)'
+        help='Type of download to perform (pdf, webpage, jina, or both)'
     )
 
     parser.add_argument(
