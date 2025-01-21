@@ -349,6 +349,27 @@ year:
 	python serper.py "变性手术 2009" --pages 3
 	python serper.py "变性手术 2010" --pages 3
 
+	python serper.py "变性手术 新浪新闻 2000" --pages 3
+	python serper.py "变性手术 新浪新闻 2001" --pages 3
+	python serper.py "变性手术 新浪新闻 2002" --pages 3
+	python serper.py "变性手术 新浪新闻 2003" --pages 3
+	python serper.py "变性手术 新浪新闻 2004" --pages 3
+	python serper.py "变性手术 新浪新闻 2005" --pages 3
+	python serper.py "变性手术 新浪新闻 2006" --pages 3
+	python serper.py "变性手术 新浪新闻 2007" --pages 3
+	python serper.py "变性手术 新浪新闻 2008" --pages 3
+	python serper.py "变性手术 新浪新闻 2009" --pages 3
+	python serper.py "变性手术 新浪新闻 2010" --pages 3
+
+	python serper.py "变性 结婚 证件 2000" --pages 3
+	python serper.py "变性 结婚 证件 2001" --pages 3
+	python serper.py "变性 结婚 证件 2002" --pages 3
+	python serper.py "变性 结婚 证件 2003" --pages 3
+	python serper.py "变性 结婚 证件 2004" --pages 3
+	python serper.py "变性 结婚 证件 2005" --pages 3
+	python serper.py "变性 结婚 证件 2006" --pages 3
+
+
 	python serper.py "变性人 1990" --pages 3
 	python serper.py "变性人 1991" --pages 3
 	python serper.py "变性人 1992" --pages 3

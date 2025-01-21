@@ -20,6 +20,8 @@ date:
 
 	QUERY="chinese transgender research paper filetype:pdf" node search_wait.js
 
+	QUERY="易性癖 site:news.sina.com.cn before:2010-12-31" node search_wait.js
+
 
 date_news:
 	QUERY="变性 新闻 before:2000-12-31" node search_wait.js

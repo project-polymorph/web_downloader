@@ -8,6 +8,7 @@ from pathlib import Path
 import json
 from pdfdown import download_pdf, get_file_md5
 from webdown import download_webpage
+from jinadown import download_jina
 import hashlib
 import re
 
@@ -150,6 +151,8 @@ def process_links_file(yaml_path, output_dir, related_filter='true', file_patter
                 success, result = download_pdf(url, output_dir, title)
             elif download_type == 'webpage':
                 success, result = download_webpage(url, output_dir, title)
+            elif download_type == 'jina':
+                success, result = download_jina(url, output_dir, title)
             else:
                 print(f"✗ Invalid download type: {download_type}")
                 continue
@@ -252,7 +255,7 @@ def main():
 
     parser.add_argument(
         '--download-type',
-        choices=['pdf', 'webpage', 'both'],
+        choices=['pdf', 'webpage', 'jina', 'both'],
         default='pdf',
         help='Type of download to perform (default: both)'
     )

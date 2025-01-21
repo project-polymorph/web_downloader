@@ -16,7 +16,7 @@ async function googleSearch(searchQuery, maxPages = 0) {
         '--disable-setuid-sandbox',
         '--window-size=1920,1080',
         '--run-all-compositor-stages-before-draw',
-        // '--incognito'  // This flag alone should enable incognito mode
+        '--incognito'  // This flag alone should enable incognito mode
       ],
     });
 

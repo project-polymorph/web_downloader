@@ -1,0 +1,104 @@
+{
+  "query": "变性手术 新浪新闻 2001",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2025-01-21T06:41:55.712325",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "变性手术 新浪新闻 2001",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "None_手机新浪网 - 新浪新闻",
+          "link": "https://news.sina.cn/sa/2001-06-15/detail-ikkntiak6802646.d.html",
+          "snippet": "9时10分，手术消毒后，享有“变性大师”之称的陈焕然博士开始做手术的第一部分：胸部双侧乳腺的切除。陈博士和郑光平医生在吴晓的乳晕处开了长约2cm的弧形口， ...",
+          "date": "2001年6月15日",
+          "position": 1
+        },
+        {
+          "title": "[PDF] 跨性别者性别认同的法律承认",
+          "link": "https://www.undp.org/sites/g/files/zskgke326/files/migration/cn/81e35c0bbe5b80d746519d11bb00d20cb33c8990b529c6664137bf2127ce73cd.pdf",
+          "snippet": "在“广州美莱援助刘霆变性手术新闻发布会”. 上，副院长宋吉贵呼吁大家尊重易性病患者追求身心统一的权利。 还值得注意的是，CCMD-3 诊断标准要求跨性别者只能被与他们 ...",
+          "position": 2
+        },
+        {
+          "title": "中华人民共和国LGBT权益- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BDLGBT%E6%9D%83%E7%9B%8A",
+          "snippet": "中国保护LGBT即同性恋、双性恋以及变性人群体的健康权，向所有公民免费提供基本卫生服务，允许自愿开展变性手术，尊重他们的隐私。 根据《婚姻法》，中国只承认一男一 ...",
+          "position": 3
+        },
+        {
+          "title": "新浪新闻- Google Play 上的应用",
+          "link": "https://play.google.com/store/apps/details?id=com.sina.news&hl=zh_CN",
+          "snippet": "新浪新闻客户端由新浪官方出品，第一时间获取全球新闻资讯，国内国外要闻，精彩的体育赛事报道，金融财经动向，影视娱乐事件，还有独家微博“微”新闻，精彩随你看，新闻、星座、 ...",
+          "rating": 2.5,
+          "ratingCount": 2383,
+          "position": 4
+        },
+        {
+          "title": "河莉秀_百度百科",
+          "link": "https://baike.baidu.com/item/%E6%B2%B3%E8%8E%89%E7%A7%80/213618",
+          "snippet": "河莉秀（Harisu），1975年2月17日出生于韩国汉城，韩国女演员、模特、歌手。 2000年12月4日，河莉秀发行个人首张同名专辑《Harisu》，正式进入娱乐圈。2001年7月21日，主演 ...",
+          "position": 5
+        },
+        {
+          "title": "李诗妍- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E6%9D%8E%E8%A9%A9%E5%A6%8D",
+          "snippet": "2001年. 活跃年代, 2001年至今. 手术前，曾演出过《头师父一体》、《色即是空》 ... ^ 《色即是空》變性藝人李詩妍曝手術內幕. 新浪新闻. 2008年1月23日 [2008-01-23] ...",
+          "position": 6
+        },
+        {
+          "title": "新浪首页",
+          "link": "http://www.xinhuanet.com/sina/home.htm",
+          "snippet": "新浪动态. ○ 2001年2月25日新浪网视频/图文直播中国网络小姐大赛 ○ 2001年2月20日新浪网推出全新网络广告--在线巨型广告 ○ 2001年2月15日新浪网论坛全新改版 ○ 2001 ...",
+          "position": 7
+        },
+        {
+          "title": "卫生部办公厅关于印发《变性手术技术管理规范（试行）》的通知",
+          "link": "http://www.nhc.gov.cn/wjw/gfxwj/201304/5a310ec69d264d4a890949d0b2fbcaf7.shtml",
+          "snippet": "为贯彻落实《医疗技术临床应用管理办法》，做好变性手术技术审核和临床应用管理，保障医疗质量和医疗安全，我部组织制定了《变性手术技术管理规范（ ...",
+          "date": "2009年11月20日",
+          "position": 8
+        },
+        {
+          "title": "关于公民实施变性手术后变更户口登记性别项目有关问题的通知-河南 ...",
+          "link": "https://hnga.henan.gov.cn/2021/11-19/2350238.html",
+          "snippet": "一、公民实施变性手术后，申请变更户口登记性别项目的，须出具地级市（含外省）级以上医院为其成功实施变性手术的证明，经县市公安机关审核后，公安派出所应予 ...",
+          "position": 9
+        },
+        {
+          "title": "国际-新闻中心图集汇总_新浪图集",
+          "link": "https://english.ncepu.edu.cn/second/picsrc/w.htm",
+          "snippet": "国际-新闻中心图集汇总 （共5877 个图集， 47219 张图片） · 美17岁少女连睡64天被称真实版睡美人 · 古巴变性人当选省议员属该国首例 · 巴以爆发新一轮冲突以军持续空袭加沙.",
+          "position": 10
+        },
+        {
+          "title": "新浪新闻极速版-最新热门新闻头条资讯17+ - App Store",
+          "link": "https://apps.apple.com/cn/app/%E6%96%B0%E6%B5%AA%E6%96%B0%E9%97%BB%E6%9E%81%E9%80%9F%E7%89%88-%E6%9C%80%E6%96%B0%E7%83%AD%E9%97%A8%E6%96%B0%E9%97%BB%E5%A4%B4%E6%9D%A1%E8%B5%84%E8%AE%AF/id1442836050",
+          "snippet": "* 新闻：. 每天更新海量资讯内容，最快最全的头条要闻。第一时间获悉国内外实事，体育赛事报道，金融财经动向，影视娱乐事件，社会、军事、科技新闻资讯。 * 热门：. 实时热点新闻 ...",
+          "rating": 4.7,
+          "ratingCount": 7430,
+          "position": 11
+        },
+        {
+          "title": "新浪新闻HD 4+ - App Store",
+          "link": "https://apps.apple.com/us/app/%E6%96%B0%E6%B5%AA%E6%96%B0%E9%97%BB-hd/id415610370",
+          "snippet": "第一时间获取全球新闻资讯，国内国外要闻，精彩的体育赛事报道，金融财经动向，影视娱乐事件，精彩随你看，新闻、星座、笑话一个都不少。 * 新闻: 每天更新海量资讯内容， ...",
+          "rating": 3.6,
+          "ratingCount": 108,
+          "position": 12
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}
