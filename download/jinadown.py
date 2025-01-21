@@ -31,9 +31,9 @@ def download_jina(url, output_dir, title):
             'curl',
             '--location',
             jina_url,
-            '-H', 'X-Engine: readerlm-v2',
             '-H', 'X-With-Iframe: true',
             '-H', 'X-With-Shadow-Dom: true',
+            '-H', 'X-With-Images-Summary: true',
             '--no-progress-meter',
             '-v'
         ]
