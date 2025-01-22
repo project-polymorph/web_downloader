@@ -1,3 +1,6 @@
 [submodule "webpage_archive"]
 	path = webpage_archive
 	url = https://github.com/transTerminus/webpage_archive
+[submodule "content_archive"]
+	path = content_archive
+	url = https://github.com/project-polymorph/content_archive

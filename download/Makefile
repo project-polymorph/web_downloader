@@ -36,6 +36,7 @@ random:
 random_new:
 	python .github/downloader/download/download.py --output-dir .github/downloader/webpage_archive/new_all_results/20250121 --download-type webpage --pattern ".*" --order random
 	python .github/downloader/download/download.py --output-dir .github/downloader/webpage_archive/new_all_results/20250122 --download-type webpage --pattern ".*sohu.*|.*sina.*|.*ifeng.*|.*163.*|.*chinanews.*|.*thepaper.*|.*qq.*" --order random
+	python .github/downloader/download/download.py --output-dir .github/downloader/webpage_archive/new_all_results/20250123_res/downloads --download-type webpage --pattern ".*" --order random
 
 
 jina:
