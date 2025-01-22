@@ -32,8 +32,11 @@ all:
 random:
 	python .github/downloader/download/download.py --output-dir .github/downloader/webpage_archive/raw/all_webpage --download-type webpage --pattern ".*" --order random
 	python .github/downloader/download/download.py --output-dir .github/downloader/webpage_archive/raw/all_webpage1 --download-type webpage --pattern ".*" --order random
+
 random_new:
 	python .github/downloader/download/download.py --output-dir .github/downloader/webpage_archive/new_all_results/20250121 --download-type webpage --pattern ".*" --order random
+	python .github/downloader/download/download.py --output-dir .github/downloader/webpage_archive/new_all_results/20250122 --download-type webpage --pattern ".*sohu.*|.*sina.*|.*ifeng.*|.*163.*|.*chinanews.*|.*thepaper.*|.*qq.*" --order random
+
 
 jina:
 	python .github/downloader/download/download.py --download-type jina --output-dir .github/downloader/webpage_archive/new_all_results/jinabatch1  --pattern ".*" --order random

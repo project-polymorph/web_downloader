@@ -360,6 +360,30 @@ year:
 	python serper.py "变性手术 新浪新闻 2008" --pages 3
 	python serper.py "变性手术 新浪新闻 2009" --pages 3
 	python serper.py "变性手术 新浪新闻 2010" --pages 3
+	python serper.py "变性手术 新浪新闻 2011" --pages 3
+	python serper.py "变性手术 新浪新闻 2012" --pages 3
+	python serper.py "变性手术 新浪新闻 2013" --pages 3
+	python serper.py "变性手术 新浪新闻 2014" --pages 3
+	python serper.py "变性手术 新浪新闻 2015" --pages 3
+	python serper.py "变性手术 新浪新闻 2016" --pages 3
+	python serper.py "变性手术 新浪新闻 2017" --pages 3
+	python serper.py "变性手术 新浪新闻 2018" --pages 3
+	python serper.py "变性手术 新浪新闻 2019" --pages 3
+	python serper.py "变性手术 新浪新闻 2020" --pages 3
+
+	
+	
+	python serper.py "变性手术 搜狐新闻 2010" --pages 3
+	python serper.py "变性手术 搜狐新闻 2011" --pages 3
+	python serper.py "变性手术 搜狐新闻 2012" --pages 3
+	python serper.py "变性手术 搜狐新闻 2013" --pages 3
+	python serper.py "变性手术 搜狐新闻 2014" --pages 3
+	python serper.py "变性手术 搜狐新闻 2015" --pages 3
+	python serper.py "变性手术 搜狐新闻 2016" --pages 3
+	python serper.py "变性手术 搜狐新闻 2017" --pages 3
+	python serper.py "变性手术 搜狐新闻 2018" --pages 3
+	python serper.py "变性手术 搜狐新闻 2019" --pages 3
+	python serper.py "变性手术 搜狐新闻 2020" --pages 3
 
 	python serper.py "变性 结婚 证件 2000" --pages 3
 	python serper.py "变性 结婚 证件 2001" --pages 3
