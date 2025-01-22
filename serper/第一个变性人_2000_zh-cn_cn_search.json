@@ -1,0 +1,1169 @@
+{
+  "query": "第一个变性人 2000",
+  "language": "zh-cn",
+  "geo_location": "cn",
+  "totalPages": 3,
+  "endpoint": "/search",
+  "date": "2025-01-22T06:20:33.184661",
+  "results": [
+    {
+      "searchParameters": {
+        "q": "第一个变性人 2000",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 1,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "莉莉·艾尔伯- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E8%8E%89%E8%8E%89%C2%B7%E8%89%BE%E5%B0%94%E4%BC%AF",
+          "snippet": "莉莉·艾尔伯（丹麦语：Lili Elbe，1882年12月28日—1931年9月13日）是一位丹麦跨性别女性，也是世界上有纪录的最早接受性别重置手术者之一。 ... 艾尔伯出生时生理性别为男性，名叫 ...",
+          "position": 1
+        },
+        {
+          "title": "关于她的人生，《丹麦女孩》只是肤浅的画皮 - 澎湃新闻",
+          "link": "https://www.thepaper.cn/newsDetail_forward_1417745",
+          "snippet": "主人公是全世界第一个变性人莉莉·艾尔比（原名艾纳·摩根斯·瓦格纳），他是一位有声誉的丹麦风景画家，妻子格尔达·戈特立布也是一位画家。 二人无意间发现 ...",
+          "date": "2016年1月9日",
+          "position": 2
+        },
+        {
+          "title": "莉莉·易北河、克里斯蒂娜·奥尔蒂斯“La Veneno” - Infobae",
+          "link": "https://www.infobae.com/cn/2022/04/07/lili-elbe-cristina-ortiz-la-veneno-hunter-schafer-and-other-trans-women-who-have-conquered-show-business/",
+          "snippet": "如果不提人类历史上第一个有记载的跨性别女性，就无法开始谈论跨性别女性。莉莉·易北河（Lili Elb e）肯定不属于多元化社区的人们可以通过在电影《丹麦女孩》 ...",
+          "date": "2022年4月7日",
+          "position": 3
+        },
+        {
+          "title": "丹麦女孩- 维基百科，自由的百科全书",
+          "link": "https://zh.wikipedia.org/zh-cn/%E4%B8%B9%E9%BA%A6%E5%A5%B3%E5%AD%A9",
+          "snippet": "《丹麦女孩》（英语：The Danish Girl）是一部2015年英美传记剧情电影，由汤姆·霍伯执导，改编自大卫·埃伯肖夫（英语：David Ebershoff）于2000年出版的同名小说，以丹麦画家 ...",
+          "position": 4
+        },
+        {
+          "title": "「男变女，女变男」：那些跨不过性别的人 - 凤凰网",
+          "link": "https://i.ifeng.com/c/8PmvNTdI3ve",
+          "snippet": "这部电影改编自世界上首位变性人艾纳·韦格纳的真实故事。 在二十世纪三十年代，艾纳拥有与世俗抗争的勇气，追求自我的道路上，“他”终于变成了“她”。",
+          "date": "2023年5月14日",
+          "position": 5
+        },
+        {
+          "title": "安徽第一变性人昨日走进手术室(组图) - 新浪新闻",
+          "link": "http://news.sina.com.cn/s/2005-01-01/00594685550s.shtml?from=wap",
+          "snippet": "2004年的最后一天，黄恩岭被推进他期望已久的变性手术室。这一天，南京的气温是入冬以来最冷的一日，而黄恩岭的心却是他人生三十载最激动和火热的一天。",
+          "date": "2005年1月1日",
+          "position": 6
+        },
+        {
+          "title": "《丹麦女孩》离真实的莉莉有多远？ - 豆瓣",
+          "link": "https://m.douban.com/movie/review/14465844/",
+          "snippet": "但我觉得电影本身就是一种艺术化的展现，只要让观影者震撼于跨性别者的困境、果敢和散发出的魅力就够了，余韵不绝，也让人深深沉溺于埃雷拉对莉莉伟大的爱中！",
+          "date": "2022年6月18日",
+          "position": 7
+        },
+        {
+          "title": "关于“中国变性第一人”的一些医学史 - 文学城",
+          "link": "https://www.wenxuecity.com/blog/200411/756/926.html",
+          "snippet": "... 第三医院的夏兆骥教授为19岁的男性易性癖患者所作的男变女性手术，使其成为中国医学史上第一个变性人──从一个男人变成了一个女人。近十年后，夏教授 ...",
+          "date": "2004年11月5日",
+          "position": 8
+        },
+        {
+          "title": "關於她的人生，《丹麥女孩》只是膚淺的畫皮 - 中國網",
+          "link": "http://big5.china.com.cn/gate/big5/zjnews.china.com.cn/ent/2016-01-09/46447.html",
+          "snippet": "主人公是全世界第一個變性人莉莉·艾爾比(原名艾納·摩根斯·瓦格納)，他是一位有聲譽的丹麥風景畫家，妻子格爾達·戈特立布也是一位畫家。二人無意間發現 ...",
+          "date": "2016年1月9日",
+          "position": 9
+        },
+        {
+          "title": "全球8大最著名的变性人，河莉秀第三，第二仅8岁，金星夺榜首|163",
+          "link": "https://www.163.com/dy/article/D87S76MA0519EALM.html",
+          "snippet": "0. 8、安德烈-皮吉斯：23岁的他拥有金色的长发和精致的五官，以雌雄难辨的风格独树一帜，曾交替以男性和女性的造型登上T台。然而2014年，他宣布自己已经 ...",
+          "date": "2018年1月15日",
+          "position": 10
+        },
+        {
+          "title": "欲创历史变性女参选美国国会议员 - 新华网",
+          "link": "http://www.xinhuanet.com/world/2016-07/01/c_129104746.htm",
+          "snippet": "... 第五国会选区自1972年以来也从未选出一名民主党籍众议员。普洛赖特并不是第一个参加众议院选举的变性候选人。2000年，现已病逝的卡伦·凯林代表共和党 ...",
+          "date": "2016年7月1日",
+          "position": 11
+        },
+        {
+          "title": "2000度近视致晶状体自发脱位深圳市三医院1小时手术恢复视力",
+          "link": "http://www.szsdsrmyy.com/xxgk/xwzx/xwdt/content/post_1138413.html",
+          "snippet": "... 变性；视网膜受到玻璃体牵拉而出现裂孔，玻璃体内的液体通过裂孔 ... 1个小时手术恢复视力 术后第2天出院. “像王阿姨这样高度近视引发的自发性 ...",
+          "date": "2024年4月25日",
+          "position": 12
+        },
+        {
+          "title": "第三性成为正式性别部分国家已区别对待_热点聚焦 - 明德公法网",
+          "link": "http://www.calaw.cn/article/default.asp?id=5888",
+          "snippet": "人妖是泰国的一大特色，泰文中礼貌的说法是“双性人小姐”，普通的说法是变性人。 2000年之后，选择人妖这条路的泰国男孩每年都在增加，其中不乏普通家庭出生的 ...",
+          "date": "2011年9月26日",
+          "position": 13
+        },
+        {
+          "title": "泰国变性大亨收购环球小姐，梦想是成为总理 - 周末画报",
+          "link": "http://www.modernweekly.com/hots/38969",
+          "snippet": "从1996年美国前总统特朗普领导环球小姐组织，举行选美比赛至今，这个比赛的组织一直被男性垄断，如今贾克拉尤塔蒂普成为了第一个拥有环球小姐组织的女性。",
+          "date": "2022年10月28日",
+          "position": 14
+        },
+        {
+          "title": "张克莎变性20年后笑对大众:她比女人还女人(图) - 新浪新闻",
+          "link": "https://news.sina.cn/sa/2003-06-09/detail-ikknscsi0579172.d.html",
+          "snippet": "变性20年，张克莎是第一次在公众场合露面。对作家邓映如写的《女人梦》，张克莎表示很满意。有人质疑书的真实性，张克莎激动地说，全都是真实的，我已经“欺骗” ...",
+          "date": "2003年6月8日",
+          "position": 15
+        },
+        {
+          "title": "[PDF] 美国总统选举中的摇摆州:2000—2020年",
+          "link": "http://www.tuiir.tsinghua.edu.cn/03242.pdf",
+          "snippet": "又鲜少有第三党能赢下一州的选举人团票。两党在不同州的实力差异巨 ... 这种改. 变主要包括三个方面。 第一,选民因信息冲突(cross-pressure)成为 ...",
+          "date": "2022年7月13日",
+          "position": 16
+        },
+        {
+          "title": "天河府行复〔2021〕77号 - 广州市天河区人民政府",
+          "link": "http://www.thnet.gov.cn/xzfyzl/content/post_7873736.html",
+          "snippet": "在实施过程中，申请人发现吕某是变性人（男性），遂 ... 后吕某表示可以联系另一名女子为申请人提供性服务，价格为2000元，申请人也同意了。 ... 第六十二条规定：外国人有下列 ...",
+          "position": 17
+        },
+        {
+          "title": "“跨性别”与兴奋剂，奥运会的新老难题 - 南方+",
+          "link": "https://static.nfnews.com/content/202408/07/c9441123.html",
+          "snippet": "原来，阿尔及利亚的“女选手”哈利夫是一个变性人，她在去年曾因未通过性别资格测试，而被禁止参加女子世界锦标赛；但此次，她却获准作为女选手参加奥运会。 对于 ...",
+          "date": "2024年8月7日",
+          "position": 18
+        },
+        {
+          "title": "德国即将允许出生证填写第三性别 - BBC",
+          "link": "https://www.bbc.com/zhongwen/simp/world/2013/11/131101_gemany_third_sex",
+          "snippet": "图像加注文字，每2000个新生婴儿中就有一个是双性人。 2013年11月1日. 德国将成为欧洲第一个允许在婴儿出生证填写第三性别的国家。 对于同时具有男女性别体征的婴儿，其 ...",
+          "position": 19
+        },
+        {
+          "title": "安徽变性人黄宁倩：曾以男儿娶妻，29岁手术后征婚，不打算回老家",
+          "link": "https://www.163.com/dy/article/ID6ACEMS0552JTZ1.html",
+          "snippet": "这种方式也让很多有情人终成眷属，所以在2000年左右， ... 这个人叫黄宁倩，他是安徽省第一个变性人。由于父母的不理解，村民的议论 ...",
+          "date": "2023年8月27日",
+          "position": 20
+        },
+        {
+          "title": "2000—2019年缅甸南部橡胶林时空演变 - 资源科学",
+          "link": "https://www.resci.cn/CN/10.18402/resci.2021.12.04",
+          "snippet": "CCDC算法将Landsat观测值与模型初始化期间第一个和最后一个观测值的预测进行比较来检测变化。如果对于第一个或最后一个观测所有Landsat波段的归一化平均值大于1（公式 ...",
+          "position": 21
+        },
+        {
+          "title": "第6 条：消除对妇女的剥削 - ohchr",
+          "link": "https://docstore.ohchr.org/SelfServices/FilesHandler.ashx?enc=6QkG1d%2FPPRiCAqhKb7yhsqIW7xsH63TzPVZQc03dkiGT%2ByvhjxsAJz%2FISuFLjx2hAU93lO1j4Cm7cOWiP7Nkyct5bvsFhAZgmD3Z%2F0TIvODHVguw34BQvpllp8xz9AT1",
+          "snippet": "她们作为候选人参加了联合国系统内的职务竞选，自2000年以来已有两名阿尔及利亚妇女当选，一名被选进人权小组委员会，另一名被选进消除对妇女歧视委员会。 第9 条：国籍法中的 ...",
+          "position": 22
+        },
+        {
+          "title": "泰国绝色变性人宝儿嫁入华裔名门望族 - 腾讯新闻",
+          "link": "https://news.qq.com/rain/a/20230305A049KF00",
+          "snippet": "泰国著名的变性人、女演员、模特及选美皇后宝儿（Poy Treechada Petcharat），嫁给了来自普吉岛显赫家族的一位风度翩翩的华裔商人。",
+          "date": "2023年3月5日",
+          "position": 23
+        },
+        {
+          "title": "【JMedia】泰国变性旅游：2000美元换新生？ - Jiemian Global",
+          "link": "https://en.jiemian.com/article/420382.html",
+          "snippet": "63岁的Thep医生原本学的是耳鼻喉专业，他一天往往要工作12-14小时，一口气做十来个手术，通常他都是将变性手术放在最后面。他说，他手下的护士们不喜欢他做这 ...",
+          "date": "2015年10月28日",
+          "position": 24
+        },
+        {
+          "title": "性别可以被强行更改吗？“世界上最成功变性人”之死 - 凤凰网",
+          "link": "https://i.ifeng.com/c/8I1YY13zEXb",
+          "snippet": "1967年，美国巴尔的摩。不到两岁的大卫·赖默（David Reimer）被推进手术室，这次手术将摘除他的双侧睾丸，这是让他成为女孩的第一步。",
+          "date": "2022年7月28日",
+          "position": 25
+        },
+        {
+          "title": "2000年中国高校科学技术奖授奖项目",
+          "link": "https://www.edu.cn/ke_yan_yu_fa_zhan/gai_kuang/zheng_ce_fa_gui/ke_ji_jiang_li/200603/t20060323_3729.shtml",
+          "snippet": "在强动载荷作用下结构塑性动力响应的几个关键问题的研究, 杨嘉陵 ... 第一军医大学, 200-149. 150, 自然科学奖, 2, 二氧化碳气藏形成的岩浆去气机制 ...",
+          "date": "2001年1月1日",
+          "position": 26
+        },
+        {
+          "title": "如何给热带气旋命名 - 中国气象局",
+          "link": "https://www.cma.gov.cn/kppd/kppdqxwq/kppdjckp/201212/t20121212_195948.html",
+          "snippet": "当热带气旋衰减为热带低压或变性为温带气旋时，则停止对其编号。 根据1998年12月1日至7日在菲律宾马尼拉举行的台风委员会第31届会议的决定，从2000年1月 ...",
+          "date": "2000年9月11日",
+          "position": 27
+        },
+        {
+          "title": "泰国变性大亨2000万美元收购环球小姐组织 - 搜狐",
+          "link": "https://www.sohu.com/a/600307227_121011170",
+          "snippet": "贾克拉尤塔蒂普是JKN公司的CEO，也是泰国的名人，曾参演真人秀节目，并透露自己是变性女性。她建立了一个非营利组织，为维护变性人的权利而呼吁。 贾克拉尤塔 ...",
+          "date": "2022年10月27日",
+          "position": 28
+        },
+        {
+          "title": "人妖打排球_百度百科",
+          "link": "https://baike.baidu.com/item/%E4%BA%BA%E5%A6%96%E6%89%93%E6%8E%92%E7%90%83/3644843",
+          "snippet": "泰国运动题材电影《人妖打排球》，根据泰国真人真事改编，2000年3月3日上映。影片由翁乙导演执导，由迪·杰西达邦·福尔迪饰演排球队长。其余演员现实中都是第三性。",
+          "position": 29
+        },
+        {
+          "title": "[PDF] PicoScope® 2000 系列 - Pico Technology",
+          "link": "https://www.picotech.com/download/datasheets/picoscope-2000-series-data-sheet-zhs.pdf",
+          "snippet": "现在PicoLog 6 中也支持PicoScope 2000 系列示波器，使您能够在一个捕获中查看和记录. 多台设备上的信号。 PicoLog 6 允许每个通道采样速率最高可达1 kS/s，特别适用于同时 ...",
+          "position": 30
+        },
+        {
+          "title": "[PDF] 消除对妇女一切形式歧视公约 - UN Digital Library",
+          "link": "https://digitallibrary.un.org/record/791551/files/CEDAW_C_CAN_5-ZH.pdf",
+          "snippet": "爱德华太子岛的《家庭暴力受害人法》是省一级第一个. 将精神虐待列为暴力 ... 安大略人权委员会编写了一份关于变性人权利的政策说明。关于性别 ...",
+          "date": "2002年4月9日",
+          "position": 31
+        },
+        {
+          "title": "马斯克儿子闹“决裂”：不但改名还要变性儿子母亲表示：“为你感到骄傲”",
+          "link": "https://www.cls.cn/detail/1048705",
+          "snippet": "泽维尔生于2004年，马斯克与威尔逊生下的双胞胎试管婴儿之一。泽维尔在今年4月满18岁，在满成年后的第二天他向美国加州当地法院提交申请继承母亲的姓氏 ...",
+          "position": 32
+        },
+        {
+          "title": "[PDF] 跨性别运动员参加高水平体育比赛的科学思考",
+          "link": "http://tykx.xml-journal.net/cn/article/pdf/preview/10.16469/j.css.202110006.pdf",
+          "snippet": "kowska）成为第一位没有通过巴尔体测试被取消奥运会. 女子比赛资格的运动员。埃瓦·克洛布科夫斯卡在1967. 年通过了外生殖器检测，被确认为女性（Genel，2000），但. 在 ...",
+          "position": 33
+        },
+        {
+          "title": "变性舞蹈家金星做妈妈了 - 中国新闻网",
+          "link": "https://www.chinanews.com.cn/2000-12-12/26/60872.html",
+          "snippet": "在他18岁成人之后，我会让他自己去经历他自己的世界，让他安排自己的生活。”金星还表示会对孩子负责，“我会尽可能为他提供一个好的成长环境。” 《南方日报》 ...",
+          "date": "2000年12月12日",
+          "position": 34
+        },
+        {
+          "title": "CCTV.com-变性艺人自杀被救希望以死寻求做人尊严(图)",
+          "link": "http://news.cctv.com/society/20070426/103976.shtml",
+          "snippet": "1983年，出生于大连高干家庭，后定居于湖南的28岁小伙子张克沙，终于说服了疼爱自己的父母，毅然躺在了手术台上———他就是中国第一变性人张克莎。",
+          "date": "2007年4月26日",
+          "position": 35
+        },
+        {
+          "title": "黏脂贮积症IIIγ型- 中文版GeneReviews",
+          "link": "https://genereviews.chard.org.cn/paper/paper?code=4d218cbb67927adc90f1f47871219e43",
+          "snippet": "... 第一个临床分类。 流行病学. ML IIIγ的流行率尚未知；该病被认为是非常 ... 人2000, Tiede 等人2004]。 致病性等位变异。已经报道了超过16种致病 ...",
+          "date": "2018年4月27日",
+          "position": 36
+        },
+        {
+          "title": "西南交通大学教师主页杨正林--中文主页--科学研究",
+          "link": "https://faculty.swjtu.edu.cn/yangzhenglin/zh_CN/zhym/354517/list/index.htm",
+          "snippet": "科研项目. 目前主持的主要科研项目：. （1） 转化医学研究平台（四川省科技支撑计划重大项目2013-2015）. （2） 中国汉族人复杂性高度近视四个基因位点易 ...",
+          "date": "2019年12月8日",
+          "position": 37
+        },
+        {
+          "title": "[PDF] 联合国环境规划署",
+          "link": "https://www.pops.int/Portals/0/download.aspx?d=UNEP-POPS-POPRC.3-20-Add.9.Chinese.pdf",
+          "snippet": "第一个是《长距离. 越界空气污染公约》1998年《奥尔胡斯持久性有机污染物 ... 人，2000年；van Doesburg等人，2005年）。但. 只有几个菌珠（如鞘氨 ...",
+          "date": "2007年11月19日",
+          "position": 38
+        },
+        {
+          "title": "《丹麦女孩》：丈夫变成姐妹，这部电影也是金星的故事",
+          "link": "https://zhuanlan.zhihu.com/p/107478037",
+          "snippet": "他的超前意识来源于自身生活经历，也是上个世纪各种性别平权运动积累的精神财富，任何事情总有第一个吃螃蟹的人，他们具备异于常人的智慧和勇气，也要忍受孤独 ...",
+          "date": "2020年2月17日",
+          "position": 39
+        },
+        {
+          "title": "医保服务- 各地基本医疗保险政策",
+          "link": "http://www.sdyfy.cn/Html/News/Articles/1622.html",
+          "snippet": "注:在一个医疗年度内，参保人第二次住院的起付线相应降低20%，从第三次住院起不再执行起付线。中医医院降低20%，精神卫生专科医院无起付线。 (二) 报销比例.",
+          "date": "2022年3月24日",
+          "position": 40
+        },
+        {
+          "title": "启用新一代测序化学、推出高通量流动槽，升级后的NextSeq 2000 ...",
+          "link": "https://www.iivd.net/article-36054-1.html",
+          "snippet": "NextSeq 1000/2000平台成为第一个集成DRAGEN Bio-IT处理的平台，开启了 ... 可以想象，刚接触Illumina测序系统的人会很高兴开始体验NextSeq 2000。",
+          "date": "2024年4月3日",
+          "position": 41
+        },
+        {
+          "title": "王煦-西南石油大学-新能源与材料学院",
+          "link": "https://www.swpu.edu.cn/cly//szdw/jsml2/clkxygc/js/wxck.htm",
+          "snippet": "... 第一负责人，2002.06～2004.06. （15）中石油西部钻探工程有限公司试油公司项目.耐 ... 四川大学学报(工程科学版)，2000, 32(1). （16）王煦，钟本和，张允湘.湿法 ...",
+          "position": 42
+        },
+        {
+          "title": "变性后仍不是“女人” 江苏变性人术后不“性福” - 新闻",
+          "link": "http://news.sohu.com/37/34/news201113437.shtml",
+          "snippet": "为此，她把医院告上了法庭。上月25日，法院下达了判决书，驳回原告诉讼请求。 ... 李莹今年34岁，出生在江苏镇江的一个小镇上，名字是在她变性后，一位记者为她取的。她不愿意将 ...",
+          "position": 43
+        },
+        {
+          "title": "新明日报(Xin Ming Ri Bao), 21 August 2000 - NLB eResources",
+          "link": "https://eresources.nlb.gov.sg/newspapers/digitised/issue/shinmin20000821-2",
+          "snippet": "第1页广告专栏1 · Save Citation. 400 2000-08-21 1 ... 比起们在29 岁生第一个孩我正是总理我的第. 345 words ... 222 2000-08-21 9 变变性人赖美噱头每晚在台匕装、露 ...",
+          "position": 44
+        },
+        {
+          "title": "跨性别者自白：“我们不是在治病” - 三联生活周刊",
+          "link": "https://www.lifeweek.com.cn/article/126127",
+          "snippet": "该案也是国内同志就业歧视案的第一起胜诉案，这之后，他接受采访，成为国内第一个公开相貌的跨性别男性。 ... 一个变性人。 艾略特·佩吉，公开发表声明称自己为跨性别者 ...",
+          "position": 45
+        },
+        {
+          "title": "[PDF] 招商信诺附加家庭重症监护定额给付医疗保险产品说明书",
+          "link": "https://www.cignacmb.com/sc/doc/tiaokuan/zsynqcpsms/zhaoshangxinnuofujiajiatingzhongzhengjianhudingegeifuyiliaobaoxianchanpinshuomingshu.pdf",
+          "snippet": "（一）投保人对被保险人的故意杀害、故意伤害；. （二）被保险人故意犯罪 ... 第一个保险费到期日起终止效力；. (2)如果您方选择的交费方式为月交以外的其他交费 ...",
+          "position": 46
+        },
+        {
+          "title": "泰国突发！人类史上首次“人妖世界大战”，泰国人妖大获全胜！",
+          "link": "https://www.thaiheadlines.com/147552/",
+          "snippet": "正好撞见了一大帮菲律宾变性人。 偏偏双方曾在不久前，在一个旅游 ... 第一个问题，泰国人妖为啥能打。 本质原因，就是她们，毕竟还是男人。 是 ...",
+          "date": "2024年3月6日",
+          "position": 47
+        },
+        {
+          "title": "[PDF] 食品工业“十一五”发展纲要",
+          "link": "https://www.ndrc.gov.cn/fggz/fzzlgh/gjjzxgh/200709/P020191104623187910780.pdf",
+          "snippet": "“十五”期末，我国粮食加工业中特等米和标一米占大米. 总产量的92%以上，比2000 年提高了7 个百分点；特制二等以上精 ... 根据《国民经济和社会发展第十一个五年. 规划纲要》的 ...",
+          "position": 48
+        },
+        {
+          "title": "Kubernetes 1.3 中性能和可伸缩性的更新-- 2000 个节点60000 个Pod ...",
+          "link": "https://kubernetes.ac.cn/blog/2016/07/update-on-kubernetes-for-windows-server-containers/",
+          "snippet": "最后，我们通过在基础集群上调度并配置它们与Kubemark API 服务器通信来创建附加pod（目前仅为Heapster）。完成此操作后，您将拥有一个可用的Kubemark 集群，您 ...",
+          "date": "2016年7月7日",
+          "position": 49
+        },
+        {
+          "title": "[PDF] 中国居民膳食营养素参考摄入量第5 部分：水溶性维生素",
+          "link": "http://www.nhc.gov.cn/ewebeditor/uploadfile/2018/05/20180516113333796.pdf",
+          "snippet": "WS/T 578《中国居民膳食营养素参考摄入量》分为5个部分：. ——第1 部分：宏量营养素；. —— ... 2000. 乳母. 520. 3000. 50. 125. —. 150. 2000. 注1：“—”表示未 ...",
+          "date": "2018年11月1日",
+          "position": 50
+        },
+        {
+          "title": "[PDF] 跨性别者性别认同的法律承认",
+          "link": "https://www.undp.org/sites/g/files/zskgke326/files/migration/cn/81e35c0bbe5b80d746519d11bb00d20cb33c8990b529c6664137bf2127ce73cd.pdf",
+          "snippet": "其中第十七位奇数分给男性，偶数分给女性。 3.1.3 公治〔2008〕478 号和公治 ... 被称为“华东第一变性美女”的黄宁倩于2004 年初在南京鼓楼医院接受了胸部和下体 ...",
+          "position": 51
+        },
+        {
+          "title": "试论古代中东多元文明的流变及其互鉴 - 中国历史研究院",
+          "link": "http://hrczh.cass.cn/sxqy/sjs/202402/t20240221_5734233.shtml",
+          "snippet": "考古资料显示，第一个高峰期是在异族政权希克索斯王朝统治埃及时期(约 ... 另一方面，大约公元前2000年后，北方亚述人崛起，两河流域先后进入古 ...",
+          "date": "2024年2月21日",
+          "position": 52
+        },
+        {
+          "title": "泰国变性选美历届冠军 - 抖音",
+          "link": "https://www.douyin.com/search/%E6%B3%B0%E5%9B%BD%E5%8F%98%E6%80%A7%E9%80%89%E7%BE%8E%E5%8E%86%E5%B1%8A%E5%86%A0%E5%86%9B",
+          "snippet": "00:08 2017年，他以焕然一新的姿态参加了泰国蒂芙尼变性人选美大赛，并一举夺魁，成为了继2004年冠军被誉为泰国最美变性人的宝儿Poyd之后，又一位闪耀登场的 ...",
+          "date": "2024年12月17日",
+          "position": 53
+        },
+        {
+          "title": "变性人或将在航空有一席之地 - 高度周刊",
+          "link": "https://www.riseweekly.com/transgender-2023-6-7/",
+          "snippet": "这年头，西方女人难当啊。 体育领域，变性人有占领各项竞技第一之趋势，打破记录易如反掌；广告代言，变性人代言耐克女式胸衣；还有的代言女性卫生用品，就连 ...",
+          "date": "2023年6月8日",
+          "position": 54
+        },
+        {
+          "title": "救助2000名角膜盲患者！角膜移植中国行公益救助计划启动",
+          "link": "https://m.mp.oeeee.com/a/BAAFRD000020220830717707.html",
+          "snippet": "... ， EyeChina2022眼健康发展国际论坛暨第一 ... 据统计，全球约有1270万人因角膜疾病导致失明，平均每70个患者中，只有1人可进行角膜移植。",
+          "date": "2022年8月30日",
+          "position": 55
+        },
+        {
+          "title": "第一章人口、资源和权利 - 多语种土地词汇手册",
+          "link": "https://www.fao.org/4/x2038c/x2038c03.htm",
+          "snippet": "... 人以上为特大城市。2000人以上，2万人以下，其中非农业人口超过50%的为集镇，其常住人口为集镇人口。有些港口、工矿区、铁路枢纽、商业中心、风景旅游区等，虽不足2000人 ...",
+          "position": 56
+        },
+        {
+          "title": "马斯克大儿子申请变性改名，拒与父亲有任何关系 - 澎湃新闻",
+          "link": "https://www.thepaper.cn/newsDetail_forward_18684920",
+          "snippet": "她出生于加拿大，在安大略省金斯敦市的皇后大学学习英国文学时遇到了来自南非的埃隆。两人于2000年结婚。 2002年，夫妇俩生了他们的第一个儿子，起名叫内华达 ...",
+          "date": "2022年6月22日",
+          "position": 57
+        },
+        {
+          "title": "国际罕见病日，迎战万分之一的概率 - 深圳市卫生健康委员会",
+          "link": "https://wjw.sz.gov.cn/wzx/content/post_11169478.html",
+          "snippet": "全球约有3亿人患有罕见病，总人数相当于世界第三大国的人口数。目前有7000多种已确认的罕见病，中国有2000多万罕见病患者，每年新增患者超20万。罕见疾病 ...",
+          "date": "2024年3月1日",
+          "position": 58
+        },
+        {
+          "title": "[PDF] 个人故事",
+          "link": "https://cnlgbtdata.com/files/uploads/2023/08/887.pdf",
+          "snippet": "圆明园艺术村算是中国第一个自由的艺术家村落，那个. 时代，不像现在，在那个时代每一个人一般来说，必须. 要有一个工作，一个单位，才可以生存，但是就有少数. 的人那个时候就辞 ...",
+          "position": 59
+        },
+        {
+          "title": "许燕- 专任教师- 首页 - 北京师范大学心理学部",
+          "link": "https://psych.bnu.edu.cn/szdw/zrjs/js/xy/index.htm",
+          "snippet": "... 第二负责人，1997-2000. 30. 跨世纪社科人才的心理品质与培养机制，北京市社科 ... 中国职业女性的职业枯竭状况调查——中小学教师、警察、职业经理人三个职业的比较研究.",
+          "position": 60
+        },
+        {
+          "title": "18岁被疑“变性人”，27岁演戏走红，43岁演刘涛妈妈 - 脉脉",
+          "link": "https://maimai.cn/article/detail?fid=1699701271&efid=zMg2Z9hnO6aPj6nryshovw",
+          "snippet": "《星辰大海》火了！ 不但收视率节节攀升、频上热搜，还曾登上同时段影视剧的冠军宝座，令观众大呼“上头”。 剧中，主角刘涛和林峰的表现可圈可点。而第一集出场没多久， ...",
+          "position": 61
+        },
+        {
+          "title": "找到⌈近视⌋相关新闻626条-第1082页-ByDrug-一站式医药资源共享 ...",
+          "link": "https://bydrug.pharmcube.com/news?searchKey=%E8%BF%91%E8%A7%86&page=1082",
+          "snippet": "... 个获批的准分子激光平台获FDA批准,沃林视觉研究所的George Waring IV博士将成为全国第一个向患者介绍TENEO™技术的人 ... 2000年全球约有1.63亿人患有高度近视（占总 ...",
+          "position": 62
+        },
+        {
+          "title": "【羞色NBA】8私生子10女友+变性乱交！魔兽一臀多用？ - 体坛加",
+          "link": "https://www.ttplus.cn/publish/app/data/2018/11/30/200164/os_news.html",
+          "snippet": "这条新闻放在整个体育圈里，简直是家常便饭，大量球员都有出轨的历史。但精彩的部分在于，这位名叫梅辛的女士，以及霍华德之后出轨的女性，全部都是变性人.....",
+          "date": "2018年11月30日",
+          "position": 63
+        },
+        {
+          "title": "世卫组织总干事在2024年11月28日媒体通报会上的开场白",
+          "link": "https://www.who.int/zh/director-general/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing---28-november-2024",
+          "snippet": "今年的主题是“走正确的道路”，这提醒我们人权在应对艾滋病毒方面至关重要。 自1988年第一个 ... 变性人、性工作者和囚犯。 缩小这些差距和接触这些 ...",
+          "date": "2024年11月28日",
+          "position": 64
+        },
+        {
+          "title": "[PDF] 糖原脱支酶基因釜 - 国家自然科学基金委",
+          "link": "https://www.nsfc.gov.cn/csc/20345/22468/pdf/2000/%E7%94%A8%E7%BB%86%E8%8F%8C%E4%BA%BA%E5%B7%A5%E6%9F%93%E8%89%B2%E4%BD%93%E6%96%87%E5%BA%93%E5%92%8C%E5%8E%9F%E4%BD%8D%E6%9D%82%E4%BA%A4%E6%8A%80%E6%9C%AF%E5%AE%9A%E4%BD%8D%E7%8C%AA%E7%B3%96%E5%8E%9F%E8%84%B1%E6%94%AF%E9%85%B6%E5%9F%BA%E5%9B%A0.pdf",
+          "snippet": "通过荧光原位杂交和人第1 号染色体与猪第4 号染色体同源区域的比较将猪的. AG L ... 变性的猪中期染色体R 带进行荧光原. 位杂交, 杂交信号由va idin ~ FIT 染色(iG ...",
+          "position": 65
+        },
+        {
+          "title": "真实版《吹落的树叶》变性人： 4年1200天，她被强奸2000次。 - 搜狐",
+          "link": "https://www.sohu.com/a/329062320_675722",
+          "snippet": "其实，在变性人群体里，她算是很幸运的了。 还有个男朋友，即使知道了她是变性人，也没有选择离开她。 可是，不管你理不理解，世界上就是有这么一批人， ...",
+          "date": "2019年7月24日",
+          "position": 66
+        },
+        {
+          "title": "大纪元纪录片揭露青少年变性运动之黑幕",
+          "link": "https://www.epochtimes.com/gb/23/6/22/n14020952.htm",
+          "snippet": "艾尔瓦格来自瑞典，1972年，瑞典成为全世界第一个允许变性合法的国家，同时提供免费的激素疗程，在调查纪录片播出之后，瑞典政府对跨性别者的态度发生了180度大 ...",
+          "date": "2023年6月22日",
+          "position": 67
+        },
+        {
+          "title": "北京大学第一医院-玻璃体变性-专家在线问诊 - JD.com",
+          "link": "https://www.jd.com/hospital/disease/15010071616_7308",
+          "snippet": "北大医院设有36个临床科室、11个医技科室、1个研究科室、4个研究所;共有59个病房，开放床位1805张。日均门诊量1万人次左右，年收治病人近10万人，手术近4万余例。医院 ...",
+          "position": 68
+        },
+        {
+          "title": "7 ] |[网刊下载次数：0 ] |[引用频次：0 ] - 中国生物制品学杂志",
+          "link": "http://zgswj.com.cn/WKB3/WebPublication/wkTextContent.aspx?contentID=&colType=4&yt=2000&st=01",
+          "snippet": "5复合型启动子下游,构建成2个重组表达质粒,命名为pUTALacVP和pUTA LacVPO。 ... 结论vUTALacVP2和VPO在CEF细胞中实现了高效表达,但重组疫苗的保护率低于常规疫苗。 2000年01 ...",
+          "position": 69
+        },
+        {
+          "title": "专访李银河：中国最不“恐同”的人是我 - BBC",
+          "link": "https://www.bbc.com/ukchina/simp/in_depth/2014/12/141220_iv_liyinhe",
+          "snippet": "李银河周四（12月18日）发布的博客文章《对所谓拉拉身份曝光的回应》，详述1997年王小波逝世几个月之后，她与一位“变性人”，即之后相伴17年的伴侣相识、同居的 ...",
+          "date": "2014年12月20日",
+          "position": 70
+        },
+        {
+          "title": "成都将增2000余个高清探头可准确抓拍行进车牌_央广网",
+          "link": "http://sc.cnr.cn/2012scfw/touban/2012jiaodiantu/201305/t20130522_512641385.shtml",
+          "snippet": "·高清：武警老兵退伍离营爱犬死咬行李不放(1/... ·高清：泰国最美变性人逆天惊艳男儿照曝光; ·2013台北数码艺术节即将亮相(高清); ·沙特麦加钟楼被评为世界第二高楼(高清) ...",
+          "position": 71
+        },
+        {
+          "title": "小杨哥、辛巴们杀进短剧赛道，谁在日进2000万",
+          "link": "https://www.backchina.com/news/2025/01/06/951893.html",
+          "snippet": "... 2000万元，赚了1个亿。 看到短剧带来的内容流量与商业潜力，不少带货 ... 中国第一变性人,隐瞒男儿身嫁大32岁富商,如今... 安徽90后小伙娶江苏女 ...",
+          "date": "2025年1月6日",
+          "position": 72
+        },
+        {
+          "title": "绝密变性纪录片《金星小姐》2000年，主演: 金星导演: 张元 - 哔哩哔哩",
+          "link": "https://www.bilibili.com/video/BV12s411q7dD/",
+          "snippet": "... 变性纪录片《金星小姐》2000年，主演: 金星导演: 张 ... ⚡️做个文明变性人⚡️. 一部电影三个影帝，张艺谋主演第一部电影. 3.1万 ...",
+          "date": "2016年4月28日",
+          "position": 73
+        },
+        {
+          "title": "獐子岛（002069）回复2000人举报“冷水团事件”事件：内容不实-中 ...",
+          "link": "http://www.askci.com/news/finance/2016/01/12/134752gv8y.shtml",
+          "snippet": "1月11日，有媒体报道《2000人实名举报称獐子岛“冷水 ... 第一时间进行了回应。 公司称，已关注到1月11日有 ... 黄海波嫖娼被抓女主角照片曝光揭秘变性人刘馨予妖媚眼妆怎么画？",
+          "position": 74
+        },
+        {
+          "title": "\"被强奸2000多次\"澳变性女讲述男子监狱恶梦 - 今日悉尼",
+          "link": "https://www.sydneytoday.com/content-1139432",
+          "snippet": "根据Mary的说法，她在监狱里每天至少被强奸一次。当她第一次走入监狱，被要求脱去衣服进行常规体检。她感到所有人的视线都放到她的身上。到她走进自己的牢房 ...",
+          "date": "2016年4月18日",
+          "position": 75
+        },
+        {
+          "title": "性别可以被强行更改吗？“世界上最成功变性人”之死 - 腾讯新闻",
+          "link": "https://news.qq.com/rain/a/20241018A0813M00",
+          "snippet": "1967年，美国巴尔的摩。不到两岁的大卫·赖默（David Reimer）被推进手术室，这次手术将摘除他的双侧睾丸，这是让他成为女孩的第一步。",
+          "date": "2024年10月18日",
+          "position": 76
+        },
+        {
+          "title": "中国一个变性人比金星早 - 爱奇艺",
+          "link": "https://www.iqiyi.com/v_19rsalrja8.html",
+          "snippet": "简介：科普厅长上传的资讯视频：中国第一个变性人，比金星早12年，丈夫临死都不知道他是男人,粉丝数47154,作品数2057,点赞数2，免费在线观看，视频简介：跟着美女走，带你去看 ...",
+          "position": 77
+        },
+        {
+          "title": "英男子从“帅弟”变选美冠军期待为变性人代言（组图） - 新华网",
+          "link": "http://news.xinhuanet.com/world/2016-07/01/c_129106241_4.htm",
+          "snippet": "上周末，帕米前往伦敦参加“英国变性小姐”英格兰赛区比赛，与其他五位参赛者展开了角逐。比赛包括回答问题、才艺展示、走T台三个环节。在第一个环节 ...",
+          "date": "2016年7月1日",
+          "position": 78
+        },
+        {
+          "title": "[PDF] 编制时间使用统计指南：",
+          "link": "https://unstats.un.org/unsd/demographic-social/Standards-and-Methods/files/Handbooks/time-use/SeriesF_93-C.pdf",
+          "snippet": "... 一个双向格网，人. 沿一根轴线排列和年的各天沿另一根轴线排列，如图5所说明。格网中的单元. 代表人天组合；例如，左上方单元指定调查年第一天的人1而右下方单元指定. 该 ...",
+          "position": 79
+        },
+        {
+          "title": "刑档内幕- 电视剧- 豆瓣",
+          "link": "https://m.douban.com/movie/subject/4038333/",
+          "snippet": "2023-09-17 12:24:11. 看了第一个故事就不想看了，故事极其无聊平淡，以及 ... 2018-07-05 21:17:18. 变性人那一集真是思想先进，然而有些集却指望道德凌驾于法律 ...",
+          "position": 80
+        },
+        {
+          "title": "泰变性人入狱很煎熬受侵犯近2000次| 新生活报 - iLifePost",
+          "link": "https://www.ilifepost.com/20190630/%E6%B3%B0%E5%8F%98%E6%80%A7%E4%BA%BA%E5%85%A5%E7%8B%B1%E5%BE%88%E7%85%8E%E7%86%AC-%E5%8F%97%E4%BE%B5%E7%8A%AF%E8%BF%912000%E6%AC%A1",
+          "snippet": "一说到泰国，可能大家第一个印象就是变性人，因为科技发达之后医学技术也有了一定的提升，越来越多的人选择自己喜欢的生活方式。在泰国，第三性别的人就比 ...",
+          "date": "2019年6月30日",
+          "position": 81
+        },
+        {
+          "title": "为何马斯克的儿子要改名、变性，拒绝与父亲有任何关系？-三联生活网",
+          "link": "https://www.lifeweek.com.cn/article/167780",
+          "snippet": "泽维尔是马斯克跟第一任妻子贾斯汀·威尔逊所生的孩子。马斯克与贾斯汀于 ... 她总是觉得没有人把自己当成一位作家或者是和丈夫地位相同的人，大家都认为她只是 ...",
+          "position": 82
+        },
+        {
+          "title": "在一起_百度百科",
+          "link": "https://baike.baidu.com/item/%E5%9C%A8%E4%B8%80%E8%B5%B7/3394482",
+          "snippet": "《在一起》是由鲁卡斯·穆迪森执导的喜剧片，Lisa Lindgren和Michael Nyqvist等人主演。该片讲述了葛兰和他的一群嬉皮士朋友组成了一个小小的团体名为TOGETHER的故事。",
+          "position": 83
+        },
+        {
+          "title": "变性韩国女团 - 抖音",
+          "link": "https://www.douyin.com/search/%E5%8F%98%E6%80%A7%E9%9F%A9%E5%9B%BD%E5%A5%B3%E5%9B%A2",
+          "snippet": "因为全部4位成员都是变性女人，所以倍受韩国听众的关注。LADY由Sine（申爱）、Yoona（幼娜）、Sahara（纱哈啦）和Binu（贝努）四人构成。因为全部4位成员都是变性人 ...",
+          "date": "2025年1月6日",
+          "position": 84
+        },
+        {
+          "title": "一.西班牙概况 - ohchr",
+          "link": "https://docstore.ohchr.org/SelfServices/FilesHandler.ashx?enc=FhOD6sgqgzAhFXD9F%2FeKaFMm83LbFY75RhkIFGrig%2B6IYR03DbgZvYNSuO32WREkqnKplsIl6%2FTdU8e3%2FzwkFxFMPabS24%2BUwnix2G%2B2yWPyQBySqwkYP23NxItFzXNy",
+          "snippet": "第一和第二阶段学生中， 有50.9% 的人攻读社会科学和司法专业， 其后依次 ... 宪法法院的职权主要分为三个方面： 第一， 对法律的合宪性进行控制 ...",
+          "date": "2011年2月21日",
+          "position": 85
+        },
+        {
+          "title": "女子后悔变性呼吁清除校园中的性别意识形态| 精神疾病| 同性恋| 大纪元",
+          "link": "https://www.epochtimes.com/gb/23/7/4/n14028276.htm",
+          "snippet": "作为一个困惑而孤立的青少年，雷伊曾在互联网上寻找答案。女变男（FTM）变性人分享的迷人故事使雷伊相信：新身份是获得幸福的方案。 雷伊求助于 ...",
+          "date": "2023年7月5日",
+          "position": 86
+        },
+        {
+          "title": "莉莉不是變性人，是性變態！？ 丹麥女孩：一個性科學史的系譜學解讀",
+          "link": "https://www.coolloud.org.tw/node/84584",
+          "snippet": "從一開始1886年奧地利性學家克拉夫特-埃賓（Krafft-Ebing）其實是把性倒錯當作同性戀（即當時認為男同性戀＝內心女人）。直到1910年一位非常重要的性學家——馬格 ...",
+          "date": "2016年2月17日",
+          "position": 87
+        },
+        {
+          "title": "数智时代如何用好调查研究这个传家宝 - 新华网",
+          "link": "http://www.news.cn/politics/20250119/5a03a7555e934c2d84d8ee865d81351e/c.html",
+          "snippet": "2025年1月17日，中国互联网络信息中心（CNNIC）在北京发布的第55次 ... 而实际上，两个政策并不矛盾，也并非一个代替另一个。“退耕还林”已经推行 ...",
+          "date": "3天前",
+          "position": 88
+        },
+        {
+          "title": "绝色泰国变性美女宝儿嫁入华裔名门望族，儿时相识 - 知乎专栏",
+          "link": "https://zhuanlan.zhihu.com/p/612905464",
+          "snippet": "泰国著名的变性人、女演员、模特及选美皇后宝儿嫁给了来自普吉岛显赫家族的一位风度翩翩的华裔商人。整个婚礼仪式耗资约2000万泰铢（约400万人民币）。",
+          "date": "2023年3月10日",
+          "position": 89
+        },
+        {
+          "title": "“我是一名变性女人，无下限提问，现在开始” 医学论坛网",
+          "link": "https://diabetes.cmt.com.cn/detail/1282485.html",
+          "snippet": "她收到了将近2,000个问题和评论，大部分是来自“支持和尊重的人 ... 在那一瞬间，我很高兴第一次有一个陌生人将我看做女人了。” “然后我立即 ...",
+          "date": "2017年1月22日",
+          "position": 90
+        },
+        {
+          "title": "中国第一变性人金星图片盘点初为人母激发出的母性 - 搜狐",
+          "link": "https://mt.sohu.com/20151024/n424069107.shtml",
+          "snippet": "2000年9月，《中国热点人物》的电视访谈现场，男主持人那时提问金星的第一个问题：“医学上有一种易性病，你觉得你有病吗？你是不是一个病人？”.",
+          "date": "2015年10月24日",
+          "position": 91
+        },
+        {
+          "title": "部分银行换汇预约额降至2000美元跟风投资美元理财产品可能 ...",
+          "link": "https://www.askci.com/news/finance/2016/01/13/174449vobr.shtml",
+          "snippet": "“最近换美元的人实在太多，最好提前两三个工作日预约。 ... 黄海波嫖娼被抓女主角照片曝光揭秘变性人刘馨予妖媚眼妆怎么画？ ... 开市第一周，就出现了四...... 《恶棍天使》 ...",
+          "position": 92
+        },
+        {
+          "title": "男变女！ 48岁爆乳一夜10P爽战2000人！ 计划两年内再战1000人！",
+          "link": "https://posts.careerengine.us/p/5aefa9b6a41882748a1d1567",
+          "snippet": "日前，在英国的媒体有一个人成为了网络讨论热搜第一名，他的名字叫做Crystal Warren，而她之所以爆红就是因为在过去的十年间，她跟2000人上过床。",
+          "date": "2018年5月6日",
+          "position": 93
+        },
+        {
+          "title": "舆论战争- 有好书有朋友有思想有责任 - 乌有之乡",
+          "link": "http://www.wyzxwk.com/Article/yulun/",
+          "snippet": "舆论战争. 共2000 篇文章. 历史虚无主义抬头！翻案不得人心，动摇根本！ 有一个现象让人愤怒也让人痛心，那就是一些所谓的“公知精英”与体制内的既得利益者，趁着改革开放的 ...",
+          "position": 94
+        },
+        {
+          "title": "说说小红书上和美国人交流的体验 - 观察者",
+          "link": "https://user.guancha.cn/main/content?id=1365583",
+          "snippet": "美国的Tik Tok难民涌入小红书算是一个谁都没想到的黑天鹅事件。事实证明全球网民都是玩抽象整活的主，而TT难民涌入小红书本质也是一种赛博抽象。",
+          "date": "5天前",
+          "position": 95
+        },
+        {
+          "title": "一名变性男子因“改变人生”的手术受阻而损失了2000英镑",
+          "link": "http://www.fdsil.com/news/84013/",
+          "snippet": "一名跨性别男子抨击土耳其一家高级手术的麻醉师“恐胖”，因为麻醉师阻止他接受“改变生活”的手术，他损失了2000英镑。来自格拉斯哥的34岁的英国手语实习翻译埃 ...",
+          "date": "2024年10月13日",
+          "position": 96
+        },
+        {
+          "title": "澳洲变性女小偷被关入男子监狱4年来惨遭强暴2000次 - 映象新闻",
+          "link": "http://news.hnr.cn/xwgqtj/201604/t20160419_2440648.html",
+          "snippet": "在澳大利亚的昆士兰州，一个化名为Mary的变性人向记者诉说了她在90年代被囚犯强暴的悲惨遭遇。Mary因为偷窃汽车而被判刑4年，明知她是变性人的情况下，法官 ...",
+          "date": "2016年4月19日",
+          "position": 97
+        },
+        {
+          "title": "卫生部关于2000年全国职业病发病报告情况的通报",
+          "link": "http://www.nhc.gov.cn/zhjcj/s5853/200804/8a1d7a44b4bc422395a3c635b46e8dbb.shtml",
+          "snippet": "起因是萧山市戴村供销社塑料厂（乡镇企业）职工任某被某院诊断为\"二甲苯中毒\"。为此，该所于7月11日走访了住院治疗的任某，得知任某于1997年进厂，1999年1月 ...",
+          "date": "2001年4月12日",
+          "position": 98
+        },
+        {
+          "title": "澳变性女监狱遭强奸4年被性侵2000多次 - 澳洲亿忆网",
+          "link": "https://www.yeeyi.com/news/details/132778/",
+          "snippet": "亿忆网4月18日讯 据《Daily Telegraph》报道，Mary（化名）是一位变性人，因为偷了一辆汽车而被关入男子监狱。 · Mary说，她每天至少被强奸一次。 · Mary认为， ...",
+          "date": "2016年4月17日",
+          "position": 99
+        }
+      ],
+      "images": [
+        {
+          "title": "莉莉·艾尔伯- 维基百科，自由的百科全书",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lili_Elbe_1926.jpg",
+          "link": "https://zh.wikipedia.org/zh-cn/%E8%8E%89%E8%8E%89%C2%B7%E8%89%BE%E5%B0%94%E4%BC%AF"
+        },
+        {
+          "title": "undefined - Infobae",
+          "imageUrl": "https://www.infobae.com/resizer/v2/2Y6SKQVMNBC3PD4RRQKDVJKHUI.png?auth=17c4c190ea4d8606e850ba4dc157f6342b7277e06de31a91ab9cc5ee4baac836&smart=true&width=1200&height=630&quality=85",
+          "link": "https://www.infobae.com/cn/2022/04/07/lili-elbe-cristina-ortiz-la-veneno-hunter-schafer-and-other-trans-women-who-have-conquered-show-business/"
+        },
+        {
+          "title": "泰国变性大亨2000万美元收购环球小姐组织_手机搜狐网",
+          "imageUrl": "https://p2.itc.cn/q_70/images03/20221027/8c28be81b79c4dfca371890474ad0ce3.jpeg",
+          "link": "https://www.sohu.com/a/600307227_121011170"
+        },
+        {
+          "title": "美国第一位变性名人：揭秘其从二战老兵，到性感美女的全历程_手机搜狐网",
+          "imageUrl": "https://p6.itc.cn/images01/20210831/fdbf837c17c841c790e6719970a3e2e6.jpeg",
+          "link": "https://www.sohu.com/a/486852286_120725313"
+        },
+        {
+          "title": "泰变性人入狱很煎熬受侵犯近2000次| 新生活报- ILifePost爱生活",
+          "imageUrl": "https://www.ilifepost.com/wp-content/uploads/2019/06/00_280619010636000000.jpg",
+          "link": "https://www.ilifepost.com/20190630/%E6%B3%B0%E5%8F%98%E6%80%A7%E4%BA%BA%E5%85%A5%E7%8B%B1%E5%BE%88%E7%85%8E%E7%86%AC-%E5%8F%97%E4%BE%B5%E7%8A%AF%E8%BF%912000%E6%AC%A1"
+        },
+        {
+          "title": "丹麦女孩- 维基百科，自由的百科全书",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/zh/9/9a/The_Danish_Girl_Poster.jpg",
+          "link": "https://zh.wikipedia.org/zh-cn/%E4%B8%B9%E9%BA%A6%E5%A5%B3%E5%AD%A9"
+        },
+        {
+          "title": "中国第一个变性人，17岁当兵，21岁变成女人，父亲曾是部队首长_手机搜狐网",
+          "imageUrl": "https://p6.itc.cn/images01/20230603/abda0689e4a7470aa4e0dc832b667c28.jpeg",
+          "link": "https://www.sohu.com/a/681856175_121715304"
+        },
+        {
+          "title": "关于她的人生，《丹麦女孩》只是肤浅的画皮",
+          "imageUrl": "http://image.thepaper.cn/www/image/4/730/747.jpg",
+          "link": "https://www.thepaper.cn/newsDetail_forward_1417745"
+        },
+        {
+          "title": "丹麦女孩》：世界第一个变性人的故事，小雀斑女装扮相明丽",
+          "imageUrl": "http://k.sinaimg.cn/n/sinakd20200503ac/223/w640h383/20200503/2009-isyparh5990346.jpg/w700d1q75cms.jpg",
+          "link": "https://k.sina.cn/article_3089788785_b82a6f7100100q1gb.html"
+        }
+      ],
+      "credits": 2
+    },
+    {
+      "searchParameters": {
+        "q": "第一个变性人 2000",
+        "gl": "cn",
+        "hl": "zh-cn",
+        "type": "search",
+        "num": 100,
+        "page": 2,
+        "engine": "google"
+      },
+      "organic": [
+        {
+          "title": "”背母上学”感动全国，爆红后竟变性做女人，刘霆如今后悔了么？ - 网易",
+          "link": "https://m.163.com/dy/article/IA19KQMM055617GZ.html?spss=adap_pc",
+          "snippet": "还成为“变性女性参加选美并获奖”的中国第一人。 ; 从“孝子”到“女人”， ; 1986年，刘霆出生在浙江省一个普通家庭里。 ; 尿毒症虽然不是绝症，但是要靠透析来维持 ...",
+          "date": "2023年7月20日",
+          "position": 1
+        },
+        {
+          "title": "子洋| 为何我要走向共产党的对立面？答案是人权和自由 - 议报",
+          "link": "https://yibaochina.com/?p=255003",
+          "snippet": "她作为家里的第一个大学生，深知父辈不会接受她这样过分“开放”的观念 ... 一个变性的男孩引起了我的注意。我主动和他攀谈，他告诉我他的生理性别 ...",
+          "date": "4小时前",
+          "position": 2
+        },
+        {
+          "title": "研究发现，在英国，变性人的数量有所增加",
+          "link": "http://www.bobka.com.cn/article/55720/",
+          "snippet": "由伦敦大学学院研究人员领导的一项新研究发现，在2000年至2018年期间，英国全科医生记录中自认为跨性别者的人数有所增加。",
+          "date": "2024年7月11日",
+          "position": 3
+        },
+        {
+          "title": "律师2000万美元天价索赔，特朗普也加入艳星诉讼案- 博客| 文学城",
+          "link": "https://blog.wenxuecity.com/myblog/59896/201803/23958.html",
+          "snippet": "变性人应该和变性人比，同品种比才公平。只有男的 ... 他也曾代表过第一夫人Melania Trump出庭与《每日邮报》 ... 几天前特朗普集团的另一位律师Jill A. Martin向 ...",
+          "position": 4
+        },
+        {
+          "title": "切尔西维加转会风波：2000万欧元背后的未来棋局 - 搜狐",
+          "link": "https://m.sohu.com/a/850823662_121924582/?pvid=000115_3w_a&scm=10001.1526_13-1526_13-8002_8002.0-0.0.0&spm=smpc.channel_259.block22_285_sKyo64_1_fd.3.1737342000010DA5oXoZ_1082",
+          "snippet": "本赛季他已经为切尔西出战18场，打入2球并贡献1次助攻，累计出场时间1166分钟。从数据上看，这位左后卫不仅在防守端表现稳定，还有着一定的进攻贡献，这显示出 ...",
+          "date": "2天前",
+          "position": 5
+        },
+        {
+          "title": "2024年全球造船市场回顾及2025年展望 - 国际船舶网",
+          "link": "https://www.eworldship.com/html/2025/ship_market_observation_0121/209567.html",
+          "snippet": "但世界正处于且将在未来较长一段时间内持续处于易变性(Volatility) ... 位居世界第一。希腊船东新造船投资规模位居第二，投资重点为油船和气体 ...",
+          "date": "1天前",
+          "position": 6
+        },
+        {
+          "title": "忍无可忍，马斯克变性女儿宣布“离开美国” - 360Doc",
+          "link": "http://www.360doc.com/content/24/1113/16/54082560_1139252125.shtml",
+          "snippet": "2022年6月，18岁的薇薇安在洛杉矶提交了法律文件，公开宣布自己是变性人。 并要求去掉马斯克的姓氏，改用母亲的 ...",
+          "date": "2024年11月13日",
+          "position": 7
+        },
+        {
+          "title": "从古方中寻宝，他们让数万“糖友”保住了腿 - 新闻- 科学网",
+          "link": "https://news.sciencenet.cn/htmlnews/2025/1/537856.shtm",
+          "snippet": "经过半个月救治，医院仍提出了高位截肢的建议。但高某不甘心就这样失去自己的腿。经人介绍，他转入上海中医药大学附属上海市中西医结合医院 ...",
+          "date": "17小时前",
+          "position": 8
+        },
+        {
+          "title": "特朗普就职前举行大型庆祝集会数千人示威抗议 - ABC",
+          "link": "https://www.abc.net.au/chinese/2025-01-20/tiktok-goes-dark-in-us-as-shutdown-comes-into-effect/104836516",
+          "snippet": "黄英贤受邀参加美国当选总统特朗普的就职典礼，是历史上第一位受邀参加美国总统就职典礼的澳大利亚外交部长。",
+          "date": "2天前",
+          "position": 9
+        },
+        {
+          "title": "基于Transformer的放射性气溶胶子体扣除算法 - 汉斯出版社",
+          "link": "https://www.hanspub.org/journal/paperinformation?paperid=105648",
+          "snippet": "同年，阮灵盼和陈春花等人提出了一种基于堆叠式LSTM网络的核运输爆炸事故 ... 实验样本共2000个，被随机分为三个部分：70%作为训练集，用于模型训练；15%作为 ...",
+          "position": 10
+        },
+        {
+          "title": "丹麦女孩:20世纪初变性女子的故事 - 美国之音",
+          "link": "https://www.voachinese.com/a/the-danish-girl-20151214/3102742.html",
+          "snippet": "埃纳尔渐渐变为莉莉，故事从一对夫妇浪漫的共同生活演变为两个独立个人的爱情故事。两人经历了各自的心路旅程，莉莉最终做了变性手术。埃迪·雷德梅尼对莉莉 ...",
+          "date": "2015年12月15日",
+          "position": 11
+        },
+        {
+          "title": "2025年量化投资专题：股价预测之多模态多尺度 - 未来智库",
+          "link": "https://www.vzkoo.com/read/202501205fd901289be9b31064e13b0c.html",
+          "snippet": "1988年，第一个应用于医学影像检测的二维卷积神经网络由Wei Zhang等提出 ... 池化（Pooling）操作具有平移不变性、旋转不变性和尺度不变性，可以 ...",
+          "date": "2天前",
+          "position": 12
+        },
+        {
+          "title": "中国第一变性人，比金星手术早12年，隐瞒身份嫁香港富商 - 今日悉尼",
+          "link": "https://www.sydneytoday.com/content-1023480739803013",
+          "snippet": "本文转载自贝菈小姐，仅代表原出处和原作者观点，仅供参考阅读，不代表本网态度和立场。 说起变性人，我们往往第一个想到的人，就是金星。",
+          "date": "2023年5月4日",
+          "position": 13
+        },
+        {
+          "title": "车厘子营养满满，但食用需谨慎！ - 今日生活",
+          "link": "https://jrsh.hangzhou.com.cn/content/2025-01/18/content_8844110.html",
+          "snippet": "它富含维生素A和类黄酮，这两种化合物对于维护眼睛健康至关重要，能够有效预防夜盲症和老年性黄斑变性等眼部问题。 ... 除此之外，车厘子还有一个令人惊喜的 ...",
+          "date": "4天前",
+          "position": 14
+        },
+        {
+          "title": "众筹年会，小老板们送不出“小红花” - 虎嗅",
+          "link": "https://www.huxiu.com/article/3911957.html",
+          "snippet": "初代网红张大奕背后的公司如涵控股顺利上市，成为“网红经济第一股”。李佳琦则在这一年参加节目时，自曝月入达到七位数——这是很多普通人一辈子都赚不到的 ...",
+          "date": "5天前",
+          "position": 15
+        },
+        {
+          "title": "三个动作教你自测半月板是否受伤！ - 医院汇 - 丁香园",
+          "link": "https://y.dxy.cn/hospital/265/992107.html",
+          "snippet": "退变性半月板撕裂：年龄较大的人、长期从事体力劳动人或特定运动的人群 ... 个，间歇1 分钟。每天进行3-4 组练习，以加强下肢力量，并学会使用 ...",
+          "date": "5小时前",
+          "position": 16
+        },
+        {
+          "title": "张克莎- 抖音百科",
+          "link": "https://m.baike.com/wikiid/3064352479156319597",
+          "snippet": "张克莎，原名张克沙，1962年5月23日出生于辽宁大连，1983年1月10日做了变性手术，成为了“中国变性第一人”。",
+          "position": 17
+        },
+        {
+          "title": "〖兲朝浮世绘〗美国称中俄伊朝已经形成世界邪恶轴心中共已成了 ...",
+          "link": "https://botanwang.com/articles/202501/%E3%80%96%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98%E3%80%97%E7%BE%8E%E5%9B%BD%E7%A7%B0%E4%B8%AD%E4%BF%84%E4%BC%8A%E6%9C%9D%E5%B7%B2%E7%BB%8F%E5%BD%A2%E6%88%90%E4%B8%96%E7%95%8C%E9%82%AA%E6%81%B6%E8%BD%B4%E5%BF%83%7C%E4%B8%AD%E5%85%B1%E5%B7%B2%E6%88%90%E4%BA%86%E4%B8%96%E7%95%8C%E9%82%AA%E6%81%B6%E5%B8%AE%E6%B4%BE%E9%A2%86%E8%A2%96.html",
+          "snippet": "... 第一个 ... 李国锐被控一项公共滋扰罪，据新加坡法律，扰乱公共秩序的违法者，可面对最长三个月监禁，以及最高2000元的罚款。",
+          "date": "6天前",
+          "position": 18
+        },
+        {
+          "title": "荣昌生物全面进化 - 胶东在线",
+          "link": "http://www.jiaodong.net/news/system/2025/01/17/200805098.shtml",
+          "snippet": "第43届摩根大通医疗健康年会（JPM）上，比往年更多 ... 维迪西妥单抗（RC48）是荣昌生物踏入ADC赛道的第一个成果，也是我国首个获批上市的原创ADC药物。",
+          "date": "5天前",
+          "position": 19
+        },
+        {
+          "title": "变性女郎_搜狗百科",
+          "link": "https://baike.sogou.com/v53399834.htm",
+          "snippet": "美国电影《变性女郎》是由汤姆·霍伯执导，埃迪·雷德梅恩、艾丽西卡·维坎德等主演的剧情影片，有望在2015年下半年启动，2016年上半年登陆北美。影片讲述了一对艺术家伉俪的 ...",
+          "position": 20
+        },
+        {
+          "title": "一文搞懂企业架构与DDD融合原创 - CSDN博客",
+          "link": "https://blog.csdn.net/vincent1007/article/details/145183420",
+          "snippet": "文章浏览阅读623次，点赞9次，收藏15次。TOGAF（The Open Group Architecture Framework）是一个广泛采用的企业架构（Enterprise Architecture, EA）框架， ...",
+          "date": "6天前",
+          "position": 21
+        },
+        {
+          "title": "[PDF] 基于Transformer的放射性气溶胶子体扣除算法",
+          "link": "https://pdf.hanspub.org/nst2025131_93150326.pdf",
+          "snippet": "同年，阮灵盼和陈春花等人提出了一种基于. 堆叠式LSTM 网络的核运输 ... 实验样本共2000 个，被随机分为三个部分：70%作为训练集，用于模型训练 ...",
+          "date": "18小时前",
+          "position": 22
+        },
+        {
+          "title": "跨圈的眾聲喧嘩：不是每個跨性別者都想手術？Pass",
+          "link": "https://www.twreporter.org/a/transgender-culture-pass",
+          "snippet": "以「175 長腿辣妹」名號闖蕩世界的Vivi，在鏡頭前十分自在，隨著舞蹈動作，她的長髮飛揚。她是Voguing舞蹈教學者、心理諮商研究所的學生，也是一名未接受任何 ...",
+          "date": "2天前",
+          "position": 23
+        },
+        {
+          "title": "〖红朝浮世绘〗美国称中俄伊朝已经形成世界邪恶轴心中共已成了 ...",
+          "link": "https://www.bannedbook.org/bnews/cbnews/20250116/2142146.html",
+          "snippet": "“年轻国民的觉醒和激情让我坚信，这个国家未来充满希望”尹锡悦，是韩国宪政史上，第一个被逮捕现职总统。 ... 个月监禁，以及最高2000元的罚款。 站长 ...",
+          "date": "6天前",
+          "position": 24
+        },
+        {
+          "title": "一文读懂自动驾驶研究现状_历史上今天 - 电子工程世界",
+          "link": "https://www.eeworld.com.cn/qcdz/hisic447497.html",
+          "snippet": "... 2000 年代组织了三次竞赛。第一次名为DARPA Grand 挑战赛，于2004 年在美国莫哈维沙漠举办，要求无人驾驶的汽车在10 小时的时间限制内跑完一条沙漠 ...",
+          "date": "12小时前",
+          "position": 25
+        },
+        {
+          "title": "沒2000萬別想新北買房中永和均價超車板橋| 房產 - 非凡新聞",
+          "link": "https://news.ustv.com.tw/newsdetail/20250116A109",
+          "snippet": "... 一陣子，它可能在這一波在修正的時候，它會修正地比較快，而且比較深。」 新北第一環預售總價之王換人當，也反應出區域的推案型態正在改變。（記者 ...",
+          "date": "6天前",
+          "position": 26
+        },
+        {
+          "title": "美国研究人员如何用人工智能解读自闭症_极虎网",
+          "link": "http://www.jihuc.com/news/328535/",
+          "snippet": "... 2000年只有1%的儿童被诊断患有自闭症。 位于路易斯安那州杜兰市的 ... 很多人认为自闭症是一种谱系。塞特尔斯经常把它看作一个混音板。 “你可以 ...",
+          "date": "4小时前",
+          "position": 27
+        },
+        {
+          "title": "200年前有变性人吗？ - 春乐堂",
+          "link": "https://www.chunletang.com/4885/200%E5%B9%B4%E5%89%8D%E6%9C%89%E5%8F%98%E6%80%A7%E4%BA%BA%E5%90%97%EF%BC%9F.html",
+          "snippet": "甚至在罗马皇帝的历史中也报道了“性别变化”。最早的性别转换行动之一可能是在臭名昭着的皇帝尼禄的命令下进行的。 据称，尼禄在愤怒期间将怀孕的妻子踢在腹部，杀了她。 他 ...",
+          "position": 28
+        },
+        {
+          "title": "郑永年：“特朗普2.0版”的美国将展现出两种帝国主义 - 红歌会",
+          "link": "https://www.szhgh.com/Article/news/world/2025-01-22/368670.html",
+          "snippet": "他还进一步提出，出于美国国家安全的考虑，他可能会利用经济手段对加拿大施加压力，使加拿大成为美国的“第51州”。 1月20日，特朗普在白宫椭圆形办公室签署一 ...",
+          "date": "5小时前",
+          "position": 29
+        },
+        {
+          "title": "2024离世的演艺人员，谢芳去世前暴瘦，石班瑜死前还想见星爷一面",
+          "link": "https://yule.360.com/detail/3930540",
+          "snippet": "他们每一个人都代表了一个时代。怎能不让人怀念呢？ 郑佩佩. 娱乐圈 ... 第一次给周星驰电影配音是在1990年，当时两人合作了《赌侠》。 正是这次 ...",
+          "date": "3天前",
+          "position": 30
+        },
+        {
+          "title": "日本最美变性人走红盘点全球变性人的坎坷故事 - 东南网福清频道",
+          "link": "http://fq.fjsen.com/2015-03/17/content_15821650_all.htm",
+          "snippet": "1995年，28岁的金星成为中国大陆首位变性人。之后她收养了三个孩子，2005年2月1日，金星与德国男友汉斯成婚，从此圆满了一个真正的女人一生可能扮演的所有角色 ...",
+          "date": "2015年3月17日",
+          "position": 31
+        },
+        {
+          "title": "荣昌生物：拓展适应症、探索创新疗法，实现产品商业价值最大化",
+          "link": "http://www.jiaodong.net/news/system/2025/01/17/200805462.shtml",
+          "snippet": "会上，房博介绍了荣昌生物新推出的ADC分子RC278，这是一款具有FIC/BIC 潜力的ADC 药物，针对一种新型肿瘤抗原，通过人 ... RC88作为一款具有first-in-class潜力 ...",
+          "date": "5天前",
+          "position": 32
+        },
+        {
+          "title": "应用新型光敏蛋白，让2000万盲人有望重见光明 - 武汉大学新闻网",
+          "link": "https://news.whu.edu.cn/info/1015/66961.htm",
+          "snippet": "... 一重要突破。STTT杂志是自然出版集团在信号转导和靶向治疗领域具有国际影响力的杂志，是医学大类的一区杂志。 课题组负责人沈吟介绍，视网膜色素变性是一 ...",
+          "date": "2022年4月18日",
+          "position": 33
+        },
+        {
+          "title": "月薪5千聘港男炼毒师警起获800万可卡因 - 南洋商报",
+          "link": "https://www.enanyang.my/node/646176",
+          "snippet": "“在嫌犯代突击队到另一个地点前，警方还在盒子起获毒品加工设备。” 充公物品包括一套白色罐子、试管、“动力活性炭”粉末、碳酸氢钠、液体“变性乙醇”、热水器 ...",
+          "date": "5天前",
+          "position": 34
+        },
+        {
+          "title": "令人满意的故事 - TikTok",
+          "link": "https://www.tiktok.com/discover/%E4%BB%A4%E4%BA%BA%E6%BB%A1%E6%84%8F%E7%9A%84%E6%95%85%E4%BA%8B",
+          "snippet": "外人看他是一位称职的好父亲. 谁也没有怀疑过张老师如此之坏. 望着 ... 他们也第一次加入了一个新的内容. 刺激肛门. 大概是因为没有经验的缘故 ...",
+          "date": "6天前",
+          "position": 35
+        },
+        {
+          "title": "扫兴！特朗普意外遭主教公开训斥: 请慈悲一点！ - 国际 - 星洲日报",
+          "link": "https://www.sinchew.com.my/news/20250122/international/6238857",
+          "snippet": "（华盛顿22日法新电）美国总统特朗普周二在其展开第二任期之初，以令人 ... 民主党、共和党和独立家庭中都有同性恋和变性儿童，有些人甚至担心自己的生命安全。”.",
+          "date": "53分钟前",
+          "position": 36
+        },
+        {
+          "title": "《Cell》突破性研究推翻了“DNA环形成”的旧定律 - 生物通",
+          "link": "https://speech.ebiotrade.com/Home/Live/todayVideo/id/4269.html",
+          "snippet": "这本身就是一项令人印象深刻的成就，正如Barth解释的那样：“单个细胞包含数百万种蛋白质，而人体由数万亿个细胞组成。 ... 变性疾病等疾病中，是什么出 ...",
+          "date": "6小时前",
+          "position": 37
+        },
+        {
+          "title": "疯狂点击BackChina Network",
+          "link": "https://www.backchina.com/news/hot/",
+          "snippet": "Columbia哥伦比亚Novo 女士健步/登山鞋，原价$75.00，现仅售$41.07，免运费！ 第一个公开讽刺总统的人,川普难以置信地看着她 · 第一个公开讽刺总统 ...",
+          "position": 38
+        },
+        {
+          "title": "全球娶老婆，非常容易的8个国家，甚至有姑娘们让一个男人全挑选！",
+          "link": "https://club.6parkbbs.com/life2/index.php?app=forum&act=threadview&tid=15897314",
+          "snippet": "据了解，保加利亚是全球唯一一个能合法买卖新娘的国家。可以说，保加利亚这种婚姻制度也是全球独一份了。 四、泰国. 提起泰国，大家都脑海里人妖，变性 ...",
+          "date": "23小时前",
+          "position": 39
+        },
+        {
+          "title": "【redis】键的全局命令- morris131 - 51CTO博客",
+          "link": "https://blog.51cto.com/morris131/13156887",
+          "snippet": "cursor：游标是一个基于64位整数的字符串（在Redis的实现中通常是一个字符串形式的整数），用于指示迭代过程中的当前位置。第一次调用SCAN时，游标应该是\"0\"。",
+          "date": "1天前",
+          "position": 40
+        },
+        {
+          "title": "超脱轮回的后遗症小说免费阅读 - 起点中文",
+          "link": "https://www.qidian.com/ask/tycennjosmibp",
+          "snippet": "《大周仙吏》：穿越妖魅横生、群魔乱舞的仙侠世界，李慕开始只想苟... 1个回答2024年10月01日06:26 ... 1 大奉打更人许七安; 2 起点诸神之战在哪看战力榜; 3 起点诸神之战 ...",
+          "position": 41
+        },
+        {
+          "title": "年輕跨性別世代素描：性別認同覺察提早，在尋醫與私藥間找出路",
+          "link": "https://www.twreporter.org/a/transgender-children-and-youth-new-era",
+          "snippet": "今年22歲的唯浩，15歲時從一位健身教練處購得首支睪固酮針劑。他說，大概3、4歲時，就意識到自己是男生，當然那時他並不知道世界上有一種叫做「 ...",
+          "date": "2天前",
+          "position": 42
+        },
+        {
+          "title": "泰妹牛病了 - 西瓜视频",
+          "link": "https://m.ixigua.com/zhuanti/7462452161272825868",
+          "snippet": "中国女排vs泰国女排！李盈莹天神下凡打懵泰妹！一波流来了真硬气. 61次播放 2023-10-06 · 泰国夜生活vlog系列| 5，可爱的变性人小姐姐和可爱的. 01:16 ...",
+          "date": "19小时前",
+          "position": 43
+        },
+        {
+          "title": "性多樣醫療照護內容引討論衛福部：意在更嚴格把關未成年手術 - 中央社",
+          "link": "https://www.cna.com.tw/news/ahel/202501130257.aspx",
+          "snippet": "衛福部次長林靜儀今天告訴中央社記者，從107年起就有未成年雙性人醫療手術共同性建議原則，如今只是將原有內容與LGBT+民眾醫療照護參考指引合併。當初訂定 ...",
+          "date": "2025年1月13日",
+          "position": 44
+        },
+        {
+          "title": "儿子为感激母亲养育之恩帮她还清房贷",
+          "link": "https://test.qycz.org/a/202501/n29632095/web/",
+          "snippet": "【大纪元2025年01月21日讯】（英文大纪元记者Deborah George报导／赵孜济编译）住在德克萨斯州休斯顿的32岁的安德烈‧威廉姆斯（André Williams）给他的母亲 ...",
+          "date": "13小时前",
+          "position": 45
+        },
+        {
+          "title": "即时战略游戏《风暴崛起》开启预购新预告片公布 - 九游",
+          "link": "https://www.9game.cn/news/10791463.html",
+          "snippet": "开发商Slipgate Ironworks与发行商3D Realms宣布，即时战略游戏《风暴崛起》现已在Steam平台开启PC版游戏预购。除了开启预购，游戏还提供了一个试 ...",
+          "date": "18小时前",
+          "position": 46
+        },
+        {
+          "title": "BUK9219-55A,BUK9219-55A pdf中文资料,BUK9219-55A引脚图 ...",
+          "link": "https://datasheet.eeworld.com.cn/view/8171655.html",
+          "snippet": "01 — 24 October 2000. Product speciﬁcation. 1. Description. N-channel enhancement mode ﬁeld-effect power transistor in a plastic package using. TrenchMOS™. 1.",
+          "position": 47
+        },
+        {
+          "title": "金融业集中式数据库，达梦第一 - 禁闻网",
+          "link": "https://www.bannedbook.org/bnews/baitai/20250122/2144558.html",
+          "snippet": "达梦携手梅州客商银行打造了国内首个使用国产数据共享存储集群用于银行核心生产的成功案例，对等替换原国外数据库，实现全部核心业务的全面接管，此外，DMDSC ...",
+          "date": "9小时前",
+          "position": 48
+        },
+        {
+          "title": "视频人脸识别修复领域的通用框架SVFR及其对盲人脸修复、色彩化与 ...",
+          "link": "https://download.csdn.net/download/yanceyxin/90291956",
+          "snippet": "内容概要：本文介绍了稳定视频人脸修复（Stable Video Face Restoration, SVFR）方法，这是一个为解决一般化视频人脸修复（Generalized Video Face ...",
+          "date": "2天前",
+          "position": 49
+        },
+        {
+          "title": "洛杉矶大火烧掉美国底气/邱立本 - 南洋商报",
+          "link": "https://www.enanyang.my/node/646798",
+          "snippet": "洛杉矶的黑人女市长卡伦·巴斯也是“政治正确”的旗手，她在洛杉矶山火初始时，还跑去非洲参与加纳总统的就职典礼，匆匆回来，在机场面对记者提问时，却不发一言， ...",
+          "date": "6小时前",
+          "position": 50
+        },
+        {
+          "title": "\"华人第一人\"谢霆锋演唱会官宣,票价亲民| 加西网(温哥华门户)",
+          "link": "https://www.westca.com/News/article/sid=1067385/%E5%8D%8E%E4%BA%BA%E7%AC%AC%E4%B8%80%E4%BA%BA%E8%B0%A2%E9%9C%86%E9%94%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3%E7%A5%A8%E4%BB%B7%E4%BA%B2%E6%B0%91/lang=english.html",
+          "snippet": "1月16日，据港媒报道，暌违香港乐坛25年，谢霆锋正式官宣将于启德体育园举办个人演唱会。 自2000年在红馆举办《Viva Live 谢霆锋演唱会》后，他成为当时最 ...",
+          "date": "6天前",
+          "position": 51
+        },
+        {
+          "title": "100%清除DEI，美國防部長候選人遭民主黨參議員集體詰難 - 鉅亨號",
+          "link": "https://hao.cnyes.com/post/131869",
+          "snippet": "當民主黨參議員吉利布蘭德在皮特.赫格塞斯的確認聽證會上質疑他對軍隊中變性人的言論。她說：“你基本上是在說， ...",
+          "date": "6天前",
+          "position": 52
+        },
+        {
+          "title": "只为做个变性人转眼成为阶下囚 - 中国新闻网",
+          "link": "https://www.chinanews.com/2001-02-19/26/71179.html",
+          "snippet": "但是无奈自己却是一个男儿身。 易某讲，大概在十三四岁的时候，他从一本杂志上看到一个人做了变性手术的经历，第一次知道人可以通过手术改变自己的性别。他 ...",
+          "date": "2001年2月19日",
+          "position": 53
+        },
+        {
+          "title": "Isle of Man - Chinese translation – Linguee",
+          "link": "https://www.linguee.com/english-chinese/translation/isle+of+man.html",
+          "snippet": "... 一等郵遞或特快專遞方式從英國某個地址寄往英國 ... 第一日送達. prudential.co.uk. prudential.co.uk ... 人在過去十年曾在英國、 海峽群島或馬恩島接受任何部分 ...",
+          "position": 54
+        },
+        {
+          "title": "新加坡哪里有撒撇卖 - TikTok",
+          "link": "https://www.tiktok.com/discover/%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%93%AA%E9%87%8C%E6%9C%89%E6%92%92%E6%92%87%E5%8D%96",
+          "snippet": "原声- 潮叔·航拍广西第一人（中国人 在越南 ） - 何生《中国品牌行》越南行. 46獲讚數. 4評論. 5分享. 2803 個讚，528 則評論。來自新加坡狮城椰子 ...",
+          "date": "2025年1月13日",
+          "position": 55
+        },
+        {
+          "title": "满屏禁忌，这爆款台剧《第一次遇见花香的那刻》第2季回归 - 奈飞推荐",
+          "link": "https://www.naifeituijian.com/front/article/3781/viewArticle",
+          "snippet": "《花香2》终于回归了，还有不到一个月就要播出了！这部剧可谓是最近几年华语剧中最具代表性的百合剧了。该剧勇夺第57届金钟奖迷你剧集最佳女主角、最佳 ...",
+          "date": "13小时前",
+          "position": 56
+        },
+        {
+          "title": "创造历史！美军迎来首位变性人四星上将-观察者网",
+          "link": "https://www.guancha.cn/internation/2021_10_21_611667.shtml",
+          "snippet": "美国卫生与公众服务部部长泽维尔·贝塞拉（Xavier Becerra）在一份声明中说：“莱文上将是历史上第一位公开变性人身份的四星上将，这是美国朝着国家平等迈出的一 ...",
+          "date": "2021年10月21日",
+          "position": 57
+        },
+        {
+          "title": "小雀斑电影（读：yǐng）第一个变性人",
+          "link": "http://d7n82.depedonline.net/EnvironmentScience/7871924.html",
+          "snippet": "小雀斑演过什么电影小雀斑演过的电影？小雀斑全名：埃迪·雷德梅尼。1982年1月6日出生于伦敦，英国演员因脸上长满雀斑被中国影迷称为小雀斑。2009年至2010 ...",
+          "date": "6天前",
+          "position": 58
+        },
+        {
+          "title": "川普宣誓就任美国第47任总统！就职演讲时马斯克笑到手舞足蹈",
+          "link": "https://posts.careerengine.us/p/678f051ed0e03b66e0fac1b5?from=latest-posts-panel&type=previewimage",
+          "snippet": "他说道，“那些想要阻止我们事业的人，曾试图剥夺我的自由，甚至试图夺走我的生命。就在几个月前，在宾夕法尼亚州一片美丽的田野里，一颗刺客的子弹射穿了我的 ...",
+          "date": "1天前",
+          "position": 59
+        },
+        {
+          "title": "女子容貌的变性人被关男牢房，遭强暴2000次 - 人民网+",
+          "link": "http://m.people.cn/n4/2016/1024/c1020-7772158.html",
+          "snippet": "澳大利亚一名变性人Mary，曾因盗窃罪被判服刑四年。然而，作为变性人的她很尴尬，被关到了男牢房。 图为：Mary当时所在的监狱。她说入狱第一天，进行身体 ...",
+          "date": "2016年10月24日",
+          "position": 60
+        },
+        {
+          "title": "记者对话中国第一变性人：渴望一份真感情(图) - 新闻- 搜狐",
+          "link": "http://news.sohu.com/46/33/news208473346.shtml",
+          "snippet": "新华网大连4月14日电张克莎出生在大连，20年前，她还是个小伙子，但一场手术让她成为中国变性第一人。20年来，张克莎作为变性女人，接受了来自社会各界的 ...",
+          "date": "2003年4月14日",
+          "position": 61
+        },
+        {
+          "title": "“中国第一变性人”张克莎为86岁美国老公庆生！满桌中国菜太温馨",
+          "link": "https://td.fyun.cc/detail/aba9faf706c8b30d1d8ff152456cbc1dae1ce3fe.html",
+          "snippet": "4月7号，远在美国定居的“中国第一变性人”张克莎罕有更新视频账号，除了分享一组令人羡慕的温馨画面之外，还特地交代了当天的动态，那就是为老公过86岁生日。 “ ...",
+          "date": "2024年4月8日",
+          "position": 62
+        }
+      ],
+      "credits": 2
+    }
+  ]
+}

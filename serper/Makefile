@@ -539,3 +539,22 @@ other:
 	python serper.py "性别认同 研究" --pages 3
 	python serper.py "跨性别 访谈" --pages 3
 	python serper.py "跨性别 资源" --pages 3
+
+new:
+	python serper.py "刘婷 她重生了" --pages 3
+	python serper.py "药娘吧 历史" --pages 3
+	python serper.py "变性人 自述 故事" --pages 3
+	python serper.py "张克莎 2005" --pages 3
+	python serper.py "第一个变性人 2000" --pages 3
+	python serper.py "人妖 夜总会 2000 新闻" --pages 3
+	python serper.py "人妖 夜总会 2000 新闻" --pages 3
+
+	python serper.py "变性人 状告 医院 2006" --pages 3
+	python serper.py "变性 秦惠英" --pages 3
+	python serper.py "变性 太监" --pages 3
+	python serper.py "变性 同性恋 新闻" --pages 3
+	python serper.py "变性 同性恋 2001" --pages 3
+	python serper.py "变性 同性恋 2004" --pages 3
+	python serper.py "变性 同性恋 2005" --pages 3
+	python serper.py "变性 同性恋 2007" --pages 3
+	python serper.py "变性 秦惠英 2004" --pages 3
