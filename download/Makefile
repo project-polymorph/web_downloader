@@ -42,7 +42,15 @@ random_new:
 
 	python .github/downloader/download/download.py --output-dir .github/downloader/webpage_archive/new_all_results/20250209_res/downloads --download-type webpage --pattern ".*" --order random
 	python .github/downloader/download/download.py --output-dir .github/downloader/webpage_archive/new_all_results/20250210_res/downloads --download-type webpage --pattern ".*" --order random
+	python .github/downloader/download/download.py --output-dir .github/downloader/webpage_archive/new_all_results/20250211_res/downloads --download-type webpage --pattern ".*" --order random
+	python .github/downloader/download/download.py --output-dir .github/downloader/webpage_archive/new_all_results/20250212_res/downloads --download-type webpage --pattern ".*" --order random
+	python .github/downloader/download/download.py --output-dir .github/downloader/webpage_archive/new_all_results/20250213_res/downloads --download-type webpage --pattern ".*" --order random
+
+	python .github/downloader/download/download.py --output-dir .github/downloader/webpage_archive/new_all_results/20250214_res/downloads --download-type webpage --pattern ".*" --order random
 
 
 jina:
+	python .github/downloader/download/download.py --download-type jina --output-dir .github/downloader/webpage_archive/new_all_results/jinabatch1  --pattern ".*" --order random
+
+jina_new:
 	python .github/downloader/download/download.py --download-type jina --output-dir .github/downloader/webpage_archive/new_all_results/jinabatch1  --pattern ".*" --order random
